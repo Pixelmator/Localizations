@@ -587,6 +587,9 @@
 "Divide" = "除算";
 
 /* No comment provided by engineer. */
+"Do you want to save the changes made to the document “%@”" = "書類“%@”への変更を保存しますか？";
+
+/* No comment provided by engineer. */
 "Don't Save" = "保存しない";
 
 /* No comment provided by engineer. */
@@ -890,7 +893,7 @@
 "Hide Info Bar" = "情報バーを隠す";
 
 /* No comment provided by engineer. */
-"Hide Interface" = "インターフェイスを隠す";
+"Hide Interface" = "インターフェースを隠す";
 
 /* No comment provided by engineer. */
 "Hide Pixel Grid" = "ピクセルグリッドを隠す";
@@ -1346,7 +1349,7 @@
 "Points: %d" = "ポイント: %d";
 
 /* No comment provided by engineer. */
-"Polygon" = "ポリゴン";
+"Polygon" = "多角形";
 
 /* No comment provided by engineer. */
 "Polygonal Selection" = "多角形選択";
@@ -1380,9 +1383,6 @@
 
 /* Quit anyway button title */
 "Quit anyway" = "終了する";
-
-/* No comment provided by engineer. */
-"Quit Application" = "アプリケーションを終了";
 
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "終了すると、前回の保存以降の変更内容はすべて失われます。";
@@ -1793,7 +1793,7 @@
 "Show Info Bar" = "情報バーを表示";
 
 /* No comment provided by engineer. */
-"Show Interface" = "インターフェイスを表示";
+"Show Interface" = "インターフェースを表示";
 
 /* No comment provided by engineer. */
 "Show or hide format and style options." = "書式とスタイルオプションを表示/非表示にする。";
@@ -2021,6 +2021,9 @@
 "The document is damaged, or isn’t compatible." = "この書類は破損している、または互換性がありません。";
 
 /* No comment provided by engineer. */
+"The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF形式は、複数のレイヤーやその他の追加の書式情報をサポートしていません。これらの情報を保持するには、イメージをPixelmator Pro書類として保存します。";
+
+/* No comment provided by engineer. */
 "The “%@” document is damaged, or isn’t compatible with %@ %@." = "書類“%1$@”は破損している、または%2$@ %3$@と互換性がありません。";
 
 /* No comment provided by engineer. */
@@ -2162,6 +2165,9 @@
 "Width:" = "幅:";
 
 /* No comment provided by engineer. */
+"Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "オリジナルのJPEG/PNG/TIFFファイル、またはPixelmator Pro書類に変更を保存しますか？";
+
+/* No comment provided by engineer. */
 "Would you like to upgrade this document?" = "この書類をアップグレードしますか？";
 
 /* No comment provided by engineer. */
@@ -2177,13 +2183,13 @@
 "Yellow / Blue" = "イエロー/ブルー";
 
 /* No comment provided by engineer. */
+"You can discard the edits to keep your original file unmodified." = "編集内容を破棄して、元のファイルを変更しないようにできます。";
+
+/* No comment provided by engineer. */
 "You can download the latest version from the Mac App Store." = "Mac App Store から最新版をダウンロードできます。";
 
 /* No comment provided by engineer. */
 "You can download the latest version of %@ from the Mac App Store." = "Mac App Storeから最新版の%@をダウンロードできます。";
-
-/* No comment provided by engineer. */
-"You need a device supporting Metal to run this application." = "このアプリケーションを実行するためにはMetalをサポートするデバイスが必要です。";
 
 /* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "この書類を開くには新しいバージョンの%@が必要です。";
@@ -2199,3 +2205,6 @@
 
 /* No comment provided by engineer. */
 "Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
+
+/* No comment provided by engineer. */
+"“Pixelmator Pro” can’t be opened because your device does not support the Metal graphics technology." = "お使いのデバイスがMetalグラフィックス技術をサポートしていないため、\"Pixelmator Pro\"を開くことができません。";
