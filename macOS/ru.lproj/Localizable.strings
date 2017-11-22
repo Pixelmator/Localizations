@@ -59,7 +59,7 @@
 "9:16" = "9:16";
 
 /* No comment provided by engineer. */
-"\"%@\" Color Adjustment" = "Корректировки цвета: %@";
+"\"%@\" Color Adjustment" = "Цветокоррекция: %@";
 
 /* No comment provided by engineer. */
 "\"%@\" Effect" = "Эффект: %@";
@@ -293,13 +293,13 @@
 "Bump" = "Вздутие";
 
 /* No comment provided by engineer. */
-"Buy Pixelmator Pro on the Mac App Store to enjoy the benefits of easily downloading, redownloading, automatically updating, and editing images with Pixelmator Pro." = "Покупайте Pixelmator Pro в Mac App Store, чтобы оценить легкую загрузку, перезагрузку, автообновление и редактирование изображений с помощью этого приложения.";
+"Buy Pixelmator Pro on the Mac App Store to enjoy the benefits of easily downloading, redownloading, automatically updating, and editing images with Pixelmator Pro." = "Купите Pixelmator Pro в Mac App Store, чтобы получить легкую загрузку, автоматические обновления и продолжить редактирование изображений с Pixelmator Pro.";
 
 /* No comment provided by engineer. */
 "Calculating Size..." = "Вычисление размера...";
 
 /* Cancel button title */
-"Cancel" = "Отмена";
+"Cancel" = "Отменить";
 
 /* No comment provided by engineer. */
 "Canvas Aspect Ratio" = "Соотношение сторон холста";
@@ -374,19 +374,19 @@
 "Color" = "Цвет";
 
 /* Effects category name */
-"Color Adjustments" = "Корректировки цвета";
+"Color Adjustments" = "Цветокоррекция";
 
 /* No comment provided by engineer. */
 "Color Balance" = "Цветовой баланс";
 
 /* No comment provided by engineer. */
-"Color Burn" = "Затемн. основы";
+"Color Burn" = "Затемнение основы";
 
 /* No comment provided by engineer. */
 "Color Depth" = "Глубина цвета";
 
 /* No comment provided by engineer. */
-"Color Dodge" = "Осветл. основы";
+"Color Dodge" = "Осветление основы";
 
 /* No comment provided by engineer. */
 "Color Fill" = "Цвет заливки";
@@ -431,7 +431,7 @@
 "Constrast" = "Контрастность";
 
 /* No comment provided by engineer. */
-"Contrast" = "Контраст";
+"Contrast" = "Контрастность";
 
 /* No comment provided by engineer. */
 "Convert into Pixels" = "Конвертировать в пиксели";
@@ -515,7 +515,7 @@
 "Delete Points" = "Удалить точки";
 
 /* No comment provided by engineer. */
-"Desaturate" = "Убрать насыщ.";
+"Desaturate" = "Убрать насыщенность";
 
 /* No comment provided by engineer. */
 "Description Change" = "Изменение описания";
@@ -611,7 +611,7 @@
 "EDIT" = "ПРАВКА";
 
 /* No comment provided by engineer. */
-"Edit %@" = "Изменить %@";
+"Edit %@" = "Редактировать %@";
 
 /* No comment provided by engineer. */
 "Edit a Copy" = "Редактировать копию";
@@ -702,9 +702,6 @@
 
 /* No comment provided by engineer. */
 "Favorites" = "Избранные";
-
-/* No comment provided by engineer. */
-"Favortites" = "Избранное";
 
 /* Effects category name */
 "Fill" = "Заливка";
@@ -917,10 +914,7 @@
 "Hide Tools" = "Скрыть инструменты";
 
 /* No comment provided by engineer. */
-"Highlights" = "Светл. участки";
-
-/* No comment provided by engineer. */
-"Hightlights" = "Выделенное";
+"Highlights" = "Светлые участки";
 
 /* No comment provided by engineer. */
 "Histogram" = "Гистограмма";
@@ -1097,7 +1091,7 @@
 "Location" = "Место";
 
 /* No comment provided by engineer. */
-"Lock" = "Блокировка";
+"Lock" = "Блокировать";
 
 /* No comment provided by engineer. */
 "Luminance" = "Свечение";
@@ -1112,7 +1106,10 @@
 "Magenta / Green" = "Пурпурный / Зеленый";
 
 /* No comment provided by engineer. */
-"Magnetic Selection" = "Магнитный выбор";
+"Magnetic Select" = "Выбор магнитом";
+
+/* No comment provided by engineer. */
+"Magnetic Selection" = "Выбор магнитом";
 
 /* No comment provided by engineer. */
 "Make Editable" = "Сделать доступным для редактирования";
@@ -1136,7 +1133,7 @@
 "Merge All" = "Объединить все";
 
 /* No comment provided by engineer. */
-"Merge Brush Marks" = "Объединить мазки кисти";
+"Merge Brush Marks" = "Объединить следы кисти";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "Объединить компоненты фигуры";
@@ -1169,7 +1166,7 @@
 "Multiply" = "Умножить";
 
 /* No comment provided by engineer. */
-"New Ellipse Shape" = "Новая форма эллипса";
+"New Ellipse Shape" = "Новая фигура — эллипса";
 
 /* No comment provided by engineer. */
 "New from Clipboard" = "Новый из буфера обмена";
@@ -1178,16 +1175,16 @@
 "New Layer" = "Новый слой";
 
 /* No comment provided by engineer. */
-"New Line Shape" = "Новая фигура-линия";
+"New Line Shape" = "Новая фигура — линия";
 
 /* No comment provided by engineer. */
-"New Polygon Shape" = "Новая фигура-многоугольник";
+"New Polygon Shape" = "Новая фигура — многоугольник";
 
 /* No comment provided by engineer. */
-"New Rectangle Shape" = "Новая форма: Прямоугольник";
+"New Rectangle Shape" = "Новая фигура — прямоугольник";
 
 /* No comment provided by engineer. */
-"New Rounded Rectangle Shape" = "Новая форма: Скругленный прямоугольник";
+"New Rounded Rectangle Shape" = "Новая фигура — cкругленный прямоугольник";
 
 /* No comment provided by engineer. */
 "New Shape" = "Новая фигура";
@@ -1340,6 +1337,9 @@
 "Polygon" = "Многоугольник";
 
 /* No comment provided by engineer. */
+"Polygonal Select" = "Многоугольный выбор";
+
+/* No comment provided by engineer. */
 "Polygonal Selection" = "Многоугольное выделение";
 
 /* No comment provided by engineer. */
@@ -1365,6 +1365,9 @@
 
 /* No comment provided by engineer. */
 "Pressure" = "Давление";
+
+/* No comment provided by engineer. */
+"Quick Select" = "Быстрый выбор";
 
 /* No comment provided by engineer. */
 "Quick Selection" = "Быстрый выбор";
@@ -1424,7 +1427,7 @@
 "Refine Selection" = "Уточнить выделение";
 
 /* No comment provided by engineer. */
-"Refine Selection..." = "Обраб. выделение...";
+"Refine Selection..." = "Уточнить выделение...";
 
 /* No comment provided by engineer. */
 "Remove" = "Удалить";
@@ -1577,7 +1580,7 @@
 "Rulers" = "Линейки";
 
 /* No comment provided by engineer. */
-"Saturate" = "Насыщ.";
+"Saturate" = "Насыщенность";
 
 /* No comment provided by engineer. */
 "Saturation" = "Насыщенность";
@@ -1643,7 +1646,7 @@
 "Select" = "Выбрать";
 
 /* No comment provided by engineer. */
-"Select All" = "Выделить все";
+"Select All" = "Выбрать все";
 
 /* No comment provided by engineer. */
 "Select Color" = "Выбрать цвет";
@@ -1694,22 +1697,22 @@
 "Set the color for text" = "Задать цвет для текста";
 
 /* No comment provided by engineer. */
-"Set the gray point for the Red, Green and Blue levels" = "Уст. серую точку для красного, зелёного и синего уровней";
+"Set the gray point for the Red, Green and Blue levels" = "Установить серую точку для красного, зелёного и синего уровней";
 
 /* No comment provided by engineer. */
-"Set the Gray point for white balance" = "Уст. серую точку для баланса белого";
+"Set the Gray point for white balance" = "Установить серую точку для баланса белого";
 
 /* No comment provided by engineer. */
-"Set the gray point on the Red, Green and Blue curves" = "Уст. серую точку для красных, зелёных и синих кривых";
+"Set the gray point on the Red, Green and Blue curves" = "Установить серую точку для красных, зелёных и синих кривых";
 
 /* No comment provided by engineer. */
 "Set the monochrome color" = "Задать монохромный цвет";
 
 /* No comment provided by engineer. */
-"Set the white point for the Red, Green and Blue levels" = "Уст. белую точку для красного, зелёного и синего уровней";
+"Set the white point for the Red, Green and Blue levels" = "Установить белую точку для красного, зелёного и синего уровней";
 
 /* No comment provided by engineer. */
-"Set the white point on the Red, Green and Blue curves" = "Уст. белую точку для красных, зелёных и синих кривых";
+"Set the white point on the Red, Green and Blue curves" = "Установить белую точку для красных, зелёных и синих кривых";
 
 /* No comment provided by engineer. */
 "Shadow" = "Тень";
@@ -2036,7 +2039,7 @@
 "Tint" = "Тон";
 
 /* No comment provided by engineer. */
-"to" = "до";
+"to" = "на";
 
 /* No comment provided by engineer. */
 "Tolerance: %@" = "Допуск: %@";
@@ -2074,7 +2077,7 @@
 /* No comment provided by engineer. */
 "Twirl" = "Закручивание";
 
-/* meaning is Text in curent context */
+/* Meaning is the Text tool in current context. */
 "Type" = "Текст";
 
 /* No comment provided by engineer. */
@@ -2138,7 +2141,7 @@
 "Vortex" = "Вихрь";
 
 /* No comment provided by engineer. */
-"w: %@ h: %@" = "шир.: %1$@ выс.: %2$@";
+"w: %@ h: %@" = "ш: %1$@ в: %2$@";
 
 /* No comment provided by engineer. */
 "Warp" = "Искажение";
@@ -2189,7 +2192,7 @@
 "You need a newer version to open this document." = "Вам нужна более новая версия, чтобы открыть этот документ.";
 
 /* No comment provided by engineer. */
-"Your trial period has now expired." = "Теперь ваш испытательный срок истек.";
+"Your trial period has now expired." = "Ваш испытательный срок истек.";
 
 /* No comment provided by engineer. */
 "Zoom" = "Масштаб";
