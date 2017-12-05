@@ -19,11 +19,20 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the object height."; ObjectID = "3G5-8E-eUg"; */
 "3G5-8E-eUg.ibShadowedToolTip" = "Задайте высоту объекта.";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "Create a shape from the intersection of the shape you draw and the currently selected shape."; ObjectID = "4sm-Xd-abn"; */
+"4sm-Xd-abn.ibShadowedToolTip" = "Создать фигуру из пересечения выбранной фигуры и фигуры, которую вы рисуете.";
+
 /* Class = "NSMenuItem"; title = "Pixels"; ObjectID = "7cp-Zd-SWr"; */
 "7cp-Zd-SWr.title" = "Пиксели";
 
+/* Class = "NSTextFieldCell"; title = "Intersect"; ObjectID = "93e-U6-c6e"; */
+"93e-U6-c6e.title" = "Пересечение";
+
 /* Class = "NSTextFieldCell"; title = "W:"; ObjectID = "9Xq-Ko-2hA"; */
 "9Xq-Ko-2hA.title" = "Ш:";
+
+/* Class = "NSTextFieldCell"; title = "Unite"; ObjectID = "BtC-6b-YNt"; */
+"BtC-6b-YNt.title" = "Слить";
 
 /* Class = "NSMenuItem"; title = "Send Backwards"; ObjectID = "Btc-gw-kYd"; */
 "Btc-gw-kYd.title" = "Назад";
@@ -76,6 +85,9 @@
 /* Class = "NSButtonCell"; title = "Backward"; ObjectID = "OB5-yi-i3b"; */
 "OB5-yi-i3b.title" = "Назад";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "Remove any overlapping areas between the shape you draw and the currently selected shape."; ObjectID = "OBf-Sz-5aT"; */
+"OBf-Sz-5aT.ibShadowedToolTip" = "Удалить все пересекающиеся области между выбранной фигурой и фигурой, которую вы рисуете.";
+
 /* Class = "NSButtonCell"; title = "Constrain proportions"; ObjectID = "OJ5-e3-cYm"; */
 "OJ5-e3-cYm.title" = "Соблюдать пропорции";
 
@@ -87,6 +99,9 @@
 
 /* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their right edges."; ObjectID = "SJk-XO-zMZ"; */
 "SJk-XO-zMZ.ibShadowedToolTip" = "Равномерно распределите выбранные объекты в соответствии с их правыми краями.";
+
+/* Class = "NSTextFieldCell"; title = "Exclude"; ObjectID = "TN3-BD-xiq"; */
+"TN3-BD-xiq.title" = "Исключить";
 
 /* Class = "NSMenuItem"; title = "Flip Horizontally"; ObjectID = "V1a-td-cTd"; */
 "V1a-td-cTd.title" = "Перевернуть горизонтально";
@@ -124,8 +139,23 @@
 /* Class = "NSMenuItem"; title = "Rotate 180°"; ObjectID = "anc-VZ-zcz"; */
 "anc-VZ-zcz.title" = "Повернуть на 180°";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "Subtract the shape from the currently selected shape."; ObjectID = "au1-zm-BJX"; */
+"au1-zm-BJX.ibShadowedToolTip" = "Удалить фигуру из выделенной фигуры.";
+
 /* Class = "NSMenuItem"; title = "Millimeters"; ObjectID = "bhQ-IR-arc"; */
 "bhQ-IR-arc.title" = "Миллиметры";
+
+/* Class = "NSSegmentedCell"; c82-Mt-0Th.ibShadowedToolTips[0] = "Add the shape to the currently selected shape."; ObjectID = "c82-Mt-0Th"; */
+"c82-Mt-0Th.ibShadowedToolTips[0]" = "Добавить фигуру к выделенной фигуре.";
+
+/* Class = "NSSegmentedCell"; c82-Mt-0Th.ibShadowedToolTips[1] = "Subtract the shape from the currently selected shape."; ObjectID = "c82-Mt-0Th"; */
+"c82-Mt-0Th.ibShadowedToolTips[1]" = "Удалить фигуру из выделенной фигуры.";
+
+/* Class = "NSSegmentedCell"; c82-Mt-0Th.ibShadowedToolTips[2] = "Create a shape from the intersection of the shape you draw and the currently selected shape."; ObjectID = "c82-Mt-0Th"; */
+"c82-Mt-0Th.ibShadowedToolTips[2]" = "Создать фигуру из пересечения выбранной фигуры и фигуры, которую вы рисуете.";
+
+/* Class = "NSSegmentedCell"; c82-Mt-0Th.ibShadowedToolTips[3] = "Remove any overlapping areas between the shape you draw and the currently selected shape."; ObjectID = "c82-Mt-0Th"; */
+"c82-Mt-0Th.ibShadowedToolTips[3]" = "Удалить все пересекающиеся области между выбранной фигурой и фигурой, которую вы рисуете.";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Align the horizontal centers of your selected objects."; ObjectID = "cEB-Rh-8fT"; */
 "cEB-Rh-8fT.ibShadowedToolTip" = "Выровняйте центры выбранных объектов по горизонтали.";
@@ -199,6 +229,9 @@
 /* Class = "NSTextFieldCell"; title = "Corner Radius"; ObjectID = "nhw-rV-GbO"; */
 "nhw-rV-GbO.title" = "Радиус угла";
 
+/* Class = "NSTextFieldCell"; title = "Subtract"; ObjectID = "ntl-Rm-WKB"; */
+"ntl-Rm-WKB.title" = "Вычесть";
+
 /* Class = "NSTextFieldCell"; title = "45.0°"; ObjectID = "oAf-0f-BN4"; */
 "oAf-0f-BN4.title" = "45,0°";
 
@@ -258,6 +291,9 @@
 
 /* Class = "NSButtonCell"; title = "Group"; ObjectID = "waR-3P-xXg"; */
 "waR-3P-xXg.title" = "Сгруппировать";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "x20-5l-daR"; */
+"x20-5l-daR.ibShadowedToolTip" = "Добавить фигуру к выделенной фигуре.";
 
 /* Class = "NSMenuItem"; title = "Millimeters"; ObjectID = "xHf-XB-u8g"; */
 "xHf-XB-u8g.title" = "Миллиметры";
