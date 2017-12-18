@@ -17,6 +17,9 @@
 "%@ Trial" = "Essai de %@";
 
 /* No comment provided by engineer. */
+"%@-bits per channel" = "%@-bits par couche";
+
+/* No comment provided by engineer. */
 "%@mm" = "%@ mm";
 
 /* No comment provided by engineer. */
@@ -92,7 +95,7 @@
 "Add Effects" = "Ajouter des effets";
 
 /* No comment provided by engineer. */
-"Add Guide" = "Add Guide";
+"Add Guide" = "Ajouter un repère";
 
 /* No comment provided by engineer. */
 "Add Image to %@" = "Ajouter une image à %@";
@@ -228,9 +231,6 @@
 
 /* No comment provided by engineer. */
 "Bias" = "Polarisation";
-
-/* No comment provided by engineer. */
-"bits per channel" = "bits par couche";
 
 /* No comment provided by engineer. */
 "Bits per channel" = "Bits par couche";
@@ -386,7 +386,7 @@
 "Color" = "Couleur";
 
 /* No comment provided by engineer. */
-"Color Adjustment" = "Color Adjustment";
+"Color Adjustment" = "Réglage des couleurs";
 
 /* Effects category name */
 "Color Adjustments" = "Régl. couleurs";
@@ -455,6 +455,9 @@
 "Copy" = "Copier";
 
 /* No comment provided by engineer. */
+"Copy and Paste as Layer" = "Copier et coller en tant que calque";
+
+/* No comment provided by engineer. */
 "Copy Mask" = "Copier le masque";
 
 /* No comment provided by engineer. */
@@ -471,6 +474,9 @@
 
 /* No comment provided by engineer. */
 "Crop" = "Recadrer";
+
+/* No comment provided by engineer. */
+"Crop..." = "Rogner…";
 
 /* No comment provided by engineer. */
 "Cursor Position" = "Position du curseur";
@@ -491,7 +497,7 @@
 "Cut" = "Couper";
 
 /* No comment provided by engineer. */
-"Cut and Paste as Layer" = "Cut and Paste as Layer";
+"Cut and Paste as Layer" = "Couper et coller en tant que calque";
 
 /* No comment provided by engineer. */
 "Cyan / Red" = "Cyan / rouge";
@@ -632,7 +638,7 @@
 "Edit a Copy" = "Modifier une copie";
 
 /* No comment provided by engineer. */
-"Effect" = "Effect";
+"Effect" = "Effet";
 
 /* No comment provided by engineer. */
 "Effects" = "Effets";
@@ -701,7 +707,7 @@
 "Exposure" = "Exposition";
 
 /* No comment provided by engineer. */
-"Faces" = "Faces";
+"Faces" = "Visages";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1040,10 +1046,10 @@
 "Layer Menu" = "Menu des calques";
 
 /* No comment provided by engineer. */
-"Layer Style" = "Layer Style";
+"Layer Style" = "Style de calque";
 
 /* No comment provided by engineer. */
-"Layer Styles" = "Layer Styles";
+"Layer Styles" = "Styles de calque";
 
 /* No comment provided by engineer. */
 "Learn more" = "En savoir plus";
@@ -1178,7 +1184,7 @@
 "Move" = "Déplacer";
 
 /* No comment provided by engineer. */
-"Move Guide" = "Move Guide";
+"Move Guide" = "Déplacer le repère";
 
 /* No comment provided by engineer. */
 "Move Mask" = "Déplacer le masque";
@@ -1388,6 +1394,9 @@
 "Pressure" = "Pression";
 
 /* No comment provided by engineer. */
+"Preview" = "Aperçu";
+
+/* No comment provided by engineer. */
 "Quick Select" = "Sélection rapide";
 
 /* No comment provided by engineer. */
@@ -1469,7 +1478,7 @@
 "Remove From Favorites" = "Supprimer des favoris";
 
 /* No comment provided by engineer. */
-"Remove Guide" = "Remove Guide";
+"Remove Guide" = "Supprimer le repère";
 
 /* No comment provided by engineer. */
 "Remove Layer" = "Supprimer le calque";
@@ -1814,7 +1823,7 @@
 "Show Info" = "Afficher les informations";
 
 /* No comment provided by engineer. */
-"Show Info Bar" = "Afficher barre d’information";
+"Show Info Bar" = "Afficher la barre d'information";
 
 /* No comment provided by engineer. */
 "Show Interface" = "Afficher l'interface";
@@ -2033,7 +2042,7 @@
 "Textures" = "Textures";
 
 /* No comment provided by engineer. */
-"The document couldn’t be opened." = "The document couldn’t be opened.";
+"The document couldn’t be opened." = "Le document n’a pas pu être ouvert.";
 
 /* No comment provided by engineer. */
 "The document is damaged, or isn’t compatible with %@ %@." = "Le document est endommagé, ou n’est pas compatible avec %1$@ %2$@.";
@@ -2045,7 +2054,7 @@
 "The document is damaged, or isn’t compatible." = "Le document est endommagé, ou n’est pas compatible.";
 
 /* No comment provided by engineer. */
-"The document “%@” couldn’t be opened." = "The document “%@” couldn’t be opened.";
+"The document “%@” couldn’t be opened." = "Le document « %@ » n’a pas pu être ouvert.";
 
 /* No comment provided by engineer. */
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "Le format JPEG/PNG/TIFF n'est pas capable de supporter plusieurs calques et les autres données de mise en forme supplémentaire. Si vous souhaitez conserver ces données, enregistrez l’image sous la forme d'un document Pixelmator Pro.";
@@ -2210,7 +2219,7 @@
 "y:" = "y :";
 
 /* No comment provided by engineer. */
-"Years" = "Years";
+"Years" = "Années";
 
 /* No comment provided by engineer. */
 "Yellow / Blue" = "Jaune / bleu";
