@@ -1,3 +1,9 @@
+/* crop aspect ratio */
+"%.2f:%0.2f" = "%1$.2f:%2$.2f";
+
+/* crop aspect ratio */
+"%.2f:%d" = "%1$.2f:%2$d";
+
 /* No comment provided by engineer. */
 "%@ Adjustment" = "%@ 조정";
 
@@ -21,6 +27,12 @@
 
 /* No comment provided by engineer. */
 "%@mm" = "%@mm";
+
+/* crop aspect ratio */
+"%d:%0.2f" = "%1$d:%2$.2f";
+
+/* crop aspect ratio */
+"%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
 "%i°" = "%i°";
@@ -178,6 +190,9 @@
 /* No comment provided by engineer. */
 "Arrow from Point" = "포인트에서의 화살표";
 
+/* Aspect Ratio */
+"Aspect" = "Aspect";
+
 /* No comment provided by engineer. */
 "Assign Profile" = "프로필 할당";
 
@@ -240,9 +255,6 @@
 
 /* No comment provided by engineer. */
 "Black Point" = "검정 포인트";
-
-/* No comment provided by engineer. */
-"Blending Changed" = "변경된 혼합";
 
 /* No comment provided by engineer. */
 "Blending mode" = "혼합 모드";
@@ -321,6 +333,9 @@
 
 /* No comment provided by engineer. */
 "Center" = "가운데";
+
+/* No comment provided by engineer. */
+"Change Blending Mode" = "Change Blending Mode";
 
 /* No comment provided by engineer. */
 "Change Shape" = "도형 변경";
@@ -474,6 +489,12 @@
 
 /* No comment provided by engineer. */
 "Crop" = "자르기";
+
+/* No comment provided by engineer. */
+"Crop Preset" = "Crop Preset";
+
+/* No comment provided by engineer. */
+"Crop Presets" = "Crop Presets";
 
 /* No comment provided by engineer. */
 "Crop..." = "자르기...";
@@ -705,6 +726,9 @@
 
 /* No comment provided by engineer. */
 "Exposure" = "노출";
+
+/* No comment provided by engineer. */
+"Extent" = "Extent";
 
 /* No comment provided by engineer. */
 "Faces" = "얼굴";
@@ -1485,6 +1509,9 @@
 
 /* No comment provided by engineer. */
 "Remove Mask" = "마스크 제거";
+
+/* No comment provided by engineer. */
+"Remove Path" = "Remove Path";
 
 /* No comment provided by engineer. */
 "Remove Point" = "포인트 제거";
