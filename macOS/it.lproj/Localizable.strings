@@ -1,3 +1,9 @@
+/* crop aspect ratio */
+"%.2f:%0.2f" = "%1$.2f:%2$.2f";
+
+/* crop aspect ratio */
+"%.2f:%d" = "%1$.2f:%2$d";
+
 /* No comment provided by engineer. */
 "%@ Adjustment" = "Regolazione %@";
 
@@ -21,6 +27,12 @@
 
 /* No comment provided by engineer. */
 "%@mm" = "%@mm";
+
+/* crop aspect ratio */
+"%d:%0.2f" = "%1$d:%2$.2f";
+
+/* crop aspect ratio */
+"%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
 "%i°" = "%i°";
@@ -178,6 +190,9 @@
 /* No comment provided by engineer. */
 "Arrow from Point" = "Freccia dal punto";
 
+/* Aspect Ratio */
+"Aspect" = "Aspect";
+
 /* No comment provided by engineer. */
 "Assign Profile" = "Assegna profilo";
 
@@ -240,9 +255,6 @@
 
 /* No comment provided by engineer. */
 "Black Point" = "Punto di nero";
-
-/* No comment provided by engineer. */
-"Blending Changed" = "Fusione modificata";
 
 /* No comment provided by engineer. */
 "Blending mode" = "Metodo di fusione";
@@ -321,6 +333,9 @@
 
 /* No comment provided by engineer. */
 "Center" = "Al centro";
+
+/* No comment provided by engineer. */
+"Change Blending Mode" = "Change Blending Mode";
 
 /* No comment provided by engineer. */
 "Change Shape" = "Cambia forma";
@@ -474,6 +489,12 @@
 
 /* No comment provided by engineer. */
 "Crop" = "Ritaglia";
+
+/* No comment provided by engineer. */
+"Crop Preset" = "Crop Preset";
+
+/* No comment provided by engineer. */
+"Crop Presets" = "Crop Presets";
 
 /* No comment provided by engineer. */
 "Crop..." = "Ritaglia…";
@@ -705,6 +726,9 @@
 
 /* No comment provided by engineer. */
 "Exposure" = "Esposizione";
+
+/* No comment provided by engineer. */
+"Extent" = "Extent";
 
 /* No comment provided by engineer. */
 "Faces" = "Volti";
@@ -1485,6 +1509,9 @@
 
 /* No comment provided by engineer. */
 "Remove Mask" = "Rimuovi maschera";
+
+/* No comment provided by engineer. */
+"Remove Path" = "Remove Path";
 
 /* No comment provided by engineer. */
 "Remove Point" = "Rimuovi punto";
