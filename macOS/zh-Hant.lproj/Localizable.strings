@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "%@ layers" = "%@ 圖層";
 
-/* No comment provided by engineer. */
-"%@ px" = "%@ 像素";
-
 /* Exposure time in seconds */
 "%@ s" = "%@ 秒";
 
@@ -27,6 +24,9 @@
 
 /* No comment provided by engineer. */
 "%@mm" = "%@ 公釐";
+
+/* No comment provided by engineer. */
+"%d files already exists. Do you want to replace them?" = "%d files already exists. Do you want to replace them?";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -86,6 +86,9 @@
 "\"%@\" Effect" = "\"%@\" 效果";
 
 /* No comment provided by engineer. */
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents.";
+
+/* No comment provided by engineer. */
 "Accumulation" = "累積";
 
 /* No comment provided by engineer. */
@@ -95,9 +98,6 @@
 "Add %@" = "添加 %@";
 
 /* No comment provided by engineer. */
-"Add %@ Adjustment" = "添加 %@ 調整";
-
-/* No comment provided by engineer. */
 "Add a Description" = "添加描述";
 
 /* No comment provided by engineer. */
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "Add Effects" = "添加效果";
+
+/* No comment provided by engineer. */
+"Add for Export..." = "Add for Export...";
 
 /* No comment provided by engineer. */
 "Add Guide" = "添加參考線";
@@ -120,6 +123,12 @@
 
 /* No comment provided by engineer. */
 "Add Point" = "添加點";
+
+/* No comment provided by engineer. */
+"Add Slice" = "Add Slice";
+
+/* No comment provided by engineer. */
+"Add Slices" = "Add Slices";
 
 /* No comment provided by engineer. */
 "Add to Shape" = "添加到形狀";
@@ -197,13 +206,22 @@
 "Assign Profile" = "指定色彩描述";
 
 /* No comment provided by engineer. */
+"AUTO" = "AUTO";
+
+/* No comment provided by engineer. */
 "Auto" = "自動";
+
+/* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
+"Auto %@" = "Auto %@";
 
 /* No comment provided by engineer. */
 "Auto Color" = "自動顏色";
 
 /* No comment provided by engineer. */
 "Auto Contrast" = "自動對比度";
+
+/* No comment provided by engineer. */
+"Auto Enhance" = "Auto Enhance";
 
 /* No comment provided by engineer. */
 "Auto Rotate Image" = "自動旋轉圖像";
@@ -293,7 +311,13 @@
 "Bring %@ to Front" = "使 %@ 移到最前";
 
 /* No comment provided by engineer. */
+"Bring Backward" = "Bring Backward";
+
+/* No comment provided by engineer. */
 "Bring Forward" = "向前移動";
+
+/* No comment provided by engineer. */
+"Bring to Back" = "Bring to Back";
 
 /* No comment provided by engineer. */
 "Bring to Front" = "移到最前";
@@ -333,6 +357,9 @@
 
 /* No comment provided by engineer. */
 "Center" = "中央";
+
+/* No comment provided by engineer. */
+"Centimeters" = "公分";
 
 /* No comment provided by engineer. */
 "Change Blending Mode" = "更改混合模式";
@@ -378,6 +405,15 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "清除所選項目";
+
+/* No comment provided by engineer. */
+"Clear Slices" = "Clear Slices";
+
+/* No comment provided by engineer. */
+"Click to automatically straighten the image." = "Click to automatically straighten the image.";
+
+/* No comment provided by engineer. */
+"Click to pick a color from your image." = "按一下以從圖像中選取顏色。";
 
 /* No comment provided by engineer. */
 "Clone" = "克隆";
@@ -497,6 +533,9 @@
 "Crop Presets" = "裁剪預設";
 
 /* No comment provided by engineer. */
+"Crop Tool" = "Crop Tool";
+
+/* No comment provided by engineer. */
 "Crop..." = "裁切...";
 
 /* No comment provided by engineer. */
@@ -555,6 +594,12 @@
 
 /* No comment provided by engineer. */
 "Delete Points" = "刪除點";
+
+/* No comment provided by engineer. */
+"Delete Slice" = "Delete Slice";
+
+/* No comment provided by engineer. */
+"Delete Slices" = "Delete Slices";
 
 /* No comment provided by engineer. */
 "Desaturate" = "去色";
@@ -626,6 +671,9 @@
 "Do you want to save the changes made to the document “%@”" = "您要儲存對檔案“%@”所作的更動嗎”";
 
 /* No comment provided by engineer. */
+"Document Quick Save for Web" = "Document Quick Save for Web";
+
+/* No comment provided by engineer. */
 "Don't Save" = "不儲存";
 
 /* No comment provided by engineer. */
@@ -638,7 +686,13 @@
 "Draw" = "繪製";
 
 /* No comment provided by engineer. */
+"Draw Path" = "Draw Path";
+
+/* No comment provided by engineer. */
 "Draw Shape" = "繪製形狀";
+
+/* No comment provided by engineer. */
+"Draw Slice" = "Draw Slice";
 
 /* No comment provided by engineer. */
 "Droste" = "德羅斯特效應";
@@ -657,6 +711,9 @@
 
 /* No comment provided by engineer. */
 "Edit a Copy" = "編輯拷貝";
+
+/* No comment provided by engineer. */
+"Edit Slice" = "Edit Slice";
 
 /* No comment provided by engineer. */
 "Effect" = "效果";
@@ -713,7 +770,16 @@
 "Export" = "匯出";
 
 /* No comment provided by engineer. */
+"Export All..." = "匯出所有...";
+
+/* No comment provided by engineer. */
 "Export As:" = "匯出為：";
+
+/* No comment provided by engineer. */
+"Export Document as Images" = "Export Document as Images";
+
+/* No comment provided by engineer. */
+"Export for Web" = "Export for Web";
 
 /* No comment provided by engineer. */
 "Export Library" = "匯出庫";
@@ -722,7 +788,25 @@
 "export mask as png" = "匯出遮罩為 png";
 
 /* No comment provided by engineer. */
+"Export Slice \"%@\"" = "Export Slice \"%@\"";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"..." = "Export Slice \"%@\"...";
+
+/* No comment provided by engineer. */
+"Export Slice..." = "Export Slice...";
+
+/* No comment provided by engineer. */
+"Export Slices as Images" = "Export Slices as Images";
+
+/* No comment provided by engineer. */
+"Export..." = "匯出...";
+
+/* No comment provided by engineer. */
 "Exporting Document" = "匯出檔案";
+
+/* No comment provided by engineer. */
+"Exporting..." = "Exporting...";
 
 /* No comment provided by engineer. */
 "Exposure" = "曝光";
@@ -742,6 +826,15 @@
 /* No comment provided by engineer. */
 "Failed parsing layers data." = "分析圖層資料失敗。";
 
+/* No comment provided by engineer. */
+"Failed to export document images." = "Failed to export document images.";
+
+/* No comment provided by engineer. */
+"Failed to export slice \"%@\"." = "Failed to export slice \"%@\".";
+
+/* No comment provided by engineer. */
+"Failed to export slices." = "Failed to export slices.";
+
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "未能獲取一個或多個擴充功能屬性值";
 
@@ -753,6 +846,9 @@
 
 /* No comment provided by engineer. */
 "Favorites" = "最愛";
+
+/* No comment provided by engineer. */
+"Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents.";
 
 /* Effects category name */
 "Fill" = "填充";
@@ -851,6 +947,9 @@
 "Gradient" = "漸層";
 
 /* No comment provided by engineer. */
+"Gradient Angle" = "Gradient Angle";
+
+/* No comment provided by engineer. */
 "Gradient Fill" = "漸變填充";
 
 /* No comment provided by engineer. */
@@ -888,6 +987,9 @@
 
 /* No comment provided by engineer. */
 "Group" = "群組";
+
+/* No comment provided by engineer. */
+"Guide Menu" = "Guide Menu";
 
 /* Effects category name */
 "Halftone" = "中間色";
@@ -938,6 +1040,9 @@
 "Hide Interface" = "隱藏介面";
 
 /* No comment provided by engineer. */
+"Hide Optimized Preview" = "Hide Optimized Preview";
+
+/* No comment provided by engineer. */
 "Hide Pixel Grid" = "隱藏像素網格";
 
 /* No comment provided by engineer. */
@@ -963,6 +1068,9 @@
 
 /* No comment provided by engineer. */
 "Hide Tools" = "隱藏工具";
+
+/* Quality */
+"High" = "High";
 
 /* No comment provided by engineer. */
 "Highlights" = "突出";
@@ -998,6 +1106,9 @@
 "Image Fill" = "圖像填充";
 
 /* No comment provided by engineer. */
+"Image Settings" = "Image Settings";
+
+/* No comment provided by engineer. */
 "Image Size" = "影像大小";
 
 /* No comment provided by engineer. */
@@ -1008,6 +1119,9 @@
 
 /* short for inches */
 "in" = "英吋";
+
+/* No comment provided by engineer. */
+"Inches" = "英吋";
 
 /* No comment provided by engineer. */
 "Initial Direction" = "初始方向";
@@ -1141,6 +1255,9 @@
 /* No comment provided by engineer. */
 "Lock" = "鎖定";
 
+/* Quality */
+"Low" = "Low";
+
 /* No comment provided by engineer. */
 "Luminance" = "亮度";
 
@@ -1174,6 +1291,9 @@
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "最大壓力大小";
 
+/* Quality */
+"Medium" = "中";
+
 /* No comment provided by engineer. */
 "Merge" = "合併";
 
@@ -1188,6 +1308,9 @@
 
 /* No comment provided by engineer. */
 "Midtones" = "中間調";
+
+/* No comment provided by engineer. */
+"Millimeters" = "公釐";
 
 /* No comment provided by engineer. */
 "Minimum Opacity" = "最小不透明度";
@@ -1215,6 +1338,15 @@
 
 /* No comment provided by engineer. */
 "Move Point" = "移動點";
+
+/* No comment provided by engineer. */
+"Move Slice" = "Move Slice";
+
+/* No comment provided by engineer. */
+"Move Slices" = "Move Slices";
+
+/* No comment provided by engineer. */
+"Multiple formats" = "Multiple formats";
 
 /* No comment provided by engineer. */
 "Multiply" = "疊加";
@@ -1355,6 +1487,9 @@
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
+"Percent" = "百分比";
+
+/* No comment provided by engineer. */
 "Percentage" = "百分比";
 
 /* No comment provided by engineer. */
@@ -1377,6 +1512,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixels" = "像素";
 
 /* No comment provided by engineer. */
 "PNG" = "PNG";
@@ -1419,6 +1557,15 @@
 
 /* No comment provided by engineer. */
 "Preview" = "預覽";
+
+/* No comment provided by engineer. */
+"Promote to Slice" = "Promote to Slice";
+
+/* No comment provided by engineer. */
+"Quality" = "Quality";
+
+/* No comment provided by engineer. */
+"Quick Export" = "Quick Export";
 
 /* No comment provided by engineer. */
 "Quick Select" = "快速選取";
@@ -1487,9 +1634,6 @@
 "Remove %@" = "移除 %@";
 
 /* No comment provided by engineer. */
-"Remove %@ Adjustment" = "移除 %@ 調整";
-
-/* No comment provided by engineer. */
 "Remove Adjustment" = "移除調整";
 
 /* No comment provided by engineer. */
@@ -1535,6 +1679,12 @@
 "Repairing..." = "正在修復...";
 
 /* No comment provided by engineer. */
+"Replace" = "Replace";
+
+/* No comment provided by engineer. */
+"Replace All" = "Replace All";
+
+/* No comment provided by engineer. */
 "Replace Color" = "替換顏色";
 
 /* No comment provided by engineer. */
@@ -1548,9 +1698,6 @@
 
 /* No comment provided by engineer. */
 "Reset %@" = "重置 %@";
-
-/* No comment provided by engineer. */
-"Reset %@ Adjustment" = "重置 %@ 調整";
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "重置調整";
@@ -1574,10 +1721,16 @@
 "Reset Styles" = "重置樣式";
 
 /* No comment provided by engineer. */
+"Reset the rotation of the image." = "Reset the rotation of the image.";
+
+/* No comment provided by engineer. */
 "Resize" = "調整大小";
 
 /* No comment provided by engineer. */
 "Resize Canvas" = "調整畫布大小";
+
+/* No comment provided by engineer. */
+"Resize Slices" = "Resize Slices";
 
 /* No comment provided by engineer. */
 "Restore" = "回復";
@@ -1712,6 +1865,9 @@
 "Select Color" = "選取顏色";
 
 /* No comment provided by engineer. */
+"Select Color Range" = "Select Color Range";
+
+/* No comment provided by engineer. */
 "Select Column" = "選取列";
 
 /* No comment provided by engineer. */
@@ -1802,6 +1958,9 @@
 "Shapes" = "形狀";
 
 /* No comment provided by engineer. */
+"Share" = "共享";
+
+/* No comment provided by engineer. */
 "Shared" = "共享的";
 
 /* No comment provided by engineer. */
@@ -1854,6 +2013,9 @@
 
 /* No comment provided by engineer. */
 "Show Interface" = "顯示介面";
+
+/* No comment provided by engineer. */
+"Show Optimized Preview" = "Show Optimized Preview";
 
 /* No comment provided by engineer. */
 "Show or hide format and style options." = "顯示或隱藏格式和樣式選項。";
@@ -1922,6 +2084,18 @@
 "Skew" = "斜";
 
 /* No comment provided by engineer. */
+"Slice" = "Slice";
+
+/* No comment provided by engineer. */
+"Slice Formats" = "Slice Formats";
+
+/* No comment provided by engineer. */
+"Slice Menu" = "Slice Menu";
+
+/* No comment provided by engineer. */
+"Slice Tool" = "Slice Tool";
+
+/* No comment provided by engineer. */
 "Smart Albums" = "智慧相冊";
 
 /* No comment provided by engineer. */
@@ -1977,6 +2151,9 @@
 
 /* No comment provided by engineer. */
 "Star" = "星";
+
+/* No comment provided by engineer. */
+"Start Drawing" = "Start Drawing";
 
 /* No comment provided by engineer. */
 "Start Point" = "起點";
@@ -2105,6 +2282,9 @@
 "Tilt Maximum Size" = "傾斜最大大小";
 
 /* No comment provided by engineer. */
+"Tilt Scatter" = "Tilt Scatter";
+
+/* No comment provided by engineer. */
 "Tilt Shift" = "傾斜移位";
 
 /* No comment provided by engineer. */
@@ -2121,6 +2301,9 @@
 
 /* No comment provided by engineer. */
 "Tone" = "調";
+
+/* No comment provided by engineer. */
+"Tools" = "工具";
 
 /* No comment provided by engineer. */
 "Torus Lens" = "圓環透鏡";
@@ -2204,6 +2387,9 @@
 "Vibrance" = "自然飽和度";
 
 /* No comment provided by engineer. */
+"View" = "檢視";
+
+/* No comment provided by engineer. */
 "Vignette" = "暈邊";
 
 /* No comment provided by engineer. */
@@ -2277,6 +2463,9 @@
 
 /* No comment provided by engineer. */
 "Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
+
+/* No comment provided by engineer. */
+"“%@” already exists. Do you want to replace it?" = "“%@” already exists. Do you want to replace it?";
 
 /* No comment provided by engineer. */
 "“Pixelmator Pro” can’t be opened because your device does not support the Metal graphics technology." = "無法打開「Pixelmator Pro」，因為您的設備不支援 Metal 圖形技術。";
