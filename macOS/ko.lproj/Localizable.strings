@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "%@ layers" = "%@개의 레이어";
 
-/* No comment provided by engineer. */
-"%@ px" = "%@ px";
-
 /* Exposure time in seconds */
 "%@ s" = "%@초";
 
@@ -27,6 +24,9 @@
 
 /* No comment provided by engineer. */
 "%@mm" = "%@mm";
+
+/* No comment provided by engineer. */
+"%d files already exists. Do you want to replace them?" = "%d files already exists. Do you want to replace them?";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -86,6 +86,9 @@
 "\"%@\" Effect" = "\"%@\" 효과";
 
 /* No comment provided by engineer. */
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents.";
+
+/* No comment provided by engineer. */
 "Accumulation" = "누적";
 
 /* No comment provided by engineer. */
@@ -95,9 +98,6 @@
 "Add %@" = "%@ 추가";
 
 /* No comment provided by engineer. */
-"Add %@ Adjustment" = "%@ 조정 추가";
-
-/* No comment provided by engineer. */
 "Add a Description" = "설명 추가";
 
 /* No comment provided by engineer. */
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "Add Effects" = "효과 추가";
+
+/* No comment provided by engineer. */
+"Add for Export..." = "Add for Export...";
 
 /* No comment provided by engineer. */
 "Add Guide" = "안내선 추가";
@@ -120,6 +123,12 @@
 
 /* No comment provided by engineer. */
 "Add Point" = "포인트 추가";
+
+/* No comment provided by engineer. */
+"Add Slice" = "Add Slice";
+
+/* No comment provided by engineer. */
+"Add Slices" = "Add Slices";
 
 /* No comment provided by engineer. */
 "Add to Shape" = "도형에 추가";
@@ -197,13 +206,22 @@
 "Assign Profile" = "프로필 할당";
 
 /* No comment provided by engineer. */
+"AUTO" = "AUTO";
+
+/* No comment provided by engineer. */
 "Auto" = "자동";
+
+/* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
+"Auto %@" = "Auto %@";
 
 /* No comment provided by engineer. */
 "Auto Color" = "자동 색상";
 
 /* No comment provided by engineer. */
 "Auto Contrast" = "자동 대비";
+
+/* No comment provided by engineer. */
+"Auto Enhance" = "Auto Enhance";
 
 /* No comment provided by engineer. */
 "Auto Rotate Image" = "이미지 자동 회전";
@@ -293,7 +311,13 @@
 "Bring %@ to Front" = "%@ 맨 앞으로 가져오기";
 
 /* No comment provided by engineer. */
+"Bring Backward" = "Bring Backward";
+
+/* No comment provided by engineer. */
 "Bring Forward" = "앞으로 가져오기";
+
+/* No comment provided by engineer. */
+"Bring to Back" = "Bring to Back";
 
 /* No comment provided by engineer. */
 "Bring to Front" = "맨 앞으로 가져오기";
@@ -333,6 +357,9 @@
 
 /* No comment provided by engineer. */
 "Center" = "가운데";
+
+/* No comment provided by engineer. */
+"Centimeters" = "센티미터";
 
 /* No comment provided by engineer. */
 "Change Blending Mode" = "혼합 모드 변경";
@@ -378,6 +405,15 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "선택 영역 지우기";
+
+/* No comment provided by engineer. */
+"Clear Slices" = "Clear Slices";
+
+/* No comment provided by engineer. */
+"Click to automatically straighten the image." = "Click to automatically straighten the image.";
+
+/* No comment provided by engineer. */
+"Click to pick a color from your image." = "이미지에서 색상을 선택하려면 클릭합니다.";
 
 /* No comment provided by engineer. */
 "Clone" = "복제";
@@ -497,6 +533,9 @@
 "Crop Presets" = "프리셋 자르기";
 
 /* No comment provided by engineer. */
+"Crop Tool" = "Crop Tool";
+
+/* No comment provided by engineer. */
 "Crop..." = "자르기...";
 
 /* No comment provided by engineer. */
@@ -555,6 +594,12 @@
 
 /* No comment provided by engineer. */
 "Delete Points" = "포인트 삭제";
+
+/* No comment provided by engineer. */
+"Delete Slice" = "Delete Slice";
+
+/* No comment provided by engineer. */
+"Delete Slices" = "Delete Slices";
 
 /* No comment provided by engineer. */
 "Desaturate" = "흐리기";
@@ -626,6 +671,9 @@
 "Do you want to save the changes made to the document “%@”" = "\"%@” 도큐멘트의 변경 사항을 저장하겠습니까?";
 
 /* No comment provided by engineer. */
+"Document Quick Save for Web" = "Document Quick Save for Web";
+
+/* No comment provided by engineer. */
 "Don't Save" = "저장하지 않음";
 
 /* No comment provided by engineer. */
@@ -638,7 +686,13 @@
 "Draw" = "그리기";
 
 /* No comment provided by engineer. */
+"Draw Path" = "Draw Path";
+
+/* No comment provided by engineer. */
 "Draw Shape" = "도형 그리기";
+
+/* No comment provided by engineer. */
+"Draw Slice" = "Draw Slice";
 
 /* No comment provided by engineer. */
 "Droste" = "드로스테";
@@ -657,6 +711,9 @@
 
 /* No comment provided by engineer. */
 "Edit a Copy" = "복사본 편집";
+
+/* No comment provided by engineer. */
+"Edit Slice" = "Edit Slice";
 
 /* No comment provided by engineer. */
 "Effect" = "효과";
@@ -713,7 +770,16 @@
 "Export" = "내보내기";
 
 /* No comment provided by engineer. */
+"Export All..." = "모두 내보내기...";
+
+/* No comment provided by engineer. */
 "Export As:" = "다음으로 내보내기:";
+
+/* No comment provided by engineer. */
+"Export Document as Images" = "Export Document as Images";
+
+/* No comment provided by engineer. */
+"Export for Web" = "Export for Web";
 
 /* No comment provided by engineer. */
 "Export Library" = "라이브러리 내보내기";
@@ -722,7 +788,25 @@
 "export mask as png" = "png로 마스크 내보내기";
 
 /* No comment provided by engineer. */
+"Export Slice \"%@\"" = "Export Slice \"%@\"";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"..." = "Export Slice \"%@\"...";
+
+/* No comment provided by engineer. */
+"Export Slice..." = "Export Slice...";
+
+/* No comment provided by engineer. */
+"Export Slices as Images" = "Export Slices as Images";
+
+/* No comment provided by engineer. */
+"Export..." = "내보내기...";
+
+/* No comment provided by engineer. */
 "Exporting Document" = "도큐멘트를 내보내는 중";
+
+/* No comment provided by engineer. */
+"Exporting..." = "Exporting...";
 
 /* No comment provided by engineer. */
 "Exposure" = "노출";
@@ -742,6 +826,15 @@
 /* No comment provided by engineer. */
 "Failed parsing layers data." = "레이어 데이터의 구문 분석에 실패했습니다.";
 
+/* No comment provided by engineer. */
+"Failed to export document images." = "Failed to export document images.";
+
+/* No comment provided by engineer. */
+"Failed to export slice \"%@\"." = "Failed to export slice \"%@\".";
+
+/* No comment provided by engineer. */
+"Failed to export slices." = "Failed to export slices.";
+
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "한 개 이상의 확장 속성 값을 가져오는 데 실패했습니다";
 
@@ -753,6 +846,9 @@
 
 /* No comment provided by engineer. */
 "Favorites" = "즐겨찾기";
+
+/* No comment provided by engineer. */
+"Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents.";
 
 /* Effects category name */
 "Fill" = "채우기";
@@ -851,6 +947,9 @@
 "Gradient" = "그라디언트";
 
 /* No comment provided by engineer. */
+"Gradient Angle" = "Gradient Angle";
+
+/* No comment provided by engineer. */
 "Gradient Fill" = "그라디언트 채우기";
 
 /* No comment provided by engineer. */
@@ -888,6 +987,9 @@
 
 /* No comment provided by engineer. */
 "Group" = "그룹";
+
+/* No comment provided by engineer. */
+"Guide Menu" = "Guide Menu";
 
 /* Effects category name */
 "Halftone" = "하프톤";
@@ -938,6 +1040,9 @@
 "Hide Interface" = "인터페이스 가리기";
 
 /* No comment provided by engineer. */
+"Hide Optimized Preview" = "Hide Optimized Preview";
+
+/* No comment provided by engineer. */
 "Hide Pixel Grid" = "픽셀 눈금 가리기";
 
 /* No comment provided by engineer. */
@@ -963,6 +1068,9 @@
 
 /* No comment provided by engineer. */
 "Hide Tools" = "도구 가리기";
+
+/* Quality */
+"High" = "High";
 
 /* No comment provided by engineer. */
 "Highlights" = "하이라이트";
@@ -998,6 +1106,9 @@
 "Image Fill" = "이미지 채우기";
 
 /* No comment provided by engineer. */
+"Image Settings" = "Image Settings";
+
+/* No comment provided by engineer. */
 "Image Size" = "이미지 크기";
 
 /* No comment provided by engineer. */
@@ -1008,6 +1119,9 @@
 
 /* short for inches */
 "in" = "인치";
+
+/* No comment provided by engineer. */
+"Inches" = "인치";
 
 /* No comment provided by engineer. */
 "Initial Direction" = "최초 방향";
@@ -1141,6 +1255,9 @@
 /* No comment provided by engineer. */
 "Lock" = "잠금";
 
+/* Quality */
+"Low" = "Low";
+
 /* No comment provided by engineer. */
 "Luminance" = "휘도";
 
@@ -1174,6 +1291,9 @@
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "최대 압력 크기";
 
+/* Quality */
+"Medium" = "중간";
+
 /* No comment provided by engineer. */
 "Merge" = "병합";
 
@@ -1188,6 +1308,9 @@
 
 /* No comment provided by engineer. */
 "Midtones" = "중간 색조";
+
+/* No comment provided by engineer. */
+"Millimeters" = "밀리미터";
 
 /* No comment provided by engineer. */
 "Minimum Opacity" = "최소 불투명도";
@@ -1215,6 +1338,15 @@
 
 /* No comment provided by engineer. */
 "Move Point" = "포인트 이동";
+
+/* No comment provided by engineer. */
+"Move Slice" = "Move Slice";
+
+/* No comment provided by engineer. */
+"Move Slices" = "Move Slices";
+
+/* No comment provided by engineer. */
+"Multiple formats" = "Multiple formats";
 
 /* No comment provided by engineer. */
 "Multiply" = "곱하기";
@@ -1355,6 +1487,9 @@
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
+"Percent" = "퍼센트";
+
+/* No comment provided by engineer. */
 "Percentage" = "퍼센트";
 
 /* No comment provided by engineer. */
@@ -1377,6 +1512,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixels" = "픽셀";
 
 /* No comment provided by engineer. */
 "PNG" = "PNG";
@@ -1419,6 +1557,15 @@
 
 /* No comment provided by engineer. */
 "Preview" = "미리보기";
+
+/* No comment provided by engineer. */
+"Promote to Slice" = "Promote to Slice";
+
+/* No comment provided by engineer. */
+"Quality" = "Quality";
+
+/* No comment provided by engineer. */
+"Quick Export" = "Quick Export";
 
 /* No comment provided by engineer. */
 "Quick Select" = "빠른 선택";
@@ -1487,9 +1634,6 @@
 "Remove %@" = "%@ 제거";
 
 /* No comment provided by engineer. */
-"Remove %@ Adjustment" = "%@ 조정 제거";
-
-/* No comment provided by engineer. */
 "Remove Adjustment" = "조정 제거";
 
 /* No comment provided by engineer. */
@@ -1535,6 +1679,12 @@
 "Repairing..." = "복구 중...";
 
 /* No comment provided by engineer. */
+"Replace" = "Replace";
+
+/* No comment provided by engineer. */
+"Replace All" = "Replace All";
+
+/* No comment provided by engineer. */
 "Replace Color" = "색상 교체";
 
 /* No comment provided by engineer. */
@@ -1548,9 +1698,6 @@
 
 /* No comment provided by engineer. */
 "Reset %@" = "%@ 재설정";
-
-/* No comment provided by engineer. */
-"Reset %@ Adjustment" = "%@ 조정 재설정";
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "조정 재설정";
@@ -1574,10 +1721,16 @@
 "Reset Styles" = "스타일 재설정";
 
 /* No comment provided by engineer. */
+"Reset the rotation of the image." = "Reset the rotation of the image.";
+
+/* No comment provided by engineer. */
 "Resize" = "크기 조정";
 
 /* No comment provided by engineer. */
 "Resize Canvas" = "캔버스 크기 조정";
+
+/* No comment provided by engineer. */
+"Resize Slices" = "Resize Slices";
 
 /* No comment provided by engineer. */
 "Restore" = "복원";
@@ -1712,6 +1865,9 @@
 "Select Color" = "색상 선택";
 
 /* No comment provided by engineer. */
+"Select Color Range" = "Select Color Range";
+
+/* No comment provided by engineer. */
 "Select Column" = "열 선택";
 
 /* No comment provided by engineer. */
@@ -1802,6 +1958,9 @@
 "Shapes" = "도형";
 
 /* No comment provided by engineer. */
+"Share" = "공유";
+
+/* No comment provided by engineer. */
 "Shared" = "공유됨";
 
 /* No comment provided by engineer. */
@@ -1854,6 +2013,9 @@
 
 /* No comment provided by engineer. */
 "Show Interface" = "인터페이스 보기";
+
+/* No comment provided by engineer. */
+"Show Optimized Preview" = "Show Optimized Preview";
 
 /* No comment provided by engineer. */
 "Show or hide format and style options." = "포맷 및 스타일 옵션을 표시하거나 숨깁니다.";
@@ -1922,6 +2084,18 @@
 "Skew" = "기울이기";
 
 /* No comment provided by engineer. */
+"Slice" = "Slice";
+
+/* No comment provided by engineer. */
+"Slice Formats" = "Slice Formats";
+
+/* No comment provided by engineer. */
+"Slice Menu" = "Slice Menu";
+
+/* No comment provided by engineer. */
+"Slice Tool" = "Slice Tool";
+
+/* No comment provided by engineer. */
 "Smart Albums" = "스마트 앨범";
 
 /* No comment provided by engineer. */
@@ -1977,6 +2151,9 @@
 
 /* No comment provided by engineer. */
 "Star" = "별";
+
+/* No comment provided by engineer. */
+"Start Drawing" = "Start Drawing";
 
 /* No comment provided by engineer. */
 "Start Point" = "시작 포인트";
@@ -2105,6 +2282,9 @@
 "Tilt Maximum Size" = "기울기 최대 크기";
 
 /* No comment provided by engineer. */
+"Tilt Scatter" = "Tilt Scatter";
+
+/* No comment provided by engineer. */
 "Tilt Shift" = "기울기 시프트";
 
 /* No comment provided by engineer. */
@@ -2121,6 +2301,9 @@
 
 /* No comment provided by engineer. */
 "Tone" = "톤";
+
+/* No comment provided by engineer. */
+"Tools" = "도구";
 
 /* No comment provided by engineer. */
 "Torus Lens" = "원환체 렌즈";
@@ -2204,6 +2387,9 @@
 "Vibrance" = "바이브런스";
 
 /* No comment provided by engineer. */
+"View" = "보기";
+
+/* No comment provided by engineer. */
 "Vignette" = "비네트";
 
 /* No comment provided by engineer. */
@@ -2277,6 +2463,9 @@
 
 /* No comment provided by engineer. */
 "Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
+
+/* No comment provided by engineer. */
+"“%@” already exists. Do you want to replace it?" = "“%@” already exists. Do you want to replace it?";
 
 /* No comment provided by engineer. */
 "“Pixelmator Pro” can’t be opened because your device does not support the Metal graphics technology." = "장치가 Metal 그래픽 기술을 지원하지 않아서 “Pixelmator Pro”를 열 수 없습니다.";
