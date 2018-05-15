@@ -26,7 +26,7 @@
 "%@mm" = "%@mm";
 
 /* No comment provided by engineer. */
-"%d files already exists. Do you want to replace them?" = "%d files already exists. Do you want to replace them?";
+"%d files already exists. Do you want to replace them?" = "%d Dateien existieren bereits. Möchten Sie sie ersetzen?";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -86,7 +86,7 @@
 "\"%@\" Effect" = "\"%@\" Effekt";
 
 /* No comment provided by engineer. */
-"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents.";
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Es existiert bereits eine Datei oder ein Ordner mit demselben Namen auf dem %@. Beim Ersetzen wird der Inhalt überschrieben.";
 
 /* No comment provided by engineer. */
 "Accumulation" = "Ansammlung";
@@ -107,7 +107,7 @@
 "Add Effects" = "Effekte hinzufügen";
 
 /* No comment provided by engineer. */
-"Add for Export..." = "Add for Export...";
+"Add for Export..." = "Zu Export hinzufügen...";
 
 /* No comment provided by engineer. */
 "Add Guide" = "Hilfslinie hinzufügen";
@@ -125,10 +125,10 @@
 "Add Point" = "Punkt hinzufügen";
 
 /* No comment provided by engineer. */
-"Add Slice" = "Add Slice";
+"Add Slice" = "Slice hinzufügen";
 
 /* No comment provided by engineer. */
-"Add Slices" = "Add Slices";
+"Add Slices" = "Slices hinzufügen";
 
 /* No comment provided by engineer. */
 "Add to Shape" = "Zur Form hinzufügen";
@@ -212,7 +212,7 @@
 "Auto" = "Auto";
 
 /* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
-"Auto %@" = "Auto %@";
+"Auto %@" = "Auto-%@";
 
 /* No comment provided by engineer. */
 "Auto Color" = "Automatische Farbe";
@@ -221,7 +221,7 @@
 "Auto Contrast" = "Automatischer Kontrast";
 
 /* No comment provided by engineer. */
-"Auto Enhance" = "Auto Enhance";
+"Auto Enhance" = "A. verbessern";
 
 /* No comment provided by engineer. */
 "Auto Rotate Image" = "Bild automatisch rotieren";
@@ -311,13 +311,13 @@
 "Bring %@ to Front" = "%@ nach vorne bringen";
 
 /* No comment provided by engineer. */
-"Bring Backward" = "Bring Backward";
+"Bring Backward" = "Rückwärts bringen";
 
 /* No comment provided by engineer. */
 "Bring Forward" = "Schrittweise vorwärts";
 
 /* No comment provided by engineer. */
-"Bring to Back" = "Bring to Back";
+"Bring to Back" = "Nach hinten bewegen";
 
 /* No comment provided by engineer. */
 "Bring to Front" = "Ganz nach vorne";
@@ -407,10 +407,10 @@
 "Clear Selection" = "Auswahl aufheben";
 
 /* No comment provided by engineer. */
-"Clear Slices" = "Clear Slices";
+"Clear Slices" = "Slices löschen";
 
 /* No comment provided by engineer. */
-"Click to automatically straighten the image." = "Click to automatically straighten the image.";
+"Click to automatically straighten the image." = "Klicken, um Bild automatisch zu begradigen.";
 
 /* No comment provided by engineer. */
 "Click to pick a color from your image." = "Klicken, um eine Farbe aus Ihrem Bild auszuwählen.";
@@ -533,7 +533,7 @@
 "Crop Presets" = "Zuschneiden Voreinstellungen";
 
 /* No comment provided by engineer. */
-"Crop Tool" = "Crop Tool";
+"Crop Tool" = "Zuschneidewerkzeug";
 
 /* No comment provided by engineer. */
 "Crop..." = "Beschneiden …";
@@ -596,10 +596,10 @@
 "Delete Points" = "Punkte löschen";
 
 /* No comment provided by engineer. */
-"Delete Slice" = "Delete Slice";
+"Delete Slice" = "Slice löschen";
 
 /* No comment provided by engineer. */
-"Delete Slices" = "Delete Slices";
+"Delete Slices" = "Slices löschen";
 
 /* No comment provided by engineer. */
 "Desaturate" = "Entsättigen";
@@ -671,7 +671,7 @@
 "Do you want to save the changes made to the document “%@”" = "Möchten Sie die vorgenommenen Änderungen ins Dokument \"%@\" sichern";
 
 /* No comment provided by engineer. */
-"Document Quick Save for Web" = "Document Quick Save for Web";
+"Document Quick Save for Web" = "Dokumenten-Schnellspeicherung fürs Web";
 
 /* No comment provided by engineer. */
 "Don't Save" = "Nicht sichern";
@@ -686,13 +686,13 @@
 "Draw" = "Zeichnen";
 
 /* No comment provided by engineer. */
-"Draw Path" = "Draw Path";
+"Draw Path" = "Pfad zeichnen";
 
 /* No comment provided by engineer. */
 "Draw Shape" = "Form zeichnen";
 
 /* No comment provided by engineer. */
-"Draw Slice" = "Draw Slice";
+"Draw Slice" = "Slice zeichnen";
 
 /* No comment provided by engineer. */
 "Droste" = "Droste";
@@ -713,7 +713,7 @@
 "Edit a Copy" = "Eine Kopie bearbeiten";
 
 /* No comment provided by engineer. */
-"Edit Slice" = "Edit Slice";
+"Edit Slice" = "Slice bearbeiten";
 
 /* No comment provided by engineer. */
 "Effect" = "Effekt";
@@ -776,10 +776,10 @@
 "Export As:" = "Exportieren als:";
 
 /* No comment provided by engineer. */
-"Export Document as Images" = "Export Document as Images";
+"Export Document as Images" = "Dokument als Bilder exportieren";
 
 /* No comment provided by engineer. */
-"Export for Web" = "Export for Web";
+"Export for Web" = "Für das Internet exportieren";
 
 /* No comment provided by engineer. */
 "Export Library" = "Exportbibliothek";
@@ -788,7 +788,7 @@
 "export mask as png" = "Maske als PNG exportieren";
 
 /* No comment provided by engineer. */
-"Export Slice \"%@\"" = "Export Slice \"%@\"";
+"Export Slice \"%@\"" = "Slice \"%@\" exportieren";
 
 /* No comment provided by engineer. */
 "Export Slice \"%@\"..." = "Export Slice \"%@\"...";
