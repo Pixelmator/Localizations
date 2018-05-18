@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "%@ layers" = "%@ calques";
 
-/* No comment provided by engineer. */
-"%@ px" = "%@ px";
-
 /* Exposure time in seconds */
 "%@ s" = "%@ s";
 
@@ -27,6 +24,9 @@
 
 /* No comment provided by engineer. */
 "%@mm" = "%@ mm";
+
+/* No comment provided by engineer. */
+"%d files already exists. Do you want to replace them?" = "%d fichiers existent déjà. Voulez-vous les remplacer ?";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -86,6 +86,9 @@
 "\"%@\" Effect" = "Effet « %@ »";
 
 /* No comment provided by engineer. */
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Un fichier ou un dossier du même nom se trouve déjà dans le dossier %@. Si vous le remplacez, le contenu d’origine sera perdu.";
+
+/* No comment provided by engineer. */
 "Accumulation" = "Accumulation";
 
 /* No comment provided by engineer. */
@@ -95,9 +98,6 @@
 "Add %@" = "Ajouter %@";
 
 /* No comment provided by engineer. */
-"Add %@ Adjustment" = "Ajouter un réglage de %@";
-
-/* No comment provided by engineer. */
 "Add a Description" = "Ajouter une description";
 
 /* No comment provided by engineer. */
@@ -105,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "Add Effects" = "Ajouter des effets";
+
+/* No comment provided by engineer. */
+"Add for Export..." = "Ajouter pour l'exportation...";
 
 /* No comment provided by engineer. */
 "Add Guide" = "Ajouter un repère";
@@ -120,6 +123,12 @@
 
 /* No comment provided by engineer. */
 "Add Point" = "Ajouter point";
+
+/* No comment provided by engineer. */
+"Add Slice" = "Ajouter une tranche";
+
+/* No comment provided by engineer. */
+"Add Slices" = "Ajouter des tranches";
 
 /* No comment provided by engineer. */
 "Add to Shape" = "Ajouter à la forme";
@@ -197,13 +206,22 @@
 "Assign Profile" = "Assigner un profil";
 
 /* No comment provided by engineer. */
+"AUTO" = "AUTO";
+
+/* No comment provided by engineer. */
 "Auto" = "Automatique";
+
+/* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
+"Auto %@" = "%@ automatique";
 
 /* No comment provided by engineer. */
 "Auto Color" = "Couleur automatique";
 
 /* No comment provided by engineer. */
 "Auto Contrast" = "Contraste automatique";
+
+/* No comment provided by engineer. */
+"Auto Enhance" = "Accentuation automatique";
 
 /* No comment provided by engineer. */
 "Auto Rotate Image" = "Auto rotation d’image";
@@ -293,7 +311,13 @@
 "Bring %@ to Front" = "Amener %@ au premier plan";
 
 /* No comment provided by engineer. */
+"Bring Backward" = "Bring Backward";
+
+/* No comment provided by engineer. */
 "Bring Forward" = "Rapprocher";
+
+/* No comment provided by engineer. */
+"Bring to Back" = "Envoyer à l'arrière plan";
 
 /* No comment provided by engineer. */
 "Bring to Front" = "Placer au premier plan";
@@ -333,6 +357,9 @@
 
 /* No comment provided by engineer. */
 "Center" = "Centre";
+
+/* No comment provided by engineer. */
+"Centimeters" = "Centimètres";
 
 /* No comment provided by engineer. */
 "Change Blending Mode" = "Modifier le mode de fusion";
@@ -378,6 +405,15 @@
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Effacer la sélection";
+
+/* No comment provided by engineer. */
+"Clear Slices" = "Effacer les tranches";
+
+/* No comment provided by engineer. */
+"Click to automatically straighten the image." = "Cliquez pour redresser l'image automatiquement.";
+
+/* No comment provided by engineer. */
+"Click to pick a color from your image." = "Cliquez sur cette option pour choisir une couleur dans votre image.";
 
 /* No comment provided by engineer. */
 "Clone" = "Duplication";
@@ -497,6 +533,9 @@
 "Crop Presets" = "Recadrer les paramètres prédéfinis";
 
 /* No comment provided by engineer. */
+"Crop Tool" = "Outil Couper";
+
+/* No comment provided by engineer. */
 "Crop..." = "Rogner…";
 
 /* No comment provided by engineer. */
@@ -555,6 +594,12 @@
 
 /* No comment provided by engineer. */
 "Delete Points" = "Effacer points";
+
+/* No comment provided by engineer. */
+"Delete Slice" = "Supprimer la tranche";
+
+/* No comment provided by engineer. */
+"Delete Slices" = "Supprimer les tranches";
 
 /* No comment provided by engineer. */
 "Desaturate" = "Désaturer";
@@ -626,6 +671,9 @@
 "Do you want to save the changes made to the document “%@”" = "Souhaitez-vous enregistrer les modifications apportées au document « %@ »";
 
 /* No comment provided by engineer. */
+"Document Quick Save for Web" = "Sauvegarde rapide du document pour le web";
+
+/* No comment provided by engineer. */
 "Don't Save" = "Ne pas enregistrer";
 
 /* No comment provided by engineer. */
@@ -638,7 +686,13 @@
 "Draw" = "Dessiner";
 
 /* No comment provided by engineer. */
+"Draw Path" = "Dessiner un tracé";
+
+/* No comment provided by engineer. */
 "Draw Shape" = "Dessiner une forme";
+
+/* No comment provided by engineer. */
+"Draw Slice" = "Dessiner un tranche";
 
 /* No comment provided by engineer. */
 "Droste" = "Effet Droste";
@@ -657,6 +711,9 @@
 
 /* No comment provided by engineer. */
 "Edit a Copy" = "Modifier une copie";
+
+/* No comment provided by engineer. */
+"Edit Slice" = "Modifier la tranche";
 
 /* No comment provided by engineer. */
 "Effect" = "Effet";
@@ -713,7 +770,16 @@
 "Export" = "Exporter";
 
 /* No comment provided by engineer. */
+"Export All..." = "Tout exporter...";
+
+/* No comment provided by engineer. */
 "Export As:" = "Exporter sous :";
+
+/* No comment provided by engineer. */
+"Export Document as Images" = "Exporter le document en tant qu'images";
+
+/* No comment provided by engineer. */
+"Export for Web" = "Exporter pour le web";
 
 /* No comment provided by engineer. */
 "Export Library" = "Exporter la bibliothèque";
@@ -722,7 +788,25 @@
 "export mask as png" = "exporter le masque en png";
 
 /* No comment provided by engineer. */
+"Export Slice \"%@\"" = "Exporter la tranche « %@ »";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"..." = "Exporter la tranche « %@ »...";
+
+/* No comment provided by engineer. */
+"Export Slice..." = "Exporter la tranche...";
+
+/* No comment provided by engineer. */
+"Export Slices as Images" = "Exporter les tranches en tant qu’images";
+
+/* No comment provided by engineer. */
+"Export..." = "Exporter...";
+
+/* No comment provided by engineer. */
 "Exporting Document" = "Exporter le document";
+
+/* No comment provided by engineer. */
+"Exporting..." = "Exportation en cours...";
 
 /* No comment provided by engineer. */
 "Exposure" = "Exposition";
@@ -742,6 +826,15 @@
 /* No comment provided by engineer. */
 "Failed parsing layers data." = "Échec de l'analyse des données de calques.";
 
+/* No comment provided by engineer. */
+"Failed to export document images." = "Impossible d'exporter les images du document.";
+
+/* No comment provided by engineer. */
+"Failed to export slice \"%@\"." = "Impossible d'exporter la tranche « %@ ».";
+
+/* No comment provided by engineer. */
+"Failed to export slices." = "Impossible d'exporter les tranches.";
+
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "Impossible de récupérer une ou plusieurs valeurs d’attributs étendus";
 
@@ -753,6 +846,9 @@
 
 /* No comment provided by engineer. */
 "Favorites" = "Favoris";
+
+/* No comment provided by engineer. */
+"Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "Des fichiers ou des dossiers portant même nom existent déjà dans le dossier %@. Si vous les remplacez, les contenus d’origine seront perdus.";
 
 /* Effects category name */
 "Fill" = "Remplir";
@@ -851,6 +947,9 @@
 "Gradient" = "Dégradé";
 
 /* No comment provided by engineer. */
+"Gradient Angle" = "Angle du dégradé";
+
+/* No comment provided by engineer. */
 "Gradient Fill" = "Remplissage du dégradé";
 
 /* No comment provided by engineer. */
@@ -888,6 +987,9 @@
 
 /* No comment provided by engineer. */
 "Group" = "Associer";
+
+/* No comment provided by engineer. */
+"Guide Menu" = "Menu guide";
 
 /* Effects category name */
 "Halftone" = "Demi-teinte";
@@ -938,6 +1040,9 @@
 "Hide Interface" = "Masquer l'interface";
 
 /* No comment provided by engineer. */
+"Hide Optimized Preview" = "Masquer l'aperçu optimisé";
+
+/* No comment provided by engineer. */
 "Hide Pixel Grid" = "Masquer la grille de pixels";
 
 /* No comment provided by engineer. */
@@ -963,6 +1068,9 @@
 
 /* No comment provided by engineer. */
 "Hide Tools" = "Masquer les outils";
+
+/* Quality */
+"High" = "Grande";
 
 /* No comment provided by engineer. */
 "Highlights" = "Tons clairs";
@@ -998,6 +1106,9 @@
 "Image Fill" = "Remplissage de l'image";
 
 /* No comment provided by engineer. */
+"Image Settings" = "Réglages de l'image";
+
+/* No comment provided by engineer. */
 "Image Size" = "Taille de l’image";
 
 /* No comment provided by engineer. */
@@ -1008,6 +1119,9 @@
 
 /* short for inches */
 "in" = "pouce";
+
+/* No comment provided by engineer. */
+"Inches" = "Pouces";
 
 /* No comment provided by engineer. */
 "Initial Direction" = "Sens initial";
@@ -1141,6 +1255,9 @@
 /* No comment provided by engineer. */
 "Lock" = "Verrouiller";
 
+/* Quality */
+"Low" = "Faible";
+
 /* No comment provided by engineer. */
 "Luminance" = "Luminance";
 
@@ -1174,6 +1291,9 @@
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "Pression maximale";
 
+/* Quality */
+"Medium" = "Moyenne";
+
 /* No comment provided by engineer. */
 "Merge" = "Fusionner";
 
@@ -1188,6 +1308,9 @@
 
 /* No comment provided by engineer. */
 "Midtones" = "Tons moyens";
+
+/* No comment provided by engineer. */
+"Millimeters" = "Millimètres";
 
 /* No comment provided by engineer. */
 "Minimum Opacity" = "Opacité minimale";
@@ -1215,6 +1338,15 @@
 
 /* No comment provided by engineer. */
 "Move Point" = "Déplacer position";
+
+/* No comment provided by engineer. */
+"Move Slice" = "Déplacer la tranche";
+
+/* No comment provided by engineer. */
+"Move Slices" = "Déplacer les tranches";
+
+/* No comment provided by engineer. */
+"Multiple formats" = "Formats multiples";
 
 /* No comment provided by engineer. */
 "Multiply" = "Multiplier";
@@ -1355,6 +1487,9 @@
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
+"Percent" = "Pour cent";
+
+/* No comment provided by engineer. */
 "Percentage" = "Pourcentage";
 
 /* No comment provided by engineer. */
@@ -1377,6 +1512,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixels" = "Pixels";
 
 /* No comment provided by engineer. */
 "PNG" = "PNG";
@@ -1419,6 +1557,15 @@
 
 /* No comment provided by engineer. */
 "Preview" = "Aperçu";
+
+/* No comment provided by engineer. */
+"Promote to Slice" = "Promouvoir en tant que tranche";
+
+/* No comment provided by engineer. */
+"Quality" = "Qualité";
+
+/* No comment provided by engineer. */
+"Quick Export" = "Exportation rapide";
 
 /* No comment provided by engineer. */
 "Quick Select" = "Sélection rapide";
@@ -1487,9 +1634,6 @@
 "Remove %@" = "Supprimer %@";
 
 /* No comment provided by engineer. */
-"Remove %@ Adjustment" = "Supprimer le réglage %@";
-
-/* No comment provided by engineer. */
 "Remove Adjustment" = "Supprimer le réglage";
 
 /* No comment provided by engineer. */
@@ -1535,6 +1679,12 @@
 "Repairing..." = "Réparation...";
 
 /* No comment provided by engineer. */
+"Replace" = "Remplacer";
+
+/* No comment provided by engineer. */
+"Replace All" = "Tout remplacer";
+
+/* No comment provided by engineer. */
 "Replace Color" = "Remp. Couleur";
 
 /* No comment provided by engineer. */
@@ -1548,9 +1698,6 @@
 
 /* No comment provided by engineer. */
 "Reset %@" = "Réinitialiser %@";
-
-/* No comment provided by engineer. */
-"Reset %@ Adjustment" = "Réinitialiser le réglage de %@";
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "Réinitialiser les réglages";
@@ -1574,10 +1721,16 @@
 "Reset Styles" = "Revenir aux styles de départ";
 
 /* No comment provided by engineer. */
+"Reset the rotation of the image." = "Réinitialisez la rotation de l'image.";
+
+/* No comment provided by engineer. */
 "Resize" = "Redimensionner";
 
 /* No comment provided by engineer. */
 "Resize Canvas" = "Redimensionner la zone de travail";
+
+/* No comment provided by engineer. */
+"Resize Slices" = "Redimensionner les tranches";
 
 /* No comment provided by engineer. */
 "Restore" = "Restaurer";
@@ -1712,6 +1865,9 @@
 "Select Color" = "Choisir la couleur";
 
 /* No comment provided by engineer. */
+"Select Color Range" = "Sélectionner la gamme de couleur";
+
+/* No comment provided by engineer. */
 "Select Column" = "Sélectionnez la colonne";
 
 /* No comment provided by engineer. */
@@ -1802,6 +1958,9 @@
 "Shapes" = "Formes";
 
 /* No comment provided by engineer. */
+"Share" = "Partager";
+
+/* No comment provided by engineer. */
 "Shared" = "Partagé";
 
 /* No comment provided by engineer. */
@@ -1854,6 +2013,9 @@
 
 /* No comment provided by engineer. */
 "Show Interface" = "Afficher l'interface";
+
+/* No comment provided by engineer. */
+"Show Optimized Preview" = "Afficher l'aperçu optimisé";
 
 /* No comment provided by engineer. */
 "Show or hide format and style options." = "Affichez ou masquez les options de style et de format.";
@@ -1922,6 +2084,18 @@
 "Skew" = "Inclinaison";
 
 /* No comment provided by engineer. */
+"Slice" = "Tranche";
+
+/* No comment provided by engineer. */
+"Slice Formats" = "Formats de tranche";
+
+/* No comment provided by engineer. */
+"Slice Menu" = "Menu des tranches";
+
+/* No comment provided by engineer. */
+"Slice Tool" = "Outil Découper en tranches";
+
+/* No comment provided by engineer. */
 "Smart Albums" = "Albums intelligents";
 
 /* No comment provided by engineer. */
@@ -1977,6 +2151,9 @@
 
 /* No comment provided by engineer. */
 "Star" = "Étoile";
+
+/* No comment provided by engineer. */
+"Start Drawing" = "Commencer à dessiner";
 
 /* No comment provided by engineer. */
 "Start Point" = "Point de départ";
@@ -2105,6 +2282,9 @@
 "Tilt Maximum Size" = "Ampleur maximale de l'inclinaison";
 
 /* No comment provided by engineer. */
+"Tilt Scatter" = "Dispersion de l'inclinaison";
+
+/* No comment provided by engineer. */
 "Tilt Shift" = "Inclinaison-décalage";
 
 /* No comment provided by engineer. */
@@ -2121,6 +2301,9 @@
 
 /* No comment provided by engineer. */
 "Tone" = "Ton";
+
+/* No comment provided by engineer. */
+"Tools" = "Outils";
 
 /* No comment provided by engineer. */
 "Torus Lens" = "Objectif tore";
@@ -2204,6 +2387,9 @@
 "Vibrance" = "Brillance";
 
 /* No comment provided by engineer. */
+"View" = "Afficher";
+
+/* No comment provided by engineer. */
 "Vignette" = "Vignette";
 
 /* No comment provided by engineer. */
@@ -2277,6 +2463,9 @@
 
 /* No comment provided by engineer. */
 "Δx: %@ Δy: %@" = "Δx : %1$@ Δy : %2$@";
+
+/* No comment provided by engineer. */
+"“%@” already exists. Do you want to replace it?" = "« %@ » existe déjà. Souhaitez-vous le remplacer?";
 
 /* No comment provided by engineer. */
 "“Pixelmator Pro” can’t be opened because your device does not support the Metal graphics technology." = "Impossible de démarrer « Pixelmator Pro » car votre système ne supporte pas la technologie graphique Metal.";

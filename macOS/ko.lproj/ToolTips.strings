@@ -20,7 +20,7 @@
 "Adjust how much of the area around an edge should be sharpened." = "가장자리 둘레의 영역을 얼마나 선명하게 할지를 조정합니다.";
 
 /* No comment provided by engineer. */
-"Adjust how much of the colors similar to your selected color should be replaced" = "선택된 색과 비슷한 색상들을 얼마만큼 교체할지를 조정합니다.";
+"Adjust how much of the colors similar to your selected color should be replaced" = "선택된 색과 비슷한 색상들을 얼마만큼 대치할지를 조정합니다.";
 
 /* No comment provided by engineer. */
 "Adjust how much the angle of each brush mark should change according to the amount you tilt your graphics pen." = "그래픽 펜의 기울기 정도에 따라 각각의 브러시 마크의 각도가 얼마나 변하게 할지를 조정합니다.";
@@ -72,6 +72,9 @@
 
 /* No comment provided by engineer. */
 "Adjust how much the red channel in the original image should contribute to the red channel in the adjusted image." = "원본 이미지의 레드 채널이 조정된 이미지의 레드 채널에 얼마나 영향을 끼치게 할지를 조정합니다.";
+
+/* No comment provided by engineer. */
+"Adjust how much the scatter should change according to the amount you tilt your graphics pen." = "그래픽 펜의 기울기 정도에 따라 분산이 얼마나 변하게 할지를 조정합니다.";
 
 /* No comment provided by engineer. */
 "Adjust how much the size of the brushstroke should change according to the pressure you apply to the graphics tablet." = "그래픽 태블릿에 가한 압력에 따라 브러시 스트로크의 크기가 얼마나 변하게 할지를 조정합니다.";
@@ -383,6 +386,9 @@
 "Clear the selection." = "선택 영역을 지웁니다.";
 
 /* No comment provided by engineer. */
+"Click to automatically adjust the colors of the image." = "클릭해서 자동으로 이미지의 색상을 조정합니다.";
+
+/* No comment provided by engineer. */
 "Click to automatically adjust the curves in Red, Green, and Blue color channels by picking a part of your image that should be pure black." = "순수한 검정이어야 하는 이미지의 부분을 선택해서 레드, 그린, 블루 색상 채널의 곡선을 자동으로 조정하려면 클릭합니다.";
 
 /* No comment provided by engineer. */
@@ -392,6 +398,9 @@
 "Click to automatically adjust the curves in the Red, Green, and Blue color channels by picking a part of your image that should be pure white." = "순수한 흰색이어야 하는 이미지의 부분을 선택해서 레드, 그린, 블루 색상 채널의 곡선을 자동으로 조정하려면 클릭합니다.";
 
 /* No comment provided by engineer. */
+"Click to automatically adjust the hue & saturation of the image." = "클릭해서 자동으로 이미지의 색상 및 채도를 조정합니다.";
+
+/* No comment provided by engineer. */
 "Click to automatically adjust the levels in Red, Green, and Blue color channels by picking a part of your image that should be pure black" = "순수한 검정이어야 하는 이미지의 부분을 선택해서 레드, 그린, 블루 색상 채널의 레벨을 자동으로 조정하려면 클릭합니다";
 
 /* No comment provided by engineer. */
@@ -399,6 +408,12 @@
 
 /* No comment provided by engineer. */
 "Click to automatically adjust the levels in the Red, Green, and Blue color channels by picking a part of your image that should be pure white." = "순수한 흰색이어야 하는 이미지의 부분을 선택해서 레드, 그린, 블루 색상 채널의 레벨을 자동으로 조정하려면 클릭합니다.";
+
+/* No comment provided by engineer. */
+"Click to automatically adjust the lightness of the image." = "클릭해서 자동으로 이미지의 명도를 조정합니다.";
+
+/* No comment provided by engineer. */
+"Click to automatically adjust the white balance of the image." = "클릭해서 자동으로 이미지의 화이트 밸런스를 조정합니다.";
 
 /* No comment provided by engineer. */
 "Click to choose a color." = "색상을 선택하려면 클릭합니다.";
@@ -461,10 +476,10 @@
 "Hide the layer to make it invisible." = "레이어를 숨겨서 보이지 않게 합니다.";
 
 /* No comment provided by engineer. */
-"Hide tool options" = "도구 옵션 가리기";
+"Hide the Tool Options pane." = "도구 옵션 창을 숨깁니다.";
 
 /* No comment provided by engineer. */
-"Hide tools" = "도구 가리기";
+"Hide the Tools sidebar." = "도구 사이드바를 숨깁니다.";
 
 /* No comment provided by engineer. */
 "Lock the layer group to prevent editing." = "편집할 수 없도록 레이어 그룹을 잠급니다.";
@@ -524,7 +539,7 @@
 "Set how much of the area around an edge should be sharpened." = "가장자리 둘레의 영역을 얼마나 선명하게 할지를 설정합니다.";
 
 /* No comment provided by engineer. */
-"Set how much of the colors similar to your selected color should be replaced." = "선택된 색과 비슷한 색상들을 얼마만큼 교체할지를 설정합니다.";
+"Set how much of the colors similar to your selected color should be replaced." = "선택된 색과 비슷한 색상들을 얼마만큼 대치할지를 설정합니다.";
 
 /* No comment provided by engineer. */
 "Set how much the angle of each brush mark should change according to the amount you tilt your graphics pen." = "그래픽 펜의 기울기 정도에 따라 각각의 브러시 마크의 각도가 얼마나 변하게 할지를 설정합니다.";
@@ -648,6 +663,9 @@
 
 /* No comment provided by engineer. */
 "Set the amount of red and cyan in the shadows." = "그림자에서 빨강과 녹청의 양을 설정합니다.";
+
+/* No comment provided by engineer. */
+"Set the amount of scatter." = "분산의 정도를 설정합니다.";
 
 /* No comment provided by engineer. */
 "Set the amount of yellow and blue in the highlights." = "하이라이트에서 노랑과 파랑의 양을 설정합니다.";
@@ -851,10 +869,10 @@
 "Show the layer to make it visible." = "레이어를 표시해서 보이게 합니다.";
 
 /* No comment provided by engineer. */
-"Show tool options" = "도구 옵션 보기";
+"Show the Tool Options pane" = "도구 옵션 창을 표시합니다";
 
 /* No comment provided by engineer. */
-"Show tools" = "도구 보기";
+"Show the Tools sidebar." = "도구 사이드바를 표시합니다.";
 
 /* No comment provided by engineer. */
 "Show what the image looked like before you bumped it." = "범프 전 이미지의 모습을 표시합니다.";
