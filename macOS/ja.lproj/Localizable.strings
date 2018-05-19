@@ -26,7 +26,7 @@
 "%@mm" = "%@mm";
 
 /* No comment provided by engineer. */
-"%d files already exists. Do you want to replace them?" = "%d files already exists. Do you want to replace them?";
+"%d files already exists. Do you want to replace them?" = "%d 個のファイルがすでに存在します。置き換えますか？";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -86,7 +86,7 @@
 "\"%@\" Effect" = "\"%@\"エフェクト";
 
 /* No comment provided by engineer. */
-"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents.";
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "フォルダ%@には同じ名前のファイルまたはフォルダが存在します。これを置き換えると現在の内容が上書きされます。";
 
 /* No comment provided by engineer. */
 "Accumulation" = "累積";
@@ -107,7 +107,7 @@
 "Add Effects" = "エフェクトを追加";
 
 /* No comment provided by engineer. */
-"Add for Export..." = "Add for Export...";
+"Add for Export..." = "書き出し用に追加...";
 
 /* No comment provided by engineer. */
 "Add Guide" = "ガイドを追加";
@@ -125,10 +125,10 @@
 "Add Point" = "ポイントを追加";
 
 /* No comment provided by engineer. */
-"Add Slice" = "Add Slice";
+"Add Slice" = "スライスを追加";
 
 /* No comment provided by engineer. */
-"Add Slices" = "Add Slices";
+"Add Slices" = "スライスを追加";
 
 /* No comment provided by engineer. */
 "Add to Shape" = "シェイプに追加";
@@ -206,13 +206,13 @@
 "Assign Profile" = "プロファイルを設定";
 
 /* No comment provided by engineer. */
-"AUTO" = "AUTO";
+"AUTO" = "自動";
 
 /* No comment provided by engineer. */
 "Auto" = "自動";
 
 /* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
-"Auto %@" = "Auto %@";
+"Auto %@" = "自動%@";
 
 /* No comment provided by engineer. */
 "Auto Color" = "自動カラー補正";
@@ -221,7 +221,7 @@
 "Auto Contrast" = "自動コントラスト";
 
 /* No comment provided by engineer. */
-"Auto Enhance" = "Auto Enhance";
+"Auto Enhance" = "自動補正";
 
 /* No comment provided by engineer. */
 "Auto Rotate Image" = "画像の自動回転";
@@ -311,13 +311,7 @@
 "Bring %@ to Front" = "%@を最前面へ";
 
 /* No comment provided by engineer. */
-"Bring Backward" = "Bring Backward";
-
-/* No comment provided by engineer. */
 "Bring Forward" = "前面へ";
-
-/* No comment provided by engineer. */
-"Bring to Back" = "Bring to Back";
 
 /* No comment provided by engineer. */
 "Bring to Front" = "最前面へ";
@@ -407,10 +401,10 @@
 "Clear Selection" = "選択を消去";
 
 /* No comment provided by engineer. */
-"Clear Slices" = "Clear Slices";
+"Clear Slices" = "スライスを消去";
 
 /* No comment provided by engineer. */
-"Click to automatically straighten the image." = "Click to automatically straighten the image.";
+"Click to automatically straighten the image." = "クリックして画像を自動的に矯正します。";
 
 /* No comment provided by engineer. */
 "Click to pick a color from your image." = "クリックしてイメージから色を選択。";
@@ -533,7 +527,7 @@
 "Crop Presets" = "プリセットを切り抜く";
 
 /* No comment provided by engineer. */
-"Crop Tool" = "Crop Tool";
+"Crop Tool" = "切り抜きツール";
 
 /* No comment provided by engineer. */
 "Crop..." = "切り抜く...";
@@ -596,10 +590,10 @@
 "Delete Points" = "ポイントを削除";
 
 /* No comment provided by engineer. */
-"Delete Slice" = "Delete Slice";
+"Delete Slice" = "スライスを削除";
 
 /* No comment provided by engineer. */
-"Delete Slices" = "Delete Slices";
+"Delete Slices" = "スライスを削除";
 
 /* No comment provided by engineer. */
 "Desaturate" = "彩度を下げる";
@@ -671,7 +665,7 @@
 "Do you want to save the changes made to the document “%@”" = "書類“%@”への変更を保存しますか？";
 
 /* No comment provided by engineer. */
-"Document Quick Save for Web" = "Document Quick Save for Web";
+"Document Quick Save for Web" = "Web 用にクイック保存";
 
 /* No comment provided by engineer. */
 "Don't Save" = "保存しない";
@@ -686,13 +680,13 @@
 "Draw" = "描画";
 
 /* No comment provided by engineer. */
-"Draw Path" = "Draw Path";
+"Draw Path" = "パスを描画";
 
 /* No comment provided by engineer. */
 "Draw Shape" = "シェイプを描画";
 
 /* No comment provided by engineer. */
-"Draw Slice" = "Draw Slice";
+"Draw Slice" = "スライスを描画";
 
 /* No comment provided by engineer. */
 "Droste" = "ドロステ";
@@ -713,7 +707,7 @@
 "Edit a Copy" = "コピーを編集";
 
 /* No comment provided by engineer. */
-"Edit Slice" = "Edit Slice";
+"Edit Slice" = "スライスを編集";
 
 /* No comment provided by engineer. */
 "Effect" = "エフェクト";
@@ -776,10 +770,10 @@
 "Export As:" = "書き出し:";
 
 /* No comment provided by engineer. */
-"Export Document as Images" = "Export Document as Images";
+"Export Document as Images" = "書類をイメージとして書き出す";
 
 /* No comment provided by engineer. */
-"Export for Web" = "Export for Web";
+"Export for Web" = "Web 用に書き出す";
 
 /* No comment provided by engineer. */
 "Export Library" = "書き出しライブラリ";
@@ -788,16 +782,16 @@
 "export mask as png" = "マスクを png 形式でエクスポート";
 
 /* No comment provided by engineer. */
-"Export Slice \"%@\"" = "Export Slice \"%@\"";
+"Export Slice \"%@\"" = "スライス\"%@\"を書き出す";
 
 /* No comment provided by engineer. */
-"Export Slice \"%@\"..." = "Export Slice \"%@\"...";
+"Export Slice \"%@\"..." = "スライス\"%@\"を書き出す...";
 
 /* No comment provided by engineer. */
-"Export Slice..." = "Export Slice...";
+"Export Slice..." = "スライスを書き出す...";
 
 /* No comment provided by engineer. */
-"Export Slices as Images" = "Export Slices as Images";
+"Export Slices as Images" = "スライスをイメージとして書き出す";
 
 /* No comment provided by engineer. */
 "Export..." = "書き出す...";
@@ -806,7 +800,7 @@
 "Exporting Document" = "書類を書き出し中";
 
 /* No comment provided by engineer. */
-"Exporting..." = "Exporting...";
+"Exporting..." = "書き出し中...";
 
 /* No comment provided by engineer. */
 "Exposure" = "露光量";
@@ -827,13 +821,13 @@
 "Failed parsing layers data." = "レイヤーデータの解析に失敗しました。";
 
 /* No comment provided by engineer. */
-"Failed to export document images." = "Failed to export document images.";
+"Failed to export document images." = "イメージの書き出しが失敗しました。";
 
 /* No comment provided by engineer. */
-"Failed to export slice \"%@\"." = "Failed to export slice \"%@\".";
+"Failed to export slice \"%@\"." = "スライス\"%@\"の書き出しに失敗しました。";
 
 /* No comment provided by engineer. */
-"Failed to export slices." = "Failed to export slices.";
+"Failed to export slices." = "スライスの書き出しに失敗しました。";
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "拡張属性の値の取得に失敗しました";
@@ -848,7 +842,7 @@
 "Favorites" = "お気に入り";
 
 /* No comment provided by engineer. */
-"Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents.";
+"Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "フォルダ%@には同じ名前のファイルまたはフォルダが存在します。これを置き換えると現在の内容が上書きされます。";
 
 /* Effects category name */
 "Fill" = "べた塗り";
@@ -947,7 +941,7 @@
 "Gradient" = "グラデーション";
 
 /* No comment provided by engineer. */
-"Gradient Angle" = "Gradient Angle";
+"Gradient Angle" = "グラデーションの角度";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "グラデーションで塗りつぶし";
@@ -989,7 +983,7 @@
 "Group" = "グループ化";
 
 /* No comment provided by engineer. */
-"Guide Menu" = "Guide Menu";
+"Guide Menu" = "ガイドメニュー";
 
 /* Effects category name */
 "Halftone" = "ハーフトーン";
@@ -1040,7 +1034,7 @@
 "Hide Interface" = "インターフェースを隠す";
 
 /* No comment provided by engineer. */
-"Hide Optimized Preview" = "Hide Optimized Preview";
+"Hide Optimized Preview" = "最適化したプレビューを隠す";
 
 /* No comment provided by engineer. */
 "Hide Pixel Grid" = "ピクセルグリッドを隠す";
@@ -1070,7 +1064,7 @@
 "Hide Tools" = "ツールを隠す";
 
 /* Quality */
-"High" = "High";
+"High" = "高";
 
 /* No comment provided by engineer. */
 "Highlights" = "ハイライト";
@@ -1106,7 +1100,7 @@
 "Image Fill" = "イメージ塗りつぶし";
 
 /* No comment provided by engineer. */
-"Image Settings" = "Image Settings";
+"Image Settings" = "イメージ設定";
 
 /* No comment provided by engineer. */
 "Image Size" = "イメージサイズ";
@@ -1256,7 +1250,7 @@
 "Lock" = "ロック";
 
 /* Quality */
-"Low" = "Low";
+"Low" = "低";
 
 /* No comment provided by engineer. */
 "Luminance" = "輝度";
@@ -1340,13 +1334,13 @@
 "Move Point" = "ポイントを移動";
 
 /* No comment provided by engineer. */
-"Move Slice" = "Move Slice";
+"Move Slice" = "スライスを移動";
 
 /* No comment provided by engineer. */
-"Move Slices" = "Move Slices";
+"Move Slices" = "スライスを移動";
 
 /* No comment provided by engineer. */
-"Multiple formats" = "Multiple formats";
+"Multiple formats" = "複数の形式";
 
 /* No comment provided by engineer. */
 "Multiply" = "乗算";
@@ -1559,13 +1553,13 @@
 "Preview" = "プレビュー";
 
 /* No comment provided by engineer. */
-"Promote to Slice" = "Promote to Slice";
+"Promote to Slice" = "スライスに変更";
 
 /* No comment provided by engineer. */
-"Quality" = "Quality";
+"Quality" = "画質";
 
 /* No comment provided by engineer. */
-"Quick Export" = "Quick Export";
+"Quick Export" = "クイック書き出し";
 
 /* No comment provided by engineer. */
 "Quick Select" = "クイック選択";
@@ -1679,10 +1673,10 @@
 "Repairing..." = "修復中...";
 
 /* No comment provided by engineer. */
-"Replace" = "Replace";
+"Replace" = "置き換え";
 
 /* No comment provided by engineer. */
-"Replace All" = "Replace All";
+"Replace All" = "すべて置き換え";
 
 /* No comment provided by engineer. */
 "Replace Color" = "色の置き換え";
@@ -1721,7 +1715,7 @@
 "Reset Styles" = "スタイルをリセット";
 
 /* No comment provided by engineer. */
-"Reset the rotation of the image." = "Reset the rotation of the image.";
+"Reset the rotation of the image." = "イメージの回転をリセットします。";
 
 /* No comment provided by engineer. */
 "Resize" = "リサイズ";
@@ -1730,7 +1724,7 @@
 "Resize Canvas" = "キャンバスのサイズを変更";
 
 /* No comment provided by engineer. */
-"Resize Slices" = "Resize Slices";
+"Resize Slices" = "スライスのリサイズ";
 
 /* No comment provided by engineer. */
 "Restore" = "復元";
@@ -1865,7 +1859,7 @@
 "Select Color" = "カラーを選択";
 
 /* No comment provided by engineer. */
-"Select Color Range" = "Select Color Range";
+"Select Color Range" = "カラーの範囲を選択";
 
 /* No comment provided by engineer. */
 "Select Column" = "列を選択";
@@ -2015,7 +2009,7 @@
 "Show Interface" = "インターフェースを表示";
 
 /* No comment provided by engineer. */
-"Show Optimized Preview" = "Show Optimized Preview";
+"Show Optimized Preview" = "最適化したプレビューを表示";
 
 /* No comment provided by engineer. */
 "Show or hide format and style options." = "書式とスタイルオプションを表示/非表示にする。";
@@ -2084,16 +2078,16 @@
 "Skew" = "傾斜";
 
 /* No comment provided by engineer. */
-"Slice" = "Slice";
+"Slice" = "スライス";
 
 /* No comment provided by engineer. */
-"Slice Formats" = "Slice Formats";
+"Slice Formats" = "スライスの形式";
 
 /* No comment provided by engineer. */
-"Slice Menu" = "Slice Menu";
+"Slice Menu" = "スライスのメニュー";
 
 /* No comment provided by engineer. */
-"Slice Tool" = "Slice Tool";
+"Slice Tool" = "スライスツール";
 
 /* No comment provided by engineer. */
 "Smart Albums" = "スマートアルバム";
@@ -2153,7 +2147,7 @@
 "Star" = "スター";
 
 /* No comment provided by engineer. */
-"Start Drawing" = "Start Drawing";
+"Start Drawing" = "描画を開始";
 
 /* No comment provided by engineer. */
 "Start Point" = "開始ポイント";
@@ -2282,7 +2276,7 @@
 "Tilt Maximum Size" = "傾き最大サイズ";
 
 /* No comment provided by engineer. */
-"Tilt Scatter" = "Tilt Scatter";
+"Tilt Scatter" = "傾斜散布";
 
 /* No comment provided by engineer. */
 "Tilt Shift" = "傾きシフト";
@@ -2465,7 +2459,7 @@
 "Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
 
 /* No comment provided by engineer. */
-"“%@” already exists. Do you want to replace it?" = "“%@” already exists. Do you want to replace it?";
+"“%@” already exists. Do you want to replace it?" = "“%@”はすでに存在します。置き換えますか？";
 
 /* No comment provided by engineer. */
 "“Pixelmator Pro” can’t be opened because your device does not support the Metal graphics technology." = "お使いのデバイスがMetalグラフィックス技術をサポートしていないため、\"Pixelmator Pro\"を開くことができません。";
