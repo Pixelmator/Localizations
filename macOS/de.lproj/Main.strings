@@ -172,6 +172,9 @@
 /* Class = "NSMenuItem"; title = "Refine Selection..."; ObjectID = "7WV-vv-BzK"; */
 "7WV-vv-BzK.title" = "Auswahl anpassen …";
 
+/* Class = "NSMenuItem"; title = "Flatten Effects"; ObjectID = "7X1-FB-Xvc"; */
+"7X1-FB-Xvc.title" = "Effekte ebnen";
+
 /* Class = "NSMenuItem"; title = "Exclude Shapes"; ObjectID = "7cw-r3-Adn"; */
 "7cw-r3-Adn.title" = "Formen ausschließen";
 
@@ -226,9 +229,6 @@
 /* Class = "NSMenuItem"; title = "Soften"; ObjectID = "Bp7-Mz-P5z"; */
 "Bp7-Mz-P5z.title" = "Abschwächen";
 
-/* Class = "NSMenuItem"; title = "Color Adjustments"; ObjectID = "Bqb-4g-0Vj"; */
-"Bqb-4g-0Vj.title" = "Farbanpassungen";
-
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; */
 "Bw7-FT-i3A.title" = "Sichern als …";
 
@@ -244,11 +244,17 @@
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "CCI-91-OTE"; */
 "CCI-91-OTE.title" = "Debuggen";
 
+/* Class = "NSMenuItem"; title = "Reset Adjustments"; ObjectID = "CWt-uZ-m0y"; */
+"CWt-uZ-m0y.title" = "Anpassungen zurücksetzen";
+
 /* Class = "NSMenuItem"; title = "Lighten"; ObjectID = "CX5-NW-6ca"; */
 "CX5-NW-6ca.title" = "Aufhellen";
 
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "CYM-3I-YiJ"; */
 "CYM-3I-YiJ.title" = "Keine verwenden";
+
+/* Class = "NSMenuItem"; title = "Color Adjustments"; ObjectID = "Cgu-mQ-UDY"; */
+"Cgu-mQ-UDY.title" = "Farbanpassungen";
 
 /* Class = "NSMenu"; title = "Arrange"; ObjectID = "D2d-g4-MTd"; */
 "D2d-g4-MTd.title" = "Anordnen";
@@ -279,6 +285,9 @@
 
 /* Class = "NSMenuItem"; title = "90° Right"; ObjectID = "ETz-de-pgX"; */
 "ETz-de-pgX.title" = "90° nach Rechts";
+
+/* Class = "NSMenuItem"; title = "Copy Adjustments"; ObjectID = "EUQ-s2-ria"; */
+"EUQ-s2-ria.title" = "Copy Adjustments";
 
 /* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "Ecy-pq-DDd"; */
 "Ecy-pq-DDd.title" = "Rechteck";
@@ -388,8 +397,8 @@
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "Alle nach vorne bringen";
 
-/* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "LVt-zR-cLO"; */
-"LVt-zR-cLO.title" = "Stil einfügen";
+/* Class = "NSMenuItem"; title = "Paste Styles"; ObjectID = "LVt-zR-cLO"; */
+"LVt-zR-cLO.title" = "Paste Styles";
 
 /* Class = "NSMenuItem"; title = "Preserve Transparency"; ObjectID = "Ler-0C-0Pw"; */
 "Ler-0C-0Pw.title" = "Transparente Bereiche schützen";
@@ -415,8 +424,11 @@
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "Noa-2H-nfS"; */
 "Noa-2H-nfS.title" = "Ausblenden";
 
-/* Class = "NSMenu"; title = "Color Adjustments"; ObjectID = "OCs-w0-hod"; */
-"OCs-w0-hod.title" = "Farbanpassungen";
+/* Class = "NSMenuItem"; title = "Paste Effects"; ObjectID = "O5Y-1z-mqe"; */
+"O5Y-1z-mqe.title" = "Paste Effects";
+
+/* Class = "NSMenu"; title = "Styles"; ObjectID = "OPD-jd-2UT"; */
+"OPD-jd-2UT.title" = "Styles";
 
 /* Class = "NSMenuItem"; title = "Export for Web..."; ObjectID = "OUn-Fb-dMt"; */
 "OUn-Fb-dMt.title" = "Für das Internet exportieren ...";
@@ -445,6 +457,9 @@
 /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "PuN-vm-Jxe"; */
 "PuN-vm-Jxe.title" = "Schützen";
 
+/* Class = "NSMenuItem"; title = "Paste Adjustments"; ObjectID = "QC9-n1-aXz"; */
+"QC9-n1-aXz.title" = "Paste Adjustments";
+
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "QFn-P5-Jdq"; */
 "QFn-P5-Jdq.title" = "Senken";
 
@@ -460,8 +475,8 @@
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
 "R4o-n2-Eq4.title" = "Zoomen";
 
-/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "R6w-We-AtB"; */
-"R6w-We-AtB.title" = "Stil kopieren";
+/* Class = "NSMenuItem"; title = "Copy Styles"; ObjectID = "R6w-We-AtB"; */
+"R6w-We-AtB.title" = "Copy Styles";
 
 /* Class = "NSMenuItem"; title = "Ligature"; ObjectID = "RDT-SL-TGl"; */
 "RDT-SL-TGl.title" = "Ligatur";
@@ -474,9 +489,6 @@
 
 /* Class = "NSMenuItem"; title = "Twitter"; ObjectID = "SjB-L9-DnR"; */
 "SjB-L9-DnR.title" = "Twitter";
-
-/* Class = "NSMenu"; title = "Effects"; ObjectID = "TNi-FU-LiJ"; */
-"TNi-FU-LiJ.title" = "Effekte";
 
 /* Class = "NSMenuItem"; title = "Align Top"; ObjectID = "TU7-cX-Wds"; */
 "TU7-cX-Wds.title" = "Oben ausrichten";
@@ -513,6 +525,9 @@
 
 /* Class = "NSMenuItem"; title = "Smart Erase"; ObjectID = "Wob-e1-cjX"; */
 "Wob-e1-cjX.title" = "Intelligent Löschen";
+
+/* Class = "NSMenuItem"; title = "Reset Styles"; ObjectID = "Wzm-T2-rlA"; */
+"Wzm-T2-rlA.title" = "Stile zurücksetzen";
 
 /* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "X4M-jo-Ply"; */
 "X4M-jo-Ply.title" = "Hochgestellt";
@@ -591,6 +606,12 @@
 
 /* Class = "NSMenuItem"; title = "Show Guides"; ObjectID = "bN7-q6-0rR"; */
 "bN7-q6-0rR.title" = "Hilfslinien einblenden";
+
+/* Class = "NSMenuItem"; title = "Styles"; ObjectID = "bZJ-Ya-HDP"; */
+"bZJ-Ya-HDP.title" = "Styles";
+
+/* Class = "NSMenuItem"; title = "Effects"; ObjectID = "bgQ-OV-Arc"; */
+"bgQ-OV-Arc.title" = "Effekte";
 
 /* Class = "NSMenuItem"; title = "Import…"; ObjectID = "biM-Pg-5Wa"; */
 "biM-Pg-5Wa.title" = "Importieren …";
@@ -715,6 +736,12 @@
 /* Class = "NSMenuItem"; title = "Show Gradients"; ObjectID = "j3y-av-OGs"; */
 "j3y-av-OGs.title" = "Verläufe einblenden";
 
+/* Class = "NSMenuItem"; title = "Reset Effects"; ObjectID = "jDY-3P-HXk"; */
+"jDY-3P-HXk.title" = "Effekte zurücksetzen";
+
+/* Class = "NSMenuItem"; title = "Flatten Adjustments"; ObjectID = "jY1-1W-6hT"; */
+"jY1-1W-6hT.title" = "Anpassungen ebnen";
+
 /* Class = "NSMenuItem"; title = "Format"; ObjectID = "jxT-CU-nIS"; */
 "jxT-CU-nIS.title" = "Format";
 
@@ -726,6 +753,9 @@
 
 /* Class = "NSMenuItem"; title = "Rotate 180°"; ObjectID = "k5C-es-oss"; */
 "k5C-es-oss.title" = "Um 180° drehen";
+
+/* Class = "NSMenu"; title = "Effects"; ObjectID = "kLT-0t-Ull"; */
+"kLT-0t-Ull.title" = "Effekte";
 
 /* Class = "NSMenuItem"; title = "Outline"; ObjectID = "kX6-u9-fWW"; */
 "kX6-u9-fWW.title" = "Kontur";
@@ -739,6 +769,9 @@
 /* Class = "NSMenuItem"; title = "Erase"; ObjectID = "ly4-gA-glq"; */
 "ly4-gA-glq.title" = "Löschen";
 
+/* Class = "NSMenu"; title = "Color Adjustments"; ObjectID = "mAa-o1-G1j"; */
+"mAa-o1-G1j.title" = "Farbanpassungen";
+
 /* Class = "NSMenuItem"; title = "Use All"; ObjectID = "mCT-Qg-bew"; */
 "mCT-Qg-bew.title" = "Alle verwenden";
 
@@ -747,6 +780,9 @@
 
 /* Class = "NSMenuItem"; title = "Draw"; ObjectID = "mQO-S1-Uki"; */
 "mQO-S1-Uki.title" = "Zeichnen";
+
+/* Class = "NSMenuItem"; title = "Copy Effects"; ObjectID = "mky-KW-sa6"; */
+"mky-KW-sa6.title" = "Copy Effects";
 
 /* Class = "NSMenuItem"; title = "Acknowledgements"; ObjectID = "n9k-66-9CP"; */
 "n9k-66-9CP.title" = "Danksagungen";
@@ -847,9 +883,6 @@
 /* Class = "NSMenuItem"; title = "Free Selection"; ObjectID = "vf7-kS-8wW"; */
 "vf7-kS-8wW.title" = "Freie Auswahl";
 
-/* Class = "NSMenuItem"; title = "Effects"; ObjectID = "vfc-74-ZJK"; */
-"vfc-74-ZJK.title" = "Effekte";
-
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "vuW-Qv-trg"; */
 "vuW-Qv-trg.title" = "Standard verwenden";
 
@@ -885,6 +918,9 @@
 
 /* Class = "NSMenuItem"; title = "Thumbnails"; ObjectID = "ySL-FB-BWR"; */
 "ySL-FB-BWR.title" = "Thumbnails";
+
+/* Class = "NSMenuItem"; title = "Flatten Styles"; ObjectID = "ykH-od-r0e"; */
+"ykH-od-r0e.title" = "Stile ebnen";
 
 /* Class = "NSMenuItem"; title = "Character Spacing"; ObjectID = "ypw-se-h8B"; */
 "ypw-se-h8B.title" = "Buchstabenabstand";
