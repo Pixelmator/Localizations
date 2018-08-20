@@ -172,6 +172,9 @@
 /* Class = "NSMenuItem"; title = "Refine Selection..."; ObjectID = "7WV-vv-BzK"; */
 "7WV-vv-BzK.title" = "선택 미세 조정...";
 
+/* Class = "NSMenuItem"; title = "Flatten Effects"; ObjectID = "7X1-FB-Xvc"; */
+"7X1-FB-Xvc.title" = "효과 병합";
+
 /* Class = "NSMenuItem"; title = "Exclude Shapes"; ObjectID = "7cw-r3-Adn"; */
 "7cw-r3-Adn.title" = "도형 제외";
 
@@ -226,9 +229,6 @@
 /* Class = "NSMenuItem"; title = "Soften"; ObjectID = "Bp7-Mz-P5z"; */
 "Bp7-Mz-P5z.title" = "부드럽게 만들기";
 
-/* Class = "NSMenuItem"; title = "Color Adjustments"; ObjectID = "Bqb-4g-0Vj"; */
-"Bqb-4g-0Vj.title" = "색상 조정";
-
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; */
 "Bw7-FT-i3A.title" = "다음으로 저장...";
 
@@ -244,11 +244,17 @@
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "CCI-91-OTE"; */
 "CCI-91-OTE.title" = "디버그";
 
+/* Class = "NSMenuItem"; title = "Reset Adjustments"; ObjectID = "CWt-uZ-m0y"; */
+"CWt-uZ-m0y.title" = "조정 재설정";
+
 /* Class = "NSMenuItem"; title = "Lighten"; ObjectID = "CX5-NW-6ca"; */
 "CX5-NW-6ca.title" = "밝게 만들기";
 
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "CYM-3I-YiJ"; */
 "CYM-3I-YiJ.title" = "사용하지 않음";
+
+/* Class = "NSMenuItem"; title = "Color Adjustments"; ObjectID = "Cgu-mQ-UDY"; */
+"Cgu-mQ-UDY.title" = "색상 조정";
 
 /* Class = "NSMenu"; title = "Arrange"; ObjectID = "D2d-g4-MTd"; */
 "D2d-g4-MTd.title" = "정렬";
@@ -279,6 +285,9 @@
 
 /* Class = "NSMenuItem"; title = "90° Right"; ObjectID = "ETz-de-pgX"; */
 "ETz-de-pgX.title" = "오른쪽으로 90°";
+
+/* Class = "NSMenuItem"; title = "Copy Adjustments"; ObjectID = "EUQ-s2-ria"; */
+"EUQ-s2-ria.title" = "Copy Adjustments";
 
 /* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "Ecy-pq-DDd"; */
 "Ecy-pq-DDd.title" = "사각형";
@@ -388,8 +397,8 @@
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "모두 맨 앞으로 가져오기";
 
-/* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "LVt-zR-cLO"; */
-"LVt-zR-cLO.title" = "스타일 붙이기";
+/* Class = "NSMenuItem"; title = "Paste Styles"; ObjectID = "LVt-zR-cLO"; */
+"LVt-zR-cLO.title" = "Paste Styles";
 
 /* Class = "NSMenuItem"; title = "Preserve Transparency"; ObjectID = "Ler-0C-0Pw"; */
 "Ler-0C-0Pw.title" = "투명도 유지";
@@ -415,8 +424,11 @@
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "Noa-2H-nfS"; */
 "Noa-2H-nfS.title" = "가리기";
 
-/* Class = "NSMenu"; title = "Color Adjustments"; ObjectID = "OCs-w0-hod"; */
-"OCs-w0-hod.title" = "색상 조정";
+/* Class = "NSMenuItem"; title = "Paste Effects"; ObjectID = "O5Y-1z-mqe"; */
+"O5Y-1z-mqe.title" = "Paste Effects";
+
+/* Class = "NSMenu"; title = "Styles"; ObjectID = "OPD-jd-2UT"; */
+"OPD-jd-2UT.title" = "Styles";
 
 /* Class = "NSMenuItem"; title = "Export for Web..."; ObjectID = "OUn-Fb-dMt"; */
 "OUn-Fb-dMt.title" = "웹용으로 내보내기...";
@@ -445,6 +457,9 @@
 /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "PuN-vm-Jxe"; */
 "PuN-vm-Jxe.title" = "잠금";
 
+/* Class = "NSMenuItem"; title = "Paste Adjustments"; ObjectID = "QC9-n1-aXz"; */
+"QC9-n1-aXz.title" = "Paste Adjustments";
+
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "QFn-P5-Jdq"; */
 "QFn-P5-Jdq.title" = "아래";
 
@@ -460,8 +475,8 @@
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
 "R4o-n2-Eq4.title" = "확대/축소";
 
-/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "R6w-We-AtB"; */
-"R6w-We-AtB.title" = "색상 스타일";
+/* Class = "NSMenuItem"; title = "Copy Styles"; ObjectID = "R6w-We-AtB"; */
+"R6w-We-AtB.title" = "Copy Styles";
 
 /* Class = "NSMenuItem"; title = "Ligature"; ObjectID = "RDT-SL-TGl"; */
 "RDT-SL-TGl.title" = "합자";
@@ -474,9 +489,6 @@
 
 /* Class = "NSMenuItem"; title = "Twitter"; ObjectID = "SjB-L9-DnR"; */
 "SjB-L9-DnR.title" = "Twitter";
-
-/* Class = "NSMenu"; title = "Effects"; ObjectID = "TNi-FU-LiJ"; */
-"TNi-FU-LiJ.title" = "효과";
 
 /* Class = "NSMenuItem"; title = "Align Top"; ObjectID = "TU7-cX-Wds"; */
 "TU7-cX-Wds.title" = "위쪽 맞춤";
@@ -513,6 +525,9 @@
 
 /* Class = "NSMenuItem"; title = "Smart Erase"; ObjectID = "Wob-e1-cjX"; */
 "Wob-e1-cjX.title" = "스마트 지우기";
+
+/* Class = "NSMenuItem"; title = "Reset Styles"; ObjectID = "Wzm-T2-rlA"; */
+"Wzm-T2-rlA.title" = "스타일 재설정";
 
 /* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "X4M-jo-Ply"; */
 "X4M-jo-Ply.title" = "위 첨자";
@@ -591,6 +606,12 @@
 
 /* Class = "NSMenuItem"; title = "Show Guides"; ObjectID = "bN7-q6-0rR"; */
 "bN7-q6-0rR.title" = "안내선 보기";
+
+/* Class = "NSMenuItem"; title = "Styles"; ObjectID = "bZJ-Ya-HDP"; */
+"bZJ-Ya-HDP.title" = "Styles";
+
+/* Class = "NSMenuItem"; title = "Effects"; ObjectID = "bgQ-OV-Arc"; */
+"bgQ-OV-Arc.title" = "효과";
 
 /* Class = "NSMenuItem"; title = "Import…"; ObjectID = "biM-Pg-5Wa"; */
 "biM-Pg-5Wa.title" = "가져오기...";
@@ -715,6 +736,12 @@
 /* Class = "NSMenuItem"; title = "Show Gradients"; ObjectID = "j3y-av-OGs"; */
 "j3y-av-OGs.title" = "그라디언트 보기";
 
+/* Class = "NSMenuItem"; title = "Reset Effects"; ObjectID = "jDY-3P-HXk"; */
+"jDY-3P-HXk.title" = "효과 재설정";
+
+/* Class = "NSMenuItem"; title = "Flatten Adjustments"; ObjectID = "jY1-1W-6hT"; */
+"jY1-1W-6hT.title" = "조정 병합";
+
 /* Class = "NSMenuItem"; title = "Format"; ObjectID = "jxT-CU-nIS"; */
 "jxT-CU-nIS.title" = "포맷";
 
@@ -726,6 +753,9 @@
 
 /* Class = "NSMenuItem"; title = "Rotate 180°"; ObjectID = "k5C-es-oss"; */
 "k5C-es-oss.title" = "180° 회전";
+
+/* Class = "NSMenu"; title = "Effects"; ObjectID = "kLT-0t-Ull"; */
+"kLT-0t-Ull.title" = "효과";
 
 /* Class = "NSMenuItem"; title = "Outline"; ObjectID = "kX6-u9-fWW"; */
 "kX6-u9-fWW.title" = "윤곽선";
@@ -739,6 +769,9 @@
 /* Class = "NSMenuItem"; title = "Erase"; ObjectID = "ly4-gA-glq"; */
 "ly4-gA-glq.title" = "지우기";
 
+/* Class = "NSMenu"; title = "Color Adjustments"; ObjectID = "mAa-o1-G1j"; */
+"mAa-o1-G1j.title" = "색상 조정";
+
 /* Class = "NSMenuItem"; title = "Use All"; ObjectID = "mCT-Qg-bew"; */
 "mCT-Qg-bew.title" = "모두 사용";
 
@@ -747,6 +780,9 @@
 
 /* Class = "NSMenuItem"; title = "Draw"; ObjectID = "mQO-S1-Uki"; */
 "mQO-S1-Uki.title" = "그리기";
+
+/* Class = "NSMenuItem"; title = "Copy Effects"; ObjectID = "mky-KW-sa6"; */
+"mky-KW-sa6.title" = "Copy Effects";
 
 /* Class = "NSMenuItem"; title = "Acknowledgements"; ObjectID = "n9k-66-9CP"; */
 "n9k-66-9CP.title" = "승인";
@@ -847,9 +883,6 @@
 /* Class = "NSMenuItem"; title = "Free Selection"; ObjectID = "vf7-kS-8wW"; */
 "vf7-kS-8wW.title" = "자유 선택";
 
-/* Class = "NSMenuItem"; title = "Effects"; ObjectID = "vfc-74-ZJK"; */
-"vfc-74-ZJK.title" = "효과";
-
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "vuW-Qv-trg"; */
 "vuW-Qv-trg.title" = "기본값 사용";
 
@@ -885,6 +918,9 @@
 
 /* Class = "NSMenuItem"; title = "Thumbnails"; ObjectID = "ySL-FB-BWR"; */
 "ySL-FB-BWR.title" = "축소판 그림";
+
+/* Class = "NSMenuItem"; title = "Flatten Styles"; ObjectID = "ykH-od-r0e"; */
+"ykH-od-r0e.title" = "스타일 병합";
 
 /* Class = "NSMenuItem"; title = "Character Spacing"; ObjectID = "ypw-se-h8B"; */
 "ypw-se-h8B.title" = "글자 간격";
