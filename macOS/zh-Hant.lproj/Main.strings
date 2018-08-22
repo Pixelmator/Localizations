@@ -26,13 +26,13 @@
 "11h-sS-0oT.title" = "放大";
 
 /* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "16k-Fp-pDQ"; */
-"16k-Fp-pDQ.title" = "變為小寫";
+"16k-Fp-pDQ.title" = "小寫";
 
 /* Class = "NSMenuItem"; title = "Bottom Edges"; ObjectID = "19s-bU-ZGV"; */
 "19s-bU-ZGV.title" = "底部邊緣";
 
 /* Class = "NSMenuItem"; title = "Polygon"; ObjectID = "1IY-qK-eAL"; */
-"1IY-qK-eAL.title" = "多邊形";
+"1IY-qK-eAL.title" = "多角形";
 
 /* Class = "NSMenuItem"; title = "Bold"; ObjectID = "1P3-cJ-N5l"; */
 "1P3-cJ-N5l.title" = "粗體";
@@ -53,7 +53,7 @@
 "1cG-yt-H29.title" = "工具";
 
 /* Class = "NSMenu"; title = "Draw"; ObjectID = "1hZ-Ta-zVa"; */
-"1hZ-Ta-zVa.title" = "繪製";
+"1hZ-Ta-zVa.title" = "繪圖";
 
 /* Class = "NSMenuItem"; title = "Layer"; ObjectID = "1j5-EN-85T"; */
 "1j5-EN-85T.title" = "圖層";
@@ -146,7 +146,7 @@
 "5or-wt-gRk.title" = "選擇顏色範圍...";
 
 /* Class = "NSMenuItem"; title = "Effects"; ObjectID = "5rk-am-Zsh"; */
-"5rk-am-Zsh.title" = "效果";
+"5rk-am-Zsh.title" = "特效";
 
 /* Class = "NSMenuItem"; title = "Deselect"; ObjectID = "6UP-vV-ppP"; */
 "6UP-vV-ppP.title" = "取消選取";
@@ -172,6 +172,9 @@
 /* Class = "NSMenuItem"; title = "Refine Selection..."; ObjectID = "7WV-vv-BzK"; */
 "7WV-vv-BzK.title" = "調整選取範圍...";
 
+/* Class = "NSMenuItem"; title = "Flatten Effects"; ObjectID = "7X1-FB-Xvc"; */
+"7X1-FB-Xvc.title" = "拼合效果";
+
 /* Class = "NSMenuItem"; title = "Exclude Shapes"; ObjectID = "7cw-r3-Adn"; */
 "7cw-r3-Adn.title" = "排除形狀";
 
@@ -182,7 +185,7 @@
 "8AY-Ic-BXL.title" = "縮小";
 
 /* Class = "NSMenuItem"; title = "Polygon"; ObjectID = "8aj-8k-Ape"; */
-"8aj-8k-Ape.title" = "多邊形";
+"8aj-8k-Ape.title" = "多角形";
 
 /* Class = "NSMenuItem"; title = "Shape"; ObjectID = "8cw-Bl-1ix"; */
 "8cw-Bl-1ix.title" = "形狀";
@@ -226,14 +229,11 @@
 /* Class = "NSMenuItem"; title = "Soften"; ObjectID = "Bp7-Mz-P5z"; */
 "Bp7-Mz-P5z.title" = "柔化";
 
-/* Class = "NSMenuItem"; title = "Color Adjustments"; ObjectID = "Bqb-4g-0Vj"; */
-"Bqb-4g-0Vj.title" = "顏色調整";
-
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; */
 "Bw7-FT-i3A.title" = "儲存為⋯";
 
 /* Class = "NSMenu"; title = "Select"; ObjectID = "C22-iW-Vb0"; */
-"C22-iW-Vb0.title" = "選取";
+"C22-iW-Vb0.title" = "選擇";
 
 /* Class = "NSMenuItem"; title = "Hide Tool Options"; ObjectID = "C93-9L-LO2"; */
 "C93-9L-LO2.title" = "隱藏工具選項";
@@ -244,11 +244,17 @@
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "CCI-91-OTE"; */
 "CCI-91-OTE.title" = "除錯";
 
+/* Class = "NSMenuItem"; title = "Reset Adjustments"; ObjectID = "CWt-uZ-m0y"; */
+"CWt-uZ-m0y.title" = "重置調整";
+
 /* Class = "NSMenuItem"; title = "Lighten"; ObjectID = "CX5-NW-6ca"; */
 "CX5-NW-6ca.title" = "變亮";
 
 /* Class = "NSMenuItem"; title = "Use None"; ObjectID = "CYM-3I-YiJ"; */
 "CYM-3I-YiJ.title" = "不使用";
+
+/* Class = "NSMenuItem"; title = "Color Adjustments"; ObjectID = "Cgu-mQ-UDY"; */
+"Cgu-mQ-UDY.title" = "顏色調整";
 
 /* Class = "NSMenu"; title = "Arrange"; ObjectID = "D2d-g4-MTd"; */
 "D2d-g4-MTd.title" = "排列";
@@ -280,8 +286,11 @@
 /* Class = "NSMenuItem"; title = "90° Right"; ObjectID = "ETz-de-pgX"; */
 "ETz-de-pgX.title" = "向右 90°";
 
+/* Class = "NSMenuItem"; title = "Copy Adjustments"; ObjectID = "EUQ-s2-ria"; */
+"EUQ-s2-ria.title" = "拷貝調整";
+
 /* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "Ecy-pq-DDd"; */
-"Ecy-pq-DDd.title" = "矩形";
+"Ecy-pq-DDd.title" = "長方形";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "説明";
@@ -344,7 +353,7 @@
 "HiK-UB-YhR.title" = "凹凸";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
-"HyV-fh-RgO.title" = "檢視";
+"HyV-fh-RgO.title" = "檢視區";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
 "IAo-SY-fd9.title" = "打開⋯";
@@ -362,7 +371,7 @@
 "K9j-5T-lRl.title" = "底線";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "KRM-Ly-Y3H"; */
-"KRM-Ly-Y3H.title" = "大寫字母";
+"KRM-Ly-Y3H.title" = "首字大寫";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
 "KaW-ft-85H.title" = "回復成儲存過的版本";
@@ -388,7 +397,7 @@
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "全部移到最前";
 
-/* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "LVt-zR-cLO"; */
+/* Class = "NSMenuItem"; title = "Paste Styles"; ObjectID = "LVt-zR-cLO"; */
 "LVt-zR-cLO.title" = "貼上樣式";
 
 /* Class = "NSMenuItem"; title = "Preserve Transparency"; ObjectID = "Ler-0C-0Pw"; */
@@ -415,8 +424,11 @@
 /* Class = "NSMenuItem"; title = "Hide"; ObjectID = "Noa-2H-nfS"; */
 "Noa-2H-nfS.title" = "隱藏";
 
-/* Class = "NSMenu"; title = "Color Adjustments"; ObjectID = "OCs-w0-hod"; */
-"OCs-w0-hod.title" = "顏色調整";
+/* Class = "NSMenuItem"; title = "Paste Effects"; ObjectID = "O5Y-1z-mqe"; */
+"O5Y-1z-mqe.title" = "貼上效果";
+
+/* Class = "NSMenu"; title = "Styles"; ObjectID = "OPD-jd-2UT"; */
+"OPD-jd-2UT.title" = "樣式";
 
 /* Class = "NSMenuItem"; title = "Export for Web..."; ObjectID = "OUn-Fb-dMt"; */
 "OUn-Fb-dMt.title" = "為 Web 匯出...";
@@ -434,7 +446,7 @@
 "OnT-SG-dxW.title" = "緊密";
 
 /* Class = "NSMenuItem"; title = "Choose..."; ObjectID = "PAH-CN-M8e"; */
-"PAH-CN-M8e.title" = "選取⋯";
+"PAH-CN-M8e.title" = "選擇⋯";
 
 /* Class = "NSMenuItem"; ibExternalAccessibilityHelp = "Convert into Pixels"; ObjectID = "PS5-r9-IOq"; */
 "PS5-r9-IOq.ibExternalAccessibilityHelp" = "轉換成像素";
@@ -443,7 +455,10 @@
 "PS5-r9-IOq.title" = "轉換成像素";
 
 /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "PuN-vm-Jxe"; */
-"PuN-vm-Jxe.title" = "鎖定";
+"PuN-vm-Jxe.title" = "鎖頭";
+
+/* Class = "NSMenuItem"; title = "Paste Adjustments"; ObjectID = "QC9-n1-aXz"; */
+"QC9-n1-aXz.title" = "貼上調整";
 
 /* Class = "NSMenuItem"; title = "Lower"; ObjectID = "QFn-P5-Jdq"; */
 "QFn-P5-Jdq.title" = "調低";
@@ -460,7 +475,7 @@
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
 "R4o-n2-Eq4.title" = "縮放";
 
-/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "R6w-We-AtB"; */
+/* Class = "NSMenuItem"; title = "Copy Styles"; ObjectID = "R6w-We-AtB"; */
 "R6w-We-AtB.title" = "拷貝樣式";
 
 /* Class = "NSMenuItem"; title = "Ligature"; ObjectID = "RDT-SL-TGl"; */
@@ -475,14 +490,11 @@
 /* Class = "NSMenuItem"; title = "Twitter"; ObjectID = "SjB-L9-DnR"; */
 "SjB-L9-DnR.title" = "Twitter";
 
-/* Class = "NSMenu"; title = "Effects"; ObjectID = "TNi-FU-LiJ"; */
-"TNi-FU-LiJ.title" = "效果";
-
 /* Class = "NSMenuItem"; title = "Align Top"; ObjectID = "TU7-cX-Wds"; */
 "TU7-cX-Wds.title" = "頂端對齊";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
-"Td7-aD-5lo.title" = "視窗";
+"Td7-aD-5lo.title" = "Window";
 
 /* Class = "NSMenuItem"; title = "Disable Mask"; ObjectID = "U5B-g5-PjL"; */
 "U5B-g5-PjL.title" = "禁用遮罩";
@@ -513,6 +525,9 @@
 
 /* Class = "NSMenuItem"; title = "Smart Erase"; ObjectID = "Wob-e1-cjX"; */
 "Wob-e1-cjX.title" = "智慧擦除";
+
+/* Class = "NSMenuItem"; title = "Reset Styles"; ObjectID = "Wzm-T2-rlA"; */
+"Wzm-T2-rlA.title" = "重置樣式";
 
 /* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "X4M-jo-Ply"; */
 "X4M-jo-Ply.title" = "上標";
@@ -566,7 +581,7 @@
 "ZHT-Td-eEe.title" = "群組";
 
 /* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "ZXL-4V-BQu"; */
-"ZXL-4V-BQu.title" = "變為大寫";
+"ZXL-4V-BQu.title" = "大寫";
 
 /* Class = "NSMenuItem"; title = "Color Fill"; ObjectID = "ZXR-AM-fet"; */
 "ZXR-AM-fet.title" = "填充顏色";
@@ -581,7 +596,7 @@
 "aTl-1u-JFS.title" = "列印⋯";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
-"aUF-d1-5bR.title" = "視窗";
+"aUF-d1-5bR.title" = "Window";
 
 /* Class = "NSMenuItem"; title = "Right Edges"; ObjectID = "aWj-ga-urp"; */
 "aWj-ga-urp.title" = "右側邊緣";
@@ -591,6 +606,12 @@
 
 /* Class = "NSMenuItem"; title = "Show Guides"; ObjectID = "bN7-q6-0rR"; */
 "bN7-q6-0rR.title" = "顯示輔助線";
+
+/* Class = "NSMenuItem"; title = "Styles"; ObjectID = "bZJ-Ya-HDP"; */
+"bZJ-Ya-HDP.title" = "樣式";
+
+/* Class = "NSMenuItem"; title = "Effects"; ObjectID = "bgQ-OV-Arc"; */
+"bgQ-OV-Arc.title" = "特效";
 
 /* Class = "NSMenuItem"; title = "Import…"; ObjectID = "biM-Pg-5Wa"; */
 "biM-Pg-5Wa.title" = "匯入...";
@@ -632,7 +653,7 @@
 "dRJ-4n-Yzg.title" = "還原";
 
 /* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "dWq-1S-UlG"; */
-"dWq-1S-UlG.title" = "矩形";
+"dWq-1S-UlG.title" = "長方形";
 
 /* Class = "NSMenuItem"; ibExternalAccessibilityHelp = "Canvas Size"; ObjectID = "dmC-8X-bDI"; */
 "dmC-8X-bDI.ibExternalAccessibilityHelp" = "畫布大小";
@@ -659,7 +680,7 @@
 "fO7-h4-6pg.title" = "顯示文檔資訊";
 
 /* Class = "NSMenuItem"; title = "Select"; ObjectID = "fZZ-Gf-srs"; */
-"fZZ-Gf-srs.title" = "選取";
+"fZZ-Gf-srs.title" = "選擇";
 
 /* Class = "NSMenuItem"; title = "Distribute Objects"; ObjectID = "fjp-Sg-CYK"; */
 "fjp-Sg-CYK.title" = "分佈物件";
@@ -701,7 +722,7 @@
 "hf1-mV-TPt.title" = "添加遮罩";
 
 /* Class = "NSMenuItem"; title = "Export..."; ObjectID = "hyl-gl-4Vv"; */
-"hyl-gl-4Vv.title" = "匯出...";
+"hyl-gl-4Vv.title" = "輸出⋯";
 
 /* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
 "hz9-B4-Xy5.title" = "服務";
@@ -715,6 +736,12 @@
 /* Class = "NSMenuItem"; title = "Show Gradients"; ObjectID = "j3y-av-OGs"; */
 "j3y-av-OGs.title" = "顯示梯度";
 
+/* Class = "NSMenuItem"; title = "Reset Effects"; ObjectID = "jDY-3P-HXk"; */
+"jDY-3P-HXk.title" = "重置效果";
+
+/* Class = "NSMenuItem"; title = "Flatten Adjustments"; ObjectID = "jY1-1W-6hT"; */
+"jY1-1W-6hT.title" = "平坦調整";
+
 /* Class = "NSMenuItem"; title = "Format"; ObjectID = "jxT-CU-nIS"; */
 "jxT-CU-nIS.title" = "格式";
 
@@ -726,6 +753,9 @@
 
 /* Class = "NSMenuItem"; title = "Rotate 180°"; ObjectID = "k5C-es-oss"; */
 "k5C-es-oss.title" = "旋轉 180°";
+
+/* Class = "NSMenu"; title = "Effects"; ObjectID = "kLT-0t-Ull"; */
+"kLT-0t-Ull.title" = "特效";
 
 /* Class = "NSMenuItem"; title = "Outline"; ObjectID = "kX6-u9-fWW"; */
 "kX6-u9-fWW.title" = "描邊";
@@ -739,6 +769,9 @@
 /* Class = "NSMenuItem"; title = "Erase"; ObjectID = "ly4-gA-glq"; */
 "ly4-gA-glq.title" = "清除";
 
+/* Class = "NSMenu"; title = "Color Adjustments"; ObjectID = "mAa-o1-G1j"; */
+"mAa-o1-G1j.title" = "顏色調整";
+
 /* Class = "NSMenuItem"; title = "Use All"; ObjectID = "mCT-Qg-bew"; */
 "mCT-Qg-bew.title" = "使用全部";
 
@@ -746,7 +779,10 @@
 "mCo-ib-Edy.title" = "水平置中";
 
 /* Class = "NSMenuItem"; title = "Draw"; ObjectID = "mQO-S1-Uki"; */
-"mQO-S1-Uki.title" = "繪製";
+"mQO-S1-Uki.title" = "繪圖";
+
+/* Class = "NSMenuItem"; title = "Copy Effects"; ObjectID = "mky-KW-sa6"; */
+"mky-KW-sa6.title" = "拷貝效果";
 
 /* Class = "NSMenuItem"; title = "Acknowledgements"; ObjectID = "n9k-66-9CP"; */
 "n9k-66-9CP.title" = "致謝";
@@ -806,7 +842,7 @@
 "tgB-fT-dQ4.title" = "排列";
 
 /* Class = "NSMenu"; title = "Font"; ObjectID = "thr-oC-PYC"; */
-"thr-oC-PYC.title" = "字體";
+"thr-oC-PYC.title" = "Font";
 
 /* Class = "NSMenuItem"; title = "Make Smooth Point"; ObjectID = "tlq-Ue-kSa"; */
 "tlq-Ue-kSa.title" = "製作平滑點";
@@ -845,10 +881,7 @@
 "vT1-It-f2w.title" = "色彩深度...";
 
 /* Class = "NSMenuItem"; title = "Free Selection"; ObjectID = "vf7-kS-8wW"; */
-"vf7-kS-8wW.title" = "自由選取";
-
-/* Class = "NSMenuItem"; title = "Effects"; ObjectID = "vfc-74-ZJK"; */
-"vfc-74-ZJK.title" = "效果";
+"vf7-kS-8wW.title" = "自由選取範圍";
 
 /* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "vuW-Qv-trg"; */
 "vuW-Qv-trg.title" = "使用預設值";
@@ -860,7 +893,7 @@
 "wTr-oD-Tg9.title" = "形狀";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "説明";
+"wpr-3q-Mcd.title" = "輔助說明";
 
 /* Class = "NSMenuItem"; title = "Desaturate"; ObjectID = "wqI-ds-3hr"; */
 "wqI-ds-3hr.title" = "去色";
@@ -885,6 +918,9 @@
 
 /* Class = "NSMenuItem"; title = "Thumbnails"; ObjectID = "ySL-FB-BWR"; */
 "ySL-FB-BWR.title" = "縮覽圖";
+
+/* Class = "NSMenuItem"; title = "Flatten Styles"; ObjectID = "ykH-od-r0e"; */
+"ykH-od-r0e.title" = "平坦樣式";
 
 /* Class = "NSMenuItem"; title = "Character Spacing"; ObjectID = "ypw-se-h8B"; */
 "ypw-se-h8B.title" = "字元間距";

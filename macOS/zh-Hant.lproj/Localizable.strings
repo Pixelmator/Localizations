@@ -8,6 +8,9 @@
 "%@ Adjustment" = "%@ 調整";
 
 /* No comment provided by engineer. */
+"%@ Beta" = "%@ Beta";
+
+/* No comment provided by engineer. */
 "%@ layer" = "%@ 圖層";
 
 /* No comment provided by engineer. */
@@ -380,7 +383,7 @@
 "Checkerboard" = "棋盤式";
 
 /* No comment provided by engineer. */
-"Choose..." = "選取⋯";
+"Choose..." = "選擇⋯";
 
 /* No comment provided by engineer. */
 "Chromatic Noise Tracking" = "彩色雜訊跟蹤";
@@ -506,13 +509,22 @@
 "Copy" = "拷貝";
 
 /* No comment provided by engineer. */
-"Copy and Paste as Layer" = "複製並粘貼為圖層";
+"Copy Adjustments" = "拷貝調整";
 
 /* No comment provided by engineer. */
-"Copy Mask" = "複製遮罩";
+"Copy and Paste as Layer" = "拷貝並貼上為圖層";
+
+/* No comment provided by engineer. */
+"Copy Effects" = "拷貝效果";
+
+/* No comment provided by engineer. */
+"Copy Mask" = "拷貝遮罩";
 
 /* No comment provided by engineer. */
 "Copy Style" = "拷貝樣式";
+
+/* No comment provided by engineer. */
+"Copy Styles" = "拷貝樣式";
 
 /* No comment provided by engineer. */
 "Copyright © %@ Pixelmator Team." = "Copyright © %@ Pixelmator Team.";
@@ -557,7 +569,7 @@
 "Cut" = "剪下";
 
 /* No comment provided by engineer. */
-"Cut and Paste as Layer" = "剪切並粘貼為圖層";
+"Cut and Paste as Layer" = "剪切並貼上為圖層";
 
 /* No comment provided by engineer. */
 "Cyan / Red" = "青色/紅色";
@@ -800,7 +812,7 @@
 "Export Slices as Images" = "將切片匯出為圖像";
 
 /* No comment provided by engineer. */
-"Export..." = "匯出...";
+"Export..." = "輸出⋯";
 
 /* No comment provided by engineer. */
 "Exporting Document" = "匯出檔案";
@@ -1004,7 +1016,7 @@
 "Hard Mix" = "實色疊印混合";
 
 /* No comment provided by engineer. */
-"Height:" = "高度：";
+"Height:" = "長度：";
 
 /* No comment provided by engineer. */
 "Hide" = "隱藏";
@@ -1112,7 +1124,7 @@
 "Image Size" = "影像大小";
 
 /* No comment provided by engineer. */
-"Import" = "匯入";
+"Import" = "輸入";
 
 /* No comment provided by engineer. */
 "Import..." = "匯入...";
@@ -1460,7 +1472,16 @@
 "Paste" = "貼上";
 
 /* No comment provided by engineer. */
+"Paste Adjustments" = "貼上調整";
+
+/* No comment provided by engineer. */
+"Paste Effects" = "貼上效果";
+
+/* No comment provided by engineer. */
 "Paste Style" = "貼上樣式";
+
+/* No comment provided by engineer. */
+"Paste Styles" = "貼上樣式";
 
 /* No comment provided by engineer. */
 "Path" = "路徑";
@@ -1523,7 +1544,7 @@
 "Points: %d" = "點：%d";
 
 /* No comment provided by engineer. */
-"Polygon" = "多邊形";
+"Polygon" = "多角形";
 
 /* No comment provided by engineer. */
 "Polygonal Select" = "多邊形選取";
@@ -1598,7 +1619,7 @@
 "RAW Layer" = "RAW 圖層";
 
 /* No comment provided by engineer. */
-"Rectangle" = "矩形";
+"Rectangle" = "長方形";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "矩形選取";
@@ -1887,6 +1908,9 @@
 
 /* No comment provided by engineer. */
 "Selection Rotate" = "選區旋轉";
+
+/* No comment provided by engineer. */
+"Selective Color" = "選擇性顏色";
 
 /* No comment provided by engineer. */
 "Send %@ Backwards" = "將 %@ 向後移動";
@@ -2387,7 +2411,7 @@
 "Vibrance" = "自然飽和度";
 
 /* No comment provided by engineer. */
-"View" = "檢視";
+"View" = "檢視區";
 
 /* No comment provided by engineer. */
 "Vignette" = "暈邊";
@@ -2414,7 +2438,7 @@
 "White Balance" = "白平衡";
 
 /* No comment provided by engineer. */
-"Width:" = "寬度：";
+"Width:" = "寬：";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "是否將更改儲存到原始的 JPEG/PNG/TIFF 檔或 Pixelmator Pro 檔案？";
@@ -2469,3 +2493,6 @@
 
 /* No comment provided by engineer. */
 "“Pixelmator Pro” can’t be opened because your device does not support the Metal graphics technology." = "無法打開「Pixelmator Pro」，因為您的設備不支援 Metal 圖形技術。";
+
+/* No comment provided by engineer. */
+"⚠️ Error Calculating Size" = "⚠️計算大小錯誤";
