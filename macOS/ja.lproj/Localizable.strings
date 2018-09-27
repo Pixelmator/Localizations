@@ -23,6 +23,9 @@
 "%@ Trial" = "%@試用";
 
 /* No comment provided by engineer. */
+"%@ was forced to close due to a graphics driver issue. Would you like to reopen your documents?" = "%@ was forced to close due to a graphics driver issue. Would you like to reopen your documents?";
+
+/* No comment provided by engineer. */
 "%@-bits per channel" = "%@ビット/チャンネル";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Actual Size" = "実際のサイズ";
+
+/* No comment provided by engineer. */
+"Add" = "追加";
 
 /* No comment provided by engineer. */
 "Add %@" = "%@を追加";
@@ -383,6 +389,9 @@
 "Checkerboard" = "チェッカーボード";
 
 /* No comment provided by engineer. */
+"Choose a Template" = "テンプレートを選ぶ";
+
+/* No comment provided by engineer. */
 "Choose..." = "選択...";
 
 /* No comment provided by engineer. */
@@ -402,6 +411,9 @@
 
 /* No comment provided by engineer. */
 "Circular Wrap" = "円形状ラップ";
+
+/* No comment provided by engineer. */
+"Clear Guides" = "Clear Guides";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "選択を消去";
@@ -689,6 +701,12 @@
 "Don't Save" = "保存しない";
 
 /* No comment provided by engineer. */
+"Don’t Allow" = "Don’t Allow";
+
+/* No comment provided by engineer. */
+"Don’t Reopen" = "Don’t Reopen";
+
+/* No comment provided by engineer. */
 "Double-Headed Arrow" = "両方向矢印";
 
 /* No comment provided by engineer. */
@@ -947,6 +965,12 @@
 "Generator" = "ジェネレータ";
 
 /* No comment provided by engineer. */
+"Gilbert Color" = "Gilbert Color";
+
+/* No comment provided by engineer. */
+"Gilbert Color is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." = "Gilbert Color is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.";
+
+/* No comment provided by engineer. */
 "Glass Lozenge" = "ガラスひし形";
 
 /* No comment provided by engineer. */
@@ -1172,6 +1196,9 @@
 "ISO %i" = "ISO %i";
 
 /* No comment provided by engineer. */
+"It looks like “%@” was moved or renamed while it was open. Please quit and relaunch the application." = "It looks like “%@” was moved or renamed while it was open. Please quit and relaunch the application.";
+
+/* No comment provided by engineer. */
 "It was last edited in an older version of Pixelmator. Upgrading will convert it to the new Pixelmator format. To preserve the original and work on a copy, click Edit a Copy." = "これは以前のバージョンのPixelmatorで編集されました。アップグレードすると新しいPixelmator形式に変換されます。オリジナルを保持してコピーで作業するには [コピーして編集] をクリックします。";
 
 /* No comment provided by engineer. */
@@ -1266,6 +1293,9 @@
 
 /* No comment provided by engineer. */
 "Lock" = "ロック";
+
+/* No comment provided by engineer. */
+"Lock Guides" = "Lock Guides";
 
 /* Quality */
 "Low" = "低";
@@ -1436,6 +1466,9 @@
 "Opacity Scatter" = "不透明度の散布";
 
 /* No comment provided by engineer. */
+"Open System Preferences" = "Open System Preferences";
+
+/* No comment provided by engineer. */
 "Orientation" = "向き";
 
 /* No comment provided by engineer. */
@@ -1533,6 +1566,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Trial" = "Pixelmator Pro Trial";
 
 /* No comment provided by engineer. */
 "Pixels" = "ピクセル";
@@ -1689,6 +1725,9 @@
 
 /* No comment provided by engineer. */
 "Rename \"%@\"" = "\"%@\"の名称を変更";
+
+/* No comment provided by engineer. */
+"Reopen" = "Reopen";
 
 /* No comment provided by engineer. */
 "Reorder" = "順序を変更";
@@ -2384,6 +2423,9 @@
 "Unlock" = "ロックを解除";
 
 /* No comment provided by engineer. */
+"Unlock Guides" = "Unlock Guides";
+
+/* No comment provided by engineer. */
 "Untitled" = "無題";
 
 /* No comment provided by engineer. */
@@ -2435,6 +2477,9 @@
 "Wetness" = "湿気";
 
 /* No comment provided by engineer. */
+"What’s New in Pixelmator Pro" = "What’s New in Pixelmator Pro";
+
+/* No comment provided by engineer. */
 "White Balance" = "ホワイトバランス";
 
 /* No comment provided by engineer. */
@@ -2471,6 +2516,12 @@
 "You can download the latest version of %@ from the Mac App Store." = "Mac App Storeから最新版の%@をダウンロードできます。";
 
 /* No comment provided by engineer. */
+"You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences.";
+
+/* No comment provided by engineer. */
+"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences.";
+
+/* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "この書類を開くには新しいバージョンの%@が必要です。";
 
 /* No comment provided by engineer. */
@@ -2489,10 +2540,16 @@
 "Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
 
 /* No comment provided by engineer. */
+"“%@.app” would like to access your FaceTime camera." = "“%@.app” would like to access your FaceTime camera.";
+
+/* No comment provided by engineer. */
+"“%@.app” would like to access your photos." = "“%@.app” would like to access your photos.";
+
+/* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "“%@”はすでに存在します。置き換えますか？";
 
 /* No comment provided by engineer. */
-"“Pixelmator Pro” can’t be opened because your device does not support the Metal graphics technology." = "お使いのデバイスがMetalグラフィックス技術をサポートしていないため、\"Pixelmator Pro\"を開くことができません。";
+"“%@” can’t be opened because your device does not support the Metal graphics technology." = "“%@” can’t be opened because your device does not support the Metal graphics technology.";
 
 /* No comment provided by engineer. */
 "⚠️ Error Calculating Size" = "⚠️ サイズ計算中のエラー";
