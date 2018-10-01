@@ -23,6 +23,9 @@
 "%@ Trial" = "Prueba de %@";
 
 /* No comment provided by engineer. */
+"%@ was forced to close due to a graphics driver issue. Would you like to reopen your documents?" = "Se ha tenido que cerrar %@ debido a un problema con el controlador de gráficos. ¿Quieres volver a abrir tus documentos?";
+
+/* No comment provided by engineer. */
 "%@-bits per channel" = "%@ bits por canal";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Actual Size" = "Tamaño real";
+
+/* No comment provided by engineer. */
+"Add" = "Añadir";
 
 /* No comment provided by engineer. */
 "Add %@" = "Añadir %@";
@@ -383,6 +389,9 @@
 "Checkerboard" = "Tablero";
 
 /* No comment provided by engineer. */
+"Choose a Template" = "Elige una plantilla";
+
+/* No comment provided by engineer. */
 "Choose..." = "Seleccionar...";
 
 /* No comment provided by engineer. */
@@ -402,6 +411,9 @@
 
 /* No comment provided by engineer. */
 "Circular Wrap" = "Envoltura";
+
+/* No comment provided by engineer. */
+"Clear Guides" = "Borrar guías";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Borrar selección";
@@ -689,6 +701,12 @@
 "Don't Save" = "No guardar";
 
 /* No comment provided by engineer. */
+"Don’t Allow" = "No permitir";
+
+/* No comment provided by engineer. */
+"Don’t Reopen" = "No volver a abrir";
+
+/* No comment provided by engineer. */
 "Double-Headed Arrow" = "Flecha de dos puntas";
 
 /* No comment provided by engineer. */
@@ -947,6 +965,12 @@
 "Generator" = "Generador";
 
 /* No comment provided by engineer. */
+"Gilbert Color" = "Gilbert Color";
+
+/* No comment provided by engineer. */
+"Gilbert Color is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." = "Gilbert Color se rige por una licencia Creative Commons Attribution-ShareAlike 4.0 International.";
+
+/* No comment provided by engineer. */
 "Glass Lozenge" = "Cristal Lozenge";
 
 /* No comment provided by engineer. */
@@ -1172,6 +1196,9 @@
 "ISO %i" = "ISO %i";
 
 /* No comment provided by engineer. */
+"It looks like “%@” was moved or renamed while it was open. Please quit and relaunch the application." = "Parece que \"%@\" se ha movido o se le ha cambiado el nombre cuando estaba abierto. Sal y reinicia la aplicación.";
+
+/* No comment provided by engineer. */
 "It was last edited in an older version of Pixelmator. Upgrading will convert it to the new Pixelmator format. To preserve the original and work on a copy, click Edit a Copy." = "Se editó por última vez en una versión anterior de Pixelmator. Si se actualiza, se convertirá al nuevo formato de Pixelmator. Para conservar el original y trabajar sobre una copia, haz clic en Editar una copia.";
 
 /* No comment provided by engineer. */
@@ -1266,6 +1293,9 @@
 
 /* No comment provided by engineer. */
 "Lock" = "Bloquear";
+
+/* No comment provided by engineer. */
+"Lock Guides" = "Bloquear guías";
 
 /* Quality */
 "Low" = "Baja";
@@ -1436,6 +1466,9 @@
 "Opacity Scatter" = "Dispersión de opacidad";
 
 /* No comment provided by engineer. */
+"Open System Preferences" = "Abrir preferencias del sistema";
+
+/* No comment provided by engineer. */
 "Orientation" = "Orientación";
 
 /* No comment provided by engineer. */
@@ -1533,6 +1566,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Trial" = "Prueba de Pixelmator Pro";
 
 /* No comment provided by engineer. */
 "Pixels" = "Píxeles";
@@ -1689,6 +1725,9 @@
 
 /* No comment provided by engineer. */
 "Rename \"%@\"" = "Renombrar \"%@\"";
+
+/* No comment provided by engineer. */
+"Reopen" = "Volver a abrir";
 
 /* No comment provided by engineer. */
 "Reorder" = "Reordenar";
@@ -2384,6 +2423,9 @@
 "Unlock" = "Desbloquear";
 
 /* No comment provided by engineer. */
+"Unlock Guides" = "Desbloquear guías";
+
+/* No comment provided by engineer. */
 "Untitled" = "Sin título";
 
 /* No comment provided by engineer. */
@@ -2435,6 +2477,9 @@
 "Wetness" = "Humedad";
 
 /* No comment provided by engineer. */
+"What’s New in Pixelmator Pro" = "Novedades en Pixelmator Pro";
+
+/* No comment provided by engineer. */
 "White Balance" = "Balance de blancos";
 
 /* No comment provided by engineer. */
@@ -2471,6 +2516,12 @@
 "You can download the latest version of %@ from the Mac App Store." = "Puedes descargar la última versión de %@ en el Mac App Store.";
 
 /* No comment provided by engineer. */
+"You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "Has denegado el acceso con anterioridad. Por tanto, si quieres usar la cámara FaceTime para añadir imágenes en los documentos, permite el acceso en las preferencias del sistema.";
+
+/* No comment provided by engineer. */
+"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "Has denegado el acceso con anterioridad. Por tanto, si quieres usar el explorador de fotos para abrir imágenes desde la fototeca de Fotos, permite el acceso en las preferencias del sistema.";
+
+/* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "Necesitas una nueva versión de %@ para abrir este documento.";
 
 /* No comment provided by engineer. */
@@ -2489,10 +2540,16 @@
 "Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
 
 /* No comment provided by engineer. */
+"“%@.app” would like to access your FaceTime camera." = "\"%@.app\" quiere acceder a tu cámara FaceTime.";
+
+/* No comment provided by engineer. */
+"“%@.app” would like to access your photos." = "\"%@.app\" quiere acceder a tus fotos.";
+
+/* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "“%@” ya existe. ¿Quieres reemplazarlo?";
 
 /* No comment provided by engineer. */
-"“Pixelmator Pro” can’t be opened because your device does not support the Metal graphics technology." = "\"Pixelmator Pro\" no se puede abrir porque tu dispositivo no es compatible con la tecnología de gráficos de Metal.";
+"“%@” can’t be opened because your device does not support the Metal graphics technology." = "\"%@\" no se puede abrir porque tu dispositivo no es compatible con la tecnología de gráficos de Metal.";
 
 /* No comment provided by engineer. */
 "⚠️ Error Calculating Size" = "⚠️ Error al calcular el tamaño";

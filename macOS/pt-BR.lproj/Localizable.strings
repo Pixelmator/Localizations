@@ -23,6 +23,9 @@
 "%@ Trial" = "Trial %@";
 
 /* No comment provided by engineer. */
+"%@ was forced to close due to a graphics driver issue. Would you like to reopen your documents?" = "%@ foi forçado a fechar devido a um problema no controlador gráfico. Deseja reabrir seus documentos?";
+
+/* No comment provided by engineer. */
 "%@-bits per channel" = "%@-bits por canal";
 
 /* No comment provided by engineer. */
@@ -96,6 +99,9 @@
 
 /* No comment provided by engineer. */
 "Actual Size" = "Tamanho real";
+
+/* No comment provided by engineer. */
+"Add" = "Adicionar";
 
 /* No comment provided by engineer. */
 "Add %@" = "Adicionar %@";
@@ -383,6 +389,9 @@
 "Checkerboard" = "Tabuleiro de damas";
 
 /* No comment provided by engineer. */
+"Choose a Template" = "Escolha um tema";
+
+/* No comment provided by engineer. */
 "Choose..." = "Escolher...";
 
 /* No comment provided by engineer. */
@@ -402,6 +411,9 @@
 
 /* No comment provided by engineer. */
 "Circular Wrap" = "Contorno circular";
+
+/* No comment provided by engineer. */
+"Clear Guides" = "Apagar guias";
 
 /* No comment provided by engineer. */
 "Clear Selection" = "Limpar seleção";
@@ -689,6 +701,12 @@
 "Don't Save" = "Não salvar";
 
 /* No comment provided by engineer. */
+"Don’t Allow" = "Não permitir";
+
+/* No comment provided by engineer. */
+"Don’t Reopen" = "Não reabrir";
+
+/* No comment provided by engineer. */
 "Double-Headed Arrow" = "Seta dupla";
 
 /* No comment provided by engineer. */
@@ -947,6 +965,12 @@
 "Generator" = "Gerador";
 
 /* No comment provided by engineer. */
+"Gilbert Color" = "Gilbert Color";
+
+/* No comment provided by engineer. */
+"Gilbert Color is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." = "Gilbert Color é licenciado sob a licença internacional Creative Commons Attribution-ShareAlike 4.0.";
+
+/* No comment provided by engineer. */
 "Glass Lozenge" = "Pastilha de vidro";
 
 /* No comment provided by engineer. */
@@ -1172,6 +1196,9 @@
 "ISO %i" = "ISO %i";
 
 /* No comment provided by engineer. */
+"It looks like “%@” was moved or renamed while it was open. Please quit and relaunch the application." = "Aparentemente “%@” foi movido ou renomeado enquanto estava aberto. Saia e recarregue o aplicativo.";
+
+/* No comment provided by engineer. */
 "It was last edited in an older version of Pixelmator. Upgrading will convert it to the new Pixelmator format. To preserve the original and work on a copy, click Edit a Copy." = "Foi editado em uma versão anterior do Pixelmator. A atualização converterá para o novo formato do Pixelmator. Para preservar o original e trabalhar em uma cópia, clique em Editar uma cópia.";
 
 /* No comment provided by engineer. */
@@ -1266,6 +1293,9 @@
 
 /* No comment provided by engineer. */
 "Lock" = "Bloquear";
+
+/* No comment provided by engineer. */
+"Lock Guides" = "Travar guias";
 
 /* Quality */
 "Low" = "Baixo";
@@ -1436,6 +1466,9 @@
 "Opacity Scatter" = "Dispersão de opacidade";
 
 /* No comment provided by engineer. */
+"Open System Preferences" = "Abrir preferências do sistema";
+
+/* No comment provided by engineer. */
 "Orientation" = "Orientação";
 
 /* No comment provided by engineer. */
@@ -1533,6 +1566,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Trial" = "Pixelmator Pro Trial";
 
 /* No comment provided by engineer. */
 "Pixels" = "Pixels";
@@ -1689,6 +1725,9 @@
 
 /* No comment provided by engineer. */
 "Rename \"%@\"" = "Renomear “%@\"";
+
+/* No comment provided by engineer. */
+"Reopen" = "Reabrir";
 
 /* No comment provided by engineer. */
 "Reorder" = "Reorganizar";
@@ -2384,6 +2423,9 @@
 "Unlock" = "Desbloquear";
 
 /* No comment provided by engineer. */
+"Unlock Guides" = "Destravar guias";
+
+/* No comment provided by engineer. */
 "Untitled" = "Sem nome";
 
 /* No comment provided by engineer. */
@@ -2435,6 +2477,9 @@
 "Wetness" = "Umidade";
 
 /* No comment provided by engineer. */
+"What’s New in Pixelmator Pro" = "Novidades do Pixelmator Pro";
+
+/* No comment provided by engineer. */
 "White Balance" = "Equilíbrio de branco";
 
 /* No comment provided by engineer. */
@@ -2471,6 +2516,12 @@
 "You can download the latest version of %@ from the Mac App Store." = "Baixe a versão mais recente do %@ na Mac App Store.";
 
 /* No comment provided by engineer. */
+"You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "Você negou o acesso anteriormente. Se desejar usar a câmera FaceTime para adicionar imagens a seus documentos, autorize o acesso nas Preferências do Sistema.";
+
+/* No comment provided by engineer. */
+"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "Você negou o acesso anteriormente. Se desejar usar o Navegador de Fotos para abrir imagens da sua biblioteca, autorize o acesso nas Preferências do Sistema.";
+
+/* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "É preciso uma versão mais recente do %@ para abrir este documento.";
 
 /* No comment provided by engineer. */
@@ -2489,10 +2540,16 @@
 "Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
 
 /* No comment provided by engineer. */
+"“%@.app” would like to access your FaceTime camera." = "“%@.app” deseja acessar sua câmera FaceTime.";
+
+/* No comment provided by engineer. */
+"“%@.app” would like to access your photos." = "“%@.app” deseja acessar suas fotos.";
+
+/* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "“%@” já existe. Deseja substituí-lo?";
 
 /* No comment provided by engineer. */
-"“Pixelmator Pro” can’t be opened because your device does not support the Metal graphics technology." = "O “Pixelmator Pro” não pode ser aberto porque seu dispositivo não é compatível com a tecnologia gráfica Metal.";
+"“%@” can’t be opened because your device does not support the Metal graphics technology." = "“%@” não pode ser aberto porque seu dispositivo não é compatível com a tecnologia gráfica Metal.";
 
 /* No comment provided by engineer. */
 "⚠️ Error Calculating Size" = "⚠️ Erro no cálculo do tamanho";
