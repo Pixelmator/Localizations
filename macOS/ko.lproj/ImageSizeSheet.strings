@@ -7,11 +7,11 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "ClN-Hs-whf"; */
 "ClN-Hs-whf.title" = "취소";
 
-/* Class = "NSTextFieldCell"; title = "Color of each pixel is compied from its  closest neighboring pixel in the original  image."; ObjectID = "CvN-SU-qkp"; */
-"CvN-SU-qkp.title" = "각 픽셀의 색상은 원본 이미지의 가장 인접한 픽셀에서 복사됩니다.";
+/* Class = "NSTextFieldCell"; title = "Good for upscaling and downscaling images with small details."; ObjectID = "CvN-SU-qkp"; */
+"CvN-SU-qkp.title" = "Good for upscaling and downscaling images with small details.";
 
-/* Class = "NSTextFieldCell"; title = "Nearest Neighbor"; ObjectID = "EXE-of-11l"; */
-"EXE-of-11l.title" = "가장 인접함";
+/* Class = "NSTextFieldCell"; title = "Lanzcos"; ObjectID = "EXE-of-11l"; */
+"EXE-of-11l.title" = "Lanzcos";
 
 /* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "GWi-3L-kEN"; */
 "GWi-3L-kEN.title" = "너비:";
@@ -25,8 +25,11 @@
 /* Class = "NSMenuItem"; title = "points"; ObjectID = "WO0-Xj-yRj"; */
 "WO0-Xj-yRj.title" = "포인트";
 
-/* Class = "NSTextFieldCell"; title = "Touching pixels average their values so  central pixels maintain the most value."; ObjectID = "XVb-hf-04k"; */
-"XVb-hf-04k.title" = "픽셀들을 터치하면 가운데에 있는 픽셀들이 중앙값을 유지할 수 있도록 값들의 평균을 구합니다.";
+/* Class = "NSTextFieldCell"; title = "Nearest Neighbor"; ObjectID = "YBZ-qL-neI"; */
+"YBZ-qL-neI.title" = "Nearest Neighbor";
+
+/* Class = "NSTextFieldCell"; title = "Mostly used for resizing pixel art or getting a blocky image look."; ObjectID = "aIn-LD-rSU"; */
+"aIn-LD-rSU.title" = "Mostly used for resizing pixel art or getting a blocky image look.";
 
 /* Class = "NSButtonCell"; title = "Show Details"; ObjectID = "bbj-Fl-kR0"; */
 "bbj-Fl-kR0.title" = "세부 정보 보기";
@@ -39,9 +42,6 @@
 
 /* Class = "NSMenuItem"; title = "pixels/cm"; ObjectID = "hqH-rJ-pmt"; */
 "hqH-rJ-pmt.title" = "픽셀/cm";
-
-/* Class = "NSTextFieldCell"; title = "Automatic"; ObjectID = "iDY-iD-csA"; */
-"iDY-iD-csA.title" = "자동";
 
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "iiI-rt-lnK"; */
 "iiI-rt-lnK.title" = "확인";
@@ -76,8 +76,8 @@
 /* Class = "NSMenuItem"; title = "pixels"; ObjectID = "vJ5-OO-Xgu"; */
 "vJ5-OO-Xgu.title" = "픽셀";
 
-/* Class = "NSTextFieldCell"; title = "Pixels are passed into an algorithm that  averages their color using sinc functions."; ObjectID = "vew-W5-sQd"; */
-"vew-W5-sQd.title" = "sinc 함수를 사용해 색상의 평균을 구하는 알고리즘으로 픽셀들을 전달합니다.";
+/* Class = "NSTextFieldCell"; title = "A more or less universal resizing algorithm, smooths out edges slightly."; ObjectID = "vew-W5-sQd"; */
+"vew-W5-sQd.title" = "A more or less universal resizing algorithm, smooths out edges slightly.";
 
-/* Class = "NSTextFieldCell"; title = "Lanczos"; ObjectID = "zn6-uY-RCa"; */
-"zn6-uY-RCa.title" = "란초스";
+/* Class = "NSTextFieldCell"; title = "Bilinear"; ObjectID = "zn6-uY-RCa"; */
+"zn6-uY-RCa.title" = "Bilinear";
