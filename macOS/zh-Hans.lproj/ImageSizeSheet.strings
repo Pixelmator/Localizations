@@ -7,11 +7,11 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "ClN-Hs-whf"; */
 "ClN-Hs-whf.title" = "取消";
 
-/* Class = "NSTextFieldCell"; title = "Color of each pixel is compied from its  closest neighboring pixel in the original  image."; ObjectID = "CvN-SU-qkp"; */
-"CvN-SU-qkp.title" = "每个像素的颜色是从原始图像的最近像素拷贝的。";
+/* Class = "NSTextFieldCell"; title = "Good for upscaling and downscaling images with small details."; ObjectID = "CvN-SU-qkp"; */
+"CvN-SU-qkp.title" = "适用于具有较小细节图像的放大和缩小。";
 
-/* Class = "NSTextFieldCell"; title = "Nearest Neighbor"; ObjectID = "EXE-of-11l"; */
-"EXE-of-11l.title" = "最近的位置";
+/* Class = "NSTextFieldCell"; title = "Lanzcos"; ObjectID = "EXE-of-11l"; */
+"EXE-of-11l.title" = "Lanzcos";
 
 /* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "GWi-3L-kEN"; */
 "GWi-3L-kEN.title" = "宽度：";
@@ -25,8 +25,11 @@
 /* Class = "NSMenuItem"; title = "points"; ObjectID = "WO0-Xj-yRj"; */
 "WO0-Xj-yRj.title" = "点";
 
-/* Class = "NSTextFieldCell"; title = "Touching pixels average their values so  central pixels maintain the most value."; ObjectID = "XVb-hf-04k"; */
-"XVb-hf-04k.title" = "调整像素以平均其值，使中心像素获得最大值。";
+/* Class = "NSTextFieldCell"; title = "Nearest Neighbor"; ObjectID = "YBZ-qL-neI"; */
+"YBZ-qL-neI.title" = "最近的位置";
+
+/* Class = "NSTextFieldCell"; title = "Mostly used for resizing pixel art or getting a blocky image look."; ObjectID = "aIn-LD-rSU"; */
+"aIn-LD-rSU.title" = "主要用于调整像素作品的大小或形成块状图像外观。";
 
 /* Class = "NSButtonCell"; title = "Show Details"; ObjectID = "bbj-Fl-kR0"; */
 "bbj-Fl-kR0.title" = "显示详细信息";
@@ -39,9 +42,6 @@
 
 /* Class = "NSMenuItem"; title = "pixels/cm"; ObjectID = "hqH-rJ-pmt"; */
 "hqH-rJ-pmt.title" = "像素/厘米";
-
-/* Class = "NSTextFieldCell"; title = "Automatic"; ObjectID = "iDY-iD-csA"; */
-"iDY-iD-csA.title" = "自动";
 
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "iiI-rt-lnK"; */
 "iiI-rt-lnK.title" = "好";
@@ -76,8 +76,8 @@
 /* Class = "NSMenuItem"; title = "pixels"; ObjectID = "vJ5-OO-Xgu"; */
 "vJ5-OO-Xgu.title" = "像素";
 
-/* Class = "NSTextFieldCell"; title = "Pixels are passed into an algorithm that  averages their color using sinc functions."; ObjectID = "vew-W5-sQd"; */
-"vew-W5-sQd.title" = "像素将被传输到算法中使用 sinc 函数来计算其颜色的平均值。";
+/* Class = "NSTextFieldCell"; title = "A more or less universal resizing algorithm, smooths out edges slightly."; ObjectID = "vew-W5-sQd"; */
+"vew-W5-sQd.title" = "较为通用的大小调整算法，边缘略微平滑。";
 
-/* Class = "NSTextFieldCell"; title = "Lanczos"; ObjectID = "zn6-uY-RCa"; */
-"zn6-uY-RCa.title" = "Lanczos";
+/* Class = "NSTextFieldCell"; title = "Bilinear"; ObjectID = "zn6-uY-RCa"; */
+"zn6-uY-RCa.title" = "双线性";
