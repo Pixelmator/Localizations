@@ -4,23 +4,29 @@
 /* crop aspect ratio */
 "%.2f:%d" = "%1$.2f:%2$d";
 
+/* Duplicated image name */
+"%@ copy" = "%@ copy";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
 
-/* No comment provided by engineer. */
-"001" = "001";
+/* width x height */
+"%i x %i" = "%1$i x %2$i";
+
+/* Image bits per component */
+"%i-bits" = "%i-bits";
 
 /* Color Balance */
 "3-Way Color" = "Couleur à 3 voies";
 
 /* No comment provided by engineer. */
-"Accumulation" = "Accumulation";
+"\"%@\" Preset" = "\"%@\" Preset";
 
 /* No comment provided by engineer. */
-"Add" = "Ajouter";
+"Accumulation" = "Accumulation";
 
 /* Layer Management */
 "Add Image" = "Add Image";
@@ -29,19 +35,10 @@
 "Add Layer" = "Ajouter un calque";
 
 /* No comment provided by engineer. */
-"Add Mask" = "Ajouter un masque";
-
-/* No comment provided by engineer. */
 "Add Raw Layer" = "Add Raw Layer";
-
-/* Selection Undo */
-"Add Selection" = "Add Selection";
 
 /* Layer Management */
 "Add Text" = "Add Text";
-
-/* No comment provided by engineer. */
-"Add to Selection" = "Add to Selection";
 
 /* No comment provided by engineer. */
 "Adjust Colors" = "Ajuster les couleurs";
@@ -54,24 +51,6 @@
 
 /* No comment provided by engineer. */
 "Affine Tile" = "Affiner la mosaïque";
-
-/* Arrange */
-"Align Bottom" = "Aligner en bas";
-
-/* Arrange */
-"Align Horizontal" = "Align Horizontal";
-
-/* Arrange */
-"Align Left" = "Aligner à gauche";
-
-/* Arrange */
-"Align Right" = "Aligner à droite";
-
-/* Arrange */
-"Align Top" = "Aligner en haut";
-
-/* Arrange */
-"Align Vertical" = "Align Vertical";
 
 /* No comment provided by engineer. */
 "All Albums" = "All Albums";
@@ -88,15 +67,6 @@
 /* No comment provided by engineer. */
 "Angle Scatter" = "Dispersion de l'angle";
 
-/* No comment provided by engineer. */
-"Apply" = "Appliquer";
-
-/* No comment provided by engineer. */
-"Apply Selection" = "Apply Selection";
-
-/* No comment provided by engineer. */
-"Apply Selection Transform" = "Apply Selection Transform";
-
 /* Layer Arrange
    Tool */
 "Arrange" = "Organiser";
@@ -105,13 +75,10 @@
 "Arrow" = "Flèche";
 
 /* No comment provided by engineer. */
-"Arrow Edit" = "Arrow Edit";
-
-/* No comment provided by engineer. */
 "Arrow from Point" = "Flèche partant du point";
 
 /* No comment provided by engineer. */
-"Auto" = "Auto";
+"Auto %@" = "%@ automatique";
 
 /* No comment provided by engineer. */
 "Auto Color" = "Couleur automatique";
@@ -137,26 +104,17 @@
 /* Tool */
 "Basic" = "Basique";
 
-/* Selection Undo */
-"Begin Selection" = "Begin Selection";
-
 /* No comment provided by engineer. */
 "Behind" = "Arrière";
 
 /* No comment provided by engineer. */
 "Bias" = "Polarisation";
 
-/* Image bits per component */
-"bits" = "bits";
-
 /* No comment provided by engineer. */
 "Black & White" = "Noir & Blanc";
 
 /* No comment provided by engineer. */
 "Black Point" = "Point noir ";
-
-/* Styles */
-"Blending" = "Blending";
 
 /* No comment provided by engineer. */
 "Blending Mode" = "Mode de fusion";
@@ -224,9 +182,6 @@
 /* No comment provided by engineer. */
 "Change Color..." = "Change Color...";
 
-/* Styles */
-"Change Style" = "Modifier le style";
-
 /* No comment provided by engineer. */
 "Channel" = "Canaux";
 
@@ -260,9 +215,6 @@
 /* Retouch Tools
    Tool */
 "Clone" = "Duplication";
-
-/* Selection Undo */
-"Close Selection" = "Close Selection";
 
 /* No comment provided by engineer. */
 "Clouds" = "Nuages";
@@ -310,8 +262,7 @@
 /* No comment provided by engineer. */
 "Contrast" = "Contraste";
 
-/* Document copy
-   Used in gallery document duplicate. */
+/* Used in gallery document duplicate. */
 "copy" = "copy";
 
 /* Edit Menu */
@@ -320,17 +271,11 @@
 /* Layer Management */
 "Copy Layer" = "Copy Layer";
 
-/* No comment provided by engineer. */
-"Corner Radius" = "Rayon de coin";
-
 /* Tool */
 "Crayon" = "Crayon de couleur";
 
 /* Gallery */
 "Create Image" = "Create Image";
-
-/* No comment provided by engineer. */
-"Create Selection" = "Create Selection";
 
 /* Tool */
 "Crop" = "Recadrer";
@@ -383,19 +328,7 @@
 "Directed" = "Dirigé";
 
 /* No comment provided by engineer. */
-"Disable" = "Disable";
-
-/* Styles */
-"Disable Fill" = "Disable Fill";
-
-/* Styles */
-"Disable Inner Shadow" = "Disable Inner Shadow";
-
-/* Styles */
-"Disable Shadow" = "Disable Shadow";
-
-/* Styles */
-"Disable Stroke" = "Disable Stroke";
+"Disable %@" = "Disable %@";
 
 /* No comment provided by engineer. */
 "Disc" = "Disque";
@@ -405,9 +338,6 @@
 
 /* No comment provided by engineer. */
 "Distance" = "Distance";
-
-/* Distort Tools */
-"Distort" = "Distorsion";
 
 /* Effects category name */
 "Distortion" = "Déformation";
@@ -421,9 +351,6 @@
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Double-flèche";
 
-/* Selection Undo */
-"Draw Selection" = "Draw Selection";
-
 /* No comment provided by engineer. */
 "Droste" = "Effet Droste";
 
@@ -433,11 +360,7 @@
 /* Layer Management */
 "Duplicate Layer" = "Duplicate Layer";
 
-/* Brush Settings */
-"Dynamics" = "Dynamique";
-
-/* Effects
-   Tool */
+/* Tool */
 "Effects" = "Effets";
 
 /* No comment provided by engineer. */
@@ -453,22 +376,10 @@
 "Elliptical Speech Bubble" = "Bulle de dialogue elliptique";
 
 /* No comment provided by engineer. */
-"Enable" = "Enable";
-
-/* Styles */
-"Enable Fill" = "Enable Fill";
-
-/* Styles */
-"Enable Inner Shadow" = "Enable Inner Shadow";
-
-/* Styles */
-"Enable Shadow" = "Enable Shadow";
+"Enable %@" = "Enable %@";
 
 /* No comment provided by engineer. */
 "Enable Sharpening" = "Activer l'accentuation";
-
-/* Styles */
-"Enable Stroke" = "Enable Stroke";
 
 /* No comment provided by engineer. */
 "End Point" = "Point de fin";
@@ -476,8 +387,7 @@
 /* No comment provided by engineer. */
 "Enter a new name for this preset:" = "Enter a new name for this preset:";
 
-/* Painting
-   Tool */
+/* Tool */
 "Erase" = "Effacer";
 
 /* No comment provided by engineer. */
@@ -510,21 +420,6 @@
 /* Effects category name */
 "Fill" = "Remplir";
 
-/* Styles */
-"Fill Blending" = "Fill Blending";
-
-/* Styles */
-"Fill Color" = "Fill Color";
-
-/* Styles */
-"Fill Gradient" = "Fill Gradient";
-
-/* No comment provided by engineer. */
-"Fill Gradient Angle" = "Fill Gradient Angle";
-
-/* No comment provided by engineer. */
-"Fill Opacity" = "Fill Opacity";
-
 /* No comment provided by engineer. */
 "Fit" = "Fit";
 
@@ -534,16 +429,13 @@
 /* No comment provided by engineer. */
 "Flatten Layer" = "Flatten Layer";
 
-/* No comment provided by engineer. */
-"Flatten Selection" = "Flatten Selection";
-
 /* Tool */
 "Flip" = "Flip";
 
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Flip Horizontally" = "Symétrie axe horizontal";
 
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Flip Vertically" = "Symétrie axe vertical";
 
 /* No comment provided by engineer. */
@@ -573,9 +465,6 @@
 /* No comment provided by engineer. */
 "Gaussian" = "Gaussien";
 
-/* Brush Settings */
-"General" = "Général";
-
 /* Effects category name */
 "Generator" = "Générateur";
 
@@ -600,7 +489,7 @@
 /* No comment provided by engineer. */
 "Gradient Fill" = "Remplissage du dégradé";
 
-/* Brush Settings */
+/* No comment provided by engineer. */
 "Grain" = "Grain";
 
 /* No comment provided by engineer. */
@@ -646,6 +535,9 @@
 /* Edit Menu */
 "Hide" = "Masquer";
 
+/* Layer */
+"Hide Layer" = "Hide Layer";
+
 /* No comment provided by engineer. */
 "Hide Presets" = "Masquer les paramètres prédéfinis";
 
@@ -689,9 +581,6 @@
 /* Units */
 "Inches" = "Pouces";
 
-/* No comment provided by engineer. */
-"Indent Radius" = "Indent Radius";
-
 /* Edit Menu */
 "Info" = "Informations";
 
@@ -705,37 +594,13 @@
 "Inner Shadow" = "Ombre interne";
 
 /* No comment provided by engineer. */
-"Inner Shadow Angle" = "Inner Shadow Angle";
-
-/* Styles */
-"Inner Shadow Blending" = "Inner Shadow Blending";
-
-/* No comment provided by engineer. */
-"Inner Shadow Blur" = "Inner Shadow Blur";
-
-/* Styles */
-"Inner Shadow Color" = "Inner Shadow Color";
-
-/* No comment provided by engineer. */
-"Inner Shadow Offset" = "Inner Shadow Offset";
-
-/* No comment provided by engineer. */
-"Inner Shadow Opacity" = "Inner Shadow Opacity";
-
-/* No comment provided by engineer. */
 "Insert from..." = "Insert from...";
-
-/* No comment provided by engineer. */
-"Inside" = "Intérieur";
 
 /* No comment provided by engineer. */
 "Intensity" = "Intensité";
 
 /* No comment provided by engineer. */
 "Invert" = "Inverser";
-
-/* No comment provided by engineer. */
-"Invert Selection" = "Inverser la sélection";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "It seems that the original photo is no longer there.";
@@ -807,6 +672,9 @@
 /* Document loading */
 "Loading..." = "Loading...";
 
+/* Layer */
+"Lock" = "Verrouiller";
+
 /* No comment provided by engineer. */
 "Locked Layer" = "Locked Layer";
 
@@ -821,9 +689,6 @@
 
 /* Color adjustments */
 "Magenta / Green" = "Magenta / vert";
-
-/* Selection */
-"Magic Wand Selection" = "Magic Wand Selection";
 
 /* Tool */
 "Magnetic" = "Magnetic";
@@ -877,12 +742,6 @@
 "Motion" = "Mouvement";
 
 /* No comment provided by engineer. */
-"Move" = "Déplacer";
-
-/* No comment provided by engineer. */
-"Move Selection" = "Move Selection";
-
-/* No comment provided by engineer. */
 "Multiply" = "Multiplier";
 
 /* No comment provided by engineer. */
@@ -890,9 +749,6 @@
 
 /* No comment provided by engineer. */
 "New Layer" = "Nouveau calque";
-
-/* No comment provided by engineer. */
-"New Layer was added" = "New Layer was added";
 
 /* keyboard */
 "next" = "next";
@@ -921,7 +777,7 @@
 /* No comment provided by engineer. */
 "Op" = "Op";
 
-/* Styles */
+/* No comment provided by engineer. */
 "Opacity" = "Opacité";
 
 /* No comment provided by engineer. */
@@ -961,13 +817,9 @@
 "Other Albums" = "Other Albums";
 
 /* No comment provided by engineer. */
-"Outside" = "Extérieur";
-
-/* No comment provided by engineer. */
 "Overlay" = "Incrustation";
 
-/* Painting
-   Tool */
+/* Tool */
 "Paint" = "Dessin";
 
 /* No comment provided by engineer. */
@@ -1024,14 +876,8 @@
 /* Units */
 "Points" = "Points";
 
-/* No comment provided by engineer. */
-"Points Count" = "Points Count";
-
 /* Tool */
 "Polygon" = "Polygone";
-
-/* Layer Transform */
-"Position" = "Position";
 
 /* No comment provided by engineer. */
 "Posterize" = "Isohélie";
@@ -1040,13 +886,7 @@
 "Preserve transparency" = "Conserver les zones transparentes";
 
 /* No comment provided by engineer. */
-"Preset" = "Paramètre prédéfini";
-
-/* No comment provided by engineer. */
 "Presets Imported" = "Presets Imported";
-
-/* Brush Settings */
-"Pressure" = "Pression";
 
 /* No comment provided by engineer. */
 "Preview" = "Aperçu";
@@ -1062,9 +902,6 @@
 
 /* Tool */
 "Quick" = "Quick";
-
-/* Selection Undo */
-"Quick Selection" = "Sélection rapide";
 
 /* No comment provided by engineer. */
 "Radius" = "Rayon";
@@ -1102,8 +939,11 @@
 /* Edit Menu */
 "Redefine" = "Redéfinir";
 
-/* Undo */
+/* No comment provided by engineer. */
 "Redo" = "Rétablir";
+
+/* No comment provided by engineer. */
+"Redo %@" = "Rétablir %@";
 
 /* No comment provided by engineer. */
 "Reload from Photos" = "Reload from Photos";
@@ -1116,9 +956,6 @@
 
 /* No comment provided by engineer. */
 "Remove Collection" = "Remove Collection";
-
-/* No comment provided by engineer. */
-"Remove Effect" = "Supprimer l’effet";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "Supprimer masque";
@@ -1140,16 +977,13 @@
 "Replace Color" = "Remp. Couleur";
 
 /* No comment provided by engineer. */
-"Reset" = "Réinitialiser";
+"Reset %@" = "Réinitialiser %@";
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "Réinitialiser les réglages";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Reset Crop";
-
-/* No comment provided by engineer. */
-"Reset Effects" = "Réinitialiser les effets";
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "Reset Horizontal Perspective";
@@ -1163,9 +997,6 @@
 /* No comment provided by engineer. */
 "Reset Repair Changes" = "Reset Repair Changes";
 
-/* Styles */
-"Reset Style" = "Revenir au style de départ";
-
 /* Perspective transform */
 "Reset Vertical Perspective" = "Reset Vertical Perspective";
 
@@ -1175,13 +1006,7 @@
 /* No comment provided by engineer. */
 "Restore Layer" = "Restore Layer";
 
-/* Layer Transform */
-"Revert Rotation to Original" = "Revert Rotation to Original";
-
-/* Layer Transform */
-"Revert Size to Original" = "Revert Size to Original";
-
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Revert to Original" = "Revert to Original";
 
 /* No comment provided by engineer. */
@@ -1190,8 +1015,7 @@
 /* No comment provided by engineer. */
 "Right" = "Droite ";
 
-/* Layer Transform
-   Tool */
+/* Tool */
 "Rotate" = "Rotation";
 
 /* No comment provided by engineer. */
@@ -1202,9 +1026,6 @@
 
 /* No comment provided by engineer. */
 "Rotate Right" = "Rotate Right";
-
-/* No comment provided by engineer. */
-"Rotate Selection" = "Rotate Selection";
 
 /* Tool */
 "Rounded Rect." = "Rounded Rect.";
@@ -1231,7 +1052,7 @@
 /* No comment provided by engineer. */
 "Save to Photos" = "Save to Photos";
 
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Scale" = "Echelle";
 
 /* No comment provided by engineer. */
@@ -1252,9 +1073,6 @@
 /* No comment provided by engineer. */
 "Scale Vertically by Tilt" = "Redim. horizontalement par inclinaison";
 
-/* Brush Settings */
-"Scatter" = "Disperser";
-
 /* No comment provided by engineer. */
 "Screen" = "Écran";
 
@@ -1274,9 +1092,6 @@
 "Selected layer is locked, unlock it to edit." = "Selected layer is locked, unlock it to edit.";
 
 /* No comment provided by engineer. */
-"Selection" = "Sélection";
-
-/* No comment provided by engineer. */
 "Selective Color" = "Couleur sélective";
 
 /* No comment provided by engineer. */
@@ -1288,26 +1103,10 @@
 /* No comment provided by engineer. */
 "Shadow" = "Ombre";
 
-/* No comment provided by engineer. */
-"Shadow Angle" = "Shadow Angle";
-
-/* No comment provided by engineer. */
-"Shadow Blur" = "Shadow Blur";
-
-/* Styles */
-"Shadow Color" = "Shadow Color";
-
-/* No comment provided by engineer. */
-"Shadow Offset" = "Shadow Offset";
-
-/* No comment provided by engineer. */
-"Shadow Opacity" = "Shadow Opacity";
-
 /* Color Balance */
 "Shadows" = "Tons foncés";
 
-/* Brush Settings
-   Default new shape layer name */
+/* Default new shape layer name */
 "Shape" = "Forme";
 
 /* No comment provided by engineer. */
@@ -1336,6 +1135,9 @@
 /* No comment provided by engineer. */
 "Show" = "Afficher";
 
+/* Layer */
+"Show Layer" = "Show Layer";
+
 /* No comment provided by engineer. */
 "Show Original" = "Afficher l’original";
 
@@ -1351,7 +1153,7 @@
 /* No comment provided by engineer. */
 "Sixfold Rotated" = "Hexuple rotation";
 
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Size" = "Taille";
 
 /* No comment provided by engineer. */
@@ -1425,26 +1227,11 @@
 /* No comment provided by engineer. */
 "Stripes" = "Rayures";
 
-/* Brush Settings */
+/* No comment provided by engineer. */
 "Stroke" = "Contour";
-
-/* Styles */
-"Stroke Color" = "Stroke Color";
-
-/* Styles */
-"Stroke Gradient" = "Stroke Gradient";
-
-/* No comment provided by engineer. */
-"Stroke Gradient Angle" = "Stroke Gradient Angle";
-
-/* No comment provided by engineer. */
-"Stroke Opacity" = "Stroke Opacity";
 
 /* No comment provided by engineer. */
 "Stroke Position" = "Position du coup de pinceau";
-
-/* Styles */
-"Stroke Style" = "Stroke Style";
 
 /* No comment provided by engineer. */
 "Stroke Type" = "Type de coup de pinceau";
@@ -1462,16 +1249,10 @@
 "Subtract" = "Soustraire";
 
 /* No comment provided by engineer. */
-"Subtract from Selection" = "Subtract from Selection";
-
-/* No comment provided by engineer. */
 "Sunbeams" = "Rayons soleil";
 
 /* No comment provided by engineer. */
 "Tail End Dynamics" = "Dynamique du bout de la traîne";
-
-/* No comment provided by engineer. */
-"Tail Location" = "Tail Location";
 
 /* No comment provided by engineer. */
 "Tail Opacity" = "Opacité de la traîne";
@@ -1481,9 +1262,6 @@
 
 /* No comment provided by engineer. */
 "Tail Start Dynamics" = "Dynamique du début de la traîne";
-
-/* No comment provided by engineer. */
-"Tail Width" = "Tail Width";
 
 /* No comment provided by engineer. */
 "Take Photo" = "Take Photo";
@@ -1497,9 +1275,6 @@
 /* Default new text layer name
    Tool */
 "Text" = "Texte";
-
-/* Brush Settings */
-"Textures" = "Textures";
 
 /* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "The color adjustment presets were imported successfully.";
@@ -1520,7 +1295,7 @@
 "The image could not be saved." = "The image could not be saved.";
 
 /* No comment provided by engineer. */
-"The maximum number of layers for this image size is" = "The maximum number of layers for this image size is";
+"The maximum number of layers for this image size is %i" = "The maximum number of layers for this image size is %i";
 
 /* No comment provided by engineer. */
 "The original photo couldn’t be modified." = "The original photo couldn’t be modified.";
@@ -1558,7 +1333,7 @@
 /* No comment provided by engineer. */
 "Tint" = "Nuance";
 
-/* Color Range */
+/* from one color 'to' other color */
 "to" = "à ";
 
 /* No comment provided by engineer. */
@@ -1577,12 +1352,6 @@
 "Touch Size" = "Taille de la touche";
 
 /* No comment provided by engineer. */
-"Transform" = "Transform";
-
-/* No comment provided by engineer. */
-"Transform Selection" = "Transform Selection";
-
-/* No comment provided by engineer. */
 "Transition" = "Transition";
 
 /* No comment provided by engineer. */
@@ -1596,12 +1365,6 @@
 
 /* Tool */
 "Twirl" = "Tourbillon";
-
-/* No comment provided by engineer. */
-"Twirl Left" = "Tourbillon vers la gauche";
-
-/* No comment provided by engineer. */
-"Twirl Right" = "Tourbillon vers la droite";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "Unable to Access Help";
@@ -1621,13 +1384,16 @@
 /* No comment provided by engineer. */
 "Unable to Save" = "Unable to Save";
 
-/* Undo */
+/* No comment provided by engineer. */
 "Undo" = "Annuler";
+
+/* No comment provided by engineer. */
+"Undo %@" = "Annuler %@";
 
 /* Layer Arrange */
 "Ungroup" = "Dissocier";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Unlock" = "Déverrouiller";
 
 /* No comment provided by engineer. */
