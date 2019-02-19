@@ -4,23 +4,29 @@
 /* crop aspect ratio */
 "%.2f:%d" = "%1$.2f:%2$d";
 
+/* Duplicated image name */
+"%@ copy" = "%@ copy";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
 
-/* No comment provided by engineer. */
-"001" = "001";
+/* width x height */
+"%i x %i" = "%1$i x %2$i";
+
+/* Image bits per component */
+"%i-bits" = "%i-bits";
 
 /* Color Balance */
 "3-Way Color" = "3ウェイカラー";
 
 /* No comment provided by engineer. */
-"Accumulation" = "累積";
+"\"%@\" Preset" = "\"%@\" Preset";
 
 /* No comment provided by engineer. */
-"Add" = "追加";
+"Accumulation" = "累積";
 
 /* Layer Management */
 "Add Image" = "Add Image";
@@ -29,19 +35,10 @@
 "Add Layer" = "レイヤーを追加";
 
 /* No comment provided by engineer. */
-"Add Mask" = "マスクを追加";
-
-/* No comment provided by engineer. */
 "Add Raw Layer" = "Add Raw Layer";
-
-/* Selection Undo */
-"Add Selection" = "Add Selection";
 
 /* Layer Management */
 "Add Text" = "Add Text";
-
-/* No comment provided by engineer. */
-"Add to Selection" = "Add to Selection";
 
 /* No comment provided by engineer. */
 "Adjust Colors" = "カラーを調整";
@@ -54,24 +51,6 @@
 
 /* No comment provided by engineer. */
 "Affine Tile" = "アフィンタイル";
-
-/* Arrange */
-"Align Bottom" = "下揃え";
-
-/* Arrange */
-"Align Horizontal" = "Align Horizontal";
-
-/* Arrange */
-"Align Left" = "左揃え";
-
-/* Arrange */
-"Align Right" = "右揃え";
-
-/* Arrange */
-"Align Top" = "上揃え";
-
-/* Arrange */
-"Align Vertical" = "Align Vertical";
 
 /* No comment provided by engineer. */
 "All Albums" = "All Albums";
@@ -88,15 +67,6 @@
 /* No comment provided by engineer. */
 "Angle Scatter" = "散布の角度";
 
-/* No comment provided by engineer. */
-"Apply" = "適用する";
-
-/* No comment provided by engineer. */
-"Apply Selection" = "Apply Selection";
-
-/* No comment provided by engineer. */
-"Apply Selection Transform" = "Apply Selection Transform";
-
 /* Layer Arrange
    Tool */
 "Arrange" = "並べ替え";
@@ -105,13 +75,10 @@
 "Arrow" = "矢印";
 
 /* No comment provided by engineer. */
-"Arrow Edit" = "Arrow Edit";
-
-/* No comment provided by engineer. */
 "Arrow from Point" = "ポイントから矢印";
 
 /* No comment provided by engineer. */
-"Auto" = "自動";
+"Auto %@" = "自動%@";
 
 /* No comment provided by engineer. */
 "Auto Color" = "自動カラー補正";
@@ -137,26 +104,17 @@
 /* Tool */
 "Basic" = "基本";
 
-/* Selection Undo */
-"Begin Selection" = "Begin Selection";
-
 /* No comment provided by engineer. */
 "Behind" = "背景";
 
 /* No comment provided by engineer. */
 "Bias" = "バイアス";
 
-/* Image bits per component */
-"bits" = "bits";
-
 /* No comment provided by engineer. */
 "Black & White" = "白黒";
 
 /* No comment provided by engineer. */
 "Black Point" = "ブラックポイント";
-
-/* Styles */
-"Blending" = "Blending";
 
 /* No comment provided by engineer. */
 "Blending Mode" = "ブレンディングモード";
@@ -224,9 +182,6 @@
 /* No comment provided by engineer. */
 "Change Color..." = "Change Color...";
 
-/* Styles */
-"Change Style" = "スタイルを変更";
-
 /* No comment provided by engineer. */
 "Channel" = "チャンネル";
 
@@ -260,9 +215,6 @@
 /* Retouch Tools
    Tool */
 "Clone" = "クローン";
-
-/* Selection Undo */
-"Close Selection" = "Close Selection";
 
 /* No comment provided by engineer. */
 "Clouds" = "クラウド";
@@ -310,8 +262,7 @@
 /* No comment provided by engineer. */
 "Contrast" = "コントラスト";
 
-/* Document copy
-   Used in gallery document duplicate. */
+/* Used in gallery document duplicate. */
 "copy" = "copy";
 
 /* Edit Menu */
@@ -320,17 +271,11 @@
 /* Layer Management */
 "Copy Layer" = "Copy Layer";
 
-/* No comment provided by engineer. */
-"Corner Radius" = "角の半径";
-
 /* Tool */
 "Crayon" = "クレヨン";
 
 /* Gallery */
 "Create Image" = "Create Image";
-
-/* No comment provided by engineer. */
-"Create Selection" = "Create Selection";
 
 /* Tool */
 "Crop" = "切り抜き";
@@ -383,19 +328,7 @@
 "Directed" = "方向に追随";
 
 /* No comment provided by engineer. */
-"Disable" = "Disable";
-
-/* Styles */
-"Disable Fill" = "Disable Fill";
-
-/* Styles */
-"Disable Inner Shadow" = "Disable Inner Shadow";
-
-/* Styles */
-"Disable Shadow" = "Disable Shadow";
-
-/* Styles */
-"Disable Stroke" = "Disable Stroke";
+"Disable %@" = "Disable %@";
 
 /* No comment provided by engineer. */
 "Disc" = "ディスク";
@@ -405,9 +338,6 @@
 
 /* No comment provided by engineer. */
 "Distance" = "距離";
-
-/* Distort Tools */
-"Distort" = "歪み";
 
 /* Effects category name */
 "Distortion" = "歪み";
@@ -421,9 +351,6 @@
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "両方向矢印";
 
-/* Selection Undo */
-"Draw Selection" = "Draw Selection";
-
 /* No comment provided by engineer. */
 "Droste" = "ドロステ";
 
@@ -433,11 +360,7 @@
 /* Layer Management */
 "Duplicate Layer" = "Duplicate Layer";
 
-/* Brush Settings */
-"Dynamics" = "ダイナミクス";
-
-/* Effects
-   Tool */
+/* Tool */
 "Effects" = "エフェクト";
 
 /* No comment provided by engineer. */
@@ -453,22 +376,10 @@
 "Elliptical Speech Bubble" = "楕円形の吹き出し";
 
 /* No comment provided by engineer. */
-"Enable" = "Enable";
-
-/* Styles */
-"Enable Fill" = "Enable Fill";
-
-/* Styles */
-"Enable Inner Shadow" = "Enable Inner Shadow";
-
-/* Styles */
-"Enable Shadow" = "Enable Shadow";
+"Enable %@" = "Enable %@";
 
 /* No comment provided by engineer. */
 "Enable Sharpening" = "シャープ化を有効にする";
-
-/* Styles */
-"Enable Stroke" = "Enable Stroke";
 
 /* No comment provided by engineer. */
 "End Point" = "終了ポイント";
@@ -476,8 +387,7 @@
 /* No comment provided by engineer. */
 "Enter a new name for this preset:" = "Enter a new name for this preset:";
 
-/* Painting
-   Tool */
+/* Tool */
 "Erase" = "消去";
 
 /* No comment provided by engineer. */
@@ -510,21 +420,6 @@
 /* Effects category name */
 "Fill" = "べた塗り";
 
-/* Styles */
-"Fill Blending" = "Fill Blending";
-
-/* Styles */
-"Fill Color" = "Fill Color";
-
-/* Styles */
-"Fill Gradient" = "Fill Gradient";
-
-/* No comment provided by engineer. */
-"Fill Gradient Angle" = "Fill Gradient Angle";
-
-/* No comment provided by engineer. */
-"Fill Opacity" = "Fill Opacity";
-
 /* No comment provided by engineer. */
 "Fit" = "Fit";
 
@@ -534,16 +429,13 @@
 /* No comment provided by engineer. */
 "Flatten Layer" = "Flatten Layer";
 
-/* No comment provided by engineer. */
-"Flatten Selection" = "Flatten Selection";
-
 /* Tool */
 "Flip" = "Flip";
 
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Flip Horizontally" = "水平方向に反転";
 
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Flip Vertically" = "垂直方向に反転";
 
 /* No comment provided by engineer. */
@@ -573,9 +465,6 @@
 /* No comment provided by engineer. */
 "Gaussian" = "ガウス";
 
-/* Brush Settings */
-"General" = "一般";
-
 /* Effects category name */
 "Generator" = "ジェネレータ";
 
@@ -600,7 +489,7 @@
 /* No comment provided by engineer. */
 "Gradient Fill" = "グラデーションで塗りつぶし";
 
-/* Brush Settings */
+/* No comment provided by engineer. */
 "Grain" = "粒";
 
 /* No comment provided by engineer. */
@@ -646,6 +535,9 @@
 /* Edit Menu */
 "Hide" = "隠す";
 
+/* Layer */
+"Hide Layer" = "Hide Layer";
+
 /* No comment provided by engineer. */
 "Hide Presets" = "プリセットを隠す";
 
@@ -689,9 +581,6 @@
 /* Units */
 "Inches" = "インチ";
 
-/* No comment provided by engineer. */
-"Indent Radius" = "Indent Radius";
-
 /* Edit Menu */
 "Info" = "情報";
 
@@ -705,37 +594,13 @@
 "Inner Shadow" = "インナーシャドウ";
 
 /* No comment provided by engineer. */
-"Inner Shadow Angle" = "Inner Shadow Angle";
-
-/* Styles */
-"Inner Shadow Blending" = "Inner Shadow Blending";
-
-/* No comment provided by engineer. */
-"Inner Shadow Blur" = "Inner Shadow Blur";
-
-/* Styles */
-"Inner Shadow Color" = "Inner Shadow Color";
-
-/* No comment provided by engineer. */
-"Inner Shadow Offset" = "Inner Shadow Offset";
-
-/* No comment provided by engineer. */
-"Inner Shadow Opacity" = "Inner Shadow Opacity";
-
-/* No comment provided by engineer. */
 "Insert from..." = "Insert from...";
-
-/* No comment provided by engineer. */
-"Inside" = "内側";
 
 /* No comment provided by engineer. */
 "Intensity" = "強度";
 
 /* No comment provided by engineer. */
 "Invert" = "反転";
-
-/* No comment provided by engineer. */
-"Invert Selection" = "選択範囲を反転";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "It seems that the original photo is no longer there.";
@@ -807,6 +672,9 @@
 /* Document loading */
 "Loading..." = "Loading...";
 
+/* Layer */
+"Lock" = "ロック";
+
 /* No comment provided by engineer. */
 "Locked Layer" = "Locked Layer";
 
@@ -821,9 +689,6 @@
 
 /* Color adjustments */
 "Magenta / Green" = "マゼンタ/グリーン";
-
-/* Selection */
-"Magic Wand Selection" = "Magic Wand Selection";
 
 /* Tool */
 "Magnetic" = "Magnetic";
@@ -877,12 +742,6 @@
 "Motion" = "モーション";
 
 /* No comment provided by engineer. */
-"Move" = "移動";
-
-/* No comment provided by engineer. */
-"Move Selection" = "Move Selection";
-
-/* No comment provided by engineer. */
 "Multiply" = "乗算";
 
 /* No comment provided by engineer. */
@@ -890,9 +749,6 @@
 
 /* No comment provided by engineer. */
 "New Layer" = "新規レイヤー";
-
-/* No comment provided by engineer. */
-"New Layer was added" = "New Layer was added";
 
 /* keyboard */
 "next" = "next";
@@ -921,7 +777,7 @@
 /* No comment provided by engineer. */
 "Op" = "オプ";
 
-/* Styles */
+/* No comment provided by engineer. */
 "Opacity" = "不透明度";
 
 /* No comment provided by engineer. */
@@ -961,13 +817,9 @@
 "Other Albums" = "Other Albums";
 
 /* No comment provided by engineer. */
-"Outside" = "外側";
-
-/* No comment provided by engineer. */
 "Overlay" = "オーバーレイ";
 
-/* Painting
-   Tool */
+/* Tool */
 "Paint" = "ペイント";
 
 /* No comment provided by engineer. */
@@ -1024,14 +876,8 @@
 /* Units */
 "Points" = "Points";
 
-/* No comment provided by engineer. */
-"Points Count" = "Points Count";
-
 /* Tool */
 "Polygon" = "多角形";
-
-/* Layer Transform */
-"Position" = "位置";
 
 /* No comment provided by engineer. */
 "Posterize" = "ポスタライズ";
@@ -1040,13 +886,7 @@
 "Preserve transparency" = "透明度を維持";
 
 /* No comment provided by engineer. */
-"Preset" = "プリセット";
-
-/* No comment provided by engineer. */
 "Presets Imported" = "Presets Imported";
-
-/* Brush Settings */
-"Pressure" = "圧力";
 
 /* No comment provided by engineer. */
 "Preview" = "プレビュー";
@@ -1062,9 +902,6 @@
 
 /* Tool */
 "Quick" = "Quick";
-
-/* Selection Undo */
-"Quick Selection" = "クイック選択";
 
 /* No comment provided by engineer. */
 "Radius" = "半径";
@@ -1102,8 +939,11 @@
 /* Edit Menu */
 "Redefine" = "再設定";
 
-/* Undo */
+/* No comment provided by engineer. */
 "Redo" = "やり直し";
+
+/* No comment provided by engineer. */
+"Redo %@" = "%@をやり直す";
 
 /* No comment provided by engineer. */
 "Reload from Photos" = "Reload from Photos";
@@ -1116,9 +956,6 @@
 
 /* No comment provided by engineer. */
 "Remove Collection" = "Remove Collection";
-
-/* No comment provided by engineer. */
-"Remove Effect" = "エフェクトを削除";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "マスクを削除";
@@ -1140,16 +977,13 @@
 "Replace Color" = "色の置き換え";
 
 /* No comment provided by engineer. */
-"Reset" = "リセット";
+"Reset %@" = "%@をリセット";
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "調整をリセット";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Reset Crop";
-
-/* No comment provided by engineer. */
-"Reset Effects" = "エフェクトをリセット";
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "Reset Horizontal Perspective";
@@ -1163,9 +997,6 @@
 /* No comment provided by engineer. */
 "Reset Repair Changes" = "Reset Repair Changes";
 
-/* Styles */
-"Reset Style" = "スタイルをリセット";
-
 /* Perspective transform */
 "Reset Vertical Perspective" = "Reset Vertical Perspective";
 
@@ -1175,13 +1006,7 @@
 /* No comment provided by engineer. */
 "Restore Layer" = "Restore Layer";
 
-/* Layer Transform */
-"Revert Rotation to Original" = "Revert Rotation to Original";
-
-/* Layer Transform */
-"Revert Size to Original" = "Revert Size to Original";
-
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Revert to Original" = "Revert to Original";
 
 /* No comment provided by engineer. */
@@ -1190,8 +1015,7 @@
 /* No comment provided by engineer. */
 "Right" = "右";
 
-/* Layer Transform
-   Tool */
+/* Tool */
 "Rotate" = "回転";
 
 /* No comment provided by engineer. */
@@ -1202,9 +1026,6 @@
 
 /* No comment provided by engineer. */
 "Rotate Right" = "Rotate Right";
-
-/* No comment provided by engineer. */
-"Rotate Selection" = "Rotate Selection";
 
 /* Tool */
 "Rounded Rect." = "Rounded Rect.";
@@ -1231,7 +1052,7 @@
 /* No comment provided by engineer. */
 "Save to Photos" = "Save to Photos";
 
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Scale" = "縮小・拡大";
 
 /* No comment provided by engineer. */
@@ -1252,9 +1073,6 @@
 /* No comment provided by engineer. */
 "Scale Vertically by Tilt" = "傾きに応じて垂直方向に拡大/縮小";
 
-/* Brush Settings */
-"Scatter" = "散布";
-
 /* No comment provided by engineer. */
 "Screen" = "スクリーン";
 
@@ -1274,9 +1092,6 @@
 "Selected layer is locked, unlock it to edit." = "Selected layer is locked, unlock it to edit.";
 
 /* No comment provided by engineer. */
-"Selection" = "選択範囲";
-
-/* No comment provided by engineer. */
 "Selective Color" = "選択可能なカラー";
 
 /* No comment provided by engineer. */
@@ -1288,26 +1103,10 @@
 /* No comment provided by engineer. */
 "Shadow" = "シャドウ";
 
-/* No comment provided by engineer. */
-"Shadow Angle" = "Shadow Angle";
-
-/* No comment provided by engineer. */
-"Shadow Blur" = "Shadow Blur";
-
-/* Styles */
-"Shadow Color" = "Shadow Color";
-
-/* No comment provided by engineer. */
-"Shadow Offset" = "Shadow Offset";
-
-/* No comment provided by engineer. */
-"Shadow Opacity" = "Shadow Opacity";
-
 /* Color Balance */
 "Shadows" = "シャドウ";
 
-/* Brush Settings
-   Default new shape layer name */
+/* Default new shape layer name */
 "Shape" = "シェイプ";
 
 /* No comment provided by engineer. */
@@ -1336,6 +1135,9 @@
 /* No comment provided by engineer. */
 "Show" = "表示";
 
+/* Layer */
+"Show Layer" = "Show Layer";
+
 /* No comment provided by engineer. */
 "Show Original" = "オリジナルを表示";
 
@@ -1351,7 +1153,7 @@
 /* No comment provided by engineer. */
 "Sixfold Rotated" = "6 方向回転";
 
-/* Layer Transform */
+/* No comment provided by engineer. */
 "Size" = "サイズ";
 
 /* No comment provided by engineer. */
@@ -1425,26 +1227,11 @@
 /* No comment provided by engineer. */
 "Stripes" = "ストライプ";
 
-/* Brush Settings */
+/* No comment provided by engineer. */
 "Stroke" = "線";
-
-/* Styles */
-"Stroke Color" = "Stroke Color";
-
-/* Styles */
-"Stroke Gradient" = "Stroke Gradient";
-
-/* No comment provided by engineer. */
-"Stroke Gradient Angle" = "Stroke Gradient Angle";
-
-/* No comment provided by engineer. */
-"Stroke Opacity" = "Stroke Opacity";
 
 /* No comment provided by engineer. */
 "Stroke Position" = "線の位置";
-
-/* Styles */
-"Stroke Style" = "Stroke Style";
 
 /* No comment provided by engineer. */
 "Stroke Type" = "線の種類";
@@ -1462,16 +1249,10 @@
 "Subtract" = "減算";
 
 /* No comment provided by engineer. */
-"Subtract from Selection" = "Subtract from Selection";
-
-/* No comment provided by engineer. */
 "Sunbeams" = "サンビーム";
 
 /* No comment provided by engineer. */
 "Tail End Dynamics" = "テールエンドダイナミクス";
-
-/* No comment provided by engineer. */
-"Tail Location" = "Tail Location";
 
 /* No comment provided by engineer. */
 "Tail Opacity" = "テール不透明度";
@@ -1481,9 +1262,6 @@
 
 /* No comment provided by engineer. */
 "Tail Start Dynamics" = "テールスタートダイナミクス";
-
-/* No comment provided by engineer. */
-"Tail Width" = "Tail Width";
 
 /* No comment provided by engineer. */
 "Take Photo" = "Take Photo";
@@ -1497,9 +1275,6 @@
 /* Default new text layer name
    Tool */
 "Text" = "テキスト";
-
-/* Brush Settings */
-"Textures" = "テクスチャ";
 
 /* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "The color adjustment presets were imported successfully.";
@@ -1520,7 +1295,7 @@
 "The image could not be saved." = "The image could not be saved.";
 
 /* No comment provided by engineer. */
-"The maximum number of layers for this image size is" = "The maximum number of layers for this image size is";
+"The maximum number of layers for this image size is %i" = "The maximum number of layers for this image size is %i";
 
 /* No comment provided by engineer. */
 "The original photo couldn’t be modified." = "The original photo couldn’t be modified.";
@@ -1558,7 +1333,7 @@
 /* No comment provided by engineer. */
 "Tint" = "色合い";
 
-/* Color Range */
+/* from one color 'to' other color */
 "to" = "宛先";
 
 /* No comment provided by engineer. */
@@ -1577,12 +1352,6 @@
 "Touch Size" = "接触サイズ";
 
 /* No comment provided by engineer. */
-"Transform" = "Transform";
-
-/* No comment provided by engineer. */
-"Transform Selection" = "Transform Selection";
-
-/* No comment provided by engineer. */
 "Transition" = "トランジション";
 
 /* No comment provided by engineer. */
@@ -1596,12 +1365,6 @@
 
 /* Tool */
 "Twirl" = "回転";
-
-/* No comment provided by engineer. */
-"Twirl Left" = "左回転";
-
-/* No comment provided by engineer. */
-"Twirl Right" = "右回転";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "Unable to Access Help";
@@ -1621,13 +1384,16 @@
 /* No comment provided by engineer. */
 "Unable to Save" = "Unable to Save";
 
-/* Undo */
+/* No comment provided by engineer. */
 "Undo" = "取り消し";
+
+/* No comment provided by engineer. */
+"Undo %@" = "%@を取り消す";
 
 /* Layer Arrange */
 "Ungroup" = "グループ化解除";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Unlock" = "ロックを解除";
 
 /* No comment provided by engineer. */
