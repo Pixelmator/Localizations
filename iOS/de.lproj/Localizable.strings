@@ -5,7 +5,7 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* Duplicated image name */
-"%@ copy" = "%@ copy";
+"%@ copy" = "Kopie von %@";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -23,40 +23,40 @@
 "3-Way Color" = "3-Wege-Farbtöne";
 
 /* No comment provided by engineer. */
-"\"%@\" Preset" = "\"%@\" Preset";
+"\"%@\" Preset" = "\"%@\"-Voreinstellung";
 
 /* No comment provided by engineer. */
 "Accumulation" = "Ansammlung";
 
 /* Layer Management */
-"Add Image" = "Add Image";
+"Add Image" = "Bild hinzufügen";
 
 /* Layer Management */
 "Add Layer" = "Ebene hinzufügen";
 
 /* No comment provided by engineer. */
-"Add Raw Layer" = "Add Raw Layer";
+"Add Raw Layer" = "Raw-Ebene hinzufügen";
 
 /* Layer Management */
-"Add Text" = "Add Text";
+"Add Text" = "Text hinzufügen";
 
 /* No comment provided by engineer. */
 "Adjust Colors" = "Farben anpassen";
 
 /* No comment provided by engineer. */
-"Adjustment" = "Adjustment";
+"Adjustment" = "Anpassung";
 
 /* No comment provided by engineer. */
-"Adjustments" = "Adjustments";
+"Adjustments" = "Anpassungen";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "Affin kacheln";
 
 /* No comment provided by engineer. */
-"All Albums" = "All Albums";
+"All Albums" = "Alle Alben";
 
 /* No comment provided by engineer. */
-"All Photos" = "All Photos";
+"All Photos" = "Alle Fotos";
 
 /* No comment provided by engineer. */
 "Angle" = "Winkel";
@@ -159,16 +159,16 @@
 "Bump" = "Ausbeulen";
 
 /* File size */
-"Calculating size..." = "Calculating size...";
+"Calculating size..." = "Berechne Größe...";
 
 /* No comment provided by engineer. */
 "Cancel" = "Abbrechen";
 
 /* Document loading */
-"Canceling..." = "Canceling...";
+"Canceling..." = "Abbrechen...";
 
 /* No comment provided by engineer. */
-"Cannot Create More Layers" = "Cannot Create More Layers";
+"Cannot Create More Layers" = "Kann keine weiteren Ebenen erstellen";
 
 /* Tool */
 "Canvas Size" = "Größe der Arbeitsfläche";
@@ -180,7 +180,7 @@
 "Centimeters" = "Zentimeter";
 
 /* No comment provided by engineer. */
-"Change Color..." = "Change Color...";
+"Change Color..." = "Farbe ändern...";
 
 /* No comment provided by engineer. */
 "Channel" = "Kanäle";
@@ -263,25 +263,25 @@
 "Contrast" = "Kontrast";
 
 /* Used in gallery document duplicate. */
-"copy" = "copy";
+"copy" = "kopieren";
 
 /* Edit Menu */
 "Copy" = "Kopieren";
 
 /* Layer Management */
-"Copy Layer" = "Copy Layer";
+"Copy Layer" = "Ebene kopieren";
 
 /* Tool */
 "Crayon" = "Buntstift";
 
 /* Gallery */
-"Create Image" = "Create Image";
+"Create Image" = "Bild erstellen";
 
 /* Tool */
 "Crop" = "Beschneiden";
 
 /* No comment provided by engineer. */
-"Current" = "Current";
+"Current" = "Aktuell";
 
 /* No comment provided by engineer. */
 "Curves" = "Kurven";
@@ -293,7 +293,7 @@
 "Cut" = "Ausschneiden";
 
 /* Layer Management */
-"Cut Layer" = "Cut Layer";
+"Cut Layer" = "Ebene schneiden";
 
 /* Color adjustments */
 "Cyan / Red" = "Cyan / Rot";
@@ -328,7 +328,7 @@
 "Directed" = "Regie von";
 
 /* No comment provided by engineer. */
-"Disable %@" = "Disable %@";
+"Disable %@" = "%@ deaktivieren";
 
 /* No comment provided by engineer. */
 "Disc" = "Disc";
@@ -346,7 +346,7 @@
 "Divide" = "Unterteilen";
 
 /* keyboard */
-"done" = "done";
+"done" = "fertig";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Doppelpfeil";
@@ -385,7 +385,7 @@
 "End Point" = "Endpunkt";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset:" = "Enter a new name for this preset:";
+"Enter a new name for this preset:" = "Geben Sie einen Name für diese Voreinstellung ein:";
 
 /* Tool */
 "Erase" = "Löschen";
@@ -409,7 +409,7 @@
 "Failed parsing layers data." = "Parsen der Ebenendaten fehlgeschlagen.";
 
 /* File size */
-"Failed to calculate size." = "Failed to calculate size.";
+"Failed to calculate size." = "Fehler beim Berechnen der Größe.";
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "Konnte einen oder mehrere erweiterte Attributwerte nicht einholen";
@@ -427,7 +427,7 @@
 "Fixed" = "Behoben";
 
 /* No comment provided by engineer. */
-"Flatten Layer" = "Flatten Layer";
+"Flatten Layer" = "Ebene glätten";
 
 /* Tool */
 "Flip" = "Umdrehen";
@@ -478,7 +478,7 @@
 "Glide Reflected" = "Gleitreflexion";
 
 /* No comment provided by engineer. */
-"Go to Photographs" = "Go to Photographs";
+"Go to Photographs" = "Zu Fotografien gehen";
 
 /* No comment provided by engineer. */
 "Gradient" = "Verlauf";
@@ -603,7 +603,7 @@
 "Invert" = "Negativ";
 
 /* No comment provided by engineer. */
-"It seems that the original photo is no longer there." = "It seems that the original photo is no longer there.";
+"It seems that the original photo is no longer there." = "Es scheint, dass das originale Foto nicht mehr vorhanden ist.";
 
 /* Default new layer name */
 "Layer" = "Ebene";
@@ -612,7 +612,7 @@
 "Layer Mask" = "Ebenenmaske";
 
 /* No comment provided by engineer. */
-"Layer was flattened" = "Layer was flattened";
+"Layer was flattened" = "Ebene wurde geglättet";
 
 /* No comment provided by engineer. */
 "Learn More" = "Weitere Informationen";
@@ -676,7 +676,7 @@
 "Lock" = "Schützen";
 
 /* No comment provided by engineer. */
-"Locked Layer" = "Locked Layer";
+"Locked Layer" = "Gesperrte Ebene";
 
 /* No comment provided by engineer. */
 "Luminance" = "Luminanz";
@@ -727,7 +727,7 @@
 "Minimum Opacity" = "Minimale Deckkraft";
 
 /* No comment provided by engineer. */
-"ML Crop" = "ML Crop";
+"ML Crop" = "ML-Schnitt";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML Enhance";
@@ -736,7 +736,7 @@
 "mm" = "mm";
 
 /* Edit Menu */
-"More..." = "More...";
+"More..." = "Mehr...";
 
 /* No comment provided by engineer. */
 "Motion" = "Bewegung";
@@ -745,7 +745,7 @@
 "Multiply" = "Multiplizieren";
 
 /* No comment provided by engineer. */
-"My Albums" = "My Albums";
+"My Albums" = "Meine Alben";
 
 /* No comment provided by engineer. */
 "New Layer" = "Neue Ebene";
@@ -868,7 +868,7 @@
 "Pixel Tool" = "Pixelwerkzeug";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo has been denied access to Photos. Please allow access in Settings.";
+"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo wurde der Zugriff auf Fotos verweigert. Bitte erlauben Sie den Zugriff in Ihren Einstellungen.";
 
 /* Units */
 "Pixels" = "Pixel";
@@ -886,7 +886,7 @@
 "Preserve transparency" = "Transparenz schützen";
 
 /* No comment provided by engineer. */
-"Presets Imported" = "Presets Imported";
+"Presets Imported" = "Voreinstellungen importiert";
 
 /* No comment provided by engineer. */
 "Preview" = "Vorschau";
@@ -919,13 +919,13 @@
 "RAW Layer" = "RAW-Ebene";
 
 /* Layer creation */
-"Raw Layer" = "Rohe Ebene";
+"Raw Layer" = "Raw-Ebene";
 
 /* Tool */
 "Rectangle" = "Rechteck";
 
 /* Tool */
-"Rectangular" = "Rectangular";
+"Rectangular" = "Rechteckig";
 
 /* No comment provided by engineer. */
 "Rectangular Speech Bubble" = "Rechteckige Sprechblase";
@@ -946,7 +946,7 @@
 "Redo %@" = "%@ wiederholen";
 
 /* No comment provided by engineer. */
-"Reload from Photos" = "Reload from Photos";
+"Reload from Photos" = "Aus Fotos neu laden";
 
 /* Edit Menu */
 "Remove" = "Entfernen";
@@ -1098,7 +1098,7 @@
 "Sepia" = "Sepia";
 
 /* No comment provided by engineer. */
-"Settings" = "Settings";
+"Settings" = "Einstellungen";
 
 /* No comment provided by engineer. */
 "Shadow" = "Schatten";
