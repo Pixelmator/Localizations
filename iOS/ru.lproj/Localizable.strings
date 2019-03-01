@@ -5,7 +5,7 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* Duplicated image name */
-"%@ copy" = "%@ copy";
+"%@ copy" = "Копия %@";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -17,46 +17,46 @@
 "%i x %i" = "%1$i x %2$i";
 
 /* Image bits per component */
-"%i-bits" = "%i-bits";
+"%i-bits" = "%i бит";
 
 /* Color Balance */
 "3-Way Color" = "Трехвариантный цвет";
 
 /* No comment provided by engineer. */
-"\"%@\" Preset" = "\"%@\" Preset";
+"\"%@\" Preset" = "Набор \"%@\"";
 
 /* No comment provided by engineer. */
 "Accumulation" = "Накопление";
 
 /* Layer Management */
-"Add Image" = "Add Image";
+"Add Image" = "Добавить изображение";
 
 /* Layer Management */
 "Add Layer" = "Добавить слой";
 
 /* No comment provided by engineer. */
-"Add Raw Layer" = "Add Raw Layer";
+"Add Raw Layer" = "Добавить RAW-слой";
 
 /* Layer Management */
-"Add Text" = "Add Text";
+"Add Text" = "Добавить текст";
 
 /* No comment provided by engineer. */
 "Adjust Colors" = "Настроить цвета";
 
 /* No comment provided by engineer. */
-"Adjustment" = "Adjustment";
+"Adjustment" = "Корректировка";
 
 /* No comment provided by engineer. */
-"Adjustments" = "Adjustments";
+"Adjustments" = "Корректировки";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "Аффинная мозаика";
 
 /* No comment provided by engineer. */
-"All Albums" = "All Albums";
+"All Albums" = "Все альбомы";
 
 /* No comment provided by engineer. */
-"All Photos" = "All Photos";
+"All Photos" = "Все фото";
 
 /* No comment provided by engineer. */
 "Angle" = "Угол";
@@ -159,16 +159,16 @@
 "Bump" = "Вздутие";
 
 /* File size */
-"Calculating size..." = "Calculating size...";
+"Calculating size..." = "Идет вычисление размера...";
 
 /* No comment provided by engineer. */
 "Cancel" = "Отменить";
 
 /* Document loading */
-"Canceling..." = "Canceling...";
+"Canceling..." = "Отмена...";
 
 /* No comment provided by engineer. */
-"Cannot Create More Layers" = "Cannot Create More Layers";
+"Cannot Create More Layers" = "Не удается создать больше слоев";
 
 /* Tool */
 "Canvas Size" = "Размер холста";
@@ -180,7 +180,7 @@
 "Centimeters" = "Сантиметры";
 
 /* No comment provided by engineer. */
-"Change Color..." = "Change Color...";
+"Change Color..." = "Изменить цвет...";
 
 /* No comment provided by engineer. */
 "Channel" = "Канал";
@@ -263,25 +263,25 @@
 "Contrast" = "Контрастность";
 
 /* Used in gallery document duplicate. */
-"copy" = "copy";
+"copy" = "скопировать";
 
 /* Edit Menu */
 "Copy" = "Скопировать";
 
 /* Layer Management */
-"Copy Layer" = "Copy Layer";
+"Copy Layer" = "Скопировать слой";
 
 /* Tool */
 "Crayon" = "Восковый мелок";
 
 /* Gallery */
-"Create Image" = "Create Image";
+"Create Image" = "Создать изображение";
 
 /* Tool */
 "Crop" = "Обрезка";
 
 /* No comment provided by engineer. */
-"Current" = "Current";
+"Current" = "Текущее";
 
 /* No comment provided by engineer. */
 "Curves" = "Кривые";
@@ -293,7 +293,7 @@
 "Cut" = "Вырезать";
 
 /* Layer Management */
-"Cut Layer" = "Cut Layer";
+"Cut Layer" = "Вырезать слой";
 
 /* Color adjustments */
 "Cyan / Red" = "Бирюзовый/красный";
@@ -328,7 +328,7 @@
 "Directed" = "Прямой";
 
 /* No comment provided by engineer. */
-"Disable %@" = "Disable %@";
+"Disable %@" = "Отключить %@";
 
 /* No comment provided by engineer. */
 "Disc" = "Диск";
@@ -346,7 +346,7 @@
 "Divide" = "Разделить";
 
 /* keyboard */
-"done" = "done";
+"done" = "готово";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Двусторонняя стрелка";
@@ -358,7 +358,7 @@
 "Duplicate" = "Дублировать";
 
 /* Layer Management */
-"Duplicate Layer" = "Duplicate Layer";
+"Duplicate Layer" = "Дублировать слой";
 
 /* Tool */
 "Effects" = "Эффекты";
@@ -370,13 +370,13 @@
 "Ellipse" = "Эллипс";
 
 /* Tool */
-"Elliptical" = "Elliptical";
+"Elliptical" = "Эллиптический";
 
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "Эллиптический пузырь речи";
 
 /* No comment provided by engineer. */
-"Enable %@" = "Enable %@";
+"Enable %@" = "Включить %@";
 
 /* No comment provided by engineer. */
 "Enable Sharpening" = "Включить резкость";
@@ -385,7 +385,7 @@
 "End Point" = "Конечная точка";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset:" = "Enter a new name for this preset:";
+"Enter a new name for this preset:" = "Введите новое имя этого набора:";
 
 /* Tool */
 "Erase" = "Ластик";
@@ -409,7 +409,7 @@
 "Failed parsing layers data." = "Не удалось выполнить разбор данных слоев.";
 
 /* File size */
-"Failed to calculate size." = "Failed to calculate size.";
+"Failed to calculate size." = "Не удается вычислить размер.";
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "Не удалось получить один или более значений расширенных атрибутов";
@@ -421,16 +421,16 @@
 "Fill" = "Заливка";
 
 /* No comment provided by engineer. */
-"Fit" = "Fit";
+"Fit" = "Подогнать";
 
 /* No comment provided by engineer. */
 "Fixed" = "Исправлено";
 
 /* No comment provided by engineer. */
-"Flatten Layer" = "Flatten Layer";
+"Flatten Layer" = "Сгладить слой";
 
 /* Tool */
-"Flip" = "Flip";
+"Flip" = "Переворот";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "Перевернуть горизонтально";
@@ -454,13 +454,13 @@
 "Fourfold Translated" = "Четырехкратно перемещенная";
 
 /* Tool */
-"Free" = "Free";
+"Free" = "Свободно";
 
 /* Tool */
 "Freeform" = "Свободная форма";
 
 /* No comment provided by engineer. */
-"Fullscreen" = "Fullscreen";
+"Fullscreen" = "Полный экран";
 
 /* No comment provided by engineer. */
 "Gaussian" = "Гауссиан";
@@ -478,7 +478,7 @@
 "Glide Reflected" = "Отражение скольжения";
 
 /* No comment provided by engineer. */
-"Go to Photographs" = "Go to Photographs";
+"Go to Photographs" = "Перейти к фотографиям";
 
 /* No comment provided by engineer. */
 "Gradient" = "Градиент";
@@ -530,13 +530,13 @@
 "Hard Mix" = "Жесткое смешение";
 
 /* No comment provided by engineer. */
-"Hidden Layer" = "Hidden Layer";
+"Hidden Layer" = "Скрытый слой";
 
 /* Edit Menu */
 "Hide" = "Скрыть";
 
 /* Layer */
-"Hide Layer" = "Hide Layer";
+"Hide Layer" = "Скрыть слой";
 
 /* No comment provided by engineer. */
 "Hide Presets" = "Скрыть наборы настроек";
@@ -551,7 +551,7 @@
 "Hole" = "Отверстие";
 
 /* Perspective transform */
-"Horizontal Perspective" = "Horizontal Perspective";
+"Horizontal Perspective" = "Горизонтальная перспектива";
 
 /* No comment provided by engineer. */
 "Hue" = "Оттенок";
@@ -588,13 +588,13 @@
 "Initial Direction" = "Начальное направление";
 
 /* Tool */
-"Ink" = "Ink";
+"Ink" = "Чернила";
 
 /* No comment provided by engineer. */
 "Inner Shadow" = "Внутренняя тень";
 
 /* No comment provided by engineer. */
-"Insert from..." = "Insert from...";
+"Insert from..." = "Вставить из...";
 
 /* No comment provided by engineer. */
 "Intensity" = "Интенсивность";
@@ -603,7 +603,7 @@
 "Invert" = "Инвертировать";
 
 /* No comment provided by engineer. */
-"It seems that the original photo is no longer there." = "It seems that the original photo is no longer there.";
+"It seems that the original photo is no longer there." = "Похоже, исходное фото больше там не находится.";
 
 /* Default new layer name */
 "Layer" = "Слой";
@@ -612,10 +612,10 @@
 "Layer Mask" = "Маска слоя";
 
 /* No comment provided by engineer. */
-"Layer was flattened" = "Layer was flattened";
+"Layer was flattened" = "Слой был сглажен";
 
 /* No comment provided by engineer. */
-"Learn More" = "Learn More";
+"Learn More" = "Узнать больше";
 
 /* No comment provided by engineer. */
 "Left" = "Левое";
@@ -670,13 +670,13 @@
 "Load" = "Загрузить";
 
 /* Document loading */
-"Loading..." = "Loading...";
+"Loading..." = "Загрузка...";
 
 /* Layer */
 "Lock" = "Блокировать";
 
 /* No comment provided by engineer. */
-"Locked Layer" = "Locked Layer";
+"Locked Layer" = "Заблокированный слой";
 
 /* No comment provided by engineer. */
 "Luminance" = "Свечение";
@@ -691,10 +691,10 @@
 "Magenta / Green" = "Пурпурный / Зеленый";
 
 /* Tool */
-"Magnetic" = "Magnetic";
+"Magnetic" = "Магнитный";
 
 /* Tool */
-"Marker" = "Marker";
+"Marker" = "Маркер";
 
 /* Color Balance */
 "Master" = "Мастер";
@@ -703,7 +703,7 @@
 "Master Color Wheel" = "Цветовой мастер-круг";
 
 /* No comment provided by engineer. */
-"Maximum" = "Maximum";
+"Maximum" = "Максимум";
 
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "Размер макс. давления";
@@ -718,16 +718,16 @@
 "Midtones" = "Полутона";
 
 /* Units */
-"Milimeters" = "Milimeters";
+"Milimeters" = "Миллиметры";
 
 /* No comment provided by engineer. */
-"Minimum" = "Minimum";
+"Minimum" = "Минимум";
 
 /* No comment provided by engineer. */
 "Minimum Opacity" = "Минимальная непрозрачность";
 
 /* No comment provided by engineer. */
-"ML Crop" = "ML Crop";
+"ML Crop" = "ML-обрезка";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML Enhance";
@@ -736,7 +736,7 @@
 "mm" = "мм";
 
 /* Edit Menu */
-"More..." = "More...";
+"More..." = "Еще...";
 
 /* No comment provided by engineer. */
 "Motion" = "Движение";
@@ -745,22 +745,22 @@
 "Multiply" = "Умножить";
 
 /* No comment provided by engineer. */
-"My Albums" = "My Albums";
+"My Albums" = "Мои альбомы";
 
 /* No comment provided by engineer. */
 "New Layer" = "Новый слой";
 
 /* keyboard */
-"next" = "next";
+"next" = "далее";
 
 /* Document info */
-"No camera information" = "No camera information";
+"No camera information" = "Нет данных по камере";
 
 /* Document info */
-"No lens information" = "No lens information";
+"No lens information" = "Нет данных по объективу";
 
 /* No comment provided by engineer. */
-"No Photos Access" = "No Photos Access";
+"No Photos Access" = "Нет доступа к Фото";
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "Уменьшение шума";
@@ -796,25 +796,25 @@
 "Oriented" = "Ориентированный";
 
 /* No comment provided by engineer. */
-"ORIGINAL" = "ORIGINAL";
+"ORIGINAL" = "ОРИГИНАЛ";
 
 /* No comment provided by engineer. */
 "Original" = "Исходный";
 
 /* No comment provided by engineer. */
-"ORIGINAL COLORS" = "ORIGINAL COLORS";
+"ORIGINAL COLORS" = "ИСХОДНЫЕ ЦВЕТА";
 
 /* No comment provided by engineer. */
-"ORIGINAL COMPOSITION" = "ORIGINAL COMPOSITION";
+"ORIGINAL COMPOSITION" = "ИСХОДНАЯ КОМПОЗИЦИЯ";
 
 /* No comment provided by engineer. */
-"ORIGINAL CONTENT" = "ORIGINAL CONTENT";
+"ORIGINAL CONTENT" = "ИСХОДНЫЙ КОНТЕНТ";
 
 /* Effects category name */
 "Other" = "Другое";
 
 /* No comment provided by engineer. */
-"Other Albums" = "Other Albums";
+"Other Albums" = "Другие альбомы";
 
 /* No comment provided by engineer. */
 "Overlay" = "Перекрытие";
@@ -829,7 +829,7 @@
 "Paste" = "Вставить";
 
 /* Layer Management */
-"Paste Layer" = "Paste Layer";
+"Paste Layer" = "Вставить слой";
 
 /* No comment provided by engineer. */
 "Path" = "Путь";
@@ -844,13 +844,13 @@
 "Pen" = "Перо";
 
 /* Tool */
-"Pencil" = "Pencil";
+"Pencil" = "Карандаш";
 
 /* Units */
-"Percents" = "Percents";
+"Percents" = "Проценты";
 
 /* No comment provided by engineer. */
-"Perspective" = "Perspective";
+"Perspective" = "Перспектива";
 
 /* Tool */
 "Perspective Transform" = "Перспективное преобразование";
@@ -865,16 +865,16 @@
 "Pinch" = "Щипок";
 
 /* Tool */
-"Pixel Tool" = "Pixel Tool";
+"Pixel Tool" = "Пиксельный инструмент";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo has been denied access to Photos. Please allow access in Settings.";
+"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmatr Photo не получил доступ к Фото. Откройте доступ в Настройках.";
 
 /* Units */
 "Pixels" = "Пиксели";
 
 /* Units */
-"Points" = "Points";
+"Points" = "Пункты";
 
 /* Tool */
 "Polygon" = "Многоугольник";
@@ -886,22 +886,22 @@
 "Preserve transparency" = "Сохранить прозрачность";
 
 /* No comment provided by engineer. */
-"Presets Imported" = "Presets Imported";
+"Presets Imported" = "Набор импортирован";
 
 /* No comment provided by engineer. */
 "Preview" = "Превью";
 
 /* No comment provided by engineer. */
-"Previous" = "Previous";
+"Previous" = "Предыдущее";
 
 /* Units */
-"pt" = "pt";
+"pt" = "пт";
 
 /* Units */
-"px" = "px";
+"px" = "пикс";
 
 /* Tool */
-"Quick" = "Quick";
+"Quick" = "Быстрый";
 
 /* No comment provided by engineer. */
 "Radius" = "Радиус";
@@ -919,13 +919,13 @@
 "RAW Layer" = "RAW-слой";
 
 /* Layer creation */
-"Raw Layer" = "Raw Layer";
+"Raw Layer" = "RAW-слой";
 
 /* Tool */
 "Rectangle" = "Прямоугольник";
 
 /* Tool */
-"Rectangular" = "Rectangular";
+"Rectangular" = "Прямоугольный";
 
 /* No comment provided by engineer. */
 "Rectangular Speech Bubble" = "Прямоугольный пузырь речи";
@@ -946,16 +946,16 @@
 "Redo %@" = "Повторить «%@»";
 
 /* No comment provided by engineer. */
-"Reload from Photos" = "Reload from Photos";
+"Reload from Photos" = "Перезагрузить из Фото";
 
 /* Edit Menu */
 "Remove" = "Удалить";
 
 /* No comment provided by engineer. */
-"Remove Adjustments" = "Remove Adjustments";
+"Remove Adjustments" = "Удалить корректировки";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "Remove Collection";
+"Remove Collection" = "Удалить коллекцию";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "Удалить маску";
@@ -983,31 +983,31 @@
 "Reset Adjustments" = "Сброс корректировок";
 
 /* No comment provided by engineer. */
-"Reset Crop" = "Reset Crop";
+"Reset Crop" = "Сбросить обрезку";
 
 /* Perspective transform */
-"Reset Horizontal Perspective" = "Reset Horizontal Perspective";
+"Reset Horizontal Perspective" = "Сбросить горизонтальную перспективу";
 
 /* No comment provided by engineer. */
-"Reset ML Crop" = "Reset ML Crop";
+"Reset ML Crop" = "Сбросить ML-обрезку";
 
 /* Perspective transform */
-"Reset Perspective" = "Reset Perspective";
+"Reset Perspective" = "Сбросить перспективу";
 
 /* No comment provided by engineer. */
-"Reset Repair Changes" = "Reset Repair Changes";
+"Reset Repair Changes" = "Сбросить правку исправления";
 
 /* Perspective transform */
-"Reset Vertical Perspective" = "Reset Vertical Perspective";
+"Reset Vertical Perspective" = "Сбросить вертикальную перспективу";
 
 /* Tool */
 "Restore" = "Восстановить";
 
 /* No comment provided by engineer. */
-"Restore Layer" = "Restore Layer";
+"Restore Layer" = "Восстановить слой";
 
 /* No comment provided by engineer. */
-"Revert to Original" = "Revert to Original";
+"Revert to Original" = "Вернуть к оригиналу";
 
 /* No comment provided by engineer. */
 "RGB" = "RGB";
@@ -1022,13 +1022,13 @@
 "Rotate 180°" = "Повернуть на 180°";
 
 /* No comment provided by engineer. */
-"Rotate Left" = "Rotate Left";
+"Rotate Left" = "Повернуть влево";
 
 /* No comment provided by engineer. */
-"Rotate Right" = "Rotate Right";
+"Rotate Right" = "Повернуть вправо";
 
 /* Tool */
-"Rounded Rect." = "Rounded Rect.";
+"Rounded Rect." = "Прямоугольник с закругленными углами.";
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "Прямоугольник с закругленными углами";
@@ -1044,13 +1044,13 @@
 "Saturation Scatter" = "Разброс насыщенности";
 
 /* No comment provided by engineer. */
-"Save a Copy" = "Save a Copy";
+"Save a Copy" = "Сохранить копию";
 
 /* No comment provided by engineer. */
-"Save the image to your Photos library." = "Save the image to your Photos library.";
+"Save the image to your Photos library." = "Сохранить изображения в медиатеку Фото.";
 
 /* No comment provided by engineer. */
-"Save to Photos" = "Save to Photos";
+"Save to Photos" = "Сохранить в Фото";
 
 /* No comment provided by engineer. */
 "Scale" = "Масштаб";
@@ -1086,10 +1086,10 @@
 "Selected Color" = "Выбранный цвет";
 
 /* No comment provided by engineer. */
-"Selected layer is hidden, reveal it to edit." = "Selected layer is hidden, reveal it to edit.";
+"Selected layer is hidden, reveal it to edit." = "Выбранный слой скрыт, раскройте его для редактирования.";
 
 /* No comment provided by engineer. */
-"Selected layer is locked, unlock it to edit." = "Selected layer is locked, unlock it to edit.";
+"Selected layer is locked, unlock it to edit." = "Выбранный слой заблокирован, для изменений разблокируйте его.";
 
 /* No comment provided by engineer. */
 "Selective Color" = "Выбирающий цвет";
@@ -1098,7 +1098,7 @@
 "Sepia" = "Сепия";
 
 /* No comment provided by engineer. */
-"Settings" = "Settings";
+"Settings" = "Настройки";
 
 /* No comment provided by engineer. */
 "Shadow" = "Тень";
@@ -1119,7 +1119,7 @@
 "Share" = "Поделиться";
 
 /* No comment provided by engineer. */
-"Shared Albums" = "Shared Albums";
+"Shared Albums" = "Общие альбомы";
 
 /* Effects category name
    Retouch Tools
@@ -1136,7 +1136,7 @@
 "Show" = "Показать";
 
 /* Layer */
-"Show Layer" = "Show Layer";
+"Show Layer" = "Показать слой";
 
 /* No comment provided by engineer. */
 "Show Original" = "Показать оригинал";
@@ -1207,7 +1207,7 @@
 "Spot Light" = "Прожектор";
 
 /* Tool */
-"Spray" = "Spray";
+"Spray" = "Спрей";
 
 /* Tool */
 "Star" = "Звезда";
@@ -1216,7 +1216,7 @@
 "Start Point" = "Начальная точка";
 
 /* Tool */
-"Straighten" = "Straighten";
+"Straighten" = "Выпрямить";
 
 /* No comment provided by engineer. */
 "Strength" = "Сила";
@@ -1264,7 +1264,7 @@
 "Tail Start Dynamics" = "Динамика начала хвоста";
 
 /* No comment provided by engineer. */
-"Take Photo" = "Take Photo";
+"Take Photo" = "Сделать фото";
 
 /* No comment provided by engineer. */
 "Target Color" = "Целевой цвет";
@@ -1277,43 +1277,43 @@
 "Text" = "Текст";
 
 /* No comment provided by engineer. */
-"The color adjustment presets were imported successfully." = "The color adjustment presets were imported successfully.";
+"The color adjustment presets were imported successfully." = "Наборы корректировок цвета были успешно импортированы.";
 
 /* No comment provided by engineer. */
-"The image contains %@ layers. To create more, reduce the image size." = "The image contains %@ layers. To create more, reduce the image size.";
+"The image contains %@ layers. To create more, reduce the image size." = "Изображение содержит несколько слоев (%@). Чтобы создать еще, уменьшите размер изображения.";
 
 /* No comment provided by engineer. */
-"The image could not be exported." = "The image could not be exported.";
+"The image could not be exported." = "Изображение нельзя экспортировать.";
 
 /* No comment provided by engineer. */
-"The image could not be imported." = "The image could not be imported.";
+"The image could not be imported." = "Изображение нельзя импортировать.";
 
 /* No comment provided by engineer. */
-"The image could not be opened." = "The image could not be opened.";
+"The image could not be opened." = "Изображение нельзя открыть.";
 
 /* No comment provided by engineer. */
-"The image could not be saved." = "The image could not be saved.";
+"The image could not be saved." = "Изображение нельзя сохранить.";
 
 /* No comment provided by engineer. */
-"The maximum number of layers for this image size is %i" = "The maximum number of layers for this image size is %i";
+"The maximum number of layers for this image size is %i" = "Максимальное количество слоев для изображения такого размера: %i";
 
 /* No comment provided by engineer. */
-"The original photo couldn’t be modified." = "The original photo couldn’t be modified.";
+"The original photo couldn’t be modified." = "Исходное фото нельзя изменить.";
 
 /* No comment provided by engineer. */
-"The preset will be permanently removed from the app." = "The preset will be permanently removed from the app.";
+"The preset will be permanently removed from the app." = "Набор будет окончательно удален из приложения.";
 
 /* No comment provided by engineer. */
-"The preset will be redefined with the current color adjustments." = "The preset will be redefined with the current color adjustments.";
+"The preset will be redefined with the current color adjustments." = "Набор будет пересмотрен с текущими корректировками цвета.";
 
 /* No comment provided by engineer. */
-"The selected collection of presets will be removed." = "The selected collection of presets will be removed.";
+"The selected collection of presets will be removed." = "Выбранная коллекция наборов будет удалена.";
 
 /* No comment provided by engineer. */
-"The size is too large." = "The size is too large.";
+"The size is too large." = "Слишком большой размер.";
 
 /* No comment provided by engineer. */
-"This photo was not imported from your Photos library so there is no original to modify." = "This photo was not imported from your Photos library so there is no original to modify.";
+"This photo was not imported from your Photos library so there is no original to modify." = "Это фото не была импортировано из медиатеки Фото, так что оригинала для изменения нет.";
 
 /* Effects category name */
 "Tile" = "Плитка";
@@ -1367,22 +1367,22 @@
 "Twirl" = "Закручивание";
 
 /* No comment provided by engineer. */
-"Unable to Access Help" = "Unable to Access Help";
+"Unable to Access Help" = "Не удается зайти в Справку";
 
 /* No comment provided by engineer. */
-"Unable to Export" = "Unable to Export";
+"Unable to Export" = "Не удалось экспортировать";
 
 /* No comment provided by engineer. */
-"Unable to Import Image" = "Unable to Import Image";
+"Unable to Import Image" = "Не удается импортировать изображение";
 
 /* No comment provided by engineer. */
-"Unable to Modify" = "Unable to Modify";
+"Unable to Modify" = "Не удается изменить";
 
 /* No comment provided by engineer. */
-"Unable to Open Image" = "Unable to Open Image";
+"Unable to Open Image" = "Не удается открыть изображение";
 
 /* No comment provided by engineer. */
-"Unable to Save" = "Unable to Save";
+"Unable to Save" = "Не удается сохранить";
 
 /* No comment provided by engineer. */
 "Undo" = "Отменить";
@@ -1409,7 +1409,7 @@
 "Untitled layer mask" = "Маска слоя без названия";
 
 /* Perspective transform */
-"Vertical Perspective" = "Vertical Perspective";
+"Vertical Perspective" = "Вертикальная перспектива";
 
 /* No comment provided by engineer. */
 "Vibrance" = "Вибрация";

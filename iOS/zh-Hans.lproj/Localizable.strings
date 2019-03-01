@@ -5,7 +5,7 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* Duplicated image name */
-"%@ copy" = "%@ copy";
+"%@ copy" = "%@副本";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -17,46 +17,46 @@
 "%i x %i" = "%1$i x %2$i";
 
 /* Image bits per component */
-"%i-bits" = "%i-bits";
+"%i-bits" = "%i 位";
 
 /* Color Balance */
 "3-Way Color" = "三路颜色";
 
 /* No comment provided by engineer. */
-"\"%@\" Preset" = "\"%@\" Preset";
+"\"%@\" Preset" = "“%@” 预设";
 
 /* No comment provided by engineer. */
 "Accumulation" = "累积";
 
 /* Layer Management */
-"Add Image" = "Add Image";
+"Add Image" = "添加图像";
 
 /* Layer Management */
 "Add Layer" = "添加图层";
 
 /* No comment provided by engineer. */
-"Add Raw Layer" = "Add Raw Layer";
+"Add Raw Layer" = "添加原始图层";
 
 /* Layer Management */
-"Add Text" = "Add Text";
+"Add Text" = "添加文本";
 
 /* No comment provided by engineer. */
 "Adjust Colors" = "调整颜色";
 
 /* No comment provided by engineer. */
-"Adjustment" = "Adjustment";
+"Adjustment" = "调整";
 
 /* No comment provided by engineer. */
-"Adjustments" = "Adjustments";
+"Adjustments" = "调整";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "仿射拼贴";
 
 /* No comment provided by engineer. */
-"All Albums" = "All Albums";
+"All Albums" = "所有相簿";
 
 /* No comment provided by engineer. */
-"All Photos" = "All Photos";
+"All Photos" = "所有照片";
 
 /* No comment provided by engineer. */
 "Angle" = "角度";
@@ -159,16 +159,16 @@
 "Bump" = "凹凸";
 
 /* File size */
-"Calculating size..." = "Calculating size...";
+"Calculating size..." = "正在计算大小...";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
 
 /* Document loading */
-"Canceling..." = "Canceling...";
+"Canceling..." = "正在取消…";
 
 /* No comment provided by engineer. */
-"Cannot Create More Layers" = "Cannot Create More Layers";
+"Cannot Create More Layers" = "无法创建更多图层";
 
 /* Tool */
 "Canvas Size" = "画布大小";
@@ -180,7 +180,7 @@
 "Centimeters" = "厘米";
 
 /* No comment provided by engineer. */
-"Change Color..." = "Change Color...";
+"Change Color..." = "更改颜色...";
 
 /* No comment provided by engineer. */
 "Channel" = "通道";
@@ -263,25 +263,25 @@
 "Contrast" = "对比度";
 
 /* Used in gallery document duplicate. */
-"copy" = "copy";
+"copy" = "副本";
 
 /* Edit Menu */
 "Copy" = "拷贝";
 
 /* Layer Management */
-"Copy Layer" = "Copy Layer";
+"Copy Layer" = "复制图层";
 
 /* Tool */
 "Crayon" = "蜡笔";
 
 /* Gallery */
-"Create Image" = "Create Image";
+"Create Image" = "创建图像";
 
 /* Tool */
 "Crop" = "裁剪";
 
 /* No comment provided by engineer. */
-"Current" = "Current";
+"Current" = "当前";
 
 /* No comment provided by engineer. */
 "Curves" = "曲线";
@@ -293,7 +293,7 @@
 "Cut" = "剪切";
 
 /* Layer Management */
-"Cut Layer" = "Cut Layer";
+"Cut Layer" = "剪切图层";
 
 /* Color adjustments */
 "Cyan / Red" = "青色/红色";
@@ -328,7 +328,7 @@
 "Directed" = "跟随方向";
 
 /* No comment provided by engineer. */
-"Disable %@" = "Disable %@";
+"Disable %@" = "禁用 %@";
 
 /* No comment provided by engineer. */
 "Disc" = "磁盘";
@@ -346,7 +346,7 @@
 "Divide" = "划分";
 
 /* keyboard */
-"done" = "done";
+"done" = "完成";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "双头箭头";
@@ -358,7 +358,7 @@
 "Duplicate" = "复制";
 
 /* Layer Management */
-"Duplicate Layer" = "Duplicate Layer";
+"Duplicate Layer" = "重复图层";
 
 /* Tool */
 "Effects" = "效果";
@@ -370,13 +370,13 @@
 "Ellipse" = "椭圆";
 
 /* Tool */
-"Elliptical" = "Elliptical";
+"Elliptical" = "椭圆形";
 
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "椭圆对话气泡";
 
 /* No comment provided by engineer. */
-"Enable %@" = "Enable %@";
+"Enable %@" = "启用 %@";
 
 /* No comment provided by engineer. */
 "Enable Sharpening" = "启用锐化";
@@ -385,7 +385,7 @@
 "End Point" = "结束点";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset:" = "Enter a new name for this preset:";
+"Enter a new name for this preset:" = "输入此预设的新名称：";
 
 /* Tool */
 "Erase" = "抹掉";
@@ -400,7 +400,7 @@
 "Exposure" = "曝光";
 
 /* No comment provided by engineer. */
-"Extent" = "Extent";
+"Extent" = "范围";
 
 /* No comment provided by engineer. */
 "Fade" = "褪色";
@@ -409,7 +409,7 @@
 "Failed parsing layers data." = "分析图层数据失败。";
 
 /* File size */
-"Failed to calculate size." = "Failed to calculate size.";
+"Failed to calculate size." = "计算大小失败。";
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "未能获取一个或多个扩展属性值";
@@ -421,16 +421,16 @@
 "Fill" = "填充";
 
 /* No comment provided by engineer. */
-"Fit" = "Fit";
+"Fit" = "适合";
 
 /* No comment provided by engineer. */
 "Fixed" = "固定";
 
 /* No comment provided by engineer. */
-"Flatten Layer" = "Flatten Layer";
+"Flatten Layer" = "平坦图层";
 
 /* Tool */
-"Flip" = "Flip";
+"Flip" = "翻转";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "水平翻转";
@@ -454,13 +454,13 @@
 "Fourfold Translated" = "四倍转换";
 
 /* Tool */
-"Free" = "Free";
+"Free" = "自由";
 
 /* Tool */
 "Freeform" = "多边形";
 
 /* No comment provided by engineer. */
-"Fullscreen" = "Fullscreen";
+"Fullscreen" = "全屏幕";
 
 /* No comment provided by engineer. */
 "Gaussian" = "高斯";
@@ -478,7 +478,7 @@
 "Glide Reflected" = "滑行反射";
 
 /* No comment provided by engineer. */
-"Go to Photographs" = "Go to Photographs";
+"Go to Photographs" = "转到照片";
 
 /* No comment provided by engineer. */
 "Gradient" = "渐变";
@@ -530,13 +530,13 @@
 "Hard Mix" = "实色混合";
 
 /* No comment provided by engineer. */
-"Hidden Layer" = "Hidden Layer";
+"Hidden Layer" = "隐藏图层";
 
 /* Edit Menu */
 "Hide" = "隐藏";
 
 /* Layer */
-"Hide Layer" = "Hide Layer";
+"Hide Layer" = "隐藏图层";
 
 /* No comment provided by engineer. */
 "Hide Presets" = "隐藏预设";
@@ -551,7 +551,7 @@
 "Hole" = "孔";
 
 /* Perspective transform */
-"Horizontal Perspective" = "Horizontal Perspective";
+"Horizontal Perspective" = "水平透视";
 
 /* No comment provided by engineer. */
 "Hue" = "色调";
@@ -588,13 +588,13 @@
 "Initial Direction" = "初始方向";
 
 /* Tool */
-"Ink" = "Ink";
+"Ink" = "墨水";
 
 /* No comment provided by engineer. */
 "Inner Shadow" = "内部阴影";
 
 /* No comment provided by engineer. */
-"Insert from..." = "Insert from...";
+"Insert from..." = "插入来自…";
 
 /* No comment provided by engineer. */
 "Intensity" = "强度";
@@ -603,7 +603,7 @@
 "Invert" = "反转";
 
 /* No comment provided by engineer. */
-"It seems that the original photo is no longer there." = "It seems that the original photo is no longer there.";
+"It seems that the original photo is no longer there." = "原始照片似乎已不在那里了。";
 
 /* Default new layer name */
 "Layer" = "图层";
@@ -612,10 +612,10 @@
 "Layer Mask" = "图层蒙版";
 
 /* No comment provided by engineer. */
-"Layer was flattened" = "Layer was flattened";
+"Layer was flattened" = "图层被展平";
 
 /* No comment provided by engineer. */
-"Learn More" = "Learn More";
+"Learn More" = "了解更多";
 
 /* No comment provided by engineer. */
 "Left" = "左";
@@ -670,13 +670,13 @@
 "Load" = "载入";
 
 /* Document loading */
-"Loading..." = "Loading...";
+"Loading..." = "正在载入…";
 
 /* Layer */
 "Lock" = "锁定";
 
 /* No comment provided by engineer. */
-"Locked Layer" = "Locked Layer";
+"Locked Layer" = "锁定图层";
 
 /* No comment provided by engineer. */
 "Luminance" = "亮度";
@@ -691,10 +691,10 @@
 "Magenta / Green" = "洋红色/绿色";
 
 /* Tool */
-"Magnetic" = "Magnetic";
+"Magnetic" = "磁性";
 
 /* Tool */
-"Marker" = "Marker";
+"Marker" = "马克笔";
 
 /* Color Balance */
 "Master" = "主色";
@@ -703,7 +703,7 @@
 "Master Color Wheel" = "主色轮";
 
 /* No comment provided by engineer. */
-"Maximum" = "Maximum";
+"Maximum" = "最大值";
 
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "最大压力大小";
@@ -718,25 +718,25 @@
 "Midtones" = "中间调";
 
 /* Units */
-"Milimeters" = "Milimeters";
+"Milimeters" = "毫米";
 
 /* No comment provided by engineer. */
-"Minimum" = "Minimum";
+"Minimum" = "最小值";
 
 /* No comment provided by engineer. */
 "Minimum Opacity" = "最小不透明度";
 
 /* No comment provided by engineer. */
-"ML Crop" = "ML Crop";
+"ML Crop" = "ML 裁剪";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML Enhance";
+"ML Enhance" = "ML 增强";
 
 /* Units */
 "mm" = "毫米";
 
 /* Edit Menu */
-"More..." = "More...";
+"More..." = "更多...";
 
 /* No comment provided by engineer. */
 "Motion" = "运动";
@@ -745,22 +745,22 @@
 "Multiply" = "加倍";
 
 /* No comment provided by engineer. */
-"My Albums" = "My Albums";
+"My Albums" = "我的相簿";
 
 /* No comment provided by engineer. */
 "New Layer" = "新建图层";
 
 /* keyboard */
-"next" = "next";
+"next" = "下一个";
 
 /* Document info */
-"No camera information" = "No camera information";
+"No camera information" = "无相机信息";
 
 /* Document info */
-"No lens information" = "No lens information";
+"No lens information" = "无镜头信息";
 
 /* No comment provided by engineer. */
-"No Photos Access" = "No Photos Access";
+"No Photos Access" = "无照片访问权";
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "降噪";
@@ -796,25 +796,25 @@
 "Oriented" = "追随方向";
 
 /* No comment provided by engineer. */
-"ORIGINAL" = "ORIGINAL";
+"ORIGINAL" = "原始";
 
 /* No comment provided by engineer. */
 "Original" = "原件";
 
 /* No comment provided by engineer. */
-"ORIGINAL COLORS" = "ORIGINAL COLORS";
+"ORIGINAL COLORS" = "原色";
 
 /* No comment provided by engineer. */
-"ORIGINAL COMPOSITION" = "ORIGINAL COMPOSITION";
+"ORIGINAL COMPOSITION" = "原始组合";
 
 /* No comment provided by engineer. */
-"ORIGINAL CONTENT" = "ORIGINAL CONTENT";
+"ORIGINAL CONTENT" = "原始内容";
 
 /* Effects category name */
 "Other" = "其他";
 
 /* No comment provided by engineer. */
-"Other Albums" = "Other Albums";
+"Other Albums" = "其他相簿";
 
 /* No comment provided by engineer. */
 "Overlay" = "叠层";
@@ -829,7 +829,7 @@
 "Paste" = "粘贴";
 
 /* Layer Management */
-"Paste Layer" = "Paste Layer";
+"Paste Layer" = "粘贴图层";
 
 /* No comment provided by engineer. */
 "Path" = "路径";
@@ -844,13 +844,13 @@
 "Pen" = "笔";
 
 /* Tool */
-"Pencil" = "Pencil";
+"Pencil" = "铅笔";
 
 /* Units */
-"Percents" = "Percents";
+"Percents" = "百分比";
 
 /* No comment provided by engineer. */
-"Perspective" = "Perspective";
+"Perspective" = "视角";
 
 /* Tool */
 "Perspective Transform" = "透视转换";
@@ -865,16 +865,16 @@
 "Pinch" = "收缩";
 
 /* Tool */
-"Pixel Tool" = "Pixel Tool";
+"Pixel Tool" = "像素工具";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo has been denied access to Photos. Please allow access in Settings.";
+"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo 被拒绝访问照片。请在“设置”中允许访问。";
 
 /* Units */
 "Pixels" = "像素";
 
 /* Units */
-"Points" = "Points";
+"Points" = "点";
 
 /* Tool */
 "Polygon" = "多边形";
@@ -886,22 +886,22 @@
 "Preserve transparency" = "保留透明度";
 
 /* No comment provided by engineer. */
-"Presets Imported" = "Presets Imported";
+"Presets Imported" = "导入预设";
 
 /* No comment provided by engineer. */
 "Preview" = "预览";
 
 /* No comment provided by engineer. */
-"Previous" = "Previous";
+"Previous" = "上一个";
 
 /* Units */
-"pt" = "pt";
+"pt" = "点";
 
 /* Units */
-"px" = "px";
+"px" = "像素";
 
 /* Tool */
-"Quick" = "Quick";
+"Quick" = "快速";
 
 /* No comment provided by engineer. */
 "Radius" = "半径";
@@ -919,13 +919,13 @@
 "RAW Layer" = "RAW 图层";
 
 /* Layer creation */
-"Raw Layer" = "Raw Layer";
+"Raw Layer" = "RAW 图层";
 
 /* Tool */
 "Rectangle" = "矩形";
 
 /* Tool */
-"Rectangular" = "Rectangular";
+"Rectangular" = "矩形";
 
 /* No comment provided by engineer. */
 "Rectangular Speech Bubble" = "矩形对话气泡";
@@ -946,16 +946,16 @@
 "Redo %@" = "重做 %@";
 
 /* No comment provided by engineer. */
-"Reload from Photos" = "Reload from Photos";
+"Reload from Photos" = "从照片重新加载";
 
 /* Edit Menu */
 "Remove" = "移除";
 
 /* No comment provided by engineer. */
-"Remove Adjustments" = "Remove Adjustments";
+"Remove Adjustments" = "移除调整";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "Remove Collection";
+"Remove Collection" = "移除字体集";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "移除蒙版";
@@ -983,31 +983,31 @@
 "Reset Adjustments" = "重置调整";
 
 /* No comment provided by engineer. */
-"Reset Crop" = "Reset Crop";
+"Reset Crop" = "重置裁剪";
 
 /* Perspective transform */
-"Reset Horizontal Perspective" = "Reset Horizontal Perspective";
+"Reset Horizontal Perspective" = "重置水平透视";
 
 /* No comment provided by engineer. */
-"Reset ML Crop" = "Reset ML Crop";
+"Reset ML Crop" = "重置 ML 裁剪";
 
 /* Perspective transform */
-"Reset Perspective" = "Reset Perspective";
+"Reset Perspective" = "重置透视";
 
 /* No comment provided by engineer. */
-"Reset Repair Changes" = "Reset Repair Changes";
+"Reset Repair Changes" = "重置修复更改";
 
 /* Perspective transform */
-"Reset Vertical Perspective" = "Reset Vertical Perspective";
+"Reset Vertical Perspective" = "重置垂直透视";
 
 /* Tool */
 "Restore" = "恢复";
 
 /* No comment provided by engineer. */
-"Restore Layer" = "Restore Layer";
+"Restore Layer" = "恢复图层";
 
 /* No comment provided by engineer. */
-"Revert to Original" = "Revert to Original";
+"Revert to Original" = "复原至原始状态";
 
 /* No comment provided by engineer. */
 "RGB" = "RGB";
@@ -1022,13 +1022,13 @@
 "Rotate 180°" = "旋转 180°";
 
 /* No comment provided by engineer. */
-"Rotate Left" = "Rotate Left";
+"Rotate Left" = "向左旋转";
 
 /* No comment provided by engineer. */
-"Rotate Right" = "Rotate Right";
+"Rotate Right" = "向右旋转";
 
 /* Tool */
-"Rounded Rect." = "Rounded Rect.";
+"Rounded Rect." = "圆角矩形";
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "圆角矩形";
@@ -1044,13 +1044,13 @@
 "Saturation Scatter" = "饱和度散射";
 
 /* No comment provided by engineer. */
-"Save a Copy" = "Save a Copy";
+"Save a Copy" = "存储副本";
 
 /* No comment provided by engineer. */
-"Save the image to your Photos library." = "Save the image to your Photos library.";
+"Save the image to your Photos library." = "将图像保存到您的照片图库。";
 
 /* No comment provided by engineer. */
-"Save to Photos" = "Save to Photos";
+"Save to Photos" = "存储到“照片”";
 
 /* No comment provided by engineer. */
 "Scale" = "缩放";
@@ -1086,10 +1086,10 @@
 "Selected Color" = "选定颜色";
 
 /* No comment provided by engineer. */
-"Selected layer is hidden, reveal it to edit." = "Selected layer is hidden, reveal it to edit.";
+"Selected layer is hidden, reveal it to edit." = "选定的图层被隐藏，显示图层才可编辑。";
 
 /* No comment provided by engineer. */
-"Selected layer is locked, unlock it to edit." = "Selected layer is locked, unlock it to edit.";
+"Selected layer is locked, unlock it to edit." = "选定的图层被锁定，解锁图层才可编辑。";
 
 /* No comment provided by engineer. */
 "Selective Color" = "选择性颜色";
@@ -1098,7 +1098,7 @@
 "Sepia" = "棕褐色";
 
 /* No comment provided by engineer. */
-"Settings" = "Settings";
+"Settings" = "设置";
 
 /* No comment provided by engineer. */
 "Shadow" = "阴影";
@@ -1119,7 +1119,7 @@
 "Share" = "共享";
 
 /* No comment provided by engineer. */
-"Shared Albums" = "Shared Albums";
+"Shared Albums" = "共享相簿";
 
 /* Effects category name
    Retouch Tools
@@ -1136,7 +1136,7 @@
 "Show" = "显示";
 
 /* Layer */
-"Show Layer" = "Show Layer";
+"Show Layer" = "显示图层";
 
 /* No comment provided by engineer. */
 "Show Original" = "显示原件";
@@ -1207,7 +1207,7 @@
 "Spot Light" = "聚光灯光";
 
 /* Tool */
-"Spray" = "Spray";
+"Spray" = "喷涂刷";
 
 /* Tool */
 "Star" = "星";
@@ -1216,7 +1216,7 @@
 "Start Point" = "起点";
 
 /* Tool */
-"Straighten" = "Straighten";
+"Straighten" = "校正";
 
 /* No comment provided by engineer. */
 "Strength" = "强度";
@@ -1264,7 +1264,7 @@
 "Tail Start Dynamics" = "尾部起点动态";
 
 /* No comment provided by engineer. */
-"Take Photo" = "Take Photo";
+"Take Photo" = "照相";
 
 /* No comment provided by engineer. */
 "Target Color" = "目标颜色";
@@ -1277,43 +1277,43 @@
 "Text" = "文本";
 
 /* No comment provided by engineer. */
-"The color adjustment presets were imported successfully." = "The color adjustment presets were imported successfully.";
+"The color adjustment presets were imported successfully." = "已成功导入颜色调整预设。";
 
 /* No comment provided by engineer. */
-"The image contains %@ layers. To create more, reduce the image size." = "The image contains %@ layers. To create more, reduce the image size.";
+"The image contains %@ layers. To create more, reduce the image size." = "图像包含 %@ 个图层。必须降低图像大小才可以创建更多图层。";
 
 /* No comment provided by engineer. */
-"The image could not be exported." = "The image could not be exported.";
+"The image could not be exported." = "未能导出图像。";
 
 /* No comment provided by engineer. */
-"The image could not be imported." = "The image could not be imported.";
+"The image could not be imported." = "未能导入图像。";
 
 /* No comment provided by engineer. */
-"The image could not be opened." = "The image could not be opened.";
+"The image could not be opened." = "未能打开图像。";
 
 /* No comment provided by engineer. */
-"The image could not be saved." = "The image could not be saved.";
+"The image could not be saved." = "未能保存图像。";
 
 /* No comment provided by engineer. */
-"The maximum number of layers for this image size is %i" = "The maximum number of layers for this image size is %i";
+"The maximum number of layers for this image size is %i" = "此图像大小的最大图层数为 %i";
 
 /* No comment provided by engineer. */
-"The original photo couldn’t be modified." = "The original photo couldn’t be modified.";
+"The original photo couldn’t be modified." = "无法修改原始照片。";
 
 /* No comment provided by engineer. */
-"The preset will be permanently removed from the app." = "The preset will be permanently removed from the app.";
+"The preset will be permanently removed from the app." = "此预设将从应用程序中被永久移除。";
 
 /* No comment provided by engineer. */
-"The preset will be redefined with the current color adjustments." = "The preset will be redefined with the current color adjustments.";
+"The preset will be redefined with the current color adjustments." = "此预设将根据当前颜色调整重新定义。";
 
 /* No comment provided by engineer. */
-"The selected collection of presets will be removed." = "The selected collection of presets will be removed.";
+"The selected collection of presets will be removed." = "选定的预设集合将被移除。";
 
 /* No comment provided by engineer. */
-"The size is too large." = "The size is too large.";
+"The size is too large." = "大小超出限制。";
 
 /* No comment provided by engineer. */
-"This photo was not imported from your Photos library so there is no original to modify." = "This photo was not imported from your Photos library so there is no original to modify.";
+"This photo was not imported from your Photos library so there is no original to modify." = "此照片不是从您的照片图库导入的，因此没有可修改的原件。";
 
 /* Effects category name */
 "Tile" = "平铺";
@@ -1367,22 +1367,22 @@
 "Twirl" = "旋转";
 
 /* No comment provided by engineer. */
-"Unable to Access Help" = "Unable to Access Help";
+"Unable to Access Help" = "无法访问帮助";
 
 /* No comment provided by engineer. */
-"Unable to Export" = "Unable to Export";
+"Unable to Export" = "无法导出";
 
 /* No comment provided by engineer. */
-"Unable to Import Image" = "Unable to Import Image";
+"Unable to Import Image" = "无法导入图像";
 
 /* No comment provided by engineer. */
-"Unable to Modify" = "Unable to Modify";
+"Unable to Modify" = "无法修改";
 
 /* No comment provided by engineer. */
-"Unable to Open Image" = "Unable to Open Image";
+"Unable to Open Image" = "无法打开图像";
 
 /* No comment provided by engineer. */
-"Unable to Save" = "Unable to Save";
+"Unable to Save" = "无法保存";
 
 /* No comment provided by engineer. */
 "Undo" = "撤销";
@@ -1409,7 +1409,7 @@
 "Untitled layer mask" = "未命名图层蒙版";
 
 /* Perspective transform */
-"Vertical Perspective" = "Vertical Perspective";
+"Vertical Perspective" = "垂直透视";
 
 /* No comment provided by engineer. */
 "Vibrance" = "自然饱和度";

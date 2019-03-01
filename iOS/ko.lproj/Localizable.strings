@@ -5,7 +5,7 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* Duplicated image name */
-"%@ copy" = "%@ copy";
+"%@ copy" = "%@ 복사본";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -17,46 +17,46 @@
 "%i x %i" = "%1$i x %2$i";
 
 /* Image bits per component */
-"%i-bits" = "%i-bits";
+"%i-bits" = "%i비트";
 
 /* Color Balance */
 "3-Way Color" = "3방향 색상";
 
 /* No comment provided by engineer. */
-"\"%@\" Preset" = "\"%@\" Preset";
+"\"%@\" Preset" = "\"%@\" 프리셋";
 
 /* No comment provided by engineer. */
 "Accumulation" = "누적";
 
 /* Layer Management */
-"Add Image" = "Add Image";
+"Add Image" = "이미지 추가";
 
 /* Layer Management */
 "Add Layer" = "레이어 추가";
 
 /* No comment provided by engineer. */
-"Add Raw Layer" = "Add Raw Layer";
+"Add Raw Layer" = "원시 레이어 추가";
 
 /* Layer Management */
-"Add Text" = "Add Text";
+"Add Text" = "텍스트 추가";
 
 /* No comment provided by engineer. */
 "Adjust Colors" = "색상 조정";
 
 /* No comment provided by engineer. */
-"Adjustment" = "Adjustment";
+"Adjustment" = "조정";
 
 /* No comment provided by engineer. */
-"Adjustments" = "Adjustments";
+"Adjustments" = "조정";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "어파인 타일";
 
 /* No comment provided by engineer. */
-"All Albums" = "All Albums";
+"All Albums" = "모든 앨범";
 
 /* No comment provided by engineer. */
-"All Photos" = "All Photos";
+"All Photos" = "모든 사진";
 
 /* No comment provided by engineer. */
 "Angle" = "각도";
@@ -159,16 +159,16 @@
 "Bump" = "범프";
 
 /* File size */
-"Calculating size..." = "Calculating size...";
+"Calculating size..." = "크기 계산 중...";
 
 /* No comment provided by engineer. */
 "Cancel" = "취소";
 
 /* Document loading */
-"Canceling..." = "Canceling...";
+"Canceling..." = "취소 중...";
 
 /* No comment provided by engineer. */
-"Cannot Create More Layers" = "Cannot Create More Layers";
+"Cannot Create More Layers" = "레이어를 더 생성할 수 없습니다";
 
 /* Tool */
 "Canvas Size" = "캔버스 크기";
@@ -180,7 +180,7 @@
 "Centimeters" = "센티미터";
 
 /* No comment provided by engineer. */
-"Change Color..." = "Change Color...";
+"Change Color..." = "색 변경...";
 
 /* No comment provided by engineer. */
 "Channel" = "채널";
@@ -263,25 +263,25 @@
 "Contrast" = "대비";
 
 /* Used in gallery document duplicate. */
-"copy" = "copy";
+"copy" = "복사";
 
 /* Edit Menu */
 "Copy" = "복사";
 
 /* Layer Management */
-"Copy Layer" = "Copy Layer";
+"Copy Layer" = "레이어 복사";
 
 /* Tool */
 "Crayon" = "크레용";
 
 /* Gallery */
-"Create Image" = "Create Image";
+"Create Image" = "이미지 생성";
 
 /* Tool */
 "Crop" = "자르기";
 
 /* No comment provided by engineer. */
-"Current" = "Current";
+"Current" = "현재";
 
 /* No comment provided by engineer. */
 "Curves" = "곡선";
@@ -293,7 +293,7 @@
 "Cut" = "오려두기";
 
 /* Layer Management */
-"Cut Layer" = "Cut Layer";
+"Cut Layer" = "레이어 자르기";
 
 /* Color adjustments */
 "Cyan / Red" = "녹청 / 빨강";
@@ -328,7 +328,7 @@
 "Directed" = "방향성";
 
 /* No comment provided by engineer. */
-"Disable %@" = "Disable %@";
+"Disable %@" = "%@ 비활성화";
 
 /* No comment provided by engineer. */
 "Disc" = "디스크";
@@ -346,7 +346,7 @@
 "Divide" = "나누기";
 
 /* keyboard */
-"done" = "done";
+"done" = "완료";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "양방향 화살표";
@@ -358,7 +358,7 @@
 "Duplicate" = "복제";
 
 /* Layer Management */
-"Duplicate Layer" = "Duplicate Layer";
+"Duplicate Layer" = "레이어 복제";
 
 /* Tool */
 "Effects" = "효과";
@@ -370,13 +370,13 @@
 "Ellipse" = "타원";
 
 /* Tool */
-"Elliptical" = "Elliptical";
+"Elliptical" = "타원형";
 
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "타원형 말 풍선";
 
 /* No comment provided by engineer. */
-"Enable %@" = "Enable %@";
+"Enable %@" = "%@ 활성화";
 
 /* No comment provided by engineer. */
 "Enable Sharpening" = "선명 효과 활성화";
@@ -385,7 +385,7 @@
 "End Point" = "끝점";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset:" = "Enter a new name for this preset:";
+"Enter a new name for this preset:" = "이 프리셋에 대한 새로운 이름을 입력하세요:";
 
 /* Tool */
 "Erase" = "지우기";
@@ -400,7 +400,7 @@
 "Exposure" = "노출";
 
 /* No comment provided by engineer. */
-"Extent" = "Extent";
+"Extent" = "크기";
 
 /* No comment provided by engineer. */
 "Fade" = "페이드";
@@ -409,7 +409,7 @@
 "Failed parsing layers data." = "레이어 데이터의 구문 분석에 실패했습니다.";
 
 /* File size */
-"Failed to calculate size." = "Failed to calculate size.";
+"Failed to calculate size." = "크기를 계산하지 못했습니다.";
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "한 개 이상의 확장 속성 값을 가져오는 데 실패했습니다";
@@ -421,16 +421,16 @@
 "Fill" = "채우기";
 
 /* No comment provided by engineer. */
-"Fit" = "Fit";
+"Fit" = "맞추기";
 
 /* No comment provided by engineer. */
 "Fixed" = "고정";
 
 /* No comment provided by engineer. */
-"Flatten Layer" = "Flatten Layer";
+"Flatten Layer" = "레이어 병합";
 
 /* Tool */
-"Flip" = "Flip";
+"Flip" = "뒤집기";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "좌우로 뒤집기";
@@ -454,13 +454,13 @@
 "Fourfold Translated" = "4방향으로 변환";
 
 /* Tool */
-"Free" = "Free";
+"Free" = "자유형";
 
 /* Tool */
 "Freeform" = "자유형";
 
 /* No comment provided by engineer. */
-"Fullscreen" = "Fullscreen";
+"Fullscreen" = "전체 화면";
 
 /* No comment provided by engineer. */
 "Gaussian" = "가우스";
@@ -478,7 +478,7 @@
 "Glide Reflected" = "글라이드 반사";
 
 /* No comment provided by engineer. */
-"Go to Photographs" = "Go to Photographs";
+"Go to Photographs" = "사진으로 이동";
 
 /* No comment provided by engineer. */
 "Gradient" = "그라디언트";
@@ -530,13 +530,13 @@
 "Hard Mix" = "하드 믹스";
 
 /* No comment provided by engineer. */
-"Hidden Layer" = "Hidden Layer";
+"Hidden Layer" = "숨은 레이어";
 
 /* Edit Menu */
 "Hide" = "가리기";
 
 /* Layer */
-"Hide Layer" = "Hide Layer";
+"Hide Layer" = "레이어 숨기기";
 
 /* No comment provided by engineer. */
 "Hide Presets" = "프리셋 가리기";
@@ -551,7 +551,7 @@
 "Hole" = "구멍";
 
 /* Perspective transform */
-"Horizontal Perspective" = "Horizontal Perspective";
+"Horizontal Perspective" = "수평 투시도";
 
 /* No comment provided by engineer. */
 "Hue" = "색조";
@@ -588,13 +588,13 @@
 "Initial Direction" = "최초 방향";
 
 /* Tool */
-"Ink" = "Ink";
+"Ink" = "잉크";
 
 /* No comment provided by engineer. */
 "Inner Shadow" = "내부 그림자";
 
 /* No comment provided by engineer. */
-"Insert from..." = "Insert from...";
+"Insert from..." = "다음에서 삽입…";
 
 /* No comment provided by engineer. */
 "Intensity" = "강도";
@@ -603,7 +603,7 @@
 "Invert" = "반전";
 
 /* No comment provided by engineer. */
-"It seems that the original photo is no longer there." = "It seems that the original photo is no longer there.";
+"It seems that the original photo is no longer there." = "원본 사진이 더 이상 그곳에 없는 것 같습니다.";
 
 /* Default new layer name */
 "Layer" = "레이어";
@@ -612,10 +612,10 @@
 "Layer Mask" = "레이어 마스크";
 
 /* No comment provided by engineer. */
-"Layer was flattened" = "Layer was flattened";
+"Layer was flattened" = "레이어가 병합되었습니다";
 
 /* No comment provided by engineer. */
-"Learn More" = "Learn More";
+"Learn More" = "더 알아보기";
 
 /* No comment provided by engineer. */
 "Left" = "왼쪽";
@@ -670,13 +670,13 @@
 "Load" = "로드";
 
 /* Document loading */
-"Loading..." = "Loading...";
+"Loading..." = "로드 중...";
 
 /* Layer */
 "Lock" = "잠금";
 
 /* No comment provided by engineer. */
-"Locked Layer" = "Locked Layer";
+"Locked Layer" = "잠긴 레이어";
 
 /* No comment provided by engineer. */
 "Luminance" = "휘도";
@@ -691,10 +691,10 @@
 "Magenta / Green" = "자홍 / 녹색";
 
 /* Tool */
-"Magnetic" = "Magnetic";
+"Magnetic" = "자석";
 
 /* Tool */
-"Marker" = "Marker";
+"Marker" = "마커";
 
 /* Color Balance */
 "Master" = "마스터";
@@ -703,7 +703,7 @@
 "Master Color Wheel" = "마스터 색상 원판";
 
 /* No comment provided by engineer. */
-"Maximum" = "Maximum";
+"Maximum" = "최대";
 
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "최대 압력 크기";
@@ -718,25 +718,25 @@
 "Midtones" = "중간 색조";
 
 /* Units */
-"Milimeters" = "Milimeters";
+"Milimeters" = "밀리미터";
 
 /* No comment provided by engineer. */
-"Minimum" = "Minimum";
+"Minimum" = "최소";
 
 /* No comment provided by engineer. */
 "Minimum Opacity" = "최소 불투명도";
 
 /* No comment provided by engineer. */
-"ML Crop" = "ML Crop";
+"ML Crop" = "ML 자르기";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML Enhance";
+"ML Enhance" = "ML 향상";
 
 /* Units */
 "mm" = "mm";
 
 /* Edit Menu */
-"More..." = "More...";
+"More..." = "더 보기...";
 
 /* No comment provided by engineer. */
 "Motion" = "동작";
@@ -745,22 +745,22 @@
 "Multiply" = "곱하기";
 
 /* No comment provided by engineer. */
-"My Albums" = "My Albums";
+"My Albums" = "내 앨범";
 
 /* No comment provided by engineer. */
 "New Layer" = "새 레이어";
 
 /* keyboard */
-"next" = "next";
+"next" = "다음";
 
 /* Document info */
-"No camera information" = "No camera information";
+"No camera information" = "카메라 정보가 없습니다";
 
 /* Document info */
-"No lens information" = "No lens information";
+"No lens information" = "렌즈 정보가 없습니다";
 
 /* No comment provided by engineer. */
-"No Photos Access" = "No Photos Access";
+"No Photos Access" = "사진 액세스 권한이 없습니다";
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "노이즈 감소";
@@ -796,25 +796,25 @@
 "Oriented" = "방향성";
 
 /* No comment provided by engineer. */
-"ORIGINAL" = "ORIGINAL";
+"ORIGINAL" = "원본";
 
 /* No comment provided by engineer. */
 "Original" = "원본";
 
 /* No comment provided by engineer. */
-"ORIGINAL COLORS" = "ORIGINAL COLORS";
+"ORIGINAL COLORS" = "원본 색상";
 
 /* No comment provided by engineer. */
-"ORIGINAL COMPOSITION" = "ORIGINAL COMPOSITION";
+"ORIGINAL COMPOSITION" = "원본 구성";
 
 /* No comment provided by engineer. */
-"ORIGINAL CONTENT" = "ORIGINAL CONTENT";
+"ORIGINAL CONTENT" = "원본 콘텐츠";
 
 /* Effects category name */
 "Other" = "기타";
 
 /* No comment provided by engineer. */
-"Other Albums" = "Other Albums";
+"Other Albums" = "기타 앨범";
 
 /* No comment provided by engineer. */
 "Overlay" = "오버레이";
@@ -829,7 +829,7 @@
 "Paste" = "붙이기";
 
 /* Layer Management */
-"Paste Layer" = "Paste Layer";
+"Paste Layer" = "레이어 붙이기";
 
 /* No comment provided by engineer. */
 "Path" = "경로";
@@ -844,13 +844,13 @@
 "Pen" = "펜";
 
 /* Tool */
-"Pencil" = "Pencil";
+"Pencil" = "연필";
 
 /* Units */
-"Percents" = "Percents";
+"Percents" = "퍼센트";
 
 /* No comment provided by engineer. */
-"Perspective" = "Perspective";
+"Perspective" = "투시도";
 
 /* Tool */
 "Perspective Transform" = "원근법 변형";
@@ -865,16 +865,16 @@
 "Pinch" = "핀치";
 
 /* Tool */
-"Pixel Tool" = "Pixel Tool";
+"Pixel Tool" = "픽셀 도구";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo has been denied access to Photos. Please allow access in Settings.";
+"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo에 대해 사진 접근이 거부되었습니다. 설정에서 접근을 허용하세요.";
 
 /* Units */
 "Pixels" = "픽셀";
 
 /* Units */
-"Points" = "Points";
+"Points" = "포인트";
 
 /* Tool */
 "Polygon" = "다각형";
@@ -886,13 +886,13 @@
 "Preserve transparency" = "투명도 유지";
 
 /* No comment provided by engineer. */
-"Presets Imported" = "Presets Imported";
+"Presets Imported" = "가져온 프리셋";
 
 /* No comment provided by engineer. */
 "Preview" = "미리보기";
 
 /* No comment provided by engineer. */
-"Previous" = "Previous";
+"Previous" = "이전";
 
 /* Units */
 "pt" = "pt";
@@ -901,7 +901,7 @@
 "px" = "px";
 
 /* Tool */
-"Quick" = "Quick";
+"Quick" = "빠른";
 
 /* No comment provided by engineer. */
 "Radius" = "반경";
@@ -919,13 +919,13 @@
 "RAW Layer" = "RAW 레이어";
 
 /* Layer creation */
-"Raw Layer" = "Raw Layer";
+"Raw Layer" = "원시 레이어";
 
 /* Tool */
 "Rectangle" = "사각형";
 
 /* Tool */
-"Rectangular" = "Rectangular";
+"Rectangular" = "직사각형";
 
 /* No comment provided by engineer. */
 "Rectangular Speech Bubble" = "사각형 말 풍선";
@@ -946,16 +946,16 @@
 "Redo %@" = "%@ 다시 실행";
 
 /* No comment provided by engineer. */
-"Reload from Photos" = "Reload from Photos";
+"Reload from Photos" = "사진에서 다시 불러오기";
 
 /* Edit Menu */
 "Remove" = "제거";
 
 /* No comment provided by engineer. */
-"Remove Adjustments" = "Remove Adjustments";
+"Remove Adjustments" = "조정 제거";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "Remove Collection";
+"Remove Collection" = "컬렉션 제거";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "마스크 제거";
@@ -983,31 +983,31 @@
 "Reset Adjustments" = "조정 재설정";
 
 /* No comment provided by engineer. */
-"Reset Crop" = "Reset Crop";
+"Reset Crop" = "자르기 재설정";
 
 /* Perspective transform */
-"Reset Horizontal Perspective" = "Reset Horizontal Perspective";
+"Reset Horizontal Perspective" = "수평 투시도 재설정";
 
 /* No comment provided by engineer. */
-"Reset ML Crop" = "Reset ML Crop";
+"Reset ML Crop" = "ML 자르기 재설정";
 
 /* Perspective transform */
-"Reset Perspective" = "Reset Perspective";
+"Reset Perspective" = "투시도 재설정";
 
 /* No comment provided by engineer. */
-"Reset Repair Changes" = "Reset Repair Changes";
+"Reset Repair Changes" = "변경 복구 재설정";
 
 /* Perspective transform */
-"Reset Vertical Perspective" = "Reset Vertical Perspective";
+"Reset Vertical Perspective" = "수직 투시도 재설정";
 
 /* Tool */
 "Restore" = "복원";
 
 /* No comment provided by engineer. */
-"Restore Layer" = "Restore Layer";
+"Restore Layer" = "레이어 복원";
 
 /* No comment provided by engineer. */
-"Revert to Original" = "Revert to Original";
+"Revert to Original" = "원본으로 되돌리기";
 
 /* No comment provided by engineer. */
 "RGB" = "RGB";
@@ -1022,13 +1022,13 @@
 "Rotate 180°" = "180° 회전";
 
 /* No comment provided by engineer. */
-"Rotate Left" = "Rotate Left";
+"Rotate Left" = "왼쪽으로 회전";
 
 /* No comment provided by engineer. */
-"Rotate Right" = "Rotate Right";
+"Rotate Right" = "오른쪽으로 회전";
 
 /* Tool */
-"Rounded Rect." = "Rounded Rect.";
+"Rounded Rect." = "모서리가 둥근 사각형";
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "모서리가 둥근 사각형";
@@ -1044,13 +1044,13 @@
 "Saturation Scatter" = "채도 분산";
 
 /* No comment provided by engineer. */
-"Save a Copy" = "Save a Copy";
+"Save a Copy" = "복사본 저장";
 
 /* No comment provided by engineer. */
-"Save the image to your Photos library." = "Save the image to your Photos library.";
+"Save the image to your Photos library." = "이미지를 사진 보관함에 저장합니다.";
 
 /* No comment provided by engineer. */
-"Save to Photos" = "Save to Photos";
+"Save to Photos" = "사진에 저장";
 
 /* No comment provided by engineer. */
 "Scale" = "크기 조절";
@@ -1086,10 +1086,10 @@
 "Selected Color" = "선택된 색";
 
 /* No comment provided by engineer. */
-"Selected layer is hidden, reveal it to edit." = "Selected layer is hidden, reveal it to edit.";
+"Selected layer is hidden, reveal it to edit." = "선택된 레이어가 숨겨져 있습니다. 편집하려면 보이게 하세요.";
 
 /* No comment provided by engineer. */
-"Selected layer is locked, unlock it to edit." = "Selected layer is locked, unlock it to edit.";
+"Selected layer is locked, unlock it to edit." = "선택된 레이어가 잠겨 있습니다. 편집하려면 잠금 해제하세요.";
 
 /* No comment provided by engineer. */
 "Selective Color" = "선택적 색상";
@@ -1098,7 +1098,7 @@
 "Sepia" = "세피아";
 
 /* No comment provided by engineer. */
-"Settings" = "Settings";
+"Settings" = "설정";
 
 /* No comment provided by engineer. */
 "Shadow" = "그림자";
@@ -1119,7 +1119,7 @@
 "Share" = "공유";
 
 /* No comment provided by engineer. */
-"Shared Albums" = "Shared Albums";
+"Shared Albums" = "공유 앨범";
 
 /* Effects category name
    Retouch Tools
@@ -1136,7 +1136,7 @@
 "Show" = "보기";
 
 /* Layer */
-"Show Layer" = "Show Layer";
+"Show Layer" = "레이어 표시";
 
 /* No comment provided by engineer. */
 "Show Original" = "원본 보기";
@@ -1207,7 +1207,7 @@
 "Spot Light" = "스팟 라이트";
 
 /* Tool */
-"Spray" = "Spray";
+"Spray" = "스프레이";
 
 /* Tool */
 "Star" = "별";
@@ -1216,7 +1216,7 @@
 "Start Point" = "시작 포인트";
 
 /* Tool */
-"Straighten" = "Straighten";
+"Straighten" = "수평 조절";
 
 /* No comment provided by engineer. */
 "Strength" = "강도";
@@ -1264,7 +1264,7 @@
 "Tail Start Dynamics" = "테일 스타트 다이내믹스";
 
 /* No comment provided by engineer. */
-"Take Photo" = "Take Photo";
+"Take Photo" = "사진 찍기";
 
 /* No comment provided by engineer. */
 "Target Color" = "대상 색상";
@@ -1277,43 +1277,43 @@
 "Text" = "텍스트";
 
 /* No comment provided by engineer. */
-"The color adjustment presets were imported successfully." = "The color adjustment presets were imported successfully.";
+"The color adjustment presets were imported successfully." = "색상 조정 프리셋을 가져왔습니다.";
 
 /* No comment provided by engineer. */
-"The image contains %@ layers. To create more, reduce the image size." = "The image contains %@ layers. To create more, reduce the image size.";
+"The image contains %@ layers. To create more, reduce the image size." = "이미지가 %@개의 레이어를 포함하고 있습니다. 더 생성하려면 이미지 크기를 줄이세요.";
 
 /* No comment provided by engineer. */
-"The image could not be exported." = "The image could not be exported.";
+"The image could not be exported." = "이미지를 내보내지 못했습니다.";
 
 /* No comment provided by engineer. */
-"The image could not be imported." = "The image could not be imported.";
+"The image could not be imported." = "이미지를 가져오지 못했습니다.";
 
 /* No comment provided by engineer. */
-"The image could not be opened." = "The image could not be opened.";
+"The image could not be opened." = "이미지를 열지 못했습니다.";
 
 /* No comment provided by engineer. */
-"The image could not be saved." = "The image could not be saved.";
+"The image could not be saved." = "이미지를 저장하지 못했습니다.";
 
 /* No comment provided by engineer. */
-"The maximum number of layers for this image size is %i" = "The maximum number of layers for this image size is %i";
+"The maximum number of layers for this image size is %i" = "이 이미지 크기에 대한 최대 레이어 수는 %i입니다";
 
 /* No comment provided by engineer. */
-"The original photo couldn’t be modified." = "The original photo couldn’t be modified.";
+"The original photo couldn’t be modified." = "원본 사진을 수정하지 못했습니다.";
 
 /* No comment provided by engineer. */
-"The preset will be permanently removed from the app." = "The preset will be permanently removed from the app.";
+"The preset will be permanently removed from the app." = "해당 프리셋은 앱에서 영구적으로 제거됩니다.";
 
 /* No comment provided by engineer. */
-"The preset will be redefined with the current color adjustments." = "The preset will be redefined with the current color adjustments.";
+"The preset will be redefined with the current color adjustments." = "해당 프리셋은 현재 색상 조정으로 재정의됩니다.";
 
 /* No comment provided by engineer. */
-"The selected collection of presets will be removed." = "The selected collection of presets will be removed.";
+"The selected collection of presets will be removed." = "선택된 프리셋 컬렉션은 제거됩니다.";
 
 /* No comment provided by engineer. */
-"The size is too large." = "The size is too large.";
+"The size is too large." = "크기가 너무 큽니다.";
 
 /* No comment provided by engineer. */
-"This photo was not imported from your Photos library so there is no original to modify." = "This photo was not imported from your Photos library so there is no original to modify.";
+"This photo was not imported from your Photos library so there is no original to modify." = "이 사진은 사진 보관함에서 가져오지 않았으므로 수정할 원본이 없습니다.";
 
 /* Effects category name */
 "Tile" = "타일";
@@ -1367,22 +1367,22 @@
 "Twirl" = "휘감기";
 
 /* No comment provided by engineer. */
-"Unable to Access Help" = "Unable to Access Help";
+"Unable to Access Help" = "도움말에 액세스할 수 없습니다";
 
 /* No comment provided by engineer. */
-"Unable to Export" = "Unable to Export";
+"Unable to Export" = "내보낼 수 없습니다";
 
 /* No comment provided by engineer. */
-"Unable to Import Image" = "Unable to Import Image";
+"Unable to Import Image" = "이미지를 가져올 수 없습니다";
 
 /* No comment provided by engineer. */
-"Unable to Modify" = "Unable to Modify";
+"Unable to Modify" = "수정할 수 없습니다";
 
 /* No comment provided by engineer. */
-"Unable to Open Image" = "Unable to Open Image";
+"Unable to Open Image" = "이미지를 열 수 없습니다";
 
 /* No comment provided by engineer. */
-"Unable to Save" = "Unable to Save";
+"Unable to Save" = "저장할 수 없습니다";
 
 /* No comment provided by engineer. */
 "Undo" = "실행 취소";
@@ -1409,7 +1409,7 @@
 "Untitled layer mask" = "제목 없는 레이어 마스크";
 
 /* Perspective transform */
-"Vertical Perspective" = "Vertical Perspective";
+"Vertical Perspective" = "수직 투시도";
 
 /* No comment provided by engineer. */
 "Vibrance" = "바이브런스";
