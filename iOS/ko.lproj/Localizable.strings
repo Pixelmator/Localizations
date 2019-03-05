@@ -19,6 +19,9 @@
 /* Image bits per component */
 "%i-bits" = "%i비트";
 
+/* crop aspect ratio */
+"%i:%i" = "%1$i:%2$i";
+
 /* Color Balance */
 "3-Way Color" = "3방향 색상";
 
@@ -286,7 +289,8 @@
 /* No comment provided by engineer. */
 "Curves" = "곡선";
 
-/* Tool */
+/* Crop preset
+   Tool */
 "Custom" = "사용자 정의";
 
 /* Edit Menu */
@@ -574,6 +578,9 @@
 /* Edit Menu */
 "Import" = "가져오기";
 
+/* No comment provided by engineer. */
+"Import Photo" = "Import Photo";
+
 /* short for inches
    Units */
 "in" = "인치";
@@ -674,6 +681,9 @@
 
 /* Layer */
 "Lock" = "잠금";
+
+/* No comment provided by engineer. */
+"Lock %@" = "Lock %@";
 
 /* No comment provided by engineer. */
 "Locked Layer" = "잠긴 레이어";
@@ -809,6 +819,9 @@
 
 /* No comment provided by engineer. */
 "ORIGINAL CONTENT" = "원본 콘텐츠";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "ORIGINAL PERSPECTIVE";
 
 /* Effects category name */
 "Other" = "기타";
@@ -952,10 +965,13 @@
 "Remove" = "제거";
 
 /* No comment provided by engineer. */
+"Remove \"%@\"?" = "Remove \"%@\"?";
+
+/* No comment provided by engineer. */
 "Remove Adjustments" = "조정 제거";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "컬렉션 제거";
+"Remove Collection \"%@\"?" = "Remove Collection \"%@\"?";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "마스크 제거";
@@ -981,6 +997,9 @@
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "조정 재설정";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "Reset Auto Enhance";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "자르기 재설정";
@@ -1134,6 +1153,9 @@
 
 /* No comment provided by engineer. */
 "Show" = "보기";
+
+/* No comment provided by engineer. */
+"Show Info" = "정보 보기";
 
 /* Layer */
 "Show Layer" = "레이어 표시";
@@ -1395,6 +1417,9 @@
 
 /* Layer */
 "Unlock" = "잠금 해제";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "Unlock %@";
 
 /* No comment provided by engineer. */
 "Untitled" = "제목 없음";
