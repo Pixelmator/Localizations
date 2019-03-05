@@ -19,6 +19,9 @@
 /* Image bits per component */
 "%i-bits" = "%i 位元";
 
+/* crop aspect ratio */
+"%i:%i" = "%1$i:%2$i";
+
 /* Color Balance */
 "3-Way Color" = "三路顏色";
 
@@ -286,7 +289,8 @@
 /* No comment provided by engineer. */
 "Curves" = "曲線";
 
-/* Tool */
+/* Crop preset
+   Tool */
 "Custom" = "自訂";
 
 /* Edit Menu */
@@ -574,6 +578,9 @@
 /* Edit Menu */
 "Import" = "匯入";
 
+/* No comment provided by engineer. */
+"Import Photo" = "Import Photo";
+
 /* short for inches
    Units */
 "in" = "英吋";
@@ -674,6 +681,9 @@
 
 /* Layer */
 "Lock" = "鎖定";
+
+/* No comment provided by engineer. */
+"Lock %@" = "Lock %@";
 
 /* No comment provided by engineer. */
 "Locked Layer" = "鎖定圖層";
@@ -809,6 +819,9 @@
 
 /* No comment provided by engineer. */
 "ORIGINAL CONTENT" = "原始內容";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "ORIGINAL PERSPECTIVE";
 
 /* Effects category name */
 "Other" = "其他";
@@ -952,10 +965,13 @@
 "Remove" = "移除";
 
 /* No comment provided by engineer. */
+"Remove \"%@\"?" = "Remove \"%@\"?";
+
+/* No comment provided by engineer. */
 "Remove Adjustments" = "移除調整";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "移除字體集";
+"Remove Collection \"%@\"?" = "Remove Collection \"%@\"?";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "移除蒙版";
@@ -981,6 +997,9 @@
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "重設調整";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "Reset Auto Enhance";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "重設裁切";
@@ -1134,6 +1153,9 @@
 
 /* No comment provided by engineer. */
 "Show" = "顯示";
+
+/* No comment provided by engineer. */
+"Show Info" = "顯示簡介";
 
 /* Layer */
 "Show Layer" = "顯示圖層";
@@ -1395,6 +1417,9 @@
 
 /* Layer */
 "Unlock" = "解鎖";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "Unlock %@";
 
 /* No comment provided by engineer. */
 "Untitled" = "未命名";
