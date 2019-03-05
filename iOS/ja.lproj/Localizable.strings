@@ -19,6 +19,9 @@
 /* Image bits per component */
 "%i-bits" = "%i-ビット";
 
+/* crop aspect ratio */
+"%i:%i" = "%1$i:%2$i";
+
 /* Color Balance */
 "3-Way Color" = "3ウェイカラー";
 
@@ -286,7 +289,8 @@
 /* No comment provided by engineer. */
 "Curves" = "カーブ";
 
-/* Tool */
+/* Crop preset
+   Tool */
 "Custom" = "その他";
 
 /* Edit Menu */
@@ -574,6 +578,9 @@
 /* Edit Menu */
 "Import" = "読み込み";
 
+/* No comment provided by engineer. */
+"Import Photo" = "Import Photo";
+
 /* short for inches
    Units */
 "in" = "インチ";
@@ -674,6 +681,9 @@
 
 /* Layer */
 "Lock" = "ロック";
+
+/* No comment provided by engineer. */
+"Lock %@" = "Lock %@";
 
 /* No comment provided by engineer. */
 "Locked Layer" = "ロックされたレイヤー";
@@ -809,6 +819,9 @@
 
 /* No comment provided by engineer. */
 "ORIGINAL CONTENT" = "元の内容";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "ORIGINAL PERSPECTIVE";
 
 /* Effects category name */
 "Other" = "その他";
@@ -952,10 +965,13 @@
 "Remove" = "削除";
 
 /* No comment provided by engineer. */
+"Remove \"%@\"?" = "Remove \"%@\"?";
+
+/* No comment provided by engineer. */
 "Remove Adjustments" = "調整を取り除く";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "コレクションを削除";
+"Remove Collection \"%@\"?" = "Remove Collection \"%@\"?";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "マスクを削除";
@@ -981,6 +997,9 @@
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "調整をリセット";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "Reset Auto Enhance";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "切り抜きをリセット";
@@ -1134,6 +1153,9 @@
 
 /* No comment provided by engineer. */
 "Show" = "表示";
+
+/* No comment provided by engineer. */
+"Show Info" = "情報を表示";
 
 /* Layer */
 "Show Layer" = "レイヤーを表示";
@@ -1395,6 +1417,9 @@
 
 /* Layer */
 "Unlock" = "ロックを解除";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "Unlock %@";
 
 /* No comment provided by engineer. */
 "Untitled" = "無題";
