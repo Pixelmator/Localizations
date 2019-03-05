@@ -19,6 +19,9 @@
 /* Image bits per component */
 "%i-bits" = "%i bits";
 
+/* crop aspect ratio */
+"%i:%i" = "%1$i:%2$i";
+
 /* Color Balance */
 "3-Way Color" = "Color tridireccional";
 
@@ -286,7 +289,8 @@
 /* No comment provided by engineer. */
 "Curves" = "Curvas";
 
-/* Tool */
+/* Crop preset
+   Tool */
 "Custom" = "Personalizado";
 
 /* Edit Menu */
@@ -574,6 +578,9 @@
 /* Edit Menu */
 "Import" = "Importar";
 
+/* No comment provided by engineer. */
+"Import Photo" = "Import Photo";
+
 /* short for inches
    Units */
 "in" = "en";
@@ -674,6 +681,9 @@
 
 /* Layer */
 "Lock" = "Bloquear";
+
+/* No comment provided by engineer. */
+"Lock %@" = "Lock %@";
 
 /* No comment provided by engineer. */
 "Locked Layer" = "Capa bloqueada";
@@ -809,6 +819,9 @@
 
 /* No comment provided by engineer. */
 "ORIGINAL CONTENT" = "CONTENIDO ORIGINAL";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "ORIGINAL PERSPECTIVE";
 
 /* Effects category name */
 "Other" = "Otro";
@@ -952,10 +965,13 @@
 "Remove" = "Eliminar";
 
 /* No comment provided by engineer. */
+"Remove \"%@\"?" = "Remove \"%@\"?";
+
+/* No comment provided by engineer. */
 "Remove Adjustments" = "Eliminar ajustes";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "Eliminar colección";
+"Remove Collection \"%@\"?" = "Remove Collection \"%@\"?";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "Eliminar máscara";
@@ -981,6 +997,9 @@
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "Restaurar ajustes";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "Reset Auto Enhance";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Restablecer el recorte";
@@ -1134,6 +1153,9 @@
 
 /* No comment provided by engineer. */
 "Show" = "Mostrar";
+
+/* No comment provided by engineer. */
+"Show Info" = "Mostrar información";
 
 /* Layer */
 "Show Layer" = "Mostrar capa";
@@ -1395,6 +1417,9 @@
 
 /* Layer */
 "Unlock" = "Desbloquear";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "Unlock %@";
 
 /* No comment provided by engineer. */
 "Untitled" = "Sin título";
