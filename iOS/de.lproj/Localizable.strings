@@ -19,6 +19,9 @@
 /* Image bits per component */
 "%i-bits" = "%i-bits";
 
+/* crop aspect ratio */
+"%i:%i" = "%1$i:%2$i";
+
 /* Color Balance */
 "3-Way Color" = "3-Wege-Farbtöne";
 
@@ -286,7 +289,8 @@
 /* No comment provided by engineer. */
 "Curves" = "Kurven";
 
-/* Tool */
+/* Crop preset
+   Tool */
 "Custom" = "Benutzerdefiniert";
 
 /* Edit Menu */
@@ -574,6 +578,9 @@
 /* Edit Menu */
 "Import" = "Importieren";
 
+/* No comment provided by engineer. */
+"Import Photo" = "Import Photo";
+
 /* short for inches
    Units */
 "in" = "in";
@@ -674,6 +681,9 @@
 
 /* Layer */
 "Lock" = "Schützen";
+
+/* No comment provided by engineer. */
+"Lock %@" = "Lock %@";
 
 /* No comment provided by engineer. */
 "Locked Layer" = "Gesperrte Ebene";
@@ -809,6 +819,9 @@
 
 /* No comment provided by engineer. */
 "ORIGINAL CONTENT" = "ORIGINALER INHALT";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "ORIGINAL PERSPECTIVE";
 
 /* Effects category name */
 "Other" = "Sonstige";
@@ -952,10 +965,13 @@
 "Remove" = "Entfernen";
 
 /* No comment provided by engineer. */
+"Remove \"%@\"?" = "Remove \"%@\"?";
+
+/* No comment provided by engineer. */
 "Remove Adjustments" = "Anpassungen entfernen";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "Sammlungen entfernen";
+"Remove Collection \"%@\"?" = "Remove Collection \"%@\"?";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "Maske entfernen";
@@ -981,6 +997,9 @@
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "Anpassungen zurücksetzen";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "Reset Auto Enhance";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Schnitt zurücksetzen";
@@ -1134,6 +1153,9 @@
 
 /* No comment provided by engineer. */
 "Show" = "Anzeigen";
+
+/* No comment provided by engineer. */
+"Show Info" = "Info anzeigen";
 
 /* Layer */
 "Show Layer" = "Ebene einblenden";
@@ -1395,6 +1417,9 @@
 
 /* Layer */
 "Unlock" = "Schutz aufheben";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "Unlock %@";
 
 /* No comment provided by engineer. */
 "Untitled" = "Unbenannt";

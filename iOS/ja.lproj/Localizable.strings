@@ -5,7 +5,7 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* Duplicated image name */
-"%@ copy" = "%@ copy";
+"%@ copy" = "%@のコピー";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -17,46 +17,49 @@
 "%i x %i" = "%1$i x %2$i";
 
 /* Image bits per component */
-"%i-bits" = "%i-bits";
+"%i-bits" = "%i-ビット";
+
+/* crop aspect ratio */
+"%i:%i" = "%1$i:%2$i";
 
 /* Color Balance */
 "3-Way Color" = "3ウェイカラー";
 
 /* No comment provided by engineer. */
-"\"%@\" Preset" = "\"%@\" Preset";
+"\"%@\" Preset" = "\"%@\"プリセット";
 
 /* No comment provided by engineer. */
 "Accumulation" = "累積";
 
 /* Layer Management */
-"Add Image" = "Add Image";
+"Add Image" = "イメージを追加";
 
 /* Layer Management */
 "Add Layer" = "レイヤーを追加";
 
 /* No comment provided by engineer. */
-"Add Raw Layer" = "Add Raw Layer";
+"Add Raw Layer" = "RAWレイヤーを追加";
 
 /* Layer Management */
-"Add Text" = "Add Text";
+"Add Text" = "テキストを追加";
 
 /* No comment provided by engineer. */
 "Adjust Colors" = "カラーを調整";
 
 /* No comment provided by engineer. */
-"Adjustment" = "Adjustment";
+"Adjustment" = "調整";
 
 /* No comment provided by engineer. */
-"Adjustments" = "Adjustments";
+"Adjustments" = "調整";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "アフィンタイル";
 
 /* No comment provided by engineer. */
-"All Albums" = "All Albums";
+"All Albums" = "すべてのアルバム";
 
 /* No comment provided by engineer. */
-"All Photos" = "All Photos";
+"All Photos" = "すべての写真";
 
 /* No comment provided by engineer. */
 "Angle" = "角度";
@@ -159,16 +162,16 @@
 "Bump" = "バンプ";
 
 /* File size */
-"Calculating size..." = "Calculating size...";
+"Calculating size..." = "サイズを計算中...";
 
 /* No comment provided by engineer. */
 "Cancel" = "キャンセル";
 
 /* Document loading */
-"Canceling..." = "Canceling...";
+"Canceling..." = "キャンセル中...";
 
 /* No comment provided by engineer. */
-"Cannot Create More Layers" = "Cannot Create More Layers";
+"Cannot Create More Layers" = "これ以上のレイヤーは作成できません";
 
 /* Tool */
 "Canvas Size" = "キャンバスサイズ";
@@ -180,7 +183,7 @@
 "Centimeters" = "センチ";
 
 /* No comment provided by engineer. */
-"Change Color..." = "Change Color...";
+"Change Color..." = "カラーを変更...";
 
 /* No comment provided by engineer. */
 "Channel" = "チャンネル";
@@ -263,37 +266,38 @@
 "Contrast" = "コントラスト";
 
 /* Used in gallery document duplicate. */
-"copy" = "copy";
+"copy" = "コピー";
 
 /* Edit Menu */
 "Copy" = "コピー";
 
 /* Layer Management */
-"Copy Layer" = "Copy Layer";
+"Copy Layer" = "レイヤーをコピー";
 
 /* Tool */
 "Crayon" = "クレヨン";
 
 /* Gallery */
-"Create Image" = "Create Image";
+"Create Image" = "イメージを作成";
 
 /* Tool */
 "Crop" = "切り抜き";
 
 /* No comment provided by engineer. */
-"Current" = "Current";
+"Current" = "現在";
 
 /* No comment provided by engineer. */
 "Curves" = "カーブ";
 
-/* Tool */
+/* Crop preset
+   Tool */
 "Custom" = "その他";
 
 /* Edit Menu */
 "Cut" = "カット";
 
 /* Layer Management */
-"Cut Layer" = "Cut Layer";
+"Cut Layer" = "レイヤーをカット";
 
 /* Color adjustments */
 "Cyan / Red" = "シアン/レッド";
@@ -328,7 +332,7 @@
 "Directed" = "方向に追随";
 
 /* No comment provided by engineer. */
-"Disable %@" = "Disable %@";
+"Disable %@" = "%@を無効";
 
 /* No comment provided by engineer. */
 "Disc" = "ディスク";
@@ -346,7 +350,7 @@
 "Divide" = "除算";
 
 /* keyboard */
-"done" = "done";
+"done" = "完了";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "両方向矢印";
@@ -358,7 +362,7 @@
 "Duplicate" = "複製";
 
 /* Layer Management */
-"Duplicate Layer" = "Duplicate Layer";
+"Duplicate Layer" = "レイヤーを複製";
 
 /* Tool */
 "Effects" = "エフェクト";
@@ -370,13 +374,13 @@
 "Ellipse" = "楕円";
 
 /* Tool */
-"Elliptical" = "Elliptical";
+"Elliptical" = "楕円形";
 
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "楕円形の吹き出し";
 
 /* No comment provided by engineer. */
-"Enable %@" = "Enable %@";
+"Enable %@" = "%@を有効";
 
 /* No comment provided by engineer. */
 "Enable Sharpening" = "シャープ化を有効にする";
@@ -385,7 +389,7 @@
 "End Point" = "終了ポイント";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset:" = "Enter a new name for this preset:";
+"Enter a new name for this preset:" = "プリセットの新しい名前を入力:";
 
 /* Tool */
 "Erase" = "消去";
@@ -409,7 +413,7 @@
 "Failed parsing layers data." = "レイヤーデータの解析に失敗しました。";
 
 /* File size */
-"Failed to calculate size." = "Failed to calculate size.";
+"Failed to calculate size." = "サイズの計算ができません。";
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "拡張属性の値の取得に失敗しました";
@@ -421,16 +425,16 @@
 "Fill" = "べた塗り";
 
 /* No comment provided by engineer. */
-"Fit" = "Fit";
+"Fit" = "合わせる";
 
 /* No comment provided by engineer. */
 "Fixed" = "固定";
 
 /* No comment provided by engineer. */
-"Flatten Layer" = "Flatten Layer";
+"Flatten Layer" = "レイヤーを平坦化";
 
 /* Tool */
-"Flip" = "Flip";
+"Flip" = "反転";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "水平方向に反転";
@@ -454,13 +458,13 @@
 "Fourfold Translated" = "4 方向変形";
 
 /* Tool */
-"Free" = "Free";
+"Free" = "空き";
 
 /* Tool */
 "Freeform" = "フリーフォーム";
 
 /* No comment provided by engineer. */
-"Fullscreen" = "Fullscreen";
+"Fullscreen" = "フルスクリーン";
 
 /* No comment provided by engineer. */
 "Gaussian" = "ガウス";
@@ -478,7 +482,7 @@
 "Glide Reflected" = "グレイド反射";
 
 /* No comment provided by engineer. */
-"Go to Photographs" = "Go to Photographs";
+"Go to Photographs" = "写真に移動";
 
 /* No comment provided by engineer. */
 "Gradient" = "グラデーション";
@@ -530,13 +534,13 @@
 "Hard Mix" = "ハードミックス";
 
 /* No comment provided by engineer. */
-"Hidden Layer" = "Hidden Layer";
+"Hidden Layer" = "非表示のレイヤー";
 
 /* Edit Menu */
 "Hide" = "隠す";
 
 /* Layer */
-"Hide Layer" = "Hide Layer";
+"Hide Layer" = "レイヤーを隠す";
 
 /* No comment provided by engineer. */
 "Hide Presets" = "プリセットを隠す";
@@ -551,7 +555,7 @@
 "Hole" = "穴";
 
 /* Perspective transform */
-"Horizontal Perspective" = "Horizontal Perspective";
+"Horizontal Perspective" = "水平方向の視点";
 
 /* No comment provided by engineer. */
 "Hue" = "色合い";
@@ -574,6 +578,9 @@
 /* Edit Menu */
 "Import" = "読み込み";
 
+/* No comment provided by engineer. */
+"Import Photo" = "Import Photo";
+
 /* short for inches
    Units */
 "in" = "インチ";
@@ -588,13 +595,13 @@
 "Initial Direction" = "最初の方向";
 
 /* Tool */
-"Ink" = "Ink";
+"Ink" = "インク";
 
 /* No comment provided by engineer. */
 "Inner Shadow" = "インナーシャドウ";
 
 /* No comment provided by engineer. */
-"Insert from..." = "Insert from...";
+"Insert from..." = "次から挿入…";
 
 /* No comment provided by engineer. */
 "Intensity" = "強度";
@@ -603,7 +610,7 @@
 "Invert" = "反転";
 
 /* No comment provided by engineer. */
-"It seems that the original photo is no longer there." = "It seems that the original photo is no longer there.";
+"It seems that the original photo is no longer there." = "元の写真が見つかりません。";
 
 /* Default new layer name */
 "Layer" = "レイヤー";
@@ -612,10 +619,10 @@
 "Layer Mask" = "レイヤーマスク";
 
 /* No comment provided by engineer. */
-"Layer was flattened" = "Layer was flattened";
+"Layer was flattened" = "レイヤーが平坦化されました";
 
 /* No comment provided by engineer. */
-"Learn More" = "Learn More";
+"Learn More" = "詳細";
 
 /* No comment provided by engineer. */
 "Left" = "左";
@@ -670,13 +677,16 @@
 "Load" = "読み込み";
 
 /* Document loading */
-"Loading..." = "Loading...";
+"Loading..." = "読み込み中...";
 
 /* Layer */
 "Lock" = "ロック";
 
 /* No comment provided by engineer. */
-"Locked Layer" = "Locked Layer";
+"Lock %@" = "Lock %@";
+
+/* No comment provided by engineer. */
+"Locked Layer" = "ロックされたレイヤー";
 
 /* No comment provided by engineer. */
 "Luminance" = "輝度";
@@ -691,10 +701,10 @@
 "Magenta / Green" = "マゼンタ/グリーン";
 
 /* Tool */
-"Magnetic" = "Magnetic";
+"Magnetic" = "マグネット";
 
 /* Tool */
-"Marker" = "Marker";
+"Marker" = "マーカー";
 
 /* Color Balance */
 "Master" = "マスター";
@@ -703,7 +713,7 @@
 "Master Color Wheel" = "マスターカラーホイール";
 
 /* No comment provided by engineer. */
-"Maximum" = "Maximum";
+"Maximum" = "最大";
 
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "最大圧力サイズ";
@@ -718,16 +728,16 @@
 "Midtones" = "ミッドトーン";
 
 /* Units */
-"Milimeters" = "Milimeters";
+"Milimeters" = "ミリメーター";
 
 /* No comment provided by engineer. */
-"Minimum" = "Minimum";
+"Minimum" = "最小";
 
 /* No comment provided by engineer. */
 "Minimum Opacity" = "最小不透明度";
 
 /* No comment provided by engineer. */
-"ML Crop" = "ML Crop";
+"ML Crop" = "ML切り抜き";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML Enhance";
@@ -736,7 +746,7 @@
 "mm" = "ミリ";
 
 /* Edit Menu */
-"More..." = "More...";
+"More..." = "詳細...";
 
 /* No comment provided by engineer. */
 "Motion" = "モーション";
@@ -745,22 +755,22 @@
 "Multiply" = "乗算";
 
 /* No comment provided by engineer. */
-"My Albums" = "My Albums";
+"My Albums" = "マイアルバム";
 
 /* No comment provided by engineer. */
 "New Layer" = "新規レイヤー";
 
 /* keyboard */
-"next" = "next";
+"next" = "次へ";
 
 /* Document info */
-"No camera information" = "No camera information";
+"No camera information" = "カメラ情報はありません";
 
 /* Document info */
-"No lens information" = "No lens information";
+"No lens information" = "レンズ情報はありません";
 
 /* No comment provided by engineer. */
-"No Photos Access" = "No Photos Access";
+"No Photos Access" = "写真へのアクセスなし";
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "ノイズ低減";
@@ -796,25 +806,28 @@
 "Oriented" = "方向に追随";
 
 /* No comment provided by engineer. */
-"ORIGINAL" = "ORIGINAL";
+"ORIGINAL" = "元";
 
 /* No comment provided by engineer. */
 "Original" = "オリジナル";
 
 /* No comment provided by engineer. */
-"ORIGINAL COLORS" = "ORIGINAL COLORS";
+"ORIGINAL COLORS" = "元の色";
 
 /* No comment provided by engineer. */
-"ORIGINAL COMPOSITION" = "ORIGINAL COMPOSITION";
+"ORIGINAL COMPOSITION" = "元の構図";
 
 /* No comment provided by engineer. */
-"ORIGINAL CONTENT" = "ORIGINAL CONTENT";
+"ORIGINAL CONTENT" = "元の内容";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "ORIGINAL PERSPECTIVE";
 
 /* Effects category name */
 "Other" = "その他";
 
 /* No comment provided by engineer. */
-"Other Albums" = "Other Albums";
+"Other Albums" = "他のアルバム";
 
 /* No comment provided by engineer. */
 "Overlay" = "オーバーレイ";
@@ -829,7 +842,7 @@
 "Paste" = "ペースト";
 
 /* Layer Management */
-"Paste Layer" = "Paste Layer";
+"Paste Layer" = "レイヤーをペースト";
 
 /* No comment provided by engineer. */
 "Path" = "パス";
@@ -844,13 +857,13 @@
 "Pen" = "ペン";
 
 /* Tool */
-"Pencil" = "Pencil";
+"Pencil" = "鉛筆";
 
 /* Units */
-"Percents" = "Percents";
+"Percents" = "パーセント";
 
 /* No comment provided by engineer. */
-"Perspective" = "Perspective";
+"Perspective" = "視点";
 
 /* Tool */
 "Perspective Transform" = "遠近法変換";
@@ -865,16 +878,16 @@
 "Pinch" = "ピンチ";
 
 /* Tool */
-"Pixel Tool" = "Pixel Tool";
+"Pixel Tool" = "ピクセルツール";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo has been denied access to Photos. Please allow access in Settings.";
+"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photoは写真へのアクセスを拒否されました。設定でアクセスを許可してください。";
 
 /* Units */
 "Pixels" = "ピクセル";
 
 /* Units */
-"Points" = "Points";
+"Points" = "ポイント";
 
 /* Tool */
 "Polygon" = "多角形";
@@ -886,13 +899,13 @@
 "Preserve transparency" = "透明度を維持";
 
 /* No comment provided by engineer. */
-"Presets Imported" = "Presets Imported";
+"Presets Imported" = "読み込んだプリセット";
 
 /* No comment provided by engineer. */
 "Preview" = "プレビュー";
 
 /* No comment provided by engineer. */
-"Previous" = "Previous";
+"Previous" = "前";
 
 /* Units */
 "pt" = "pt";
@@ -901,7 +914,7 @@
 "px" = "px";
 
 /* Tool */
-"Quick" = "Quick";
+"Quick" = "クイック";
 
 /* No comment provided by engineer. */
 "Radius" = "半径";
@@ -919,13 +932,13 @@
 "RAW Layer" = "RAW レイヤー";
 
 /* Layer creation */
-"Raw Layer" = "Raw Layer";
+"Raw Layer" = "RAWレイヤー";
 
 /* Tool */
 "Rectangle" = "長方形";
 
 /* Tool */
-"Rectangular" = "Rectangular";
+"Rectangular" = "長方形";
 
 /* No comment provided by engineer. */
 "Rectangular Speech Bubble" = "長方形の吹き出し";
@@ -946,16 +959,19 @@
 "Redo %@" = "%@をやり直す";
 
 /* No comment provided by engineer. */
-"Reload from Photos" = "Reload from Photos";
+"Reload from Photos" = "写真から再読み込み";
 
 /* Edit Menu */
 "Remove" = "削除";
 
 /* No comment provided by engineer. */
-"Remove Adjustments" = "Remove Adjustments";
+"Remove \"%@\"?" = "Remove \"%@\"?";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "Remove Collection";
+"Remove Adjustments" = "調整を取り除く";
+
+/* No comment provided by engineer. */
+"Remove Collection \"%@\"?" = "Remove Collection \"%@\"?";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "マスクを削除";
@@ -983,31 +999,34 @@
 "Reset Adjustments" = "調整をリセット";
 
 /* No comment provided by engineer. */
-"Reset Crop" = "Reset Crop";
-
-/* Perspective transform */
-"Reset Horizontal Perspective" = "Reset Horizontal Perspective";
+"Reset Auto Enhance" = "Reset Auto Enhance";
 
 /* No comment provided by engineer. */
-"Reset ML Crop" = "Reset ML Crop";
+"Reset Crop" = "切り抜きをリセット";
 
 /* Perspective transform */
-"Reset Perspective" = "Reset Perspective";
+"Reset Horizontal Perspective" = "水平方向の視点をリセット";
 
 /* No comment provided by engineer. */
-"Reset Repair Changes" = "Reset Repair Changes";
+"Reset ML Crop" = "ML切り抜きをリセット";
 
 /* Perspective transform */
-"Reset Vertical Perspective" = "Reset Vertical Perspective";
+"Reset Perspective" = "視点をリセット";
+
+/* No comment provided by engineer. */
+"Reset Repair Changes" = "修復の変更をリセット";
+
+/* Perspective transform */
+"Reset Vertical Perspective" = "垂直方向の視点をリセット";
 
 /* Tool */
 "Restore" = "復元";
 
 /* No comment provided by engineer. */
-"Restore Layer" = "Restore Layer";
+"Restore Layer" = "レイヤーを復元";
 
 /* No comment provided by engineer. */
-"Revert to Original" = "Revert to Original";
+"Revert to Original" = "元に戻す";
 
 /* No comment provided by engineer. */
 "RGB" = "RGB";
@@ -1022,13 +1041,13 @@
 "Rotate 180°" = "180°回転";
 
 /* No comment provided by engineer. */
-"Rotate Left" = "Rotate Left";
+"Rotate Left" = "左回りに回転";
 
 /* No comment provided by engineer. */
-"Rotate Right" = "Rotate Right";
+"Rotate Right" = "右回りに回転";
 
 /* Tool */
-"Rounded Rect." = "Rounded Rect.";
+"Rounded Rect." = "角丸長方形";
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "角丸長方形";
@@ -1044,13 +1063,13 @@
 "Saturation Scatter" = "彩度散布";
 
 /* No comment provided by engineer. */
-"Save a Copy" = "Save a Copy";
+"Save a Copy" = "コピーを保存";
 
 /* No comment provided by engineer. */
-"Save the image to your Photos library." = "Save the image to your Photos library.";
+"Save the image to your Photos library." = "画像を写真ライブラリに保存します。";
 
 /* No comment provided by engineer. */
-"Save to Photos" = "Save to Photos";
+"Save to Photos" = "写真に保存";
 
 /* No comment provided by engineer. */
 "Scale" = "縮小・拡大";
@@ -1086,10 +1105,10 @@
 "Selected Color" = "選択したカラー";
 
 /* No comment provided by engineer. */
-"Selected layer is hidden, reveal it to edit." = "Selected layer is hidden, reveal it to edit.";
+"Selected layer is hidden, reveal it to edit." = "選択したレイヤーは非表示ですが、編集すると表示されます。";
 
 /* No comment provided by engineer. */
-"Selected layer is locked, unlock it to edit." = "Selected layer is locked, unlock it to edit.";
+"Selected layer is locked, unlock it to edit." = "選択したレイヤーはロック状態ですが、編集すると解除されます。";
 
 /* No comment provided by engineer. */
 "Selective Color" = "選択可能なカラー";
@@ -1098,7 +1117,7 @@
 "Sepia" = "セピア";
 
 /* No comment provided by engineer. */
-"Settings" = "Settings";
+"Settings" = "設定";
 
 /* No comment provided by engineer. */
 "Shadow" = "シャドウ";
@@ -1119,7 +1138,7 @@
 "Share" = "共有";
 
 /* No comment provided by engineer. */
-"Shared Albums" = "Shared Albums";
+"Shared Albums" = "共有アルバム";
 
 /* Effects category name
    Retouch Tools
@@ -1135,8 +1154,11 @@
 /* No comment provided by engineer. */
 "Show" = "表示";
 
+/* No comment provided by engineer. */
+"Show Info" = "情報を表示";
+
 /* Layer */
-"Show Layer" = "Show Layer";
+"Show Layer" = "レイヤーを表示";
 
 /* No comment provided by engineer. */
 "Show Original" = "オリジナルを表示";
@@ -1207,7 +1229,7 @@
 "Spot Light" = "スポット";
 
 /* Tool */
-"Spray" = "Spray";
+"Spray" = "スプレー";
 
 /* Tool */
 "Star" = "スター";
@@ -1216,7 +1238,7 @@
 "Start Point" = "開始ポイント";
 
 /* Tool */
-"Straighten" = "Straighten";
+"Straighten" = "傾き補正";
 
 /* No comment provided by engineer. */
 "Strength" = "強さ";
@@ -1264,7 +1286,7 @@
 "Tail Start Dynamics" = "テールスタートダイナミクス";
 
 /* No comment provided by engineer. */
-"Take Photo" = "Take Photo";
+"Take Photo" = "写真を撮る";
 
 /* No comment provided by engineer. */
 "Target Color" = "ターゲットカラー";
@@ -1277,43 +1299,43 @@
 "Text" = "テキスト";
 
 /* No comment provided by engineer. */
-"The color adjustment presets were imported successfully." = "The color adjustment presets were imported successfully.";
+"The color adjustment presets were imported successfully." = "カラー調整プリセットは正常に読み込まれました。";
 
 /* No comment provided by engineer. */
-"The image contains %@ layers. To create more, reduce the image size." = "The image contains %@ layers. To create more, reduce the image size.";
+"The image contains %@ layers. To create more, reduce the image size." = "画像は%@個のレイヤーを含んでいます。追加するには画像のサイズを小さくしてください。";
 
 /* No comment provided by engineer. */
-"The image could not be exported." = "The image could not be exported.";
+"The image could not be exported." = "画像を書き出せません。";
 
 /* No comment provided by engineer. */
-"The image could not be imported." = "The image could not be imported.";
+"The image could not be imported." = "画像を読み込めません。";
 
 /* No comment provided by engineer. */
-"The image could not be opened." = "The image could not be opened.";
+"The image could not be opened." = "画像を開けません。";
 
 /* No comment provided by engineer. */
-"The image could not be saved." = "The image could not be saved.";
+"The image could not be saved." = "画像を保存できません。";
 
 /* No comment provided by engineer. */
-"The maximum number of layers for this image size is %i" = "The maximum number of layers for this image size is %i";
+"The maximum number of layers for this image size is %i" = "この画像サイズの最大レイヤー数は%iです";
 
 /* No comment provided by engineer. */
-"The original photo couldn’t be modified." = "The original photo couldn’t be modified.";
+"The original photo couldn’t be modified." = "元の写真は変更できませんでした";
 
 /* No comment provided by engineer. */
-"The preset will be permanently removed from the app." = "The preset will be permanently removed from the app.";
+"The preset will be permanently removed from the app." = "プリセットはアプリから永久に削除されます。";
 
 /* No comment provided by engineer. */
-"The preset will be redefined with the current color adjustments." = "The preset will be redefined with the current color adjustments.";
+"The preset will be redefined with the current color adjustments." = "プリセットは現在の色調整で再定義されます。";
 
 /* No comment provided by engineer. */
-"The selected collection of presets will be removed." = "The selected collection of presets will be removed.";
+"The selected collection of presets will be removed." = "選択されたプリセットのコレクションは削除されます。";
 
 /* No comment provided by engineer. */
-"The size is too large." = "The size is too large.";
+"The size is too large." = "イメージは大きすぎます";
 
 /* No comment provided by engineer. */
-"This photo was not imported from your Photos library so there is no original to modify." = "This photo was not imported from your Photos library so there is no original to modify.";
+"This photo was not imported from your Photos library so there is no original to modify." = "この写真はフォトライブラリから取り込まれたものではないので、修正するオリジナルはありません。";
 
 /* Effects category name */
 "Tile" = "タイル";
@@ -1367,22 +1389,22 @@
 "Twirl" = "回転";
 
 /* No comment provided by engineer. */
-"Unable to Access Help" = "Unable to Access Help";
+"Unable to Access Help" = "ヘルプにアクセスできません";
 
 /* No comment provided by engineer. */
-"Unable to Export" = "Unable to Export";
+"Unable to Export" = "書き出せません";
 
 /* No comment provided by engineer. */
-"Unable to Import Image" = "Unable to Import Image";
+"Unable to Import Image" = "イメージを読み込めません";
 
 /* No comment provided by engineer. */
-"Unable to Modify" = "Unable to Modify";
+"Unable to Modify" = "変更できません";
 
 /* No comment provided by engineer. */
-"Unable to Open Image" = "Unable to Open Image";
+"Unable to Open Image" = "イメージを開けません";
 
 /* No comment provided by engineer. */
-"Unable to Save" = "Unable to Save";
+"Unable to Save" = "保存できません";
 
 /* No comment provided by engineer. */
 "Undo" = "取り消し";
@@ -1397,6 +1419,9 @@
 "Unlock" = "ロックを解除";
 
 /* No comment provided by engineer. */
+"Unlock %@" = "Unlock %@";
+
+/* No comment provided by engineer. */
 "Untitled" = "無題";
 
 /* No comment provided by engineer. */
@@ -1409,7 +1434,7 @@
 "Untitled layer mask" = "名称未設定レイヤーマスク";
 
 /* Perspective transform */
-"Vertical Perspective" = "Vertical Perspective";
+"Vertical Perspective" = "垂直方向の視点";
 
 /* No comment provided by engineer. */
 "Vibrance" = "バイブランス";

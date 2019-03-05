@@ -19,6 +19,9 @@
 /* Image bits per component */
 "%i-bits" = "%i бит";
 
+/* crop aspect ratio */
+"%i:%i" = "%1$i:%2$i";
+
 /* Color Balance */
 "3-Way Color" = "Трехвариантный цвет";
 
@@ -286,7 +289,8 @@
 /* No comment provided by engineer. */
 "Curves" = "Кривые";
 
-/* Tool */
+/* Crop preset
+   Tool */
 "Custom" = "Пользовательский";
 
 /* Edit Menu */
@@ -574,6 +578,9 @@
 /* Edit Menu */
 "Import" = "Импорт";
 
+/* No comment provided by engineer. */
+"Import Photo" = "Import Photo";
+
 /* short for inches
    Units */
 "in" = "дюйм";
@@ -674,6 +681,9 @@
 
 /* Layer */
 "Lock" = "Блокировать";
+
+/* No comment provided by engineer. */
+"Lock %@" = "Lock %@";
 
 /* No comment provided by engineer. */
 "Locked Layer" = "Заблокированный слой";
@@ -809,6 +819,9 @@
 
 /* No comment provided by engineer. */
 "ORIGINAL CONTENT" = "ИСХОДНЫЙ КОНТЕНТ";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "ORIGINAL PERSPECTIVE";
 
 /* Effects category name */
 "Other" = "Другое";
@@ -952,10 +965,13 @@
 "Remove" = "Удалить";
 
 /* No comment provided by engineer. */
+"Remove \"%@\"?" = "Remove \"%@\"?";
+
+/* No comment provided by engineer. */
 "Remove Adjustments" = "Удалить корректировки";
 
 /* No comment provided by engineer. */
-"Remove Collection" = "Удалить коллекцию";
+"Remove Collection \"%@\"?" = "Remove Collection \"%@\"?";
 
 /* No comment provided by engineer. */
 "Remove Mask" = "Удалить маску";
@@ -981,6 +997,9 @@
 
 /* No comment provided by engineer. */
 "Reset Adjustments" = "Сброс корректировок";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "Reset Auto Enhance";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Сбросить обрезку";
@@ -1134,6 +1153,9 @@
 
 /* No comment provided by engineer. */
 "Show" = "Показать";
+
+/* No comment provided by engineer. */
+"Show Info" = "Показать свойства";
 
 /* Layer */
 "Show Layer" = "Показать слой";
@@ -1395,6 +1417,9 @@
 
 /* Layer */
 "Unlock" = "Разблокировать";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "Unlock %@";
 
 /* No comment provided by engineer. */
 "Untitled" = "Без названия";
