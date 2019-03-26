@@ -7,6 +7,9 @@
 /* Duplicated image name */
 "%@ copy" = "%@ 拷貝";
 
+/* seconds */
+"%@s" = "%@s";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
@@ -19,9 +22,6 @@
 /* Image bits per component */
 "%i-bits" = "%i 位元";
 
-/* crop aspect ratio */
-"%i:%i" = "%1$i:%2$i";
-
 /* Color Balance */
 "3-Way Color" = "三路顏色";
 
@@ -30,6 +30,9 @@
 
 /* No comment provided by engineer. */
 "Accumulation" = "累積";
+
+/* No comment provided by engineer. */
+"Actual Size" = "實際大小";
 
 /* Layer Management */
 "Add Image" = "添加影像";
@@ -79,6 +82,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "從點發出的箭頭";
+
+/* No comment provided by engineer. */
+"Auto" = "自動";
 
 /* No comment provided by engineer. */
 "Auto %@" = "自動 %@";
@@ -321,9 +327,6 @@
 /* Retouch Tools
    Tool */
 "Desaturate" = "去色";
-
-/* No comment provided by engineer. */
-"Deselect" = "取消選取";
 
 /* No comment provided by engineer. */
 "Detail" = "詳細資料";
@@ -722,9 +725,6 @@
 "Maximum Pressure Size" = "最大壓力大小";
 
 /* No comment provided by engineer. */
-"Merge" = "合併";
-
-/* No comment provided by engineer. */
 "Merge Brush Marks" = "合併畫筆標記";
 
 /* Color Balance */
@@ -966,9 +966,6 @@
 
 /* No comment provided by engineer. */
 "Redo %@" = "重作 %@";
-
-/* No comment provided by engineer. */
-"Reload from Photos" = "從照片重新載入";
 
 /* Edit Menu */
 "Remove" = "移除";
@@ -1480,3 +1477,6 @@
 
 /* No comment provided by engineer. */
 "Zoom" = "縮放";
+
+/* No comment provided by engineer. */
+"Zoom to Fit" = "縮放到適當大小";
