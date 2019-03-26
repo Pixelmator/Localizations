@@ -7,6 +7,9 @@
 /* Duplicated image name */
 "%@ copy" = "%@ copia";
 
+/* seconds */
+"%@s" = "%@s";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
@@ -19,9 +22,6 @@
 /* Image bits per component */
 "%i-bits" = "%i bits";
 
-/* crop aspect ratio */
-"%i:%i" = "%1$i:%2$i";
-
 /* Color Balance */
 "3-Way Color" = "Color tridireccional";
 
@@ -30,6 +30,9 @@
 
 /* No comment provided by engineer. */
 "Accumulation" = "Acumulación";
+
+/* No comment provided by engineer. */
+"Actual Size" = "Tamaño real";
 
 /* Layer Management */
 "Add Image" = "Añadir imagen";
@@ -79,6 +82,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "Flecha desde el punto";
+
+/* No comment provided by engineer. */
+"Auto" = "Auto";
 
 /* No comment provided by engineer. */
 "Auto %@" = "%@ automático";
@@ -321,9 +327,6 @@
 /* Retouch Tools
    Tool */
 "Desaturate" = "Desaturar";
-
-/* No comment provided by engineer. */
-"Deselect" = "Anular selección";
 
 /* No comment provided by engineer. */
 "Detail" = "Detalle";
@@ -722,9 +725,6 @@
 "Maximum Pressure Size" = "Tamaño máximo de presión";
 
 /* No comment provided by engineer. */
-"Merge" = "Fusionar";
-
-/* No comment provided by engineer. */
 "Merge Brush Marks" = "Fusionar marcas de pincel";
 
 /* Color Balance */
@@ -966,9 +966,6 @@
 
 /* No comment provided by engineer. */
 "Redo %@" = "Rehacer %@";
-
-/* No comment provided by engineer. */
-"Reload from Photos" = "Cargar de nuevo desde Fotos";
 
 /* Edit Menu */
 "Remove" = "Eliminar";
@@ -1480,3 +1477,6 @@
 
 /* No comment provided by engineer. */
 "Zoom" = "Zoom";
+
+/* No comment provided by engineer. */
+"Zoom to Fit" = "Ajustar a ventana";
