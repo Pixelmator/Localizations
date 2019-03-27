@@ -7,6 +7,9 @@
 /* Duplicated image name */
 "%@ copy" = "Копия %@";
 
+/* seconds */
+"%@s" = "%@s";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
@@ -19,9 +22,6 @@
 /* Image bits per component */
 "%i-bits" = "%i бит";
 
-/* crop aspect ratio */
-"%i:%i" = "%1$i:%2$i";
-
 /* Color Balance */
 "3-Way Color" = "Трехвариантный цвет";
 
@@ -30,6 +30,9 @@
 
 /* No comment provided by engineer. */
 "Accumulation" = "Накопление";
+
+/* No comment provided by engineer. */
+"Actual Size" = "Реальный размер";
 
 /* Layer Management */
 "Add Image" = "Добавить изображение";
@@ -79,6 +82,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "Стрелка с точкой";
+
+/* No comment provided by engineer. */
+"Auto" = "Авто";
 
 /* No comment provided by engineer. */
 "Auto %@" = "Авто %@";
@@ -321,9 +327,6 @@
 /* Retouch Tools
    Tool */
 "Desaturate" = "Убрать насыщенность";
-
-/* No comment provided by engineer. */
-"Deselect" = "Отменить выбор";
 
 /* No comment provided by engineer. */
 "Detail" = "Подробнее";
@@ -722,9 +725,6 @@
 "Maximum Pressure Size" = "Размер макс. давления";
 
 /* No comment provided by engineer. */
-"Merge" = "Объединить";
-
-/* No comment provided by engineer. */
 "Merge Brush Marks" = "Объединить следы кисти";
 
 /* Color Balance */
@@ -966,9 +966,6 @@
 
 /* No comment provided by engineer. */
 "Redo %@" = "Повторить «%@»";
-
-/* No comment provided by engineer. */
-"Reload from Photos" = "Перезагрузить из Фото";
 
 /* Edit Menu */
 "Remove" = "Удалить";
@@ -1480,3 +1477,6 @@
 
 /* No comment provided by engineer. */
 "Zoom" = "Масштаб";
+
+/* No comment provided by engineer. */
+"Zoom to Fit" = "Изменить масштаб под размер";
