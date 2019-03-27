@@ -7,6 +7,9 @@
 /* Duplicated image name */
 "%@ copy" = "%@のコピー";
 
+/* seconds */
+"%@s" = "%@s";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
@@ -19,9 +22,6 @@
 /* Image bits per component */
 "%i-bits" = "%i-ビット";
 
-/* crop aspect ratio */
-"%i:%i" = "%1$i:%2$i";
-
 /* Color Balance */
 "3-Way Color" = "3ウェイカラー";
 
@@ -30,6 +30,9 @@
 
 /* No comment provided by engineer. */
 "Accumulation" = "累積";
+
+/* No comment provided by engineer. */
+"Actual Size" = "実際のサイズ";
 
 /* Layer Management */
 "Add Image" = "イメージを追加";
@@ -79,6 +82,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "ポイントから矢印";
+
+/* No comment provided by engineer. */
+"Auto" = "自動";
 
 /* No comment provided by engineer. */
 "Auto %@" = "自動%@";
@@ -321,9 +327,6 @@
 /* Retouch Tools
    Tool */
 "Desaturate" = "彩度を下げる";
-
-/* No comment provided by engineer. */
-"Deselect" = "選択を解除";
 
 /* No comment provided by engineer. */
 "Detail" = "詳細";
@@ -722,9 +725,6 @@
 "Maximum Pressure Size" = "最大圧力サイズ";
 
 /* No comment provided by engineer. */
-"Merge" = "結合";
-
-/* No comment provided by engineer. */
 "Merge Brush Marks" = "ブラシのマークを結合";
 
 /* Color Balance */
@@ -966,9 +966,6 @@
 
 /* No comment provided by engineer. */
 "Redo %@" = "%@をやり直す";
-
-/* No comment provided by engineer. */
-"Reload from Photos" = "写真から再読み込み";
 
 /* Edit Menu */
 "Remove" = "削除";
@@ -1480,3 +1477,6 @@
 
 /* No comment provided by engineer. */
 "Zoom" = "拡大／縮小";
+
+/* No comment provided by engineer. */
+"Zoom to Fit" = "ウインドウに合わせる";

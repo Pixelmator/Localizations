@@ -7,6 +7,9 @@
 /* Duplicated image name */
 "%@ copy" = "%@副本";
 
+/* seconds */
+"%@s" = "%@s";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
@@ -19,9 +22,6 @@
 /* Image bits per component */
 "%i-bits" = "%i 位";
 
-/* crop aspect ratio */
-"%i:%i" = "%1$i:%2$i";
-
 /* Color Balance */
 "3-Way Color" = "三路颜色";
 
@@ -30,6 +30,9 @@
 
 /* No comment provided by engineer. */
 "Accumulation" = "累积";
+
+/* No comment provided by engineer. */
+"Actual Size" = "实际大小";
 
 /* Layer Management */
 "Add Image" = "添加图像";
@@ -79,6 +82,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "从点发出的箭头";
+
+/* No comment provided by engineer. */
+"Auto" = "自动";
 
 /* No comment provided by engineer. */
 "Auto %@" = "自动 %@";
@@ -323,9 +329,6 @@
 "Desaturate" = "去色";
 
 /* No comment provided by engineer. */
-"Deselect" = "取消选择";
-
-/* No comment provided by engineer. */
 "Detail" = "详细信息";
 
 /* No comment provided by engineer. */
@@ -549,7 +552,7 @@
 "Hide Presets" = "隐藏预设";
 
 /* Color Balance */
-"Highlights" = "突出色调";
+"Highlights" = "亮部";
 
 /* No comment provided by engineer. */
 "Histogram" = "直方图";
@@ -601,7 +604,7 @@
 "Ink" = "墨水";
 
 /* No comment provided by engineer. */
-"Inner Shadow" = "内部阴影";
+"Inner Shadow" = "内阴影";
 
 /* No comment provided by engineer. */
 "Insert from..." = "插入来自…";
@@ -720,9 +723,6 @@
 
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "最大压力大小";
-
-/* No comment provided by engineer. */
-"Merge" = "合并";
 
 /* No comment provided by engineer. */
 "Merge Brush Marks" = "合并画笔标记";
@@ -967,9 +967,6 @@
 /* No comment provided by engineer. */
 "Redo %@" = "重做 %@";
 
-/* No comment provided by engineer. */
-"Reload from Photos" = "从照片重新加载";
-
 /* Edit Menu */
 "Remove" = "移除";
 
@@ -1129,7 +1126,7 @@
 "Selective Color" = "选择性颜色";
 
 /* No comment provided by engineer. */
-"Sepia" = "棕褐色";
+"Sepia" = "老照片风格";
 
 /* No comment provided by engineer. */
 "Settings" = "设置";
@@ -1365,13 +1362,13 @@
 "Tilt-Shift" = "倾斜移位";
 
 /* No comment provided by engineer. */
-"Tint" = "色泽";
+"Tint" = "着色";
 
 /* from one color 'to' other color */
 "to" = "到";
 
 /* No comment provided by engineer. */
-"Tone" = "调";
+"Tone" = "色调";
 
 /* No comment provided by engineer. */
 "Top" = "顶";
@@ -1480,3 +1477,6 @@
 
 /* No comment provided by engineer. */
 "Zoom" = "缩放";
+
+/* No comment provided by engineer. */
+"Zoom to Fit" = "缩放至窗口大小";

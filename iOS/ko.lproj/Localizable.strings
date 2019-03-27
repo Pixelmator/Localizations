@@ -7,6 +7,9 @@
 /* Duplicated image name */
 "%@ copy" = "%@ 복사본";
 
+/* seconds */
+"%@s" = "%@s";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
@@ -19,9 +22,6 @@
 /* Image bits per component */
 "%i-bits" = "%i비트";
 
-/* crop aspect ratio */
-"%i:%i" = "%1$i:%2$i";
-
 /* Color Balance */
 "3-Way Color" = "3방향 색상";
 
@@ -30,6 +30,9 @@
 
 /* No comment provided by engineer. */
 "Accumulation" = "누적";
+
+/* No comment provided by engineer. */
+"Actual Size" = "실제 크기";
 
 /* Layer Management */
 "Add Image" = "이미지 추가";
@@ -79,6 +82,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "포인트에서의 화살표";
+
+/* No comment provided by engineer. */
+"Auto" = "자동";
 
 /* No comment provided by engineer. */
 "Auto %@" = "자동 %@";
@@ -321,9 +327,6 @@
 /* Retouch Tools
    Tool */
 "Desaturate" = "흐리기";
-
-/* No comment provided by engineer. */
-"Deselect" = "선택 취소";
 
 /* No comment provided by engineer. */
 "Detail" = "세부 사항";
@@ -722,9 +725,6 @@
 "Maximum Pressure Size" = "최대 압력 크기";
 
 /* No comment provided by engineer. */
-"Merge" = "병합";
-
-/* No comment provided by engineer. */
 "Merge Brush Marks" = "브러시 마크 병합";
 
 /* Color Balance */
@@ -966,9 +966,6 @@
 
 /* No comment provided by engineer. */
 "Redo %@" = "%@ 다시 실행";
-
-/* No comment provided by engineer. */
-"Reload from Photos" = "사진에서 다시 불러오기";
 
 /* Edit Menu */
 "Remove" = "제거";
@@ -1480,3 +1477,6 @@
 
 /* No comment provided by engineer. */
 "Zoom" = "확대/축소";
+
+/* No comment provided by engineer. */
+"Zoom to Fit" = "크기에 맞게 확대/축소";
