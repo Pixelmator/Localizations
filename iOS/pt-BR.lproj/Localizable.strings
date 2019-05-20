@@ -126,6 +126,9 @@
 "Black Point" = "Ponto negro";
 
 /* No comment provided by engineer. */
+"Blacks" = "Pretos";
+
+/* No comment provided by engineer. */
 "Blending Mode" = "Modo de mesclagem";
 
 /* No comment provided by engineer. */
@@ -172,9 +175,6 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Cancelar";
-
-/* Document loading */
-"Canceling..." = "Cancelando...";
 
 /* No comment provided by engineer. */
 "Cannot Create More Layers" = "Não é possível criar mais camadas";
@@ -370,6 +370,9 @@
 /* Layer Management */
 "Duplicate Layer" = "Duplicar camada";
 
+/* No comment provided by engineer. */
+"Edit in Pixelmator Photo" = "Editar no Pixelmator Photo";
+
 /* Tool */
 "Effects" = "Efeitos";
 
@@ -401,6 +404,9 @@
 "Erase" = "Apagar";
 
 /* No comment provided by engineer. */
+"Events From My Mac" = "Eventos do meu Mac";
+
+/* No comment provided by engineer. */
 "Exclusion" = "Exclusão";
 
 /* No comment provided by engineer. */
@@ -411,6 +417,9 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extensão";
+
+/* No comment provided by engineer. */
+"Faces From My Mac" = "Faces do meu Mac";
 
 /* No comment provided by engineer. */
 "Fade" = "Atenuar";
@@ -468,6 +477,9 @@
 
 /* Tool */
 "Freeform" = "Forma livre";
+
+/* No comment provided by engineer. */
+"From My Mac" = "Do meu Mac";
 
 /* No comment provided by engineer. */
 "Fullscreen" = "Tela cheia";
@@ -585,7 +597,16 @@
 "Import" = "Importar";
 
 /* No comment provided by engineer. */
+"Import JPEG Image" = "Importar imagem JPEG";
+
+/* No comment provided by engineer. */
 "Import Photo" = "Importar foto";
+
+/* No comment provided by engineer. */
+"Import RAW Image" = "Importar imagem RAW";
+
+/* No comment provided by engineer. */
+"Import this image into Pixelmator Photo and open it for editing." = "Importar esta imagem no Pixelmator Photo e abrir para edição.";
 
 /* short for inches
    Units */
@@ -632,6 +653,9 @@
 
 /* No comment provided by engineer. */
 "Left" = "Esquerda";
+
+/* No comment provided by engineer. */
+"Lens Correction" = "Correção de lente";
 
 /* No comment provided by engineer. */
 "Levels" = "Níveis";
@@ -754,6 +778,9 @@
 /* No comment provided by engineer. */
 "Modify Original in Photos" = "Modificar o original em Fotos";
 
+/* No comment provided by engineer. */
+"More Info" = "Mais informações";
+
 /* Edit Menu */
 "More..." = "Mais...";
 
@@ -764,6 +791,9 @@
 "Multiply" = "Multiplicar";
 
 /* No comment provided by engineer. */
+"Mustache" = "Bigode";
+
+/* No comment provided by engineer. */
 "My Albums" = "Meus álbuns";
 
 /* No comment provided by engineer. */
@@ -771,6 +801,12 @@
 
 /* keyboard */
 "next" = "avançar";
+
+/* No comment provided by engineer. */
+"Next Image" = "Próxima imagem";
+
+/* No comment provided by engineer. */
+"Next Preset" = "Próximo Pré-ajuste";
 
 /* Document info */
 "No camera information" = "Sem informações da câmera";
@@ -807,6 +843,9 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "Dispersão de opacidade";
+
+/* No comment provided by engineer. */
+"Open" = "Abrir";
 
 /* No comment provided by engineer. */
 "Orientation" = "Orientação";
@@ -915,6 +954,12 @@
 
 /* No comment provided by engineer. */
 "Previous" = "Anterior";
+
+/* No comment provided by engineer. */
+"Previous Image" = "Imagem anterior";
+
+/* No comment provided by engineer. */
+"Previous Preset" = "Pré-ajuste anterior";
 
 /* Units */
 "pt" = "pt";
@@ -1322,11 +1367,17 @@
 /* No comment provided by engineer. */
 "The image could not be imported." = "A imagem não pôde ser importada.";
 
-/* No comment provided by engineer. */
+/* Image open error */
+"The image could not be imported. This RAW format may not be supported." = "A imagem não pôde ser importada. Este formato RAW pode não ser compatível.";
+
+/* Image open error */
 "The image could not be opened." = "A imagem não pôde ser aberta.";
 
 /* No comment provided by engineer. */
 "The image could not be saved." = "A imagem não pôde ser salva.";
+
+/* No comment provided by engineer. */
+"The image could not be shared from your Photos library." = "A imagem não pode ser compartilhada a partir da biblioteca Fotos.";
 
 /* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "O número máximo de camadas para este tamanho de imagem é de %i";
@@ -1343,8 +1394,23 @@
 /* No comment provided by engineer. */
 "The size is too large." = "O tamanho é muito grande.";
 
+/* Image open error */
+"This format isn’t currently supported." = "Este formato não é compatível atualmente.";
+
+/* No comment provided by engineer. */
+"This image is too large to be opened on this device — your image is %@ megapixels and this device supports images up to %@ megapixels." = "Esta imagem é grande demais para ser aberta neste aparelho — sua imagem tem %1$@ megapixels e o aparelho é compatível com imagens com até %2$@ megapixels.";
+
+/* No comment provided by engineer. */
+"This image is too large to be opened on this device." = "Esta imagem é grande demais para ser aberta neste aparelho.";
+
+/* No comment provided by engineer. */
+"This photo was not imported from your Photos library or it isn’t possible to modify the original." = "Esta foto não foi importada da sua biblioteca Fotos ou não é possível modificar a original.";
+
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library so there is no original to modify." = "Esta foto não foi importada da sua biblioteca Fotos, então não há original para modificar.";
+
+/* Image open error */
+"This RAW format isn’t currently supported." = "Este formato RAW não é compatível atualmente.";
 
 /* Effects category name */
 "Tile" = "Lado a lado";
@@ -1416,6 +1482,9 @@
 "Unable to Save" = "Não foi possível salvar";
 
 /* No comment provided by engineer. */
+"Unable to Share Image" = "Não é possível compartilhar a imagem";
+
+/* No comment provided by engineer. */
 "Undo" = "Desfazer";
 
 /* No comment provided by engineer. */
@@ -1453,6 +1522,9 @@
 
 /* No comment provided by engineer. */
 "Vignette" = "Vinheta";
+
+/* No comment provided by engineer. */
+"Vignette Softness" = "Suavidade da vinheta";
 
 /* No comment provided by engineer. */
 "Vivid Light" = "Luz brilhante";

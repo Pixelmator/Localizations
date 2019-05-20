@@ -126,6 +126,9 @@
 "Black Point" = "黑点";
 
 /* No comment provided by engineer. */
+"Blacks" = "黑";
+
+/* No comment provided by engineer. */
 "Blending Mode" = "混合模式";
 
 /* No comment provided by engineer. */
@@ -172,9 +175,6 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
-
-/* Document loading */
-"Canceling..." = "正在取消…";
 
 /* No comment provided by engineer. */
 "Cannot Create More Layers" = "无法创建更多图层";
@@ -370,6 +370,9 @@
 /* Layer Management */
 "Duplicate Layer" = "重复图层";
 
+/* No comment provided by engineer. */
+"Edit in Pixelmator Photo" = "在 Pixelmator Photo 中编辑";
+
 /* Tool */
 "Effects" = "效果";
 
@@ -401,6 +404,9 @@
 "Erase" = "抹掉";
 
 /* No comment provided by engineer. */
+"Events From My Mac" = "来自我的 Mac 的事件";
+
+/* No comment provided by engineer. */
 "Exclusion" = "排除";
 
 /* No comment provided by engineer. */
@@ -411,6 +417,9 @@
 
 /* No comment provided by engineer. */
 "Extent" = "范围";
+
+/* No comment provided by engineer. */
+"Faces From My Mac" = "来自我的 Mac 的面孔";
 
 /* No comment provided by engineer. */
 "Fade" = "褪色";
@@ -468,6 +477,9 @@
 
 /* Tool */
 "Freeform" = "多边形";
+
+/* No comment provided by engineer. */
+"From My Mac" = "来自我的 Mac";
 
 /* No comment provided by engineer. */
 "Fullscreen" = "全屏幕";
@@ -585,7 +597,16 @@
 "Import" = "导入";
 
 /* No comment provided by engineer. */
+"Import JPEG Image" = "导入 JPEG 图像";
+
+/* No comment provided by engineer. */
 "Import Photo" = "导入照片";
+
+/* No comment provided by engineer. */
+"Import RAW Image" = "导入 RAW 图像";
+
+/* No comment provided by engineer. */
+"Import this image into Pixelmator Photo and open it for editing." = "将此图像导入 Pixelmator Photo 并打开以编辑。";
 
 /* short for inches
    Units */
@@ -632,6 +653,9 @@
 
 /* No comment provided by engineer. */
 "Left" = "左";
+
+/* No comment provided by engineer. */
+"Lens Correction" = "镜头校正";
 
 /* No comment provided by engineer. */
 "Levels" = "色阶";
@@ -754,6 +778,9 @@
 /* No comment provided by engineer. */
 "Modify Original in Photos" = "在照片中修改原件";
 
+/* No comment provided by engineer. */
+"More Info" = "更多信息";
+
 /* Edit Menu */
 "More..." = "更多...";
 
@@ -764,6 +791,9 @@
 "Multiply" = "加倍";
 
 /* No comment provided by engineer. */
+"Mustache" = "胡子";
+
+/* No comment provided by engineer. */
 "My Albums" = "我的相簿";
 
 /* No comment provided by engineer. */
@@ -771,6 +801,12 @@
 
 /* keyboard */
 "next" = "下一个";
+
+/* No comment provided by engineer. */
+"Next Image" = "下一张图像";
+
+/* No comment provided by engineer. */
+"Next Preset" = "下一个预设";
 
 /* Document info */
 "No camera information" = "无相机信息";
@@ -807,6 +843,9 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "不透明度散布";
+
+/* No comment provided by engineer. */
+"Open" = "打开";
 
 /* No comment provided by engineer. */
 "Orientation" = "方向";
@@ -915,6 +954,12 @@
 
 /* No comment provided by engineer. */
 "Previous" = "上一个";
+
+/* No comment provided by engineer. */
+"Previous Image" = "上一张图像";
+
+/* No comment provided by engineer. */
+"Previous Preset" = "上一个预设";
 
 /* Units */
 "pt" = "点";
@@ -1322,11 +1367,17 @@
 /* No comment provided by engineer. */
 "The image could not be imported." = "未能导入图像。";
 
-/* No comment provided by engineer. */
+/* Image open error */
+"The image could not be imported. This RAW format may not be supported." = "无法导入此图像。此 RAW 格式可能不被支持。";
+
+/* Image open error */
 "The image could not be opened." = "未能打开图像。";
 
 /* No comment provided by engineer. */
 "The image could not be saved." = "未能保存图像。";
+
+/* No comment provided by engineer. */
+"The image could not be shared from your Photos library." = "无法从你的照片图库分享此图像。";
 
 /* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "此图像大小的最大图层数为 %i";
@@ -1343,8 +1394,23 @@
 /* No comment provided by engineer. */
 "The size is too large." = "大小超出限制。";
 
+/* Image open error */
+"This format isn’t currently supported." = "此格式目前不被支持。";
+
+/* No comment provided by engineer. */
+"This image is too large to be opened on this device — your image is %@ megapixels and this device supports images up to %@ megapixels." = "此图像过大，无法在此设备上打开——你的图像尺寸为 %1$@ 百万像素，而此设备最大只能支持 %2$@ 百万像素的图像。";
+
+/* No comment provided by engineer. */
+"This image is too large to be opened on this device." = "此图像过大，无法在此设备上打开。";
+
+/* No comment provided by engineer. */
+"This photo was not imported from your Photos library or it isn’t possible to modify the original." = "此照片未从你的照片图库导入，或者无法修改原件。";
+
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library so there is no original to modify." = "此照片不是从您的照片图库导入的，因此没有可修改的原件。";
+
+/* Image open error */
+"This RAW format isn’t currently supported." = "此 RAW 格式目前不被支持。";
 
 /* Effects category name */
 "Tile" = "平铺";
@@ -1416,6 +1482,9 @@
 "Unable to Save" = "无法保存";
 
 /* No comment provided by engineer. */
+"Unable to Share Image" = "无法共享图像";
+
+/* No comment provided by engineer. */
 "Undo" = "撤销";
 
 /* No comment provided by engineer. */
@@ -1453,6 +1522,9 @@
 
 /* No comment provided by engineer. */
 "Vignette" = "晕影";
+
+/* No comment provided by engineer. */
+"Vignette Softness" = "晕影软度";
 
 /* No comment provided by engineer. */
 "Vivid Light" = "亮光";
