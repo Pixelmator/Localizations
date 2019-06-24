@@ -126,6 +126,9 @@
 "Black Point" = "Точка черного";
 
 /* No comment provided by engineer. */
+"Blacks" = "Черные";
+
+/* No comment provided by engineer. */
 "Blending Mode" = "Режим смешивания";
 
 /* No comment provided by engineer. */
@@ -172,9 +175,6 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Отменить";
-
-/* Document loading */
-"Canceling..." = "Отмена...";
 
 /* No comment provided by engineer. */
 "Cannot Create More Layers" = "Не удается создать больше слоев";
@@ -370,6 +370,9 @@
 /* Layer Management */
 "Duplicate Layer" = "Дублировать слой";
 
+/* No comment provided by engineer. */
+"Edit in Pixelmator Photo" = "Правка в Pixelmator Photo";
+
 /* Tool */
 "Effects" = "Эффекты";
 
@@ -401,6 +404,9 @@
 "Erase" = "Ластик";
 
 /* No comment provided by engineer. */
+"Events From My Mac" = "События из моего Mac";
+
+/* No comment provided by engineer. */
 "Exclusion" = "Исключение";
 
 /* No comment provided by engineer. */
@@ -411,6 +417,9 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
+
+/* No comment provided by engineer. */
+"Faces From My Mac" = "Лица из моего Mac";
 
 /* No comment provided by engineer. */
 "Fade" = "Затухание";
@@ -468,6 +477,9 @@
 
 /* Tool */
 "Freeform" = "Свободная форма";
+
+/* No comment provided by engineer. */
+"From My Mac" = "Из моего Mac";
 
 /* No comment provided by engineer. */
 "Fullscreen" = "Полный экран";
@@ -585,7 +597,16 @@
 "Import" = "Импорт";
 
 /* No comment provided by engineer. */
+"Import JPEG Image" = "Импортировать JPEG-изображение";
+
+/* No comment provided by engineer. */
 "Import Photo" = "Импорт Фото";
+
+/* No comment provided by engineer. */
+"Import RAW Image" = "Импортировать RAW-изображение";
+
+/* No comment provided by engineer. */
+"Import this image into Pixelmator Photo and open it for editing." = "Импортировать это изображение в Pixelmator Photo и открыть для редактирования.";
 
 /* short for inches
    Units */
@@ -632,6 +653,9 @@
 
 /* No comment provided by engineer. */
 "Left" = "Левое";
+
+/* No comment provided by engineer. */
+"Lens Correction" = "Коррекция объектива";
 
 /* No comment provided by engineer. */
 "Levels" = "Уровни";
@@ -754,6 +778,9 @@
 /* No comment provided by engineer. */
 "Modify Original in Photos" = "Изменить оригинал в Фото";
 
+/* No comment provided by engineer. */
+"More Info" = "Подробнее";
+
 /* Edit Menu */
 "More..." = "Еще...";
 
@@ -764,6 +791,9 @@
 "Multiply" = "Умножить";
 
 /* No comment provided by engineer. */
+"Mustache" = "Усы";
+
+/* No comment provided by engineer. */
 "My Albums" = "Мои альбомы";
 
 /* No comment provided by engineer. */
@@ -771,6 +801,12 @@
 
 /* keyboard */
 "next" = "далее";
+
+/* No comment provided by engineer. */
+"Next Image" = "Следующее изображение";
+
+/* No comment provided by engineer. */
+"Next Preset" = "Следующий набор настроек";
 
 /* Document info */
 "No camera information" = "Нет данных по камере";
@@ -807,6 +843,9 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "Разброс непрозрачности";
+
+/* No comment provided by engineer. */
+"Open" = "Открыть";
 
 /* No comment provided by engineer. */
 "Orientation" = "Ориентация";
@@ -915,6 +954,12 @@
 
 /* No comment provided by engineer. */
 "Previous" = "Предыдущее";
+
+/* No comment provided by engineer. */
+"Previous Image" = "Предыдущее изображение";
+
+/* No comment provided by engineer. */
+"Previous Preset" = "Предыдущий набор настроек";
 
 /* Units */
 "pt" = "пт";
@@ -1322,11 +1367,17 @@
 /* No comment provided by engineer. */
 "The image could not be imported." = "Изображение нельзя импортировать.";
 
-/* No comment provided by engineer. */
+/* Image open error */
+"The image could not be imported. This RAW format may not be supported." = "Не удается импортировать изображение. RAW-формат не поддерживается.";
+
+/* Image open error */
 "The image could not be opened." = "Изображение нельзя открыть.";
 
 /* No comment provided by engineer. */
 "The image could not be saved." = "Изображение нельзя сохранить.";
+
+/* No comment provided by engineer. */
+"The image could not be shared from your Photos library." = "Не удается импортировать изображение из вашей медиатеки Фото.";
 
 /* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "Максимальное количество слоев для изображения такого размера: %i";
@@ -1343,8 +1394,23 @@
 /* No comment provided by engineer. */
 "The size is too large." = "Слишком большой размер.";
 
+/* Image open error */
+"This format isn’t currently supported." = "Этот формат не поддерживается в данный момент.";
+
+/* No comment provided by engineer. */
+"This image is too large to be opened on this device — your image is %@ megapixels and this device supports images up to %@ megapixels." = "Изображение размером %1$@ мпикс слишком велико для открытия на этом устройстве, поддерживающем только %2$@ мпикс.";
+
+/* No comment provided by engineer. */
+"This image is too large to be opened on this device." = "Изображение слишком велико для открытия на этом устройстве.";
+
+/* No comment provided by engineer. */
+"This photo was not imported from your Photos library or it isn’t possible to modify the original." = "Это фото не было импортировано из вашей медиатеки Фото, или невозможно изменить оригинал.";
+
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library so there is no original to modify." = "Это фото не было импортировано из медиатеки Фото, поэтому нет оригинала для правки.";
+
+/* Image open error */
+"This RAW format isn’t currently supported." = "RAW-формат не поддерживается в данный момент.";
 
 /* Effects category name */
 "Tile" = "Плитка";
@@ -1416,6 +1482,9 @@
 "Unable to Save" = "Не удается сохранить";
 
 /* No comment provided by engineer. */
+"Unable to Share Image" = "Не удается поделиться изображением";
+
+/* No comment provided by engineer. */
 "Undo" = "Отменить";
 
 /* No comment provided by engineer. */
@@ -1453,6 +1522,9 @@
 
 /* No comment provided by engineer. */
 "Vignette" = "Виньетка";
+
+/* No comment provided by engineer. */
+"Vignette Softness" = "Мягкость виньетирования";
 
 /* No comment provided by engineer. */
 "Vivid Light" = "Яркий свет";
