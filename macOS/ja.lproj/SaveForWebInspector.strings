@@ -7,14 +7,11 @@
 /* Class = "NSTextFieldCell"; title = "Converts to the colors best for the web and removes the color profile."; ObjectID = "5iY-a0-cYc"; */
 "5iY-a0-cYc.title" = "Web に最適な色に変換しカラープロファイルを削除します。";
 
-/* Class = "NSMenuItem"; title = "Save as Default"; ObjectID = "AFL-a3-7gA"; */
-"AFL-a3-7gA.title" = "デフォルトとして保存";
+/* Class = "NSTextFieldCell"; title = "Images"; ObjectID = "Clb-Z6-F7P"; */
+"Clb-Z6-F7P.title" = "イメージ";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "DZG-w5-va1"; */
 "DZG-w5-va1.title" = "キャンセル";
-
-/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add an additional format to which you’d like to export the image."; ObjectID = "ED4-vJ-Szs"; */
-"ED4-vJ-Szs.ibShadowedToolTip" = "イメージを書き出す別の形式を追加します。";
 
 /* Class = "NSMenuItem"; title = "SVG"; ObjectID = "EH5-uR-6B6"; */
 "EH5-uR-6B6.title" = "SVG";
@@ -25,8 +22,8 @@
 /* Class = "NSMenuItem"; title = "Remove"; ObjectID = "HAU-fh-hsc"; */
 "HAU-fh-hsc.title" = "削除";
 
-/* Class = "NSMenuItem"; title = "Add"; ObjectID = "JeC-yX-xuQ"; */
-"JeC-yX-xuQ.title" = "追加";
+/* Class = "NSButton"; ibShadowedToolTip = "Stop using the Export for Web tool."; ObjectID = "KUQ-mP-P51"; */
+"KUQ-mP-P51.ibShadowedToolTip" = "Web ツールの書き出しの使用を停止します。";
 
 /* Class = "NSTextFieldCell"; title = "Reduce to 8-bit color"; ObjectID = "LYK-XZ-31m"; */
 "LYK-XZ-31m.title" = "8ビットカラーに縮小";
@@ -49,11 +46,14 @@
 /* Class = "NSMenuItem"; title = "PNG"; ObjectID = "Rf7-D7-nNj"; */
 "Rf7-D7-nNj.title" = "PNG";
 
-/* Class = "NSMenuItem"; title = "GIF"; ObjectID = "TlI-8D-Ag1"; */
-"TlI-8D-Ag1.title" = "GIF";
-
 /* Class = "NSTextFieldCell"; title = "Use advanced compression"; ObjectID = "U1G-F0-tzA"; */
 "U1G-F0-tzA.title" = "高度な圧縮を使用";
+
+/* Class = "NSTextFieldCell"; title = "Presets"; ObjectID = "V5T-E1-hR5"; */
+"V5T-E1-hR5.title" = "Presets";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VUr-V1-1s1"; */
+"VUr-V1-1s1.title" = "テキスト セル";
 
 /* Class = "NSTextFieldCell"; title = "Compresses the image using several advanced but slower algorithms."; ObjectID = "VuT-WY-RBN"; */
 "VuT-WY-RBN.title" = "いくつかの高度でより遅いアルゴリズムを使用してイメージを圧縮します。";
@@ -67,9 +67,6 @@
 /* Class = "NSTextFieldCell"; title = "Keep transparency"; ObjectID = "aEF-H8-VFY"; */
 "aEF-H8-VFY.title" = "透明度を維持";
 
-/* Class = "NSMenuItem"; title = "Save as Preset"; ObjectID = "bF0-4y-Y0c"; */
-"bF0-4y-Y0c.title" = "プリセットとして保存";
-
 /* Class = "NSTextFieldCell"; title = "OPTIMIZE"; ObjectID = "dLY-uS-bYw"; */
 "dLY-uS-bYw.title" = "最適化";
 
@@ -79,14 +76,14 @@
 /* Class = "NSTextFieldCell"; title = "EXPORT FOR WEB"; ObjectID = "dlE-VG-wiD"; */
 "dlE-VG-wiD.title" = "Web 用に書き出し";
 
+/* Class = "NSButtonCell"; title = "Add Format"; ObjectID = "eJg-Im-zb6"; */
+"eJg-Im-zb6.title" = "Add Format";
+
 /* Class = "NSMenuItem"; title = "Reset"; ObjectID = "fBT-Oa-u1C"; */
 "fBT-Oa-u1C.title" = "リセット";
 
 /* Class = "NSButtonCell"; title = "Export..."; ObjectID = "g6g-dE-eAy"; */
 "g6g-dE-eAy.title" = "書き出す...";
-
-/* Class = "NSMenuItem"; title = "JPG"; ObjectID = "h5N-oi-vkO"; */
-"h5N-oi-vkO.title" = "JPG";
 
 /* Class = "NSMenuItem"; title = "2x"; ObjectID = "kmL-YL-Ub2"; */
 "kmL-YL-Ub2.title" = "2x";
@@ -106,17 +103,14 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Stop using the Export for Web tool."; ObjectID = "ogX-To-znk"; */
 "ogX-To-znk.ibShadowedToolTip" = "Web ツールの書き出しの使用を停止します。";
 
-/* Class = "NSMenuItem"; title = "PNG"; ObjectID = "pDw-ng-iGG"; */
-"pDw-ng-iGG.title" = "PNG";
-
 /* Class = "NSTextFieldCell"; placeholderString = "None"; ObjectID = "pzO-Ig-wG8"; */
 "pzO-Ig-wG8.placeholderString" = "なし";
 
 /* Class = "NSTextFieldCell"; title = "146 x 146"; ObjectID = "r6D-Uh-1wx"; */
 "r6D-Uh-1wx.title" = "146 x 146";
 
-/* Class = "NSMenuItem"; title = "SVG"; ObjectID = "rkZ-xx-fBD"; */
-"rkZ-xx-fBD.title" = "SVG";
+/* Class = "NSButtonCell"; title = "Presets"; ObjectID = "sso-bU-h42"; */
+"sso-bU-h42.title" = "Presets";
 
 /* Class = "NSMenuItem"; title = "Send to Back"; ObjectID = "syz-ze-ghz"; */
 "syz-ze-ghz.title" = "最背面へ";
