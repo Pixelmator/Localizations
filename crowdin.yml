@@ -1,0 +1,5 @@
+files:
+  - source: /macOS/en.lproj/*.strings
+    translation: /macOS/%osx_code%/%original_file_name%
+  - source: /iOS/en.lproj/*.strings
+    translation: /iOS/%osx_code%/%original_file_name%
