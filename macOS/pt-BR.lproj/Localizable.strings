@@ -31,6 +31,9 @@
 /* No comment provided by engineer. */
 "%@mm" = "%@mm";
 
+/* seconds */
+"%@s" = "%@s";
+
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d já existem. Deseja substituí-los?";
 
@@ -39,9 +42,6 @@
 
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
-
-/* No comment provided by engineer. */
-"%i°" = "%i°";
 
 /* No comment provided by engineer. */
 "-45°" = "-45°";
@@ -220,17 +220,11 @@
 /* No comment provided by engineer. */
 "Arrow from Point" = "Seta do ponto";
 
-/* Aspect Ratio */
-"Aspect" = "Proporção";
-
 /* No comment provided by engineer. */
 "Assign Profile" = "Atribuir perfil";
 
 /* No comment provided by engineer. */
 "AUTO" = "AUTO";
-
-/* No comment provided by engineer. */
-"Auto" = "Auto";
 
 /* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
 "Auto %@" = "Auto %@";
@@ -240,6 +234,9 @@
 
 /* No comment provided by engineer. */
 "Auto Contrast" = "Contraste automático";
+
+/* No comment provided by engineer. */
+"Auto Crop" = "Corte automático";
 
 /* No comment provided by engineer. */
 "Auto Enhance" = "Realce automático";
@@ -255,6 +252,9 @@
 
 /* No comment provided by engineer. */
 "Auto Select On" = "Seleção Automática ativada";
+
+/* No comment provided by engineer. */
+"Auto Straighten" = "Correção automática";
 
 /* No comment provided by engineer. */
 "B:" = "B:";
@@ -353,6 +353,9 @@
 "Bump" = "Relevo";
 
 /* No comment provided by engineer. */
+"Buy Now" = "Compre agora";
+
+/* No comment provided by engineer. */
 "Buy Pixelmator Pro on the Mac App Store to enjoy the benefits of easily downloading, redownloading, automatically updating, and editing images with Pixelmator Pro." = "Compre o Pixelmator Pro na Mac App Store para desfrutar dos benefícios de download fácil de imagens, novos downloads, atualização automática e edição de imagens com o Pixelmator Pro.";
 
 /* No comment provided by engineer. */
@@ -360,9 +363,6 @@
 
 /* Cancel button title */
 "Cancel" = "Cancelar";
-
-/* No comment provided by engineer. */
-"Canvas Aspect Ratio" = "Proporção da tela";
 
 /* No comment provided by engineer. */
 "Canvas Size" = "Tamanho da tela";
@@ -375,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "Centimeters" = "Centímetros";
+
+/* No comment provided by engineer. */
+"Change" = "Alterar";
 
 /* No comment provided by engineer. */
 "Change Blending Mode" = "Alterar modo de fusão";
@@ -438,9 +441,6 @@
 
 /* No comment provided by engineer. */
 "Clear Slices" = "Limpar segmentos";
-
-/* No comment provided by engineer. */
-"Click to automatically straighten the image." = "Clique para corrigir a imagem automaticamente.";
 
 /* No comment provided by engineer. */
 "Click to pick a color from your image." = "Clique para escolher uma cor da imagem.";
@@ -722,6 +722,9 @@
 "Divide" = "Dividir";
 
 /* No comment provided by engineer. */
+"Do not ask me again" = "Não perguntar novamente";
+
+/* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "Deseja salvar as alterações feitas no documento “%@”";
 
 /* No comment provided by engineer. */
@@ -942,12 +945,6 @@
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "Girar horizontalmente";
-
-/* No comment provided by engineer. */
-"Flip Image Horizontally" = "Girar imagem horizontalmente";
-
-/* No comment provided by engineer. */
-"Flip Image Vertically" = "Girar imagem verticalmente";
 
 /* No comment provided by engineer. */
 "Flip Vertically" = "Girar verticalmente";
@@ -1183,6 +1180,9 @@
 /* No comment provided by engineer. */
 "iCloud" = "iCloud";
 
+/* No comment provided by engineer. */
+"If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "Se o fizer, na próxima vez que você editar a imagem com a extensão Pixelmator Pro, todas a camadas e outras alterações não destrutivas serão restauradas.\n\nDo contrário, somente a imagem final, não editada, será salva.";
+
 /* Untitled document name received via Handoff */
 "Image" = "Imagem";
 
@@ -1199,6 +1199,9 @@
 "Image Size" = "Tamanho da imagem";
 
 /* No comment provided by engineer. */
+"Image Unavailable" = "Imagem não disponível";
+
+/* No comment provided by engineer. */
 "Import" = "Importar";
 
 /* No comment provided by engineer. */
@@ -1211,6 +1214,9 @@
 "Inches" = "Polegadas";
 
 /* No comment provided by engineer. */
+"Initial Crop" = "Corte inicial";
+
+/* No comment provided by engineer. */
 "Initial Direction" = "Direção inicial";
 
 /* No comment provided by engineer. */
@@ -1221,9 +1227,6 @@
 
 /* No comment provided by engineer. */
 "Insert Point" = "Inserir ponto";
-
-/* No comment provided by engineer. */
-"Inserting and ML Match Colors..." = "Inserir e combinar cores com AM...";
 
 /* No comment provided by engineer. */
 "Inserting..." = "Inserindo...";
@@ -1290,6 +1293,9 @@
 
 /* No comment provided by engineer. */
 "Learn more" = "Saiba mais";
+
+/* No comment provided by engineer. */
+"Lens Correction" = "Correção de lente";
 
 /* No comment provided by engineer. */
 "Levels" = "Níveis";
@@ -1469,6 +1475,9 @@
 "Multiply" = "Multiplicar";
 
 /* No comment provided by engineer. */
+"Mustache" = "Bigode";
+
+/* No comment provided by engineer. */
 "New Ellipse Shape" = "Nova forma de elipse";
 
 /* No comment provided by engineer. */
@@ -1536,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "Dispersão de opacidade";
+
+/* No comment provided by engineer. */
+"Open Photos" = "Abrir o Photos";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "Abrir preferências do sistema";
@@ -1631,7 +1643,10 @@
 "Perspective Transform" = "Transformação de perspectiva";
 
 /* No comment provided by engineer. */
-"Photos" = "Fotos";
+"Photos" = "Photos";
+
+/* No comment provided by engineer. */
+"Photos Extension" = "Extensão Photos";
 
 /* No comment provided by engineer. */
 "Photoshop" = "Photoshop";
@@ -1650,6 +1665,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Pixelmator Pro Trial";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Trial Expired" = "O período de testes do Pixelmator Pro expirou";
 
 /* No comment provided by engineer. */
 "Pixels" = "Pixels";
@@ -1682,6 +1700,9 @@
 "Posterize" = "Posterizar";
 
 /* No comment provided by engineer. */
+"Preserve Edits" = "Preservar edições";
+
+/* No comment provided by engineer. */
 "Preserve transparency" = "Preservar transparência";
 
 /* No comment provided by engineer. */
@@ -1711,6 +1732,9 @@
 /* No comment provided by engineer. */
 "Quick Selection" = "Seleção rápida";
 
+/* No comment provided by engineer. */
+"Quit" = "Sair";
+
 /* Quit anyway button title */
 "Quit anyway" = "Encerrar mesmo assim";
 
@@ -1731,6 +1755,9 @@
 
 /* No comment provided by engineer. */
 "Range" = "Escala";
+
+/* No comment provided by engineer. */
+"Ratio:" = "Proporção:";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "Camada RAW";
@@ -1835,6 +1862,9 @@
 "Replace Color" = "Substituir cor";
 
 /* No comment provided by engineer. */
+"Replace this image with another." = "Substituir a imagem por outra.";
+
+/* No comment provided by engineer. */
 "Reselect" = "Selecionar novamente";
 
 /* No comment provided by engineer. */
@@ -1853,10 +1883,16 @@
 "Reset Angle" = "Redefinir ângulo";
 
 /* No comment provided by engineer. */
+"Reset Crop" = "Desfazer corte";
+
+/* No comment provided by engineer. */
 "Reset Effects" = "Redefinir efeitos";
 
 /* No comment provided by engineer. */
 "Reset Handles" = "Redefinir alças";
+
+/* No comment provided by engineer. */
+"Reset Library" = "Redefinir biblioteca";
 
 /* No comment provided by engineer. */
 "Reset Preview" = "Redefinir prévia";
@@ -1868,13 +1904,7 @@
 "Reset Styles" = "Redefinir estilos";
 
 /* No comment provided by engineer. */
-"Reset the rotation of the image." = "Redefinir a rotação da imagem.";
-
-/* No comment provided by engineer. */
 "Resize" = "Redimensionar";
-
-/* No comment provided by engineer. */
-"Resize Canvas" = "Redimensionar a tela";
 
 /* No comment provided by engineer. */
 "Resize Slices" = "Redimensionar segmentos";
@@ -1908,9 +1938,6 @@
 
 /* No comment provided by engineer. */
 "Rotate 90° Right" = "Girar 90° para a direita";
-
-/* No comment provided by engineer. */
-"Rotate Canvas" = "Girar a tela";
 
 /* No comment provided by engineer. */
 "Rotate Image 180°" = "Girar a imagem 180°";
@@ -1956,6 +1983,9 @@
 
 /* No comment provided by engineer. */
 "Save As..." = "Salvar como...";
+
+/* No comment provided by engineer. */
+"Save Flattened" = "Salvar achatada";
 
 /* No comment provided by engineer. */
 "Save..." = "Salvar...";
@@ -2245,6 +2275,9 @@
 /* No comment provided by engineer. */
 "Size Scatter" = "Dispersão de tamanho";
 
+/* No comment provided by engineer. */
+"Size:" = "Tamanho:";
+
 /* transform mode */
 "Skew" = "Inclinar";
 
@@ -2450,6 +2483,9 @@
 "The “%@” document is damaged, or isn’t compatible." = "O documento %@ está danificado ou não é compatível.";
 
 /* No comment provided by engineer. */
+"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "Esta imagem encontra-se no iCloud. Para baixá-la, abra o Photos e clique duas vezes na imagem. É importante que você feche e reabra o navegador de fotos do Pixelmator Pro depois disso.";
+
+/* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "Este tipo de transformação não é suportado.";
 
 /* No comment provided by engineer. */
@@ -2585,6 +2621,9 @@
 "Vignette" = "Vinheta";
 
 /* No comment provided by engineer. */
+"Vignette Softness" = "Suavidade da vinheta";
+
+/* No comment provided by engineer. */
 "Vivid Light" = "Luz brilhante";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2649,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "Largura:";
+
+/* No comment provided by engineer. */
+"Would you like to preserve these edits in your Photos library?" = "Deseja preservar as edições na sua biblioteca do Photos?";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "Deseja salvar as alterações no arquivo JPEG/PNG/TIFF original ou como um document do Pixelmator Pro?";
@@ -2645,13 +2687,16 @@
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "Você negou o acesso anteriormente. Se desejar usar a câmera FaceTime para adicionar imagens a seus documentos, autorize o acesso nas Preferências do Sistema.";
 
 /* No comment provided by engineer. */
-"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "Você negou o acesso anteriormente. Se desejar usar o Navegador de Fotos para abrir imagens da sua biblioteca, autorize o acesso nas Preferências do Sistema.";
+"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "Você negou o acesso anteriormente. Se desejar usar o Navegador Photos para abrir imagens da sua biblioteca, autorize o acesso nas Preferências do Sistema.";
 
 /* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "É preciso uma versão mais recente do %@ para abrir este documento.";
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "É preciso uma versão mais recente para abrir este documento.";
+
+/* No comment provided by engineer. */
+"Your trial has now expired. To enjoy the benefits of editing your images with both Pixelmator Pro and its Photos extension as well as easily downloading, redownloading, and automatically updating Pixelmator Pro on all your computers purchase the app from the Mac App Store." = "Seu período de testes expirou. Para aproveitar os benefícios de edição das suas imagens, com o Pixelmator Pro e sua extensão Photos, assim como poder baixar e baixar novamente com facilidade e atualizar o Pixelmator Pro em todos os seus computadores, compre o aplicativo na Mac App Store.";
 
 /* No comment provided by engineer. */
 "Your trial period has now expired." = "O período de avaliação expirou.";

@@ -31,6 +31,9 @@
 /* No comment provided by engineer. */
 "%@mm" = "%@mm";
 
+/* seconds */
+"%@s" = "%@s";
+
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d 個のファイルがすでに存在します。置き換えますか？";
 
@@ -39,9 +42,6 @@
 
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
-
-/* No comment provided by engineer. */
-"%i°" = "%i°";
 
 /* No comment provided by engineer. */
 "-45°" = "-45°";
@@ -220,17 +220,11 @@
 /* No comment provided by engineer. */
 "Arrow from Point" = "ポイントから矢印";
 
-/* Aspect Ratio */
-"Aspect" = "縦横比";
-
 /* No comment provided by engineer. */
 "Assign Profile" = "プロファイルを設定";
 
 /* No comment provided by engineer. */
 "AUTO" = "自動";
-
-/* No comment provided by engineer. */
-"Auto" = "自動";
 
 /* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
 "Auto %@" = "自動%@";
@@ -240,6 +234,9 @@
 
 /* No comment provided by engineer. */
 "Auto Contrast" = "自動コントラスト";
+
+/* No comment provided by engineer. */
+"Auto Crop" = "Auto Crop";
 
 /* No comment provided by engineer. */
 "Auto Enhance" = "自動補正";
@@ -255,6 +252,9 @@
 
 /* No comment provided by engineer. */
 "Auto Select On" = "自動選択をオン";
+
+/* No comment provided by engineer. */
+"Auto Straighten" = "Auto Straighten";
 
 /* No comment provided by engineer. */
 "B:" = "B:";
@@ -353,6 +353,9 @@
 "Bump" = "バンプ";
 
 /* No comment provided by engineer. */
+"Buy Now" = "今すぐ購入";
+
+/* No comment provided by engineer. */
 "Buy Pixelmator Pro on the Mac App Store to enjoy the benefits of easily downloading, redownloading, automatically updating, and editing images with Pixelmator Pro." = "画像を簡単にダウンロード、再ダウンロード、自動更新、そして編集できるPixelmator ProをMac App Storeで購入する。";
 
 /* No comment provided by engineer. */
@@ -360,9 +363,6 @@
 
 /* Cancel button title */
 "Cancel" = "キャンセル";
-
-/* No comment provided by engineer. */
-"Canvas Aspect Ratio" = "キャンバスの縦横比";
 
 /* No comment provided by engineer. */
 "Canvas Size" = "キャンバスサイズ";
@@ -375,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "Centimeters" = "センチ";
+
+/* No comment provided by engineer. */
+"Change" = "Change";
 
 /* No comment provided by engineer. */
 "Change Blending Mode" = "ブレンドモードを変更";
@@ -438,9 +441,6 @@
 
 /* No comment provided by engineer. */
 "Clear Slices" = "スライスを消去";
-
-/* No comment provided by engineer. */
-"Click to automatically straighten the image." = "クリックして画像を自動的に矯正します。";
 
 /* No comment provided by engineer. */
 "Click to pick a color from your image." = "クリックしてイメージから色を選択。";
@@ -722,6 +722,9 @@
 "Divide" = "除算";
 
 /* No comment provided by engineer. */
+"Do not ask me again" = "Do not ask me again";
+
+/* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "書類“%@”への変更を保存しますか？";
 
 /* No comment provided by engineer. */
@@ -942,12 +945,6 @@
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "水平方向に反転";
-
-/* No comment provided by engineer. */
-"Flip Image Horizontally" = "イメージを水平方向に反転";
-
-/* No comment provided by engineer. */
-"Flip Image Vertically" = "イメージを垂直方向に反転";
 
 /* No comment provided by engineer. */
 "Flip Vertically" = "垂直方向に反転";
@@ -1183,6 +1180,9 @@
 /* No comment provided by engineer. */
 "iCloud" = "iCloud";
 
+/* No comment provided by engineer. */
+"If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved.";
+
 /* Untitled document name received via Handoff */
 "Image" = "イメージ";
 
@@ -1199,6 +1199,9 @@
 "Image Size" = "イメージサイズ";
 
 /* No comment provided by engineer. */
+"Image Unavailable" = "Image Unavailable";
+
+/* No comment provided by engineer. */
 "Import" = "読み込み";
 
 /* No comment provided by engineer. */
@@ -1211,6 +1214,9 @@
 "Inches" = "インチ";
 
 /* No comment provided by engineer. */
+"Initial Crop" = "Initial Crop";
+
+/* No comment provided by engineer. */
 "Initial Direction" = "最初の方向";
 
 /* No comment provided by engineer. */
@@ -1221,9 +1227,6 @@
 
 /* No comment provided by engineer. */
 "Insert Point" = "ポイントを挿入";
-
-/* No comment provided by engineer. */
-"Inserting and ML Match Colors..." = "挿入してMLで色を合わせる...";
 
 /* No comment provided by engineer. */
 "Inserting..." = "挿入...";
@@ -1290,6 +1293,9 @@
 
 /* No comment provided by engineer. */
 "Learn more" = "詳細";
+
+/* No comment provided by engineer. */
+"Lens Correction" = "Lens Correction";
 
 /* No comment provided by engineer. */
 "Levels" = "レベル補正";
@@ -1469,6 +1475,9 @@
 "Multiply" = "乗算";
 
 /* No comment provided by engineer. */
+"Mustache" = "Mustache";
+
+/* No comment provided by engineer. */
 "New Ellipse Shape" = "新規楕円形シェイプ";
 
 /* No comment provided by engineer. */
@@ -1536,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "不透明度の散布";
+
+/* No comment provided by engineer. */
+"Open Photos" = "Open Photos";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "システム環境設定を開く";
@@ -1634,6 +1646,9 @@
 "Photos" = "写真";
 
 /* No comment provided by engineer. */
+"Photos Extension" = "Photos Extension";
+
+/* No comment provided by engineer. */
 "Photoshop" = "Photoshop";
 
 /* No comment provided by engineer. */
@@ -1650,6 +1665,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Pixelmator Pro試用版";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Trial Expired" = "Pixelmator Pro Trial Expired";
 
 /* No comment provided by engineer. */
 "Pixels" = "ピクセル";
@@ -1682,6 +1700,9 @@
 "Posterize" = "ポスタライズ";
 
 /* No comment provided by engineer. */
+"Preserve Edits" = "Preserve Edits";
+
+/* No comment provided by engineer. */
 "Preserve transparency" = "透明度を維持";
 
 /* No comment provided by engineer. */
@@ -1711,6 +1732,9 @@
 /* No comment provided by engineer. */
 "Quick Selection" = "クイック選択";
 
+/* No comment provided by engineer. */
+"Quit" = "終了";
+
 /* Quit anyway button title */
 "Quit anyway" = "終了する";
 
@@ -1731,6 +1755,9 @@
 
 /* No comment provided by engineer. */
 "Range" = "範囲";
+
+/* No comment provided by engineer. */
+"Ratio:" = "比率:";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW レイヤー";
@@ -1835,6 +1862,9 @@
 "Replace Color" = "色の置き換え";
 
 /* No comment provided by engineer. */
+"Replace this image with another." = "Replace this image with another.";
+
+/* No comment provided by engineer. */
 "Reselect" = "再選択";
 
 /* No comment provided by engineer. */
@@ -1853,10 +1883,16 @@
 "Reset Angle" = "角度をリセット";
 
 /* No comment provided by engineer. */
+"Reset Crop" = "切り抜きをリセット";
+
+/* No comment provided by engineer. */
 "Reset Effects" = "エフェクトをリセット";
 
 /* No comment provided by engineer. */
 "Reset Handles" = "ハンドルをリセット";
+
+/* No comment provided by engineer. */
+"Reset Library" = "Reset Library";
 
 /* No comment provided by engineer. */
 "Reset Preview" = "プレビューをリセット";
@@ -1868,13 +1904,7 @@
 "Reset Styles" = "スタイルをリセット";
 
 /* No comment provided by engineer. */
-"Reset the rotation of the image." = "イメージの回転をリセットします。";
-
-/* No comment provided by engineer. */
 "Resize" = "リサイズ";
-
-/* No comment provided by engineer. */
-"Resize Canvas" = "キャンバスのサイズを変更";
 
 /* No comment provided by engineer. */
 "Resize Slices" = "スライスのリサイズ";
@@ -1908,9 +1938,6 @@
 
 /* No comment provided by engineer. */
 "Rotate 90° Right" = "左回りに90°回転";
-
-/* No comment provided by engineer. */
-"Rotate Canvas" = "キャンバスを回転";
 
 /* No comment provided by engineer. */
 "Rotate Image 180°" = "イメージを180°回転";
@@ -1956,6 +1983,9 @@
 
 /* No comment provided by engineer. */
 "Save As..." = "別名で保存...";
+
+/* No comment provided by engineer. */
+"Save Flattened" = "Save Flattened";
 
 /* No comment provided by engineer. */
 "Save..." = "保存...";
@@ -2245,6 +2275,9 @@
 /* No comment provided by engineer. */
 "Size Scatter" = "サイズ散布";
 
+/* No comment provided by engineer. */
+"Size:" = "Size:";
+
 /* transform mode */
 "Skew" = "傾斜";
 
@@ -2450,6 +2483,9 @@
 "The “%@” document is damaged, or isn’t compatible." = "書類“%@”は破損している、または互換性がありません。";
 
 /* No comment provided by engineer. */
+"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so.";
+
+/* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "この種類の変換はサポートされていません。";
 
 /* No comment provided by engineer. */
@@ -2585,6 +2621,9 @@
 "Vignette" = "ビネット";
 
 /* No comment provided by engineer. */
+"Vignette Softness" = "Vignette Softness";
+
+/* No comment provided by engineer. */
 "Vivid Light" = "ビビッドライト";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2649,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "幅:";
+
+/* No comment provided by engineer. */
+"Would you like to preserve these edits in your Photos library?" = "Would you like to preserve these edits in your Photos library?";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "オリジナルのJPEG/PNG/TIFFファイル、またはPixelmator Pro書類に変更を保存しますか？";
@@ -2652,6 +2694,9 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "この書類を開くには新しいバージョンが必要です。";
+
+/* No comment provided by engineer. */
+"Your trial has now expired. To enjoy the benefits of editing your images with both Pixelmator Pro and its Photos extension as well as easily downloading, redownloading, and automatically updating Pixelmator Pro on all your computers purchase the app from the Mac App Store." = "Your trial has now expired. To enjoy the benefits of editing your images with both Pixelmator Pro and its Photos extension as well as easily downloading, redownloading, and automatically updating Pixelmator Pro on all your computers purchase the app from the Mac App Store.";
 
 /* No comment provided by engineer. */
 "Your trial period has now expired." = "試用期間は終了しました。";

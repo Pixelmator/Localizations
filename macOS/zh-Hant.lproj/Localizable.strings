@@ -31,6 +31,9 @@
 /* No comment provided by engineer. */
 "%@mm" = "%@ 公釐";
 
+/* seconds */
+"%@s" = "%@s";
+
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d 個檔案已經存在。是否要替換它們？";
 
@@ -39,9 +42,6 @@
 
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
-
-/* No comment provided by engineer. */
-"%i°" = "%i°";
 
 /* No comment provided by engineer. */
 "-45°" = "-45°";
@@ -220,17 +220,11 @@
 /* No comment provided by engineer. */
 "Arrow from Point" = "從點發出的箭頭";
 
-/* Aspect Ratio */
-"Aspect" = "寬高";
-
 /* No comment provided by engineer. */
 "Assign Profile" = "指定色彩描述";
 
 /* No comment provided by engineer. */
 "AUTO" = "自動";
-
-/* No comment provided by engineer. */
-"Auto" = "自動";
 
 /* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
 "Auto %@" = "自動 %@";
@@ -240,6 +234,9 @@
 
 /* No comment provided by engineer. */
 "Auto Contrast" = "自動對比度";
+
+/* No comment provided by engineer. */
+"Auto Crop" = "自動裁剪";
 
 /* No comment provided by engineer. */
 "Auto Enhance" = "自動增強";
@@ -255,6 +252,9 @@
 
 /* No comment provided by engineer. */
 "Auto Select On" = "自動選取打開";
+
+/* No comment provided by engineer. */
+"Auto Straighten" = "自動拉直";
 
 /* No comment provided by engineer. */
 "B:" = "B：";
@@ -353,6 +353,9 @@
 "Bump" = "凹凸";
 
 /* No comment provided by engineer. */
+"Buy Now" = "立即購買";
+
+/* No comment provided by engineer. */
 "Buy Pixelmator Pro on the Mac App Store to enjoy the benefits of easily downloading, redownloading, automatically updating, and editing images with Pixelmator Pro." = "在 Mac App Store 購買 Pixelmator Pro 可享受簡便下載、重新下載、自動更新功能，並使用 Pixelmator Pro 編輯影像。";
 
 /* No comment provided by engineer. */
@@ -360,9 +363,6 @@
 
 /* Cancel button title */
 "Cancel" = "取消";
-
-/* No comment provided by engineer. */
-"Canvas Aspect Ratio" = "畫布縱橫比";
 
 /* No comment provided by engineer. */
 "Canvas Size" = "畫布大小";
@@ -375,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "Centimeters" = "公分";
+
+/* No comment provided by engineer. */
+"Change" = "更改";
 
 /* No comment provided by engineer. */
 "Change Blending Mode" = "更改混合模式";
@@ -404,7 +407,7 @@
 "Choose a Template" = "選取樣板";
 
 /* No comment provided by engineer. */
-"Choose an image to use for color matching." = "選擇要用於顏色匹配的圖像。";
+"Choose an image to use for color matching." = "選擇要用於顏色匹配的影像。";
 
 /* No comment provided by engineer. */
 "Choose..." = "選取⋯";
@@ -438,9 +441,6 @@
 
 /* No comment provided by engineer. */
 "Clear Slices" = "清除切片";
-
-/* No comment provided by engineer. */
-"Click to automatically straighten the image." = "按一下可自動校正影像。";
 
 /* No comment provided by engineer. */
 "Click to pick a color from your image." = "按一下以從圖像中選取顏色。";
@@ -530,7 +530,7 @@
 "Contrast" = "對比度";
 
 /* No comment provided by engineer. */
-"Convert into Pixels" = "轉換成像素";
+"Convert into Pixels" = "轉換成圖元";
 
 /* No comment provided by engineer. */
 "Convert Into Shape" = "轉換成圖形";
@@ -722,6 +722,9 @@
 "Divide" = "分割";
 
 /* No comment provided by engineer. */
+"Do not ask me again" = "別再詢問";
+
+/* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "您要儲存對檔案「%@」所作的更動嗎」";
 
 /* No comment provided by engineer. */
@@ -743,7 +746,7 @@
 "dpi" = "dpi";
 
 /* No comment provided by engineer. */
-"Drag and drop images here to match their colors using machine learning." = "在這裡拖放圖像，以使用機器學習匹配其顏色。";
+"Drag and drop images here to match their colors using machine learning." = "在這裡拖放影像，以使用機器學習匹配其顏色。";
 
 /* No comment provided by engineer. */
 "Draw" = "繪製";
@@ -944,12 +947,6 @@
 "Flip Horizontally" = "水平翻轉";
 
 /* No comment provided by engineer. */
-"Flip Image Horizontally" = "水平翻轉影像";
-
-/* No comment provided by engineer. */
-"Flip Image Vertically" = "垂直翻轉影像";
-
-/* No comment provided by engineer. */
 "Flip Vertically" = "垂直翻轉";
 
 /* No comment provided by engineer. */
@@ -1094,7 +1091,7 @@
 "Hide Details" = "隱藏詳細資料";
 
 /* No comment provided by engineer. */
-"Hide Document Info" = "隱藏文檔資訊";
+"Hide Document Info" = "隱藏文件資訊";
 
 /* No comment provided by engineer. */
 "Hide Fonts" = "隱藏字體";
@@ -1130,7 +1127,7 @@
 "Hide Outline" = "隱藏輪廓";
 
 /* No comment provided by engineer. */
-"Hide Pixel Grid" = "隱藏像素網格";
+"Hide Pixel Grid" = "隱藏圖元網格";
 
 /* No comment provided by engineer. */
 "Hide Presets" = "隱藏預設";
@@ -1183,6 +1180,9 @@
 /* No comment provided by engineer. */
 "iCloud" = "iCloud";
 
+/* No comment provided by engineer. */
+"If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "如果這樣做，下次使用 Pixelmator Pro 延伸編輯影像時，將恢復所有圖層和其他非破壞性更改。\n\n否則，僅儲存最終經過編輯的影像。";
+
 /* Untitled document name received via Handoff */
 "Image" = "影像";
 
@@ -1199,6 +1199,9 @@
 "Image Size" = "影像大小";
 
 /* No comment provided by engineer. */
+"Image Unavailable" = "影像不可用";
+
+/* No comment provided by engineer. */
 "Import" = "匯入";
 
 /* No comment provided by engineer. */
@@ -1211,6 +1214,9 @@
 "Inches" = "英吋";
 
 /* No comment provided by engineer. */
+"Initial Crop" = "原始裁剪";
+
+/* No comment provided by engineer. */
 "Initial Direction" = "初始方向";
 
 /* No comment provided by engineer. */
@@ -1221,9 +1227,6 @@
 
 /* No comment provided by engineer. */
 "Insert Point" = "插入點";
-
-/* No comment provided by engineer. */
-"Inserting and ML Match Colors..." = "插入並使用 ML 匹配顏色...";
 
 /* No comment provided by engineer. */
 "Inserting..." = "正在插入...";
@@ -1290,6 +1293,9 @@
 
 /* No comment provided by engineer. */
 "Learn more" = "瞭解更多資訊";
+
+/* No comment provided by engineer. */
+"Lens Correction" = "鏡頭拉直";
 
 /* No comment provided by engineer. */
 "Levels" = "位準";
@@ -1469,6 +1475,9 @@
 "Multiply" = "疊加";
 
 /* No comment provided by engineer. */
+"Mustache" = "鬍子";
+
+/* No comment provided by engineer. */
 "New Ellipse Shape" = "新建橢圓形狀";
 
 /* No comment provided by engineer. */
@@ -1536,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "不透明度散佈";
+
+/* No comment provided by engineer. */
+"Open Photos" = "開啟照片";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "打開系統偏好設定";
@@ -1634,6 +1646,9 @@
 "Photos" = "照片";
 
 /* No comment provided by engineer. */
+"Photos Extension" = "照片延伸";
+
+/* No comment provided by engineer. */
 "Photoshop" = "Photoshop";
 
 /* No comment provided by engineer. */
@@ -1643,13 +1658,16 @@
 "Pinch" = "壓縮";
 
 /* No comment provided by engineer. */
-"Pixel Paint" = "像素漆";
+"Pixel Paint" = "圖元漆";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Pixelmator Pro 試用";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Trial Expired" = "Pixelmator Pro 試用已過期";
 
 /* No comment provided by engineer. */
 "Pixels" = "像素";
@@ -1682,6 +1700,9 @@
 "Posterize" = "海報化";
 
 /* No comment provided by engineer. */
+"Preserve Edits" = "保留編輯";
+
+/* No comment provided by engineer. */
 "Preserve transparency" = "保留透明度";
 
 /* No comment provided by engineer. */
@@ -1711,6 +1732,9 @@
 /* No comment provided by engineer. */
 "Quick Selection" = "快速選取範圍";
 
+/* No comment provided by engineer. */
+"Quit" = "結束";
+
 /* Quit anyway button title */
 "Quit anyway" = "強制結束";
 
@@ -1731,6 +1755,9 @@
 
 /* No comment provided by engineer. */
 "Range" = "範圍";
+
+/* No comment provided by engineer. */
+"Ratio:" = "比例：";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW 圖層";
@@ -1835,6 +1862,9 @@
 "Replace Color" = "替換顏色";
 
 /* No comment provided by engineer. */
+"Replace this image with another." = "用其他影像替換此影像。";
+
+/* No comment provided by engineer. */
 "Reselect" = "重新選取";
 
 /* No comment provided by engineer. */
@@ -1853,10 +1883,16 @@
 "Reset Angle" = "重設角度";
 
 /* No comment provided by engineer. */
+"Reset Crop" = "重設裁切";
+
+/* No comment provided by engineer. */
 "Reset Effects" = "重置效果";
 
 /* No comment provided by engineer. */
 "Reset Handles" = "重設手柄";
+
+/* No comment provided by engineer. */
+"Reset Library" = "重設資源庫";
 
 /* No comment provided by engineer. */
 "Reset Preview" = "重設預覽";
@@ -1868,13 +1904,7 @@
 "Reset Styles" = "重設樣式";
 
 /* No comment provided by engineer. */
-"Reset the rotation of the image." = "重設影像的旋轉。";
-
-/* No comment provided by engineer. */
 "Resize" = "調整大小";
-
-/* No comment provided by engineer. */
-"Resize Canvas" = "調整畫布大小";
 
 /* No comment provided by engineer. */
 "Resize Slices" = "調整切片大小";
@@ -1908,9 +1938,6 @@
 
 /* No comment provided by engineer. */
 "Rotate 90° Right" = "向右旋轉 90°";
-
-/* No comment provided by engineer. */
-"Rotate Canvas" = "旋轉畫布";
 
 /* No comment provided by engineer. */
 "Rotate Image 180°" = "旋轉影像 180°";
@@ -1956,6 +1983,9 @@
 
 /* No comment provided by engineer. */
 "Save As..." = "儲存為⋯";
+
+/* No comment provided by engineer. */
+"Save Flattened" = "儲存平坦";
 
 /* No comment provided by engineer. */
 "Save..." = "儲存⋯";
@@ -2156,7 +2186,7 @@
 "Show Details" = "顯示詳細資訊";
 
 /* No comment provided by engineer. */
-"Show Document Info" = "顯示文檔資訊";
+"Show Document Info" = "顯示文件資訊";
 
 /* No comment provided by engineer. */
 "Show Fonts" = "顯示字體";
@@ -2244,6 +2274,9 @@
 
 /* No comment provided by engineer. */
 "Size Scatter" = "大小散佈";
+
+/* No comment provided by engineer. */
+"Size:" = "大小：";
 
 /* transform mode */
 "Skew" = "斜";
@@ -2450,6 +2483,9 @@
 "The “%@” document is damaged, or isn’t compatible." = "檔案 %@ 已損壞，或格式不相容。";
 
 /* No comment provided by engineer. */
+"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "此圖片目前位於 iCloud 中。請開啟「照片」並按兩下該影像以下載。執行此操作後關閉並重新開啟 Pixelmator Pro 照片瀏覽器。";
+
+/* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "不支援這種變形。";
 
 /* No comment provided by engineer. */
@@ -2585,6 +2621,9 @@
 "Vignette" = "暈邊";
 
 /* No comment provided by engineer. */
+"Vignette Softness" = "暈邊軟度";
+
+/* No comment provided by engineer. */
 "Vivid Light" = "強烈光源";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2649,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "寬度：";
+
+/* No comment provided by engineer. */
+"Would you like to preserve these edits in your Photos library?" = "您想要在照片圖庫中保留這些編輯嗎？";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "是否將更改儲存到原始的 JPEG/PNG/TIFF 檔或 Pixelmator Pro 檔案？";
@@ -2652,6 +2694,9 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "你需要新版本才能打開此檔案。";
+
+/* No comment provided by engineer. */
+"Your trial has now expired. To enjoy the benefits of editing your images with both Pixelmator Pro and its Photos extension as well as easily downloading, redownloading, and automatically updating Pixelmator Pro on all your computers purchase the app from the Mac App Store." = "您的試用版已過期。要繼續受使用 Pixelmator Pro 及其照片延伸程式的強大功能編輯影像，並在所有電腦上輕鬆下載，重新下載和自動更新 Pixelmator Pro，請從 Mac App Store 購買程式。";
 
 /* No comment provided by engineer. */
 "Your trial period has now expired." = "您的試用版現已過期。";

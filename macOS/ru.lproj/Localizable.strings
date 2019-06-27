@@ -31,6 +31,9 @@
 /* No comment provided by engineer. */
 "%@mm" = "%@ мм";
 
+/* seconds */
+"%@s" = "%@с";
+
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "Уже имеется %d файлов. Хотите заменить их?";
 
@@ -39,9 +42,6 @@
 
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
-
-/* No comment provided by engineer. */
-"%i°" = "%i°";
 
 /* No comment provided by engineer. */
 "-45°" = "-45°";
@@ -220,17 +220,11 @@
 /* No comment provided by engineer. */
 "Arrow from Point" = "Стрелка с точкой";
 
-/* Aspect Ratio */
-"Aspect" = "Ракурс";
-
 /* No comment provided by engineer. */
 "Assign Profile" = "Присвоить профиль";
 
 /* No comment provided by engineer. */
 "AUTO" = "АВТО";
-
-/* No comment provided by engineer. */
-"Auto" = "Авто";
 
 /* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
 "Auto %@" = "Авто %@";
@@ -240,6 +234,9 @@
 
 /* No comment provided by engineer. */
 "Auto Contrast" = "Автоподбор контраста";
+
+/* No comment provided by engineer. */
+"Auto Crop" = "Автообрезка";
 
 /* No comment provided by engineer. */
 "Auto Enhance" = "Автоулучшение";
@@ -255,6 +252,9 @@
 
 /* No comment provided by engineer. */
 "Auto Select On" = "Автовыбор Вкл.";
+
+/* No comment provided by engineer. */
+"Auto Straighten" = "Автовыпрямление";
 
 /* No comment provided by engineer. */
 "B:" = "B:";
@@ -353,6 +353,9 @@
 "Bump" = "Вздутие";
 
 /* No comment provided by engineer. */
+"Buy Now" = "Купить сейчас";
+
+/* No comment provided by engineer. */
 "Buy Pixelmator Pro on the Mac App Store to enjoy the benefits of easily downloading, redownloading, automatically updating, and editing images with Pixelmator Pro." = "Купите Pixelmator Pro в Mac App Store, чтобы получить легкую загрузку, автоматические обновления и продолжить редактирование изображений с Pixelmator Pro.";
 
 /* No comment provided by engineer. */
@@ -360,9 +363,6 @@
 
 /* Cancel button title */
 "Cancel" = "Отменить";
-
-/* No comment provided by engineer. */
-"Canvas Aspect Ratio" = "Соотношение сторон холста";
 
 /* No comment provided by engineer. */
 "Canvas Size" = "Размер холста";
@@ -375,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "Centimeters" = "Сантиметры";
+
+/* No comment provided by engineer. */
+"Change" = "Изменить";
 
 /* No comment provided by engineer. */
 "Change Blending Mode" = "Изменить режим смешения слоя";
@@ -438,9 +441,6 @@
 
 /* No comment provided by engineer. */
 "Clear Slices" = "Очистить ломтики";
-
-/* No comment provided by engineer. */
-"Click to automatically straighten the image." = "Нажать, чтобы выпрямить изображение.";
 
 /* No comment provided by engineer. */
 "Click to pick a color from your image." = "Нажать для выбора цвета изображения.";
@@ -542,7 +542,7 @@
 "Copy" = "Скопировать";
 
 /* No comment provided by engineer. */
-"Copy Adjustments" = "Скопировать регулировки";
+"Copy Adjustments" = "Скопировать корректировки";
 
 /* No comment provided by engineer. */
 "Copy and Paste as Layer" = "Копировать и вставить как слой";
@@ -720,6 +720,9 @@
 
 /* No comment provided by engineer. */
 "Divide" = "Разделить";
+
+/* No comment provided by engineer. */
+"Do not ask me again" = "Больше не спрашивать";
 
 /* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "Хотите сохранить изменения, внесенные в документ «%@»";
@@ -942,12 +945,6 @@
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "Перевернуть горизонтально";
-
-/* No comment provided by engineer. */
-"Flip Image Horizontally" = "Перевернуть изображение горизонтально";
-
-/* No comment provided by engineer. */
-"Flip Image Vertically" = "Перевернуть изображение вертикально";
 
 /* No comment provided by engineer. */
 "Flip Vertically" = "Перевернуть вертикально";
@@ -1183,6 +1180,9 @@
 /* No comment provided by engineer. */
 "iCloud" = "iCloud";
 
+/* No comment provided by engineer. */
+"If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "Если вы так сделаете, то, когда в следующий раз вы будете редактировать с помощью расширения Pixelmator Pro, все слои и прочие недеструктивные изменения будут восстановлены.\n\nВ противном случае будет сохранено только окончательное исправленное изображение.";
+
 /* Untitled document name received via Handoff */
 "Image" = "Изображение";
 
@@ -1199,6 +1199,9 @@
 "Image Size" = "Размер изображения";
 
 /* No comment provided by engineer. */
+"Image Unavailable" = "Изображение недоступно";
+
+/* No comment provided by engineer. */
 "Import" = "Импорт";
 
 /* No comment provided by engineer. */
@@ -1211,6 +1214,9 @@
 "Inches" = "Дюймы";
 
 /* No comment provided by engineer. */
+"Initial Crop" = "Начальная обрезка";
+
+/* No comment provided by engineer. */
 "Initial Direction" = "Начальное направление";
 
 /* No comment provided by engineer. */
@@ -1221,9 +1227,6 @@
 
 /* No comment provided by engineer. */
 "Insert Point" = "Вставить точку";
-
-/* No comment provided by engineer. */
-"Inserting and ML Match Colors..." = "Вставка и машинно-обучаемая подгонка цветов...";
 
 /* No comment provided by engineer. */
 "Inserting..." = "Вставка...";
@@ -1290,6 +1293,9 @@
 
 /* No comment provided by engineer. */
 "Learn more" = "Подробнее";
+
+/* No comment provided by engineer. */
+"Lens Correction" = "Коррекция объектива";
 
 /* No comment provided by engineer. */
 "Levels" = "Уровни";
@@ -1469,6 +1475,9 @@
 "Multiply" = "Умножить";
 
 /* No comment provided by engineer. */
+"Mustache" = "Усы";
+
+/* No comment provided by engineer. */
 "New Ellipse Shape" = "Новый эллипс";
 
 /* No comment provided by engineer. */
@@ -1536,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "Разброс непрозрачности";
+
+/* No comment provided by engineer. */
+"Open Photos" = "Открыть Photos";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "Открыть Системные настройки";
@@ -1634,6 +1646,9 @@
 "Photos" = "Фото";
 
 /* No comment provided by engineer. */
+"Photos Extension" = "Расширение Photos";
+
+/* No comment provided by engineer. */
 "Photoshop" = "Photoshop";
 
 /* No comment provided by engineer. */
@@ -1650,6 +1665,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Пробная версия Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Trial Expired" = "Пробная версия Pixelmator Pro истекла";
 
 /* No comment provided by engineer. */
 "Pixels" = "Пиксели";
@@ -1682,6 +1700,9 @@
 "Posterize" = "Разделение тонов";
 
 /* No comment provided by engineer. */
+"Preserve Edits" = "Сохранить правки";
+
+/* No comment provided by engineer. */
 "Preserve transparency" = "Сохранить прозрачность";
 
 /* No comment provided by engineer. */
@@ -1711,6 +1732,9 @@
 /* No comment provided by engineer. */
 "Quick Selection" = "Быстрый выбор";
 
+/* No comment provided by engineer. */
+"Quit" = "Завершить";
+
 /* Quit anyway button title */
 "Quit anyway" = "Все равно завершить";
 
@@ -1731,6 +1755,9 @@
 
 /* No comment provided by engineer. */
 "Range" = "Диапазон";
+
+/* No comment provided by engineer. */
+"Ratio:" = "Формат:";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW-слой";
@@ -1835,6 +1862,9 @@
 "Replace Color" = "Замена цвета";
 
 /* No comment provided by engineer. */
+"Replace this image with another." = "Заменить это изображение другим.";
+
+/* No comment provided by engineer. */
 "Reselect" = "Выбрать заново";
 
 /* No comment provided by engineer. */
@@ -1853,10 +1883,16 @@
 "Reset Angle" = "Сбросить угол";
 
 /* No comment provided by engineer. */
+"Reset Crop" = "Сбросить обрезку";
+
+/* No comment provided by engineer. */
 "Reset Effects" = "Сбросить эффекты";
 
 /* No comment provided by engineer. */
 "Reset Handles" = "Сбросить маркеры";
+
+/* No comment provided by engineer. */
+"Reset Library" = "Сбросить медиатеку";
 
 /* No comment provided by engineer. */
 "Reset Preview" = "Сброс превью";
@@ -1868,13 +1904,7 @@
 "Reset Styles" = "Сбросить стили";
 
 /* No comment provided by engineer. */
-"Reset the rotation of the image." = "Сбросить вращение изображения.";
-
-/* No comment provided by engineer. */
 "Resize" = "Изменить размер";
-
-/* No comment provided by engineer. */
-"Resize Canvas" = "Изменить размеры холста";
 
 /* No comment provided by engineer. */
 "Resize Slices" = "Масштабировать ломтики";
@@ -1908,9 +1938,6 @@
 
 /* No comment provided by engineer. */
 "Rotate 90° Right" = "Повернуть на 90° вправо";
-
-/* No comment provided by engineer. */
-"Rotate Canvas" = "Повернуть холст";
 
 /* No comment provided by engineer. */
 "Rotate Image 180°" = "Повернуть изображение на 180°";
@@ -1956,6 +1983,9 @@
 
 /* No comment provided by engineer. */
 "Save As..." = "Сохранить как...";
+
+/* No comment provided by engineer. */
+"Save Flattened" = "Сохранить сглаженный";
 
 /* No comment provided by engineer. */
 "Save..." = "Сохранить...";
@@ -2245,6 +2275,9 @@
 /* No comment provided by engineer. */
 "Size Scatter" = "Разброс размеров";
 
+/* No comment provided by engineer. */
+"Size:" = "Размер:";
+
 /* transform mode */
 "Skew" = "Наклон";
 
@@ -2450,6 +2483,9 @@
 "The “%@” document is damaged, or isn’t compatible." = "Документ «%@» поврежден или несовместим.";
 
 /* No comment provided by engineer. */
+"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "Это изображение сейчас находится в iCloud. Чтобы загрузить его, откройте Photos и дважды щелкните на изображении. Не забудьте закрыть и вновь открыть после этого браузер Pixelmator Pro Photo.";
+
+/* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "Такого рода преобразование не поддерживается.";
 
 /* No comment provided by engineer. */
@@ -2585,6 +2621,9 @@
 "Vignette" = "Виньетка";
 
 /* No comment provided by engineer. */
+"Vignette Softness" = "Мягкость виньетирования";
+
+/* No comment provided by engineer. */
 "Vivid Light" = "Яркий свет";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2649,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "Ширина:";
+
+/* No comment provided by engineer. */
+"Would you like to preserve these edits in your Photos library?" = "Не хотите ли сохранить эти правки в вашей медиатеке Photos?";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "Вы хотите сохранить ваши изменения в исходный файл PNG/JPEG/TIFF или документ Pixelmator Pro?";
@@ -2654,13 +2696,16 @@
 "You need a newer version to open this document." = "Вам нужна более новая версия, чтобы открыть этот документ.";
 
 /* No comment provided by engineer. */
+"Your trial has now expired. To enjoy the benefits of editing your images with both Pixelmator Pro and its Photos extension as well as easily downloading, redownloading, and automatically updating Pixelmator Pro on all your computers purchase the app from the Mac App Store." = "Срок использования пробной версии истек. Чтобы воспользоваться преимуществами правки изображений с помощью Pixelmator Pro и его расширения Photos, а также загрузки, повторной загрузки и автоматического обновления Pixelmator Pro на всех ваших компьютерах, приобретайте это приложение в Mac App Store.";
+
+/* No comment provided by engineer. */
 "Your trial period has now expired." = "Ваш испытательный срок истек.";
 
 /* No comment provided by engineer. */
-"Zoom" = "Масштаб";
+"Zoom" = "Масштабирование";
 
 /* No comment provided by engineer. */
-"Zoom to Fit" = "Изменить масштаб под размер";
+"Zoom to Fit" = "Масштабировать под размер";
 
 /* No comment provided by engineer. */
 "Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";

@@ -31,6 +31,9 @@
 /* No comment provided by engineer. */
 "%@mm" = "%@mm";
 
+/* seconds */
+"%@s" = "%@초";
+
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d개의 파일이 이미 존재합니다. 대치하시겠습니까?";
 
@@ -39,9 +42,6 @@
 
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
-
-/* No comment provided by engineer. */
-"%i°" = "%i°";
 
 /* No comment provided by engineer. */
 "-45°" = "-45°";
@@ -220,17 +220,11 @@
 /* No comment provided by engineer. */
 "Arrow from Point" = "포인트에서의 화살표";
 
-/* Aspect Ratio */
-"Aspect" = "가로 세로 비율";
-
 /* No comment provided by engineer. */
 "Assign Profile" = "프로필 할당";
 
 /* No comment provided by engineer. */
 "AUTO" = "자동";
-
-/* No comment provided by engineer. */
-"Auto" = "자동";
 
 /* Used to compose Auto White Balance, Auto Lightness, Auto Colors, etc. */
 "Auto %@" = "자동 %@";
@@ -240,6 +234,9 @@
 
 /* No comment provided by engineer. */
 "Auto Contrast" = "자동 대비";
+
+/* No comment provided by engineer. */
+"Auto Crop" = "자동 자르기";
 
 /* No comment provided by engineer. */
 "Auto Enhance" = "자동 향상";
@@ -255,6 +252,9 @@
 
 /* No comment provided by engineer. */
 "Auto Select On" = "자동 선택 켬";
+
+/* No comment provided by engineer. */
+"Auto Straighten" = "자동 수평 조절";
 
 /* No comment provided by engineer. */
 "B:" = "B:";
@@ -353,6 +353,9 @@
 "Bump" = "범프";
 
 /* No comment provided by engineer. */
+"Buy Now" = "지금 구입";
+
+/* No comment provided by engineer. */
 "Buy Pixelmator Pro on the Mac App Store to enjoy the benefits of easily downloading, redownloading, automatically updating, and editing images with Pixelmator Pro." = "Mac App Store에서 Pixelmator Pro를 구입해서 간편한 다운로드, 재다운로드, 자동 업데이트, 이미지 편집 등 Pixelmator Pro가 제공하는 다양한 혜택을 누리세요.";
 
 /* No comment provided by engineer. */
@@ -360,9 +363,6 @@
 
 /* Cancel button title */
 "Cancel" = "취소";
-
-/* No comment provided by engineer. */
-"Canvas Aspect Ratio" = "캔버스 가로 세로 비율";
 
 /* No comment provided by engineer. */
 "Canvas Size" = "캔버스 크기";
@@ -375,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "Centimeters" = "센티미터";
+
+/* No comment provided by engineer. */
+"Change" = "변경";
 
 /* No comment provided by engineer. */
 "Change Blending Mode" = "혼합 모드 변경";
@@ -438,9 +441,6 @@
 
 /* No comment provided by engineer. */
 "Clear Slices" = "슬라이스 지우기";
-
-/* No comment provided by engineer. */
-"Click to automatically straighten the image." = "클릭해서 자동으로 이미지를 바르게 합니다.";
 
 /* No comment provided by engineer. */
 "Click to pick a color from your image." = "이미지에서 색상을 선택하려면 클릭합니다.";
@@ -722,6 +722,9 @@
 "Divide" = "나누기";
 
 /* No comment provided by engineer. */
+"Do not ask me again" = "다시 묻지 않음";
+
+/* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "\"%@” 도큐멘트의 변경 사항을 저장하겠습니까?";
 
 /* No comment provided by engineer. */
@@ -942,12 +945,6 @@
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "좌우로 뒤집기";
-
-/* No comment provided by engineer. */
-"Flip Image Horizontally" = "좌우로 이미지 뒤집기";
-
-/* No comment provided by engineer. */
-"Flip Image Vertically" = "상하로 이미지 뒤집기";
 
 /* No comment provided by engineer. */
 "Flip Vertically" = "상하로 뒤집기";
@@ -1183,6 +1180,9 @@
 /* No comment provided by engineer. */
 "iCloud" = "iCloud";
 
+/* No comment provided by engineer. */
+"If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "그럴 경우, 다음 번에 Pixelmator Pro 확장을 사용해 이 이미지를 열 때 모든 레이어 및 기타 비파괴적 변경 내용이 복원됩니다.\n\n그렇지 않을 경우, 오직 편집된 마지막 이미지만 저장됩니다.";
+
 /* Untitled document name received via Handoff */
 "Image" = "이미지";
 
@@ -1199,6 +1199,9 @@
 "Image Size" = "이미지 크기";
 
 /* No comment provided by engineer. */
+"Image Unavailable" = "이미지를 사용할 수 없습니다";
+
+/* No comment provided by engineer. */
 "Import" = "가져오기";
 
 /* No comment provided by engineer. */
@@ -1211,6 +1214,9 @@
 "Inches" = "인치";
 
 /* No comment provided by engineer. */
+"Initial Crop" = "초기 자르기";
+
+/* No comment provided by engineer. */
 "Initial Direction" = "최초 방향";
 
 /* No comment provided by engineer. */
@@ -1221,9 +1227,6 @@
 
 /* No comment provided by engineer. */
 "Insert Point" = "포인트 삽입";
-
-/* No comment provided by engineer. */
-"Inserting and ML Match Colors..." = "삽입 및 ML 일치 색상...";
 
 /* No comment provided by engineer. */
 "Inserting..." = "삽입 중...";
@@ -1290,6 +1293,9 @@
 
 /* No comment provided by engineer. */
 "Learn more" = "더 알아보기";
+
+/* No comment provided by engineer. */
+"Lens Correction" = "렌즈 보정";
 
 /* No comment provided by engineer. */
 "Levels" = "레벨";
@@ -1469,6 +1475,9 @@
 "Multiply" = "곱하기";
 
 /* No comment provided by engineer. */
+"Mustache" = "콧수염";
+
+/* No comment provided by engineer. */
 "New Ellipse Shape" = "새 타원 도형";
 
 /* No comment provided by engineer. */
@@ -1536,6 +1545,9 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "불투명도 분산";
+
+/* No comment provided by engineer. */
+"Open Photos" = "사진 열기";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "시스템 환경 설정 열기";
@@ -1634,6 +1646,9 @@
 "Photos" = "사진";
 
 /* No comment provided by engineer. */
+"Photos Extension" = "사진 확장";
+
+/* No comment provided by engineer. */
 "Photoshop" = "Photoshop";
 
 /* No comment provided by engineer. */
@@ -1650,6 +1665,9 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Pixelmator Pro 평가판";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Trial Expired" = "Pixelmator Pro 평가판이 만료됨";
 
 /* No comment provided by engineer. */
 "Pixels" = "픽셀";
@@ -1682,6 +1700,9 @@
 "Posterize" = "포스터라이즈";
 
 /* No comment provided by engineer. */
+"Preserve Edits" = "편집본 보존";
+
+/* No comment provided by engineer. */
 "Preserve transparency" = "투명도 유지";
 
 /* No comment provided by engineer. */
@@ -1711,6 +1732,9 @@
 /* No comment provided by engineer. */
 "Quick Selection" = "빠른 선택";
 
+/* No comment provided by engineer. */
+"Quit" = "종료";
+
 /* Quit anyway button title */
 "Quit anyway" = "무조건 종료";
 
@@ -1731,6 +1755,9 @@
 
 /* No comment provided by engineer. */
 "Range" = "범위";
+
+/* No comment provided by engineer. */
+"Ratio:" = "비율:";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW 레이어";
@@ -1835,6 +1862,9 @@
 "Replace Color" = "색상 대치";
 
 /* No comment provided by engineer. */
+"Replace this image with another." = "이 이미지를 다른 것으로 대체합니다.";
+
+/* No comment provided by engineer. */
 "Reselect" = "다시 선택";
 
 /* No comment provided by engineer. */
@@ -1853,10 +1883,16 @@
 "Reset Angle" = "각도 재설정";
 
 /* No comment provided by engineer. */
+"Reset Crop" = "자르기 재설정";
+
+/* No comment provided by engineer. */
 "Reset Effects" = "효과 재설정";
 
 /* No comment provided by engineer. */
 "Reset Handles" = "핸들 재설정";
+
+/* No comment provided by engineer. */
+"Reset Library" = "보관함 재설정";
 
 /* No comment provided by engineer. */
 "Reset Preview" = "미리 보기 재설정";
@@ -1868,13 +1904,7 @@
 "Reset Styles" = "스타일 재설정";
 
 /* No comment provided by engineer. */
-"Reset the rotation of the image." = "이미지의 회전을 재설정합니다.";
-
-/* No comment provided by engineer. */
 "Resize" = "크기 조정";
-
-/* No comment provided by engineer. */
-"Resize Canvas" = "캔버스 크기 조정";
 
 /* No comment provided by engineer. */
 "Resize Slices" = "슬라이스 크기 조정";
@@ -1908,9 +1938,6 @@
 
 /* No comment provided by engineer. */
 "Rotate 90° Right" = "오른쪽으로 90° 회전";
-
-/* No comment provided by engineer. */
-"Rotate Canvas" = "캔버스 회전";
 
 /* No comment provided by engineer. */
 "Rotate Image 180°" = "이미지 180° 회전";
@@ -1956,6 +1983,9 @@
 
 /* No comment provided by engineer. */
 "Save As..." = "다음으로 저장...";
+
+/* No comment provided by engineer. */
+"Save Flattened" = "병합 저장";
 
 /* No comment provided by engineer. */
 "Save..." = "저장...";
@@ -2245,6 +2275,9 @@
 /* No comment provided by engineer. */
 "Size Scatter" = "크기 분산";
 
+/* No comment provided by engineer. */
+"Size:" = "크기:";
+
 /* transform mode */
 "Skew" = "기울이기";
 
@@ -2450,6 +2483,9 @@
 "The “%@” document is damaged, or isn’t compatible." = "%@\" 도큐멘트가 손상되었거나 호환되지 않습니다.";
 
 /* No comment provided by engineer. */
+"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "이 이미지는 현재 iCloud에 있습니다. 다운로드하려면 사진을 열고 이미지를 두 번 클릭하세요. 이 작업을 수행한 후 Pixelmator Pro 사진 브라우저를 닫고 다시 여셔야 합니다.";
+
+/* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "이 유형의 변형은 지원되지 않습니다.";
 
 /* No comment provided by engineer. */
@@ -2585,6 +2621,9 @@
 "Vignette" = "비네트";
 
 /* No comment provided by engineer. */
+"Vignette Softness" = "비네트 부드러움";
+
+/* No comment provided by engineer. */
 "Vivid Light" = "선명한 라이트";
 
 /* No comment provided by engineer. */
@@ -2610,6 +2649,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "너비:";
+
+/* No comment provided by engineer. */
+"Would you like to preserve these edits in your Photos library?" = "사진 보관함에 이 편집본을 보존하시겠습니까?";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "변경 사항을 원본 JPEG/PNG/TIFF 파일 또는 Pixelmator Pro 도큐멘트로 저장하시겠습니까?";
@@ -2652,6 +2694,9 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "이 도큐멘트를 열려면 새 버전이 필요합니다.";
+
+/* No comment provided by engineer. */
+"Your trial has now expired. To enjoy the benefits of editing your images with both Pixelmator Pro and its Photos extension as well as easily downloading, redownloading, and automatically updating Pixelmator Pro on all your computers purchase the app from the Mac App Store." = "회원님의 평가판이 이제 만료되었습니다. Pixelmator Pro와 사진 확장을 사용해 계속해서 이미지를 편집하고 모든 컴퓨터에서 Pixelmator Pro를 편하게 다운로드, 다시 다운로드, 자동 업데이트하려면 Mac App Store에서 해당 앱을 구입하시기 바랍니다.";
 
 /* No comment provided by engineer. */
 "Your trial period has now expired." = "체험 기간이 이제 만료되었습니다.";
