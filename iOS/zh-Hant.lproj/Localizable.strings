@@ -4,9 +4,6 @@
 /* crop aspect ratio */
 "%.2f:%d" = "%1$.2f:%2$d";
 
-/* Duplicated image name */
-"%@ copy" = "%@ 拷貝";
-
 /* seconds */
 "%@s" = "%@s";
 
@@ -16,14 +13,44 @@
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
 
+/* Actions count */
+"%i actions" = "%i 個操作";
+
+/* Processing count */
+"%i Images" = "%i 張影像";
+
+/* Processing count */
+"%i Images of %i" = "%2$i 張影像中的 %1$i 張";
+
+/* No comment provided by engineer. */
+"%i Images Selected" = "%i 張影像已選定";
+
 /* width x height */
 "%i x %i" = "%1$i x %2$i";
 
 /* Image bits per component */
 "%i-bits" = "%i 位元";
 
+/* Actions count */
+"1 action" = "1 個操作";
+
+/* Processing count */
+"1 Image" = "1 張影像";
+
+/* Processing count */
+"1 Image of %i" = "%i 張影像中的 1 張";
+
+/* No comment provided by engineer. */
+"1 Image Selected" = "1 張影像已選定";
+
+/* No comment provided by engineer. */
+"16 Bits/Channel" = "16位/通道";
+
 /* Color Balance */
 "3-Way Color" = "三路顏色";
+
+/* No comment provided by engineer. */
+"8 Bits/Channel" = "8位/通道";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "「%@」預設";
@@ -73,6 +100,12 @@
 /* No comment provided by engineer. */
 "Angle Scatter" = "角度散射";
 
+/* No comment provided by engineer. */
+"Apply" = "套用";
+
+/* No comment provided by engineer. */
+"Applying %@" = "套用 %@";
+
 /* Layer Arrange
    Tool */
 "Arrange" = "排列";
@@ -113,6 +146,15 @@
 /* Tool */
 "Basic" = "基本";
 
+/* Batch processing */
+"Batch" = "批量";
+
+/* No comment provided by engineer. */
+"Batch " = "批量";
+
+/* No comment provided by engineer. */
+"Batch edit multiple photos" = "批量編輯多張照片";
+
 /* No comment provided by engineer. */
 "Behind" = "後面";
 
@@ -124,9 +166,6 @@
 
 /* No comment provided by engineer. */
 "Black Point" = "黑點";
-
-/* No comment provided by engineer. */
-"Blacks" = "黑";
 
 /* No comment provided by engineer. */
 "Blending Mode" = "混合模式";
@@ -269,6 +308,9 @@
 "Constant" = "常數";
 
 /* No comment provided by engineer. */
+"Continue" = "繼續";
+
+/* No comment provided by engineer. */
 "Contrast" = "對比度";
 
 /* Used in gallery document duplicate. */
@@ -321,15 +363,27 @@
 /* Edit Menu */
 "Delete" = "刪除";
 
+/* No comment provided by engineer. */
+"Delete " = "刪除";
+
 /* Layer Management */
 "Delete Layer" = "刪除圖層";
+
+/* No comment provided by engineer. */
+"Depth Mask" = "深度蒙版";
 
 /* Retouch Tools
    Tool */
 "Desaturate" = "去色";
 
 /* No comment provided by engineer. */
+"Deselect All" = "取消全選";
+
+/* No comment provided by engineer. */
 "Detail" = "詳細資料";
+
+/* No comment provided by engineer. */
+"Details" = "詳細資訊";
 
 /* No comment provided by engineer. */
 "Difference" = "差異化";
@@ -344,6 +398,9 @@
 "Disc" = "磁碟";
 
 /* No comment provided by engineer. */
+"Discard Edits" = "放棄編輯";
+
+/* No comment provided by engineer. */
 "Display Style" = "顯示樣式";
 
 /* No comment provided by engineer. */
@@ -355,11 +412,17 @@
 /* No comment provided by engineer. */
 "Divide" = "分割";
 
+/* No comment provided by engineer. */
+"Done" = "完成";
+
 /* keyboard */
 "done" = "完成";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "雙頭箭頭";
+
+/* Processing count */
+"Downloading Image %i of %i" = "正在下載影像 - %1$i/%2$i";
 
 /* No comment provided by engineer. */
 "Droste" = "德羅斯特效應";
@@ -370,8 +433,20 @@
 /* Layer Management */
 "Duplicate Layer" = "重複圖層";
 
+/* Image opening */
+"Edit" = "編輯";
+
 /* No comment provided by engineer. */
 "Edit in Pixelmator Photo" = "在 Pixelmator Photo 中編輯";
+
+/* No comment provided by engineer. */
+"Edit JPEG Image" = "編輯 JPEG 影像";
+
+/* No comment provided by engineer. */
+"Edit Originals" = "編輯原件";
+
+/* No comment provided by engineer. */
+"Edit RAW Image" = "編輯 RAW 影像";
 
 /* Tool */
 "Effects" = "效果";
@@ -438,6 +513,9 @@
 
 /* No comment provided by engineer. */
 "Feature not enabled for this demo" = "當前演示版未啟用這個功能";
+
+/* No comment provided by engineer. */
+"Files" = "檔案";
 
 /* Effects category name */
 "Fill" = "填充";
@@ -600,13 +678,7 @@
 "Import" = "匯入";
 
 /* No comment provided by engineer. */
-"Import JPEG Image" = "匯入 JPEG 影像";
-
-/* No comment provided by engineer. */
 "Import Photo" = "匯入照片";
-
-/* No comment provided by engineer. */
-"Import RAW Image" = "匯入 RAW 影像";
 
 /* No comment provided by engineer. */
 "Import this image into Pixelmator Photo and open it for editing." = "將此影像匯入 Pixelmator Photo 并開啟以編輯。";
@@ -707,6 +779,9 @@
 "Linear Tilt-Shift Blur" = "線性傾斜-移位模糊";
 
 /* No comment provided by engineer. */
+"Linked Pixelmator Photo Files" = "已連結的 Pixelmator Photo 檔案";
+
+/* No comment provided by engineer. */
 "Load" = "載入";
 
 /* Document loading */
@@ -776,9 +851,6 @@
 "mm" = "公釐";
 
 /* No comment provided by engineer. */
-"Modified" = "已修改";
-
-/* No comment provided by engineer. */
 "Modify Original in Photos" = "在照片中修改原件";
 
 /* No comment provided by engineer. */
@@ -801,6 +873,9 @@
 
 /* No comment provided by engineer. */
 "New Layer" = "新建圖層";
+
+/* No comment provided by engineer. */
+"New Workflow" = "新工作流程";
 
 /* keyboard */
 "next" = "下一個";
@@ -831,6 +906,9 @@
 
 /* No comment provided by engineer. */
 "OK" = "好";
+
+/* No comment provided by engineer. */
+"Ok" = "好";
 
 /* No comment provided by engineer. */
 "Op" = "Op";
@@ -934,6 +1012,9 @@
 /* No comment provided by engineer. */
 "Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo 被拒絕訪問照片。請在「設定」中允許訪問。";
 
+/* No comment provided by engineer. */
+"Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photo 讓您能夠在照片圖庫中或在 iPad 上編輯影像，使用任一工作流程自動儲存非破壞性更改。要在瀏覽照片圖庫或 iPad 上的影像檔之間切換，請點按工具列中的「照片」或「檔案」。";
+
 /* Units */
 "Pixels" = "圖元";
 
@@ -964,6 +1045,9 @@
 /* No comment provided by engineer. */
 "Previous Preset" = "上一個預設組";
 
+/* Processing count */
+"Processing Image %i of %i" = "正在處理影像 - %1$i/%2$i";
+
 /* Units */
 "pt" = "點";
 
@@ -990,6 +1074,9 @@
 
 /* Layer creation */
 "Raw Layer" = "RAW 圖層";
+
+/* No comment provided by engineer. */
+"RAW+JPEG" = "RAW+JPEG";
 
 /* Tool */
 "Rectangle" = "矩形";
@@ -1045,6 +1132,9 @@
 
 /* No comment provided by engineer. */
 "Replace Color" = "替換顏色";
+
+/* No comment provided by engineer. */
+"Reset" = "重設";
 
 /* No comment provided by engineer. */
 "Reset %@" = "重設 %@";
@@ -1126,7 +1216,10 @@
 "Save Copy to Photos" = "將副本儲存到「照片」";
 
 /* No comment provided by engineer. */
-"Save the image to your Photos library." = "將影像保存到您的照片圖庫。";
+"Save the image to your Photos library." = "將影像儲存到您的照片圖庫。";
+
+/* No comment provided by engineer. */
+"Save to Album" = "儲存到相冊";
 
 /* No comment provided by engineer. */
 "Save to Photos" = "儲存到「照片」";
@@ -1155,8 +1248,17 @@
 /* No comment provided by engineer. */
 "Screen" = "螢幕";
 
+/* No comment provided by engineer. */
+"Select" = "選取";
+
+/* No comment provided by engineer. */
+"Select All" = "全選";
+
 /* Tool */
 "Select Column" = "選取列";
+
+/* No comment provided by engineer. */
+"Select Images" = "選擇影像";
 
 /* Tool */
 "Select Row" = "選取行";
@@ -1274,6 +1376,9 @@
 "Softness" = "軟度";
 
 /* No comment provided by engineer. */
+"Some of the selected images could not be processed." = "未能處理某些選定的影像。";
+
+/* No comment provided by engineer. */
 "Source Atop" = "來源於頂端";
 
 /* No comment provided by engineer. */
@@ -1334,6 +1439,9 @@
 "Sunbeams" = "日射";
 
 /* No comment provided by engineer. */
+"Switch between Photos library and Files" = "在照片圖庫和檔案間切換";
+
+/* No comment provided by engineer. */
 "Tail End Dynamics" = "尾端動態";
 
 /* No comment provided by engineer. */
@@ -1367,20 +1475,17 @@
 /* No comment provided by engineer. */
 "The image could not be exported." = "未能匯出影像。";
 
-/* No comment provided by engineer. */
-"The image could not be imported." = "未能匯入影像。";
-
-/* Image open error */
-"The image could not be imported. This RAW format may not be supported." = "無法匯入此影像。此 RAW 格式可能不被支援。";
-
 /* Image open error */
 "The image could not be opened." = "未能開啟影像。";
+
+/* Image open error */
+"The image could not be opened. This RAW format may not be supported." = "無法打開此影像。此 RAW 格式可能不被支援。";
 
 /* No comment provided by engineer. */
 "The image could not be saved." = "未能儲存影像。";
 
 /* No comment provided by engineer. */
-"The image could not be shared from your Photos library." = "無法從你的照片圖庫共享此影像。";
+"The image could not be shared to Pixelmator Photo." = "無法將此影像分享到 Pixelmator Photo。";
 
 /* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "此影像大小的最大圖層數為 %i";
@@ -1405,6 +1510,9 @@
 
 /* No comment provided by engineer. */
 "This image is too large to be opened on this device." = "此影像過大，無法在此裝置上開啟。";
+
+/* No comment provided by engineer. */
+"This Photo was edited and not synced. Continue editing?" = "此照片已被編輯且尚未同步。繼續編輯嗎？";
 
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library or it isn’t possible to modify the original." = "此照片未從你的照片圖庫匯入，或者無法修改原始檔。";
@@ -1438,6 +1546,9 @@
 
 /* from one color 'to' other color */
 "to" = "至";
+
+/* No comment provided by engineer. */
+"To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "要開始批量編輯照片，請先輕按右上角的「選擇」。 然後，選擇多張照片並輕按工具列中的「批量」。 最後，選擇已存在的批量工作流程或創建自己的工作流程，然後輕按「套用」。";
 
 /* No comment provided by engineer. */
 "Tone" = "調";
@@ -1476,13 +1587,13 @@
 "Unable to Export" = "無法匯出";
 
 /* No comment provided by engineer. */
-"Unable to Import Image" = "無法匯入影像";
-
-/* No comment provided by engineer. */
 "Unable to Modify" = "無法修改";
 
 /* No comment provided by engineer. */
 "Unable to Open Image" = "無法開啟影像";
+
+/* No comment provided by engineer. */
+"Unable to Process" = "無法處理";
 
 /* No comment provided by engineer. */
 "Unable to Save" = "無法儲存";
@@ -1504,6 +1615,9 @@
 
 /* No comment provided by engineer. */
 "Unlock %@" = "解鎖 %@";
+
+/* No comment provided by engineer. */
+"Unsynced Changes Found" = "找到尚未同步的更改";
 
 /* No comment provided by engineer. */
 "Untitled" = "未命名";
@@ -1549,6 +1663,24 @@
 
 /* No comment provided by engineer. */
 "White Balance" = "白平衡";
+
+/* No comment provided by engineer. */
+"With Export turned off, changes will be saved directly to your original images." = "匯出功能關閉時，更改將直接儲存在影像原件上。";
+
+/* No comment provided by engineer. */
+"With Export turned off, changes will be saved directly to your original images. You’ll be able to revert them in Photos or the Pixelmator Photo browser." = "匯出功能關閉時，更改將直接儲存在影像原件上。你之後可以在「照片」或 Pixelmator Photo 瀏覽介面中復原這些更改效果。";
+
+/* No comment provided by engineer. */
+"Workflow" = "工作流程";
+
+/* No comment provided by engineer. */
+"Workflow %i" = "工作流程 %i\n";
+
+/* No comment provided by engineer. */
+"Workflow Cancelled" = "工作流程已取消";
+
+/* No comment provided by engineer. */
+"Workflow Finished" = "工作流程已完成";
 
 /* Color adjustments */
 "Yellow / Blue" = "黃色/藍色";

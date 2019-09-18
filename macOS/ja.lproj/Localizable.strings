@@ -209,6 +209,9 @@
 "Angle: %@" = "角度: %@";
 
 /* No comment provided by engineer. */
+"Apple Pencil" = "Apple Pencil";
+
+/* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "本当にその場所で書類を変更してもいいですか？";
 
 /* No comment provided by engineer. */
@@ -254,7 +257,10 @@
 "Auto Select On" = "自動選択をオン";
 
 /* No comment provided by engineer. */
-"Auto Straighten" = "Auto Straighten";
+"Auto Straighten" = "自動矯正";
+
+/* No comment provided by engineer. */
+"Auto-Center" = "自動中央";
 
 /* No comment provided by engineer. */
 "B:" = "B:";
@@ -812,6 +818,9 @@
 "Enable Sharpening" = "シャープ化を有効にする";
 
 /* No comment provided by engineer. */
+"Enable Soft Proof Colors" = "ソフトプルーフカラーを有効";
+
+/* No comment provided by engineer. */
 "End Point" = "終了ポイント";
 
 /* No comment provided by engineer. */
@@ -973,17 +982,11 @@
 /* No comment provided by engineer. */
 "Fourfold Translated" = "4 方向変形";
 
-/* transform mode */
-"Free" = "空き";
-
 /* No comment provided by engineer. */
 "Free Select" = "フリー選択";
 
 /* No comment provided by engineer. */
 "Free Selection" = "フリー選択";
-
-/* No comment provided by engineer. */
-"Free Transform" = "自由変形";
 
 /* No comment provided by engineer. */
 "Freeform" = "フリーフォーム";
@@ -1430,13 +1433,16 @@
 "Minimum Opacity" = "最小不透明度";
 
 /* No comment provided by engineer. */
+"ML Denoise" = "MLノイズ除去";
+
+/* No comment provided by engineer. */
 "ML Enhance" = "ML Enhance";
 
 /* No comment provided by engineer. */
-"ML Match Colors" = "MLで色を合わせる";
+"ML Match Colors" = "ML カラーマッチ";
 
 /* No comment provided by engineer. */
-"ML Match Colors..." = "MLでカラーを合わせる...";
+"ML Match Colors..." = "ML カラーマッチ...";
 
 /* No comment provided by engineer. */
 "mm" = "ミリ";
@@ -1512,6 +1518,9 @@
 
 /* No comment provided by engineer. */
 "New..." = "新規作成...";
+
+/* No comment provided by engineer. */
+"No Color Profile" = "カラープロファイルなし";
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "ノイズ低減";
@@ -1903,11 +1912,14 @@
 /* No comment provided by engineer. */
 "Reset Styles" = "スタイルをリセット";
 
-/* No comment provided by engineer. */
+/* transform mode */
 "Resize" = "リサイズ";
 
 /* No comment provided by engineer. */
 "Resize Slices" = "スライスのリサイズ";
+
+/* No comment provided by engineer. */
+"Resize Transform" = "サイズ変更";
 
 /* No comment provided by engineer. */
 "Restore" = "復元";
@@ -2330,6 +2342,9 @@
 "Soft Light" = "ソフトライト";
 
 /* No comment provided by engineer. */
+"Soft Proof with %@" = "%@でソフトプルーフ";
+
+/* No comment provided by engineer. */
 "Soften" = "和らげる";
 
 /* No comment provided by engineer. */
@@ -2474,6 +2489,12 @@
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF形式は、複数のレイヤーやその他の追加の書式情報をサポートしていません。これらの情報を保持するには、イメージをPixelmator Pro書類として保存します。";
 
 /* No comment provided by engineer. */
+"The photo couldn’t be opened." = "写真を開けません。";
+
+/* No comment provided by engineer. */
+"The Pixelmator Pro Photos extension was unable to open the photo in the Photos Library. A photo preview will be opened instead." = "Pixelmator Pro写真機能拡張は写真ライブラリの写真を開くことができません。代わりに写真のプレビューで開きます。";
+
+/* No comment provided by engineer. */
 "The “%@” document is damaged, or isn’t compatible with %@ %@." = "書類“%1$@”は破損している、または%2$@ %3$@と互換性がありません。";
 
 /* No comment provided by engineer. */
@@ -2555,6 +2576,9 @@
 "Try (%i days remaining)" = "試用する (残り%i日)";
 
 /* No comment provided by engineer. */
+"Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of Pro Display XDR." = "Pro Display XDR の最大画面輝度を使用して非表示のハイライトの詳細を表示するには、拡張ダイナミックレンジモードをオンにします。";
+
+/* No comment provided by engineer. */
 "Twelvefold" = "12倍";
 
 /* No comment provided by engineer. */
@@ -2621,7 +2645,7 @@
 "Vignette" = "ビネット";
 
 /* No comment provided by engineer. */
-"Vignette Softness" = "Vignette Softness";
+"Vignette Softness" = "ビネットの柔らかさ";
 
 /* No comment provided by engineer. */
 "Vivid Light" = "ビビッドライト";
@@ -2703,6 +2727,12 @@
 
 /* No comment provided by engineer. */
 "Zoom" = "拡大／縮小";
+
+/* No comment provided by engineer. */
+"Zoom In" = "ズームイン";
+
+/* No comment provided by engineer. */
+"Zoom Out" = "ズームアウト";
 
 /* No comment provided by engineer. */
 "Zoom to Fit" = "ウインドウに合わせる";

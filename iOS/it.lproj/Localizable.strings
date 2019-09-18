@@ -4,9 +4,6 @@
 /* crop aspect ratio */
 "%.2f:%d" = "%1$.2f:%2$d";
 
-/* Duplicated image name */
-"%@ copy" = "Copia di %@";
-
 /* seconds */
 "%@s" = "%@s";
 
@@ -16,14 +13,44 @@
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
 
+/* Actions count */
+"%i actions" = "%i azioni";
+
+/* Processing count */
+"%i Images" = "%i Immagini";
+
+/* Processing count */
+"%i Images of %i" = "%1$i immagini di %2$i";
+
+/* No comment provided by engineer. */
+"%i Images Selected" = "%i immagini selezionate";
+
 /* width x height */
 "%i x %i" = "%1$i x %2$i";
 
 /* Image bits per component */
 "%i-bits" = "%i-bit";
 
+/* Actions count */
+"1 action" = "1 azione";
+
+/* Processing count */
+"1 Image" = "1 immagine";
+
+/* Processing count */
+"1 Image of %i" = "1 immagine di %i";
+
+/* No comment provided by engineer. */
+"1 Image Selected" = "1 immagine selezionata";
+
+/* No comment provided by engineer. */
+"16 Bits/Channel" = "16 bit/canale";
+
 /* Color Balance */
 "3-Way Color" = "Colore a 3 vie";
+
+/* No comment provided by engineer. */
+"8 Bits/Channel" = "8 bit/canale";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "Preset \"%@\"";
@@ -73,6 +100,12 @@
 /* No comment provided by engineer. */
 "Angle Scatter" = "Angolo di dispersione";
 
+/* No comment provided by engineer. */
+"Apply" = "Applica";
+
+/* No comment provided by engineer. */
+"Applying %@" = "Applicazione %@";
+
 /* Layer Arrange
    Tool */
 "Arrange" = "Disponi";
@@ -113,6 +146,15 @@
 /* Tool */
 "Basic" = "Di base";
 
+/* Batch processing */
+"Batch" = "Batch";
+
+/* No comment provided by engineer. */
+"Batch " = "Batch ";
+
+/* No comment provided by engineer. */
+"Batch edit multiple photos" = "Modifica in batch più foto";
+
 /* No comment provided by engineer. */
 "Behind" = "Dietro";
 
@@ -124,9 +166,6 @@
 
 /* No comment provided by engineer. */
 "Black Point" = "Punto di nero";
-
-/* No comment provided by engineer. */
-"Blacks" = "Neri";
 
 /* No comment provided by engineer. */
 "Blending Mode" = "Metodo di fusione";
@@ -269,6 +308,9 @@
 "Constant" = "Costante";
 
 /* No comment provided by engineer. */
+"Continue" = "Continua";
+
+/* No comment provided by engineer. */
 "Contrast" = "Contrasto";
 
 /* Used in gallery document duplicate. */
@@ -321,15 +363,27 @@
 /* Edit Menu */
 "Delete" = "Elim.";
 
+/* No comment provided by engineer. */
+"Delete " = "Elimina ";
+
 /* Layer Management */
 "Delete Layer" = "Elimina livello";
+
+/* No comment provided by engineer. */
+"Depth Mask" = "Maschera di profondità";
 
 /* Retouch Tools
    Tool */
 "Desaturate" = "Desatura";
 
 /* No comment provided by engineer. */
+"Deselect All" = "Deseleziona tutto";
+
+/* No comment provided by engineer. */
 "Detail" = "Dettaglio";
+
+/* No comment provided by engineer. */
+"Details" = "Dettagli";
 
 /* No comment provided by engineer. */
 "Difference" = "Differenza";
@@ -344,6 +398,9 @@
 "Disc" = "Disco";
 
 /* No comment provided by engineer. */
+"Discard Edits" = "Elimina modifiche";
+
+/* No comment provided by engineer. */
 "Display Style" = "Stile di visualizzazione";
 
 /* No comment provided by engineer. */
@@ -355,11 +412,17 @@
 /* No comment provided by engineer. */
 "Divide" = "Dividi";
 
+/* No comment provided by engineer. */
+"Done" = "Fatto";
+
 /* keyboard */
 "done" = "fatto";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Freccia a due punte";
+
+/* Processing count */
+"Downloading Image %i of %i" = "Download in corso dell'immagine %1$i di %2$i";
 
 /* No comment provided by engineer. */
 "Droste" = "Effetto droste";
@@ -370,8 +433,20 @@
 /* Layer Management */
 "Duplicate Layer" = "Duplica livello";
 
+/* Image opening */
+"Edit" = "Modifica";
+
 /* No comment provided by engineer. */
 "Edit in Pixelmator Photo" = "Modifica in Pixelmator Photo";
+
+/* No comment provided by engineer. */
+"Edit JPEG Image" = "Modifica immagine JPEG";
+
+/* No comment provided by engineer. */
+"Edit Originals" = "Modifica originali";
+
+/* No comment provided by engineer. */
+"Edit RAW Image" = "Modifica immagine RAW";
 
 /* Tool */
 "Effects" = "Effetti";
@@ -438,6 +513,9 @@
 
 /* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Funzionalità non abilitata per questa demo";
+
+/* No comment provided by engineer. */
+"Files" = "File";
 
 /* Effects category name */
 "Fill" = "Riempi";
@@ -600,13 +678,7 @@
 "Import" = "Importa";
 
 /* No comment provided by engineer. */
-"Import JPEG Image" = "Importa immagine JPEG";
-
-/* No comment provided by engineer. */
 "Import Photo" = "Importa foto";
-
-/* No comment provided by engineer. */
-"Import RAW Image" = "Importa immagine RAW";
 
 /* No comment provided by engineer. */
 "Import this image into Pixelmator Photo and open it for editing." = "Importa questa immagine in Pixelmator Photo ed aprila per modificarla.";
@@ -707,6 +779,9 @@
 "Linear Tilt-Shift Blur" = "Sfocatura lineare tilt-shift";
 
 /* No comment provided by engineer. */
+"Linked Pixelmator Photo Files" = "File Pixelmator Photo collegati";
+
+/* No comment provided by engineer. */
 "Load" = "Carica";
 
 /* Document loading */
@@ -776,9 +851,6 @@
 "mm" = "mm";
 
 /* No comment provided by engineer. */
-"Modified" = "Modificato";
-
-/* No comment provided by engineer. */
 "Modify Original in Photos" = "Modifica l'originale nelle Foto";
 
 /* No comment provided by engineer. */
@@ -801,6 +873,9 @@
 
 /* No comment provided by engineer. */
 "New Layer" = "Nuovo livello";
+
+/* No comment provided by engineer. */
+"New Workflow" = "Nuovo flusso di lavoro";
 
 /* keyboard */
 "next" = "successivo";
@@ -831,6 +906,9 @@
 
 /* No comment provided by engineer. */
 "OK" = "OK";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
 
 /* No comment provided by engineer. */
 "Op" = "Ottico";
@@ -934,6 +1012,9 @@
 /* No comment provided by engineer. */
 "Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "È stato negato l'accesso alle Foto a Pixelmator Photo. Autorizza l'accesso nelle impostazioni.";
 
+/* No comment provided by engineer. */
+"Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photo ti permette di modificare le immagini nella libreria foto o sul tuo iPad, salvando automaticamente le modifiche non distruttive con entrambi i flussi di lavoro. Per navigare nella libreria di foto o sfogliare i file immagine sul tuo iPad, tocca Foto o File nella barra degli strumenti.";
+
 /* Units */
 "Pixels" = "Pixel";
 
@@ -964,6 +1045,9 @@
 /* No comment provided by engineer. */
 "Previous Preset" = "Preset precedente";
 
+/* Processing count */
+"Processing Image %i of %i" = "Elaborazione dell'immagine %1$i di %2$i";
+
 /* Units */
 "pt" = "pt";
 
@@ -990,6 +1074,9 @@
 
 /* Layer creation */
 "Raw Layer" = "Livello raw";
+
+/* No comment provided by engineer. */
+"RAW+JPEG" = "RAW+JPEG";
 
 /* Tool */
 "Rectangle" = "Rettangolo";
@@ -1045,6 +1132,9 @@
 
 /* No comment provided by engineer. */
 "Replace Color" = "Sostituisci";
+
+/* No comment provided by engineer. */
+"Reset" = "Reimposta";
 
 /* No comment provided by engineer. */
 "Reset %@" = "Ripristina %@";
@@ -1129,6 +1219,9 @@
 "Save the image to your Photos library." = "Salva l'immagine nella tua libreria di Foto.";
 
 /* No comment provided by engineer. */
+"Save to Album" = "Salva nell'album";
+
+/* No comment provided by engineer. */
 "Save to Photos" = "Salva in Foto";
 
 /* No comment provided by engineer. */
@@ -1155,8 +1248,17 @@
 /* No comment provided by engineer. */
 "Screen" = "Schermo";
 
+/* No comment provided by engineer. */
+"Select" = "Seleziona";
+
+/* No comment provided by engineer. */
+"Select All" = "Seleziona tutto";
+
 /* Tool */
 "Select Column" = "Seleziona colonna";
+
+/* No comment provided by engineer. */
+"Select Images" = "Seleziona immagini";
 
 /* Tool */
 "Select Row" = "Seleziona riga";
@@ -1274,6 +1376,9 @@
 "Softness" = "Morbidezza";
 
 /* No comment provided by engineer. */
+"Some of the selected images could not be processed." = "Alcune delle immagini selezionate non possono essere elaborate.";
+
+/* No comment provided by engineer. */
 "Source Atop" = "Sorgente Atop";
 
 /* No comment provided by engineer. */
@@ -1334,6 +1439,9 @@
 "Sunbeams" = "Raggi di sole";
 
 /* No comment provided by engineer. */
+"Switch between Photos library and Files" = "Passa dalla libreria di foto ai file";
+
+/* No comment provided by engineer. */
 "Tail End Dynamics" = "Dinamica estremità finale";
 
 /* No comment provided by engineer. */
@@ -1367,20 +1475,17 @@
 /* No comment provided by engineer. */
 "The image could not be exported." = "L'immagine non può essere esportata.";
 
-/* No comment provided by engineer. */
-"The image could not be imported." = "L'immagine non può essere importata.";
-
-/* Image open error */
-"The image could not be imported. This RAW format may not be supported." = "Impossibile importare l'immagine. Questo formato RAW potrebbe non essere supportato.";
-
 /* Image open error */
 "The image could not be opened." = "L'immagine non può essere aperta.";
+
+/* Image open error */
+"The image could not be opened. This RAW format may not be supported." = "Impossibile aprire l'immagine. Questo formato RAW potrebbe non essere supportato.";
 
 /* No comment provided by engineer. */
 "The image could not be saved." = "L'immagine non può essere salvata.";
 
 /* No comment provided by engineer. */
-"The image could not be shared from your Photos library." = "L'immagine non può essere condivisa dalla tua libreria Foto.";
+"The image could not be shared to Pixelmator Photo." = "Impossibile condividere l'immagine con Pixelmator Photo.";
 
 /* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "Il numero massimo di livelli per questa dimensione dell'immagine è %i";
@@ -1405,6 +1510,9 @@
 
 /* No comment provided by engineer. */
 "This image is too large to be opened on this device." = "Questa immagine è troppo grande per essere aperta su questo dispositivo.";
+
+/* No comment provided by engineer. */
+"This Photo was edited and not synced. Continue editing?" = "Questa foto è stata modificata e non sincronizzata. Vuoi continuare la modifica?";
 
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library or it isn’t possible to modify the original." = "Questa foto non è stata importata dalla tua libreria Foto oppure non è possibile modificare l'originale.";
@@ -1438,6 +1546,9 @@
 
 /* from one color 'to' other color */
 "to" = "a";
+
+/* No comment provided by engineer. */
+"To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "Per iniziare la modifica in batch delle foto, tocca Seleziona nell'angolo in alto a destra. Quindi seleziona più foto e tocca Batch nella barra degli strumenti. Infine, scegli semplicemente uno dei flussi di lavoro in batch inclusi o creane uno tuo e tocca Applica.";
 
 /* No comment provided by engineer. */
 "Tone" = "Tono";
@@ -1476,13 +1587,13 @@
 "Unable to Export" = "Impossibile esportare";
 
 /* No comment provided by engineer. */
-"Unable to Import Image" = "Impossibile importare l'immagine";
-
-/* No comment provided by engineer. */
 "Unable to Modify" = "Impossibile modificare";
 
 /* No comment provided by engineer. */
 "Unable to Open Image" = "Impossibile aprire l'immagine";
+
+/* No comment provided by engineer. */
+"Unable to Process" = "Impossibile elaborare";
 
 /* No comment provided by engineer. */
 "Unable to Save" = "Impossibile salvare";
@@ -1504,6 +1615,9 @@
 
 /* No comment provided by engineer. */
 "Unlock %@" = "Sblocca %@";
+
+/* No comment provided by engineer. */
+"Unsynced Changes Found" = "Rilevate modifiche non sincronizzate";
 
 /* No comment provided by engineer. */
 "Untitled" = "Senza titolo";
@@ -1549,6 +1663,24 @@
 
 /* No comment provided by engineer. */
 "White Balance" = "Bilanciamento bianco";
+
+/* No comment provided by engineer. */
+"With Export turned off, changes will be saved directly to your original images." = "Con la funzione Esporta disattivata, le modifiche verranno salvate direttamente nelle immagini originali.";
+
+/* No comment provided by engineer. */
+"With Export turned off, changes will be saved directly to your original images. You’ll be able to revert them in Photos or the Pixelmator Photo browser." = "Con la funzione Esporta disattivata, le modifiche verranno salvate direttamente nelle immagini originali. Sarai in grado di ripristinarle nelle Foto o nel browser Pixelmator Photo.";
+
+/* No comment provided by engineer. */
+"Workflow" = "Flusso di lavoro";
+
+/* No comment provided by engineer. */
+"Workflow %i" = "Flusso di lavoro %i";
+
+/* No comment provided by engineer. */
+"Workflow Cancelled" = "Flusso di lavoro annullato";
+
+/* No comment provided by engineer. */
+"Workflow Finished" = "Flusso di lavoro terminato";
 
 /* Color adjustments */
 "Yellow / Blue" = "Giallo / Blu";

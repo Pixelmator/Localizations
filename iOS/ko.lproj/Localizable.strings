@@ -4,9 +4,6 @@
 /* crop aspect ratio */
 "%.2f:%d" = "%1$.2f:%2$d";
 
-/* Duplicated image name */
-"%@ copy" = "%@ 복사본";
-
 /* seconds */
 "%@s" = "%@초";
 
@@ -16,14 +13,44 @@
 /* crop aspect ratio */
 "%d:%d" = "%1$d:%2$d";
 
+/* Actions count */
+"%i actions" = "%i개의 작업";
+
+/* Processing count */
+"%i Images" = "%i개의 이미지";
+
+/* Processing count */
+"%i Images of %i" = "%1$i / %2$i 이미지";
+
+/* No comment provided by engineer. */
+"%i Images Selected" = "%i개의 이미지가 선택됨";
+
 /* width x height */
 "%i x %i" = "%1$i x %2$i";
 
 /* Image bits per component */
 "%i-bits" = "%i비트";
 
+/* Actions count */
+"1 action" = "1개의 작업";
+
+/* Processing count */
+"1 Image" = "1개의 이미지";
+
+/* Processing count */
+"1 Image of %i" = "1 / %i 이미지";
+
+/* No comment provided by engineer. */
+"1 Image Selected" = "1개의 이미지가 선택됨";
+
+/* No comment provided by engineer. */
+"16 Bits/Channel" = "16비트/채널";
+
 /* Color Balance */
 "3-Way Color" = "3방향 색상";
+
+/* No comment provided by engineer. */
+"8 Bits/Channel" = "8비트/채널";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "\"%@\" 프리셋";
@@ -73,6 +100,12 @@
 /* No comment provided by engineer. */
 "Angle Scatter" = "각도 분산";
 
+/* No comment provided by engineer. */
+"Apply" = "적용";
+
+/* No comment provided by engineer. */
+"Applying %@" = "%@ 적용 중";
+
 /* Layer Arrange
    Tool */
 "Arrange" = "정렬";
@@ -113,6 +146,15 @@
 /* Tool */
 "Basic" = "기본";
 
+/* Batch processing */
+"Batch" = "일괄 처리";
+
+/* No comment provided by engineer. */
+"Batch " = "일괄 처리 ";
+
+/* No comment provided by engineer. */
+"Batch edit multiple photos" = "여러 장의 사진 일괄 편집";
+
 /* No comment provided by engineer. */
 "Behind" = "뒤";
 
@@ -124,9 +166,6 @@
 
 /* No comment provided by engineer. */
 "Black Point" = "검정 포인트";
-
-/* No comment provided by engineer. */
-"Blacks" = "검정";
 
 /* No comment provided by engineer. */
 "Blending Mode" = "혼합 모드";
@@ -269,6 +308,9 @@
 "Constant" = "상수";
 
 /* No comment provided by engineer. */
+"Continue" = "계속";
+
+/* No comment provided by engineer. */
 "Contrast" = "대비";
 
 /* Used in gallery document duplicate. */
@@ -321,15 +363,27 @@
 /* Edit Menu */
 "Delete" = "삭제";
 
+/* No comment provided by engineer. */
+"Delete " = "삭제 ";
+
 /* Layer Management */
 "Delete Layer" = "레이어 삭제";
+
+/* No comment provided by engineer. */
+"Depth Mask" = "심도 마스크";
 
 /* Retouch Tools
    Tool */
 "Desaturate" = "흐리기";
 
 /* No comment provided by engineer. */
+"Deselect All" = "모두 삭제 취소";
+
+/* No comment provided by engineer. */
 "Detail" = "세부 사항";
+
+/* No comment provided by engineer. */
+"Details" = "세부 사항";
 
 /* No comment provided by engineer. */
 "Difference" = "차이";
@@ -344,6 +398,9 @@
 "Disc" = "디스크";
 
 /* No comment provided by engineer. */
+"Discard Edits" = "편집본 삭제";
+
+/* No comment provided by engineer. */
 "Display Style" = "디스플레이 스타일";
 
 /* No comment provided by engineer. */
@@ -355,11 +412,17 @@
 /* No comment provided by engineer. */
 "Divide" = "나누기";
 
+/* No comment provided by engineer. */
+"Done" = "완료";
+
 /* keyboard */
 "done" = "완료";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "양방향 화살표";
+
+/* Processing count */
+"Downloading Image %i of %i" = "%1$i / %2$i 이미지 다운로드 중";
 
 /* No comment provided by engineer. */
 "Droste" = "드로스테";
@@ -370,8 +433,20 @@
 /* Layer Management */
 "Duplicate Layer" = "레이어 복제";
 
+/* Image opening */
+"Edit" = "편집";
+
 /* No comment provided by engineer. */
 "Edit in Pixelmator Photo" = "Pixelmator Photo에서 편집하기";
+
+/* No comment provided by engineer. */
+"Edit JPEG Image" = "JPEG 이미지 편집";
+
+/* No comment provided by engineer. */
+"Edit Originals" = "원본 편집";
+
+/* No comment provided by engineer. */
+"Edit RAW Image" = "RAW 이미지 편집";
 
 /* Tool */
 "Effects" = "효과";
@@ -438,6 +513,9 @@
 
 /* No comment provided by engineer. */
 "Feature not enabled for this demo" = "이 데모 버전은 지원하지 않는 기능입니다";
+
+/* No comment provided by engineer. */
+"Files" = "파일";
 
 /* Effects category name */
 "Fill" = "채우기";
@@ -600,13 +678,7 @@
 "Import" = "가져오기";
 
 /* No comment provided by engineer. */
-"Import JPEG Image" = "JPEG 이미지 가져오기";
-
-/* No comment provided by engineer. */
 "Import Photo" = "사진 가져오기";
-
-/* No comment provided by engineer. */
-"Import RAW Image" = "RAW 이미지 가져오기";
 
 /* No comment provided by engineer. */
 "Import this image into Pixelmator Photo and open it for editing." = "이 이미지를 Pixelmator Photo로 가져와서 편집하기 위해 엽니다.";
@@ -707,6 +779,9 @@
 "Linear Tilt-Shift Blur" = "선형 기울기-시프트 블러";
 
 /* No comment provided by engineer. */
+"Linked Pixelmator Photo Files" = "연결된 Pixelmator Photo 파일";
+
+/* No comment provided by engineer. */
 "Load" = "로드";
 
 /* Document loading */
@@ -776,9 +851,6 @@
 "mm" = "mm";
 
 /* No comment provided by engineer. */
-"Modified" = "수정됨";
-
-/* No comment provided by engineer. */
 "Modify Original in Photos" = "사진에서 원본 수정";
 
 /* No comment provided by engineer. */
@@ -801,6 +873,9 @@
 
 /* No comment provided by engineer. */
 "New Layer" = "새 레이어";
+
+/* No comment provided by engineer. */
+"New Workflow" = "새 작업 흐름";
 
 /* keyboard */
 "next" = "다음";
@@ -831,6 +906,9 @@
 
 /* No comment provided by engineer. */
 "OK" = "확인";
+
+/* No comment provided by engineer. */
+"Ok" = "확인";
 
 /* No comment provided by engineer. */
 "Op" = "오프";
@@ -934,6 +1012,9 @@
 /* No comment provided by engineer. */
 "Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo에 대해 사진 접근이 거부되었습니다. 설정에서 접근을 허용하세요.";
 
+/* No comment provided by engineer. */
+"Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photo를 사용해 사진 보관함 또는 iPad에 있는 이미지를 편집하고, 작업 흐름을 선택해서 비파괴적 변경 내용을 자동으로 저장할 수 있습니다. 사진 보관함 또는 iPad의 이미지 파일 사이에 탐색을 전환하려면 도구 모음에서 파일 또는 사진을 탭하세요.";
+
 /* Units */
 "Pixels" = "픽셀";
 
@@ -964,6 +1045,9 @@
 /* No comment provided by engineer. */
 "Previous Preset" = "이전 프리셋";
 
+/* Processing count */
+"Processing Image %i of %i" = "%1$i / %2$i 이미지 처리 중";
+
 /* Units */
 "pt" = "pt";
 
@@ -990,6 +1074,9 @@
 
 /* Layer creation */
 "Raw Layer" = "원시 레이어";
+
+/* No comment provided by engineer. */
+"RAW+JPEG" = "RAW+JPEG";
 
 /* Tool */
 "Rectangle" = "사각형";
@@ -1045,6 +1132,9 @@
 
 /* No comment provided by engineer. */
 "Replace Color" = "색상 대치";
+
+/* No comment provided by engineer. */
+"Reset" = "재설정";
 
 /* No comment provided by engineer. */
 "Reset %@" = "%@ 재설정";
@@ -1129,6 +1219,9 @@
 "Save the image to your Photos library." = "이미지를 사진 보관함에 저장합니다.";
 
 /* No comment provided by engineer. */
+"Save to Album" = "앨범에 저장";
+
+/* No comment provided by engineer. */
 "Save to Photos" = "사진에 저장";
 
 /* No comment provided by engineer. */
@@ -1155,8 +1248,17 @@
 /* No comment provided by engineer. */
 "Screen" = "화면";
 
+/* No comment provided by engineer. */
+"Select" = "선택";
+
+/* No comment provided by engineer. */
+"Select All" = "전체 선택";
+
 /* Tool */
 "Select Column" = "열 선택";
+
+/* No comment provided by engineer. */
+"Select Images" = "이미지 선택";
 
 /* Tool */
 "Select Row" = "행 선택";
@@ -1274,6 +1376,9 @@
 "Softness" = "부드러움";
 
 /* No comment provided by engineer. */
+"Some of the selected images could not be processed." = "선택된 이미지 중 일부를 처리할 수 없습니다.";
+
+/* No comment provided by engineer. */
 "Source Atop" = "원본 꼭대기";
 
 /* No comment provided by engineer. */
@@ -1334,6 +1439,9 @@
 "Sunbeams" = "태양광";
 
 /* No comment provided by engineer. */
+"Switch between Photos library and Files" = "사진 보관함 및 파일 간 전환";
+
+/* No comment provided by engineer. */
 "Tail End Dynamics" = "테일 엔드 다이내믹스";
 
 /* No comment provided by engineer. */
@@ -1367,20 +1475,17 @@
 /* No comment provided by engineer. */
 "The image could not be exported." = "이미지를 내보내지 못했습니다.";
 
-/* No comment provided by engineer. */
-"The image could not be imported." = "이미지를 가져오지 못했습니다.";
-
-/* Image open error */
-"The image could not be imported. This RAW format may not be supported." = "이미지를 가져오지 못했습니다. 이 RAW 포맷은 지원되지 않는 것 같습니다.";
-
 /* Image open error */
 "The image could not be opened." = "이미지를 열지 못했습니다.";
+
+/* Image open error */
+"The image could not be opened. This RAW format may not be supported." = "이미지를 열지 못했습니다. 이 RAW 포맷은 지원되지 않는 것 같습니다.";
 
 /* No comment provided by engineer. */
 "The image could not be saved." = "이미지를 저장하지 못했습니다.";
 
 /* No comment provided by engineer. */
-"The image could not be shared from your Photos library." = "이미지를 사진 보관함으로부터 공유하지 못했습니다.";
+"The image could not be shared to Pixelmator Photo." = "이미지를 Pixelmator Photo에 공유하지 못했습니다.";
 
 /* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "이 이미지 크기에 대한 최대 레이어 수는 %i입니다";
@@ -1405,6 +1510,9 @@
 
 /* No comment provided by engineer. */
 "This image is too large to be opened on this device." = "이 이미지는 너무 커서 이 장치에서 열 수 없습니다.";
+
+/* No comment provided by engineer. */
+"This Photo was edited and not synced. Continue editing?" = "이 사진은 편집되었으나 동기화되지 않았습니다. 계속 편집하시겠습니까?";
 
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library or it isn’t possible to modify the original." = "이 사진은 사진 보관함에서 가져오지 않았거나 원본을 수정할 수 없습니다.";
@@ -1438,6 +1546,9 @@
 
 /* from one color 'to' other color */
 "to" = "대상";
+
+/* No comment provided by engineer. */
+"To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "사진 일괄 편집을 시작하려면 먼저 우측 상단 모서리에 있는 선택을 탭합니다. 그런 다음, 여러 장의 사진을 선택하고 도구 모음에서 일괄 처리를 탭합니다. 마지막으로, 포함된 일괄 처리 작업 흐름 중 하나를 선택하거나 사용자 지정 작업 흐름을 생성하고 적용을 탭합니다.";
 
 /* No comment provided by engineer. */
 "Tone" = "톤";
@@ -1476,13 +1587,13 @@
 "Unable to Export" = "내보낼 수 없습니다";
 
 /* No comment provided by engineer. */
-"Unable to Import Image" = "이미지를 가져올 수 없습니다";
-
-/* No comment provided by engineer. */
 "Unable to Modify" = "수정할 수 없습니다";
 
 /* No comment provided by engineer. */
 "Unable to Open Image" = "이미지를 열 수 없습니다";
+
+/* No comment provided by engineer. */
+"Unable to Process" = "처리할 수 없습니다";
 
 /* No comment provided by engineer. */
 "Unable to Save" = "저장할 수 없습니다";
@@ -1504,6 +1615,9 @@
 
 /* No comment provided by engineer. */
 "Unlock %@" = "%@ 잠금 해제";
+
+/* No comment provided by engineer. */
+"Unsynced Changes Found" = "동기화되지 않은 변경 내용이 발견됨";
 
 /* No comment provided by engineer. */
 "Untitled" = "제목 없음";
@@ -1549,6 +1663,24 @@
 
 /* No comment provided by engineer. */
 "White Balance" = "화이트 밸런스";
+
+/* No comment provided by engineer. */
+"With Export turned off, changes will be saved directly to your original images." = "내보내기가 비활성화된 경우 변경 내용은 원본 이미지에 직접 저장됩니다.";
+
+/* No comment provided by engineer. */
+"With Export turned off, changes will be saved directly to your original images. You’ll be able to revert them in Photos or the Pixelmator Photo browser." = "내보내기가 비활성화된 경우 변경 내용은 원본 이미지에 직접 저장됩니다. 사진 또는 Pixelmator Photo 브라우저에서 변경 내용을 되돌릴 수 있습니다.";
+
+/* No comment provided by engineer. */
+"Workflow" = "작업 흐름";
+
+/* No comment provided by engineer. */
+"Workflow %i" = "작업 흐름 %i";
+
+/* No comment provided by engineer. */
+"Workflow Cancelled" = "작업흐름이 취소됨";
+
+/* No comment provided by engineer. */
+"Workflow Finished" = "작업 흐름이 완료됨";
 
 /* Color adjustments */
 "Yellow / Blue" = "노랑 / 파랑";
