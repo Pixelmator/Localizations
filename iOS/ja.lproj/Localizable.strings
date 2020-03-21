@@ -92,6 +92,9 @@
 "All Photos" = "すべての写真";
 
 /* No comment provided by engineer. */
+"An unknown error occurred." = "不明なエラーが起きました。";
+
+/* No comment provided by engineer. */
 "Angle" = "角度";
 
 /* No comment provided by engineer. */
@@ -192,6 +195,12 @@
 "Bottom" = "下";
 
 /* No comment provided by engineer. */
+"Bottom Left" = "左下";
+
+/* No comment provided by engineer. */
+"Bottom Right" = "右下";
+
+/* No comment provided by engineer. */
 "Box" = "ボックス";
 
 /* Color adjustments */
@@ -238,6 +247,9 @@
 
 /* No comment provided by engineer. */
 "Checkerboard" = "チェッカーボード";
+
+/* No comment provided by engineer. */
+"Choose Location" = "場所を選択";
 
 /* No comment provided by engineer. */
 "Chromatic Noise Tracking" = "色ノイズ追跡";
@@ -373,6 +385,9 @@
 "Delete Linked File" = "リンクしたファイルを削除";
 
 /* No comment provided by engineer. */
+"Deleting..." = "削除中...";
+
+/* No comment provided by engineer. */
 "Depth Mask" = "深度マスク";
 
 /* Retouch Tools
@@ -383,10 +398,10 @@
 "Deselect All" = "すべての選択を解除";
 
 /* No comment provided by engineer. */
-"Detail" = "詳細";
+"Destructive" = "破壊";
 
 /* No comment provided by engineer. */
-"Details" = "詳細";
+"Detail" = "詳細";
 
 /* No comment provided by engineer. */
 "Difference" = "差の絶対値";
@@ -524,7 +539,13 @@
 "Failed to set one or more extended attributes." = "拡張属性の設定に失敗しました。";
 
 /* No comment provided by engineer. */
+"Favorite" = "お気に入り";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "このデモ版で無効になっている機能";
+
+/* No comment provided by engineer. */
+"Files" = "ファイル";
 
 /* Effects category name */
 "Fill" = "べた塗り";
@@ -732,6 +753,9 @@
 /* No comment provided by engineer. */
 "Invert" = "反転";
 
+/* Image save error */
+"It is not possible to save your image to this location. Would you like to save it somewhere else?" = "この場所に画像を保存することはできません。 別の場所に保存しますか？";
+
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "元の写真が見つかりません。";
 
@@ -821,6 +845,9 @@
 "Lock %@" = "%@をロック";
 
 /* No comment provided by engineer. */
+"Locked adjustments will not be modified by presets, ML Enhance, or ML Match Colors." = "ロックされた調整は、プリセット、MLエンハンス、またはMLカラーマッチによって変更されません。";
+
+/* No comment provided by engineer. */
 "Locked Layer" = "ロックされたレイヤー";
 
 /* No comment provided by engineer. */
@@ -874,11 +901,23 @@
 /* No comment provided by engineer. */
 "ML Enhance" = "ML Enhance";
 
+/* No comment provided by engineer. */
+"ML Match Colors" = "ML カラーマッチ";
+
+/* No comment provided by engineer. */
+"ML Super Resolution" = "ML Super Resolution";
+
 /* Units */
 "mm" = "ミリ";
 
 /* No comment provided by engineer. */
+"More" = "詳細";
+
+/* No comment provided by engineer. */
 "More Info" = "詳細情報";
+
+/* No comment provided by engineer. */
+"More Settings" = "その他の設定";
 
 /* Edit Menu */
 "More..." = "詳細...";
@@ -924,6 +963,9 @@
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "ノイズ低減";
+
+/* No comment provided by engineer. */
+"Nondestructive" = "非破壊";
 
 /* Tool */
 "None" = "なし";
@@ -993,6 +1035,9 @@
 
 /* Edit Menu */
 "Paste" = "ペースト";
+
+/* No comment provided by engineer. */
+"Paste Adjustments" = "調整をペースト";
 
 /* Layer Management */
 "Paste Layer" = "レイヤーをペースト";
@@ -1084,6 +1129,9 @@
 /* Tool */
 "Quick" = "クイック";
 
+/* Recents group abbreviation */
+"R" = "R";
+
 /* No comment provided by engineer. */
 "Radius" = "半径";
 
@@ -1104,6 +1152,9 @@
 
 /* No comment provided by engineer. */
 "RAW+JPEG" = "RAW+JPEG";
+
+/* No comment provided by engineer. */
+"Recent" = "最近";
 
 /* No comment provided by engineer. */
 "Recents" = "最近の項目";
@@ -1132,14 +1183,14 @@
 /* No comment provided by engineer. */
 "Redo %@" = "%@をやり直す";
 
+/* No comment provided by engineer. */
+"Reloading..." = "再読み込み中...";
+
 /* Edit Menu */
 "Remove" = "削除";
 
 /* No comment provided by engineer. */
 "Remove \"%@\"?" = "\"%@\"を削除？";
-
-/* No comment provided by engineer. */
-"Remove Adjustments" = "調整を取り除く";
 
 /* No comment provided by engineer. */
 "Remove Collection \"%@\"?" = "\"%@\"コレクションを削除？";
@@ -1167,9 +1218,6 @@
 "Replace Color" = "色の置き換え";
 
 /* No comment provided by engineer. */
-"Reset" = "リセット";
-
-/* No comment provided by engineer. */
 "Reset %@" = "%@をリセット";
 
 /* No comment provided by engineer. */
@@ -1186,6 +1234,12 @@
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "ML 切り抜きをリセット";
+
+/* No comment provided by engineer. */
+"Reset ML Enhance" = "ML エンハンスをリセット";
+
+/* No comment provided by engineer. */
+"Reset ML Match Colors" = "ML カラーマッチをリセット";
 
 /* Perspective transform */
 "Reset Perspective" = "視点をリセット";
@@ -1207,6 +1261,9 @@
 
 /* No comment provided by engineer. */
 "Revert to Original" = "元に戻す";
+
+/* No comment provided by engineer. */
+"Reverting..." = "元に戻しています...";
 
 /* No comment provided by engineer. */
 "RGB" = "RGB";
@@ -1242,6 +1299,9 @@
 /* No comment provided by engineer. */
 "Saturation Scatter" = "彩度散布";
 
+/* Edit Menu */
+"Save" = "保存";
+
 /* No comment provided by engineer. */
 "Save a Copy" = "コピーを保存";
 
@@ -1259,6 +1319,9 @@
 
 /* No comment provided by engineer. */
 "Save to Photos" = "写真に保存";
+
+/* No comment provided by engineer. */
+"Saving..." = "保存中...";
 
 /* No comment provided by engineer. */
 "Scale" = "縮小・拡大";
@@ -1356,10 +1419,16 @@
 "Show Files" = "ファイルを表示";
 
 /* No comment provided by engineer. */
+"Show Folders" = "フォルダを表示";
+
+/* No comment provided by engineer. */
 "Show Info" = "情報を表示";
 
 /* Layer */
 "Show Layer" = "レイヤーを表示";
+
+/* No comment provided by engineer. */
+"Show List" = "リストで表示";
 
 /* No comment provided by engineer. */
 "Show Original" = "オリジナルを表示";
@@ -1520,6 +1589,9 @@
 /* No comment provided by engineer. */
 "The image could not be exported." = "画像を書き出せません。";
 
+/* No comment provided by engineer. */
+"The image could not be loaded." = "画像を読み込めませんでした。";
+
 /* Image open error */
 "The image could not be opened." = "画像を開けません。";
 
@@ -1546,6 +1618,9 @@
 
 /* No comment provided by engineer. */
 "The size is too large." = "イメージは大きすぎます";
+
+/* Image save error */
+"There is not enough available storage to save your image to this location. Would you like to save it somewhere else?" = "この場所には画像を保存するための十分なストレージがありません。 別の場所に保存しますか？";
 
 /* Image open error */
 "This format isn’t currently supported." = "このフォーマットは現在サポートされていません。";
@@ -1602,6 +1677,12 @@
 "Top" = "上";
 
 /* No comment provided by engineer. */
+"Top Left" = "左上";
+
+/* No comment provided by engineer. */
+"Top Right" = "右上";
+
+/* No comment provided by engineer. */
 "Torus Lens" = "円環体レンズ";
 
 /* No comment provided by engineer. */
@@ -1620,6 +1701,12 @@
 "Trim Canvas" = "キャンバスをトリミング";
 
 /* No comment provided by engineer. */
+"Turn Off by Default" = "デフォルトでオフにする";
+
+/* No comment provided by engineer. */
+"Turn On by Default" = "デフォルトでオンにする";
+
+/* No comment provided by engineer. */
 "Twelvefold" = "12倍";
 
 /* Tool */
@@ -1630,6 +1717,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Export" = "書き出せません";
+
+/* No comment provided by engineer. */
+"Unable to Match Colors" = "色を一致させることができません";
 
 /* No comment provided by engineer. */
 "Unable to Modify" = "変更できません";
@@ -1644,6 +1734,9 @@
 "Unable to Save" = "保存できません";
 
 /* No comment provided by engineer. */
+"Unable to Save Image" = "画像を保存できません";
+
+/* No comment provided by engineer. */
 "Unable to Share Image" = "画像を共有できません";
 
 /* No comment provided by engineer. */
@@ -1651,6 +1744,9 @@
 
 /* No comment provided by engineer. */
 "Undo %@" = "%@を取り消す";
+
+/* No comment provided by engineer. */
+"Unfavorite" = "お気に入りではない";
 
 /* Layer Arrange */
 "Ungroup" = "グループ化解除";
