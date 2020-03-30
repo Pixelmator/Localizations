@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "会为您的图像创建一个拼合后的副本。";
 
-/* Gallery share error message title */
-"Access to Photos Denied" = "没有“照片”访问权限";
-
 /* No comment provided by engineer. */
 "Add Effects" = "添加效果";
 
@@ -23,6 +20,9 @@
 "Add Layer" = "添加图层";
 
 /* No comment provided by engineer. */
+"Add Mask" = "添加蒙版";
+
+/* Selection Undo */
 "Add Selection" = "添加所选部分";
 
 /* No comment provided by engineer. */
@@ -48,6 +48,9 @@
 
 /* No comment provided by engineer. */
 "Adonit Jot Stylus" = "Adonit Jot 手写笔";
+
+/* No comment provided by engineer. */
+"All" = "所有";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "琥珀";
@@ -106,6 +109,9 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Bauhaus" = "包豪斯";
 
+/* Selection Undo */
+"Begin Selection" = "Begin Selection";
+
 /* No comment provided by engineer. */
 "Black & White" = "黑白";
 
@@ -135,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "Brightness" = "亮度";
+
+/* No comment provided by engineer. */
+"Browse and open images in your Photos library with the beautiful new browser." = "Browse and open images in your Photos library with the beautiful new browser.";
 
 /* No comment provided by engineer. */
 "Brush" = "画笔";
@@ -199,6 +208,9 @@
 /* No comment provided by engineer. */
 "Clone Settings" = "克隆设置";
 
+/* Selection Undo */
+"Close Selection" = "Close Selection";
+
 /* No comment provided by engineer. */
 "Color" = "颜色";
 
@@ -224,16 +236,22 @@
 "Connecting..." = "正在连接…";
 
 /* No comment provided by engineer. */
+"Continue" = "继续";
+
+/* No comment provided by engineer. */
 "Continue Using iCloud" = "继续使用 iCloud";
 
 /* No comment provided by engineer. */
 "Contrast" = "对比度";
 
 /* No comment provided by engineer. */
-"Convert into Image Layer" = "转换为图像图层";
+"Convert into Pixels" = "变换为像素";
 
 /* Used in gallery document duplicate. */
 "copy" = "副本";
+
+/* No comment provided by engineer. */
+"Copy" = "拷贝";
 
 /* No comment provided by engineer. */
 "Copy to Photos" = "拷贝到照片";
@@ -254,6 +272,9 @@
 "Create" = "创建";
 
 /* No comment provided by engineer. */
+"Create Image" = "创建图像";
+
+/* No comment provided by engineer. */
 "Create New" = "新建";
 
 /* No comment provided by engineer. */
@@ -264,6 +285,9 @@
 
 /* No comment provided by engineer. */
 "Create smeared paint" = "创建涂抹绘画";
+
+/* No comment provided by engineer. */
+"Creative Tools" = "创意工具";
 
 /* No comment provided by engineer. */
 "Crop" = "裁剪";
@@ -356,6 +380,12 @@
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "文档被其他应用程序编辑过，存在冲突。请先解决冲突再继续编辑您的文档。";
 
 /* No comment provided by engineer. */
+"Document Templates" = "Document Templates";
+
+/* No comment provided by engineer. */
+"Documents" = "Documents";
+
+/* No comment provided by engineer. */
 "Documents Already Exist" = "文档已存在";
 
 /* No comment provided by engineer. */
@@ -372,6 +402,9 @@
 
 /* No comment provided by engineer. */
 "Draw freehand selections" = "绘制手绘选区";
+
+/* Selection Undo */
+"Draw Selection" = "Draw Selection";
 
 /* No comment provided by engineer. */
 "Duplicate" = "复制";
@@ -414,6 +447,9 @@
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "未能获取一个或多个扩展属性值";
+
+/* No comment provided by engineer. */
+"Failed to Move Files" = "Failed to Move Files";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "未能获取一个或多个扩展属性。";
@@ -521,9 +557,6 @@
 "Hue & Saturation" = "色相和饱和度";
 
 /* No comment provided by engineer. */
-"iCloud Drive" = "iCloud Drive";
-
-/* No comment provided by engineer. */
 "iCloud for Pixelmator" = "Pixelmator 的 iCloud";
 
 /* No comment provided by engineer. */
@@ -536,6 +569,9 @@
 "Image" = "图像";
 
 /* No comment provided by engineer. */
+"Image Enhancements" = "图像改善";
+
+/* No comment provided by engineer. */
 "Image Setup" = "图像设置";
 
 /* No comment provided by engineer. */
@@ -543,6 +579,9 @@
 
 /* Edit Top Bar label text. Format:[X Documents Selected] */
 "Images Selected" = "张图像已选定";
+
+/* No comment provided by engineer. */
+"Import" = "导入";
 
 /* No comment provided by engineer. */
 "Increase Brush Size" = "增大画笔大小";
@@ -574,8 +613,14 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "反转";
 
+/* No comment provided by engineer. */
+"Invert Selection" = "反向选择";
+
 /* Gallery Rename when document title exists */
 "is already taken. Please choose a different name." = "已被占用。请使用其他名称。";
+
+/* No comment provided by engineer. */
+"It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again.";
 
 /* No comment provided by engineer. */
 "iTunes" = "iTunes";
@@ -597,9 +642,6 @@
 
 /* No comment provided by engineer. */
 "Keep on My Device" = "在我的设备上保留";
-
-/* No comment provided by engineer. */
-"Keep on My iPad" = "在我的 iPad 上保留";
 
 /* Conflict resolve sheet */
 "Keep One" = "保留一个";
@@ -670,6 +712,9 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "天琴座";
 
+/* Selection */
+"Magic Wand Selection" = "Magic Wand Selection";
+
 /* No comment provided by engineer. */
 "Magnetic" = "磁性";
 
@@ -678,6 +723,9 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Magnolia" = "玉兰";
+
+/* No comment provided by engineer. */
+"Make your images look great with effects, color adjustments, and retouching tools." = "使用效果、颜色调整和润饰工具来让您的图像看起来更美。";
 
 /* No comment provided by engineer. */
 "Marker" = "马克笔";
@@ -712,14 +760,26 @@
 /* No comment provided by engineer. */
 "Move Selection" = "移动所选部分";
 
+/* No comment provided by engineer. */
+"Native Document Picker" = "Native Document Picker";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "星云";
+
+/* No comment provided by engineer. */
+"New Photos Browser" = "New Photos Browser";
 
 /* No comment provided by engineer. */
 "No Apps Available" = "没有可用的应用程序";
 
 /* No comment provided by engineer. */
+"No Camera Access" = "No Camera Access";
+
+/* No comment provided by engineer. */
 "No Photos" = "无照片";
+
+/* No comment provided by engineer. */
+"No Photos Access" = "无照片访问权";
 
 /* No comment provided by engineer. */
 "Noise" = "噪音";
@@ -733,7 +793,7 @@
 /* No comment provided by engineer. */
 "Nothing Selected" = "未选择任何内容";
 
-/* Unsupported handoff activity type alert cancel button title */
+/* No comment provided by engineer. */
 "OK" = "好的";
 
 /* No comment provided by engineer. */
@@ -781,8 +841,11 @@
 /* No comment provided by engineer. */
 "Pixelmator" = "Pixelmator";
 
-/* Gallery share error message */
-"Please enable access to Photos in Settings > Privacy > Photos and try again." = "请在“设置” > “隐私” > “照片”面板下允许照片访问然后再试一次。";
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to Photos. Please allow access in Settings." = "Pixelmator has been denied access to Photos. Please allow access in Settings.";
+
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to the Camera. Please allow access in Settings." = "Pixelmator has been denied access to the Camera. Please allow access in Settings.";
 
 /* No comment provided by engineer. */
 "Please try again later." = "请稍后再试。";
@@ -795,6 +858,9 @@
 
 /* No comment provided by engineer. */
 "Points Count" = "点数";
+
+/* No comment provided by engineer. */
+"Presets" = "预置";
 
 /* No comment provided by engineer. */
 "Press and Hold to Connect" = "按住来连接";
@@ -814,14 +880,20 @@
 /* No comment provided by engineer. */
 "Quick" = "快速";
 
-/* No comment provided by engineer. */
+/* Selection Undo */
 "Quick Selection" = "快速选区";
+
+/* No comment provided by engineer. */
+"Quickly and easily share your masterpieces with the whole world." = "简单快捷地与世界共享您的大作。";
 
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "快速选择细节对象";
 
 /* No comment provided by engineer. */
 "Radius" = "半径";
+
+/* No comment provided by engineer. */
+"Rasterize Layer" = "Rasterize Layer";
 
 /* No comment provided by engineer. */
 "Rectangular" = "矩形";
@@ -983,6 +1055,9 @@
 "Select similarly colored areas" = "选择颜色相近的区域";
 
 /* No comment provided by engineer. */
+"Selection" = "选择";
+
+/* No comment provided by engineer. */
 "Selection Mode" = "选区模式";
 
 /* No comment provided by engineer. */
@@ -1023,6 +1098,9 @@
 
 /* No comment provided by engineer. */
 "Share" = "共享";
+
+/* No comment provided by engineer. */
+"Sharing" = "共享";
 
 /* No comment provided by engineer. */
 "Sharpen" = "锐化";
@@ -1171,6 +1249,9 @@
 /* No comment provided by engineer. */
 "Temperature" = "温度";
 
+/* No comment provided by engineer. */
+"Templates" = "Templates";
+
 /* Template download alert */
 "Templates are stored on the Internet so it might take a while to download one." = "模板存储在互联网中，所以下载可能需要一些时间。";
 
@@ -1214,7 +1295,7 @@
 "The image is too large." = "图像太大。";
 
 /* No comment provided by engineer. */
-"The image is too large. You can open and edit images of up to 64 megapixels." = "图像太大。您只能打开和编辑最大不超过 6400 万像素的图像。";
+"The image is too large. You can open and edit images of up to %@ megapixels." = "The image is too large. You can open and edit images of up to %@ megapixels.";
 
 /* No comment provided by engineer. */
 "The image is too large. You can share images of up to %@ megapixels." = "图像太大。您只能共享不超过 %@ 百万像素的图像。";
@@ -1226,9 +1307,12 @@
 "The image will be opened in Pixelmator file format." = "图像将会以 Pixelmator 文件格式打开。";
 
 /* No comment provided by engineer. */
+"The new document picker lets you manage your images using the familiar Files app." = "The new document picker lets you manage your images using the familiar Files app.";
+
+/* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "不支持 %@ 图层格式。您的图像可能会看上去与以前不一样。";
 
-/* Unsupported handoff activity alert message */
+/* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "当前的演示模式不支持这种活动。";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1326,6 @@
 
 /* No comment provided by engineer. */
 "To access your media, go to Settings > Privacy > Photos, and set the Pixelmator switch to On." = "在“设置” > “隐私” > “照片” 中打开 Pixelmator 才可以访问您的媒体文件。";
-
-/* No comment provided by engineer. */
-"To save to iCloud Drive, you'll need to go to Settings and turn on iCloud Drive." = "您需要前往“设置”并启用 iCloud Drive 才可以将文件存储到 iCloud Drive。";
 
 /* No comment provided by engineer. */
 "Toggle Eraser" = "切换橡皮擦";
@@ -1318,14 +1399,20 @@
 /* Document conflict error title */
 "Unresolved Conflicts" = "未解决的冲突";
 
-/* Unsupported handoff activity type */
+/* No comment provided by engineer. */
 "Unsupported activity type" = "不支持的活动类型";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "都市";
 
 /* No comment provided by engineer. */
+"Use any of the inspiring drawing or painting tools to create stunning artwork." = "使用任何可激发您灵感的绘画工具来创作令人赞叹的作品。";
+
+/* No comment provided by engineer. */
 "Use iCloud" = "使用 iCloud";
+
+/* No comment provided by engineer. */
+"Use the new template chooser to quickly create new images with common sizes." = "Use the new template chooser to quickly create new images with common sizes.";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "维加";
@@ -1344,6 +1431,9 @@
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "鲜艳";
+
+/* No comment provided by engineer. */
+"View My Images" = "查看我的图像";
 
 /* No comment provided by engineer. */
 "Vignette" = "晕影";
