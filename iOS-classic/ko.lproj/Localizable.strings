@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "이미지의 병합된 사본이 생성됩니다.";
 
-/* Gallery share error message title */
-"Access to Photos Denied" = "사진에 대한 액세스가 거절됨";
-
 /* No comment provided by engineer. */
 "Add Effects" = "효과 추가";
 
@@ -23,6 +20,9 @@
 "Add Layer" = "레이어 추가";
 
 /* No comment provided by engineer. */
+"Add Mask" = "마스크 추가";
+
+/* Selection Undo */
 "Add Selection" = "선택 항목 추가";
 
 /* No comment provided by engineer. */
@@ -48,6 +48,9 @@
 
 /* No comment provided by engineer. */
 "Adonit Jot Stylus" = "Adonit Jot 스타일러스";
+
+/* No comment provided by engineer. */
+"All" = "모두";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "황색";
@@ -106,6 +109,9 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Bauhaus" = "바우하우스";
 
+/* Selection Undo */
+"Begin Selection" = "Begin Selection";
+
 /* No comment provided by engineer. */
 "Black & White" = "흑백";
 
@@ -135,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "Brightness" = "밝기";
+
+/* No comment provided by engineer. */
+"Browse and open images in your Photos library with the beautiful new browser." = "Browse and open images in your Photos library with the beautiful new browser.";
 
 /* No comment provided by engineer. */
 "Brush" = "브러시";
@@ -199,6 +208,9 @@
 /* No comment provided by engineer. */
 "Clone Settings" = "복제 설정";
 
+/* Selection Undo */
+"Close Selection" = "Close Selection";
+
 /* No comment provided by engineer. */
 "Color" = "색";
 
@@ -224,16 +236,22 @@
 "Connecting..." = "연결 중...";
 
 /* No comment provided by engineer. */
+"Continue" = "계속";
+
+/* No comment provided by engineer. */
 "Continue Using iCloud" = "iCloud 계속 이용";
 
 /* No comment provided by engineer. */
 "Contrast" = "대비";
 
 /* No comment provided by engineer. */
-"Convert into Image Layer" = "이미지 레이어로 변환";
+"Convert into Pixels" = "픽셀로 변환";
 
 /* Used in gallery document duplicate. */
 "copy" = "복사본";
+
+/* No comment provided by engineer. */
+"Copy" = "복사";
 
 /* No comment provided by engineer. */
 "Copy to Photos" = "사진에 복사하기";
@@ -254,6 +272,9 @@
 "Create" = "생성";
 
 /* No comment provided by engineer. */
+"Create Image" = "이미지 생성";
+
+/* No comment provided by engineer. */
 "Create New" = "신규 생성";
 
 /* No comment provided by engineer. */
@@ -264,6 +285,9 @@
 
 /* No comment provided by engineer. */
 "Create smeared paint" = "얼룩진 페인트 만들기";
+
+/* No comment provided by engineer. */
+"Creative Tools" = "창의적인 도구";
 
 /* No comment provided by engineer. */
 "Crop" = "자르기";
@@ -356,6 +380,12 @@
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "다른 응용 프로그램이 문서를 편집해서 충돌되고 있습니다. 문서 작업을 계속하기 전에 충돌을 해결해주십시오.";
 
 /* No comment provided by engineer. */
+"Document Templates" = "Document Templates";
+
+/* No comment provided by engineer. */
+"Documents" = "Documents";
+
+/* No comment provided by engineer. */
 "Documents Already Exist" = "문서들이 이미 존재합니다";
 
 /* No comment provided by engineer. */
@@ -372,6 +402,9 @@
 
 /* No comment provided by engineer. */
 "Draw freehand selections" = "자유형 선택을 그립니다";
+
+/* Selection Undo */
+"Draw Selection" = "Draw Selection";
 
 /* No comment provided by engineer. */
 "Duplicate" = "복제";
@@ -414,6 +447,9 @@
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "한 개 이상의 확장 속성 값을 가져오는 데 실패했습니다";
+
+/* No comment provided by engineer. */
+"Failed to Move Files" = "Failed to Move Files";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "한 개 이상의 확장 속성을 설정하는 데 실패했습니다";
@@ -521,9 +557,6 @@
 "Hue & Saturation" = "색상 및 채도";
 
 /* No comment provided by engineer. */
-"iCloud Drive" = "iCloud Drive";
-
-/* No comment provided by engineer. */
 "iCloud for Pixelmator" = "Pixelmator용 iCloud";
 
 /* No comment provided by engineer. */
@@ -536,6 +569,9 @@
 "Image" = "이미지";
 
 /* No comment provided by engineer. */
+"Image Enhancements" = "이미지 향상";
+
+/* No comment provided by engineer. */
 "Image Setup" = "이미지 설정";
 
 /* No comment provided by engineer. */
@@ -543,6 +579,9 @@
 
 /* Edit Top Bar label text. Format:[X Documents Selected] */
 "Images Selected" = "이미지 선택됨";
+
+/* No comment provided by engineer. */
+"Import" = "가져오기";
 
 /* No comment provided by engineer. */
 "Increase Brush Size" = "브러시 크기 증가";
@@ -574,8 +613,14 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "반전";
 
+/* No comment provided by engineer. */
+"Invert Selection" = "선택 영역 반전";
+
 /* Gallery Rename when document title exists */
 "is already taken. Please choose a different name." = "이미 이용 중입니다. 다른 이름을 선택해주십시오.";
+
+/* No comment provided by engineer. */
+"It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again.";
 
 /* No comment provided by engineer. */
 "iTunes" = "iTunes";
@@ -597,9 +642,6 @@
 
 /* No comment provided by engineer. */
 "Keep on My Device" = "내 기기에 보관";
-
-/* No comment provided by engineer. */
-"Keep on My iPad" = "내 iPad에 유지";
 
 /* Conflict resolve sheet */
 "Keep One" = "하나 유지";
@@ -670,6 +712,9 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "거문고";
 
+/* Selection */
+"Magic Wand Selection" = "Magic Wand Selection";
+
 /* No comment provided by engineer. */
 "Magnetic" = "자석";
 
@@ -678,6 +723,9 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Magnolia" = "목련";
+
+/* No comment provided by engineer. */
+"Make your images look great with effects, color adjustments, and retouching tools." = "다양한 효과, 색 조정, 리터치 도구로 이미지를 멋지게 만드세요.";
 
 /* No comment provided by engineer. */
 "Marker" = "마커";
@@ -712,14 +760,26 @@
 /* No comment provided by engineer. */
 "Move Selection" = "선택 항목 이동";
 
+/* No comment provided by engineer. */
+"Native Document Picker" = "Native Document Picker";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "성운";
+
+/* No comment provided by engineer. */
+"New Photos Browser" = "New Photos Browser";
 
 /* No comment provided by engineer. */
 "No Apps Available" = "이용할 수 있는 앱 없음";
 
 /* No comment provided by engineer. */
+"No Camera Access" = "No Camera Access";
+
+/* No comment provided by engineer. */
 "No Photos" = "사진 없음";
+
+/* No comment provided by engineer. */
+"No Photos Access" = "사진 액세스 권한이 없습니다";
 
 /* No comment provided by engineer. */
 "Noise" = "노이즈";
@@ -733,7 +793,7 @@
 /* No comment provided by engineer. */
 "Nothing Selected" = "선택되지 않음";
 
-/* Unsupported handoff activity type alert cancel button title */
+/* No comment provided by engineer. */
 "OK" = "확인";
 
 /* No comment provided by engineer. */
@@ -781,8 +841,11 @@
 /* No comment provided by engineer. */
 "Pixelmator" = "Pixelmator";
 
-/* Gallery share error message */
-"Please enable access to Photos in Settings > Privacy > Photos and try again." = "설정 > 개인 정보 보호 > 사진에서 사진에 대한 액세스를 활성화하고 다시 시도해주십시오.";
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to Photos. Please allow access in Settings." = "Pixelmator has been denied access to Photos. Please allow access in Settings.";
+
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to the Camera. Please allow access in Settings." = "Pixelmator has been denied access to the Camera. Please allow access in Settings.";
 
 /* No comment provided by engineer. */
 "Please try again later." = "나중에 다시 시도하십시오.";
@@ -795,6 +858,9 @@
 
 /* No comment provided by engineer. */
 "Points Count" = "점 개수";
+
+/* No comment provided by engineer. */
+"Presets" = "프리셋";
 
 /* No comment provided by engineer. */
 "Press and Hold to Connect" = "길게 눌러서 연결";
@@ -814,14 +880,20 @@
 /* No comment provided by engineer. */
 "Quick" = "빠른";
 
-/* No comment provided by engineer. */
+/* Selection Undo */
 "Quick Selection" = "빠른 선택";
+
+/* No comment provided by engineer. */
+"Quickly and easily share your masterpieces with the whole world." = "귀하의 작품을 전 세계와 빠르고 쉽게 공유하세요.";
 
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "세부 개체를 빠르게 선택";
 
 /* No comment provided by engineer. */
 "Radius" = "반경";
+
+/* No comment provided by engineer. */
+"Rasterize Layer" = "Rasterize Layer";
 
 /* No comment provided by engineer. */
 "Rectangular" = "직사각형";
@@ -983,6 +1055,9 @@
 "Select similarly colored areas" = "색이 비슷한 영역 선택";
 
 /* No comment provided by engineer. */
+"Selection" = "선택";
+
+/* No comment provided by engineer. */
 "Selection Mode" = "선택 모드";
 
 /* No comment provided by engineer. */
@@ -1023,6 +1098,9 @@
 
 /* No comment provided by engineer. */
 "Share" = "공유";
+
+/* No comment provided by engineer. */
+"Sharing" = "공유";
 
 /* No comment provided by engineer. */
 "Sharpen" = "선명 효과";
@@ -1171,6 +1249,9 @@
 /* No comment provided by engineer. */
 "Temperature" = "온도";
 
+/* No comment provided by engineer. */
+"Templates" = "Templates";
+
 /* Template download alert */
 "Templates are stored on the Internet so it might take a while to download one." = "템플릿이 인터넷에 저장되어 다운로드하는 데 시간이 소요될 수 있습니다.";
 
@@ -1214,7 +1295,7 @@
 "The image is too large." = "이미지가 너무 큽니다.";
 
 /* No comment provided by engineer. */
-"The image is too large. You can open and edit images of up to 64 megapixels." = "이미지가 너무 큽니다. 열고 편집할 수 있는 이미지의 최대 크기는 64 메가 픽셀입니다.";
+"The image is too large. You can open and edit images of up to %@ megapixels." = "The image is too large. You can open and edit images of up to %@ megapixels.";
 
 /* No comment provided by engineer. */
 "The image is too large. You can share images of up to %@ megapixels." = "이미지가 너무 큽니다. 공유할 수 있는 이미지의 최대 크기는 %@ 메가 픽셀입니다.";
@@ -1226,9 +1307,12 @@
 "The image will be opened in Pixelmator file format." = "이미지가 Pixelmator 파일 형식으로 열립니다.";
 
 /* No comment provided by engineer. */
+"The new document picker lets you manage your images using the familiar Files app." = "The new document picker lets you manage your images using the familiar Files app.";
+
+/* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "%@ 레이어 유형은 지원되지 않습니다. 이미지가 다르게 보일 수 있습니다.";
 
-/* Unsupported handoff activity alert message */
+/* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "이 유형의 활동은 데모 모드에서 지원되지 않습니다";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1326,6 @@
 
 /* No comment provided by engineer. */
 "To access your media, go to Settings > Privacy > Photos, and set the Pixelmator switch to On." = "미디어에 액세스하려면 설정 > 개인 정보 보호 > 사진에서 Pixelmator를 켬으로 합니다.";
-
-/* No comment provided by engineer. */
-"To save to iCloud Drive, you'll need to go to Settings and turn on iCloud Drive." = "iCloud Drive에 저장하려면 설정에서 iCloud Drive를 활성화해야 합니다.";
 
 /* No comment provided by engineer. */
 "Toggle Eraser" = "지우개 토글";
@@ -1318,14 +1399,20 @@
 /* Document conflict error title */
 "Unresolved Conflicts" = "해결되지 않은 충돌";
 
-/* Unsupported handoff activity type */
+/* No comment provided by engineer. */
 "Unsupported activity type" = "지원되지 않는 활동 유형";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "도시";
 
 /* No comment provided by engineer. */
+"Use any of the inspiring drawing or painting tools to create stunning artwork." = "놀라운 그리기 도구 및 페인팅 도구를 이용해 멋진 아트워크를 만드세요.";
+
+/* No comment provided by engineer. */
 "Use iCloud" = "iCloud 사용";
+
+/* No comment provided by engineer. */
+"Use the new template chooser to quickly create new images with common sizes." = "Use the new template chooser to quickly create new images with common sizes.";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "베가";
@@ -1344,6 +1431,9 @@
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "활기";
+
+/* No comment provided by engineer. */
+"View My Images" = "내 이미지 보기";
 
 /* No comment provided by engineer. */
 "Vignette" = "비녜트";
