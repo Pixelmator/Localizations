@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "Будет создана сведенная копия изображения.";
 
-/* Gallery share error message title */
-"Access to Photos Denied" = "Доступ к Фото закрыт";
-
 /* No comment provided by engineer. */
 "Add Effects" = "Эффекты";
 
@@ -23,6 +20,9 @@
 "Add Layer" = "Добавить слой";
 
 /* No comment provided by engineer. */
+"Add Mask" = "Добавить маску";
+
+/* Selection Undo */
 "Add Selection" = "Добавить выделение";
 
 /* No comment provided by engineer. */
@@ -48,6 +48,9 @@
 
 /* No comment provided by engineer. */
 "Adonit Jot Stylus" = "Стилус Adonit Jot";
+
+/* No comment provided by engineer. */
+"All" = "Все";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "Янтарь";
@@ -106,6 +109,9 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Bauhaus" = "Баухаус";
 
+/* Selection Undo */
+"Begin Selection" = "Начать выделение";
+
 /* No comment provided by engineer. */
 "Black & White" = "Ч/Б";
 
@@ -135,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "Brightness" = "Яркость";
+
+/* No comment provided by engineer. */
+"Browse and open images in your Photos library with the beautiful new browser." = "С помощью красивого нового браузера находите и открывайте изображения в медиатеке Фото.";
 
 /* No comment provided by engineer. */
 "Brush" = "Кисть";
@@ -199,6 +208,9 @@
 /* No comment provided by engineer. */
 "Clone Settings" = "Настройки штампа";
 
+/* Selection Undo */
+"Close Selection" = "Закрыть выделение";
+
 /* No comment provided by engineer. */
 "Color" = "Цвет";
 
@@ -224,16 +236,22 @@
 "Connecting..." = "Подключаюсь…";
 
 /* No comment provided by engineer. */
+"Continue" = "Продолжить";
+
+/* No comment provided by engineer. */
 "Continue Using iCloud" = "Продолжить использовать iCloud";
 
 /* No comment provided by engineer. */
 "Contrast" = "Контраст";
 
 /* No comment provided by engineer. */
-"Convert into Image Layer" = "Преобразовать в слой изображения";
+"Convert into Pixels" = "Конвертировать в пиксели";
 
 /* Used in gallery document duplicate. */
 "copy" = "копия";
+
+/* No comment provided by engineer. */
+"Copy" = "Скопировать";
 
 /* No comment provided by engineer. */
 "Copy to Photos" = "Скопировать в Фото";
@@ -254,6 +272,9 @@
 "Create" = "Создать";
 
 /* No comment provided by engineer. */
+"Create Image" = "Создать изображение";
+
+/* No comment provided by engineer. */
 "Create New" = "Создать";
 
 /* No comment provided by engineer. */
@@ -264,6 +285,9 @@
 
 /* No comment provided by engineer. */
 "Create smeared paint" = "Смазать области изображения";
+
+/* No comment provided by engineer. */
+"Creative Tools" = "Художественные инструменты";
 
 /* No comment provided by engineer. */
 "Crop" = "Обрезка";
@@ -356,6 +380,12 @@
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "Этот документ изменяло другое приложение, из-за чего возник конфликт. Разрешите конфликты, прежде чем продолжать работу с документом.";
 
 /* No comment provided by engineer. */
+"Document Templates" = "Шаблоны документов";
+
+/* No comment provided by engineer. */
+"Documents" = "Документы";
+
+/* No comment provided by engineer. */
 "Documents Already Exist" = "Документы уже существуют";
 
 /* No comment provided by engineer. */
@@ -372,6 +402,9 @@
 
 /* No comment provided by engineer. */
 "Draw freehand selections" = "Создать свободное выделение";
+
+/* Selection Undo */
+"Draw Selection" = "Нарисовать выделение";
 
 /* No comment provided by engineer. */
 "Duplicate" = "Дублировать";
@@ -414,6 +447,9 @@
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "Не удалось получить одно или более расширенных признаков значений";
+
+/* No comment provided by engineer. */
+"Failed to Move Files" = "Не удалось переместить файлы";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "Не удалось настроить одно или более расширенных значений.";
@@ -521,9 +557,6 @@
 "Hue & Saturation" = "Оттенок/насыщ.";
 
 /* No comment provided by engineer. */
-"iCloud Drive" = "iCloud Drive";
-
-/* No comment provided by engineer. */
 "iCloud for Pixelmator" = "iCloud для Pixelmator";
 
 /* No comment provided by engineer. */
@@ -536,6 +569,9 @@
 "Image" = "Изображ.";
 
 /* No comment provided by engineer. */
+"Image Enhancements" = "Улучшение изображений";
+
+/* No comment provided by engineer. */
 "Image Setup" = "Настройки изображения";
 
 /* No comment provided by engineer. */
@@ -543,6 +579,9 @@
 
 /* Edit Top Bar label text. Format:[X Documents Selected] */
 "Images Selected" = "изображений выбрано";
+
+/* No comment provided by engineer. */
+"Import" = "Импорт";
 
 /* No comment provided by engineer. */
 "Increase Brush Size" = "Увеличить размер кисти";
@@ -574,8 +613,14 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "Инверсия";
 
+/* No comment provided by engineer. */
+"Invert Selection" = "Инвертировать выбранное";
+
 /* Gallery Rename when document title exists */
 "is already taken. Please choose a different name." = "уже занято. Выберите другое название.";
+
+/* No comment provided by engineer. */
+"It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "Невозможно автоматически перемещать файлы из галереи Pixelmator в новый файловый браузер. Переносите файлы вручную, коснувшись «Передвинуть» или перезапустите Pixelmator и попробуйте снова.";
 
 /* No comment provided by engineer. */
 "iTunes" = "iTunes";
@@ -597,9 +642,6 @@
 
 /* No comment provided by engineer. */
 "Keep on My Device" = "Сохранять на моем устройстве";
-
-/* No comment provided by engineer. */
-"Keep on My iPad" = "Сохранить на iPad";
 
 /* Conflict resolve sheet */
 "Keep One" = "Оставить один";
@@ -670,6 +712,9 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "Лира";
 
+/* Selection */
+"Magic Wand Selection" = "Выделение волшебной палочкой";
+
 /* No comment provided by engineer. */
 "Magnetic" = "Магнитный";
 
@@ -678,6 +723,9 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Magnolia" = "Магнолия";
+
+/* No comment provided by engineer. */
+"Make your images look great with effects, color adjustments, and retouching tools." = "Сделайте изображения великолепными с нашими эффектами и инструментами.";
 
 /* No comment provided by engineer. */
 "Marker" = "Маркер";
@@ -712,14 +760,26 @@
 /* No comment provided by engineer. */
 "Move Selection" = "Передвинуть выделение";
 
+/* No comment provided by engineer. */
+"Native Document Picker" = "Нативный подборщик документов";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "Туманность";
+
+/* No comment provided by engineer. */
+"New Photos Browser" = "Браузер новых фото";
 
 /* No comment provided by engineer. */
 "No Apps Available" = "Нет доступных программ";
 
 /* No comment provided by engineer. */
+"No Camera Access" = "Нет доступа к камере";
+
+/* No comment provided by engineer. */
 "No Photos" = "Нет фото";
+
+/* No comment provided by engineer. */
+"No Photos Access" = "Нет доступа к Фото";
 
 /* No comment provided by engineer. */
 "Noise" = "Шум";
@@ -733,7 +793,7 @@
 /* No comment provided by engineer. */
 "Nothing Selected" = "Ничего не выбрано";
 
-/* Unsupported handoff activity type alert cancel button title */
+/* No comment provided by engineer. */
 "OK" = "ОК";
 
 /* No comment provided by engineer. */
@@ -781,8 +841,11 @@
 /* No comment provided by engineer. */
 "Pixelmator" = "Pixelmator";
 
-/* Gallery share error message */
-"Please enable access to Photos in Settings > Privacy > Photos and try again." = "Разрешите доступ к фотографиям в меню Настройки > Конфиденциальность > Фотографии и попробуйте снова.";
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to Photos. Please allow access in Settings." = "Pixelmator не получил доступ к Фото. Откройте доступ в Настройках.";
+
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to the Camera. Please allow access in Settings." = "Pixelmator не получил доступ к Камере. Откройте доступ в Настройках.";
 
 /* No comment provided by engineer. */
 "Please try again later." = "Повторите попытку позже.";
@@ -795,6 +858,9 @@
 
 /* No comment provided by engineer. */
 "Points Count" = "Подсчет точек";
+
+/* No comment provided by engineer. */
+"Presets" = "Наборы";
 
 /* No comment provided by engineer. */
 "Press and Hold to Connect" = "Для подключения нажмите и держите";
@@ -814,14 +880,20 @@
 /* No comment provided by engineer. */
 "Quick" = "Быстрый";
 
-/* No comment provided by engineer. */
+/* Selection Undo */
 "Quick Selection" = "Быстрый выбор";
+
+/* No comment provided by engineer. */
+"Quickly and easily share your masterpieces with the whole world." = "Удобно и быстро делитесь вашими шедеврами со всем миром.";
 
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "Быстро выбрать детальные объекты";
 
 /* No comment provided by engineer. */
 "Radius" = "Радиус";
+
+/* No comment provided by engineer. */
+"Rasterize Layer" = "Растрировать слой";
 
 /* No comment provided by engineer. */
 "Rectangular" = "Прямоугольник";
@@ -983,6 +1055,9 @@
 "Select similarly colored areas" = "Выделить схожие цвета";
 
 /* No comment provided by engineer. */
+"Selection" = "Выбор";
+
+/* No comment provided by engineer. */
 "Selection Mode" = "Режим выделения";
 
 /* No comment provided by engineer. */
@@ -1023,6 +1098,9 @@
 
 /* No comment provided by engineer. */
 "Share" = "Поделиться";
+
+/* No comment provided by engineer. */
+"Sharing" = "Общий доступ";
 
 /* No comment provided by engineer. */
 "Sharpen" = "Резкость";
@@ -1171,6 +1249,9 @@
 /* No comment provided by engineer. */
 "Temperature" = "Температура";
 
+/* No comment provided by engineer. */
+"Templates" = "Шаблоны";
+
 /* Template download alert */
 "Templates are stored on the Internet so it might take a while to download one." = "Шаблоны хранятся в интернете, так что для загрузки потребуется некоторое время.";
 
@@ -1214,7 +1295,7 @@
 "The image is too large." = "Изображение слишком большое";
 
 /* No comment provided by engineer. */
-"The image is too large. You can open and edit images of up to 64 megapixels." = "Изображение слишком большое. Вы можете открывать и редактировать изображения до 64 мегапикселей.";
+"The image is too large. You can open and edit images of up to %@ megapixels." = "Изображение слишком велико. Можно открыть и править изображения до %@ Мпикс.";
 
 /* No comment provided by engineer. */
 "The image is too large. You can share images of up to %@ megapixels." = "Изображение слишком велико. Можно делиться изображениями до %@ МПикс.";
@@ -1226,9 +1307,12 @@
 "The image will be opened in Pixelmator file format." = "Изображение будет открыто в формате Pixelmator.";
 
 /* No comment provided by engineer. */
+"The new document picker lets you manage your images using the familiar Files app." = "Новый подборщик документов позволяет управлять изображениями с помощью привычного файлового приложения.";
+
+/* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "Тип слоя «%@» не поддерживается. Ваше изображение может выглядеть иначе.";
 
-/* Unsupported handoff activity alert message */
+/* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "Это действие не поддерживается в демоверсии";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1326,6 @@
 
 /* No comment provided by engineer. */
 "To access your media, go to Settings > Privacy > Photos, and set the Pixelmator switch to On." = "Чтобы получить доступ к данным, зайдите в Настройки > Конфиденциатность > Фотографии и откройте доступ Pixelmator.";
-
-/* No comment provided by engineer. */
-"To save to iCloud Drive, you'll need to go to Settings and turn on iCloud Drive." = "Чтобы сохранять на iCloud Drive, вам нужно зайти в настройки и включить iCloud Drive.";
 
 /* No comment provided by engineer. */
 "Toggle Eraser" = "Переключить ластик";
@@ -1318,14 +1399,20 @@
 /* Document conflict error title */
 "Unresolved Conflicts" = "Нерешенные конфликты";
 
-/* Unsupported handoff activity type */
+/* No comment provided by engineer. */
 "Unsupported activity type" = "Действие не поддерживается";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "Город";
 
 /* No comment provided by engineer. */
+"Use any of the inspiring drawing or painting tools to create stunning artwork." = "Используйте вдохновляющие инструменты для ваших творений.";
+
+/* No comment provided by engineer. */
 "Use iCloud" = "Исп. iCloud";
+
+/* No comment provided by engineer. */
+"Use the new template chooser to quickly create new images with common sizes." = "Используйте новый выборщик шаблона, чтобы быстро создавать новые изображения обычных размеров.";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "Вега";
@@ -1344,6 +1431,9 @@
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "Сияние";
+
+/* No comment provided by engineer. */
+"View My Images" = "Мои изображения";
 
 /* No comment provided by engineer. */
 "Vignette" = "Виньетка";

@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "フラット化された画像のコピーが作成されます。";
 
-/* Gallery share error message title */
-"Access to Photos Denied" = "写真にアクセスできません";
-
 /* No comment provided by engineer. */
 "Add Effects" = "エフェクトを追加";
 
@@ -23,6 +20,9 @@
 "Add Layer" = "レイヤーを追加";
 
 /* No comment provided by engineer. */
+"Add Mask" = "マスクを追加";
+
+/* Selection Undo */
 "Add Selection" = "選択項目を追加";
 
 /* No comment provided by engineer. */
@@ -48,6 +48,9 @@
 
 /* No comment provided by engineer. */
 "Adonit Jot Stylus" = "Adonit Jot Stylus";
+
+/* No comment provided by engineer. */
+"All" = "すべて";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "琥珀";
@@ -106,6 +109,9 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Bauhaus" = "バウハウス";
 
+/* Selection Undo */
+"Begin Selection" = "選択を開始";
+
 /* No comment provided by engineer. */
 "Black & White" = "白黒";
 
@@ -135,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "Brightness" = "明度";
+
+/* No comment provided by engineer. */
+"Browse and open images in your Photos library with the beautiful new browser." = "美しく新しいブラウザを使用して、写真ライブラリ内の画像を参照して開きます。";
 
 /* No comment provided by engineer. */
 "Brush" = "ブラシ";
@@ -199,6 +208,9 @@
 /* No comment provided by engineer. */
 "Clone Settings" = "クローンの設定";
 
+/* Selection Undo */
+"Close Selection" = "選択を閉じる";
+
 /* No comment provided by engineer. */
 "Color" = "カラー";
 
@@ -224,16 +236,22 @@
 "Connecting..." = "接続中...";
 
 /* No comment provided by engineer. */
+"Continue" = "続ける";
+
+/* No comment provided by engineer. */
 "Continue Using iCloud" = "iCloud を使って続ける";
 
 /* No comment provided by engineer. */
 "Contrast" = "コントラスト";
 
 /* No comment provided by engineer. */
-"Convert into Image Layer" = "画像レイヤーに変換";
+"Convert into Pixels" = "ピクセルに変換";
 
 /* Used in gallery document duplicate. */
 "copy" = "コピー";
+
+/* No comment provided by engineer. */
+"Copy" = "コピー";
 
 /* No comment provided by engineer. */
 "Copy to Photos" = "写真にコピー";
@@ -254,6 +272,9 @@
 "Create" = "作成する";
 
 /* No comment provided by engineer. */
+"Create Image" = "イメージを作成";
+
+/* No comment provided by engineer. */
 "Create New" = "新規作成";
 
 /* No comment provided by engineer. */
@@ -264,6 +285,9 @@
 
 /* No comment provided by engineer. */
 "Create smeared paint" = "ペンキのしみを作成";
+
+/* No comment provided by engineer. */
+"Creative Tools" = "クリエイティブツール";
 
 /* No comment provided by engineer. */
 "Crop" = "切り抜く";
@@ -356,6 +380,12 @@
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "書類は別のアプリケーションで編集されてコンフリクトしています。この書類のコンフリクトを解決してください。";
 
 /* No comment provided by engineer. */
+"Document Templates" = "書類のテンプレート";
+
+/* No comment provided by engineer. */
+"Documents" = "書類";
+
+/* No comment provided by engineer. */
 "Documents Already Exist" = "書類は既に存在します";
 
 /* No comment provided by engineer. */
@@ -372,6 +402,9 @@
 
 /* No comment provided by engineer. */
 "Draw freehand selections" = "フリーハンド選択を描く";
+
+/* Selection Undo */
+"Draw Selection" = "選択を描画";
 
 /* No comment provided by engineer. */
 "Duplicate" = "複製";
@@ -414,6 +447,9 @@
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "拡張属性の値の取得に失敗しました";
+
+/* No comment provided by engineer. */
+"Failed to Move Files" = "ファイルの移動に失敗";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "拡張属性の設定に失敗しました。";
@@ -521,9 +557,6 @@
 "Hue & Saturation" = "色相と彩度";
 
 /* No comment provided by engineer. */
-"iCloud Drive" = "iCloud Drive";
-
-/* No comment provided by engineer. */
 "iCloud for Pixelmator" = "iCloud for Pixelmator";
 
 /* No comment provided by engineer. */
@@ -536,6 +569,9 @@
 "Image" = "画像";
 
 /* No comment provided by engineer. */
+"Image Enhancements" = "画像の改良";
+
+/* No comment provided by engineer. */
 "Image Setup" = "画像設定";
 
 /* No comment provided by engineer. */
@@ -543,6 +579,9 @@
 
 /* Edit Top Bar label text. Format:[X Documents Selected] */
 "Images Selected" = "個の画像を選択";
+
+/* No comment provided by engineer. */
+"Import" = "読み込む";
 
 /* No comment provided by engineer. */
 "Increase Brush Size" = "ブラシを大きく";
@@ -574,8 +613,14 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "反転";
 
+/* No comment provided by engineer. */
+"Invert Selection" = "選択範囲を反転";
+
 /* Gallery Rename when document title exists */
 "is already taken. Please choose a different name." = "は既に使われています。別の名前を選んでください。";
+
+/* No comment provided by engineer. */
+"It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "Pixelmatorギャラリーから新しいファイルブラウザにファイルを自動的に移動することはできませんでした。 [移動] をタップして手動で移動するか、Pixelmatorを再起動して再試行してください。";
 
 /* No comment provided by engineer. */
 "iTunes" = "iTunes";
@@ -597,9 +642,6 @@
 
 /* No comment provided by engineer. */
 "Keep on My Device" = "自分のデバイスに残す";
-
-/* No comment provided by engineer. */
-"Keep on My iPad" = "iPad で保持";
 
 /* Conflict resolve sheet */
 "Keep One" = "ひとつだけ残す";
@@ -670,6 +712,9 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "こと座";
 
+/* Selection */
+"Magic Wand Selection" = "自動選択";
+
 /* No comment provided by engineer. */
 "Magnetic" = "マグネット";
 
@@ -678,6 +723,9 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Magnolia" = "モクレン";
+
+/* No comment provided by engineer. */
+"Make your images look great with effects, color adjustments, and retouching tools." = "エフェクト、カラー調整、レタッチツールであなたの画像を美しく仕上げます。";
 
 /* No comment provided by engineer. */
 "Marker" = "フェルトペン";
@@ -712,14 +760,26 @@
 /* No comment provided by engineer. */
 "Move Selection" = "選択項目を移動";
 
+/* No comment provided by engineer. */
+"Native Document Picker" = "ドキュメントピッカー";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "星雲";
+
+/* No comment provided by engineer. */
+"New Photos Browser" = "新フォトブラウザ";
 
 /* No comment provided by engineer. */
 "No Apps Available" = "アプリが利用できません";
 
 /* No comment provided by engineer. */
+"No Camera Access" = "カメラにアクセスできません";
+
+/* No comment provided by engineer. */
 "No Photos" = "写真なし";
+
+/* No comment provided by engineer. */
+"No Photos Access" = "写真へのアクセスなし";
 
 /* No comment provided by engineer. */
 "Noise" = "ノイズ";
@@ -733,7 +793,7 @@
 /* No comment provided by engineer. */
 "Nothing Selected" = "何も選択されていません";
 
-/* Unsupported handoff activity type alert cancel button title */
+/* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
@@ -781,8 +841,11 @@
 /* No comment provided by engineer. */
 "Pixelmator" = "Pixelmator";
 
-/* Gallery share error message */
-"Please enable access to Photos in Settings > Privacy > Photos and try again." = "設定>プライバシー>写真でアクセスを有効にしてください。 ";
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to Photos. Please allow access in Settings." = "Pixelmatorは写真へのアクセスを拒否されました。 [設定] でアクセスを許可してください。";
+
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to the Camera. Please allow access in Settings." = "Pixelmatorはカメラへのアクセスを拒否されました。[設定] でアクセスを許可してください。";
 
 /* No comment provided by engineer. */
 "Please try again later." = "後でやり直してください。";
@@ -795,6 +858,9 @@
 
 /* No comment provided by engineer. */
 "Points Count" = "ポイント数";
+
+/* No comment provided by engineer. */
+"Presets" = "プリセット";
 
 /* No comment provided by engineer. */
 "Press and Hold to Connect" = "プレス＆ホールドで接続";
@@ -814,14 +880,20 @@
 /* No comment provided by engineer. */
 "Quick" = "クイック";
 
-/* No comment provided by engineer. */
+/* Selection Undo */
 "Quick Selection" = "クイック選択";
+
+/* No comment provided by engineer. */
+"Quickly and easily share your masterpieces with the whole world." = "すばやくそして簡単にあなたの作品を全世界で共有します。";
 
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "詳細なオブジェクトを簡単に選択";
 
 /* No comment provided by engineer. */
 "Radius" = "半径";
+
+/* No comment provided by engineer. */
+"Rasterize Layer" = "レイヤーをラスタライズ";
 
 /* No comment provided by engineer. */
 "Rectangular" = "長方形";
@@ -983,6 +1055,9 @@
 "Select similarly colored areas" = "類似するカラーの領域を選択";
 
 /* No comment provided by engineer. */
+"Selection" = "選択範囲";
+
+/* No comment provided by engineer. */
 "Selection Mode" = "選択モード";
 
 /* No comment provided by engineer. */
@@ -1023,6 +1098,9 @@
 
 /* No comment provided by engineer. */
 "Share" = "共有";
+
+/* No comment provided by engineer. */
+"Sharing" = "共有";
 
 /* No comment provided by engineer. */
 "Sharpen" = "シャープ";
@@ -1171,6 +1249,9 @@
 /* No comment provided by engineer. */
 "Temperature" = "温度";
 
+/* No comment provided by engineer. */
+"Templates" = "テンプレート";
+
 /* Template download alert */
 "Templates are stored on the Internet so it might take a while to download one." = "テンプレートはインターネット上に保存されるため、ダウンロードに時間がかかる場合があります。";
 
@@ -1214,7 +1295,7 @@
 "The image is too large." = "画像は大きすぎます。";
 
 /* No comment provided by engineer. */
-"The image is too large. You can open and edit images of up to 64 megapixels." = "画像が大きすぎます。最大 64 メガピクセルまでの画像を開いて編集できます。";
+"The image is too large. You can open and edit images of up to %@ megapixels." = "画像が大きすぎます。 最大%@メガピクセルまでの画像を開いて編集できます。";
 
 /* No comment provided by engineer. */
 "The image is too large. You can share images of up to %@ megapixels." = "画像が大きすぎます。最大 %@ メガピクセルまでの画像を開いて共有できます。";
@@ -1226,9 +1307,12 @@
 "The image will be opened in Pixelmator file format." = "画像を Pixelmator のファイル形式で開きます。";
 
 /* No comment provided by engineer. */
+"The new document picker lets you manage your images using the familiar Files app." = "新しいドキュメントピッカーを使用すると、使い慣れたファイルアプリを使用して画像を管理できます。";
+
+/* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "%@形式のレイヤーはサポートしていません。画像が異なって表示されます。";
 
-/* Unsupported handoff activity alert message */
+/* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "デモモードではサポートしていないアクティビティです。";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1326,6 @@
 
 /* No comment provided by engineer. */
 "To access your media, go to Settings > Privacy > Photos, and set the Pixelmator switch to On." = "メディアにアクセスするには、[設定]>[プライバシー]>[写真]で Pixelmator をオンにします。";
-
-/* No comment provided by engineer. */
-"To save to iCloud Drive, you'll need to go to Settings and turn on iCloud Drive." = "iCloud Drive に保存するには、設定で iCloud Drive を有効にしてください。";
 
 /* No comment provided by engineer. */
 "Toggle Eraser" = "イレーサーを切り替える";
@@ -1318,14 +1399,20 @@
 /* Document conflict error title */
 "Unresolved Conflicts" = "未解決のコンフリクト";
 
-/* Unsupported handoff activity type */
+/* No comment provided by engineer. */
 "Unsupported activity type" = "サポートしていないアクティビティ";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "アーバン";
 
 /* No comment provided by engineer. */
+"Use any of the inspiring drawing or painting tools to create stunning artwork." = "感動させるアートワークを作成するために、これらの刺激的な描画・ペイントツールを使ってください。";
+
+/* No comment provided by engineer. */
 "Use iCloud" = "iCloud を使う";
+
+/* No comment provided by engineer. */
+"Use the new template chooser to quickly create new images with common sizes." = "新しいテンプレートチューザーを使用して、一般的なサイズの新しい画像をすばやく作成します。";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "ベガ";
@@ -1344,6 +1431,9 @@
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "鮮やか";
+
+/* No comment provided by engineer. */
+"View My Images" = "マイ画像を表示";
 
 /* No comment provided by engineer. */
 "Vignette" = "ビネット";

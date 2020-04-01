@@ -13,9 +13,6 @@
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "Se creará una copia de tu imagen sin división por capas.";
 
-/* Gallery share error message title */
-"Access to Photos Denied" = "Acceso a Fotos denegado";
-
 /* No comment provided by engineer. */
 "Add Effects" = "Añadir efectos";
 
@@ -23,6 +20,9 @@
 "Add Layer" = "Agregar capa";
 
 /* No comment provided by engineer. */
+"Add Mask" = "Agregar máscara";
+
+/* Selection Undo */
 "Add Selection" = "Añadir selección";
 
 /* No comment provided by engineer. */
@@ -48,6 +48,9 @@
 
 /* No comment provided by engineer. */
 "Adonit Jot Stylus" = "Lápiz táctil Adonit Jot";
+
+/* No comment provided by engineer. */
+"All" = "Todo";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "Ámbar";
@@ -106,6 +109,9 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Bauhaus" = "Bauhaus";
 
+/* Selection Undo */
+"Begin Selection" = "Empezar la selección";
+
 /* No comment provided by engineer. */
 "Black & White" = "Blanco y negro";
 
@@ -135,6 +141,9 @@
 
 /* No comment provided by engineer. */
 "Brightness" = "Brillo";
+
+/* No comment provided by engineer. */
+"Browse and open images in your Photos library with the beautiful new browser." = "Navega y abre las imágenes de tu galería de fotos con el nuevo y fantástico navegador.";
 
 /* No comment provided by engineer. */
 "Brush" = "Pincel";
@@ -199,6 +208,9 @@
 /* No comment provided by engineer. */
 "Clone Settings" = "Ajustes de clonación";
 
+/* Selection Undo */
+"Close Selection" = "Cerrar la selección";
+
 /* No comment provided by engineer. */
 "Color" = "Color";
 
@@ -224,16 +236,22 @@
 "Connecting..." = "Conectando...";
 
 /* No comment provided by engineer. */
+"Continue" = "Continuar";
+
+/* No comment provided by engineer. */
 "Continue Using iCloud" = "Continuar utilizando iCloud";
 
 /* No comment provided by engineer. */
 "Contrast" = "Contraste";
 
 /* No comment provided by engineer. */
-"Convert into Image Layer" = "Convertir a capa de imagen";
+"Convert into Pixels" = "Convertir a píxeles";
 
 /* Used in gallery document duplicate. */
 "copy" = "(copia)";
+
+/* No comment provided by engineer. */
+"Copy" = "Copiar";
 
 /* No comment provided by engineer. */
 "Copy to Photos" = "Copiar en Fotos";
@@ -254,6 +272,9 @@
 "Create" = "Crear";
 
 /* No comment provided by engineer. */
+"Create Image" = "Crear imagen";
+
+/* No comment provided by engineer. */
 "Create New" = "Crear nuevo";
 
 /* No comment provided by engineer. */
@@ -264,6 +285,9 @@
 
 /* No comment provided by engineer. */
 "Create smeared paint" = "Crear pintura manchada";
+
+/* No comment provided by engineer. */
+"Creative Tools" = "Herramientas creativas";
 
 /* No comment provided by engineer. */
 "Crop" = "Recortar";
@@ -356,6 +380,12 @@
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "El documento ha sido editado por otra aplicación y se halla en conflicto. Resuelva este problema antes de continuar trabajando en el documento.";
 
 /* No comment provided by engineer. */
+"Document Templates" = "Plantillas de documentos";
+
+/* No comment provided by engineer. */
+"Documents" = "Documentos";
+
+/* No comment provided by engineer. */
 "Documents Already Exist" = "Los documentos ya existen";
 
 /* No comment provided by engineer. */
@@ -372,6 +402,9 @@
 
 /* No comment provided by engineer. */
 "Draw freehand selections" = "Dibujar selecciones a mano alzada";
+
+/* Selection Undo */
+"Draw Selection" = "Dibujar selección";
 
 /* No comment provided by engineer. */
 "Duplicate" = "Duplicado";
@@ -414,6 +447,9 @@
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "Error al obtener uno o más valores de atributos ampliados";
+
+/* No comment provided by engineer. */
+"Failed to Move Files" = "No se han movido los archivos";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "Error al definir uno o más atributos ampliados.";
@@ -521,9 +557,6 @@
 "Hue & Saturation" = "Tono y saturación";
 
 /* No comment provided by engineer. */
-"iCloud Drive" = "iCloud Drive";
-
-/* No comment provided by engineer. */
 "iCloud for Pixelmator" = "iCloud para Pixelmator";
 
 /* No comment provided by engineer. */
@@ -536,6 +569,9 @@
 "Image" = "Imagen";
 
 /* No comment provided by engineer. */
+"Image Enhancements" = "Mejoras de imagen";
+
+/* No comment provided by engineer. */
 "Image Setup" = "Configuración de imagen";
 
 /* No comment provided by engineer. */
@@ -543,6 +579,9 @@
 
 /* Edit Top Bar label text. Format:[X Documents Selected] */
 "Images Selected" = "Imágenes seleccionadas";
+
+/* No comment provided by engineer. */
+"Import" = "Importar";
 
 /* No comment provided by engineer. */
 "Increase Brush Size" = "Aumentar tamaño del pincel";
@@ -574,8 +613,14 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "Invertir";
 
+/* No comment provided by engineer. */
+"Invert Selection" = "Invertir selección";
+
 /* Gallery Rename when document title exists */
 "is already taken. Please choose a different name." = "ya existe. Elige un nombre distinto.";
+
+/* No comment provided by engineer. */
+"It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "No fue posible mover automáticamente tus archivos de la galería de Pixelmator al nuevo navegador de archivos. Muévelos manualmente tocando Mover o reinicia Pixelmator para intentarlo de nuevo.";
 
 /* No comment provided by engineer. */
 "iTunes" = "iTunes";
@@ -597,9 +642,6 @@
 
 /* No comment provided by engineer. */
 "Keep on My Device" = "Mantener en mi dispositivo";
-
-/* No comment provided by engineer. */
-"Keep on My iPad" = "Guardar en mi iPad";
 
 /* Conflict resolve sheet */
 "Keep One" = "Conservar una";
@@ -670,6 +712,9 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "Lyra";
 
+/* Selection */
+"Magic Wand Selection" = "Selección de varita mágica";
+
 /* No comment provided by engineer. */
 "Magnetic" = "Magnética";
 
@@ -678,6 +723,9 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Magnolia" = "Magnolia";
+
+/* No comment provided by engineer. */
+"Make your images look great with effects, color adjustments, and retouching tools." = "Consigue un aspecto genial para tus imágenes con efectos, ajustes de color y herramientas de retoque.";
 
 /* No comment provided by engineer. */
 "Marker" = "Rotulador";
@@ -712,14 +760,26 @@
 /* No comment provided by engineer. */
 "Move Selection" = "Mover selección";
 
+/* No comment provided by engineer. */
+"Native Document Picker" = "Selector de documentos nativos";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "Nébula";
+
+/* No comment provided by engineer. */
+"New Photos Browser" = "Explorador de fotos nuevas";
 
 /* No comment provided by engineer. */
 "No Apps Available" = "Ninguna aplicación disponible";
 
 /* No comment provided by engineer. */
+"No Camera Access" = "No hay acceso a la cámara";
+
+/* No comment provided by engineer. */
 "No Photos" = "No hay fotos";
+
+/* No comment provided by engineer. */
+"No Photos Access" = "No hay acceso a las fotos";
 
 /* No comment provided by engineer. */
 "Noise" = "Ruido";
@@ -733,7 +793,7 @@
 /* No comment provided by engineer. */
 "Nothing Selected" = "No hay nada seleccionado";
 
-/* Unsupported handoff activity type alert cancel button title */
+/* No comment provided by engineer. */
 "OK" = "Aceptar";
 
 /* No comment provided by engineer. */
@@ -781,8 +841,11 @@
 /* No comment provided by engineer. */
 "Pixelmator" = "Pixelmator";
 
-/* Gallery share error message */
-"Please enable access to Photos in Settings > Privacy > Photos and try again." = "Permita el acceso a las fotos en Ajustes > Privacidad > Fotos e inténtelo de nuevo.";
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to Photos. Please allow access in Settings." = "Pixelmator tiene el acceso denegado a Fotos. Por favor, permite el acceso en Ajustes.";
+
+/* No comment provided by engineer. */
+"Pixelmator has been denied access to the Camera. Please allow access in Settings." = "Pixelmator tiene el acceso denegado a la Cámara. Por favor, permite el acceso en Ajustes.";
 
 /* No comment provided by engineer. */
 "Please try again later." = "Inténtalo de nuevo más tarde.";
@@ -795,6 +858,9 @@
 
 /* No comment provided by engineer. */
 "Points Count" = "Contador de puntos";
+
+/* No comment provided by engineer. */
+"Presets" = "Preajustes";
 
 /* No comment provided by engineer. */
 "Press and Hold to Connect" = "Mantén pulsado para conectar";
@@ -814,14 +880,20 @@
 /* No comment provided by engineer. */
 "Quick" = "Rápida";
 
-/* No comment provided by engineer. */
+/* Selection Undo */
 "Quick Selection" = "Selección rápida";
+
+/* No comment provided by engineer. */
+"Quickly and easily share your masterpieces with the whole world." = "Comparte rápida y fácilmente tus obras maestras con el mundo entero.";
 
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "Seleccionar rápidamente objetos detallados";
 
 /* No comment provided by engineer. */
 "Radius" = "Radio";
+
+/* No comment provided by engineer. */
+"Rasterize Layer" = "Rasterizar la capa";
 
 /* No comment provided by engineer. */
 "Rectangular" = "Rectangular";
@@ -983,6 +1055,9 @@
 "Select similarly colored areas" = "Seleccionar áreas coloreadas de forma similar";
 
 /* No comment provided by engineer. */
+"Selection" = "Selección";
+
+/* No comment provided by engineer. */
 "Selection Mode" = "Modo de selección";
 
 /* No comment provided by engineer. */
@@ -1023,6 +1098,9 @@
 
 /* No comment provided by engineer. */
 "Share" = "Compartir";
+
+/* No comment provided by engineer. */
+"Sharing" = "Compartir";
 
 /* No comment provided by engineer. */
 "Sharpen" = "Dar nitidez";
@@ -1171,6 +1249,9 @@
 /* No comment provided by engineer. */
 "Temperature" = "Temperatura";
 
+/* No comment provided by engineer. */
+"Templates" = "Plantillas";
+
 /* Template download alert */
 "Templates are stored on the Internet so it might take a while to download one." = "Las plantillas se almacenan en internet, así que pueden tardar en descargarse.";
 
@@ -1214,7 +1295,7 @@
 "The image is too large." = "La imagen es demasiado grande.";
 
 /* No comment provided by engineer. */
-"The image is too large. You can open and edit images of up to 64 megapixels." = "La imagen es demasiado grande. Puedes abrir y editar imágenes de 64 megapíxeles como máximo.";
+"The image is too large. You can open and edit images of up to %@ megapixels." = "La imagen es demasiado grande. Puedes abrir y editar imágenes de hasta %@ megapíxeles.";
 
 /* No comment provided by engineer. */
 "The image is too large. You can share images of up to %@ megapixels." = "La imagen es demasiado grande. Puedes compartir imágenes de %@ megapíxeles como máximo.";
@@ -1226,9 +1307,12 @@
 "The image will be opened in Pixelmator file format." = "La imagen se abrirá en el formato de archivo de Pixelmator.";
 
 /* No comment provided by engineer. */
+"The new document picker lets you manage your images using the familiar Files app." = "El nuevo selector de documentos te permite gestionar tus imágenes utilizando la conocida aplicación Files.";
+
+/* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "El tipo de capa %@ no está soportado. Es posible que tu imagen tenga un aspecto diferente.";
 
-/* Unsupported handoff activity alert message */
+/* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "Este tipo de actividad no está soportado en este modo de prueba";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1326,6 @@
 
 /* No comment provided by engineer. */
 "To access your media, go to Settings > Privacy > Photos, and set the Pixelmator switch to On." = "Para acceder a tus medios, navega hasta Ajustes > Privacidad > Fotos y activa el botón de Pixelmator.";
-
-/* No comment provided by engineer. */
-"To save to iCloud Drive, you'll need to go to Settings and turn on iCloud Drive." = "Para guardar en la unidad de iCloud Drive debe acceder primero a los ajustes y activar la unidad de iCloud Drive.";
 
 /* No comment provided by engineer. */
 "Toggle Eraser" = "Activar/desactivar borrador";
@@ -1318,14 +1399,20 @@
 /* Document conflict error title */
 "Unresolved Conflicts" = "Conflictos sin solucionar";
 
-/* Unsupported handoff activity type */
+/* No comment provided by engineer. */
 "Unsupported activity type" = "Tipo de actividad no soportado";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "Urbano";
 
 /* No comment provided by engineer. */
+"Use any of the inspiring drawing or painting tools to create stunning artwork." = "Utiliza cualquiera de estas inspiradoras herramientas de dibujo y pintura para crear obras de arte impresionantes.";
+
+/* No comment provided by engineer. */
 "Use iCloud" = "Utilizar iCloud";
+
+/* No comment provided by engineer. */
+"Use the new template chooser to quickly create new images with common sizes." = "Utiliza el nuevo selector de plantillas para crear rápidamente nuevas imágenes con tamaños comunes.";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "Vega";
@@ -1344,6 +1431,9 @@
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "Dinámico";
+
+/* No comment provided by engineer. */
+"View My Images" = "Ver mis imágenes";
 
 /* No comment provided by engineer. */
 "Vignette" = "Degradado";
