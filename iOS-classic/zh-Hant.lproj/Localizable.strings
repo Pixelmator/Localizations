@@ -1,5 +1,23 @@
+/* crop aspect ratio */
+"%.2f:%0.2f" = "%1$.2f:%2$.2f";
+
+/* crop aspect ratio */
+"%.2f:%d" = "%1$.2f:%2$d";
+
 /* No comment provided by engineer. */
 "%@ Effect" = "%@ 效果";
+
+/* seconds */
+"%@s" = "%@s";
+
+/* crop aspect ratio */
+"%d:%0.2f" = "%1$d:%2$.2f";
+
+/* crop aspect ratio */
+"%d:%d" = "%1$d:%2$d";
+
+/* No comment provided by engineer. */
+"%i Images Selected" = "%i 張影像已選定";
 
 /* No comment provided by engineer. */
 "(empty)" = "（空）";
@@ -8,19 +26,31 @@
 "1 Image Selected" = "選定 1 張影像";
 
 /* No comment provided by engineer. */
+"\"%@\" Preset" = "「%@」預設";
+
+/* No comment provided by engineer. */
 "A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "這個位置已存在一個名為「%@」的文檔。您想使用正在移動的文檔替換它嗎？";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "會為您的影像建立一個平面化後的複本。";
 
 /* No comment provided by engineer. */
-"Add Effects" = "添加效果";
+"Accumulation" = "累積";
 
 /* No comment provided by engineer. */
+"Add Effects" = "添加效果";
+
+/* Layer Management */
+"Add Image" = "添加影像";
+
+/* Layer Management */
 "Add Layer" = "添加圖層";
 
 /* No comment provided by engineer. */
 "Add Mask" = "添加遮罩";
+
+/* No comment provided by engineer. */
+"Add Raw Layer" = "添加原始圖層";
 
 /* Selection Undo */
 "Add Selection" = "加入所選範圍";
@@ -28,7 +58,7 @@
 /* No comment provided by engineer. */
 "Add Shape" = "添加形狀";
 
-/* No comment provided by engineer. */
+/* Layer Management */
 "Add Text" = "加入文字";
 
 /* No comment provided by engineer. */
@@ -50,7 +80,16 @@
 "Adonit Jot Stylus" = "Adonit Jot 手寫筆";
 
 /* No comment provided by engineer. */
+"Affine Tile" = "仿射並排";
+
+/* No comment provided by engineer. */
 "All" = "所有";
+
+/* No comment provided by engineer. */
+"All Albums" = "所有相簿";
+
+/* No comment provided by engineer. */
+"All Photos" = "所有照片";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "琥珀";
@@ -60,6 +99,15 @@
 
 /* No comment provided by engineer. */
 "An error occurred while opening the image." = "開啟影像時發生錯誤。";
+
+/* No comment provided by engineer. */
+"Angle" = "角度";
+
+/* No comment provided by engineer. */
+"Angle by Tilt" = "傾斜角度";
+
+/* No comment provided by engineer. */
+"Angle Scatter" = "角度散射";
 
 /* No comment provided by engineer. */
 "Apply" = "套用";
@@ -76,11 +124,18 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Arcturus" = "大角星";
 
-/* No comment provided by engineer. */
+/* Layer Arrange
+   Tool */
 "Arrange" = "排列";
 
 /* No comment provided by engineer. */
+"Arrow" = "箭頭";
+
+/* No comment provided by engineer. */
 "Arrow Edit" = "箭頭編輯";
+
+/* No comment provided by engineer. */
+"Arrow from Point" = "從點發出的箭頭";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Art Deco" = "裝飾風";
@@ -95,15 +150,24 @@
 "Auto" = "自動";
 
 /* No comment provided by engineer. */
-"Automatically store your documents in the cloud to keep them up-to-date across all your devices and the web." = "自動將您的文件儲存在雲端，讓網路和所有裝置都有最新版本。";
+"Auto Enhance" = "自動增強";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "B&W" = "黑白";
 
 /* No comment provided by engineer. */
+"Background Color" = "背景顏色";
+
+/* No comment provided by engineer. */
 "Background Layer" = "背景圖層";
 
 /* No comment provided by engineer. */
+"Balance Adjustment" = "平衡調整";
+
+/* No comment provided by engineer. */
+"Baseline Exposure" = "基線曝光";
+
+/* Tool */
 "Basic" = "基本";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
@@ -113,18 +177,39 @@
 "Begin Selection" = "開始選取";
 
 /* No comment provided by engineer. */
+"Behind" = "後面";
+
+/* No comment provided by engineer. */
+"Bias" = "偏移";
+
+/* No comment provided by engineer. */
 "Black & White" = "黑白圖片";
+
+/* No comment provided by engineer. */
+"Black Point" = "黑點";
 
 /* No comment provided by engineer. */
 "Blending" = "混合";
 
 /* No comment provided by engineer. */
+"Blending mode" = "混合模式";
+
+/* No comment provided by engineer. */
+"Blending Mode" = "混合模式";
+
+/* No comment provided by engineer. */
 "Bloat area of an image" = "膨脹影像區域";
+
+/* No comment provided by engineer. */
+"Blue" = "藍色";
+
+/* No comment provided by engineer. */
+"Blue Channel" = "藍色通道";
 
 /* No comment provided by engineer. */
 "Blue Color Balance" = "藍色平衡";
 
-/* No comment provided by engineer. */
+/* Effects category name */
 "Blur" = "模糊";
 
 /* No comment provided by engineer. */
@@ -134,7 +219,19 @@
 "Bokeh" = "散景";
 
 /* No comment provided by engineer. */
+"Boost" = "增強";
+
+/* No comment provided by engineer. */
+"Boost Shadow" = "增強陰影";
+
+/* No comment provided by engineer. */
 "Borders" = "邊框";
+
+/* No comment provided by engineer. */
+"Bottom" = "底";
+
+/* No comment provided by engineer. */
+"Box" = "框";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Bright" = "明亮";
@@ -149,16 +246,25 @@
 "Brush" = "散景";
 
 /* No comment provided by engineer. */
+"Brush Scatter" = "畫筆散佈";
+
+/* No comment provided by engineer. */
 "Brush Settings" = "畫筆設定";
 
 /* No comment provided by engineer. */
 "Brush Size" = "筆刷大小";
 
 /* No comment provided by engineer. */
+"Brush Spacing" = "畫筆間距";
+
+/* Tool */
 "Bump" = "凹凸";
 
 /* No comment provided by engineer. */
 "Bump Settings" = "凹凸設定";
+
+/* Custom group abbreviation */
+"C" = "C";
 
 /* No comment provided by engineer. */
 "Camera Access Denied" = "沒有「相機」訪問許可權";
@@ -175,6 +281,9 @@
 /* No comment provided by engineer. */
 "Canvas" = "畫布";
 
+/* Tool */
+"Canvas Size" = "畫布大小";
+
 /* No comment provided by engineer. */
 "Categories" = "類別";
 
@@ -182,10 +291,25 @@
 "Celeste" = "蔚藍";
 
 /* No comment provided by engineer. */
+"Center" = "中央";
+
+/* Units */
+"Centimeters" = "公分";
+
+/* No comment provided by engineer. */
 "Change Color..." = "更改顏色...";
+
+/* No comment provided by engineer. */
+"Channel" = "通道";
+
+/* No comment provided by engineer. */
+"Channel Mixer" = "通道混合器";
 
 /* Used in template downloading. */
 "Check your network connection and try again." = "檢查您的網路連線然後再試一次。";
+
+/* No comment provided by engineer. */
+"Checkerboard" = "棋盤式";
 
 /* No comment provided by engineer. */
 "Choose App" = "選取應用程式";
@@ -197,12 +321,34 @@
 "Choose Neutral Color" = "選取自然色";
 
 /* No comment provided by engineer. */
+"Chromatic Noise Tracking" = "彩色雜訊跟蹤";
+
+/* No comment provided by engineer. */
+"Chromaticity X" = "色度 X";
+
+/* No comment provided by engineer. */
+"Chromaticity Y" = "色度 Y";
+
+/* No comment provided by engineer. */
+"Circle Splash" = "圓圈飛濺";
+
+/* No comment provided by engineer. */
+"Circle Tilt-Shift Blur" = "圓形傾斜-移位模糊";
+
+/* No comment provided by engineer. */
+"Circular Wrap" = "圓包";
+
+/* No comment provided by engineer. */
+"Clarity" = "清晰度";
+
+/* No comment provided by engineer. */
 "Clipboard" = "剪貼板";
 
 /* No comment provided by engineer. */
 "Clipping Mask is not supported. Your image might look different." = "不支援「剪裁遮色片」。您的影像可能會看上去與以前不一樣。";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Clone" = "克隆";
 
 /* No comment provided by engineer. */
@@ -212,7 +358,35 @@
 "Close Selection" = "關閉選取";
 
 /* No comment provided by engineer. */
+"Clouds" = "雲";
+
+/* Units */
+"cm" = "公分";
+
+/* Tool */
 "Color" = "顏色";
+
+/* Adjust Colors
+   Effects category name */
+"Color Adjustments" = "顏色調整";
+
+/* No comment provided by engineer. */
+"Color Balance" = "色彩平衡";
+
+/* No comment provided by engineer. */
+"Color Burn" = "加深顏色";
+
+/* No comment provided by engineer. */
+"Color Dodge" = "加亮顏色";
+
+/* No comment provided by engineer. */
+"Color Fill" = "填充顏色";
+
+/* No comment provided by engineer. */
+"Color Monochrome" = "單色";
+
+/* No comment provided by engineer. */
+"Color Noise Reduction" = "減少顏色雜訊";
 
 /* No comment provided by engineer. */
 "Color Picker" = "檢色器";
@@ -221,7 +395,13 @@
 "Color Selection" = "顏色選取範圍";
 
 /* No comment provided by engineer. */
+"Color Wheels" = "色輪";
+
+/* Tool */
 "Colors" = "顏色";
+
+/* No comment provided by engineer. */
+"Concentration" = "集中";
 
 /* No comment provided by engineer. */
 "Connect" = "連接";
@@ -236,10 +416,10 @@
 "Connecting..." = "正在連接⋯";
 
 /* No comment provided by engineer. */
-"Continue" = "繼續";
+"Constant" = "常數";
 
 /* No comment provided by engineer. */
-"Continue Using iCloud" = "繼續使用 iCloud";
+"Continue" = "繼續";
 
 /* No comment provided by engineer. */
 "Contrast" = "對比度";
@@ -250,8 +430,11 @@
 /* Used in gallery document duplicate. */
 "copy" = "拷貝";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Copy" = "拷貝";
+
+/* Layer Management */
+"Copy Layer" = "拷貝圖層";
 
 /* No comment provided by engineer. */
 "Copy to Photos" = "拷貝到照片";
@@ -265,7 +448,7 @@
 /* No comment provided by engineer. */
 "Could not insert image." = "無法插入影像。";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Crayon" = "蠟筆";
 
 /* No comment provided by engineer. */
@@ -289,7 +472,7 @@
 /* No comment provided by engineer. */
 "Creative Tools" = "創意工具";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Crop" = "裁切";
 
 /* No comment provided by engineer. */
@@ -304,16 +487,23 @@
 /* No comment provided by engineer. */
 "Curves" = "曲線";
 
+/* Tool */
+"Custom" = "自訂";
+
 /* No comment provided by engineer. */
 "Custom Size Image" = "自定義大小影像";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Cut" = "剪下";
+
+/* Layer Management */
+"Cut Layer" = "剪下圖層";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Dark" = "加深";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Darken" = "變暗";
 
 /* No comment provided by engineer. */
@@ -326,6 +516,9 @@
 "Darken Strength" = "變暗強度";
 
 /* No comment provided by engineer. */
+"Darker Color" = "顏色變暗";
+
+/* No comment provided by engineer. */
 "Decrease Brush Size" = "縮小筆刷";
 
 /* No comment provided by engineer. */
@@ -334,22 +527,29 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "降低顏色強度";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Delete" = "刪除";
+
+/* No comment provided by engineer. */
+"Delete " = "刪除";
 
 /* Gallery Edit Top Bar Delete button popover */
 "Delete %d Images" = "刪除 %d 張影像";
 
-/* No comment provided by engineer. */
-"Delete from My Device" = "從我的裝置上刪除";
-
 /* Gallery Edit Top Bar Delete button popover */
 "Delete Image" = "刪除影像";
 
-/* No comment provided by engineer. */
+/* Layer Management */
 "Delete Layer" = "刪除圖層";
 
 /* No comment provided by engineer. */
+"Delete Linked File" = "刪除連結檔案";
+
+/* No comment provided by engineer. */
+"Depth Mask" = "深度蒙版";
+
+/* Retouch Tools
+   Tool */
 "Desaturate" = "去除飽和度";
 
 /* No comment provided by engineer. */
@@ -361,6 +561,12 @@
 /* No comment provided by engineer. */
 "Deselect" = "取消選取";
 
+/* No comment provided by engineer. */
+"Deselect All" = "取消全選";
+
+/* No comment provided by engineer. */
+"Detail" = "詳細資料";
+
 /* Low space in device alert */
 "Device Low on Space" = "裝置的剩餘空間低";
 
@@ -371,7 +577,28 @@
 "Devices" = "設備";
 
 /* No comment provided by engineer. */
+"Difference" = "差異化";
+
+/* No comment provided by engineer. */
+"Directed" = "跟隨方向";
+
+/* No comment provided by engineer. */
+"Disc" = "磁碟";
+
+/* No comment provided by engineer. */
+"Display Style" = "顯示樣式";
+
+/* No comment provided by engineer. */
+"Distance" = "距離";
+
+/* No comment provided by engineer. */
 "Distort" = "扭曲";
+
+/* Effects category name */
+"Distortion" = "扭曲";
+
+/* No comment provided by engineer. */
+"Divide" = "分割";
 
 /* No comment provided by engineer. */
 "Document Already Exists" = "文件已存在";
@@ -394,6 +621,12 @@
 /* No comment provided by engineer. */
 "Done" = "完成";
 
+/* keyboard */
+"done" = "完成";
+
+/* No comment provided by engineer. */
+"Double-Headed Arrow" = "雙頭箭頭";
+
 /* No comment provided by engineer. */
 "Download" = "下載";
 
@@ -407,24 +640,54 @@
 "Draw Selection" = "繪製選取範圍";
 
 /* No comment provided by engineer. */
+"Droste" = "德羅斯特效應";
+
+/* Edit Menu */
 "Duplicate" = "複製";
 
 /* Gallery edit top bar duplicate button popover text. */
 "Duplicate %d Images" = "複製 %d 張影像";
 
+/* Layer Management */
+"Duplicate Layer" = "重複圖層";
+
 /* No comment provided by engineer. */
+"Edit" = "編輯";
+
+/* No comment provided by engineer. */
+"Edit JPEG" = "編輯 JPEG";
+
+/* No comment provided by engineer. */
+"Edit RAW" = "編輯 RAW";
+
+/* Tool */
 "Effects" = "效果";
 
 /* No comment provided by engineer. */
+"Eightfold" = "八倍";
+
+/* Tool */
+"Ellipse" = "橢圓";
+
+/* Tool */
 "Elliptical" = "橢圓形";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "橢圓選取";
 
+/* No comment provided by engineer. */
+"Elliptical Speech Bubble" = "橢圓對話泡泡";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Emerald" = "祖母綠";
 
 /* No comment provided by engineer. */
+"Enable Sharpening" = "啟用銳化";
+
+/* No comment provided by engineer. */
+"End Point" = "結束點";
+
+/* Tool */
 "Erase" = "抹除";
 
 /* No comment provided by engineer. */
@@ -438,6 +701,24 @@
 
 /* No comment provided by engineer. */
 "Error" = "錯誤";
+
+/* No comment provided by engineer. */
+"Events From My Mac" = "來自我的 Mac 的事件";
+
+/* No comment provided by engineer. */
+"Exclusion" = "排除";
+
+/* No comment provided by engineer. */
+"Exposure" = "曝光";
+
+/* No comment provided by engineer. */
+"Extent" = "Extent";
+
+/* No comment provided by engineer. */
+"Faces From My Mac" = "來自我的 Mac 的面孔";
+
+/* No comment provided by engineer. */
+"Fade" = "褪色";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Faded" = "褪色";
@@ -455,7 +736,13 @@
 "Failed to set one or more extended attributes." = "未能獲取一個或多個擴充功能屬性。";
 
 /* No comment provided by engineer. */
+"Favorite" = "最愛";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "當前演示版未啟用這個功能";
+
+/* Effects category name */
+"Fill" = "填充";
 
 /* No comment provided by engineer. */
 "Fill Color" = "填充顏色";
@@ -474,6 +761,15 @@
 
 /* No comment provided by engineer. */
 "Fix Red-Eyes" = "修正紅眼";
+
+/* No comment provided by engineer. */
+"Fixed" = "已修復";
+
+/* No comment provided by engineer. */
+"Flatten Layer" = "平坦圖層";
+
+/* Tool */
+"Flip" = "翻轉";
 
 /* No comment provided by engineer. */
 "Flip Horizontal" = "水平翻轉";
@@ -497,16 +793,34 @@
 "Fonts" = "字體";
 
 /* No comment provided by engineer. */
+"Foreground Color" = "前景色";
+
+/* No comment provided by engineer. */
 "Format" = "格式";
 
 /* No comment provided by engineer. */
+"Fourfold" = "四倍";
+
+/* No comment provided by engineer. */
+"Fourfold Rotated" = "四倍旋轉";
+
+/* No comment provided by engineer. */
+"Fourfold Translated" = "四倍轉換";
+
+/* Tool */
 "Free" = "可用空間";
 
 /* No comment provided by engineer. */
 "Free Selection" = "自由選取範圍";
 
+/* Tool */
+"Freeform" = "多邊形";
+
 /* No comment provided by engineer. */
 "Freely distort area of an image" = "自由扭曲影像區域";
+
+/* No comment provided by engineer. */
+"From My Mac" = "來自我的 Mac";
 
 /* No comment provided by engineer. */
 "Fullscreen" = "全螢幕";
@@ -515,18 +829,64 @@
 "Gallery" = "收藏館";
 
 /* No comment provided by engineer. */
+"Gaussian" = "高斯";
+
+/* Effects category name */
+"Generator" = "產生器";
+
+/* No comment provided by engineer. */
 "Get Started" = "開始";
 
 /* No comment provided by engineer. */
+"Glass Lozenge" = "玻璃菱形";
+
+/* No comment provided by engineer. */
+"Glazed" = "上釉";
+
+/* No comment provided by engineer. */
+"Glide Reflected" = "滑動反射";
+
+/* No comment provided by engineer. */
 "Gradient" = "漸層";
+
+/* No comment provided by engineer. */
+"Gradient Angle" = "漸變角度";
+
+/* No comment provided by engineer. */
+"Gradient Fill" = "漸變填充";
+
+/* No comment provided by engineer. */
+"Grain" = "紋理";
+
+/* No comment provided by engineer. */
+"Grain Rotation" = "顆粒旋轉";
+
+/* No comment provided by engineer. */
+"Grain Scale" = "顆粒度";
+
+/* No comment provided by engineer. */
+"Grain Spacing" = "顆粒間距";
+
+/* No comment provided by engineer. */
+"Grain Zoom" = "顆粒對焦";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Grainy" = "顆粒";
 
 /* No comment provided by engineer. */
+"Green" = "綠色";
+
+/* No comment provided by engineer. */
+"Green Channel" = "綠色通道";
+
+/* No comment provided by engineer. */
 "Green Color Balance" = "綠色平衡";
 
-/* Default new group layer name */
+/* No comment provided by engineer. */
+"Grey" = "灰色";
+
+/* Default new group layer name
+   Layer Arrange */
 "Group" = "群組";
 
 /* No comment provided by engineer. */
@@ -535,20 +895,41 @@
 /* No comment provided by engineer. */
 "Guides" = "參考線";
 
+/* Effects category name */
+"Halftone" = "中間色";
+
+/* No comment provided by engineer. */
+"Halo" = "光輪效果";
+
 /* Used to describe brush strength */
 "Hard" = "硬式";
 
 /* No comment provided by engineer. */
+"Hard Light" = "實光";
+
+/* No comment provided by engineer. */
+"Hard Mix" = "實色疊印混合";
+
+/* No comment provided by engineer. */
 "Hidden Layer" = "隱藏圖層";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Hide" = "隱藏";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Hide Layer" = "隱藏圖層";
+
+/* Color Balance */
+"Highlights" = "突出";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Hippie" = "嬉皮";
+
+/* No comment provided by engineer. */
+"Hole" = "孔";
+
+/* Perspective transform */
+"Horizontal Perspective" = "水平透視";
 
 /* No comment provided by engineer. */
 "Hue" = "色相";
@@ -557,24 +938,27 @@
 "Hue & Saturation" = "色相和飽和度";
 
 /* No comment provided by engineer. */
-"iCloud for Pixelmator" = "Pixelmator 的 iCloud";
+"Hue Scatter" = "色相散射";
 
 /* No comment provided by engineer. */
-"iCloud is available" = "iCloud 可用";
+"iCloud for Pixelmator" = "Pixelmator 的 iCloud";
 
 /* No comment provided by engineer. */
 "iCloud keeps your images up to date on all your devices" = "iCloud 讓您所有裝置上的影像保持同步。";
 
-/* No comment provided by engineer. */
+/* Untitled document name received via Handoff */
 "Image" = "影像";
 
 /* No comment provided by engineer. */
 "Image Enhancements" = "影像改善";
 
 /* No comment provided by engineer. */
-"Image Setup" = "影像設定";
+"Image Fill" = "影像填充";
 
 /* No comment provided by engineer. */
+"Image Setup" = "影像設定";
+
+/* Tool */
 "Image Size" = "影像大小";
 
 /* Edit Top Bar label text. Format:[X Documents Selected] */
@@ -582,6 +966,13 @@
 
 /* No comment provided by engineer. */
 "Import" = "匯入";
+
+/* short for inches
+   Units */
+"in" = "英吋";
+
+/* Units */
+"Inches" = "英吋";
 
 /* No comment provided by engineer. */
 "Increase Brush Size" = "放大筆刷";
@@ -596,10 +987,16 @@
 "Indent Radius" = "縮排半徑";
 
 /* No comment provided by engineer. */
+"Initial Direction" = "初始方向";
+
+/* Tool */
 "Ink" = "墨水";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Inky" = "水墨";
+
+/* No comment provided by engineer. */
+"Inner Shadow" = "內部陰影";
 
 /* No comment provided by engineer. */
 "Insert from..." = "插入…";
@@ -609,6 +1006,9 @@
 
 /* No comment provided by engineer. */
 "Install an app that can open your image in PNG, JPEG or Photoshop format" = "請安裝可以開啟 PNG、JPEG 或 Photoshop 格式影像的應用程式";
+
+/* No comment provided by engineer. */
+"Intensity" = "強度";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "反相";
@@ -640,17 +1040,11 @@
 /* Conflict resolve sheet */
 "Keep Both" = "兩者皆保留";
 
-/* No comment provided by engineer. */
-"Keep on My Device" = "在我的裝置上保留";
-
 /* Conflict resolve sheet */
 "Keep One" = "保留一項";
 
 /* No comment provided by engineer. */
 "Large" = "大";
-
-/* No comment provided by engineer. */
-"Later" = "稍後";
 
 /* Default new layer name */
 "Layer" = "層級";
@@ -662,7 +1056,13 @@
 "Layer Locked" = "圖層鎖定";
 
 /* No comment provided by engineer. */
+"Layer was flattened" = "圖層被展平";
+
+/* No comment provided by engineer. */
 "Learn More" = "更多內容";
+
+/* No comment provided by engineer. */
+"Left" = "左";
 
 /* No comment provided by engineer. */
 "Left-handed" = "左手";
@@ -683,12 +1083,31 @@
 "Left-handed vertical" = "左手垂直";
 
 /* No comment provided by engineer. */
+"Lens Correction" = "鏡頭拉直";
+
+/* No comment provided by engineer. */
 "Levels" = "位準";
+
+/* No comment provided by engineer. */
+"Library" = "圖書館";
+
+/* No comment provided by engineer. */
+"Light Color" = "淺色";
+
+/* No comment provided by engineer. */
+"Light Destination" = "光照終點";
 
 /* No comment provided by engineer. */
 "Light Leak" = "漏光";
 
 /* No comment provided by engineer. */
+"Light Source" = "光源";
+
+/* No comment provided by engineer. */
+"Light Tunnel" = "光隧道";
+
+/* Retouch Tools
+   Tool */
 "Lighten" = "變亮";
 
 /* No comment provided by engineer. */
@@ -701,7 +1120,46 @@
 "Lighten Strength" = "變亮強度";
 
 /* No comment provided by engineer. */
+"Lighter Color" = "顏色變亮";
+
+/* No comment provided by engineer. */
+"Lightness" = "明暗度";
+
+/* No comment provided by engineer. */
+"Lightness Scatter" = "亮度分散";
+
+/* Tool */
+"Line" = "線條";
+
+/* No comment provided by engineer. */
+"Linear Burn" = "線性加深";
+
+/* No comment provided by engineer. */
+"Linear Dodge" = "線性加亮";
+
+/* No comment provided by engineer. */
+"Linear Light" = "線性光源";
+
+/* No comment provided by engineer. */
+"Linear Tilt-Shift Blur" = "線性傾斜-移位模糊";
+
+/* No comment provided by engineer. */
+"Linked Files" = "連結的檔案";
+
+/* No comment provided by engineer. */
+"Linked Pixelmator Photo Files" = "已連結的 Pixelmator Photo 檔案";
+
+/* No comment provided by engineer. */
+"Load" = "載入";
+
+/* No comment provided by engineer. */
+"Loading..." = "載入中⋯";
+
+/* Layer */
 "Lock" = "鎖定";
+
+/* No comment provided by engineer. */
+"Lock %@" = "鎖定 %@";
 
 /* No comment provided by engineer. */
 "Lock Alpha" = "鎖定 Alpha";
@@ -709,13 +1167,22 @@
 /* No comment provided by engineer. */
 "Locked Layer" = "鎖定圖層";
 
+/* No comment provided by engineer. */
+"Luminance" = "亮度";
+
+/* No comment provided by engineer. */
+"Luminance Noise Reduction" = "亮度噪音降低";
+
+/* No comment provided by engineer. */
+"Luminosity" = "明度";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "天琴座";
 
 /* Selection */
 "Magic Wand Selection" = "魔術棒選取範圍";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Magnetic" = "磁性";
 
 /* No comment provided by engineer. */
@@ -727,14 +1194,23 @@
 /* No comment provided by engineer. */
 "Make your images look great with effects, color adjustments, and retouching tools." = "使用效果、顏色調整和潤飾工具來讓您的圖像看起來更美。";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Marker" = "馬克筆";
+
+/* Color Balance */
+"Master" = "主色";
+
+/* No comment provided by engineer. */
+"Master Color Wheel" = "主色輪";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Matte" = "遮罩";
 
 /* No comment provided by engineer. */
 "Maximum" = "最大值";
+
+/* No comment provided by engineer. */
+"Maximum Pressure Size" = "最大壓力大小";
 
 /* No comment provided by engineer. */
 "Medium" = "中";
@@ -746,13 +1222,46 @@
 "Merge" = "合併";
 
 /* No comment provided by engineer. */
+"Merge Brush Marks" = "合併畫筆標記";
+
+/* Color Balance */
+"Midtones" = "中間調";
+
+/* Units */
+"Milimeters" = "公釐";
+
+/* No comment provided by engineer. */
 "Miniaturize" = "微小化";
 
 /* No comment provided by engineer. */
 "Minimum" = "最小值";
 
+/* No comment provided by engineer. */
+"Minimum Opacity" = "最小不透明度";
+
+/* No comment provided by engineer. */
+"ML Crop" = "ML 裁切";
+
+/* No comment provided by engineer. */
+"ML Enhance" = "ML Enhance";
+
+/* No comment provided by engineer. */
+"ML Match Colors" = "ML 匹配顏色";
+
+/* No comment provided by engineer. */
+"ML Super Resolution" = "ML Super Resolution";
+
+/* Units */
+"mm" = "公釐";
+
 /* Used to describe on which device document were modified */
 "Modified on %@" = "修改於：%@";
+
+/* Edit Menu */
+"More..." = "更多...";
+
+/* No comment provided by engineer. */
+"Motion" = "動態";
 
 /* No comment provided by engineer. */
 "Move" = "搬移";
@@ -761,13 +1270,31 @@
 "Move Selection" = "移動所選範圍";
 
 /* No comment provided by engineer. */
+"Multiply" = "疊加";
+
+/* No comment provided by engineer. */
+"Mustache" = "鬍子";
+
+/* No comment provided by engineer. */
+"My Albums" = "我的相簿";
+
+/* No comment provided by engineer. */
 "Native Document Picker" = "本機文件選擇器";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "星雲";
 
 /* No comment provided by engineer. */
+"New Layer" = "新建圖層";
+
+/* No comment provided by engineer. */
 "New Photos Browser" = "新照片瀏覽器";
+
+/* keyboard */
+"next" = "下一個";
+
+/* No comment provided by engineer. */
+"Next Image" = "下一張影像";
 
 /* No comment provided by engineer. */
 "No Apps Available" = "沒有可用的應用程式";
@@ -785,6 +1312,9 @@
 "Noise" = "雜訊";
 
 /* No comment provided by engineer. */
+"Noise Reduction" = "雜點消除";
+
+/* Tool */
 "None" = "無";
 
 /* Used to describe brush strength */
@@ -797,7 +1327,19 @@
 "OK" = "好的";
 
 /* No comment provided by engineer. */
+"Op" = "Op";
+
+/* No comment provided by engineer. */
 "Opacity" = "不透明";
+
+/* No comment provided by engineer. */
+"Opacity by Pressure" = "壓力不透明度";
+
+/* No comment provided by engineer. */
+"Opacity by Speed" = "速度不透明度";
+
+/* No comment provided by engineer. */
+"Opacity Scatter" = "不透明度散佈";
 
 /* No comment provided by engineer. */
 "Open In Another App" = "使用其他應用程式開啟";
@@ -806,37 +1348,100 @@
 "Open in Another App" = "使用其他應用程式開啟";
 
 /* No comment provided by engineer. */
+"Orientation" = "方向";
+
+/* No comment provided by engineer. */
+"Oriented" = "追隨方向";
+
+/* No comment provided by engineer. */
 "Original" = "原始檔案";
+
+/* No comment provided by engineer. */
+"ORIGINAL" = "原始";
+
+/* No comment provided by engineer. */
+"ORIGINAL COLORS" = "原色";
+
+/* No comment provided by engineer. */
+"ORIGINAL COMPOSITION" = "原始組合";
+
+/* No comment provided by engineer. */
+"ORIGINAL CONTENT" = "原始內容";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "原始視角";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Orion" = "獵戶座";
 
+/* Effects category name */
+"Other" = "其他";
+
 /* No comment provided by engineer. */
+"Other Albums" = "其他相簿";
+
+/* No comment provided by engineer. */
+"Overlay" = "覆疊";
+
+/* Tool */
 "Paint" = "上色";
 
 /* No comment provided by engineer. */
 "Paint with a sample of an area" = "使用區域樣本來繪畫";
 
 /* No comment provided by engineer. */
+"Pass Through" = "通過";
+
+/* Edit Menu */
 "Paste" = "貼上";
+
+/* No comment provided by engineer. */
+"Paste Adjustments" = "貼上調整";
+
+/* Layer Management */
+"Paste Layer" = "貼上圖層";
+
+/* No comment provided by engineer. */
+"Path" = "路徑";
+
+/* No comment provided by engineer. */
+"Pattern" = "模式";
+
+/* No comment provided by engineer. */
+"Pattern Fill" = "圖案填充";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Pavo" = "孔雀座";
 
-/* No comment provided by engineer. */
+/* Tool */
+"Pen" = "筆";
+
+/* Tool */
 "Pencil" = "鉛筆";
 
-/* No comment provided by engineer. */
+/* Units */
+"Percents" = "百分比";
+
+/* Tool */
+"Perspective Transform" = "透視轉換";
+
+/* Native iOS Photos app name */
 "Photos" = "照片";
 
 /* No comment provided by engineer. */
 "Photoshop" = "Photoshop";
 
 /* No comment provided by engineer. */
+"Pin Light" = "小光源";
+
+/* Tool */
 "Pinch" = "壓縮";
 
 /* No comment provided by engineer. */
 "Pinch Settings" = "放大縮小設定";
+
+/* Tool */
+"Pixel Tool" = "圖元工具";
 
 /* No comment provided by engineer. */
 "Pixelmator" = "Pixelmator";
@@ -847,17 +1452,29 @@
 /* No comment provided by engineer. */
 "Pixelmator has been denied access to the Camera. Please allow access in Settings." = "Pixelmator 無相機的存取權。請至設定開啟權限。";
 
+/* Units */
+"Pixels" = "圖元";
+
 /* No comment provided by engineer. */
 "Please try again later." = "請稍後再試。";
 
 /* No comment provided by engineer. */
 "PNG" = "PNG";
 
-/* No comment provided by engineer. */
+/* Units */
 "Points" = "點";
 
 /* No comment provided by engineer. */
 "Points Count" = "點數";
+
+/* Tool */
+"Polygon" = "多邊形";
+
+/* No comment provided by engineer. */
+"Posterize" = "海報化";
+
+/* No comment provided by engineer. */
+"Preserve transparency" = "保留透明度";
 
 /* No comment provided by engineer. */
 "Presets" = "預設組";
@@ -869,15 +1486,21 @@
 "Previous" = "上一張";
 
 /* No comment provided by engineer. */
+"Previous Image" = "上一張影像";
+
+/* No comment provided by engineer. */
+"Processing..." = "正在處理...";
+
+/* Units */
 "pt" = "點";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Punk" = "龐克";
 
-/* No comment provided by engineer. */
+/* Units */
 "px" = "像素";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Quick" = "快速";
 
 /* Selection Undo */
@@ -889,17 +1512,56 @@
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "快速選取細節物件";
 
+/* Recents group abbreviation */
+"R" = "R";
+
 /* No comment provided by engineer. */
 "Radius" = "半徑";
+
+/* No comment provided by engineer. */
+"Random" = "隨機切換";
+
+/* No comment provided by engineer. */
+"Range" = "範圍";
 
 /* No comment provided by engineer. */
 "Rasterize Layer" = "柵格化圖層";
 
 /* No comment provided by engineer. */
+"RAW" = "RAW";
+
+/* No comment provided by engineer. */
+"RAW Layer" = "RAW 圖層";
+
+/* Layer creation */
+"Raw Layer" = "RAW 圖層";
+
+/* No comment provided by engineer. */
+"RAW+JPEG" = "RAW+JPEG";
+
+/* No comment provided by engineer. */
+"Recent" = "最近";
+
+/* No comment provided by engineer. */
+"Recents" = "最近項目";
+
+/* Tool */
+"Rectangle" = "矩形";
+
+/* Tool */
 "Rectangular" = "矩形";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "矩形選取";
+
+/* No comment provided by engineer. */
+"Rectangular Speech Bubble" = "矩形對話泡泡";
+
+/* No comment provided by engineer. */
+"Red" = "紅色";
+
+/* No comment provided by engineer. */
+"Red Channel" = "紅色通道";
 
 /* No comment provided by engineer. */
 "Red Color Balance" = "紅色平衡";
@@ -909,6 +1571,9 @@
 
 /* No comment provided by engineer. */
 "Redo" = "重做";
+
+/* No comment provided by engineer. */
+"Redo %@" = "重作 %@";
 
 /* No comment provided by engineer. */
 "Refine Selection" = "調整選取範圍";
@@ -929,6 +1594,12 @@
 "Remove" = "移除";
 
 /* No comment provided by engineer. */
+"Remove Color" = "移除顏色";
+
+/* No comment provided by engineer. */
+"Remove Mask" = "移除蒙版";
+
+/* No comment provided by engineer. */
 "Remove red-eye effect" = "移除紅眼效果";
 
 /* No comment provided by engineer. */
@@ -940,11 +1611,18 @@
 /* No comment provided by engineer. */
 "Rename Image Error" = "重新命名影像錯誤";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Repair" = "修復";
 
 /* No comment provided by engineer. */
+"Repair Selection" = "修復選取範圍";
+
+/* No comment provided by engineer. */
 "Repair Tool" = "修正工具";
+
+/* No comment provided by engineer. */
+"Repairing..." = "正在修復...";
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "正在修復... %@";
@@ -956,16 +1634,52 @@
 "Replace All" = "全部取代";
 
 /* No comment provided by engineer. */
+"Replace Color" = "替換顏色";
+
+/* No comment provided by engineer. */
 "Replace Image" = "取代影像";
 
 /* No comment provided by engineer. */
 "Reset" = "重置";
 
 /* No comment provided by engineer. */
+"Reset Adjustments" = "重設調整";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "重設自動增強";
+
+/* No comment provided by engineer. */
+"Reset Crop" = "重設裁切";
+
+/* Perspective transform */
+"Reset Horizontal Perspective" = "重設水平透視";
+
+/* No comment provided by engineer. */
+"Reset ML Crop" = "重設 ML 裁切";
+
+/* No comment provided by engineer. */
+"Reset ML Enhance" = "重設 ML 增強功能";
+
+/* No comment provided by engineer. */
+"Reset ML Match Colors" = "重設 ML 匹配顏色";
+
+/* Perspective transform */
+"Reset Perspective" = "重設透視";
+
+/* No comment provided by engineer. */
+"Reset Repair Changes" = "重設修復更改";
+
+/* Perspective transform */
+"Reset Vertical Perspective" = "重設垂直透視";
+
+/* Tool */
 "Restore" = "回復";
 
 /* No comment provided by engineer. */
 "Restore distorted areas" = "復原扭曲的區域";
+
+/* No comment provided by engineer. */
+"Restore Layer" = "還原圖層";
 
 /* No comment provided by engineer. */
 "Restore Settings" = "回復設定";
@@ -979,11 +1693,20 @@
 /* No comment provided by engineer. */
 "Revert" = "還原";
 
+/* No comment provided by engineer. */
+"Revert to Original" = "回復原狀";
+
+/* No comment provided by engineer. */
+"RGB" = "RGB";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Rich" = "豐富";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Rigel" = "參宿七";
+
+/* No comment provided by engineer. */
+"Right" = "右";
 
 /* No comment provided by engineer. */
 "Right-handed" = "右手";
@@ -1006,8 +1729,11 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Romantic" = "浪漫";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Rotate" = "旋轉";
+
+/* No comment provided by engineer. */
+"Rotate 180°" = "旋轉 180°";
 
 /* No comment provided by engineer. */
 "Rotate Left" = "向左旋轉";
@@ -1018,14 +1744,24 @@
 /* No comment provided by engineer. */
 "Rotate Selection" = "旋轉選取範圍";
 
+/* Tool */
+"Rounded Rect." = "圓角長方形";
+
+/* No comment provided by engineer. */
+"Rounded Rectangle" = "圓角矩形";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Ruby" = "紅寶石";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Saturate" = "飽和";
 
 /* No comment provided by engineer. */
 "Saturation" = "飽和度";
+
+/* No comment provided by engineer. */
+"Saturation Scatter" = "飽和度散射";
 
 /* No comment provided by engineer. */
 "Saturation Settings" = "飽和度設定";
@@ -1037,10 +1773,43 @@
 "Save to iCloud Drive" = "儲存到 iCloud Drive";
 
 /* No comment provided by engineer. */
+"Scale" = "縮放";
+
+/* No comment provided by engineer. */
+"Scale Horizontally by Tilt" = "按傾斜水平縮放";
+
+/* No comment provided by engineer. */
+"Scale Shape Horizontally" = "水平縮放形狀";
+
+/* No comment provided by engineer. */
+"Scale Shape Vertically" = "垂直縮放形狀";
+
+/* No comment provided by engineer. */
+"Scale to Fill" = "縮放以填充";
+
+/* No comment provided by engineer. */
+"Scale to Fit" = "縮放以適合";
+
+/* No comment provided by engineer. */
+"Scale Vertically by Tilt" = "按傾斜度垂直縮放";
+
+/* No comment provided by engineer. */
+"Screen" = "螢幕";
+
+/* No comment provided by engineer. */
 "Select" = "選取";
+
+/* No comment provided by engineer. */
+"Select All" = "全選";
 
 /* Edit Top Bar label text */
 "Select an Image" = "選取影像";
+
+/* Tool */
+"Select Column" = "選取列";
+
+/* No comment provided by engineer. */
+"Select Images" = "選擇影像";
 
 /* No comment provided by engineer. */
 "Select objects by tracing their edges" = "通過描摹物件邊緣來選取";
@@ -1051,14 +1820,23 @@
 /* No comment provided by engineer. */
 "Select rounded areas" = "選取圓角區域";
 
+/* Tool */
+"Select Row" = "選取行";
+
 /* No comment provided by engineer. */
 "Select similarly colored areas" = "選取顏色相近的區域";
+
+/* No comment provided by engineer. */
+"Selected Color" = "選取顏色";
 
 /* No comment provided by engineer. */
 "Selection" = "所選範圍";
 
 /* No comment provided by engineer. */
 "Selection Mode" = "選取範圍模式";
+
+/* No comment provided by engineer. */
+"Selective Color" = "選擇性顏色";
 
 /* No comment provided by engineer. */
 "Send a Copy" = "傳送複本";
@@ -1074,6 +1852,9 @@
 
 /* No comment provided by engineer. */
 "Settings" = "設定";
+
+/* No comment provided by engineer. */
+"Shadow" = "陰影";
 
 /* No comment provided by engineer. */
 "Shadow Angle" = "陰影角度";
@@ -1093,17 +1874,34 @@
 /* No comment provided by engineer. */
 "Shadow On" = "有陰影";
 
+/* Color Balance */
+"Shadows" = "陰影";
+
 /* Default new shape layer name */
 "Shape" = "形狀";
+
+/* No comment provided by engineer. */
+"Shape Angle" = "形狀角度";
+
+/* No comment provided by engineer. */
+"Shape Direction" = "形狀方向";
 
 /* No comment provided by engineer. */
 "Share" = "共享";
 
 /* No comment provided by engineer. */
-"Sharing" = "共享";
+"Shared Albums" = "分享的相簿";
 
 /* No comment provided by engineer. */
+"Sharing" = "共享";
+
+/* Effects category name
+   Retouch Tools
+   Tool */
 "Sharpen" = "銳化";
+
+/* No comment provided by engineer. */
+"Sharpen Luminance" = "銳化亮度";
 
 /* No comment provided by engineer. */
 "Sharpen Settings" = "銳化影像";
@@ -1115,18 +1913,49 @@
 "Sharpen the focus" = "銳化焦點";
 
 /* No comment provided by engineer. */
+"Sharpness" = "清晰度";
+
+/* No comment provided by engineer. */
 "Show" = "顯示";
 
 /* No comment provided by engineer. */
 "Show Colors" = "顯示顏色";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Show Layer" = "顯示圖層";
+
+/* No comment provided by engineer. */
+"Simple" = "簡易";
+
+/* No comment provided by engineer. */
+"Sixfold Reflected" = "六倍反射";
+
+/* No comment provided by engineer. */
+"Sixfold Rotated" = "六倍旋轉";
+
+/* No comment provided by engineer. */
+"Size" = "大小";
+
+/* No comment provided by engineer. */
+"Size by Pressure" = "壓力大小";
+
+/* No comment provided by engineer. */
+"Size by Speed" = "速度大小";
+
+/* No comment provided by engineer. */
+"Size Scatter" = "大小散佈";
+
+/* No comment provided by engineer. */
+"Skew" = "斜";
 
 /* No comment provided by engineer. */
 "Small" = "小";
 
 /* No comment provided by engineer. */
+"Smooth Textures" = "平滑紋理";
+
+/* Retouch Tools
+   Tool */
 "Smudge" = "塗抹";
 
 /* No comment provided by engineer. */
@@ -1138,10 +1967,17 @@
 /* No comment provided by engineer. */
 "Smudge Strength" = "塗抹強度";
 
+/* No comment provided by engineer. */
+"Snapping" = "捕捉";
+
 /* Used to describe brush strength */
 "Soft" = "柔和";
 
 /* No comment provided by engineer. */
+"Soft Light" = "柔光";
+
+/* Retouch Tools
+   Tool */
 "Soften" = "柔化";
 
 /* No comment provided by engineer. */
@@ -1151,16 +1987,25 @@
 "Soften Strength" = "軟化強度";
 
 /* No comment provided by engineer. */
-"Some changes were made to your presentation" = "您的演講做了某些更改";
+"Softness" = "軟度";
 
 /* No comment provided by engineer. */
-"Some document changes are not in sync. All versions will be saved separately." = "某些文件變更不同步。所有版本會分別儲存。";
+"Some changes were made to your presentation" = "您的演講做了某些更改";
 
 /* No comment provided by engineer. */
 "Some Layer Group settings are not supported. Your image might look different." = "某些圖層群組設定不支援。您的影像可能會看上去與以前不一樣。";
 
 /* No comment provided by engineer. */
-"Something went wrong. Please try again." = "出問題了。請再試一次。";
+"Source Atop" = "來源於頂端";
+
+/* No comment provided by engineer. */
+"Source Color" = "源顏色";
+
+/* No comment provided by engineer. */
+"Source In" = "源在內部";
+
+/* No comment provided by engineer. */
+"Source Out" = "源在外部";
 
 /* No comment provided by engineer. */
 "Spin area of an image to the left" = "將影像區域向左旋轉";
@@ -1169,6 +2014,9 @@
 "Spin area of an image to the right" = "將影像區域向右旋轉";
 
 /* No comment provided by engineer. */
+"Spot Light" = "探照燈";
+
+/* Tool */
 "Spray" = "噴刷";
 
 /* No comment provided by engineer. */
@@ -1177,8 +2025,26 @@
 /* No comment provided by engineer. */
 "Squeeze area of an image" = "壓縮影像區域";
 
+/* Tool */
+"Star" = "星";
+
+/* No comment provided by engineer. */
+"Start Point" = "起點";
+
+/* Tool */
+"Straighten" = "拉直";
+
 /* No comment provided by engineer. */
 "Strength" = "強度";
+
+/* No comment provided by engineer. */
+"Stretch" = "拉伸";
+
+/* No comment provided by engineer. */
+"Stripes" = "條紋";
+
+/* No comment provided by engineer. */
+"Stroke" = "線條";
 
 /* No comment provided by engineer. */
 "Stroke Color" = "筆畫顏色";
@@ -1193,10 +2059,22 @@
 "Stroke On" = "有筆畫";
 
 /* No comment provided by engineer. */
-"Stroke Width" = "筆畫寬度";
+"Stroke Position" = "筆畫位置";
 
 /* No comment provided by engineer. */
+"Stroke Type" = "筆畫類型";
+
+/* No comment provided by engineer. */
+"Stroke Width" = "筆畫寬度";
+
+/* Tool */
 "Style" = "樣式";
+
+/* Effects category name */
+"Stylize" = "風格化";
+
+/* No comment provided by engineer. */
+"Subtract" = "減去";
 
 /* No comment provided by engineer. */
 "Subtract from" = "相減";
@@ -1205,7 +2083,22 @@
 "Subtract from Selection" = "從選取範圍中減去";
 
 /* No comment provided by engineer. */
+"Sunbeams" = "日射";
+
+/* No comment provided by engineer. */
+"Tail End Dynamics" = "尾端動態";
+
+/* No comment provided by engineer. */
 "Tail Location" = "尾巴位置";
+
+/* No comment provided by engineer. */
+"Tail Opacity" = "尾部不透明度";
+
+/* No comment provided by engineer. */
+"Tail Size" = "尾部大小";
+
+/* No comment provided by engineer. */
+"Tail Start Dynamics" = "尾部起點動態";
 
 /* No comment provided by engineer. */
 "Tail Width" = "尾巴寬度";
@@ -1240,6 +2133,9 @@
 /* No comment provided by engineer. */
 "Tap to choose an eraser" = "按一下來選取橡皮擦";
 
+/* No comment provided by engineer. */
+"Target Color" = "目標顏色";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Taurus" = "金牛座";
 
@@ -1255,7 +2151,8 @@
 /* Template download alert */
 "Templates are stored on the Internet so it might take a while to download one." = "樣板儲存在網際網路中，所以下載可能需要一些時間。";
 
-/* Default new text layer name */
+/* Default new text layer name
+   Tool */
 "Text" = "文字";
 
 /* No comment provided by engineer. */
@@ -1307,7 +2204,13 @@
 "The image will be opened in Pixelmator file format." = "影像將會以 Pixelmator 檔案格式開啟。";
 
 /* No comment provided by engineer. */
+"The maximum number of layers for this image size is %i" = "此影像大小的最大圖層數為 %i";
+
+/* No comment provided by engineer. */
 "The new document picker lets you manage your images using the familiar Files app." = "新的文件選擇器讓你可以使用熟悉的檔案應用程式管理圖像。";
+
+/* No comment provided by engineer. */
+"The size is too large." = "大小超出限制。";
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "不支援 %@ 圖層格式。您的影像可能看起來不同。";
@@ -1321,6 +2224,21 @@
 /* No comment provided by engineer. */
 "This version of Pixelmator has been created specifically for demonstration purposes" = "這個版本的 Pixelmator 專為演示用途定製";
 
+/* Effects category name */
+"Tile" = "並排";
+
+/* No comment provided by engineer. */
+"Tilt Maximum Size" = "傾斜最大大小";
+
+/* No comment provided by engineer. */
+"Tilt Scatter" = "傾斜散佈";
+
+/* No comment provided by engineer. */
+"Tilt Shift" = "傾斜移位";
+
+/* No comment provided by engineer. */
+"Tilt-Shift" = "傾斜移位";
+
 /* No comment provided by engineer. */
 "Tint" = "色調";
 
@@ -1331,16 +2249,46 @@
 "Toggle Eraser" = "切換橡皮擦";
 
 /* No comment provided by engineer. */
+"Tone" = "調";
+
+/* No comment provided by engineer. */
 "Tool" = "工具";
 
 /* No comment provided by engineer. */
 "Tools" = "工具";
 
 /* No comment provided by engineer. */
+"Top" = "頂";
+
+/* No comment provided by engineer. */
+"Torus Lens" = "圓環透鏡";
+
+/* No comment provided by engineer. */
+"Touch Opacity" = "觸摸不透明度";
+
+/* No comment provided by engineer. */
+"Touch Size" = "觸摸大小";
+
+/* No comment provided by engineer. */
 "Transform" = "變形";
 
 /* No comment provided by engineer. */
 "Transform Selection" = "變形所選範圍";
+
+/* No comment provided by engineer. */
+"Transition" = "過渡";
+
+/* No comment provided by engineer. */
+"Triangle" = "三角形";
+
+/* Tool */
+"Trim Canvas" = "修剪畫布";
+
+/* No comment provided by engineer. */
+"Twelvefold" = "12 倍";
+
+/* Tool */
+"Twirl" = "旋轉";
 
 /* No comment provided by engineer. */
 "Twirl Left" = "向左扭轉";
@@ -1385,13 +2333,22 @@
 "Undo" = "還原";
 
 /* No comment provided by engineer. */
+"Undo %@" = "還原 %@";
+
+/* No comment provided by engineer. */
+"Unfavorite" = "取消最愛";
+
+/* Layer Arrange */
 "Ungroup" = "解散群組";
 
 /* No comment provided by engineer. */
 "Unknown" = "未知的";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Unlock" = "解鎖";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "解鎖 %@";
 
 /* No comment provided by engineer. */
 "Unlock Alpha" = "解鎖 Alpha";
@@ -1402,6 +2359,15 @@
 /* No comment provided by engineer. */
 "Unsupported activity type" = "不支援的活動類型";
 
+/* No comment provided by engineer. */
+"Untitled" = "未命名";
+
+/* No comment provided by engineer. */
+"Untitled layer" = "未命名圖層";
+
+/* No comment provided by engineer. */
+"Untitled Layer" = "未命名圖層";
+
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "都市";
 
@@ -1409,13 +2375,13 @@
 "Use any of the inspiring drawing or painting tools to create stunning artwork." = "使用任何可激發您靈感的繪畫工具來創作令人讚歎的作品。";
 
 /* No comment provided by engineer. */
-"Use iCloud" = "使用 iCloud";
-
-/* No comment provided by engineer. */
 "Use the new template chooser to quickly create new images with common sizes." = "你可以使用新的模板選擇器快速以常見尺寸建立新圖像。";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "維加";
+
+/* Perspective transform */
+"Vertical Perspective" = "垂直透視";
 
 /* Used to describe brush strength */
 "Very Hard" = "很硬";
@@ -1429,6 +2395,9 @@
 /* Used to describe brush strength */
 "Very Soft" = "很軟";
 
+/* No comment provided by engineer. */
+"Vibrance" = "自然飽和度";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "鮮豔";
 
@@ -1439,7 +2408,16 @@
 "Vignette" = "暈邊";
 
 /* No comment provided by engineer. */
+"Vignette Softness" = "暈邊軟度";
+
+/* No comment provided by engineer. */
 "Vintage" = "復古";
+
+/* No comment provided by engineer. */
+"Vivid Light" = "強烈光源";
+
+/* No comment provided by engineer. */
+"Vortex" = "旋渦";
 
 /* No comment provided by engineer. */
 "Wacom Stylus" = "Wacom 觸控筆";
@@ -1450,7 +2428,7 @@
 /* No comment provided by engineer. */
 "Warning" = "警告";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Warp" = "彎曲";
 
 /* No comment provided by engineer. */
@@ -1463,7 +2441,7 @@
 "Watercolor" = "水彩";
 
 /* No comment provided by engineer. */
-"What would you like to do with the documents currently on this device?" = "您想如何處理這臺裝置上的現有文檔？";
+"Wetness" = "濕度";
 
 /* No comment provided by engineer. */
 "What's New" = "有什麼新功能";
@@ -1473,6 +2451,9 @@
 
 /* No comment provided by engineer. */
 "White Balance" = "白平衡";
+
+/* No comment provided by engineer. */
+"Workflow %i" = "工作流程 %i\n";
 
 /* No comment provided by engineer. */
 "Writing Style" = "書寫方式";
@@ -1514,7 +2495,7 @@
 "You'll choose an app in the next step." = "您會在下一步中選取應用程式。";
 
 /* No comment provided by engineer. */
-"You're Not Using iCloud" = "您沒有使用 iCloud";
+"Zoom" = "縮放";
 
 /* No comment provided by engineer. */
 "Zoom In" = "放大";

@@ -1,5 +1,23 @@
+/* crop aspect ratio */
+"%.2f:%0.2f" = "%1$.2f:%2$.2f";
+
+/* crop aspect ratio */
+"%.2f:%d" = "%1$.2f:%2$d";
+
 /* No comment provided by engineer. */
 "%@ Effect" = "Эффект %@";
+
+/* seconds */
+"%@s" = "%@с";
+
+/* crop aspect ratio */
+"%d:%0.2f" = "%1$d:%2$.2f";
+
+/* crop aspect ratio */
+"%d:%d" = "%1$d:%2$d";
+
+/* No comment provided by engineer. */
+"%i Images Selected" = "Выбрано изображений: %i";
 
 /* No comment provided by engineer. */
 "(empty)" = "(пусто)";
@@ -8,19 +26,31 @@
 "1 Image Selected" = "Выбрано 1 изображение";
 
 /* No comment provided by engineer. */
+"\"%@\" Preset" = "Набор \"%@\"";
+
+/* No comment provided by engineer. */
 "A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "Документ под названием “%@” уже имеется в этой папке. Хотите заменить его новым?";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "Будет создана сведенная копия изображения.";
 
 /* No comment provided by engineer. */
-"Add Effects" = "Эффекты";
+"Accumulation" = "Накопление";
 
 /* No comment provided by engineer. */
+"Add Effects" = "Эффекты";
+
+/* Layer Management */
+"Add Image" = "Добавить изображение";
+
+/* Layer Management */
 "Add Layer" = "Добавить слой";
 
 /* No comment provided by engineer. */
 "Add Mask" = "Добавить маску";
+
+/* No comment provided by engineer. */
+"Add Raw Layer" = "Добавить RAW-слой";
 
 /* Selection Undo */
 "Add Selection" = "Добавить выделение";
@@ -28,7 +58,7 @@
 /* No comment provided by engineer. */
 "Add Shape" = "Добавить фигуру";
 
-/* No comment provided by engineer. */
+/* Layer Management */
 "Add Text" = "Добавить текст";
 
 /* No comment provided by engineer. */
@@ -50,7 +80,16 @@
 "Adonit Jot Stylus" = "Стилус Adonit Jot";
 
 /* No comment provided by engineer. */
+"Affine Tile" = "Аффинная мозаика";
+
+/* No comment provided by engineer. */
 "All" = "Все";
+
+/* No comment provided by engineer. */
+"All Albums" = "Все альбомы";
+
+/* No comment provided by engineer. */
+"All Photos" = "Все фото";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "Янтарь";
@@ -60,6 +99,15 @@
 
 /* No comment provided by engineer. */
 "An error occurred while opening the image." = "Ошибка при открытии изображения.";
+
+/* No comment provided by engineer. */
+"Angle" = "Угол";
+
+/* No comment provided by engineer. */
+"Angle by Tilt" = "Угол наклона";
+
+/* No comment provided by engineer. */
+"Angle Scatter" = "Разброс углов";
 
 /* No comment provided by engineer. */
 "Apply" = "Применить";
@@ -76,11 +124,18 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Arcturus" = "Арктур";
 
-/* No comment provided by engineer. */
+/* Layer Arrange
+   Tool */
 "Arrange" = "Порядок";
 
 /* No comment provided by engineer. */
+"Arrow" = "Стрелка";
+
+/* No comment provided by engineer. */
 "Arrow Edit" = "Правка стрелки";
+
+/* No comment provided by engineer. */
+"Arrow from Point" = "Стрелка с точкой";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Art Deco" = "Арт-деко";
@@ -95,15 +150,24 @@
 "Auto" = "Авто";
 
 /* No comment provided by engineer. */
-"Automatically store your documents in the cloud to keep them up-to-date across all your devices and the web." = "Автоматически сохраняйте документы в облачном хранилище, чтобы иметь доступ к ним из интернета и со всех устройств.";
+"Auto Enhance" = "Автоулучшение";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "B&W" = "Ч/Б";
 
 /* No comment provided by engineer. */
+"Background Color" = "Цвет фона";
+
+/* No comment provided by engineer. */
 "Background Layer" = "Фоновый слой";
 
 /* No comment provided by engineer. */
+"Balance Adjustment" = "Корректировки баланса";
+
+/* No comment provided by engineer. */
+"Baseline Exposure" = "Экспозиция базовой линии";
+
+/* Tool */
 "Basic" = "Базовый";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
@@ -113,18 +177,39 @@
 "Begin Selection" = "Начать выделение";
 
 /* No comment provided by engineer. */
+"Behind" = "Позади";
+
+/* No comment provided by engineer. */
+"Bias" = "Уклон";
+
+/* No comment provided by engineer. */
 "Black & White" = "Ч/Б";
+
+/* No comment provided by engineer. */
+"Black Point" = "Точка черного";
 
 /* No comment provided by engineer. */
 "Blending" = "Смешивание";
 
 /* No comment provided by engineer. */
+"Blending mode" = "Режим смешивания";
+
+/* No comment provided by engineer. */
+"Blending Mode" = "Режим смешивания";
+
+/* No comment provided by engineer. */
 "Bloat area of an image" = "Раздуть область изображения";
+
+/* No comment provided by engineer. */
+"Blue" = "Синий";
+
+/* No comment provided by engineer. */
+"Blue Channel" = "Синий канал";
 
 /* No comment provided by engineer. */
 "Blue Color Balance" = "Баланс синего";
 
-/* No comment provided by engineer. */
+/* Effects category name */
 "Blur" = "Размытие";
 
 /* No comment provided by engineer. */
@@ -134,7 +219,19 @@
 "Bokeh" = "Боке";
 
 /* No comment provided by engineer. */
+"Boost" = "Усиление";
+
+/* No comment provided by engineer. */
+"Boost Shadow" = "Усиление тени";
+
+/* No comment provided by engineer. */
 "Borders" = "Границы";
+
+/* No comment provided by engineer. */
+"Bottom" = "Нижнее";
+
+/* No comment provided by engineer. */
+"Box" = "Ящик";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Bright" = "Ярко";
@@ -149,16 +246,25 @@
 "Brush" = "Кисть";
 
 /* No comment provided by engineer. */
+"Brush Scatter" = "Разброс кисти";
+
+/* No comment provided by engineer. */
 "Brush Settings" = "Настройки кисти";
 
 /* No comment provided by engineer. */
 "Brush Size" = "Размер кисти";
 
 /* No comment provided by engineer. */
+"Brush Spacing" = "Интервал кисти";
+
+/* Tool */
 "Bump" = "Вздутие";
 
 /* No comment provided by engineer. */
 "Bump Settings" = "Настройки вздутия";
+
+/* Custom group abbreviation */
+"C" = "СЗ";
 
 /* No comment provided by engineer. */
 "Camera Access Denied" = "Доступ к камере запрещен";
@@ -175,6 +281,9 @@
 /* No comment provided by engineer. */
 "Canvas" = "Холст";
 
+/* Tool */
+"Canvas Size" = "Размер холста";
+
 /* No comment provided by engineer. */
 "Categories" = "Категории";
 
@@ -182,10 +291,25 @@
 "Celeste" = "Селеста";
 
 /* No comment provided by engineer. */
+"Center" = "Центр";
+
+/* Units */
+"Centimeters" = "Сантиметры";
+
+/* No comment provided by engineer. */
 "Change Color..." = "Изменить цвет...";
+
+/* No comment provided by engineer. */
+"Channel" = "Канал";
+
+/* No comment provided by engineer. */
+"Channel Mixer" = "Микшер каналов";
 
 /* Used in template downloading. */
 "Check your network connection and try again." = "Проверьте соединение с сетью и попробуйте еще раз.";
+
+/* No comment provided by engineer. */
+"Checkerboard" = "В клетку";
 
 /* No comment provided by engineer. */
 "Choose App" = "Выберите приложение";
@@ -197,12 +321,34 @@
 "Choose Neutral Color" = "Выберите нейтральный цвет";
 
 /* No comment provided by engineer. */
+"Chromatic Noise Tracking" = "Трекинг хроматического шума";
+
+/* No comment provided by engineer. */
+"Chromaticity X" = "Хроматичность X";
+
+/* No comment provided by engineer. */
+"Chromaticity Y" = "Хроматичность Y";
+
+/* No comment provided by engineer. */
+"Circle Splash" = "Круг на воде";
+
+/* No comment provided by engineer. */
+"Circle Tilt-Shift Blur" = "Круговое размытие тилт-шифт";
+
+/* No comment provided by engineer. */
+"Circular Wrap" = "Круговое обтекание";
+
+/* No comment provided by engineer. */
+"Clarity" = "Ясность";
+
+/* No comment provided by engineer. */
 "Clipboard" = "Буфер обмена";
 
 /* No comment provided by engineer. */
 "Clipping Mask is not supported. Your image might look different." = "Маска обрезки не поддерживается. Ваше изображение может выглядеть иначе.";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Clone" = "Штамп";
 
 /* No comment provided by engineer. */
@@ -212,7 +358,35 @@
 "Close Selection" = "Закрыть выделение";
 
 /* No comment provided by engineer. */
+"Clouds" = "Облака";
+
+/* Units */
+"cm" = "см";
+
+/* Tool */
 "Color" = "Цвет";
+
+/* Adjust Colors
+   Effects category name */
+"Color Adjustments" = "Цветокоррекция";
+
+/* No comment provided by engineer. */
+"Color Balance" = "Цветовой баланс";
+
+/* No comment provided by engineer. */
+"Color Burn" = "Затемнение основы";
+
+/* No comment provided by engineer. */
+"Color Dodge" = "Осветление основы";
+
+/* No comment provided by engineer. */
+"Color Fill" = "Заливка цветом";
+
+/* No comment provided by engineer. */
+"Color Monochrome" = "Монохромный цвет";
+
+/* No comment provided by engineer. */
+"Color Noise Reduction" = "Уменьшение цв. шума";
 
 /* No comment provided by engineer. */
 "Color Picker" = "Пипетка";
@@ -221,7 +395,13 @@
 "Color Selection" = "Выбор цвета";
 
 /* No comment provided by engineer. */
+"Color Wheels" = "Цветовые круги";
+
+/* Tool */
 "Colors" = "Цвета";
+
+/* No comment provided by engineer. */
+"Concentration" = "Концентрация";
 
 /* No comment provided by engineer. */
 "Connect" = "Подключить";
@@ -236,10 +416,10 @@
 "Connecting..." = "Подключаюсь…";
 
 /* No comment provided by engineer. */
-"Continue" = "Продолжить";
+"Constant" = "Постоянный";
 
 /* No comment provided by engineer. */
-"Continue Using iCloud" = "Продолжить использовать iCloud";
+"Continue" = "Продолжить";
 
 /* No comment provided by engineer. */
 "Contrast" = "Контраст";
@@ -250,8 +430,11 @@
 /* Used in gallery document duplicate. */
 "copy" = "копия";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Copy" = "Скопировать";
+
+/* Layer Management */
+"Copy Layer" = "Скопировать слой";
 
 /* No comment provided by engineer. */
 "Copy to Photos" = "Скопировать в Фото";
@@ -265,7 +448,7 @@
 /* No comment provided by engineer. */
 "Could not insert image." = "Не удалось вставить изображение";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Crayon" = "Воск. мелок";
 
 /* No comment provided by engineer. */
@@ -289,7 +472,7 @@
 /* No comment provided by engineer. */
 "Creative Tools" = "Художественные инструменты";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Crop" = "Обрезка";
 
 /* No comment provided by engineer. */
@@ -304,16 +487,23 @@
 /* No comment provided by engineer. */
 "Curves" = "Кривые";
 
+/* Tool */
+"Custom" = "Пользовательский";
+
 /* No comment provided by engineer. */
 "Custom Size Image" = "Польз. размер";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Cut" = "Вырезать";
+
+/* Layer Management */
+"Cut Layer" = "Вырезать слой";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Dark" = "Темно";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Darken" = "Затемнить";
 
 /* No comment provided by engineer. */
@@ -326,6 +516,9 @@
 "Darken Strength" = "Сила затемнения";
 
 /* No comment provided by engineer. */
+"Darker Color" = "Темный цвет";
+
+/* No comment provided by engineer. */
 "Decrease Brush Size" = "Уменьшить размер кисти";
 
 /* No comment provided by engineer. */
@@ -334,22 +527,29 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "Уменьшить яркость цветов";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Delete" = "Удалить";
+
+/* No comment provided by engineer. */
+"Delete " = "Удалить ";
 
 /* Gallery Edit Top Bar Delete button popover */
 "Delete %d Images" = "Удалить изображения (%d)";
 
-/* No comment provided by engineer. */
-"Delete from My Device" = "Удалить с моего устройства";
-
 /* Gallery Edit Top Bar Delete button popover */
 "Delete Image" = "Удалить изображение";
 
-/* No comment provided by engineer. */
+/* Layer Management */
 "Delete Layer" = "Удалить слой";
 
 /* No comment provided by engineer. */
+"Delete Linked File" = "Удалить связанный файл";
+
+/* No comment provided by engineer. */
+"Depth Mask" = "Маска глубины";
+
+/* Retouch Tools
+   Tool */
 "Desaturate" = "Убрать насыщ.";
 
 /* No comment provided by engineer. */
@@ -361,6 +561,12 @@
 /* No comment provided by engineer. */
 "Deselect" = "Снять выбор";
 
+/* No comment provided by engineer. */
+"Deselect All" = "Отменить выбор всех объектов";
+
+/* No comment provided by engineer. */
+"Detail" = "Подробнее";
+
 /* Low space in device alert */
 "Device Low on Space" = "Мало места на устройстве";
 
@@ -371,7 +577,28 @@
 "Devices" = "Устройства";
 
 /* No comment provided by engineer. */
+"Difference" = "Разница";
+
+/* No comment provided by engineer. */
+"Directed" = "Прямой";
+
+/* No comment provided by engineer. */
+"Disc" = "Диск";
+
+/* No comment provided by engineer. */
+"Display Style" = "Показать стиль";
+
+/* No comment provided by engineer. */
+"Distance" = "Дистанция";
+
+/* No comment provided by engineer. */
 "Distort" = "Деформация";
+
+/* Effects category name */
+"Distortion" = "Искажение";
+
+/* No comment provided by engineer. */
+"Divide" = "Разделить";
 
 /* No comment provided by engineer. */
 "Document Already Exists" = "Документ уже существует";
@@ -394,6 +621,12 @@
 /* No comment provided by engineer. */
 "Done" = "Готово";
 
+/* keyboard */
+"done" = "готово";
+
+/* No comment provided by engineer. */
+"Double-Headed Arrow" = "Двусторонняя стрелка";
+
 /* No comment provided by engineer. */
 "Download" = "Загрузка";
 
@@ -407,24 +640,54 @@
 "Draw Selection" = "Нарисовать выделение";
 
 /* No comment provided by engineer. */
+"Droste" = "Дросте";
+
+/* Edit Menu */
 "Duplicate" = "Дублировать";
 
 /* Gallery edit top bar duplicate button popover text. */
 "Duplicate %d Images" = "Дублировать изображения (%d)";
 
+/* Layer Management */
+"Duplicate Layer" = "Дублировать слой";
+
 /* No comment provided by engineer. */
+"Edit" = "Правка";
+
+/* No comment provided by engineer. */
+"Edit JPEG" = "Править JPEG";
+
+/* No comment provided by engineer. */
+"Edit RAW" = "Править RAW";
+
+/* Tool */
 "Effects" = "Эффекты";
 
 /* No comment provided by engineer. */
+"Eightfold" = "Сложенный в восемь раз";
+
+/* Tool */
+"Ellipse" = "Эллипс";
+
+/* Tool */
 "Elliptical" = "Эллипс";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "Эллиптическое выделение";
 
+/* No comment provided by engineer. */
+"Elliptical Speech Bubble" = "Эллиптический пузырь речи";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Emerald" = "Изумруд";
 
 /* No comment provided by engineer. */
+"Enable Sharpening" = "Включить резкость";
+
+/* No comment provided by engineer. */
+"End Point" = "Конечная точка";
+
+/* Tool */
 "Erase" = "Стереть";
 
 /* No comment provided by engineer. */
@@ -438,6 +701,24 @@
 
 /* No comment provided by engineer. */
 "Error" = "Ошибка";
+
+/* No comment provided by engineer. */
+"Events From My Mac" = "События из моего Mac";
+
+/* No comment provided by engineer. */
+"Exclusion" = "Исключение";
+
+/* No comment provided by engineer. */
+"Exposure" = "Экспозиция";
+
+/* No comment provided by engineer. */
+"Extent" = "Extent";
+
+/* No comment provided by engineer. */
+"Faces From My Mac" = "Лица из моего Mac";
+
+/* No comment provided by engineer. */
+"Fade" = "Затухание";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Faded" = "Затухание";
@@ -455,7 +736,13 @@
 "Failed to set one or more extended attributes." = "Не удалось настроить одно или более расширенных значений.";
 
 /* No comment provided by engineer. */
+"Favorite" = "Избранное";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Эта функция недоступна в демоверсии";
+
+/* Effects category name */
+"Fill" = "Заливка";
 
 /* No comment provided by engineer. */
 "Fill Color" = "Заливка цветом";
@@ -474,6 +761,15 @@
 
 /* No comment provided by engineer. */
 "Fix Red-Eyes" = "Красные глаза";
+
+/* No comment provided by engineer. */
+"Fixed" = "Исправлено";
+
+/* No comment provided by engineer. */
+"Flatten Layer" = "Сгладить слой";
+
+/* Tool */
+"Flip" = "Переворот";
 
 /* No comment provided by engineer. */
 "Flip Horizontal" = "Отразить по горизонтали";
@@ -497,16 +793,34 @@
 "Fonts" = "Шрифты";
 
 /* No comment provided by engineer. */
+"Foreground Color" = "Цвет переднего плана";
+
+/* No comment provided by engineer. */
 "Format" = "Формат";
 
 /* No comment provided by engineer. */
+"Fourfold" = "Вчетверо";
+
+/* No comment provided by engineer. */
+"Fourfold Rotated" = "Четырехкратно вращаемая";
+
+/* No comment provided by engineer. */
+"Fourfold Translated" = "Четырехкратно перемещенная";
+
+/* Tool */
 "Free" = "Свободно";
 
 /* No comment provided by engineer. */
 "Free Selection" = "Своб.выбор";
 
+/* Tool */
+"Freeform" = "Свободная форма";
+
 /* No comment provided by engineer. */
 "Freely distort area of an image" = "Свободная деформация области изображения";
+
+/* No comment provided by engineer. */
+"From My Mac" = "Из моего Mac";
 
 /* No comment provided by engineer. */
 "Fullscreen" = "Полный экран";
@@ -515,18 +829,64 @@
 "Gallery" = "Галерея";
 
 /* No comment provided by engineer. */
+"Gaussian" = "Гауссиан";
+
+/* Effects category name */
+"Generator" = "Генератор";
+
+/* No comment provided by engineer. */
 "Get Started" = "Начинаем!";
 
 /* No comment provided by engineer. */
+"Glass Lozenge" = "Ромбовидное стекло";
+
+/* No comment provided by engineer. */
+"Glazed" = "Глянцевый";
+
+/* No comment provided by engineer. */
+"Glide Reflected" = "Отражение скольжения";
+
+/* No comment provided by engineer. */
 "Gradient" = "Градиент";
+
+/* No comment provided by engineer. */
+"Gradient Angle" = "Угол градиента";
+
+/* No comment provided by engineer. */
+"Gradient Fill" = "Градиентная заливка";
+
+/* No comment provided by engineer. */
+"Grain" = "Зерно";
+
+/* No comment provided by engineer. */
+"Grain Rotation" = "Вращение зерна";
+
+/* No comment provided by engineer. */
+"Grain Scale" = "Шкала зерна";
+
+/* No comment provided by engineer. */
+"Grain Spacing" = "Расположение зерна";
+
+/* No comment provided by engineer. */
+"Grain Zoom" = "Масштабирование зерна";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Grainy" = "Зерно";
 
 /* No comment provided by engineer. */
+"Green" = "Зеленый";
+
+/* No comment provided by engineer. */
+"Green Channel" = "Зелёный канал";
+
+/* No comment provided by engineer. */
 "Green Color Balance" = "Баланс зеленого цвета";
 
-/* Default new group layer name */
+/* No comment provided by engineer. */
+"Grey" = "Серый";
+
+/* Default new group layer name
+   Layer Arrange */
 "Group" = "Группа";
 
 /* No comment provided by engineer. */
@@ -535,20 +895,41 @@
 /* No comment provided by engineer. */
 "Guides" = "Направляющие";
 
+/* Effects category name */
+"Halftone" = "Полутона";
+
+/* No comment provided by engineer. */
+"Halo" = "Гало";
+
 /* Used to describe brush strength */
 "Hard" = "Жесткая";
 
 /* No comment provided by engineer. */
+"Hard Light" = "Жесткий свет";
+
+/* No comment provided by engineer. */
+"Hard Mix" = "Жесткое смешение";
+
+/* No comment provided by engineer. */
 "Hidden Layer" = "Скрытый слой";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Hide" = "Скрыть";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Hide Layer" = "Скрыть слой";
+
+/* Color Balance */
+"Highlights" = "Светлые участки";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Hippie" = "Хиппи";
+
+/* No comment provided by engineer. */
+"Hole" = "Отверстие";
+
+/* Perspective transform */
+"Horizontal Perspective" = "Горизонтальная перспектива";
 
 /* No comment provided by engineer. */
 "Hue" = "Оттенок";
@@ -557,24 +938,27 @@
 "Hue & Saturation" = "Оттенок/насыщ.";
 
 /* No comment provided by engineer. */
-"iCloud for Pixelmator" = "iCloud для Pixelmator";
+"Hue Scatter" = "Разброс оттенков";
 
 /* No comment provided by engineer. */
-"iCloud is available" = "iCloud доступен";
+"iCloud for Pixelmator" = "iCloud для Pixelmator";
 
 /* No comment provided by engineer. */
 "iCloud keeps your images up to date on all your devices" = "iCloud синхронизирует изображения на всех устройствах";
 
-/* No comment provided by engineer. */
+/* Untitled document name received via Handoff */
 "Image" = "Изображ.";
 
 /* No comment provided by engineer. */
 "Image Enhancements" = "Улучшение изображений";
 
 /* No comment provided by engineer. */
-"Image Setup" = "Настройки изображения";
+"Image Fill" = "Заливка изображения";
 
 /* No comment provided by engineer. */
+"Image Setup" = "Настройки изображения";
+
+/* Tool */
 "Image Size" = "Размер изображения";
 
 /* Edit Top Bar label text. Format:[X Documents Selected] */
@@ -582,6 +966,13 @@
 
 /* No comment provided by engineer. */
 "Import" = "Импорт";
+
+/* short for inches
+   Units */
+"in" = "дюйм";
+
+/* Units */
+"Inches" = "Дюймы";
 
 /* No comment provided by engineer. */
 "Increase Brush Size" = "Увеличить размер кисти";
@@ -596,10 +987,16 @@
 "Indent Radius" = "Размер вмятины";
 
 /* No comment provided by engineer. */
+"Initial Direction" = "Начальное направление";
+
+/* Tool */
 "Ink" = "Чернила";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Inky" = "Чернила";
+
+/* No comment provided by engineer. */
+"Inner Shadow" = "Внутренняя тень";
 
 /* No comment provided by engineer. */
 "Insert from..." = "Вставить из…";
@@ -609,6 +1006,9 @@
 
 /* No comment provided by engineer. */
 "Install an app that can open your image in PNG, JPEG or Photoshop format" = "Установите приложение, которое открывает изображения в форматах PNG, JPEG или Photoshop.";
+
+/* No comment provided by engineer. */
+"Intensity" = "Интенсивность";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "Инверсия";
@@ -640,17 +1040,11 @@
 /* Conflict resolve sheet */
 "Keep Both" = "Оставить оба";
 
-/* No comment provided by engineer. */
-"Keep on My Device" = "Сохранять на моем устройстве";
-
 /* Conflict resolve sheet */
 "Keep One" = "Оставить один";
 
 /* No comment provided by engineer. */
 "Large" = "Большой";
-
-/* No comment provided by engineer. */
-"Later" = "Позже";
 
 /* Default new layer name */
 "Layer" = "Слой";
@@ -662,7 +1056,13 @@
 "Layer Locked" = "Слой заблокирован";
 
 /* No comment provided by engineer. */
+"Layer was flattened" = "Слой был сглажен";
+
+/* No comment provided by engineer. */
 "Learn More" = "Узнать больше";
+
+/* No comment provided by engineer. */
+"Left" = "Левое";
 
 /* No comment provided by engineer. */
 "Left-handed" = "Для левши";
@@ -683,12 +1083,31 @@
 "Left-handed vertical" = "Для левши: вертикально";
 
 /* No comment provided by engineer. */
+"Lens Correction" = "Коррекция объектива";
+
+/* No comment provided by engineer. */
 "Levels" = "Уровни";
+
+/* No comment provided by engineer. */
+"Library" = "Библиотека";
+
+/* No comment provided by engineer. */
+"Light Color" = "Осветлить цвет";
+
+/* No comment provided by engineer. */
+"Light Destination" = "Назначение света";
 
 /* No comment provided by engineer. */
 "Light Leak" = "Блик света";
 
 /* No comment provided by engineer. */
+"Light Source" = "Источник света";
+
+/* No comment provided by engineer. */
+"Light Tunnel" = "Световой тоннель";
+
+/* Retouch Tools
+   Tool */
 "Lighten" = "Осветлить";
 
 /* No comment provided by engineer. */
@@ -701,7 +1120,46 @@
 "Lighten Strength" = "Сила осветления";
 
 /* No comment provided by engineer. */
+"Lighter Color" = "Осветлить цвет";
+
+/* No comment provided by engineer. */
+"Lightness" = "Осветление";
+
+/* No comment provided by engineer. */
+"Lightness Scatter" = "Разброс осветления";
+
+/* Tool */
+"Line" = "Линия";
+
+/* No comment provided by engineer. */
+"Linear Burn" = "Линейное затемнение";
+
+/* No comment provided by engineer. */
+"Linear Dodge" = "Линейный осветлитель";
+
+/* No comment provided by engineer. */
+"Linear Light" = "Линейный свет";
+
+/* No comment provided by engineer. */
+"Linear Tilt-Shift Blur" = "Линейное размытие тилт-шифт";
+
+/* No comment provided by engineer. */
+"Linked Files" = "Связанные файлы";
+
+/* No comment provided by engineer. */
+"Linked Pixelmator Photo Files" = "Связанные файлы Pixelmator Photo";
+
+/* No comment provided by engineer. */
+"Load" = "Загрузить";
+
+/* No comment provided by engineer. */
+"Loading..." = "Загрузка...";
+
+/* Layer */
 "Lock" = "Блокировка";
+
+/* No comment provided by engineer. */
+"Lock %@" = "Блокировать %@";
 
 /* No comment provided by engineer. */
 "Lock Alpha" = "Блок. альфа";
@@ -709,13 +1167,22 @@
 /* No comment provided by engineer. */
 "Locked Layer" = "Заблокированный слой";
 
+/* No comment provided by engineer. */
+"Luminance" = "Свечение";
+
+/* No comment provided by engineer. */
+"Luminance Noise Reduction" = "Уменьшение шума свечения";
+
+/* No comment provided by engineer. */
+"Luminosity" = "Свечение";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "Лира";
 
 /* Selection */
 "Magic Wand Selection" = "Выделение волшебной палочкой";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Magnetic" = "Магнитный";
 
 /* No comment provided by engineer. */
@@ -727,14 +1194,23 @@
 /* No comment provided by engineer. */
 "Make your images look great with effects, color adjustments, and retouching tools." = "Сделайте изображения великолепными с нашими эффектами и инструментами.";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Marker" = "Маркер";
+
+/* Color Balance */
+"Master" = "Мастер";
+
+/* No comment provided by engineer. */
+"Master Color Wheel" = "Цветовой мастер-круг";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Matte" = "Маттэ";
 
 /* No comment provided by engineer. */
 "Maximum" = "Максимум";
+
+/* No comment provided by engineer. */
+"Maximum Pressure Size" = "Размер макс. давления";
 
 /* No comment provided by engineer. */
 "Medium" = "Средняя";
@@ -746,13 +1222,46 @@
 "Merge" = "Слить";
 
 /* No comment provided by engineer. */
+"Merge Brush Marks" = "Объединить следы кисти";
+
+/* Color Balance */
+"Midtones" = "Полутона";
+
+/* Units */
+"Milimeters" = "Миллиметры";
+
+/* No comment provided by engineer. */
 "Miniaturize" = "Миниатюра";
 
 /* No comment provided by engineer. */
 "Minimum" = "Минимум";
 
+/* No comment provided by engineer. */
+"Minimum Opacity" = "Минимальная непрозрачность";
+
+/* No comment provided by engineer. */
+"ML Crop" = "ML-обрезка";
+
+/* No comment provided by engineer. */
+"ML Enhance" = "ML Enhance";
+
+/* No comment provided by engineer. */
+"ML Match Colors" = "Машинно-обучаемая подгонка цвета";
+
+/* No comment provided by engineer. */
+"ML Super Resolution" = "ML Super Resolution";
+
+/* Units */
+"mm" = "мм";
+
 /* Used to describe on which device document were modified */
 "Modified on %@" = "Изменено на %@";
+
+/* Edit Menu */
+"More..." = "Еще...";
+
+/* No comment provided by engineer. */
+"Motion" = "Движение";
 
 /* No comment provided by engineer. */
 "Move" = "Передвинуть";
@@ -761,13 +1270,31 @@
 "Move Selection" = "Передвинуть выделение";
 
 /* No comment provided by engineer. */
+"Multiply" = "Умножить";
+
+/* No comment provided by engineer. */
+"Mustache" = "Усы";
+
+/* No comment provided by engineer. */
+"My Albums" = "Мои альбомы";
+
+/* No comment provided by engineer. */
 "Native Document Picker" = "Нативный подборщик документов";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "Туманность";
 
 /* No comment provided by engineer. */
+"New Layer" = "Новый слой";
+
+/* No comment provided by engineer. */
 "New Photos Browser" = "Браузер новых фото";
+
+/* keyboard */
+"next" = "далее";
+
+/* No comment provided by engineer. */
+"Next Image" = "Следующее изображение";
 
 /* No comment provided by engineer. */
 "No Apps Available" = "Нет доступных программ";
@@ -785,6 +1312,9 @@
 "Noise" = "Шум";
 
 /* No comment provided by engineer. */
+"Noise Reduction" = "Уменьшение шума";
+
+/* Tool */
 "None" = "Нет";
 
 /* Used to describe brush strength */
@@ -797,7 +1327,19 @@
 "OK" = "ОК";
 
 /* No comment provided by engineer. */
+"Op" = "Оптик";
+
+/* No comment provided by engineer. */
 "Opacity" = "Непрозр.";
+
+/* No comment provided by engineer. */
+"Opacity by Pressure" = "Непрозрачность от давления";
+
+/* No comment provided by engineer. */
+"Opacity by Speed" = "Непрозрачность от скорости";
+
+/* No comment provided by engineer. */
+"Opacity Scatter" = "Разброс непрозрачности";
 
 /* No comment provided by engineer. */
 "Open In Another App" = "Откр. в другой программе";
@@ -806,37 +1348,100 @@
 "Open in Another App" = "Откр. в другой программе";
 
 /* No comment provided by engineer. */
+"Orientation" = "Ориентация";
+
+/* No comment provided by engineer. */
+"Oriented" = "Ориентированный";
+
+/* No comment provided by engineer. */
 "Original" = "Оригинал";
+
+/* No comment provided by engineer. */
+"ORIGINAL" = "ОРИГИНАЛ";
+
+/* No comment provided by engineer. */
+"ORIGINAL COLORS" = "ИСХОДНЫЕ ЦВЕТА";
+
+/* No comment provided by engineer. */
+"ORIGINAL COMPOSITION" = "ИСХОДНАЯ КОМПОЗИЦИЯ";
+
+/* No comment provided by engineer. */
+"ORIGINAL CONTENT" = "ИСХОДНЫЙ КОНТЕНТ";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "ИСХОДНАЯ ПЕРСПЕКТИВА";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Orion" = "Орион";
 
+/* Effects category name */
+"Other" = "Другое";
+
 /* No comment provided by engineer. */
+"Other Albums" = "Другие альбомы";
+
+/* No comment provided by engineer. */
+"Overlay" = "Перекрытие";
+
+/* Tool */
 "Paint" = "Закраска";
 
 /* No comment provided by engineer. */
 "Paint with a sample of an area" = "Рисовать образцом области";
 
 /* No comment provided by engineer. */
+"Pass Through" = "Пропустить";
+
+/* Edit Menu */
 "Paste" = "Вставить";
+
+/* No comment provided by engineer. */
+"Paste Adjustments" = "Вставить корректировки";
+
+/* Layer Management */
+"Paste Layer" = "Вставить слой";
+
+/* No comment provided by engineer. */
+"Path" = "Путь";
+
+/* No comment provided by engineer. */
+"Pattern" = "Орнаменты";
+
+/* No comment provided by engineer. */
+"Pattern Fill" = "Заливка узором";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Pavo" = "Павлин";
 
-/* No comment provided by engineer. */
+/* Tool */
+"Pen" = "Перо";
+
+/* Tool */
 "Pencil" = "Карандаш";
 
-/* No comment provided by engineer. */
+/* Units */
+"Percents" = "Проценты";
+
+/* Tool */
+"Perspective Transform" = "Перспективное преобразование";
+
+/* Native iOS Photos app name */
 "Photos" = "Фото";
 
 /* No comment provided by engineer. */
 "Photoshop" = "Photoshop";
 
 /* No comment provided by engineer. */
+"Pin Light" = "Точечный свет";
+
+/* Tool */
 "Pinch" = "Щипок";
 
 /* No comment provided by engineer. */
 "Pinch Settings" = "Настройки щипка";
+
+/* Tool */
+"Pixel Tool" = "Пиксельный инструмент";
 
 /* No comment provided by engineer. */
 "Pixelmator" = "Pixelmator";
@@ -847,17 +1452,29 @@
 /* No comment provided by engineer. */
 "Pixelmator has been denied access to the Camera. Please allow access in Settings." = "Pixelmator не получил доступ к Камере. Откройте доступ в Настройках.";
 
+/* Units */
+"Pixels" = "Пиксели";
+
 /* No comment provided by engineer. */
 "Please try again later." = "Повторите попытку позже.";
 
 /* No comment provided by engineer. */
 "PNG" = "PNG";
 
-/* No comment provided by engineer. */
+/* Units */
 "Points" = "Точки";
 
 /* No comment provided by engineer. */
 "Points Count" = "Подсчет точек";
+
+/* Tool */
+"Polygon" = "Многоугольник";
+
+/* No comment provided by engineer. */
+"Posterize" = "Разделение тонов";
+
+/* No comment provided by engineer. */
+"Preserve transparency" = "Сохранить прозрачность";
 
 /* No comment provided by engineer. */
 "Presets" = "Наборы";
@@ -869,15 +1486,21 @@
 "Previous" = "Предыдущее";
 
 /* No comment provided by engineer. */
+"Previous Image" = "Предыдущее изображение";
+
+/* No comment provided by engineer. */
+"Processing..." = "Обработка...";
+
+/* Units */
 "pt" = "пт";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Punk" = "Панк";
 
-/* No comment provided by engineer. */
+/* Units */
 "px" = "пикс";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Quick" = "Быстрый";
 
 /* Selection Undo */
@@ -889,17 +1512,56 @@
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "Быстро выбрать детальные объекты";
 
+/* Recents group abbreviation */
+"R" = "R";
+
 /* No comment provided by engineer. */
 "Radius" = "Радиус";
+
+/* No comment provided by engineer. */
+"Random" = "Случайный";
+
+/* No comment provided by engineer. */
+"Range" = "Диапазон";
 
 /* No comment provided by engineer. */
 "Rasterize Layer" = "Растрировать слой";
 
 /* No comment provided by engineer. */
+"RAW" = "RAW";
+
+/* No comment provided by engineer. */
+"RAW Layer" = "RAW-слой";
+
+/* Layer creation */
+"Raw Layer" = "RAW-слой";
+
+/* No comment provided by engineer. */
+"RAW+JPEG" = "RAW+JPEG";
+
+/* No comment provided by engineer. */
+"Recent" = "Недавние";
+
+/* No comment provided by engineer. */
+"Recents" = "Недавние";
+
+/* Tool */
+"Rectangle" = "Прямоугольник";
+
+/* Tool */
 "Rectangular" = "Прямоугольник";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "Прямоугольное выделение";
+
+/* No comment provided by engineer. */
+"Rectangular Speech Bubble" = "Прямоугольный пузырь речи";
+
+/* No comment provided by engineer. */
+"Red" = "Красный";
+
+/* No comment provided by engineer. */
+"Red Channel" = "Красный канал";
 
 /* No comment provided by engineer. */
 "Red Color Balance" = "Баланс красного цвета";
@@ -909,6 +1571,9 @@
 
 /* No comment provided by engineer. */
 "Redo" = "Повтор";
+
+/* No comment provided by engineer. */
+"Redo %@" = "Повторить «%@»";
 
 /* No comment provided by engineer. */
 "Refine Selection" = "Обраб. выделение";
@@ -929,6 +1594,12 @@
 "Remove" = "Удалить";
 
 /* No comment provided by engineer. */
+"Remove Color" = "Удалить цвет";
+
+/* No comment provided by engineer. */
+"Remove Mask" = "Удалить маску";
+
+/* No comment provided by engineer. */
 "Remove red-eye effect" = "Удалить красн. глаза";
 
 /* No comment provided by engineer. */
@@ -940,11 +1611,18 @@
 /* No comment provided by engineer. */
 "Rename Image Error" = "Ошибка переименования изображения";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Repair" = "Исправить";
 
 /* No comment provided by engineer. */
+"Repair Selection" = "Исправить выделение";
+
+/* No comment provided by engineer. */
 "Repair Tool" = "Инструмент Исправление";
+
+/* No comment provided by engineer. */
+"Repairing..." = "Исправление...";
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "Исправление… %@";
@@ -956,16 +1634,52 @@
 "Replace All" = "Заменить все";
 
 /* No comment provided by engineer. */
+"Replace Color" = "Замена цвета";
+
+/* No comment provided by engineer. */
 "Replace Image" = "Заменить изображение";
 
 /* No comment provided by engineer. */
 "Reset" = "Сброс";
 
 /* No comment provided by engineer. */
+"Reset Adjustments" = "Сброс корректировок";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "Сбросить Автоулучшение";
+
+/* No comment provided by engineer. */
+"Reset Crop" = "Сбросить обрезку";
+
+/* Perspective transform */
+"Reset Horizontal Perspective" = "Сбросить горизонтальную перспективу";
+
+/* No comment provided by engineer. */
+"Reset ML Crop" = "Сбросить ML-обрезку";
+
+/* No comment provided by engineer. */
+"Reset ML Enhance" = "Сброс ML Enhance";
+
+/* No comment provided by engineer. */
+"Reset ML Match Colors" = "Сброс ML Match Colors";
+
+/* Perspective transform */
+"Reset Perspective" = "Сбросить перспективу";
+
+/* No comment provided by engineer. */
+"Reset Repair Changes" = "Сбросить правку исправления";
+
+/* Perspective transform */
+"Reset Vertical Perspective" = "Сбросить вертикальную перспективу";
+
+/* Tool */
 "Restore" = "Восстановить";
 
 /* No comment provided by engineer. */
 "Restore distorted areas" = "Восстановить деформированное";
+
+/* No comment provided by engineer. */
+"Restore Layer" = "Восстановить слой";
 
 /* No comment provided by engineer. */
 "Restore Settings" = "Восстановить настройки";
@@ -979,11 +1693,20 @@
 /* No comment provided by engineer. */
 "Revert" = "Вернуть";
 
+/* No comment provided by engineer. */
+"Revert to Original" = "Вернуть к оригиналу";
+
+/* No comment provided by engineer. */
+"RGB" = "RGB";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Rich" = "Насыщенно";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Rigel" = "Ригель";
+
+/* No comment provided by engineer. */
+"Right" = "Правое";
 
 /* No comment provided by engineer. */
 "Right-handed" = "Правша";
@@ -1006,8 +1729,11 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Romantic" = "Романтика";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Rotate" = "Повернуть";
+
+/* No comment provided by engineer. */
+"Rotate 180°" = "Повернуть на 180°";
 
 /* No comment provided by engineer. */
 "Rotate Left" = "Повернуть налево";
@@ -1018,14 +1744,24 @@
 /* No comment provided by engineer. */
 "Rotate Selection" = "Поворот выделения";
 
+/* Tool */
+"Rounded Rect." = "Прямоугольник с закругленными углами.";
+
+/* No comment provided by engineer. */
+"Rounded Rectangle" = "Прямоугольник с закругленными углами";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Ruby" = "Рубин";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Saturate" = "Насыщенность";
 
 /* No comment provided by engineer. */
 "Saturation" = "Насыщ.";
+
+/* No comment provided by engineer. */
+"Saturation Scatter" = "Разброс насыщенности";
 
 /* No comment provided by engineer. */
 "Saturation Settings" = "Настройки насыщенности";
@@ -1037,10 +1773,43 @@
 "Save to iCloud Drive" = "Сохранить в iCloud Drive";
 
 /* No comment provided by engineer. */
+"Scale" = "Масштаб";
+
+/* No comment provided by engineer. */
+"Scale Horizontally by Tilt" = "Горизонт.масштаб наклоном";
+
+/* No comment provided by engineer. */
+"Scale Shape Horizontally" = "Гориз. масштаб фигуры";
+
+/* No comment provided by engineer. */
+"Scale Shape Vertically" = "Верт. масштаб фигуры";
+
+/* No comment provided by engineer. */
+"Scale to Fill" = "Подогнать масштаб под размер";
+
+/* No comment provided by engineer. */
+"Scale to Fit" = "Масштаб под размер";
+
+/* No comment provided by engineer. */
+"Scale Vertically by Tilt" = "Верт.масштаб наклоном";
+
+/* No comment provided by engineer. */
+"Screen" = "Экран";
+
+/* No comment provided by engineer. */
 "Select" = "Выделить";
+
+/* No comment provided by engineer. */
+"Select All" = "Выбрать все";
 
 /* Edit Top Bar label text */
 "Select an Image" = "Выберите изобр.";
+
+/* Tool */
+"Select Column" = "Выбрать столбец";
+
+/* No comment provided by engineer. */
+"Select Images" = "Выбрать изображения";
 
 /* No comment provided by engineer. */
 "Select objects by tracing their edges" = "Выбрать объекты, следя за краями";
@@ -1051,14 +1820,23 @@
 /* No comment provided by engineer. */
 "Select rounded areas" = "Выбрать скругленные области";
 
+/* Tool */
+"Select Row" = "Выбрать строку";
+
 /* No comment provided by engineer. */
 "Select similarly colored areas" = "Выделить схожие цвета";
+
+/* No comment provided by engineer. */
+"Selected Color" = "Выбранный цвет";
 
 /* No comment provided by engineer. */
 "Selection" = "Выбор";
 
 /* No comment provided by engineer. */
 "Selection Mode" = "Режим выделения";
+
+/* No comment provided by engineer. */
+"Selective Color" = "Выбирающий цвет";
 
 /* No comment provided by engineer. */
 "Send a Copy" = "Отправить копию";
@@ -1074,6 +1852,9 @@
 
 /* No comment provided by engineer. */
 "Settings" = "Настройки";
+
+/* No comment provided by engineer. */
+"Shadow" = "Тень";
 
 /* No comment provided by engineer. */
 "Shadow Angle" = "Угол теней";
@@ -1093,17 +1874,34 @@
 /* No comment provided by engineer. */
 "Shadow On" = "Тень Вкл.";
 
+/* Color Balance */
+"Shadows" = "Тени";
+
 /* Default new shape layer name */
 "Shape" = "Фигура";
+
+/* No comment provided by engineer. */
+"Shape Angle" = "Угол формы";
+
+/* No comment provided by engineer. */
+"Shape Direction" = "Направление фигуры";
 
 /* No comment provided by engineer. */
 "Share" = "Поделиться";
 
 /* No comment provided by engineer. */
-"Sharing" = "Общий доступ";
+"Shared Albums" = "Общие альбомы";
 
 /* No comment provided by engineer. */
+"Sharing" = "Общий доступ";
+
+/* Effects category name
+   Retouch Tools
+   Tool */
 "Sharpen" = "Резкость";
+
+/* No comment provided by engineer. */
+"Sharpen Luminance" = "Повышение резкости свечения";
 
 /* No comment provided by engineer. */
 "Sharpen Settings" = "Настройки резкости";
@@ -1115,18 +1913,49 @@
 "Sharpen the focus" = "Повысить резкость фокуса";
 
 /* No comment provided by engineer. */
+"Sharpness" = "Резкость";
+
+/* No comment provided by engineer. */
 "Show" = "Показать";
 
 /* No comment provided by engineer. */
 "Show Colors" = "Показать цвета";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Show Layer" = "Показать слой";
+
+/* No comment provided by engineer. */
+"Simple" = "Простой";
+
+/* No comment provided by engineer. */
+"Sixfold Reflected" = "Шестикратно отраженная";
+
+/* No comment provided by engineer. */
+"Sixfold Rotated" = "Шестикратно вращаемая";
+
+/* No comment provided by engineer. */
+"Size" = "Размер";
+
+/* No comment provided by engineer. */
+"Size by Pressure" = "Размер под давлением";
+
+/* No comment provided by engineer. */
+"Size by Speed" = "Размер при скорости";
+
+/* No comment provided by engineer. */
+"Size Scatter" = "Разброс размеров";
+
+/* No comment provided by engineer. */
+"Skew" = "Наклон";
 
 /* No comment provided by engineer. */
 "Small" = "Малый";
 
 /* No comment provided by engineer. */
+"Smooth Textures" = "Сглаженные текстуры";
+
+/* Retouch Tools
+   Tool */
 "Smudge" = "Смазывание";
 
 /* No comment provided by engineer. */
@@ -1138,10 +1967,17 @@
 /* No comment provided by engineer. */
 "Smudge Strength" = "Сила смазывания";
 
+/* No comment provided by engineer. */
+"Snapping" = "Фотографирование";
+
 /* Used to describe brush strength */
 "Soft" = "Мягкая";
 
 /* No comment provided by engineer. */
+"Soft Light" = "Мягкий свет";
+
+/* Retouch Tools
+   Tool */
 "Soften" = "Смягчить";
 
 /* No comment provided by engineer. */
@@ -1151,16 +1987,25 @@
 "Soften Strength" = "Сила смягчения";
 
 /* No comment provided by engineer. */
-"Some changes were made to your presentation" = "В ваш документ были внесены некоторые изменения";
+"Softness" = "Мягкость";
 
 /* No comment provided by engineer. */
-"Some document changes are not in sync. All versions will be saved separately." = "Некоторые документы не синхронизированы. Все версии будут сохранены отдельно.";
+"Some changes were made to your presentation" = "В ваш документ были внесены некоторые изменения";
 
 /* No comment provided by engineer. */
 "Some Layer Group settings are not supported. Your image might look different." = "Некоторые настройки групп слоев не поддерживаются. Ваше изображение будет выглядеть иначе.";
 
 /* No comment provided by engineer. */
-"Something went wrong. Please try again." = "Что-то пошло не так. Попробуйте еще раз.";
+"Source Atop" = "Источник наверху";
+
+/* No comment provided by engineer. */
+"Source Color" = "Исходный цвет";
+
+/* No comment provided by engineer. */
+"Source In" = "Вход источника";
+
+/* No comment provided by engineer. */
+"Source Out" = "Выход источника";
 
 /* No comment provided by engineer. */
 "Spin area of an image to the left" = "Закрутить область изображения влево";
@@ -1169,6 +2014,9 @@
 "Spin area of an image to the right" = "Закрутить область изображения вправо";
 
 /* No comment provided by engineer. */
+"Spot Light" = "Прожектор";
+
+/* Tool */
 "Spray" = "Спрей";
 
 /* No comment provided by engineer. */
@@ -1177,8 +2025,26 @@
 /* No comment provided by engineer. */
 "Squeeze area of an image" = "Сжать область изображения";
 
+/* Tool */
+"Star" = "Звезда";
+
+/* No comment provided by engineer. */
+"Start Point" = "Начальная точка";
+
+/* Tool */
+"Straighten" = "Выпрямить";
+
 /* No comment provided by engineer. */
 "Strength" = "Сила";
+
+/* No comment provided by engineer. */
+"Stretch" = "Растяжение";
+
+/* No comment provided by engineer. */
+"Stripes" = "Полосы";
+
+/* No comment provided by engineer. */
+"Stroke" = "Штрих";
 
 /* No comment provided by engineer. */
 "Stroke Color" = "Цвет контура";
@@ -1193,10 +2059,22 @@
 "Stroke On" = "Контур Вкл.";
 
 /* No comment provided by engineer. */
-"Stroke Width" = "Ширина контура";
+"Stroke Position" = "Позиция штриха";
 
 /* No comment provided by engineer. */
+"Stroke Type" = "Тип штриха";
+
+/* No comment provided by engineer. */
+"Stroke Width" = "Ширина контура";
+
+/* Tool */
 "Style" = "Стиль";
+
+/* Effects category name */
+"Stylize" = "Стилизовать";
+
+/* No comment provided by engineer. */
+"Subtract" = "Вычесть";
 
 /* No comment provided by engineer. */
 "Subtract from" = "Вычесть из";
@@ -1205,7 +2083,22 @@
 "Subtract from Selection" = "Вычесть из выделения";
 
 /* No comment provided by engineer. */
+"Sunbeams" = "Солнечные лучи";
+
+/* No comment provided by engineer. */
+"Tail End Dynamics" = "Динамика конца хвоста";
+
+/* No comment provided by engineer. */
 "Tail Location" = "Расположение окончания";
+
+/* No comment provided by engineer. */
+"Tail Opacity" = "Непрозрачность хвоста";
+
+/* No comment provided by engineer. */
+"Tail Size" = "Размер хвостов";
+
+/* No comment provided by engineer. */
+"Tail Start Dynamics" = "Динамика начала хвоста";
 
 /* No comment provided by engineer. */
 "Tail Width" = "Ширина окончания";
@@ -1240,6 +2133,9 @@
 /* No comment provided by engineer. */
 "Tap to choose an eraser" = "Нажмите для выбора ластика";
 
+/* No comment provided by engineer. */
+"Target Color" = "Целевой цвет";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Taurus" = "Телец";
 
@@ -1255,7 +2151,8 @@
 /* Template download alert */
 "Templates are stored on the Internet so it might take a while to download one." = "Шаблоны хранятся в интернете, так что для загрузки потребуется некоторое время.";
 
-/* Default new text layer name */
+/* Default new text layer name
+   Tool */
 "Text" = "Текст";
 
 /* No comment provided by engineer. */
@@ -1307,7 +2204,13 @@
 "The image will be opened in Pixelmator file format." = "Изображение будет открыто в формате Pixelmator.";
 
 /* No comment provided by engineer. */
+"The maximum number of layers for this image size is %i" = "Максимальное количество слоев для изображения такого размера: %i";
+
+/* No comment provided by engineer. */
 "The new document picker lets you manage your images using the familiar Files app." = "Новый подборщик документов позволяет управлять изображениями с помощью привычного файлового приложения.";
+
+/* No comment provided by engineer. */
+"The size is too large." = "Слишком большой размер.";
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "Тип слоя «%@» не поддерживается. Ваше изображение может выглядеть иначе.";
@@ -1321,6 +2224,21 @@
 /* No comment provided by engineer. */
 "This version of Pixelmator has been created specifically for demonstration purposes" = "Эта версия Pixelmator предназначена специально для демонстрации";
 
+/* Effects category name */
+"Tile" = "Плитка";
+
+/* No comment provided by engineer. */
+"Tilt Maximum Size" = "Максимум наклона";
+
+/* No comment provided by engineer. */
+"Tilt Scatter" = "Разброс наклона";
+
+/* No comment provided by engineer. */
+"Tilt Shift" = "Тилт-шифт";
+
+/* No comment provided by engineer. */
+"Tilt-Shift" = "Тилт-шифт";
+
 /* No comment provided by engineer. */
 "Tint" = "Тон";
 
@@ -1331,16 +2249,46 @@
 "Toggle Eraser" = "Переключить ластик";
 
 /* No comment provided by engineer. */
+"Tone" = "Тоновый";
+
+/* No comment provided by engineer. */
 "Tool" = "Инструмент";
 
 /* No comment provided by engineer. */
 "Tools" = "Инструменты";
 
 /* No comment provided by engineer. */
+"Top" = "Верхнее";
+
+/* No comment provided by engineer. */
+"Torus Lens" = "Torus-объектив";
+
+/* No comment provided by engineer. */
+"Touch Opacity" = "Непрозрачность касания";
+
+/* No comment provided by engineer. */
+"Touch Size" = "Размер касания";
+
+/* No comment provided by engineer. */
 "Transform" = "Преобразовать";
 
 /* No comment provided by engineer. */
 "Transform Selection" = "Преобразовать выделение";
+
+/* No comment provided by engineer. */
+"Transition" = "Переход";
+
+/* No comment provided by engineer. */
+"Triangle" = "Треугольник";
+
+/* Tool */
+"Trim Canvas" = "Подрезать холст";
+
+/* No comment provided by engineer. */
+"Twelvefold" = "Двенадцатикратно";
+
+/* Tool */
+"Twirl" = "Закручивание";
 
 /* No comment provided by engineer. */
 "Twirl Left" = "Закруч. влево";
@@ -1385,13 +2333,22 @@
 "Undo" = "Отмена";
 
 /* No comment provided by engineer. */
+"Undo %@" = "Отменить «%@»";
+
+/* No comment provided by engineer. */
+"Unfavorite" = "Убрать из избранного";
+
+/* Layer Arrange */
 "Ungroup" = "Разгруппировать";
 
 /* No comment provided by engineer. */
 "Unknown" = "Неизвестно";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Unlock" = "Разблокировать";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "Разблокировать %@";
 
 /* No comment provided by engineer. */
 "Unlock Alpha" = "Разблок. альфа";
@@ -1402,6 +2359,15 @@
 /* No comment provided by engineer. */
 "Unsupported activity type" = "Действие не поддерживается";
 
+/* No comment provided by engineer. */
+"Untitled" = "Без названия";
+
+/* No comment provided by engineer. */
+"Untitled layer" = "Слой без названия";
+
+/* No comment provided by engineer. */
+"Untitled Layer" = "Слой без названия";
+
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "Город";
 
@@ -1409,13 +2375,13 @@
 "Use any of the inspiring drawing or painting tools to create stunning artwork." = "Используйте вдохновляющие инструменты для ваших творений.";
 
 /* No comment provided by engineer. */
-"Use iCloud" = "Исп. iCloud";
-
-/* No comment provided by engineer. */
 "Use the new template chooser to quickly create new images with common sizes." = "Используйте новый выборщик шаблона, чтобы быстро создавать новые изображения обычных размеров.";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "Вега";
+
+/* Perspective transform */
+"Vertical Perspective" = "Вертикальная перспектива";
 
 /* Used to describe brush strength */
 "Very Hard" = "Очень жесткий";
@@ -1429,6 +2395,9 @@
 /* Used to describe brush strength */
 "Very Soft" = "Очень мягкий";
 
+/* No comment provided by engineer. */
+"Vibrance" = "Вибрация";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "Сияние";
 
@@ -1439,7 +2408,16 @@
 "Vignette" = "Виньетка";
 
 /* No comment provided by engineer. */
+"Vignette Softness" = "Мягкость виньетирования";
+
+/* No comment provided by engineer. */
 "Vintage" = "Винтаж";
+
+/* No comment provided by engineer. */
+"Vivid Light" = "Яркий свет";
+
+/* No comment provided by engineer. */
+"Vortex" = "Вихрь";
 
 /* No comment provided by engineer. */
 "Wacom Stylus" = "Стилус Wacom";
@@ -1450,7 +2428,7 @@
 /* No comment provided by engineer. */
 "Warning" = "Внимание";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Warp" = "Искажение";
 
 /* No comment provided by engineer. */
@@ -1463,7 +2441,7 @@
 "Watercolor" = "Акварель";
 
 /* No comment provided by engineer. */
-"What would you like to do with the documents currently on this device?" = "Что вы хотите сделать с документами на устройстве?";
+"Wetness" = "Влажность";
 
 /* No comment provided by engineer. */
 "What's New" = "Что нового";
@@ -1473,6 +2451,9 @@
 
 /* No comment provided by engineer. */
 "White Balance" = "Баланс белого";
+
+/* No comment provided by engineer. */
+"Workflow %i" = "Процесс %i";
 
 /* No comment provided by engineer. */
 "Writing Style" = "Почерк";
@@ -1514,7 +2495,7 @@
 "You'll choose an app in the next step." = "На следующем шаге выберите приложение.";
 
 /* No comment provided by engineer. */
-"You're Not Using iCloud" = "Вы не используете iCloud";
+"Zoom" = "Масштабирование";
 
 /* No comment provided by engineer. */
 "Zoom In" = "Увеличить";

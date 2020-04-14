@@ -1,5 +1,23 @@
+/* crop aspect ratio */
+"%.2f:%0.2f" = "%1$.2f:%2$.2f";
+
+/* crop aspect ratio */
+"%.2f:%d" = "%1$.2f:%2$d";
+
 /* No comment provided by engineer. */
 "%@ Effect" = "Effetto %@";
+
+/* seconds */
+"%@s" = "%@s";
+
+/* crop aspect ratio */
+"%d:%0.2f" = "%1$d:%2$.2f";
+
+/* crop aspect ratio */
+"%d:%d" = "%1$d:%2$d";
+
+/* No comment provided by engineer. */
+"%i Images Selected" = "%i immagini selezionate";
 
 /* No comment provided by engineer. */
 "(empty)" = "(vuoto)";
@@ -8,19 +26,31 @@
 "1 Image Selected" = "1 immagine selezionata";
 
 /* No comment provided by engineer. */
+"\"%@\" Preset" = "Preset \"%@\"";
+
+/* No comment provided by engineer. */
 "A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "Esiste già un documento chiamato “%@” in questa posizione. Vuoi sostituirlo con quello che stai spostando?";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "Verrà creata una coppia appiattita della tua immagine.";
 
 /* No comment provided by engineer. */
-"Add Effects" = "Aggiungi effetti";
+"Accumulation" = "Accumulo";
 
 /* No comment provided by engineer. */
+"Add Effects" = "Aggiungi effetti";
+
+/* Layer Management */
+"Add Image" = "Aggiungi immagine";
+
+/* Layer Management */
 "Add Layer" = "Aggiungi livello";
 
 /* No comment provided by engineer. */
 "Add Mask" = "Aggiungi maschera";
+
+/* No comment provided by engineer. */
+"Add Raw Layer" = "Aggiungi livello raw";
 
 /* Selection Undo */
 "Add Selection" = "Aggiungi selezione";
@@ -28,7 +58,7 @@
 /* No comment provided by engineer. */
 "Add Shape" = "Aggiungi forme";
 
-/* No comment provided by engineer. */
+/* Layer Management */
 "Add Text" = "Aggiungi testo";
 
 /* No comment provided by engineer. */
@@ -50,7 +80,16 @@
 "Adonit Jot Stylus" = "Stilo Adonit Jot";
 
 /* No comment provided by engineer. */
+"Affine Tile" = "Affina porzione";
+
+/* No comment provided by engineer. */
 "All" = "Tutti";
+
+/* No comment provided by engineer. */
+"All Albums" = "Tutti gli album";
+
+/* No comment provided by engineer. */
+"All Photos" = "Tutte le foto";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "Ambra";
@@ -60,6 +99,15 @@
 
 /* No comment provided by engineer. */
 "An error occurred while opening the image." = "Si è verificato un errore durante l'apertura dell'immagine.";
+
+/* No comment provided by engineer. */
+"Angle" = "Angolo";
+
+/* No comment provided by engineer. */
+"Angle by Tilt" = "Angolo di inclinazione";
+
+/* No comment provided by engineer. */
+"Angle Scatter" = "Angolo di dispersione";
 
 /* No comment provided by engineer. */
 "Apply" = "Applica";
@@ -76,11 +124,18 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Arcturus" = "Arcturus";
 
-/* No comment provided by engineer. */
+/* Layer Arrange
+   Tool */
 "Arrange" = "Disponi";
 
 /* No comment provided by engineer. */
+"Arrow" = "Freccia";
+
+/* No comment provided by engineer. */
 "Arrow Edit" = "Modifica freccia";
+
+/* No comment provided by engineer. */
+"Arrow from Point" = "Freccia dal punto";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Art Deco" = "Art deco";
@@ -95,15 +150,24 @@
 "Auto" = "Automatico";
 
 /* No comment provided by engineer. */
-"Automatically store your documents in the cloud to keep them up-to-date across all your devices and the web." = "Archivia automaticamente i tuoi documenti nel cloud per tenerli aggiornati tra tutti i dispositivi e sul web";
+"Auto Enhance" = "Miglioramento automatico";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "B&W" = "B&N";
 
 /* No comment provided by engineer. */
+"Background Color" = "Colore di sfondo";
+
+/* No comment provided by engineer. */
 "Background Layer" = "Livello di sfondo";
 
 /* No comment provided by engineer. */
+"Balance Adjustment" = "Regolazione bilanciamento";
+
+/* No comment provided by engineer. */
+"Baseline Exposure" = "Esposizione linea di base";
+
+/* Tool */
 "Basic" = "Di base";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
@@ -113,18 +177,39 @@
 "Begin Selection" = "Inizia selezione";
 
 /* No comment provided by engineer. */
+"Behind" = "Dietro";
+
+/* No comment provided by engineer. */
+"Bias" = "Diagonale";
+
+/* No comment provided by engineer. */
 "Black & White" = "Bianco e nero";
+
+/* No comment provided by engineer. */
+"Black Point" = "Punto di nero";
 
 /* No comment provided by engineer. */
 "Blending" = "Fusione";
 
 /* No comment provided by engineer. */
+"Blending mode" = "Metodo di fusione";
+
+/* No comment provided by engineer. */
+"Blending Mode" = "Metodo di fusione";
+
+/* No comment provided by engineer. */
 "Bloat area of an image" = "Gonfia area di un'immagine";
+
+/* No comment provided by engineer. */
+"Blue" = "Blu";
+
+/* No comment provided by engineer. */
+"Blue Channel" = "Canale blu";
 
 /* No comment provided by engineer. */
 "Blue Color Balance" = "Bilanciamento colore blu";
 
-/* No comment provided by engineer. */
+/* Effects category name */
 "Blur" = "Sfocatura";
 
 /* No comment provided by engineer. */
@@ -134,7 +219,19 @@
 "Bokeh" = "Bokeh";
 
 /* No comment provided by engineer. */
+"Boost" = "Aumenta";
+
+/* No comment provided by engineer. */
+"Boost Shadow" = "Aumenta ombra";
+
+/* No comment provided by engineer. */
 "Borders" = "Bordi";
+
+/* No comment provided by engineer. */
+"Bottom" = "Basso";
+
+/* No comment provided by engineer. */
+"Box" = "Riquadro";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Bright" = "Brillante";
@@ -149,16 +246,25 @@
 "Brush" = "Penn.";
 
 /* No comment provided by engineer. */
+"Brush Scatter" = "Dispersione pennello";
+
+/* No comment provided by engineer. */
 "Brush Settings" = "Impostazioni pennello";
 
 /* No comment provided by engineer. */
 "Brush Size" = "Dimensione pennello";
 
 /* No comment provided by engineer. */
+"Brush Spacing" = "Spaziatura pennello";
+
+/* Tool */
 "Bump" = "Impatto";
 
 /* No comment provided by engineer. */
 "Bump Settings" = "Impostazioni rilievo";
+
+/* Custom group abbreviation */
+"C" = "C";
 
 /* No comment provided by engineer. */
 "Camera Access Denied" = "Accesso alla Fotocamera negato";
@@ -175,6 +281,9 @@
 /* No comment provided by engineer. */
 "Canvas" = "Quadro";
 
+/* Tool */
+"Canvas Size" = "Dimensione quadro";
+
 /* No comment provided by engineer. */
 "Categories" = "Categorie";
 
@@ -182,10 +291,25 @@
 "Celeste" = "Celeste";
 
 /* No comment provided by engineer. */
+"Center" = "Al centro";
+
+/* Units */
+"Centimeters" = "Centimetri";
+
+/* No comment provided by engineer. */
 "Change Color..." = "Cambia colore...";
+
+/* No comment provided by engineer. */
+"Channel" = "Canali";
+
+/* No comment provided by engineer. */
+"Channel Mixer" = "Mixer canale";
 
 /* Used in template downloading. */
 "Check your network connection and try again." = "Controlla la connessione di rete e riprova.";
+
+/* No comment provided by engineer. */
+"Checkerboard" = "Scacchiera";
 
 /* No comment provided by engineer. */
 "Choose App" = "Scegli applicazione";
@@ -197,12 +321,34 @@
 "Choose Neutral Color" = "Scegli colore neutrale";
 
 /* No comment provided by engineer. */
+"Chromatic Noise Tracking" = "Rilevamento disturbo cromatico";
+
+/* No comment provided by engineer. */
+"Chromaticity X" = "Cromaticità X";
+
+/* No comment provided by engineer. */
+"Chromaticity Y" = "Cromaticità Y";
+
+/* No comment provided by engineer. */
+"Circle Splash" = "Spruzzo";
+
+/* No comment provided by engineer. */
+"Circle Tilt-Shift Blur" = "Sfocatura cerchio tilt-shift";
+
+/* No comment provided by engineer. */
+"Circular Wrap" = "Involucro";
+
+/* No comment provided by engineer. */
+"Clarity" = "Chiarezza";
+
+/* No comment provided by engineer. */
 "Clipboard" = "Appunti";
 
 /* No comment provided by engineer. */
 "Clipping Mask is not supported. Your image might look different." = "La maschera di ritaglio non è supportata. L’immagine potrebbe avere un aspetto diverso.";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Clone" = "Clona";
 
 /* No comment provided by engineer. */
@@ -212,7 +358,35 @@
 "Close Selection" = "Chiudi selezione";
 
 /* No comment provided by engineer. */
+"Clouds" = "Nuvole";
+
+/* Units */
+"cm" = "cm";
+
+/* Tool */
 "Color" = "Colore";
+
+/* Adjust Colors
+   Effects category name */
+"Color Adjustments" = "Regolazioni colore";
+
+/* No comment provided by engineer. */
+"Color Balance" = "Bilancia";
+
+/* No comment provided by engineer. */
+"Color Burn" = "Colore brucia";
+
+/* No comment provided by engineer. */
+"Color Dodge" = "Colore scherma";
+
+/* No comment provided by engineer. */
+"Color Fill" = "Colore riempimento";
+
+/* No comment provided by engineer. */
+"Color Monochrome" = "Colore monocromatico";
+
+/* No comment provided by engineer. */
+"Color Noise Reduction" = "Riduzione disturbo colore";
 
 /* No comment provided by engineer. */
 "Color Picker" = "Selettore colore";
@@ -221,7 +395,13 @@
 "Color Selection" = "Selezione colore";
 
 /* No comment provided by engineer. */
+"Color Wheels" = "Ruote colori";
+
+/* Tool */
 "Colors" = "Colori";
+
+/* No comment provided by engineer. */
+"Concentration" = "Concentrazione";
 
 /* No comment provided by engineer. */
 "Connect" = "Connetti";
@@ -236,10 +416,10 @@
 "Connecting..." = "Connessione...";
 
 /* No comment provided by engineer. */
-"Continue" = "Continua";
+"Constant" = "Costante";
 
 /* No comment provided by engineer. */
-"Continue Using iCloud" = "Continua utilizzando iCloud";
+"Continue" = "Continua";
 
 /* No comment provided by engineer. */
 "Contrast" = "Contrasto";
@@ -250,8 +430,11 @@
 /* Used in gallery document duplicate. */
 "copy" = "copia";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Copy" = "Copia";
+
+/* Layer Management */
+"Copy Layer" = "Copia livello";
 
 /* No comment provided by engineer. */
 "Copy to Photos" = "Copia su Foto";
@@ -265,7 +448,7 @@
 /* No comment provided by engineer. */
 "Could not insert image." = "Impossibile inserire immagine.";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Crayon" = "Pastello";
 
 /* No comment provided by engineer. */
@@ -289,7 +472,7 @@
 /* No comment provided by engineer. */
 "Creative Tools" = "Strumenti creativi";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Crop" = "Ritaglia";
 
 /* No comment provided by engineer. */
@@ -304,16 +487,23 @@
 /* No comment provided by engineer. */
 "Curves" = "Curve";
 
+/* Tool */
+"Custom" = "Personalizzato";
+
 /* No comment provided by engineer. */
 "Custom Size Image" = "Dimensione immagine personalizzata";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Cut" = "Taglia";
+
+/* Layer Management */
+"Cut Layer" = "Taglia livello";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Dark" = "Scuro";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Darken" = "Scurisci";
 
 /* No comment provided by engineer. */
@@ -326,6 +516,9 @@
 "Darken Strength" = "Intensità scuritura";
 
 /* No comment provided by engineer. */
+"Darker Color" = "Scurisci colore";
+
+/* No comment provided by engineer. */
 "Decrease Brush Size" = "Diminuisci dimensione pennello";
 
 /* No comment provided by engineer. */
@@ -334,22 +527,29 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "Diminuisci intensità colori";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Delete" = "Elimina";
+
+/* No comment provided by engineer. */
+"Delete " = "Elimina ";
 
 /* Gallery Edit Top Bar Delete button popover */
 "Delete %d Images" = "Elimina %d immagini";
 
-/* No comment provided by engineer. */
-"Delete from My Device" = "Elimina dal mio dispositivo";
-
 /* Gallery Edit Top Bar Delete button popover */
 "Delete Image" = "Elimina immagine";
 
-/* No comment provided by engineer. */
+/* Layer Management */
 "Delete Layer" = "Elimina livello";
 
 /* No comment provided by engineer. */
+"Delete Linked File" = "Elimina file collegato";
+
+/* No comment provided by engineer. */
+"Depth Mask" = "Maschera di profondità";
+
+/* Retouch Tools
+   Tool */
 "Desaturate" = "Desatura";
 
 /* No comment provided by engineer. */
@@ -361,6 +561,12 @@
 /* No comment provided by engineer. */
 "Deselect" = "Deseleziona";
 
+/* No comment provided by engineer. */
+"Deselect All" = "Deseleziona tutto";
+
+/* No comment provided by engineer. */
+"Detail" = "Dettaglio";
+
 /* Low space in device alert */
 "Device Low on Space" = "Dispositivo con poco spazio";
 
@@ -371,7 +577,28 @@
 "Devices" = "Dispositivi";
 
 /* No comment provided by engineer. */
+"Difference" = "Differenza";
+
+/* No comment provided by engineer. */
+"Directed" = "Diretto";
+
+/* No comment provided by engineer. */
+"Disc" = "Disco";
+
+/* No comment provided by engineer. */
+"Display Style" = "Stile di visualizzazione";
+
+/* No comment provided by engineer. */
+"Distance" = "Distanza";
+
+/* No comment provided by engineer. */
 "Distort" = "Distorci";
+
+/* Effects category name */
+"Distortion" = "Distorsione";
+
+/* No comment provided by engineer. */
+"Divide" = "Dividi";
 
 /* No comment provided by engineer. */
 "Document Already Exists" = "Documento già esistente";
@@ -394,6 +621,12 @@
 /* No comment provided by engineer. */
 "Done" = "Fine";
 
+/* keyboard */
+"done" = "fatto";
+
+/* No comment provided by engineer. */
+"Double-Headed Arrow" = "Freccia a due punte";
+
 /* No comment provided by engineer. */
 "Download" = "Scarica";
 
@@ -407,24 +640,54 @@
 "Draw Selection" = "Disegna selezione";
 
 /* No comment provided by engineer. */
+"Droste" = "Effetto droste";
+
+/* Edit Menu */
 "Duplicate" = "Duplica";
 
 /* Gallery edit top bar duplicate button popover text. */
 "Duplicate %d Images" = "Duplica %d immagini";
 
+/* Layer Management */
+"Duplicate Layer" = "Duplica livello";
+
 /* No comment provided by engineer. */
+"Edit" = "Modifica";
+
+/* No comment provided by engineer. */
+"Edit JPEG" = "Modifica JPEG";
+
+/* No comment provided by engineer. */
+"Edit RAW" = "Modifica RAW";
+
+/* Tool */
 "Effects" = "Effetti";
 
 /* No comment provided by engineer. */
+"Eightfold" = "Otto volte";
+
+/* Tool */
+"Ellipse" = "Ellisse";
+
+/* Tool */
 "Elliptical" = "Ellittico";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "Selezione ellittica";
 
+/* No comment provided by engineer. */
+"Elliptical Speech Bubble" = "Fumetto ellittico";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Emerald" = "Smeraldo";
 
 /* No comment provided by engineer. */
+"Enable Sharpening" = "Attiva nitidezza";
+
+/* No comment provided by engineer. */
+"End Point" = "Punto finale";
+
+/* Tool */
 "Erase" = "Cancella";
 
 /* No comment provided by engineer. */
@@ -438,6 +701,24 @@
 
 /* No comment provided by engineer. */
 "Error" = "Errore";
+
+/* No comment provided by engineer. */
+"Events From My Mac" = "Eventi dal mio Mac";
+
+/* No comment provided by engineer. */
+"Exclusion" = "Esclusione";
+
+/* No comment provided by engineer. */
+"Exposure" = "Esposizione";
+
+/* No comment provided by engineer. */
+"Extent" = "Extent";
+
+/* No comment provided by engineer. */
+"Faces From My Mac" = "Volti dal mio Mac";
+
+/* No comment provided by engineer. */
+"Fade" = "Dissolvenza";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Faded" = "Sbiadito";
@@ -455,7 +736,13 @@
 "Failed to set one or more extended attributes." = "Impossibile impostare uno o più attributi estesi";
 
 /* No comment provided by engineer. */
+"Favorite" = "Preferito";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Funzionalità non abilitata per la demo";
+
+/* Effects category name */
+"Fill" = "Riempi";
 
 /* No comment provided by engineer. */
 "Fill Color" = "Colore riempimento";
@@ -474,6 +761,15 @@
 
 /* No comment provided by engineer. */
 "Fix Red-Eyes" = "Correggi occhi rossi";
+
+/* No comment provided by engineer. */
+"Fixed" = "Fisso";
+
+/* No comment provided by engineer. */
+"Flatten Layer" = "Appiattisci il livello";
+
+/* Tool */
+"Flip" = "Capovolgi";
 
 /* No comment provided by engineer. */
 "Flip Horizontal" = "Speculare";
@@ -497,16 +793,34 @@
 "Fonts" = "Font";
 
 /* No comment provided by engineer. */
+"Foreground Color" = "Colore in primo piano";
+
+/* No comment provided by engineer. */
 "Format" = "Formato";
 
 /* No comment provided by engineer. */
+"Fourfold" = "Quattro volte";
+
+/* No comment provided by engineer. */
+"Fourfold Rotated" = "Ruotata quattro volte";
+
+/* No comment provided by engineer. */
+"Fourfold Translated" = "Tradotta quattro volte";
+
+/* Tool */
 "Free" = "Libero";
 
 /* No comment provided by engineer. */
 "Free Selection" = "Selezione libera";
 
+/* Tool */
+"Freeform" = "Mano libera";
+
 /* No comment provided by engineer. */
 "Freely distort area of an image" = "Distorci liberamente area di un'immagine";
+
+/* No comment provided by engineer. */
+"From My Mac" = "Dal mio Mac";
 
 /* No comment provided by engineer. */
 "Fullscreen" = "A tutto schermo";
@@ -515,18 +829,64 @@
 "Gallery" = "Galleria";
 
 /* No comment provided by engineer. */
+"Gaussian" = "Gaussiana";
+
+/* Effects category name */
+"Generator" = "Generatore";
+
+/* No comment provided by engineer. */
 "Get Started" = "Inizia";
 
 /* No comment provided by engineer. */
+"Glass Lozenge" = "Losanga di vetro";
+
+/* No comment provided by engineer. */
+"Glazed" = "Smaltato";
+
+/* No comment provided by engineer. */
+"Glide Reflected" = "Scorrimento riflesso";
+
+/* No comment provided by engineer. */
 "Gradient" = "Gradiente";
+
+/* No comment provided by engineer. */
+"Gradient Angle" = "Angolo gradiente";
+
+/* No comment provided by engineer. */
+"Gradient Fill" = "Riempimento gradiente";
+
+/* No comment provided by engineer. */
+"Grain" = "Grana";
+
+/* No comment provided by engineer. */
+"Grain Rotation" = "Rotazione grana";
+
+/* No comment provided by engineer. */
+"Grain Scale" = "Scala grana";
+
+/* No comment provided by engineer. */
+"Grain Spacing" = "Spaziatura grana";
+
+/* No comment provided by engineer. */
+"Grain Zoom" = "Zoom grana";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Grainy" = "Granuloso";
 
 /* No comment provided by engineer. */
+"Green" = "Verde";
+
+/* No comment provided by engineer. */
+"Green Channel" = "Canale verde";
+
+/* No comment provided by engineer. */
 "Green Color Balance" = "Bilanciamento colore verde";
 
-/* Default new group layer name */
+/* No comment provided by engineer. */
+"Grey" = "Grigio";
+
+/* Default new group layer name
+   Layer Arrange */
 "Group" = "Gruppo";
 
 /* No comment provided by engineer. */
@@ -535,20 +895,41 @@
 /* No comment provided by engineer. */
 "Guides" = "Guide";
 
+/* Effects category name */
+"Halftone" = "Mezzotono";
+
+/* No comment provided by engineer. */
+"Halo" = "Alone";
+
 /* Used to describe brush strength */
 "Hard" = "Forte";
 
 /* No comment provided by engineer. */
+"Hard Light" = "Luce intensa";
+
+/* No comment provided by engineer. */
+"Hard Mix" = "Mix intenso";
+
+/* No comment provided by engineer. */
 "Hidden Layer" = "Livello nascosto";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Hide" = "Nascondi";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Hide Layer" = "Nascondi livello";
+
+/* Color Balance */
+"Highlights" = "Luci";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Hippie" = "Hippie";
+
+/* No comment provided by engineer. */
+"Hole" = "Buco";
+
+/* Perspective transform */
+"Horizontal Perspective" = "Prospettiva orizzontale";
 
 /* No comment provided by engineer. */
 "Hue" = "Tonalità";
@@ -557,24 +938,27 @@
 "Hue & Saturation" = "Tono/saturazione";
 
 /* No comment provided by engineer. */
-"iCloud for Pixelmator" = "iCloud per Pixelmator";
+"Hue Scatter" = "Dispersione tonalità";
 
 /* No comment provided by engineer. */
-"iCloud is available" = "iCloud è disponibile";
+"iCloud for Pixelmator" = "iCloud per Pixelmator";
 
 /* No comment provided by engineer. */
 "iCloud keeps your images up to date on all your devices" = "iCloud tiene aggiornate le immagini su tutti i tuoi dispositivi";
 
-/* No comment provided by engineer. */
+/* Untitled document name received via Handoff */
 "Image" = "Immagine";
 
 /* No comment provided by engineer. */
 "Image Enhancements" = "Miglioramenti immagine";
 
 /* No comment provided by engineer. */
-"Image Setup" = "Configurazione immagine";
+"Image Fill" = "Riempimento immagine";
 
 /* No comment provided by engineer. */
+"Image Setup" = "Configurazione immagine";
+
+/* Tool */
 "Image Size" = "Dimensione immagine";
 
 /* Edit Top Bar label text. Format:[X Documents Selected] */
@@ -582,6 +966,13 @@
 
 /* No comment provided by engineer. */
 "Import" = "Importa";
+
+/* short for inches
+   Units */
+"in" = "in";
+
+/* Units */
+"Inches" = "Pollici";
 
 /* No comment provided by engineer. */
 "Increase Brush Size" = "Aumenta dimensione pennello";
@@ -596,10 +987,16 @@
 "Indent Radius" = "Raggio trattino";
 
 /* No comment provided by engineer. */
+"Initial Direction" = "Direzione iniziale";
+
+/* Tool */
 "Ink" = "Inchiostro";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Inky" = "Inky";
+
+/* No comment provided by engineer. */
+"Inner Shadow" = "Ombra interna";
 
 /* No comment provided by engineer. */
 "Insert from..." = "Inserisci da…";
@@ -609,6 +1006,9 @@
 
 /* No comment provided by engineer. */
 "Install an app that can open your image in PNG, JPEG or Photoshop format" = "Installa un’applicazione che apra la tua immagine in formato PNG, JPEG o Photoshop";
+
+/* No comment provided by engineer. */
+"Intensity" = "Intensità";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "Inverti";
@@ -640,17 +1040,11 @@
 /* Conflict resolve sheet */
 "Keep Both" = "Entrambe";
 
-/* No comment provided by engineer. */
-"Keep on My Device" = "Mantieni sul mio dispositivo";
-
 /* Conflict resolve sheet */
 "Keep One" = "Mantienine uno";
 
 /* No comment provided by engineer. */
 "Large" = "Grande";
-
-/* No comment provided by engineer. */
-"Later" = "Più tardi";
 
 /* Default new layer name */
 "Layer" = "Livello";
@@ -662,7 +1056,13 @@
 "Layer Locked" = "Livello bloccato";
 
 /* No comment provided by engineer. */
+"Layer was flattened" = "Il livello è stato appiattito";
+
+/* No comment provided by engineer. */
 "Learn More" = "Ulteriori Informazioni";
+
+/* No comment provided by engineer. */
+"Left" = "Sinistra";
 
 /* No comment provided by engineer. */
 "Left-handed" = "Mancino";
@@ -683,12 +1083,31 @@
 "Left-handed vertical" = "Mancino verticale";
 
 /* No comment provided by engineer. */
+"Lens Correction" = "Correzione lenti";
+
+/* No comment provided by engineer. */
 "Levels" = "Livelli";
+
+/* No comment provided by engineer. */
+"Library" = "Libreria";
+
+/* No comment provided by engineer. */
+"Light Color" = "Colore luce";
+
+/* No comment provided by engineer. */
+"Light Destination" = "Destinazione luce";
 
 /* No comment provided by engineer. */
 "Light Leak" = "Fuga di luce";
 
 /* No comment provided by engineer. */
+"Light Source" = "Sorgente di luce";
+
+/* No comment provided by engineer. */
+"Light Tunnel" = "Tunnel di luce";
+
+/* Retouch Tools
+   Tool */
 "Lighten" = "Schiarisci";
 
 /* No comment provided by engineer. */
@@ -701,7 +1120,46 @@
 "Lighten Strength" = "Intensità schiaritura";
 
 /* No comment provided by engineer. */
+"Lighter Color" = "Colore più chiaro";
+
+/* No comment provided by engineer. */
+"Lightness" = "Luminosità";
+
+/* No comment provided by engineer. */
+"Lightness Scatter" = "Dispersione leggerezza";
+
+/* Tool */
+"Line" = "Linea";
+
+/* No comment provided by engineer. */
+"Linear Burn" = "Bruciatura lineare";
+
+/* No comment provided by engineer. */
+"Linear Dodge" = "Scherma lineare";
+
+/* No comment provided by engineer. */
+"Linear Light" = "Luce lineare";
+
+/* No comment provided by engineer. */
+"Linear Tilt-Shift Blur" = "Sfocatura lineare tilt-shift";
+
+/* No comment provided by engineer. */
+"Linked Files" = "File collegati";
+
+/* No comment provided by engineer. */
+"Linked Pixelmator Photo Files" = "File Pixelmator Photo collegati";
+
+/* No comment provided by engineer. */
+"Load" = "Carica";
+
+/* No comment provided by engineer. */
+"Loading..." = "Caricamento...";
+
+/* Layer */
 "Lock" = "Blocca";
+
+/* No comment provided by engineer. */
+"Lock %@" = "Blocca %@";
 
 /* No comment provided by engineer. */
 "Lock Alpha" = "Blocca alpha";
@@ -709,13 +1167,22 @@
 /* No comment provided by engineer. */
 "Locked Layer" = "Livello bloccato";
 
+/* No comment provided by engineer. */
+"Luminance" = "Luminanza";
+
+/* No comment provided by engineer. */
+"Luminance Noise Reduction" = "Riduzione disturbo luminanza";
+
+/* No comment provided by engineer. */
+"Luminosity" = "Luminosità";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "Lira";
 
 /* Selection */
 "Magic Wand Selection" = "Selezione bacchetta magica";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Magnetic" = "Magnetica";
 
 /* No comment provided by engineer. */
@@ -727,14 +1194,23 @@
 /* No comment provided by engineer. */
 "Make your images look great with effects, color adjustments, and retouching tools." = "Rendi grandiose le tue immagini con effetti, regolazioni del colore e strumenti di ritocco.";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Marker" = "Pennarello";
+
+/* Color Balance */
+"Master" = "Principale";
+
+/* No comment provided by engineer. */
+"Master Color Wheel" = "Ruota colori principale";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Matte" = "Opaco";
 
 /* No comment provided by engineer. */
 "Maximum" = "Massima";
+
+/* No comment provided by engineer. */
+"Maximum Pressure Size" = "Dimensione pressione massima";
 
 /* No comment provided by engineer. */
 "Medium" = "Media";
@@ -746,13 +1222,46 @@
 "Merge" = "Unisci";
 
 /* No comment provided by engineer. */
+"Merge Brush Marks" = "Unisci segni pennello";
+
+/* Color Balance */
+"Midtones" = "Mezzitoni";
+
+/* Units */
+"Milimeters" = "Millimetri";
+
+/* No comment provided by engineer. */
 "Miniaturize" = "Miniaturizza";
 
 /* No comment provided by engineer. */
 "Minimum" = "Minima";
 
+/* No comment provided by engineer. */
+"Minimum Opacity" = "Opacità minima";
+
+/* No comment provided by engineer. */
+"ML Crop" = "Ritaglio ML";
+
+/* No comment provided by engineer. */
+"ML Enhance" = "ML Enhance";
+
+/* No comment provided by engineer. */
+"ML Match Colors" = "Corrispondenza colori con AA";
+
+/* No comment provided by engineer. */
+"ML Super Resolution" = "ML Super Resolution";
+
+/* Units */
+"mm" = "mm";
+
 /* Used to describe on which device document were modified */
 "Modified on %@" = "Modificato su %@";
+
+/* Edit Menu */
+"More..." = "Altro...";
+
+/* No comment provided by engineer. */
+"Motion" = "Movimento";
 
 /* No comment provided by engineer. */
 "Move" = "Sposta";
@@ -761,13 +1270,31 @@
 "Move Selection" = "Sposta selezione";
 
 /* No comment provided by engineer. */
+"Multiply" = "Moltiplica";
+
+/* No comment provided by engineer. */
+"Mustache" = "Baffi";
+
+/* No comment provided by engineer. */
+"My Albums" = "I miei album";
+
+/* No comment provided by engineer. */
 "Native Document Picker" = "Selettore di documenti nativo";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "Nebulosa";
 
 /* No comment provided by engineer. */
+"New Layer" = "Nuovo livello";
+
+/* No comment provided by engineer. */
 "New Photos Browser" = "Nuovo browser foto";
+
+/* keyboard */
+"next" = "successivo";
+
+/* No comment provided by engineer. */
+"Next Image" = "Immagine successiva";
 
 /* No comment provided by engineer. */
 "No Apps Available" = "Nessuna app disponibile";
@@ -785,6 +1312,9 @@
 "Noise" = "Disturbo";
 
 /* No comment provided by engineer. */
+"Noise Reduction" = "Riduzione disturbo";
+
+/* Tool */
 "None" = "Nessuna";
 
 /* Used to describe brush strength */
@@ -797,7 +1327,19 @@
 "OK" = "OK";
 
 /* No comment provided by engineer. */
+"Op" = "Ottico";
+
+/* No comment provided by engineer. */
 "Opacity" = "Opacità";
+
+/* No comment provided by engineer. */
+"Opacity by Pressure" = "Opacità per pressione";
+
+/* No comment provided by engineer. */
+"Opacity by Speed" = "Opacità per velocità";
+
+/* No comment provided by engineer. */
+"Opacity Scatter" = "Dispersione opacità";
 
 /* No comment provided by engineer. */
 "Open In Another App" = "Apri in un’altra app";
@@ -806,37 +1348,100 @@
 "Open in Another App" = "Apri in un’altra applicazione";
 
 /* No comment provided by engineer. */
+"Orientation" = "Orientamento";
+
+/* No comment provided by engineer. */
+"Oriented" = "Orientato";
+
+/* No comment provided by engineer. */
 "Original" = "Originale";
+
+/* No comment provided by engineer. */
+"ORIGINAL" = "ORIGINALE";
+
+/* No comment provided by engineer. */
+"ORIGINAL COLORS" = "COLORI ORIGINALI";
+
+/* No comment provided by engineer. */
+"ORIGINAL COMPOSITION" = "COMPOSIZIONE ORIGINALE";
+
+/* No comment provided by engineer. */
+"ORIGINAL CONTENT" = "CONTENUTO ORIGINALE";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "PROSPETTIVA ORIGINALE";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Orion" = "Orione";
 
+/* Effects category name */
+"Other" = "Altro";
+
 /* No comment provided by engineer. */
+"Other Albums" = "Altri album";
+
+/* No comment provided by engineer. */
+"Overlay" = "Copertura";
+
+/* Tool */
 "Paint" = "Pittura";
 
 /* No comment provided by engineer. */
 "Paint with a sample of an area" = "Dipingi con un campione di un'area";
 
 /* No comment provided by engineer. */
+"Pass Through" = "Attraversa";
+
+/* Edit Menu */
 "Paste" = "Incolla";
+
+/* No comment provided by engineer. */
+"Paste Adjustments" = "Incolla regolazioni";
+
+/* Layer Management */
+"Paste Layer" = "Incolla livello";
+
+/* No comment provided by engineer. */
+"Path" = "Percorso";
+
+/* No comment provided by engineer. */
+"Pattern" = "Modello";
+
+/* No comment provided by engineer. */
+"Pattern Fill" = "Riempimento pattern";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Pavo" = "Pavo";
 
-/* No comment provided by engineer. */
+/* Tool */
+"Pen" = "Penna";
+
+/* Tool */
 "Pencil" = "Matita";
 
-/* No comment provided by engineer. */
+/* Units */
+"Percents" = "Percentuali";
+
+/* Tool */
+"Perspective Transform" = "Trasformazione prospettiva";
+
+/* Native iOS Photos app name */
 "Photos" = "Foto";
 
 /* No comment provided by engineer. */
 "Photoshop" = "Photoshop";
 
 /* No comment provided by engineer. */
+"Pin Light" = "Punto luce";
+
+/* Tool */
 "Pinch" = "Pizzica";
 
 /* No comment provided by engineer. */
 "Pinch Settings" = "Impostazioni pizzico";
+
+/* Tool */
+"Pixel Tool" = "Strumento pixel";
 
 /* No comment provided by engineer. */
 "Pixelmator" = "Pixelmator";
@@ -847,17 +1452,29 @@
 /* No comment provided by engineer. */
 "Pixelmator has been denied access to the Camera. Please allow access in Settings." = "A Pixelmator è stato negato l'accesso alla fotocamera. Vai in Impostazioni per consentire l'accesso.";
 
+/* Units */
+"Pixels" = "Pixel";
+
 /* No comment provided by engineer. */
 "Please try again later." = "Riprova più tardi.";
 
 /* No comment provided by engineer. */
 "PNG" = "PNG";
 
-/* No comment provided by engineer. */
+/* Units */
 "Points" = "Punti";
 
 /* No comment provided by engineer. */
 "Points Count" = "Conteggio punti";
+
+/* Tool */
+"Polygon" = "Poligono";
+
+/* No comment provided by engineer. */
+"Posterize" = "Posterizza";
+
+/* No comment provided by engineer. */
+"Preserve transparency" = "Mantieni trasparenza";
 
 /* No comment provided by engineer. */
 "Presets" = "Preset";
@@ -869,15 +1486,21 @@
 "Previous" = "Precedente";
 
 /* No comment provided by engineer. */
+"Previous Image" = "Immagine precedente";
+
+/* No comment provided by engineer. */
+"Processing..." = "Elaborazione...";
+
+/* Units */
 "pt" = "pt";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Punk" = "Punk";
 
-/* No comment provided by engineer. */
+/* Units */
 "px" = "px";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Quick" = "Rapida";
 
 /* Selection Undo */
@@ -889,17 +1512,56 @@
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "Seleziona rapidamente oggetti dettagliati";
 
+/* Recents group abbreviation */
+"R" = "R";
+
 /* No comment provided by engineer. */
 "Radius" = "Raggio";
+
+/* No comment provided by engineer. */
+"Random" = "Casuale";
+
+/* No comment provided by engineer. */
+"Range" = "Gamma";
 
 /* No comment provided by engineer. */
 "Rasterize Layer" = "Rasterizza livello";
 
 /* No comment provided by engineer. */
+"RAW" = "RAW";
+
+/* No comment provided by engineer. */
+"RAW Layer" = "Livello RAW";
+
+/* Layer creation */
+"Raw Layer" = "Livello raw";
+
+/* No comment provided by engineer. */
+"RAW+JPEG" = "RAW+JPEG";
+
+/* No comment provided by engineer. */
+"Recent" = "Recente";
+
+/* No comment provided by engineer. */
+"Recents" = "Recenti";
+
+/* Tool */
+"Rectangle" = "Rettangolo";
+
+/* Tool */
 "Rectangular" = "Rettangolare";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "Selezione rettangolare";
+
+/* No comment provided by engineer. */
+"Rectangular Speech Bubble" = "Fumetto rettangolare";
+
+/* No comment provided by engineer. */
+"Red" = "Rosso";
+
+/* No comment provided by engineer. */
+"Red Channel" = "Canale rosso";
 
 /* No comment provided by engineer. */
 "Red Color Balance" = "Bilanciamento colore rosso";
@@ -909,6 +1571,9 @@
 
 /* No comment provided by engineer. */
 "Redo" = "Riprist.";
+
+/* No comment provided by engineer. */
+"Redo %@" = "Ripristina %@";
 
 /* No comment provided by engineer. */
 "Refine Selection" = "Perfeziona selezione";
@@ -929,6 +1594,12 @@
 "Remove" = "Rimuovi";
 
 /* No comment provided by engineer. */
+"Remove Color" = "Rimuovi colore";
+
+/* No comment provided by engineer. */
+"Remove Mask" = "Rimuovi maschera";
+
+/* No comment provided by engineer. */
 "Remove red-eye effect" = "Rimuovi effetto occhi rossi";
 
 /* No comment provided by engineer. */
@@ -940,11 +1611,18 @@
 /* No comment provided by engineer. */
 "Rename Image Error" = "Errore nel rinominare l'immagine";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Repair" = "Ripara";
 
 /* No comment provided by engineer. */
+"Repair Selection" = "Ripara selezione";
+
+/* No comment provided by engineer. */
 "Repair Tool" = "Strumento di riparazione";
+
+/* No comment provided by engineer. */
+"Repairing..." = "Riparazione...";
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "Riparazione... %@";
@@ -956,16 +1634,52 @@
 "Replace All" = "Sostituisci tutto";
 
 /* No comment provided by engineer. */
+"Replace Color" = "Sostituisci";
+
+/* No comment provided by engineer. */
 "Replace Image" = "Sostituisci immagine";
 
 /* No comment provided by engineer. */
 "Reset" = "Reimposta";
 
 /* No comment provided by engineer. */
+"Reset Adjustments" = "Azzera regolazioni";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "Resetta miglioramento automatico";
+
+/* No comment provided by engineer. */
+"Reset Crop" = "Ripristinare ritaglio";
+
+/* Perspective transform */
+"Reset Horizontal Perspective" = "Ripristina prospettiva orizzontale";
+
+/* No comment provided by engineer. */
+"Reset ML Crop" = "Ripristinare ritaglio ML";
+
+/* No comment provided by engineer. */
+"Reset ML Enhance" = "Reimposta miglioramento ML";
+
+/* No comment provided by engineer. */
+"Reset ML Match Colors" = "Reimposta corrispondenza colori con AA";
+
+/* Perspective transform */
+"Reset Perspective" = "Ripristina prospettiva";
+
+/* No comment provided by engineer. */
+"Reset Repair Changes" = "Ripristina le modifiche di riparazione";
+
+/* Perspective transform */
+"Reset Vertical Perspective" = "Ripristina prospettiva verticale";
+
+/* Tool */
 "Restore" = "Riprist.";
 
 /* No comment provided by engineer. */
 "Restore distorted areas" = "Ripristina aree distorte";
+
+/* No comment provided by engineer. */
+"Restore Layer" = "Ripristina livello";
 
 /* No comment provided by engineer. */
 "Restore Settings" = "Ripristina impostazioni";
@@ -979,11 +1693,20 @@
 /* No comment provided by engineer. */
 "Revert" = "Ripristina originale";
 
+/* No comment provided by engineer. */
+"Revert to Original" = "Ripristina";
+
+/* No comment provided by engineer. */
+"RGB" = "RGB";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Rich" = "Ricco";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Rigel" = "Rigel";
+
+/* No comment provided by engineer. */
+"Right" = "Destra";
 
 /* No comment provided by engineer. */
 "Right-handed" = "Destrorso";
@@ -1006,8 +1729,11 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Romantic" = "Romantico";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Rotate" = "Ruota";
+
+/* No comment provided by engineer. */
+"Rotate 180°" = "Ruota di 180°";
 
 /* No comment provided by engineer. */
 "Rotate Left" = "Ruota a sinistra";
@@ -1018,14 +1744,24 @@
 /* No comment provided by engineer. */
 "Rotate Selection" = "Ruota selezione";
 
+/* Tool */
+"Rounded Rect." = "Rettangolo arrotondato";
+
+/* No comment provided by engineer. */
+"Rounded Rectangle" = "Rettangolo arrotondato";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Ruby" = "Rubino";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Saturate" = "Satura";
 
 /* No comment provided by engineer. */
 "Saturation" = "Saturazione";
+
+/* No comment provided by engineer. */
+"Saturation Scatter" = "Dispersione saturazione";
 
 /* No comment provided by engineer. */
 "Saturation Settings" = "Impostazioni saturazione";
@@ -1037,10 +1773,43 @@
 "Save to iCloud Drive" = "Salva su iCloud Drive";
 
 /* No comment provided by engineer. */
+"Scale" = "Scala";
+
+/* No comment provided by engineer. */
+"Scale Horizontally by Tilt" = "Scala orizzontale inclinando";
+
+/* No comment provided by engineer. */
+"Scale Shape Horizontally" = "Scala forma orizzontalmente";
+
+/* No comment provided by engineer. */
+"Scale Shape Vertically" = "Scala forma verticalmente";
+
+/* No comment provided by engineer. */
+"Scale to Fill" = "Scala per riempire";
+
+/* No comment provided by engineer. */
+"Scale to Fit" = "Adatta in scala";
+
+/* No comment provided by engineer. */
+"Scale Vertically by Tilt" = "Scala verticale inclinando";
+
+/* No comment provided by engineer. */
+"Screen" = "Schermo";
+
+/* No comment provided by engineer. */
 "Select" = "Seleziona";
+
+/* No comment provided by engineer. */
+"Select All" = "Seleziona tutto";
 
 /* Edit Top Bar label text */
 "Select an Image" = "Seleziona un’immagine";
+
+/* Tool */
+"Select Column" = "Seleziona colonna";
+
+/* No comment provided by engineer. */
+"Select Images" = "Seleziona immagini";
 
 /* No comment provided by engineer. */
 "Select objects by tracing their edges" = "Seleziona gli oggetti tracciando i loro bordi";
@@ -1051,14 +1820,23 @@
 /* No comment provided by engineer. */
 "Select rounded areas" = "Seleziona aree rotondi";
 
+/* Tool */
+"Select Row" = "Seleziona riga";
+
 /* No comment provided by engineer. */
 "Select similarly colored areas" = "Seleziona aree di colore simile";
+
+/* No comment provided by engineer. */
+"Selected Color" = "Colore selezionato";
 
 /* No comment provided by engineer. */
 "Selection" = "Selezione";
 
 /* No comment provided by engineer. */
 "Selection Mode" = "Modalità selezione";
+
+/* No comment provided by engineer. */
+"Selective Color" = "Colore selettivo";
 
 /* No comment provided by engineer. */
 "Send a Copy" = "Invia una copia";
@@ -1074,6 +1852,9 @@
 
 /* No comment provided by engineer. */
 "Settings" = "Impostazioni";
+
+/* No comment provided by engineer. */
+"Shadow" = "Ombra";
 
 /* No comment provided by engineer. */
 "Shadow Angle" = "Angolo ombra";
@@ -1093,17 +1874,34 @@
 /* No comment provided by engineer. */
 "Shadow On" = "Ombra attiva";
 
+/* Color Balance */
+"Shadows" = "Ombre";
+
 /* Default new shape layer name */
 "Shape" = "Forma";
+
+/* No comment provided by engineer. */
+"Shape Angle" = "Angolo forma";
+
+/* No comment provided by engineer. */
+"Shape Direction" = "Direzione forma";
 
 /* No comment provided by engineer. */
 "Share" = "Condividi";
 
 /* No comment provided by engineer. */
-"Sharing" = "Condivisione";
+"Shared Albums" = "Album condivisi";
 
 /* No comment provided by engineer. */
+"Sharing" = "Condivisione";
+
+/* Effects category name
+   Retouch Tools
+   Tool */
 "Sharpen" = "Nitidezza";
+
+/* No comment provided by engineer. */
+"Sharpen Luminance" = "Luminosità nitidezza";
 
 /* No comment provided by engineer. */
 "Sharpen Settings" = "Impostazioni contrasto";
@@ -1115,18 +1913,49 @@
 "Sharpen the focus" = "Acuisci messa a fuoco";
 
 /* No comment provided by engineer. */
+"Sharpness" = "Nitidezza";
+
+/* No comment provided by engineer. */
 "Show" = "Mostra";
 
 /* No comment provided by engineer. */
 "Show Colors" = "Mostra colori";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Show Layer" = "Mostra livello";
+
+/* No comment provided by engineer. */
+"Simple" = "Semplice";
+
+/* No comment provided by engineer. */
+"Sixfold Reflected" = "Riflessa sei volte";
+
+/* No comment provided by engineer. */
+"Sixfold Rotated" = "Ruotata sei volte";
+
+/* No comment provided by engineer. */
+"Size" = "Dimensione";
+
+/* No comment provided by engineer. */
+"Size by Pressure" = "Dimensione per pressione";
+
+/* No comment provided by engineer. */
+"Size by Speed" = "Dimensione per velocità";
+
+/* No comment provided by engineer. */
+"Size Scatter" = "Dispersione dimensione";
+
+/* No comment provided by engineer. */
+"Skew" = "Storto";
 
 /* No comment provided by engineer. */
 "Small" = "Piccola";
 
 /* No comment provided by engineer. */
+"Smooth Textures" = "Texture morbide";
+
+/* Retouch Tools
+   Tool */
 "Smudge" = "Macchia";
 
 /* No comment provided by engineer. */
@@ -1138,10 +1967,17 @@
 /* No comment provided by engineer. */
 "Smudge Strength" = "Intensità sfumino";
 
+/* No comment provided by engineer. */
+"Snapping" = "Aggancia";
+
 /* Used to describe brush strength */
 "Soft" = "Basso";
 
 /* No comment provided by engineer. */
+"Soft Light" = "Luce morbida";
+
+/* Retouch Tools
+   Tool */
 "Soften" = "Attenua";
 
 /* No comment provided by engineer. */
@@ -1151,16 +1987,25 @@
 "Soften Strength" = "Diminuisci intensità";
 
 /* No comment provided by engineer. */
-"Some changes were made to your presentation" = "Sono state effettuate alcune modifiche alla tua presentazione";
+"Softness" = "Morbidezza";
 
 /* No comment provided by engineer. */
-"Some document changes are not in sync. All versions will be saved separately." = "Alcune modifiche del documento non sono state sincronizzate. Tutte le versioni verranno salvate separatamente.";
+"Some changes were made to your presentation" = "Sono state effettuate alcune modifiche alla tua presentazione";
 
 /* No comment provided by engineer. */
 "Some Layer Group settings are not supported. Your image might look different." = "Alcune impostazioni dei gruppi di livelli non sono supportate. L’immagine potrebbe apparire diversa.";
 
 /* No comment provided by engineer. */
-"Something went wrong. Please try again." = "Qualcosa è andato storto. Per favore riprova.";
+"Source Atop" = "Sorgente Atop";
+
+/* No comment provided by engineer. */
+"Source Color" = "Colore d'origine";
+
+/* No comment provided by engineer. */
+"Source In" = "Sorgente ingresso";
+
+/* No comment provided by engineer. */
+"Source Out" = "Sorgente uscita";
 
 /* No comment provided by engineer. */
 "Spin area of an image to the left" = "Ruota area di un'immagine a sinistra";
@@ -1169,6 +2014,9 @@
 "Spin area of an image to the right" = "Ruota area di un'immagine a destra";
 
 /* No comment provided by engineer. */
+"Spot Light" = "Luce piatta";
+
+/* Tool */
 "Spray" = "Spruzzo";
 
 /* No comment provided by engineer. */
@@ -1177,8 +2025,26 @@
 /* No comment provided by engineer. */
 "Squeeze area of an image" = "Comprimi area di un'immagine";
 
+/* Tool */
+"Star" = "Stella";
+
+/* No comment provided by engineer. */
+"Start Point" = "Punto di partenza";
+
+/* Tool */
+"Straighten" = "Raddrizza";
+
 /* No comment provided by engineer. */
 "Strength" = "Intensità";
+
+/* No comment provided by engineer. */
+"Stretch" = "Allunga";
+
+/* No comment provided by engineer. */
+"Stripes" = "Strisce";
+
+/* No comment provided by engineer. */
+"Stroke" = "Tratto";
 
 /* No comment provided by engineer. */
 "Stroke Color" = "Colore tratto";
@@ -1193,10 +2059,22 @@
 "Stroke On" = "Tratto attivo";
 
 /* No comment provided by engineer. */
-"Stroke Width" = "Ampiezza tratto";
+"Stroke Position" = "Posizione tratto";
 
 /* No comment provided by engineer. */
+"Stroke Type" = "Tipo di tratto";
+
+/* No comment provided by engineer. */
+"Stroke Width" = "Ampiezza tratto";
+
+/* Tool */
 "Style" = "Stile";
+
+/* Effects category name */
+"Stylize" = "Stilizzazione";
+
+/* No comment provided by engineer. */
+"Subtract" = "Sottrai";
 
 /* No comment provided by engineer. */
 "Subtract from" = "Sottrai da";
@@ -1205,7 +2083,22 @@
 "Subtract from Selection" = "Sottrai da selezione";
 
 /* No comment provided by engineer. */
+"Sunbeams" = "Raggi di sole";
+
+/* No comment provided by engineer. */
+"Tail End Dynamics" = "Dinamica estremità finale";
+
+/* No comment provided by engineer. */
 "Tail Location" = "Posizione estremità";
+
+/* No comment provided by engineer. */
+"Tail Opacity" = "Opacità estremità";
+
+/* No comment provided by engineer. */
+"Tail Size" = "Dimensione estremità";
+
+/* No comment provided by engineer. */
+"Tail Start Dynamics" = "Dinamica estremità iniziale";
 
 /* No comment provided by engineer. */
 "Tail Width" = "Larghezza estremità";
@@ -1240,6 +2133,9 @@
 /* No comment provided by engineer. */
 "Tap to choose an eraser" = "Tocca per scegliere una gomma";
 
+/* No comment provided by engineer. */
+"Target Color" = "Colore target";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Taurus" = "Toro";
 
@@ -1255,7 +2151,8 @@
 /* Template download alert */
 "Templates are stored on the Internet so it might take a while to download one." = "I template sono archiviati su internet e pertanto potrebbero volerci alcuni istanti per scaricarne uno.";
 
-/* Default new text layer name */
+/* Default new text layer name
+   Tool */
 "Text" = "Testo";
 
 /* No comment provided by engineer. */
@@ -1307,7 +2204,13 @@
 "The image will be opened in Pixelmator file format." = "L’immagine verrà aperta in formato file Pixelmator.";
 
 /* No comment provided by engineer. */
+"The maximum number of layers for this image size is %i" = "Il numero massimo di livelli per questa dimensione dell'immagine è %i";
+
+/* No comment provided by engineer. */
 "The new document picker lets you manage your images using the familiar Files app." = "Il nuovo selettore di documenti ti consente di gestire le tue immagini utilizzando la comune app di file.";
+
+/* No comment provided by engineer. */
+"The size is too large." = "La dimensione è troppo grande.";
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "Il tipo di livello %@ non è supportato. L’immagine potrebbe apparire diversa.";
@@ -1321,6 +2224,21 @@
 /* No comment provided by engineer. */
 "This version of Pixelmator has been created specifically for demonstration purposes" = "Questa versione di Pixelmator è stata creata per scopi puramente dimostrativi";
 
+/* Effects category name */
+"Tile" = "Porzione";
+
+/* No comment provided by engineer. */
+"Tilt Maximum Size" = "Dimensione massima inclinazione";
+
+/* No comment provided by engineer. */
+"Tilt Scatter" = "Dispersione inclinazione";
+
+/* No comment provided by engineer. */
+"Tilt Shift" = "Tilt shift";
+
+/* No comment provided by engineer. */
+"Tilt-Shift" = "Tilt shift";
+
 /* No comment provided by engineer. */
 "Tint" = "Tinta";
 
@@ -1331,16 +2249,46 @@
 "Toggle Eraser" = "Attiva/disattiva gomma";
 
 /* No comment provided by engineer. */
+"Tone" = "Tono";
+
+/* No comment provided by engineer. */
 "Tool" = "Strumento";
 
 /* No comment provided by engineer. */
 "Tools" = "Strumenti";
 
 /* No comment provided by engineer. */
+"Top" = "In alto";
+
+/* No comment provided by engineer. */
+"Torus Lens" = "Lente toroidale";
+
+/* No comment provided by engineer. */
+"Touch Opacity" = "Opacità tocco";
+
+/* No comment provided by engineer. */
+"Touch Size" = "Dimensione tocco";
+
+/* No comment provided by engineer. */
 "Transform" = "Trasforma";
 
 /* No comment provided by engineer. */
 "Transform Selection" = "Trasforma selezione";
+
+/* No comment provided by engineer. */
+"Transition" = "Transizione";
+
+/* No comment provided by engineer. */
+"Triangle" = "Triangolo";
+
+/* Tool */
+"Trim Canvas" = "Rifila quadro";
+
+/* No comment provided by engineer. */
+"Twelvefold" = "Dodici volte";
+
+/* Tool */
+"Twirl" = "Spirale";
 
 /* No comment provided by engineer. */
 "Twirl Left" = "Spirale sx";
@@ -1385,13 +2333,22 @@
 "Undo" = "Indietro";
 
 /* No comment provided by engineer. */
+"Undo %@" = "Annulla %@";
+
+/* No comment provided by engineer. */
+"Unfavorite" = "Scartato";
+
+/* Layer Arrange */
 "Ungroup" = "Separa";
 
 /* No comment provided by engineer. */
 "Unknown" = "Sconosciuto";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Unlock" = "Sblocca";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "Sblocca %@";
 
 /* No comment provided by engineer. */
 "Unlock Alpha" = "Sblocca alpha";
@@ -1402,6 +2359,15 @@
 /* No comment provided by engineer. */
 "Unsupported activity type" = "Tipo attività non supportato";
 
+/* No comment provided by engineer. */
+"Untitled" = "Senza titolo";
+
+/* No comment provided by engineer. */
+"Untitled layer" = "Livello senza titolo";
+
+/* No comment provided by engineer. */
+"Untitled Layer" = "Livello senza titolo";
+
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "Urbano";
 
@@ -1409,13 +2375,13 @@
 "Use any of the inspiring drawing or painting tools to create stunning artwork." = "Usa uno qualsiasi dei disegni di ispirazione o degli strumenti di pittura per creare opere incredibili.";
 
 /* No comment provided by engineer. */
-"Use iCloud" = "Usa iCloud";
-
-/* No comment provided by engineer. */
 "Use the new template chooser to quickly create new images with common sizes." = "Utilizza la nuova scelta template per creare velocemente nuove immagini con dimensioni comuni.";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "Vega";
+
+/* Perspective transform */
+"Vertical Perspective" = "Prospettiva verticale";
 
 /* Used to describe brush strength */
 "Very Hard" = "Molto duro";
@@ -1429,6 +2395,9 @@
 /* Used to describe brush strength */
 "Very Soft" = "Molto morbido";
 
+/* No comment provided by engineer. */
+"Vibrance" = "Vivacità";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "Vibrante";
 
@@ -1439,7 +2408,16 @@
 "Vignette" = "Vignetta";
 
 /* No comment provided by engineer. */
+"Vignette Softness" = "Morbidezza vignetta";
+
+/* No comment provided by engineer. */
 "Vintage" = "Vintage";
+
+/* No comment provided by engineer. */
+"Vivid Light" = "Luce vivida";
+
+/* No comment provided by engineer. */
+"Vortex" = "Vortice";
 
 /* No comment provided by engineer. */
 "Wacom Stylus" = "Penna Wacom";
@@ -1450,7 +2428,7 @@
 /* No comment provided by engineer. */
 "Warning" = "Avviso";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Warp" = "Altera";
 
 /* No comment provided by engineer. */
@@ -1463,7 +2441,7 @@
 "Watercolor" = "Acquerello";
 
 /* No comment provided by engineer. */
-"What would you like to do with the documents currently on this device?" = "Cosa vuoi fare con i documenti attualmente presenti su questo iPad?";
+"Wetness" = "Umidità";
 
 /* No comment provided by engineer. */
 "What's New" = "Novità";
@@ -1473,6 +2451,9 @@
 
 /* No comment provided by engineer. */
 "White Balance" = "Bilanciamento bianco";
+
+/* No comment provided by engineer. */
+"Workflow %i" = "Flusso di lavoro %i";
 
 /* No comment provided by engineer. */
 "Writing Style" = "Stile scrittura";
@@ -1514,7 +2495,7 @@
 "You'll choose an app in the next step." = "Sceglierai un’app nel prossimo passaggio.";
 
 /* No comment provided by engineer. */
-"You're Not Using iCloud" = "Non stai usando iCloud";
+"Zoom" = "Ridimensiona";
 
 /* No comment provided by engineer. */
 "Zoom In" = "Ingrandisci";

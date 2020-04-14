@@ -1,5 +1,23 @@
+/* crop aspect ratio */
+"%.2f:%0.2f" = "%1$.2f:%2$.2f";
+
+/* crop aspect ratio */
+"%.2f:%d" = "%1$.2f:%2$d";
+
 /* No comment provided by engineer. */
 "%@ Effect" = "%@ エフェクト";
+
+/* seconds */
+"%@s" = "%@s";
+
+/* crop aspect ratio */
+"%d:%0.2f" = "%1$d:%2$.2f";
+
+/* crop aspect ratio */
+"%d:%d" = "%1$d:%2$d";
+
+/* No comment provided by engineer. */
+"%i Images Selected" = "%i 画像を選択";
 
 /* No comment provided by engineer. */
 "(empty)" = "(空)";
@@ -8,19 +26,31 @@
 "1 Image Selected" = "1 画像を選択";
 
 /* No comment provided by engineer. */
+"\"%@\" Preset" = "\"%@\"プリセット";
+
+/* No comment provided by engineer. */
 "A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "この場所には“%@”という書類があります。移動中のもので置き換えますか？";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "フラット化された画像のコピーが作成されます。";
 
 /* No comment provided by engineer. */
-"Add Effects" = "エフェクトを追加";
+"Accumulation" = "累積";
 
 /* No comment provided by engineer. */
+"Add Effects" = "エフェクトを追加";
+
+/* Layer Management */
+"Add Image" = "イメージを追加";
+
+/* Layer Management */
 "Add Layer" = "レイヤーを追加";
 
 /* No comment provided by engineer. */
 "Add Mask" = "マスクを追加";
+
+/* No comment provided by engineer. */
+"Add Raw Layer" = "RAWレイヤーを追加";
 
 /* Selection Undo */
 "Add Selection" = "選択項目を追加";
@@ -28,7 +58,7 @@
 /* No comment provided by engineer. */
 "Add Shape" = "シェイプを追加";
 
-/* No comment provided by engineer. */
+/* Layer Management */
 "Add Text" = "テキストを追加";
 
 /* No comment provided by engineer. */
@@ -50,7 +80,16 @@
 "Adonit Jot Stylus" = "Adonit Jot Stylus";
 
 /* No comment provided by engineer. */
+"Affine Tile" = "アフィンタイル";
+
+/* No comment provided by engineer. */
 "All" = "すべて";
+
+/* No comment provided by engineer. */
+"All Albums" = "すべてのアルバム";
+
+/* No comment provided by engineer. */
+"All Photos" = "すべての写真";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "琥珀";
@@ -60,6 +99,15 @@
 
 /* No comment provided by engineer. */
 "An error occurred while opening the image." = "画像を開く際にエラーが発生しました。";
+
+/* No comment provided by engineer. */
+"Angle" = "角度";
+
+/* No comment provided by engineer. */
+"Angle by Tilt" = "傾きによる角度";
+
+/* No comment provided by engineer. */
+"Angle Scatter" = "散布の角度";
 
 /* No comment provided by engineer. */
 "Apply" = "適用";
@@ -76,11 +124,18 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Arcturus" = "アルクトゥルス";
 
-/* No comment provided by engineer. */
+/* Layer Arrange
+   Tool */
 "Arrange" = "並べ替え";
 
 /* No comment provided by engineer. */
+"Arrow" = "矢印";
+
+/* No comment provided by engineer. */
 "Arrow Edit" = "矢印の編集";
+
+/* No comment provided by engineer. */
+"Arrow from Point" = "ポイントから矢印";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Art Deco" = "アールデコ";
@@ -95,15 +150,24 @@
 "Auto" = "自動";
 
 /* No comment provided by engineer. */
-"Automatically store your documents in the cloud to keep them up-to-date across all your devices and the web." = "すべてのデバイスとウェブで常に最新の状態に保つためにクラウドに書類を自動で保存します。";
+"Auto Enhance" = "自動補正";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "B&W" = "白黒";
 
 /* No comment provided by engineer. */
+"Background Color" = "背景色";
+
+/* No comment provided by engineer. */
 "Background Layer" = "背景のレイヤー";
 
 /* No comment provided by engineer. */
+"Balance Adjustment" = "バランス調整";
+
+/* No comment provided by engineer. */
+"Baseline Exposure" = "ベースラインの表示";
+
+/* Tool */
 "Basic" = "基本";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
@@ -113,18 +177,39 @@
 "Begin Selection" = "選択を開始";
 
 /* No comment provided by engineer. */
+"Behind" = "背景";
+
+/* No comment provided by engineer. */
+"Bias" = "バイアス";
+
+/* No comment provided by engineer. */
 "Black & White" = "白黒";
+
+/* No comment provided by engineer. */
+"Black Point" = "ブラックポイント";
 
 /* No comment provided by engineer. */
 "Blending" = "ブレンド";
 
 /* No comment provided by engineer. */
+"Blending mode" = "ブレンディングモード";
+
+/* No comment provided by engineer. */
+"Blending Mode" = "ブレンディングモード";
+
+/* No comment provided by engineer. */
 "Bloat area of an image" = "画像の拡張された領域";
+
+/* No comment provided by engineer. */
+"Blue" = "ブルー";
+
+/* No comment provided by engineer. */
+"Blue Channel" = "ブルーチャンネル";
 
 /* No comment provided by engineer. */
 "Blue Color Balance" = "ブルーカラーバランス";
 
-/* No comment provided by engineer. */
+/* Effects category name */
 "Blur" = "ブラー";
 
 /* No comment provided by engineer. */
@@ -134,7 +219,19 @@
 "Bokeh" = "ぼけ味";
 
 /* No comment provided by engineer. */
+"Boost" = "ブースト";
+
+/* No comment provided by engineer. */
+"Boost Shadow" = "ブーストシャドウ";
+
+/* No comment provided by engineer. */
 "Borders" = "境界線";
+
+/* No comment provided by engineer. */
+"Bottom" = "下";
+
+/* No comment provided by engineer. */
+"Box" = "ボックス";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Bright" = "明";
@@ -149,16 +246,25 @@
 "Brush" = "ブラシ";
 
 /* No comment provided by engineer. */
+"Brush Scatter" = "ブラシの散布";
+
+/* No comment provided by engineer. */
 "Brush Settings" = "ブラシの設定";
 
 /* No comment provided by engineer. */
 "Brush Size" = "ブラシの大きさ";
 
 /* No comment provided by engineer. */
+"Brush Spacing" = "ブラシの間隔";
+
+/* Tool */
 "Bump" = "バンプ (凸凹)";
 
 /* No comment provided by engineer. */
 "Bump Settings" = "バンプの設定";
+
+/* Custom group abbreviation */
+"C" = "C";
 
 /* No comment provided by engineer. */
 "Camera Access Denied" = "カメラにアクセスできません";
@@ -175,6 +281,9 @@
 /* No comment provided by engineer. */
 "Canvas" = "キャンバス";
 
+/* Tool */
+"Canvas Size" = "キャンバスサイズ";
+
 /* No comment provided by engineer. */
 "Categories" = "分類";
 
@@ -182,10 +291,25 @@
 "Celeste" = "セレステ";
 
 /* No comment provided by engineer. */
+"Center" = "中央";
+
+/* Units */
+"Centimeters" = "センチ";
+
+/* No comment provided by engineer. */
 "Change Color..." = "カラーを変更...";
+
+/* No comment provided by engineer. */
+"Channel" = "チャンネル";
+
+/* No comment provided by engineer. */
+"Channel Mixer" = "チャンネルミキサー";
 
 /* Used in template downloading. */
 "Check your network connection and try again." = "ネットワークをチェックしてもう一度行ってください。";
+
+/* No comment provided by engineer. */
+"Checkerboard" = "チェッカーボード";
 
 /* No comment provided by engineer. */
 "Choose App" = "アプリを選択";
@@ -197,12 +321,34 @@
 "Choose Neutral Color" = "中間色を選択";
 
 /* No comment provided by engineer. */
+"Chromatic Noise Tracking" = "色ノイズ追跡";
+
+/* No comment provided by engineer. */
+"Chromaticity X" = "色度 X";
+
+/* No comment provided by engineer. */
+"Chromaticity Y" = "色度 Y";
+
+/* No comment provided by engineer. */
+"Circle Splash" = "円形しぶき";
+
+/* No comment provided by engineer. */
+"Circle Tilt-Shift Blur" = "線形傾きシフトぼかし";
+
+/* No comment provided by engineer. */
+"Circular Wrap" = "円形状ラップ";
+
+/* No comment provided by engineer. */
+"Clarity" = "透明性";
+
+/* No comment provided by engineer. */
 "Clipboard" = "クリップボード";
 
 /* No comment provided by engineer. */
 "Clipping Mask is not supported. Your image might look different." = "クリッピングマスクはサポートしていません。画像は異なって見えます。";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Clone" = "クローン";
 
 /* No comment provided by engineer. */
@@ -212,7 +358,35 @@
 "Close Selection" = "選択を閉じる";
 
 /* No comment provided by engineer. */
+"Clouds" = "クラウド";
+
+/* Units */
+"cm" = "センチ";
+
+/* Tool */
 "Color" = "カラー";
+
+/* Adjust Colors
+   Effects category name */
+"Color Adjustments" = "カラー調整";
+
+/* No comment provided by engineer. */
+"Color Balance" = "バランス";
+
+/* No comment provided by engineer. */
+"Color Burn" = "焼き込み (カラー)";
+
+/* No comment provided by engineer. */
+"Color Dodge" = "覆い焼き (カラー)";
+
+/* No comment provided by engineer. */
+"Color Fill" = "色で塗りつぶし";
+
+/* No comment provided by engineer. */
+"Color Monochrome" = "モノクロ化";
+
+/* No comment provided by engineer. */
+"Color Noise Reduction" = "カラーノイズ低減";
 
 /* No comment provided by engineer. */
 "Color Picker" = "カラーピッカー";
@@ -221,7 +395,13 @@
 "Color Selection" = "色選択";
 
 /* No comment provided by engineer. */
+"Color Wheels" = "カラーホイール";
+
+/* Tool */
 "Colors" = "カラー";
+
+/* No comment provided by engineer. */
+"Concentration" = "濃度";
 
 /* No comment provided by engineer. */
 "Connect" = "接続";
@@ -236,10 +416,10 @@
 "Connecting..." = "接続中...";
 
 /* No comment provided by engineer. */
-"Continue" = "続ける";
+"Constant" = "定数";
 
 /* No comment provided by engineer. */
-"Continue Using iCloud" = "iCloud を使って続ける";
+"Continue" = "続ける";
 
 /* No comment provided by engineer. */
 "Contrast" = "コントラスト";
@@ -250,8 +430,11 @@
 /* Used in gallery document duplicate. */
 "copy" = "コピー";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Copy" = "コピー";
+
+/* Layer Management */
+"Copy Layer" = "レイヤーをコピー";
 
 /* No comment provided by engineer. */
 "Copy to Photos" = "写真にコピー";
@@ -265,7 +448,7 @@
 /* No comment provided by engineer. */
 "Could not insert image." = "画像を挿入できません。";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Crayon" = "クレヨン";
 
 /* No comment provided by engineer. */
@@ -289,7 +472,7 @@
 /* No comment provided by engineer. */
 "Creative Tools" = "クリエイティブツール";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Crop" = "切り抜く";
 
 /* No comment provided by engineer. */
@@ -304,16 +487,23 @@
 /* No comment provided by engineer. */
 "Curves" = "曲線";
 
+/* Tool */
+"Custom" = "その他";
+
 /* No comment provided by engineer. */
 "Custom Size Image" = "カスタムサイズの画像";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Cut" = "カット";
+
+/* Layer Management */
+"Cut Layer" = "レイヤーをカット";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Dark" = "濃い";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Darken" = "比較 (暗)";
 
 /* No comment provided by engineer. */
@@ -326,6 +516,9 @@
 "Darken Strength" = "強い部分を暗く";
 
 /* No comment provided by engineer. */
+"Darker Color" = "焼き込み (ソフト)";
+
+/* No comment provided by engineer. */
 "Decrease Brush Size" = "ブラシのサイズを小さく";
 
 /* No comment provided by engineer. */
@@ -334,22 +527,29 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "カラーの強さを減らす";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Delete" = "削除";
+
+/* No comment provided by engineer. */
+"Delete " = "削除";
 
 /* Gallery Edit Top Bar Delete button popover */
 "Delete %d Images" = "%d 個の画像を削除";
 
-/* No comment provided by engineer. */
-"Delete from My Device" = "自分のデバイスから削除";
-
 /* Gallery Edit Top Bar Delete button popover */
 "Delete Image" = "画像を削除";
 
-/* No comment provided by engineer. */
+/* Layer Management */
 "Delete Layer" = "レイヤーを削除";
 
 /* No comment provided by engineer. */
+"Delete Linked File" = "リンクしたファイルを削除";
+
+/* No comment provided by engineer. */
+"Depth Mask" = "深度マスク";
+
+/* Retouch Tools
+   Tool */
 "Desaturate" = "彩度を下げる";
 
 /* No comment provided by engineer. */
@@ -361,6 +561,12 @@
 /* No comment provided by engineer. */
 "Deselect" = "選択を解除";
 
+/* No comment provided by engineer. */
+"Deselect All" = "すべての選択を解除";
+
+/* No comment provided by engineer. */
+"Detail" = "詳細";
+
 /* Low space in device alert */
 "Device Low on Space" = "空き領域が少なくなっています";
 
@@ -371,7 +577,28 @@
 "Devices" = "装置";
 
 /* No comment provided by engineer. */
+"Difference" = "差の絶対値";
+
+/* No comment provided by engineer. */
+"Directed" = "方向に追随";
+
+/* No comment provided by engineer. */
+"Disc" = "ディスク";
+
+/* No comment provided by engineer. */
+"Display Style" = "表示スタイル";
+
+/* No comment provided by engineer. */
+"Distance" = "距離";
+
+/* No comment provided by engineer. */
 "Distort" = "歪み";
+
+/* Effects category name */
+"Distortion" = "歪み";
+
+/* No comment provided by engineer. */
+"Divide" = "除算";
 
 /* No comment provided by engineer. */
 "Document Already Exists" = "書類は既に存在します";
@@ -394,6 +621,12 @@
 /* No comment provided by engineer. */
 "Done" = "完了";
 
+/* keyboard */
+"done" = "完了";
+
+/* No comment provided by engineer. */
+"Double-Headed Arrow" = "両方向矢印";
+
 /* No comment provided by engineer. */
 "Download" = "ダウンロード";
 
@@ -407,24 +640,54 @@
 "Draw Selection" = "選択を描画";
 
 /* No comment provided by engineer. */
+"Droste" = "ドロステ";
+
+/* Edit Menu */
 "Duplicate" = "複製";
 
 /* Gallery edit top bar duplicate button popover text. */
 "Duplicate %d Images" = "%d 個の画像を複製";
 
+/* Layer Management */
+"Duplicate Layer" = "レイヤーを複製";
+
 /* No comment provided by engineer. */
+"Edit" = "編集";
+
+/* No comment provided by engineer. */
+"Edit JPEG" = "JPEGを編集";
+
+/* No comment provided by engineer. */
+"Edit RAW" = "RAWを編集";
+
+/* Tool */
 "Effects" = "エフェクト";
 
 /* No comment provided by engineer. */
+"Eightfold" = "8倍";
+
+/* Tool */
+"Ellipse" = "楕円";
+
+/* Tool */
 "Elliptical" = "楕円形";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "楕円で選択";
 
+/* No comment provided by engineer. */
+"Elliptical Speech Bubble" = "楕円形の吹き出し";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Emerald" = "エメラルド";
 
 /* No comment provided by engineer. */
+"Enable Sharpening" = "シャープ化を有効にする";
+
+/* No comment provided by engineer. */
+"End Point" = "終了ポイント";
+
+/* Tool */
 "Erase" = "消去";
 
 /* No comment provided by engineer. */
@@ -438,6 +701,24 @@
 
 /* No comment provided by engineer. */
 "Error" = "エラー";
+
+/* No comment provided by engineer. */
+"Events From My Mac" = "マイMacからのイベント";
+
+/* No comment provided by engineer. */
+"Exclusion" = "除外";
+
+/* No comment provided by engineer. */
+"Exposure" = "露光量";
+
+/* No comment provided by engineer. */
+"Extent" = "Extent";
+
+/* No comment provided by engineer. */
+"Faces From My Mac" = "マイMacからのフェイス";
+
+/* No comment provided by engineer. */
+"Fade" = "フェード";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Faded" = "色あせ";
@@ -455,7 +736,13 @@
 "Failed to set one or more extended attributes." = "拡張属性の設定に失敗しました。";
 
 /* No comment provided by engineer. */
+"Favorite" = "お気に入り";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "デモでは無効な機能です";
+
+/* Effects category name */
+"Fill" = "べた塗り";
 
 /* No comment provided by engineer. */
 "Fill Color" = "塗りつぶしのカラー";
@@ -474,6 +761,15 @@
 
 /* No comment provided by engineer. */
 "Fix Red-Eyes" = "赤目補正";
+
+/* No comment provided by engineer. */
+"Fixed" = "固定";
+
+/* No comment provided by engineer. */
+"Flatten Layer" = "レイヤーを平坦化";
+
+/* Tool */
+"Flip" = "反転";
 
 /* No comment provided by engineer. */
 "Flip Horizontal" = "水平方向に反転";
@@ -497,16 +793,34 @@
 "Fonts" = "フォント";
 
 /* No comment provided by engineer. */
+"Foreground Color" = "前景色";
+
+/* No comment provided by engineer. */
 "Format" = "フォーマット";
 
 /* No comment provided by engineer. */
+"Fourfold" = "4倍";
+
+/* No comment provided by engineer. */
+"Fourfold Rotated" = "4 方向回転";
+
+/* No comment provided by engineer. */
+"Fourfold Translated" = "4 方向変形";
+
+/* Tool */
 "Free" = "空き";
 
 /* No comment provided by engineer. */
 "Free Selection" = "フリー選択";
 
+/* Tool */
+"Freeform" = "フリーフォーム";
+
 /* No comment provided by engineer. */
 "Freely distort area of an image" = "画像の領域を自由に変形";
+
+/* No comment provided by engineer. */
+"From My Mac" = "マイMacから";
 
 /* No comment provided by engineer. */
 "Fullscreen" = "フルスクリーン";
@@ -515,18 +829,64 @@
 "Gallery" = "ギャラリー";
 
 /* No comment provided by engineer. */
+"Gaussian" = "ガウス";
+
+/* Effects category name */
+"Generator" = "ジェネレータ";
+
+/* No comment provided by engineer. */
 "Get Started" = "開始する";
 
 /* No comment provided by engineer. */
+"Glass Lozenge" = "ガラスひし形";
+
+/* No comment provided by engineer. */
+"Glazed" = "グレーズ";
+
+/* No comment provided by engineer. */
+"Glide Reflected" = "グレイド反射";
+
+/* No comment provided by engineer. */
 "Gradient" = "グラデーション";
+
+/* No comment provided by engineer. */
+"Gradient Angle" = "グラデーションの角度";
+
+/* No comment provided by engineer. */
+"Gradient Fill" = "グラデーションで塗りつぶし";
+
+/* No comment provided by engineer. */
+"Grain" = "粒";
+
+/* No comment provided by engineer. */
+"Grain Rotation" = "粒子の回転";
+
+/* No comment provided by engineer. */
+"Grain Scale" = "粒度";
+
+/* No comment provided by engineer. */
+"Grain Spacing" = "粒子の間隔";
+
+/* No comment provided by engineer. */
+"Grain Zoom" = "粒子のズーム";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Grainy" = "不鮮明";
 
 /* No comment provided by engineer. */
+"Green" = "グリーン";
+
+/* No comment provided by engineer. */
+"Green Channel" = "グリーンチャンネル";
+
+/* No comment provided by engineer. */
 "Green Color Balance" = "グリーンカラーバランス";
 
-/* Default new group layer name */
+/* No comment provided by engineer. */
+"Grey" = "グレー";
+
+/* Default new group layer name
+   Layer Arrange */
 "Group" = "グループ";
 
 /* No comment provided by engineer. */
@@ -535,20 +895,41 @@
 /* No comment provided by engineer. */
 "Guides" = "ガイド";
 
+/* Effects category name */
+"Halftone" = "ハーフトーン";
+
+/* No comment provided by engineer. */
+"Halo" = "ハロー";
+
 /* Used to describe brush strength */
 "Hard" = "Hard";
 
 /* No comment provided by engineer. */
+"Hard Light" = "ハードライト";
+
+/* No comment provided by engineer. */
+"Hard Mix" = "ハードミックス";
+
+/* No comment provided by engineer. */
 "Hidden Layer" = "非表示のレイヤー";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Hide" = "隠す";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Hide Layer" = "レイヤーを隠す";
+
+/* Color Balance */
+"Highlights" = "ハイライト";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Hippie" = "ヒッピー";
+
+/* No comment provided by engineer. */
+"Hole" = "穴";
+
+/* Perspective transform */
+"Horizontal Perspective" = "水平方向の視点";
 
 /* No comment provided by engineer. */
 "Hue" = "色相";
@@ -557,24 +938,27 @@
 "Hue & Saturation" = "色相と彩度";
 
 /* No comment provided by engineer. */
-"iCloud for Pixelmator" = "iCloud for Pixelmator";
+"Hue Scatter" = "色相散布";
 
 /* No comment provided by engineer. */
-"iCloud is available" = "iCloud が利用可能です";
+"iCloud for Pixelmator" = "iCloud for Pixelmator";
 
 /* No comment provided by engineer. */
 "iCloud keeps your images up to date on all your devices" = "iCloud はすべてのデバイスで画像を最新の状態にします";
 
-/* No comment provided by engineer. */
+/* Untitled document name received via Handoff */
 "Image" = "画像";
 
 /* No comment provided by engineer. */
 "Image Enhancements" = "画像の改良";
 
 /* No comment provided by engineer. */
-"Image Setup" = "画像設定";
+"Image Fill" = "イメージ塗りつぶし";
 
 /* No comment provided by engineer. */
+"Image Setup" = "画像設定";
+
+/* Tool */
 "Image Size" = "画像サイズ";
 
 /* Edit Top Bar label text. Format:[X Documents Selected] */
@@ -582,6 +966,13 @@
 
 /* No comment provided by engineer. */
 "Import" = "読み込む";
+
+/* short for inches
+   Units */
+"in" = "インチ";
+
+/* Units */
+"Inches" = "インチ";
 
 /* No comment provided by engineer. */
 "Increase Brush Size" = "ブラシを大きく";
@@ -596,10 +987,16 @@
 "Indent Radius" = "インデント半径";
 
 /* No comment provided by engineer. */
+"Initial Direction" = "最初の方向";
+
+/* Tool */
 "Ink" = "インク";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Inky" = "インク調";
+
+/* No comment provided by engineer. */
+"Inner Shadow" = "インナーシャドウ";
 
 /* No comment provided by engineer. */
 "Insert from..." = "次から挿入…";
@@ -609,6 +1006,9 @@
 
 /* No comment provided by engineer. */
 "Install an app that can open your image in PNG, JPEG or Photoshop format" = "画像を PNG, JPEG, Photoshop 形式で開くことができるアプリをインストール";
+
+/* No comment provided by engineer. */
+"Intensity" = "強度";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "反転";
@@ -640,17 +1040,11 @@
 /* Conflict resolve sheet */
 "Keep Both" = "両方とも残す";
 
-/* No comment provided by engineer. */
-"Keep on My Device" = "自分のデバイスに残す";
-
 /* Conflict resolve sheet */
 "Keep One" = "ひとつだけ残す";
 
 /* No comment provided by engineer. */
 "Large" = "大";
-
-/* No comment provided by engineer. */
-"Later" = "後で";
 
 /* Default new layer name */
 "Layer" = "レイヤー";
@@ -662,7 +1056,13 @@
 "Layer Locked" = "ロックされたレイヤー";
 
 /* No comment provided by engineer. */
+"Layer was flattened" = "レイヤーが平坦化されました";
+
+/* No comment provided by engineer. */
 "Learn More" = "詳しい情報";
+
+/* No comment provided by engineer. */
+"Left" = "左";
 
 /* No comment provided by engineer. */
 "Left-handed" = "左利き";
@@ -683,12 +1083,31 @@
 "Left-handed vertical" = "左利きの垂直";
 
 /* No comment provided by engineer. */
+"Lens Correction" = "レンズ補正";
+
+/* No comment provided by engineer. */
 "Levels" = "レベル";
+
+/* No comment provided by engineer. */
+"Library" = "ライブラリ";
+
+/* No comment provided by engineer. */
+"Light Color" = "ライトカラー";
+
+/* No comment provided by engineer. */
+"Light Destination" = "ライトの先";
 
 /* No comment provided by engineer. */
 "Light Leak" = "ライトリーク";
 
 /* No comment provided by engineer. */
+"Light Source" = "ライトの元";
+
+/* No comment provided by engineer. */
+"Light Tunnel" = "ライトトンネル";
+
+/* Retouch Tools
+   Tool */
 "Lighten" = "比較 (明)";
 
 /* No comment provided by engineer. */
@@ -701,7 +1120,46 @@
 "Lighten Strength" = "明るさの強さ";
 
 /* No comment provided by engineer. */
+"Lighter Color" = "覆い焼き (ソフト)";
+
+/* No comment provided by engineer. */
+"Lightness" = "明るさ";
+
+/* No comment provided by engineer. */
+"Lightness Scatter" = "明度の散布";
+
+/* Tool */
+"Line" = "線";
+
+/* No comment provided by engineer. */
+"Linear Burn" = "焼き込み (リニア)";
+
+/* No comment provided by engineer. */
+"Linear Dodge" = "覆い焼き (リニア)";
+
+/* No comment provided by engineer. */
+"Linear Light" = "リニアライト";
+
+/* No comment provided by engineer. */
+"Linear Tilt-Shift Blur" = "線形傾きシフトぼかし";
+
+/* No comment provided by engineer. */
+"Linked Files" = "リンクファイル";
+
+/* No comment provided by engineer. */
+"Linked Pixelmator Photo Files" = "リンクされたPixelmator写真ファイル";
+
+/* No comment provided by engineer. */
+"Load" = "読み込み";
+
+/* No comment provided by engineer. */
+"Loading..." = "読み込み中...";
+
+/* Layer */
 "Lock" = "ロック";
+
+/* No comment provided by engineer. */
+"Lock %@" = "%@をロック";
 
 /* No comment provided by engineer. */
 "Lock Alpha" = "アルファをロック";
@@ -709,13 +1167,22 @@
 /* No comment provided by engineer. */
 "Locked Layer" = "ロックされたレイヤー";
 
+/* No comment provided by engineer. */
+"Luminance" = "輝度";
+
+/* No comment provided by engineer. */
+"Luminance Noise Reduction" = "輝度ノイズ低減";
+
+/* No comment provided by engineer. */
+"Luminosity" = "輝度";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "こと座";
 
 /* Selection */
 "Magic Wand Selection" = "自動選択";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Magnetic" = "マグネット";
 
 /* No comment provided by engineer. */
@@ -727,14 +1194,23 @@
 /* No comment provided by engineer. */
 "Make your images look great with effects, color adjustments, and retouching tools." = "エフェクト、カラー調整、レタッチツールであなたの画像を美しく仕上げます。";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Marker" = "フェルトペン";
+
+/* Color Balance */
+"Master" = "マスター";
+
+/* No comment provided by engineer. */
+"Master Color Wheel" = "マスターカラーホイール";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Matte" = "マット";
 
 /* No comment provided by engineer. */
 "Maximum" = "最高";
+
+/* No comment provided by engineer. */
+"Maximum Pressure Size" = "最大圧力サイズ";
 
 /* No comment provided by engineer. */
 "Medium" = "中";
@@ -746,13 +1222,46 @@
 "Merge" = "結合";
 
 /* No comment provided by engineer. */
+"Merge Brush Marks" = "ブラシのマークを結合";
+
+/* Color Balance */
+"Midtones" = "ミッドトーン";
+
+/* Units */
+"Milimeters" = "ミリメーター";
+
+/* No comment provided by engineer. */
 "Miniaturize" = "小型化";
 
 /* No comment provided by engineer. */
 "Minimum" = "最小";
 
+/* No comment provided by engineer. */
+"Minimum Opacity" = "最小不透明度";
+
+/* No comment provided by engineer. */
+"ML Crop" = "ML 切り抜き";
+
+/* No comment provided by engineer. */
+"ML Enhance" = "ML Enhance";
+
+/* No comment provided by engineer. */
+"ML Match Colors" = "ML カラーマッチ";
+
+/* No comment provided by engineer. */
+"ML Super Resolution" = "ML Super Resolution";
+
+/* Units */
+"mm" = "ミリ";
+
 /* Used to describe on which device document were modified */
 "Modified on %@" = "%@ で変更されました";
+
+/* Edit Menu */
+"More..." = "詳細...";
+
+/* No comment provided by engineer. */
+"Motion" = "モーション";
 
 /* No comment provided by engineer. */
 "Move" = "移動";
@@ -761,13 +1270,31 @@
 "Move Selection" = "選択項目を移動";
 
 /* No comment provided by engineer. */
+"Multiply" = "乗算";
+
+/* No comment provided by engineer. */
+"Mustache" = "口ひげ";
+
+/* No comment provided by engineer. */
+"My Albums" = "マイアルバム";
+
+/* No comment provided by engineer. */
 "Native Document Picker" = "ドキュメントピッカー";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "星雲";
 
 /* No comment provided by engineer. */
+"New Layer" = "新規レイヤー";
+
+/* No comment provided by engineer. */
 "New Photos Browser" = "新フォトブラウザ";
+
+/* keyboard */
+"next" = "次へ";
+
+/* No comment provided by engineer. */
+"Next Image" = "次の画像";
 
 /* No comment provided by engineer. */
 "No Apps Available" = "アプリが利用できません";
@@ -785,6 +1312,9 @@
 "Noise" = "ノイズ";
 
 /* No comment provided by engineer. */
+"Noise Reduction" = "ノイズ低減";
+
+/* Tool */
 "None" = "なし";
 
 /* Used to describe brush strength */
@@ -797,7 +1327,19 @@
 "OK" = "OK";
 
 /* No comment provided by engineer. */
+"Op" = "オプ";
+
+/* No comment provided by engineer. */
 "Opacity" = "不透明度";
+
+/* No comment provided by engineer. */
+"Opacity by Pressure" = "圧力による不透明度";
+
+/* No comment provided by engineer. */
+"Opacity by Speed" = "速度による透明度";
+
+/* No comment provided by engineer. */
+"Opacity Scatter" = "不透明度の散布";
 
 /* No comment provided by engineer. */
 "Open In Another App" = "別のアプリで開く";
@@ -806,37 +1348,100 @@
 "Open in Another App" = "別のアプリで開く";
 
 /* No comment provided by engineer. */
+"Orientation" = "向き";
+
+/* No comment provided by engineer. */
+"Oriented" = "方向に追随";
+
+/* No comment provided by engineer. */
 "Original" = "オリジナル";
+
+/* No comment provided by engineer. */
+"ORIGINAL" = "元";
+
+/* No comment provided by engineer. */
+"ORIGINAL COLORS" = "元の色";
+
+/* No comment provided by engineer. */
+"ORIGINAL COMPOSITION" = "元の構図";
+
+/* No comment provided by engineer. */
+"ORIGINAL CONTENT" = "元の内容";
+
+/* No comment provided by engineer. */
+"ORIGINAL PERSPECTIVE" = "元の視点";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Orion" = "オリオン座";
 
+/* Effects category name */
+"Other" = "その他";
+
 /* No comment provided by engineer. */
+"Other Albums" = "他のアルバム";
+
+/* No comment provided by engineer. */
+"Overlay" = "オーバーレイ";
+
+/* Tool */
 "Paint" = "ペイント";
 
 /* No comment provided by engineer. */
 "Paint with a sample of an area" = "領域をサンプルでペイント";
 
 /* No comment provided by engineer. */
+"Pass Through" = "パススルー";
+
+/* Edit Menu */
 "Paste" = "ペースト";
+
+/* No comment provided by engineer. */
+"Paste Adjustments" = "調整をペースト";
+
+/* Layer Management */
+"Paste Layer" = "レイヤーをペースト";
+
+/* No comment provided by engineer. */
+"Path" = "パス";
+
+/* No comment provided by engineer. */
+"Pattern" = "パターン";
+
+/* No comment provided by engineer. */
+"Pattern Fill" = "パターンの塗りつぶし";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Pavo" = "くじゃく座";
 
-/* No comment provided by engineer. */
+/* Tool */
+"Pen" = "ペン";
+
+/* Tool */
 "Pencil" = "鉛筆";
 
-/* No comment provided by engineer. */
+/* Units */
+"Percents" = "パーセント";
+
+/* Tool */
+"Perspective Transform" = "遠近法変換";
+
+/* Native iOS Photos app name */
 "Photos" = "写真";
 
 /* No comment provided by engineer. */
 "Photoshop" = "Photoshop";
 
 /* No comment provided by engineer. */
+"Pin Light" = "ピンライト";
+
+/* Tool */
 "Pinch" = "ピンチ";
 
 /* No comment provided by engineer. */
 "Pinch Settings" = "ピンチの設定";
+
+/* Tool */
+"Pixel Tool" = "ピクセルツール";
 
 /* No comment provided by engineer. */
 "Pixelmator" = "Pixelmator";
@@ -847,17 +1452,29 @@
 /* No comment provided by engineer. */
 "Pixelmator has been denied access to the Camera. Please allow access in Settings." = "Pixelmatorはカメラへのアクセスを拒否されました。[設定] でアクセスを許可してください。";
 
+/* Units */
+"Pixels" = "ピクセル";
+
 /* No comment provided by engineer. */
 "Please try again later." = "後でやり直してください。";
 
 /* No comment provided by engineer. */
 "PNG" = "PNG";
 
-/* No comment provided by engineer. */
+/* Units */
 "Points" = "ポイント";
 
 /* No comment provided by engineer. */
 "Points Count" = "ポイント数";
+
+/* Tool */
+"Polygon" = "多角形";
+
+/* No comment provided by engineer. */
+"Posterize" = "ポスタライズ";
+
+/* No comment provided by engineer. */
+"Preserve transparency" = "透明度を維持";
 
 /* No comment provided by engineer. */
 "Presets" = "プリセット";
@@ -869,15 +1486,21 @@
 "Previous" = "以前";
 
 /* No comment provided by engineer. */
+"Previous Image" = "前の画像";
+
+/* No comment provided by engineer. */
+"Processing..." = "処理中...";
+
+/* Units */
 "pt" = "pt";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Punk" = "パンク";
 
-/* No comment provided by engineer. */
+/* Units */
 "px" = "px";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Quick" = "クイック";
 
 /* Selection Undo */
@@ -889,17 +1512,56 @@
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "詳細なオブジェクトを簡単に選択";
 
+/* Recents group abbreviation */
+"R" = "R";
+
 /* No comment provided by engineer. */
 "Radius" = "半径";
+
+/* No comment provided by engineer. */
+"Random" = "ランダム";
+
+/* No comment provided by engineer. */
+"Range" = "範囲";
 
 /* No comment provided by engineer. */
 "Rasterize Layer" = "レイヤーをラスタライズ";
 
 /* No comment provided by engineer. */
+"RAW" = "RAW";
+
+/* No comment provided by engineer. */
+"RAW Layer" = "RAW レイヤー";
+
+/* Layer creation */
+"Raw Layer" = "RAWレイヤー";
+
+/* No comment provided by engineer. */
+"RAW+JPEG" = "RAW+JPEG";
+
+/* No comment provided by engineer. */
+"Recent" = "最近";
+
+/* No comment provided by engineer. */
+"Recents" = "最近の項目";
+
+/* Tool */
+"Rectangle" = "長方形";
+
+/* Tool */
 "Rectangular" = "長方形";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "長方形で選択";
+
+/* No comment provided by engineer. */
+"Rectangular Speech Bubble" = "長方形の吹き出し";
+
+/* No comment provided by engineer. */
+"Red" = "レッド";
+
+/* No comment provided by engineer. */
+"Red Channel" = "レッドチャンネル";
 
 /* No comment provided by engineer. */
 "Red Color Balance" = "レッドカラーバランス";
@@ -909,6 +1571,9 @@
 
 /* No comment provided by engineer. */
 "Redo" = "やり直し";
+
+/* No comment provided by engineer. */
+"Redo %@" = "%@をやり直す";
 
 /* No comment provided by engineer. */
 "Refine Selection" = "選択範囲をカスタマイズ";
@@ -929,6 +1594,12 @@
 "Remove" = "削除";
 
 /* No comment provided by engineer. */
+"Remove Color" = "カラーを削除";
+
+/* No comment provided by engineer. */
+"Remove Mask" = "マスクを削除";
+
+/* No comment provided by engineer. */
 "Remove red-eye effect" = "赤目補正エフェクトを削除";
 
 /* No comment provided by engineer. */
@@ -940,11 +1611,18 @@
 /* No comment provided by engineer. */
 "Rename Image Error" = "画像エラー名称を変更";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Repair" = "修復";
 
 /* No comment provided by engineer. */
+"Repair Selection" = "選択部分を修復";
+
+/* No comment provided by engineer. */
 "Repair Tool" = "修復ツール";
+
+/* No comment provided by engineer. */
+"Repairing..." = "修復中...";
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "修復中... %@";
@@ -956,16 +1634,52 @@
 "Replace All" = "すべてを置き換え";
 
 /* No comment provided by engineer. */
+"Replace Color" = "色の置き換え";
+
+/* No comment provided by engineer. */
 "Replace Image" = "画像を置き換え";
 
 /* No comment provided by engineer. */
 "Reset" = "リセット";
 
 /* No comment provided by engineer. */
+"Reset Adjustments" = "調整をリセット";
+
+/* No comment provided by engineer. */
+"Reset Auto Enhance" = "自動補正をリセット";
+
+/* No comment provided by engineer. */
+"Reset Crop" = "切り抜きをリセット";
+
+/* Perspective transform */
+"Reset Horizontal Perspective" = "水平方向の視点をリセット";
+
+/* No comment provided by engineer. */
+"Reset ML Crop" = "ML 切り抜きをリセット";
+
+/* No comment provided by engineer. */
+"Reset ML Enhance" = "ML エンハンスをリセット";
+
+/* No comment provided by engineer. */
+"Reset ML Match Colors" = "ML カラーマッチをリセット";
+
+/* Perspective transform */
+"Reset Perspective" = "視点をリセット";
+
+/* No comment provided by engineer. */
+"Reset Repair Changes" = "修復の変更をリセット";
+
+/* Perspective transform */
+"Reset Vertical Perspective" = "垂直方向の視点をリセット";
+
+/* Tool */
 "Restore" = "復元";
 
 /* No comment provided by engineer. */
 "Restore distorted areas" = "歪んだ領域を復元";
+
+/* No comment provided by engineer. */
+"Restore Layer" = "レイヤーを復元";
 
 /* No comment provided by engineer. */
 "Restore Settings" = "設定を復元";
@@ -979,11 +1693,20 @@
 /* No comment provided by engineer. */
 "Revert" = "元に戻す";
 
+/* No comment provided by engineer. */
+"Revert to Original" = "元に戻す";
+
+/* No comment provided by engineer. */
+"RGB" = "RGB";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Rich" = "リッチ";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Rigel" = "リゲル";
+
+/* No comment provided by engineer. */
+"Right" = "右";
 
 /* No comment provided by engineer. */
 "Right-handed" = "右利き";
@@ -1006,8 +1729,11 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Romantic" = "ロマンティック";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Rotate" = "回転";
+
+/* No comment provided by engineer. */
+"Rotate 180°" = "180°回転";
 
 /* No comment provided by engineer. */
 "Rotate Left" = "左に回転";
@@ -1018,14 +1744,24 @@
 /* No comment provided by engineer. */
 "Rotate Selection" = "選択を回転";
 
+/* Tool */
+"Rounded Rect." = "角丸長方形";
+
+/* No comment provided by engineer. */
+"Rounded Rectangle" = "角丸長方形";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Ruby" = "ルビー";
 
-/* No comment provided by engineer. */
+/* Retouch Tools
+   Tool */
 "Saturate" = "彩度を上げる";
 
 /* No comment provided by engineer. */
 "Saturation" = "彩度";
+
+/* No comment provided by engineer. */
+"Saturation Scatter" = "彩度散布";
 
 /* No comment provided by engineer. */
 "Saturation Settings" = "彩度の設定";
@@ -1037,10 +1773,43 @@
 "Save to iCloud Drive" = "iCloud Drive に保存";
 
 /* No comment provided by engineer. */
+"Scale" = "縮小・拡大";
+
+/* No comment provided by engineer. */
+"Scale Horizontally by Tilt" = "傾きに応じて水平方向に拡大/縮小";
+
+/* No comment provided by engineer. */
+"Scale Shape Horizontally" = "シェイプを水平方向に拡大/縮小";
+
+/* No comment provided by engineer. */
+"Scale Shape Vertically" = "シェイプを垂直方向に拡大/縮小";
+
+/* No comment provided by engineer. */
+"Scale to Fill" = "縦横比を合わせる";
+
+/* No comment provided by engineer. */
+"Scale to Fit" = "サイズを合わせる";
+
+/* No comment provided by engineer. */
+"Scale Vertically by Tilt" = "傾きに応じて垂直方向に拡大/縮小";
+
+/* No comment provided by engineer. */
+"Screen" = "スクリーン";
+
+/* No comment provided by engineer. */
 "Select" = "選択";
+
+/* No comment provided by engineer. */
+"Select All" = "すべてを選択";
 
 /* Edit Top Bar label text */
 "Select an Image" = "画像を選択";
+
+/* Tool */
+"Select Column" = "列を選択";
+
+/* No comment provided by engineer. */
+"Select Images" = "画像を選択";
 
 /* No comment provided by engineer. */
 "Select objects by tracing their edges" = "エッジをトレースしてオブジェクトを選択";
@@ -1051,14 +1820,23 @@
 /* No comment provided by engineer. */
 "Select rounded areas" = "丸型のエリアを選択";
 
+/* Tool */
+"Select Row" = "行を選択";
+
 /* No comment provided by engineer. */
 "Select similarly colored areas" = "類似するカラーの領域を選択";
+
+/* No comment provided by engineer. */
+"Selected Color" = "選択したカラー";
 
 /* No comment provided by engineer. */
 "Selection" = "選択範囲";
 
 /* No comment provided by engineer. */
 "Selection Mode" = "選択モード";
+
+/* No comment provided by engineer. */
+"Selective Color" = "選択可能なカラー";
 
 /* No comment provided by engineer. */
 "Send a Copy" = "コピーを送信";
@@ -1074,6 +1852,9 @@
 
 /* No comment provided by engineer. */
 "Settings" = "設定";
+
+/* No comment provided by engineer. */
+"Shadow" = "シャドウ";
 
 /* No comment provided by engineer. */
 "Shadow Angle" = "シャドウの角度";
@@ -1093,17 +1874,34 @@
 /* No comment provided by engineer. */
 "Shadow On" = "シャドウオン";
 
+/* Color Balance */
+"Shadows" = "シャドウ";
+
 /* Default new shape layer name */
 "Shape" = "波形";
+
+/* No comment provided by engineer. */
+"Shape Angle" = "シェイプの角度";
+
+/* No comment provided by engineer. */
+"Shape Direction" = "シェイプの方向";
 
 /* No comment provided by engineer. */
 "Share" = "共有";
 
 /* No comment provided by engineer. */
-"Sharing" = "共有";
+"Shared Albums" = "共有アルバム";
 
 /* No comment provided by engineer. */
+"Sharing" = "共有";
+
+/* Effects category name
+   Retouch Tools
+   Tool */
 "Sharpen" = "シャープ";
+
+/* No comment provided by engineer. */
+"Sharpen Luminance" = "輝度をシャープに";
 
 /* No comment provided by engineer. */
 "Sharpen Settings" = "シャープさの設定";
@@ -1115,18 +1913,49 @@
 "Sharpen the focus" = "フォーカスをシャープにする";
 
 /* No comment provided by engineer. */
+"Sharpness" = "シャープさ";
+
+/* No comment provided by engineer. */
 "Show" = "表示";
 
 /* No comment provided by engineer. */
 "Show Colors" = "カラーパネルを表示";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Show Layer" = "レイヤーを表示";
+
+/* No comment provided by engineer. */
+"Simple" = "シンプル";
+
+/* No comment provided by engineer. */
+"Sixfold Reflected" = "6 方向反射";
+
+/* No comment provided by engineer. */
+"Sixfold Rotated" = "6 方向回転";
+
+/* No comment provided by engineer. */
+"Size" = "サイズ";
+
+/* No comment provided by engineer. */
+"Size by Pressure" = "圧力によるサイズ";
+
+/* No comment provided by engineer. */
+"Size by Speed" = "速度によるサイズ";
+
+/* No comment provided by engineer. */
+"Size Scatter" = "サイズ散布";
+
+/* No comment provided by engineer. */
+"Skew" = "傾斜";
 
 /* No comment provided by engineer. */
 "Small" = "小";
 
 /* No comment provided by engineer. */
+"Smooth Textures" = "テクスチャを滑らかにする";
+
+/* Retouch Tools
+   Tool */
 "Smudge" = "指先";
 
 /* No comment provided by engineer. */
@@ -1138,10 +1967,17 @@
 /* No comment provided by engineer. */
 "Smudge Strength" = "指先の強さ";
 
+/* No comment provided by engineer. */
+"Snapping" = "スナップ";
+
 /* Used to describe brush strength */
 "Soft" = "小";
 
 /* No comment provided by engineer. */
+"Soft Light" = "ソフトライト";
+
+/* Retouch Tools
+   Tool */
 "Soften" = "和らげる";
 
 /* No comment provided by engineer. */
@@ -1151,16 +1987,25 @@
 "Soften Strength" = "軟化の強さ";
 
 /* No comment provided by engineer. */
-"Some changes were made to your presentation" = "プレゼンテーションが変更されました";
+"Softness" = "柔らかさ";
 
 /* No comment provided by engineer. */
-"Some document changes are not in sync. All versions will be saved separately." = "いくつかの書類が同期されていません。すべてのバージョンは個別に保存されます。";
+"Some changes were made to your presentation" = "プレゼンテーションが変更されました";
 
 /* No comment provided by engineer. */
 "Some Layer Group settings are not supported. Your image might look different." = "いくつかのレイヤーグループ設定はサポートしていません。画像が異なって表示されます。";
 
 /* No comment provided by engineer. */
-"Something went wrong. Please try again." = "エラーが発生しました。後でもう一度行ってください。";
+"Source Atop" = "ソーストップ";
+
+/* No comment provided by engineer. */
+"Source Color" = "元のカラー";
+
+/* No comment provided by engineer. */
+"Source In" = "ソースイン";
+
+/* No comment provided by engineer. */
+"Source Out" = "ソースアウト";
 
 /* No comment provided by engineer. */
 "Spin area of an image to the left" = "画像の領域を左側に回転";
@@ -1169,6 +2014,9 @@
 "Spin area of an image to the right" = "画像の領域を右側に回転";
 
 /* No comment provided by engineer. */
+"Spot Light" = "スポット";
+
+/* Tool */
 "Spray" = "スプレー";
 
 /* No comment provided by engineer. */
@@ -1177,8 +2025,26 @@
 /* No comment provided by engineer. */
 "Squeeze area of an image" = "画像の領域を絞る";
 
+/* Tool */
+"Star" = "スター";
+
+/* No comment provided by engineer. */
+"Start Point" = "開始ポイント";
+
+/* Tool */
+"Straighten" = "傾き補正";
+
 /* No comment provided by engineer. */
 "Strength" = "強さ";
+
+/* No comment provided by engineer. */
+"Stretch" = "伸縮";
+
+/* No comment provided by engineer. */
+"Stripes" = "ストライプ";
+
+/* No comment provided by engineer. */
+"Stroke" = "線";
 
 /* No comment provided by engineer. */
 "Stroke Color" = "線のカラー";
@@ -1193,10 +2059,22 @@
 "Stroke On" = "ストロークオン";
 
 /* No comment provided by engineer. */
-"Stroke Width" = "線の幅";
+"Stroke Position" = "線の位置";
 
 /* No comment provided by engineer. */
+"Stroke Type" = "線の種類";
+
+/* No comment provided by engineer. */
+"Stroke Width" = "線の幅";
+
+/* Tool */
 "Style" = "スタイル";
+
+/* Effects category name */
+"Stylize" = "スタイル";
+
+/* No comment provided by engineer. */
+"Subtract" = "減算";
 
 /* No comment provided by engineer. */
 "Subtract from" = "取り除く";
@@ -1205,7 +2083,22 @@
 "Subtract from Selection" = "選択範囲から取り除く";
 
 /* No comment provided by engineer. */
+"Sunbeams" = "サンビーム";
+
+/* No comment provided by engineer. */
+"Tail End Dynamics" = "テールエンドダイナミクス";
+
+/* No comment provided by engineer. */
 "Tail Location" = "テイルの位置";
+
+/* No comment provided by engineer. */
+"Tail Opacity" = "テール不透明度";
+
+/* No comment provided by engineer. */
+"Tail Size" = "テールサイズ";
+
+/* No comment provided by engineer. */
+"Tail Start Dynamics" = "テールスタートダイナミクス";
 
 /* No comment provided by engineer. */
 "Tail Width" = "テイルの幅";
@@ -1240,6 +2133,9 @@
 /* No comment provided by engineer. */
 "Tap to choose an eraser" = "タップして消しゴムを選択";
 
+/* No comment provided by engineer. */
+"Target Color" = "ターゲットカラー";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Taurus" = "おうし座";
 
@@ -1255,7 +2151,8 @@
 /* Template download alert */
 "Templates are stored on the Internet so it might take a while to download one." = "テンプレートはインターネット上に保存されるため、ダウンロードに時間がかかる場合があります。";
 
-/* Default new text layer name */
+/* Default new text layer name
+   Tool */
 "Text" = "テキスト";
 
 /* No comment provided by engineer. */
@@ -1307,7 +2204,13 @@
 "The image will be opened in Pixelmator file format." = "画像を Pixelmator のファイル形式で開きます。";
 
 /* No comment provided by engineer. */
+"The maximum number of layers for this image size is %i" = "この画像サイズの最大レイヤー数は%iです";
+
+/* No comment provided by engineer. */
 "The new document picker lets you manage your images using the familiar Files app." = "新しいドキュメントピッカーを使用すると、使い慣れたファイルアプリを使用して画像を管理できます。";
+
+/* No comment provided by engineer. */
+"The size is too large." = "イメージは大きすぎます";
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "%@形式のレイヤーはサポートしていません。画像が異なって表示されます。";
@@ -1321,6 +2224,21 @@
 /* No comment provided by engineer. */
 "This version of Pixelmator has been created specifically for demonstration purposes" = "このバージョンの Pixelmator はデモ専用です";
 
+/* Effects category name */
+"Tile" = "タイル";
+
+/* No comment provided by engineer. */
+"Tilt Maximum Size" = "傾き最大サイズ";
+
+/* No comment provided by engineer. */
+"Tilt Scatter" = "傾斜散布";
+
+/* No comment provided by engineer. */
+"Tilt Shift" = "傾きシフト";
+
+/* No comment provided by engineer. */
+"Tilt-Shift" = "傾きシフト";
+
 /* No comment provided by engineer. */
 "Tint" = "色合い";
 
@@ -1331,16 +2249,46 @@
 "Toggle Eraser" = "イレーサーを切り替える";
 
 /* No comment provided by engineer. */
+"Tone" = "トーン";
+
+/* No comment provided by engineer. */
 "Tool" = "ツール";
 
 /* No comment provided by engineer. */
 "Tools" = "ツール";
 
 /* No comment provided by engineer. */
+"Top" = "上";
+
+/* No comment provided by engineer. */
+"Torus Lens" = "円環体レンズ";
+
+/* No comment provided by engineer. */
+"Touch Opacity" = "接触の不透明度";
+
+/* No comment provided by engineer. */
+"Touch Size" = "接触サイズ";
+
+/* No comment provided by engineer. */
 "Transform" = "変換";
 
 /* No comment provided by engineer. */
 "Transform Selection" = "選択範囲を変形";
+
+/* No comment provided by engineer. */
+"Transition" = "トランジション";
+
+/* No comment provided by engineer. */
+"Triangle" = "三角形";
+
+/* Tool */
+"Trim Canvas" = "キャンバスをトリミング";
+
+/* No comment provided by engineer. */
+"Twelvefold" = "12倍";
+
+/* Tool */
+"Twirl" = "回転";
 
 /* No comment provided by engineer. */
 "Twirl Left" = "左回転";
@@ -1385,13 +2333,22 @@
 "Undo" = "取り消し";
 
 /* No comment provided by engineer. */
+"Undo %@" = "%@を取り消す";
+
+/* No comment provided by engineer. */
+"Unfavorite" = "お気に入りではない";
+
+/* Layer Arrange */
 "Ungroup" = "グループ解除";
 
 /* No comment provided by engineer. */
 "Unknown" = "不明";
 
-/* No comment provided by engineer. */
+/* Layer */
 "Unlock" = "ロック解除";
+
+/* No comment provided by engineer. */
+"Unlock %@" = "%@のロックを解除";
 
 /* No comment provided by engineer. */
 "Unlock Alpha" = "アルファのロックを解除";
@@ -1402,6 +2359,15 @@
 /* No comment provided by engineer. */
 "Unsupported activity type" = "サポートしていないアクティビティ";
 
+/* No comment provided by engineer. */
+"Untitled" = "無題";
+
+/* No comment provided by engineer. */
+"Untitled layer" = "名称未設定レイヤー";
+
+/* No comment provided by engineer. */
+"Untitled Layer" = "名称未設定";
+
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "アーバン";
 
@@ -1409,13 +2375,13 @@
 "Use any of the inspiring drawing or painting tools to create stunning artwork." = "感動させるアートワークを作成するために、これらの刺激的な描画・ペイントツールを使ってください。";
 
 /* No comment provided by engineer. */
-"Use iCloud" = "iCloud を使う";
-
-/* No comment provided by engineer. */
 "Use the new template chooser to quickly create new images with common sizes." = "新しいテンプレートチューザーを使用して、一般的なサイズの新しい画像をすばやく作成します。";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "ベガ";
+
+/* Perspective transform */
+"Vertical Perspective" = "垂直方向の視点";
 
 /* Used to describe brush strength */
 "Very Hard" = "非常に堅く";
@@ -1429,6 +2395,9 @@
 /* Used to describe brush strength */
 "Very Soft" = "非常に柔らかく";
 
+/* No comment provided by engineer. */
+"Vibrance" = "バイブランス";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "鮮やか";
 
@@ -1439,7 +2408,16 @@
 "Vignette" = "ビネット";
 
 /* No comment provided by engineer. */
+"Vignette Softness" = "ビネットの柔らかさ";
+
+/* No comment provided by engineer. */
 "Vintage" = "ビンテージ";
+
+/* No comment provided by engineer. */
+"Vivid Light" = "ビビッドライト";
+
+/* No comment provided by engineer. */
+"Vortex" = "渦巻き";
 
 /* No comment provided by engineer. */
 "Wacom Stylus" = "Wacom スタイラス";
@@ -1450,7 +2428,7 @@
 /* No comment provided by engineer. */
 "Warning" = "警告";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Warp" = "ワープ";
 
 /* No comment provided by engineer. */
@@ -1463,7 +2441,7 @@
 "Watercolor" = "水彩画";
 
 /* No comment provided by engineer. */
-"What would you like to do with the documents currently on this device?" = "このデバイスにある書類で何をしますか？";
+"Wetness" = "湿気";
 
 /* No comment provided by engineer. */
 "What's New" = "最新情報";
@@ -1473,6 +2451,9 @@
 
 /* No comment provided by engineer. */
 "White Balance" = "ホワイトバランス";
+
+/* No comment provided by engineer. */
+"Workflow %i" = "ワークフロー %i";
 
 /* No comment provided by engineer. */
 "Writing Style" = "書き方";
@@ -1514,7 +2495,7 @@
 "You'll choose an app in the next step." = "次のステップでアプリを選択します";
 
 /* No comment provided by engineer. */
-"You're Not Using iCloud" = "iCloud を使っていません";
+"Zoom" = "拡大／縮小";
 
 /* No comment provided by engineer. */
 "Zoom In" = "拡大";
