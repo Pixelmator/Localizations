@@ -1,107 +1,229 @@
-/* Collections */
-"Basic" = "Основные";
-"Pencils" = "Карандаши";
-"Crayons" = "Восковые мелки";
-"Pens" = "Перья";
-"Inks" = "Чернила";
-"Markers" = "Маркеры";
-"Paintbrushes" = "Кисти";
-"Sprays" = "Аэрограф";
-"Custom" = "Пользовательский";
-/* Presets */
-"Basic" = "Основные";
-"Hairline" = "Сверхтонкая";
-"Soft Basic" = "Мягкая основная";
-"Medium Basic" = "Средняя основная";
-"Hard Basic" = "Жесткая основная";
-"9H" = "9H";
-"8H" = "8H";
-"7H" = "7H";
-"6H" = "6H";
-"5H" = "5H";
-"4H" = "4H";
-"3H" = "3H";
-"2H" = "2H";
-"H" = "H";
-"F" = "F";
-"HB" = "HB";
-"B" = "Б";
-"2B" = "2B";
-"3B" = "3B";
-"4B" = "4B";
-"5B" = "5B";
-"6B" = "6B";
-"7B" = "7B";
-"8B" = "8B";
-"9B" = "9B";
-"Coal" = "Графит";
-"Carbon" = "Углерод";
-"Chalk" = "Мел";
-"Crayon" = "Восковый мелок";
-"Square Pastel" = "Квадратная пастель";
-"Wax Stick" = "Восковая палочка";
-"Charcoal" = "Древесный уголь";
-"Oil Pastel" = "Масляная пастель";
-"Graphite" = "Графит";
-"Pastel" = "Пастель";
-"Gel Pen .3 mm" = "Гел. ручка 0,3 мм";
-"Gel Pen .4 mm" = "Гел. ручка 0,4 мм";
-"Gel Pen .6mm" = "Гел. ручка 0,6 мм";
-"Rollerball .3mm" = "Ручка-роллер 0,3 мм";
-"Rollerball .4mm " = "Ручка-роллер 0,4 мм ";
-"Ballpoint .3mm" = "Шариковая ручка 0,3 мм";
-"Ballpoint .4mm" = "Шариковая ручка 0,4 мм";
-"Calligraphy Brush" = "Каллиграфическая кисть";
-"Graffiti Brush" = "Граффити-кисть";
-"Inking Brush" = "Рисовальная кисть";
-"Old Brush" = "Старая кисть";
-"Manga Brush" = "Кисть для манги";
-"Chinese Brush" = "Китайская кисть";
-"Japanese Brush" = "Японская кисть";
-"Broken Brush" = "Сломанная кисть";
-"Lettering Brush" = "Кисть для букв";
-"Square Brush" = "Квадратная кисть";
-"Font Brush" = "Шрифтовая кисть";
-"Permanent Ultra" = "Несмываемая ультра";
-"Permanent Marker Fine" = "Тонкий несмываемый маркер";
-" Marker Bold/Bullet" = " Маркер жирный/Маркер абзаца";
-"Old Jimbo" = "Старый Джимбо";
-"Jimbo Chisel" = "Резец Джимбо";
-"Chisel" = "Резец";
-"Highlighter" = "Текстовыделитель";
-"Fur Brush" = "Мех. кисть";
-"Parallel Brush" = "Параллельная кисть";
-"Filbert Brush" = "Кисть филберт";
-"Triangular Brush" = "Треугольная кисть";
-"Stranded Brush" = "Прядь";
-"Edge Brush" = "Углов. кисть";
-"Sponge Brush" = "Кисть-губка";
-"Varnish Brush" = "Глянцевая кисть";
-"Scattered Brush" = "Редкая кисть";
-"Vose Brush" = "Кисть Vose";
-"Mixed Brush" = "Смешанная кисть";
-"Sparkle Wash" = "Брызгающая кисть";
-"Decorative Wash" = "Декоративная отмывка";
-"Rotary Wash" = "Вращающаяся кисть";
-"Fan Wash" = "Веерная кисть";
-"Goliath Wash" = "Гигантская кисть";
-"Scatter Wash" = "Редкая кисть";
-"Onion Tip" = "Кисть кошачий язык";
-"Watercolor Pencil" = "Акварельный карандаш";
-"Neptune Brush" = "Нептун-кисть";
-"Waterbrush" = "Акварельная кисть";
-"Aqua Flow" = "Течение воды";
-"Oval Wash" = "Овальная кисть";
-"Soft Spray" = "Мягкий аэрограф";
-"Metallic Spray" = "Металлический аэрограф";
-"Spray Splatter" = "Брызгающий аэрограф";
-"Dynamic Spray" = "Динамичный аэрограф";
-"Mixed Spray" = "Смешанный аэрограф";
-"Crazy Spray" = "Безумный аэрограф";
-"Old Spray Can" = "Старый баллончик";
-"Wall Spray" = "Настенный аэрограф";
-"Blast Spray" = "Взрывной аэрограф";
-"Spray Can" = "Баллончик";
-"Thick Spray" = "Густой аэрограф";
-"Broken Spray" = "Сломанный аэрограф";
-"Smashed Spray" = "Размазанный аэрограф";
+"Mechanical Pencil" = "샤프펜슬";
+
+"Medium Pencil" = "미디엄 펜슬";
+
+"Soft Mechanical Pencil" = "소프트 샤프펜슬";
+
+"Water Pencil" = "워터 펜슬";
+
+"Soft Pencil" = "소프트 펜슬";
+
+"Pastel Pencil" = "파스텔 펜슬";
+
+"Color Pencil" = "색연필";
+
+"Carbon Pencil" = "카본 펜슬";
+
+"Carpenter Pencil" = "카펜터 펜슬";
+
+"Double Pencil" = "더블 펜슬";
+
+"Crayon Pencil" = "크레용 펜슬";
+
+"Woodless Pencil" = "우드리스 펜슬";
+
+"Drawing Cloth" = "그림 천";
+
+"Chalk" = "분필";
+
+"Carbon Stick" = "카본 스틱";
+
+"Square Oil Pastel" = "스퀘어 오일 파스텔";
+
+"Oil Pastel" = "오일 파스텔";
+
+"Coal" = "석탄";
+
+"Pastel Chalk" = "파스텔 분필";
+
+"Charcoal" = "숯";
+
+"Pastel" = "파스텔";
+
+"Wax Stick" = "왁스 스틱";
+
+"Soft Crayon" = "소프트 크레용";
+
+"Square Pastel" = "스퀘어 파스텔";
+
+"Pen" = "펜";
+
+"Ballpoint Pen" = "볼펜";
+
+"Typography Pen" = "타이포그래피 펜";
+
+"Fabric Marker" = "패브릭 마커";
+
+"Smashed Pen" = "스매시드 펜";
+
+"Marker" = "마커";
+
+"Flex Marker" = "플렉스 마커";
+
+"Highlighter" = "형광펜";
+
+"Manga Brush" = "만화 브러시";
+
+"Water Marker" = "워터 마커";
+
+"Wide Marker" = "와이드 마커";
+
+"Graffiti Marker" = "그래피티 마커";
+
+"Old Feather" = "올드 페더";
+
+"Clumsy Ink" = "클럼지 잉크";
+
+"Dry Brush" = "드라이 브러시";
+
+"Broken Ink" = "브로큰 잉크";
+
+"Thread Brush" = "스레드 브러시";
+
+"Chinese Brush" = "중국 붓";
+
+"Old Calligraphy Brush" = "고전 서예 붓";
+
+"Calligraphy Brush" = "서예 붓";
+
+"Japanese Brush" = "일본 붓";
+
+"Funny Foam" = "퍼니 포움";
+
+"Foam Brush" = "포움 브러시";
+
+"Lettering Brush" = "레터링 브러시";
+
+"Parallel Brush" = "패러렐 브러시";
+
+"Edge Brush" = "엣지 브러시";
+
+"Filbert Brush" = "필버트 브러시";
+
+"Light Brush" = "라이트 브러시";
+
+"Soft Brush" = "소프트 브러시";
+
+"Hard Brush" = "하드 브러시";
+
+"Sponge Brush" = "스폰지 브러시";
+
+"Mixed Brush" = "믹스드 브러시";
+
+"Scattered Brush" = "스캐터드 브러시";
+
+"Vose Brush" = "보즈 브러시";
+
+"Varnish Brush" = "바니시 브러시";
+
+"Triangular Brush" = "트라이앵귤러 브러시";
+
+"Stone Spray" = "스톤 스프레이";
+
+"Soft Spray" = "소프트 스프레이";
+
+"Metallic Spray" = "메탈릭 스프레이";
+
+"Broken Spray" = "브로큰 스프레이";
+
+"Crazy Spray" = "크레이지 스프레이";
+
+"Blast Spray" = "블래스트 스프레이";
+
+"Gravel Spray" = "그래블 스프레이";
+
+"Old Spray Can" = "올드 스프레이 캔";
+
+"Thick Spray" = "시크 스프레이";
+
+"Spray Splatter" = "스프레이 스플래터";
+
+"Dynamic Spray" = "다이내믹 스프레이";
+
+"Spray Can" = "스프레이 캔";
+
+"Oval Wash" = "오벌 워시";
+
+"Waterbrush" = "워터 브러시";
+
+"Onion Tip" = "오니온 팁";
+
+"Watercolor Pencil" = "수채화 펜슬";
+
+"Neptune Brush" = "넵튠 브러시";
+
+"Aqua Flow" = "아쿠아 플로우";
+
+"Scatter Wash" = "스캐터 워시";
+
+"Goliath Wash" = "골리앗 워시";
+
+"Fan Wash" = "팬 워시";
+
+"Sparkle Wash" = "스파클 워시";
+
+"Decorative Wash" = "데커레이티브 워시";
+
+"Rotary Wash" = "로터리 워시";
+
+"Foam Smudge" = "포움 스머지";
+
+"Crayon Smudge" = "크레용 스머지";
+
+"Wax Smudge" = "왁스 스머지";
+
+"Finger Smudge" = "핑거 스머지";
+
+"Noisy Smudge" = "노이지 스머지";
+
+"Round Smudge" = "라운드 스머지";
+
+"Sponge Smudge" = "스폰지 스머지";
+
+"Spray Smudge" = "스프레이 스머지";
+
+"Water Smudge" = "워터 스머지";
+
+"Oil Smudge" = "올드 스머지";
+
+"Spatula Smudge" = "스팻툴라 스머지";
+
+"Brush Smudge" = "브러시 스머지";
+
+"Manga Eraser" = "만화 지우개";
+
+"Soft Eraser" = "소프트 지우개";
+
+"Hard Eraser" = "하드 지우개";
+
+"Kneaded Eraser" = "니디드 지우개";
+
+"Vinyl Eraser" = "비닐 지우개";
+
+"Rubber Eraser" = "러버 지우개";
+
+"Block Eraser" = "블록 지우개";
+
+"Pastel Eraser" = "파스텔 지우개";
+
+"Light Eraser" = "라이트 지우개";
+
+"Electric Eraser" = "일렉트릭 지우개";
+
+"Cloud Eraser" = "클라우드 지우개";
+
+"Soap Eraser" = "소우프 지우개";
+
+"Soft" = "작게";
+
+"Medium" = "중간";
+
+"Hard" = "강함";
+
+"Pixel" = "픽셀";
+
+"Pixel Eraser" = "픽셀 지우개";
+
+"Fur Brush" = "모피 브러시";
+
+"Stranded Brush" = "스트랜디드 브러시";
