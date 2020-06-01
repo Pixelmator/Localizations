@@ -22,14 +22,11 @@
 /* No comment provided by engineer. */
 "(empty)" = "(пусто)";
 
-/* Edit Top Bar label text. */
+/* No comment provided by engineer. */
 "1 Image Selected" = "Выбрано 1 изображение";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "Набор \"%@\"";
-
-/* No comment provided by engineer. */
-"A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "Документ под названием “%@” уже имеется в этой папке. Хотите заменить его новым?";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "Будет создана сведенная копия изображения.";
@@ -98,7 +95,7 @@
 "An error occurred while opening a template." = "Произошла ошибка при открытии шаблона.";
 
 /* No comment provided by engineer. */
-"An error occurred while opening the image." = "Ошибка при открытии изображения.";
+"An error occurred while opening the image. Error code: %@." = "An error occurred while opening the image. Error code: %@.";
 
 /* No comment provided by engineer. */
 "Angle" = "Угол";
@@ -263,12 +260,6 @@
 /* No comment provided by engineer. */
 "Bump Settings" = "Настройки вздутия";
 
-/* Custom group abbreviation */
-"C" = "СЗ";
-
-/* No comment provided by engineer. */
-"Camera Access Denied" = "Доступ к камере запрещен";
-
 /* No comment provided by engineer. */
 "Can't Access Photos" = "Нет доступа к фото";
 
@@ -313,9 +304,6 @@
 
 /* No comment provided by engineer. */
 "Choose App" = "Выберите приложение";
-
-/* No comment provided by engineer. */
-"Choose How to Send" = "Выберите способ отправки";
 
 /* No comment provided by engineer. */
 "Choose Neutral Color" = "Выберите нейтральный цвет";
@@ -391,7 +379,7 @@
 /* No comment provided by engineer. */
 "Color Picker" = "Пипетка";
 
-/* No comment provided by engineer. */
+/* Selection */
 "Color Selection" = "Выбор цвета";
 
 /* No comment provided by engineer. */
@@ -433,11 +421,11 @@
 /* Edit Menu */
 "Copy" = "Скопировать";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "Скопировать корректировки";
+
 /* Layer Management */
 "Copy Layer" = "Скопировать слой";
-
-/* No comment provided by engineer. */
-"Copy to Photos" = "Скопировать в Фото";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "Радиус угла";
@@ -527,17 +515,14 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "Уменьшить яркость цветов";
 
+/* No comment provided by engineer. */
+"Default" = "По умолчанию";
+
 /* Edit Menu */
 "Delete" = "Удалить";
 
 /* No comment provided by engineer. */
 "Delete " = "Удалить ";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete %d Images" = "Удалить изображения (%d)";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete Image" = "Удалить изображение";
 
 /* Layer Management */
 "Delete Layer" = "Удалить слой";
@@ -567,9 +552,6 @@
 /* No comment provided by engineer. */
 "Detail" = "Подробнее";
 
-/* Low space in device alert */
-"Device Low on Space" = "Мало места на устройстве";
-
 /* No comment provided by engineer. */
 "Device Settings" = "Настройки устройства";
 
@@ -586,6 +568,9 @@
 "Disc" = "Диск";
 
 /* No comment provided by engineer. */
+"Dismiss" = "Dismiss";
+
+/* No comment provided by engineer. */
 "Display Style" = "Показать стиль";
 
 /* No comment provided by engineer. */
@@ -600,9 +585,6 @@
 /* No comment provided by engineer. */
 "Divide" = "Разделить";
 
-/* No comment provided by engineer. */
-"Document Already Exists" = "Документ уже существует";
-
 /* Document conflict error message */
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "Этот документ изменяло другое приложение, из-за чего возник конфликт. Разрешите конфликты, прежде чем продолжать работу с документом.";
 
@@ -611,12 +593,6 @@
 
 /* No comment provided by engineer. */
 "Documents" = "Документы";
-
-/* No comment provided by engineer. */
-"Documents Already Exist" = "Документы уже существуют";
-
-/* No comment provided by engineer. */
-"Documents with these filenames already exist in this location. Do you want to replace them with the ones you’re moving?" = "Документы с такими названиями уже имеются в этой папке. Хотите заменить их новыми?";
 
 /* No comment provided by engineer. */
 "Done" = "Готово";
@@ -645,11 +621,14 @@
 /* Edit Menu */
 "Duplicate" = "Дублировать";
 
-/* Gallery edit top bar duplicate button popover text. */
-"Duplicate %d Images" = "Дублировать изображения (%d)";
+/* No comment provided by engineer. */
+"Duplicate " = "Duplicate ";
 
 /* Layer Management */
 "Duplicate Layer" = "Дублировать слой";
+
+/* No comment provided by engineer. */
+"Duplicating..." = "Duplicating...";
 
 /* No comment provided by engineer. */
 "Edit" = "Правка";
@@ -739,6 +718,9 @@
 "Favorite" = "Избранное";
 
 /* No comment provided by engineer. */
+"Favorites" = "Избранные";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Эта функция недоступна в демоверсии";
 
 /* Effects category name */
@@ -787,9 +769,6 @@
 "Focus" = "Фокус";
 
 /* No comment provided by engineer. */
-"Folder" = "Папка";
-
-/* No comment provided by engineer. */
 "Fonts" = "Шрифты";
 
 /* No comment provided by engineer. */
@@ -826,13 +805,13 @@
 "Fullscreen" = "Полный экран";
 
 /* No comment provided by engineer. */
-"Gallery" = "Галерея";
-
-/* No comment provided by engineer. */
 "Gaussian" = "Гауссиан";
 
 /* Effects category name */
 "Generator" = "Генератор";
+
+/* No comment provided by engineer. */
+"Get Help" = "Get Help";
 
 /* No comment provided by engineer. */
 "Get Started" = "Начинаем!";
@@ -961,11 +940,11 @@
 /* Tool */
 "Image Size" = "Размер изображения";
 
-/* Edit Top Bar label text. Format:[X Documents Selected] */
-"Images Selected" = "изображений выбрано";
-
 /* No comment provided by engineer. */
 "Import" = "Импорт";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "Import to Photos";
 
 /* short for inches
    Units */
@@ -1016,9 +995,6 @@
 /* No comment provided by engineer. */
 "Invert Selection" = "Инвертировать выбранное";
 
-/* Gallery Rename when document title exists */
-"is already taken. Please choose a different name." = "уже занято. Выберите другое название.";
-
 /* No comment provided by engineer. */
 "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "Невозможно автоматически перемещать файлы из галереи Pixelmator в новый файловый браузер. Переносите файлы вручную, коснувшись «Передвинуть» или перезапустите Pixelmator и попробуйте снова.";
 
@@ -1045,6 +1021,9 @@
 
 /* No comment provided by engineer. */
 "Large" = "Большой";
+
+/* No comment provided by engineer. */
+"Last Adjustments" = "Last Adjustments";
 
 /* Default new layer name */
 "Layer" = "Слой";
@@ -1178,9 +1157,6 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "Лира";
-
-/* Selection */
-"Magic Wand Selection" = "Выделение волшебной палочкой";
 
 /* Tool */
 "Magnetic" = "Магнитный";
@@ -1343,9 +1319,6 @@
 
 /* No comment provided by engineer. */
 "Open In Another App" = "Откр. в другой программе";
-
-/* No comment provided by engineer. */
-"Open in Another App" = "Откр. в другой программе";
 
 /* No comment provided by engineer. */
 "Orientation" = "Ориентация";
@@ -1605,12 +1578,6 @@
 /* No comment provided by engineer. */
 "Remove unwanted elements" = "Удалить лишние элементы";
 
-/* No comment provided by engineer. */
-"Rename Image" = "Переименовать изображение";
-
-/* No comment provided by engineer. */
-"Rename Image Error" = "Ошибка переименования изображения";
-
 /* Retouch Tools
    Tool */
 "Repair" = "Исправить";
@@ -1626,12 +1593,6 @@
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "Исправление… %@";
-
-/* No comment provided by engineer. */
-"Replace" = "Заменить";
-
-/* No comment provided by engineer. */
-"Replace All" = "Заменить все";
 
 /* No comment provided by engineer. */
 "Replace Color" = "Замена цвета";
@@ -1802,9 +1763,6 @@
 /* No comment provided by engineer. */
 "Select All" = "Выбрать все";
 
-/* Edit Top Bar label text */
-"Select an Image" = "Выберите изобр.";
-
 /* Tool */
 "Select Column" = "Выбрать столбец";
 
@@ -1840,9 +1798,6 @@
 
 /* No comment provided by engineer. */
 "Send a Copy" = "Отправить копию";
-
-/* No comment provided by engineer. */
-"Send to iCloud Drive" = "Отправить на диск iCloud";
 
 /* No comment provided by engineer. */
 "Send to iTunes" = "Отправить в iTunes";
@@ -1919,10 +1874,16 @@
 "Show" = "Показать";
 
 /* No comment provided by engineer. */
+"Show All Photos" = "Show All Photos";
+
+/* No comment provided by engineer. */
 "Show Colors" = "Показать цвета";
 
 /* Layer */
 "Show Layer" = "Показать слой";
+
+/* No comment provided by engineer. */
+"Show Recents" = "Show Recents";
 
 /* No comment provided by engineer. */
 "Simple" = "Простой";
@@ -2106,18 +2067,6 @@
 /* No comment provided by engineer. */
 "Take Photo" = "Сделать фото";
 
-/* Gallery Share */
-"Tap the image you'd like to copy to photos." = "Коснитесь изображения, которое надо скопировать в фотографии.";
-
-/* Gallery Share */
-"Tap the image you'd like to open in another app." = "Коснитесь изображения, которое хотите открыть в другой программе.";
-
-/* Gallery Share */
-"Tap the image you'd like to send to iCloud Drive." = "Коснитесь изображения, которое надо сохранить в iCloud Drive.";
-
-/* Gallery Share */
-"Tap the image you'd like to send." = "Коснитесь изображения, которое хотите отправить.";
-
 /* No comment provided by engineer. */
 "Tap to choose a brush" = "Нажмите для выбора кисти";
 
@@ -2162,16 +2111,10 @@
 "The 16-bits per channel color depth is not supported. It will be converted to 8-bits per channel." = "Глубина цвета 16 бит на канал не поддерживается. Она будет преобразована в 8 бит.";
 
 /* No comment provided by engineer. */
-"The document can not be renamed because download is in progress. Please wait for download to complete." = "Документ не удается переименовать, так как в данный момент идет загрузка. Дождитесь завершения загрузки.";
-
-/* No comment provided by engineer. */
 "The file format version is not supported. " = "Эта версия формата файла не поддерживается.";
 
 /* No comment provided by engineer. */
 "The font %@ is missing. Your text might look different." = "Шрифт %@ отсутствует. Ваш текст может выглядеть иначе.";
-
-/* No comment provided by engineer. */
-"The Image \"%@\" is stored in iCloud Drive. You can rename it in iCloud Drive App." = "Изображение \"%@\" хранится в iCloud Drive. Можно переименовать это изображение в приложении iCloud Drive.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "Изображение содержит несколько слоев (%@). Чтобы создать больше, уменьшите размер изображения.";
@@ -2214,6 +2157,9 @@
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "Тип слоя «%@» не поддерживается. Ваше изображение может выглядеть иначе.";
+
+/* No comment provided by engineer. */
+"This cloud storage provider does not support Pixelmator files." = "This cloud storage provider does not support Pixelmator files.";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "Это действие не поддерживается в демоверсии";
@@ -2301,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Twirl Right Settings" = "Настройки закр. вправо";
-
-/* No comment provided by engineer. */
-"Type your email" = "Введите email";
 
 /* No comment provided by engineer. */
 "Typing" = "Печать";
@@ -2425,9 +2368,6 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Warm" = "Тепло";
 
-/* No comment provided by engineer. */
-"Warning" = "Внимание";
-
 /* Tool */
 "Warp" = "Искажение";
 
@@ -2442,9 +2382,6 @@
 
 /* No comment provided by engineer. */
 "Wetness" = "Влажность";
-
-/* No comment provided by engineer. */
-"What's New" = "Что нового";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator" = "Что нового в Pixelmator";
@@ -2462,13 +2399,7 @@
 "You are not connected to the internet. Please connect and try again later." = "Вы не подключены к интернету. Подключитесь и попробуйте снова.";
 
 /* No comment provided by engineer. */
-"You are running out of disk space. There is less than 1GB of space available on your device. Please free up some space before working with Pixelmator." = "У вас заканчивается место для изображений: осталось менее 1 ГБ. Прежде чем продолжить работу с Pixelmator, освободите больше места.";
-
-/* No comment provided by engineer. */
 "You can download the latest version of Pixelmator from the App Store." = "Вы можете загрузить новую версию Pixelmator из App Store.";
-
-/* No comment provided by engineer. */
-"You can enable access in Settings > Privacy > Camera." = "Вы можете разрешить доступ меню Настройки > Конфиденциальность > Камера.";
 
 /* No comment provided by engineer. */
 "You can take photos using the camera, or sync photos onto device using iTunes." = "Вы можете сделать фото с камеры или синхронизировать изображения на устройстве через iTunes.";
