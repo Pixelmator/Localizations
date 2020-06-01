@@ -22,14 +22,11 @@
 /* No comment provided by engineer. */
 "(empty)" = "(empty)";
 
-/* Edit Top Bar label text. */
+/* No comment provided by engineer. */
 "1 Image Selected" = "1 Image Selected";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "\"%@\" Preset";
-
-/* No comment provided by engineer. */
-"A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "A flattened copy of your image will be created.";
@@ -98,7 +95,7 @@
 "An error occurred while opening a template." = "An error occurred while opening a template.";
 
 /* No comment provided by engineer. */
-"An error occurred while opening the image." = "An error occurred while opening the image.";
+"An error occurred while opening the image. Error code: %@." = "An error occurred while opening the image. Error code: %@.";
 
 /* No comment provided by engineer. */
 "Angle" = "Angle";
@@ -263,12 +260,6 @@
 /* No comment provided by engineer. */
 "Bump Settings" = "Bump Settings";
 
-/* Custom group abbreviation */
-"C" = "C";
-
-/* No comment provided by engineer. */
-"Camera Access Denied" = "Camera Access Denied";
-
 /* No comment provided by engineer. */
 "Can't Access Photos" = "Can't Access Photos";
 
@@ -313,9 +304,6 @@
 
 /* No comment provided by engineer. */
 "Choose App" = "Choose App";
-
-/* No comment provided by engineer. */
-"Choose How to Send" = "Choose How to Send";
 
 /* No comment provided by engineer. */
 "Choose Neutral Color" = "Choose Neutral Color";
@@ -391,7 +379,7 @@
 /* No comment provided by engineer. */
 "Color Picker" = "Color Picker";
 
-/* No comment provided by engineer. */
+/* Selection */
 "Color Selection" = "Color Selection";
 
 /* No comment provided by engineer. */
@@ -433,11 +421,11 @@
 /* Edit Menu */
 "Copy" = "Copy";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "Copy Adjustments";
+
 /* Layer Management */
 "Copy Layer" = "Copy Layer";
-
-/* No comment provided by engineer. */
-"Copy to Photos" = "Copy to Photos";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "Corner Radius";
@@ -527,17 +515,14 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "Decrease the strength of colors";
 
+/* No comment provided by engineer. */
+"Default" = "Default";
+
 /* Edit Menu */
 "Delete" = "Delete";
 
 /* No comment provided by engineer. */
 "Delete " = "Delete ";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete %d Images" = "Delete %d Images";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete Image" = "Delete Image";
 
 /* Layer Management */
 "Delete Layer" = "Delete Layer";
@@ -567,9 +552,6 @@
 /* No comment provided by engineer. */
 "Detail" = "Detail";
 
-/* Low space in device alert */
-"Device Low on Space" = "Device Low on Space";
-
 /* No comment provided by engineer. */
 "Device Settings" = "Device Settings";
 
@@ -586,6 +568,9 @@
 "Disc" = "Disc";
 
 /* No comment provided by engineer. */
+"Dismiss" = "Dismiss";
+
+/* No comment provided by engineer. */
 "Display Style" = "Display Style";
 
 /* No comment provided by engineer. */
@@ -600,9 +585,6 @@
 /* No comment provided by engineer. */
 "Divide" = "Divide";
 
-/* No comment provided by engineer. */
-"Document Already Exists" = "Document Already Exists";
-
 /* Document conflict error message */
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document.";
 
@@ -611,12 +593,6 @@
 
 /* No comment provided by engineer. */
 "Documents" = "Documents";
-
-/* No comment provided by engineer. */
-"Documents Already Exist" = "Documents Already Exist";
-
-/* No comment provided by engineer. */
-"Documents with these filenames already exist in this location. Do you want to replace them with the ones you’re moving?" = "Documents with these filenames already exist in this location. Do you want to replace them with the ones you’re moving?";
 
 /* No comment provided by engineer. */
 "Done" = "Done";
@@ -645,11 +621,14 @@
 /* Edit Menu */
 "Duplicate" = "Duplicate";
 
-/* Gallery edit top bar duplicate button popover text. */
-"Duplicate %d Images" = "Duplicate %d Images";
+/* No comment provided by engineer. */
+"Duplicate " = "Duplicate ";
 
 /* Layer Management */
 "Duplicate Layer" = "Duplicate Layer";
+
+/* No comment provided by engineer. */
+"Duplicating..." = "Duplicating...";
 
 /* No comment provided by engineer. */
 "Edit" = "Edit";
@@ -739,6 +718,9 @@
 "Favorite" = "Favorite";
 
 /* No comment provided by engineer. */
+"Favorites" = "Favorites";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Feature not enabled for this demo";
 
 /* Effects category name */
@@ -787,9 +769,6 @@
 "Focus" = "Focus";
 
 /* No comment provided by engineer. */
-"Folder" = "Folder";
-
-/* No comment provided by engineer. */
 "Fonts" = "Fonts";
 
 /* No comment provided by engineer. */
@@ -826,13 +805,13 @@
 "Fullscreen" = "Fullscreen";
 
 /* No comment provided by engineer. */
-"Gallery" = "Gallery";
-
-/* No comment provided by engineer. */
 "Gaussian" = "Gaussian";
 
 /* Effects category name */
 "Generator" = "Generator";
+
+/* No comment provided by engineer. */
+"Get Help" = "Get Help";
 
 /* No comment provided by engineer. */
 "Get Started" = "Get Started";
@@ -961,11 +940,11 @@
 /* Tool */
 "Image Size" = "Image Size";
 
-/* Edit Top Bar label text. Format:[X Documents Selected] */
-"Images Selected" = "Images Selected";
-
 /* No comment provided by engineer. */
 "Import" = "Import";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "Import to Photos";
 
 /* short for inches
    Units */
@@ -1016,9 +995,6 @@
 /* No comment provided by engineer. */
 "Invert Selection" = "Invert Selection";
 
-/* Gallery Rename when document title exists */
-"is already taken. Please choose a different name." = "is already taken. Please choose a different name.";
-
 /* No comment provided by engineer. */
 "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again.";
 
@@ -1045,6 +1021,9 @@
 
 /* No comment provided by engineer. */
 "Large" = "Large";
+
+/* No comment provided by engineer. */
+"Last Adjustments" = "Last Adjustments";
 
 /* Default new layer name */
 "Layer" = "Layer";
@@ -1178,9 +1157,6 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "Lyra";
-
-/* Selection */
-"Magic Wand Selection" = "Magic Wand Selection";
 
 /* Tool */
 "Magnetic" = "Magnetic";
@@ -1343,9 +1319,6 @@
 
 /* No comment provided by engineer. */
 "Open In Another App" = "Open In Another App";
-
-/* No comment provided by engineer. */
-"Open in Another App" = "Open in Another App";
 
 /* No comment provided by engineer. */
 "Orientation" = "Orientation";
@@ -1605,12 +1578,6 @@
 /* No comment provided by engineer. */
 "Remove unwanted elements" = "Remove unwanted elements";
 
-/* No comment provided by engineer. */
-"Rename Image" = "Rename Image";
-
-/* No comment provided by engineer. */
-"Rename Image Error" = "Rename Image Error";
-
 /* Retouch Tools
    Tool */
 "Repair" = "Repair";
@@ -1626,12 +1593,6 @@
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "Repairing... %@";
-
-/* No comment provided by engineer. */
-"Replace" = "Replace";
-
-/* No comment provided by engineer. */
-"Replace All" = "Replace All";
 
 /* No comment provided by engineer. */
 "Replace Color" = "Replace Color";
@@ -1802,9 +1763,6 @@
 /* No comment provided by engineer. */
 "Select All" = "Select All";
 
-/* Edit Top Bar label text */
-"Select an Image" = "Select an Image";
-
 /* Tool */
 "Select Column" = "Select Column";
 
@@ -1840,9 +1798,6 @@
 
 /* No comment provided by engineer. */
 "Send a Copy" = "Send a Copy";
-
-/* No comment provided by engineer. */
-"Send to iCloud Drive" = "Send to iCloud Drive";
 
 /* No comment provided by engineer. */
 "Send to iTunes" = "Send to iTunes";
@@ -1919,10 +1874,16 @@
 "Show" = "Show";
 
 /* No comment provided by engineer. */
+"Show All Photos" = "Show All Photos";
+
+/* No comment provided by engineer. */
 "Show Colors" = "Show Colors";
 
 /* Layer */
 "Show Layer" = "Show Layer";
+
+/* No comment provided by engineer. */
+"Show Recents" = "Show Recents";
 
 /* No comment provided by engineer. */
 "Simple" = "Simple";
@@ -2106,18 +2067,6 @@
 /* No comment provided by engineer. */
 "Take Photo" = "Take Photo";
 
-/* Gallery Share */
-"Tap the image you'd like to copy to photos." = "Tap the image you'd like to copy to photos.";
-
-/* Gallery Share */
-"Tap the image you'd like to open in another app." = "Tap the image you'd like to open in another app.";
-
-/* Gallery Share */
-"Tap the image you'd like to send to iCloud Drive." = "Tap the image you'd like to send to iCloud Drive.";
-
-/* Gallery Share */
-"Tap the image you'd like to send." = "Tap the image you'd like to send.";
-
 /* No comment provided by engineer. */
 "Tap to choose a brush" = "Tap to choose a brush";
 
@@ -2162,16 +2111,10 @@
 "The 16-bits per channel color depth is not supported. It will be converted to 8-bits per channel." = "The 16-bits per channel color depth is not supported. It will be converted to 8-bits per channel.";
 
 /* No comment provided by engineer. */
-"The document can not be renamed because download is in progress. Please wait for download to complete." = "The document can not be renamed because download is in progress. Please wait for download to complete.";
-
-/* No comment provided by engineer. */
 "The file format version is not supported. " = "The file format version is not supported. ";
 
 /* No comment provided by engineer. */
 "The font %@ is missing. Your text might look different." = "The font %@ is missing. Your text might look different.";
-
-/* No comment provided by engineer. */
-"The Image \"%@\" is stored in iCloud Drive. You can rename it in iCloud Drive App." = "The Image \"%@\" is stored in iCloud Drive. You can rename it in iCloud Drive App.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "The image contains %@ layers. To create more, reduce the image size.";
@@ -2214,6 +2157,9 @@
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "The type of %@ layer is unsupported. Your image might look different.";
+
+/* No comment provided by engineer. */
+"This cloud storage provider does not support Pixelmator files." = "This cloud storage provider does not support Pixelmator files.";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "This kind of activity is not supported in this demo mode";
@@ -2301,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Twirl Right Settings" = "Twirl Right Settings";
-
-/* No comment provided by engineer. */
-"Type your email" = "Type your email";
 
 /* No comment provided by engineer. */
 "Typing" = "Typing";
@@ -2425,9 +2368,6 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Warm" = "Warm";
 
-/* No comment provided by engineer. */
-"Warning" = "Warning";
-
 /* Tool */
 "Warp" = "Warp";
 
@@ -2442,9 +2382,6 @@
 
 /* No comment provided by engineer. */
 "Wetness" = "Wetness";
-
-/* No comment provided by engineer. */
-"What's New" = "What's New";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator" = "What's New in Pixelmator";
@@ -2462,13 +2399,7 @@
 "You are not connected to the internet. Please connect and try again later." = "You are not connected to the internet. Please connect and try again later.";
 
 /* No comment provided by engineer. */
-"You are running out of disk space. There is less than 1GB of space available on your device. Please free up some space before working with Pixelmator." = "You are running out of disk space. There is less than 1GB of space available on your device. Please free up some space before working with Pixelmator.";
-
-/* No comment provided by engineer. */
 "You can download the latest version of Pixelmator from the App Store." = "You can download the latest version of Pixelmator from the App Store.";
-
-/* No comment provided by engineer. */
-"You can enable access in Settings > Privacy > Camera." = "You can enable access in Settings > Privacy > Camera.";
 
 /* No comment provided by engineer. */
 "You can take photos using the camera, or sync photos onto device using iTunes." = "You can take photos using the camera, or sync photos onto device using iTunes.";
