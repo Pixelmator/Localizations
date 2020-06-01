@@ -22,14 +22,11 @@
 /* No comment provided by engineer. */
 "(empty)" = "（空）";
 
-/* Edit Top Bar label text. */
+/* No comment provided by engineer. */
 "1 Image Selected" = "选定 1 张图像";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "“%@” 预设";
-
-/* No comment provided by engineer. */
-"A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "这个位置已存在一个名为 “%@” 的文件。您想使用正在移动的文件替换它吗？";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "会为您的图像创建一个拼合后的副本。";
@@ -98,7 +95,7 @@
 "An error occurred while opening a template." = "打开模板时发生错误。";
 
 /* No comment provided by engineer. */
-"An error occurred while opening the image." = "打开图像时发生错误。";
+"An error occurred while opening the image. Error code: %@." = "An error occurred while opening the image. Error code: %@.";
 
 /* No comment provided by engineer. */
 "Angle" = "角度";
@@ -263,12 +260,6 @@
 /* No comment provided by engineer. */
 "Bump Settings" = "凹凸设置";
 
-/* Custom group abbreviation */
-"C" = "C";
-
-/* No comment provided by engineer. */
-"Camera Access Denied" = "没有“相机”使用权限";
-
 /* No comment provided by engineer. */
 "Can't Access Photos" = "无法访问“照片";
 
@@ -313,9 +304,6 @@
 
 /* No comment provided by engineer. */
 "Choose App" = "选取应用程序";
-
-/* No comment provided by engineer. */
-"Choose How to Send" = "选取发送方式";
 
 /* No comment provided by engineer. */
 "Choose Neutral Color" = "选取自然色";
@@ -391,7 +379,7 @@
 /* No comment provided by engineer. */
 "Color Picker" = "拾色器";
 
-/* No comment provided by engineer. */
+/* Selection */
 "Color Selection" = "颜色选区";
 
 /* No comment provided by engineer. */
@@ -433,11 +421,11 @@
 /* Edit Menu */
 "Copy" = "拷贝";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "拷贝调整";
+
 /* Layer Management */
 "Copy Layer" = "复制图层";
-
-/* No comment provided by engineer. */
-"Copy to Photos" = "拷贝到照片";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "边角半径";
@@ -527,17 +515,14 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "降低颜色强度";
 
+/* No comment provided by engineer. */
+"Default" = "默认";
+
 /* Edit Menu */
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
 "Delete " = "删除";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete %d Images" = "删除 %d 张图像";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete Image" = "删除图像";
 
 /* Layer Management */
 "Delete Layer" = "删除图层";
@@ -567,9 +552,6 @@
 /* No comment provided by engineer. */
 "Detail" = "详细信息";
 
-/* Low space in device alert */
-"Device Low on Space" = "设备的剩余空间低";
-
 /* No comment provided by engineer. */
 "Device Settings" = "设备设置";
 
@@ -586,6 +568,9 @@
 "Disc" = "磁盘";
 
 /* No comment provided by engineer. */
+"Dismiss" = "Dismiss";
+
+/* No comment provided by engineer. */
 "Display Style" = "显示样式";
 
 /* No comment provided by engineer. */
@@ -600,9 +585,6 @@
 /* No comment provided by engineer. */
 "Divide" = "划分";
 
-/* No comment provided by engineer. */
-"Document Already Exists" = "文档已存在";
-
 /* Document conflict error message */
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "文档被其他应用程序编辑过，存在冲突。请先解决冲突再继续编辑您的文档。";
 
@@ -611,12 +593,6 @@
 
 /* No comment provided by engineer. */
 "Documents" = "文档";
-
-/* No comment provided by engineer. */
-"Documents Already Exist" = "文档已存在";
-
-/* No comment provided by engineer. */
-"Documents with these filenames already exist in this location. Do you want to replace them with the ones you’re moving?" = "这个位置已存在一个具有相同名称的文档。您想使用正在移动的文件替换它吗？";
 
 /* No comment provided by engineer. */
 "Done" = "完成";
@@ -645,11 +621,14 @@
 /* Edit Menu */
 "Duplicate" = "复制";
 
-/* Gallery edit top bar duplicate button popover text. */
-"Duplicate %d Images" = "复制 %d 张图像";
+/* No comment provided by engineer. */
+"Duplicate " = "Duplicate ";
 
 /* Layer Management */
 "Duplicate Layer" = "重复图层";
+
+/* No comment provided by engineer. */
+"Duplicating..." = "Duplicating...";
 
 /* No comment provided by engineer. */
 "Edit" = "编辑";
@@ -739,6 +718,9 @@
 "Favorite" = "收藏";
 
 /* No comment provided by engineer. */
+"Favorites" = "收藏";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "当前演示版未启用这个功能";
 
 /* Effects category name */
@@ -787,9 +769,6 @@
 "Focus" = "聚焦";
 
 /* No comment provided by engineer. */
-"Folder" = "文件夹";
-
-/* No comment provided by engineer. */
 "Fonts" = "字体";
 
 /* No comment provided by engineer. */
@@ -826,13 +805,13 @@
 "Fullscreen" = "全屏幕";
 
 /* No comment provided by engineer. */
-"Gallery" = "画廊";
-
-/* No comment provided by engineer. */
 "Gaussian" = "高斯";
 
 /* Effects category name */
 "Generator" = "生成器";
+
+/* No comment provided by engineer. */
+"Get Help" = "Get Help";
 
 /* No comment provided by engineer. */
 "Get Started" = "入门指南";
@@ -961,11 +940,11 @@
 /* Tool */
 "Image Size" = "图像大小";
 
-/* Edit Top Bar label text. Format:[X Documents Selected] */
-"Images Selected" = "张图像已选定";
-
 /* No comment provided by engineer. */
 "Import" = "导入";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "Import to Photos";
 
 /* short for inches
    Units */
@@ -1016,9 +995,6 @@
 /* No comment provided by engineer. */
 "Invert Selection" = "反向选择";
 
-/* Gallery Rename when document title exists */
-"is already taken. Please choose a different name." = "已被占用。请使用其他名称。";
-
 /* No comment provided by engineer. */
 "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "无法将文件从 Pixelmator 图库自动移动到新的文件浏览器。点按“移动”或重新启动 Pixelmator 再次以尝试手动移动。";
 
@@ -1045,6 +1021,9 @@
 
 /* No comment provided by engineer. */
 "Large" = "大";
+
+/* No comment provided by engineer. */
+"Last Adjustments" = "Last Adjustments";
 
 /* Default new layer name */
 "Layer" = "样本层";
@@ -1178,9 +1157,6 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "天琴座";
-
-/* Selection */
-"Magic Wand Selection" = "魔术棒选择";
 
 /* Tool */
 "Magnetic" = "磁性";
@@ -1343,9 +1319,6 @@
 
 /* No comment provided by engineer. */
 "Open In Another App" = "使用其他应用程序打开";
-
-/* No comment provided by engineer. */
-"Open in Another App" = "使用其他应用程序打开";
 
 /* No comment provided by engineer. */
 "Orientation" = "方向";
@@ -1605,12 +1578,6 @@
 /* No comment provided by engineer. */
 "Remove unwanted elements" = "移除不需要的元素";
 
-/* No comment provided by engineer. */
-"Rename Image" = "重命名图像";
-
-/* No comment provided by engineer. */
-"Rename Image Error" = "重命名图像错误";
-
 /* Retouch Tools
    Tool */
 "Repair" = "修复";
@@ -1626,12 +1593,6 @@
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "正在修复... %@";
-
-/* No comment provided by engineer. */
-"Replace" = "替换";
-
-/* No comment provided by engineer. */
-"Replace All" = "全部替换";
 
 /* No comment provided by engineer. */
 "Replace Color" = "替换颜色";
@@ -1802,9 +1763,6 @@
 /* No comment provided by engineer. */
 "Select All" = "全选";
 
-/* Edit Top Bar label text */
-"Select an Image" = "选取图像";
-
 /* Tool */
 "Select Column" = "选择列";
 
@@ -1840,9 +1798,6 @@
 
 /* No comment provided by engineer. */
 "Send a Copy" = "发送副本";
-
-/* No comment provided by engineer. */
-"Send to iCloud Drive" = "发送到 iCloud Drive";
 
 /* No comment provided by engineer. */
 "Send to iTunes" = "发送到 iTunes";
@@ -1919,10 +1874,16 @@
 "Show" = "显示";
 
 /* No comment provided by engineer. */
+"Show All Photos" = "Show All Photos";
+
+/* No comment provided by engineer. */
 "Show Colors" = "显示颜色";
 
 /* Layer */
 "Show Layer" = "显示图层";
+
+/* No comment provided by engineer. */
+"Show Recents" = "Show Recents";
 
 /* No comment provided by engineer. */
 "Simple" = "简单";
@@ -2106,18 +2067,6 @@
 /* No comment provided by engineer. */
 "Take Photo" = "照相";
 
-/* Gallery Share */
-"Tap the image you'd like to copy to photos." = "轻按您想拷贝至“照片”的图像。";
-
-/* Gallery Share */
-"Tap the image you'd like to open in another app." = "轻按您想使用其他应用程序打开的图像。";
-
-/* Gallery Share */
-"Tap the image you'd like to send to iCloud Drive." = "轻按您想发送到 iCloud Drive 的图像。";
-
-/* Gallery Share */
-"Tap the image you'd like to send." = "轻按您想发送的图像。";
-
 /* No comment provided by engineer. */
 "Tap to choose a brush" = "轻按来选取画笔";
 
@@ -2162,16 +2111,10 @@
 "The 16-bits per channel color depth is not supported. It will be converted to 8-bits per channel." = "不支持每频道 16 位色彩深度。它将会被转换为每频道 8 位。";
 
 /* No comment provided by engineer. */
-"The document can not be renamed because download is in progress. Please wait for download to complete." = "正在下载文档，无法为其重新命名。请等待下载完成。";
-
-/* No comment provided by engineer. */
 "The file format version is not supported. " = "不支持文件格式版本。";
 
 /* No comment provided by engineer. */
 "The font %@ is missing. Your text might look different." = "未找到字体 %@。您的文本可能会看上去与以前不一样。";
-
-/* No comment provided by engineer. */
-"The Image \"%@\" is stored in iCloud Drive. You can rename it in iCloud Drive App." = "图像 “%@” 存储在 iCloud Drive 中。您可以在 iCloud Drive App 中为它重命名。";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "图像包含 %@ 个图层。必须降低图像大小才可以创建更多图层。";
@@ -2214,6 +2157,9 @@
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "不支持 %@ 图层格式。您的图像可能会看上去与以前不一样。";
+
+/* No comment provided by engineer. */
+"This cloud storage provider does not support Pixelmator files." = "This cloud storage provider does not support Pixelmator files.";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "当前的演示模式不支持这种活动。";
@@ -2301,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Twirl Right Settings" = "向右旋转扭曲设置";
-
-/* No comment provided by engineer. */
-"Type your email" = "输入您的电子邮件";
 
 /* No comment provided by engineer. */
 "Typing" = "键入";
@@ -2425,9 +2368,6 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Warm" = "暖色";
 
-/* No comment provided by engineer. */
-"Warning" = "警告";
-
 /* Tool */
 "Warp" = "变形";
 
@@ -2442,9 +2382,6 @@
 
 /* No comment provided by engineer. */
 "Wetness" = "湿度";
-
-/* No comment provided by engineer. */
-"What's New" = "有什么新功能";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator" = "Pixelmator 的新功能";
@@ -2462,13 +2399,7 @@
 "You are not connected to the internet. Please connect and try again later." = "您未连接到网络。请连接然后再试一次。";
 
 /* No comment provided by engineer. */
-"You are running out of disk space. There is less than 1GB of space available on your device. Please free up some space before working with Pixelmator." = "您的硬盘空间不够。您设备上的剩余空间小于 1GB，需要释放硬盘空间才可以继续使用 Pixelmator。";
-
-/* No comment provided by engineer. */
 "You can download the latest version of Pixelmator from the App Store." = "您可以从 App Store 下载最新版的 Pixelmator。";
-
-/* No comment provided by engineer. */
-"You can enable access in Settings > Privacy > Camera." = "您可以在“设置” > “隐私” > “相机”面板中开启访问权限。";
 
 /* No comment provided by engineer. */
 "You can take photos using the camera, or sync photos onto device using iTunes." = "您可以使用相机拍摄照片，亦可使用 iTunes 将照片同步到设备。";
