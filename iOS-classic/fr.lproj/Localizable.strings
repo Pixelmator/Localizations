@@ -22,14 +22,11 @@
 /* No comment provided by engineer. */
 "(empty)" = "(vide)";
 
-/* Edit Top Bar label text. */
+/* No comment provided by engineer. */
 "1 Image Selected" = "1 image sélectionnée";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "\"%@\" paramètre prédéfini";
-
-/* No comment provided by engineer. */
-"A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "Un document appelé “%@” existe déjà à cet emplacement. Voulez-vous le remplacer par celui que vous êtes en train de déplacer?";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "Une copie aplatie de votre image va être créée.";
@@ -98,7 +95,7 @@
 "An error occurred while opening a template." = "Une erreur est survenue pendant l’ouverture d’un modèle.";
 
 /* No comment provided by engineer. */
-"An error occurred while opening the image." = "Une erreur est survenue pendant l'ouverture de l'image.";
+"An error occurred while opening the image. Error code: %@." = "An error occurred while opening the image. Error code: %@.";
 
 /* No comment provided by engineer. */
 "Angle" = "Angle";
@@ -263,12 +260,6 @@
 /* No comment provided by engineer. */
 "Bump Settings" = "Paramètres de bosse";
 
-/* Custom group abbreviation */
-"C" = "C";
-
-/* No comment provided by engineer. */
-"Camera Access Denied" = "Accès à l’appareil photo refusé";
-
 /* No comment provided by engineer. */
 "Can't Access Photos" = "Photos inaccessibles";
 
@@ -313,9 +304,6 @@
 
 /* No comment provided by engineer. */
 "Choose App" = "Choisir une application";
-
-/* No comment provided by engineer. */
-"Choose How to Send" = "Choisir comment envoyer";
 
 /* No comment provided by engineer. */
 "Choose Neutral Color" = "Choisir une couleur neutre";
@@ -391,7 +379,7 @@
 /* No comment provided by engineer. */
 "Color Picker" = "Sélectionneur de couleurs";
 
-/* No comment provided by engineer. */
+/* Selection */
 "Color Selection" = "Sélection de couleur";
 
 /* No comment provided by engineer. */
@@ -433,11 +421,11 @@
 /* Edit Menu */
 "Copy" = "Copier";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "Copier les réglages";
+
 /* Layer Management */
 "Copy Layer" = "Copier le calque";
-
-/* No comment provided by engineer. */
-"Copy to Photos" = "Copier vers Photos";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "Rayon de coin";
@@ -527,17 +515,14 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "Diminuer force des couleurs";
 
+/* No comment provided by engineer. */
+"Default" = "Par défaut";
+
 /* Edit Menu */
 "Delete" = "Suppr.";
 
 /* No comment provided by engineer. */
 "Delete " = "Supprimer ";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete %d Images" = "Effacer %d images";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete Image" = "Effacer image";
 
 /* Layer Management */
 "Delete Layer" = "Supprimer le calque";
@@ -567,9 +552,6 @@
 /* No comment provided by engineer. */
 "Detail" = "Détail";
 
-/* Low space in device alert */
-"Device Low on Space" = "Espace faible sur l’appareil";
-
 /* No comment provided by engineer. */
 "Device Settings" = "Paramètres appareil";
 
@@ -586,6 +568,9 @@
 "Disc" = "Disque";
 
 /* No comment provided by engineer. */
+"Dismiss" = "Dismiss";
+
+/* No comment provided by engineer. */
 "Display Style" = "Style d'affichage";
 
 /* No comment provided by engineer. */
@@ -600,9 +585,6 @@
 /* No comment provided by engineer. */
 "Divide" = "Diviser";
 
-/* No comment provided by engineer. */
-"Document Already Exists" = "Le document existe déjà";
-
 /* Document conflict error message */
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "Le document a été édité par une autre application et est en conflit. Veuillez résoudre les conflits avant de continuer à travailler sur votre document.";
 
@@ -611,12 +593,6 @@
 
 /* No comment provided by engineer. */
 "Documents" = "Documents";
-
-/* No comment provided by engineer. */
-"Documents Already Exist" = "Les documents existent déjà";
-
-/* No comment provided by engineer. */
-"Documents with these filenames already exist in this location. Do you want to replace them with the ones you’re moving?" = "Des documents avec ces noms existent déjà à cet emplacement. Voulez-vous les remplacer par ceux que vous êtes en train de déplacer?";
 
 /* No comment provided by engineer. */
 "Done" = "Terminé";
@@ -645,11 +621,14 @@
 /* Edit Menu */
 "Duplicate" = "Dupliquer";
 
-/* Gallery edit top bar duplicate button popover text. */
-"Duplicate %d Images" = "Dupliquer %d images";
+/* No comment provided by engineer. */
+"Duplicate " = "Duplicate ";
 
 /* Layer Management */
 "Duplicate Layer" = "Dupliquer le calque";
+
+/* No comment provided by engineer. */
+"Duplicating..." = "Duplicating...";
 
 /* No comment provided by engineer. */
 "Edit" = "Modifier";
@@ -739,6 +718,9 @@
 "Favorite" = "Favori";
 
 /* No comment provided by engineer. */
+"Favorites" = "Favoris";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Fonctionnalité non activée pour cette démo";
 
 /* Effects category name */
@@ -787,9 +769,6 @@
 "Focus" = "Focalisation";
 
 /* No comment provided by engineer. */
-"Folder" = "Dossier";
-
-/* No comment provided by engineer. */
 "Fonts" = "Polices";
 
 /* No comment provided by engineer. */
@@ -826,13 +805,13 @@
 "Fullscreen" = "Plein écran";
 
 /* No comment provided by engineer. */
-"Gallery" = "Galerie";
-
-/* No comment provided by engineer. */
 "Gaussian" = "Gaussien";
 
 /* Effects category name */
 "Generator" = "Générateur";
+
+/* No comment provided by engineer. */
+"Get Help" = "Get Help";
 
 /* No comment provided by engineer. */
 "Get Started" = "Démarrer";
@@ -961,11 +940,11 @@
 /* Tool */
 "Image Size" = "Taille de l’image";
 
-/* Edit Top Bar label text. Format:[X Documents Selected] */
-"Images Selected" = "Images sélectionnées";
-
 /* No comment provided by engineer. */
 "Import" = "Importer";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "Import to Photos";
 
 /* short for inches
    Units */
@@ -1016,9 +995,6 @@
 /* No comment provided by engineer. */
 "Invert Selection" = "Inverser la sélection";
 
-/* Gallery Rename when document title exists */
-"is already taken. Please choose a different name." = "est déjà pris. Veuillez choisir un nom différent.";
-
 /* No comment provided by engineer. */
 "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "Il est impossible de déplacer automatiquement vos fichiers de la galerie Pixelmator vers le nouveau navigateur de fichiers. Déplacez-les manuellement en appuyant sur Déplacer ou relancez Pixelmator pour réessayer.";
 
@@ -1045,6 +1021,9 @@
 
 /* No comment provided by engineer. */
 "Large" = "Grande";
+
+/* No comment provided by engineer. */
+"Last Adjustments" = "Last Adjustments";
 
 /* Default new layer name */
 "Layer" = "Couche";
@@ -1178,9 +1157,6 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "Lyre";
-
-/* Selection */
-"Magic Wand Selection" = "Sélection de la baguette magique";
 
 /* Tool */
 "Magnetic" = "Magnétique";
@@ -1343,9 +1319,6 @@
 
 /* No comment provided by engineer. */
 "Open In Another App" = "Ouvrir dans une autre appli";
-
-/* No comment provided by engineer. */
-"Open in Another App" = "Ouvrir dans une autre appli";
 
 /* No comment provided by engineer. */
 "Orientation" = "Orientation";
@@ -1605,12 +1578,6 @@
 /* No comment provided by engineer. */
 "Remove unwanted elements" = "Supprimer les éléments non désirés";
 
-/* No comment provided by engineer. */
-"Rename Image" = "Renommer l'image";
-
-/* No comment provided by engineer. */
-"Rename Image Error" = "Renommer l'image en erreur";
-
 /* Retouch Tools
    Tool */
 "Repair" = "Réparer";
@@ -1626,12 +1593,6 @@
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "Réparation... %@";
-
-/* No comment provided by engineer. */
-"Replace" = "Remplacer";
-
-/* No comment provided by engineer. */
-"Replace All" = "Tout remplacer";
 
 /* No comment provided by engineer. */
 "Replace Color" = "Remp. Couleur";
@@ -1802,9 +1763,6 @@
 /* No comment provided by engineer. */
 "Select All" = "Tout sélectionner";
 
-/* Edit Top Bar label text */
-"Select an Image" = "Sélectionner une image";
-
 /* Tool */
 "Select Column" = "Sélectionnez la colonne";
 
@@ -1840,9 +1798,6 @@
 
 /* No comment provided by engineer. */
 "Send a Copy" = "Envoyer une copie";
-
-/* No comment provided by engineer. */
-"Send to iCloud Drive" = "Envoyer vers iCloud Drive";
 
 /* No comment provided by engineer. */
 "Send to iTunes" = "Envoyer vers iTunes";
@@ -1919,10 +1874,16 @@
 "Show" = "Afficher";
 
 /* No comment provided by engineer. */
+"Show All Photos" = "Show All Photos";
+
+/* No comment provided by engineer. */
 "Show Colors" = "Afficher les couleurs";
 
 /* Layer */
 "Show Layer" = "Afficher les calques";
+
+/* No comment provided by engineer. */
+"Show Recents" = "Show Recents";
 
 /* No comment provided by engineer. */
 "Simple" = "Simple";
@@ -2106,18 +2067,6 @@
 /* No comment provided by engineer. */
 "Take Photo" = "Prendre une photo";
 
-/* Gallery Share */
-"Tap the image you'd like to copy to photos." = "Tapez sur l’image que vous voulez copier dans les photos.";
-
-/* Gallery Share */
-"Tap the image you'd like to open in another app." = "Taper l’image que vous souhaitez ouvrir dans une autre appli.";
-
-/* Gallery Share */
-"Tap the image you'd like to send to iCloud Drive." = "Tapez sur l’image que vous voulez envoyer dans iCloud Drive.";
-
-/* Gallery Share */
-"Tap the image you'd like to send." = "Taper l’image que vous souhaitez envoyer.";
-
 /* No comment provided by engineer. */
 "Tap to choose a brush" = "Taper pour choisir un pinceau";
 
@@ -2162,16 +2111,10 @@
 "The 16-bits per channel color depth is not supported. It will be converted to 8-bits per channel." = "La profondeur de couleurs en 16 bits par canal n’est pas supportée. Elle va être convertie en 8 bits par canal.";
 
 /* No comment provided by engineer. */
-"The document can not be renamed because download is in progress. Please wait for download to complete." = "Le document ne peut pas être renommé car le téléchargement est en cours. Veuillez attendre que le téléchargement soit terminé.";
-
-/* No comment provided by engineer. */
 "The file format version is not supported. " = "La version de format de fichier n’est pas supportée.";
 
 /* No comment provided by engineer. */
 "The font %@ is missing. Your text might look different." = "Il manque la police %@. Votre texte peut sembler différent.";
-
-/* No comment provided by engineer. */
-"The Image \"%@\" is stored in iCloud Drive. You can rename it in iCloud Drive App." = "L'Image \"%@\" est stockée dans iCloud Drive. Vous pouvez la renommer dans l'appli iCloud Drive.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "L’image contient %@ calques. Pour en créer plus, réduisez la taille de l’image.";
@@ -2214,6 +2157,9 @@
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "Le type du calque %@ n’est pas supporté. Votre image peut sembler différente.";
+
+/* No comment provided by engineer. */
+"This cloud storage provider does not support Pixelmator files." = "This cloud storage provider does not support Pixelmator files.";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "Ce type d’activité n’est pas supporté dans ce mode démo";
@@ -2301,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Twirl Right Settings" = "Paramètres de tourbillon à droite";
-
-/* No comment provided by engineer. */
-"Type your email" = "Tapez votre email";
 
 /* No comment provided by engineer. */
 "Typing" = "Saisie";
@@ -2425,9 +2368,6 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Warm" = "Son chaleureux";
 
-/* No comment provided by engineer. */
-"Warning" = "Avertissement";
-
 /* Tool */
 "Warp" = "Déformation";
 
@@ -2442,9 +2382,6 @@
 
 /* No comment provided by engineer. */
 "Wetness" = "Humidité";
-
-/* No comment provided by engineer. */
-"What's New" = "Nouveautés";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator" = "Nouveautés dans Pixelmator";
@@ -2462,13 +2399,7 @@
 "You are not connected to the internet. Please connect and try again later." = "Vous n’êtes pas connecté à internet. Veuillez vous connecter et réessayer plus tard.";
 
 /* No comment provided by engineer. */
-"You are running out of disk space. There is less than 1GB of space available on your device. Please free up some space before working with Pixelmator." = "Vous n’avez presque plus d’espace disque. Il reste moins de 1Go disponible sur votre appareil. Veuillez libérer de l’espace avant de travailler avec Pixelmator.";
-
-/* No comment provided by engineer. */
 "You can download the latest version of Pixelmator from the App Store." = "Vous pouvez télécharger la dernière version de Pixelmator depuis l’App Store.";
-
-/* No comment provided by engineer. */
-"You can enable access in Settings > Privacy > Camera." = "Vous pouvez activer l’accès dans Paramètre > Confidentialité > Appareil photo.";
 
 /* No comment provided by engineer. */
 "You can take photos using the camera, or sync photos onto device using iTunes." = "Vous pouvez prendre des photos avec l’appareil photo, ou synchroniser des photos vers iPad grâce à iTunes.";
