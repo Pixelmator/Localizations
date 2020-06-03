@@ -22,14 +22,11 @@
 /* No comment provided by engineer. */
 "(empty)" = "(비어 있음)";
 
-/* Edit Top Bar label text. */
+/* No comment provided by engineer. */
 "1 Image Selected" = "1개의 이미지가 선택됨";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "\"%@\" 프리셋";
-
-/* No comment provided by engineer. */
-"A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "이름이 “%@”인 문서가 이 위치에 이미 존재합니다. 이동하려는 문서로 교체하시겠습니까?";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "이미지의 병합된 사본이 생성됩니다.";
@@ -98,7 +95,7 @@
 "An error occurred while opening a template." = "템플릿을 여는 중 오류가 발생했습니다.";
 
 /* No comment provided by engineer. */
-"An error occurred while opening the image." = "이미지를 여는 중 오류가 발생했습니다.";
+"An error occurred while opening the image. Error code: %@." = "An error occurred while opening the image. Error code: %@.";
 
 /* No comment provided by engineer. */
 "Angle" = "각도";
@@ -263,12 +260,6 @@
 /* No comment provided by engineer. */
 "Bump Settings" = "범프 설정";
 
-/* Custom group abbreviation */
-"C" = "C";
-
-/* No comment provided by engineer. */
-"Camera Access Denied" = "카메라 액세스가 거절됨";
-
 /* No comment provided by engineer. */
 "Can't Access Photos" = "사진에 액세스할 수 없습니다";
 
@@ -313,9 +304,6 @@
 
 /* No comment provided by engineer. */
 "Choose App" = "응용 프로그램 선택";
-
-/* No comment provided by engineer. */
-"Choose How to Send" = "전송 방법 선택";
 
 /* No comment provided by engineer. */
 "Choose Neutral Color" = "무채색 선택";
@@ -391,7 +379,7 @@
 /* No comment provided by engineer. */
 "Color Picker" = "색 선택 도구";
 
-/* No comment provided by engineer. */
+/* Selection */
 "Color Selection" = "색상 선택";
 
 /* No comment provided by engineer. */
@@ -433,11 +421,11 @@
 /* Edit Menu */
 "Copy" = "복사";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "조정 복사";
+
 /* Layer Management */
 "Copy Layer" = "레이어 복사";
-
-/* No comment provided by engineer. */
-"Copy to Photos" = "사진에 복사하기";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "모퉁이 반경";
@@ -527,17 +515,14 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "색 강도 감소";
 
+/* No comment provided by engineer. */
+"Default" = "기본";
+
 /* Edit Menu */
 "Delete" = "삭제";
 
 /* No comment provided by engineer. */
 "Delete " = "삭제 ";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete %d Images" = "%d개의 이미지 삭제";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete Image" = "이미지 삭제";
 
 /* Layer Management */
 "Delete Layer" = "레이어 삭제";
@@ -567,9 +552,6 @@
 /* No comment provided by engineer. */
 "Detail" = "세부 사항";
 
-/* Low space in device alert */
-"Device Low on Space" = "장치에 공간이 부족함";
-
 /* No comment provided by engineer. */
 "Device Settings" = "장치 설정";
 
@@ -586,6 +568,9 @@
 "Disc" = "디스크";
 
 /* No comment provided by engineer. */
+"Dismiss" = "Dismiss";
+
+/* No comment provided by engineer. */
 "Display Style" = "디스플레이 스타일";
 
 /* No comment provided by engineer. */
@@ -600,9 +585,6 @@
 /* No comment provided by engineer. */
 "Divide" = "나누기";
 
-/* No comment provided by engineer. */
-"Document Already Exists" = "문서가 이미 존재합니다";
-
 /* Document conflict error message */
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "다른 응용 프로그램이 문서를 편집해서 충돌되고 있습니다. 문서 작업을 계속하기 전에 충돌을 해결해주십시오.";
 
@@ -611,12 +593,6 @@
 
 /* No comment provided by engineer. */
 "Documents" = "도큐멘트";
-
-/* No comment provided by engineer. */
-"Documents Already Exist" = "문서들이 이미 존재합니다";
-
-/* No comment provided by engineer. */
-"Documents with these filenames already exist in this location. Do you want to replace them with the ones you’re moving?" = "이 파일 이름을 지닌 문서들이 이 위치에 이미 존재합니다. 이동하려는 문서들로 교체하시겠습니까?";
 
 /* No comment provided by engineer. */
 "Done" = "완료";
@@ -645,11 +621,14 @@
 /* Edit Menu */
 "Duplicate" = "복제";
 
-/* Gallery edit top bar duplicate button popover text. */
-"Duplicate %d Images" = "%d개의 이미지 복제";
+/* No comment provided by engineer. */
+"Duplicate " = "Duplicate ";
 
 /* Layer Management */
 "Duplicate Layer" = "레이어 복제";
+
+/* No comment provided by engineer. */
+"Duplicating..." = "Duplicating...";
 
 /* No comment provided by engineer. */
 "Edit" = "편집";
@@ -739,6 +718,9 @@
 "Favorite" = "즐겨찾기";
 
 /* No comment provided by engineer. */
+"Favorites" = "즐겨찾기";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "이 데모 버전은 지원하지 않는 기능입니다";
 
 /* Effects category name */
@@ -787,9 +769,6 @@
 "Focus" = "초점";
 
 /* No comment provided by engineer. */
-"Folder" = "폴더";
-
-/* No comment provided by engineer. */
 "Fonts" = "서체";
 
 /* No comment provided by engineer. */
@@ -826,13 +805,13 @@
 "Fullscreen" = "전체 화면";
 
 /* No comment provided by engineer. */
-"Gallery" = "갤러리";
-
-/* No comment provided by engineer. */
 "Gaussian" = "가우스";
 
 /* Effects category name */
 "Generator" = "생성자";
+
+/* No comment provided by engineer. */
+"Get Help" = "Get Help";
 
 /* No comment provided by engineer. */
 "Get Started" = "시작하기";
@@ -961,11 +940,11 @@
 /* Tool */
 "Image Size" = "이미지 크기";
 
-/* Edit Top Bar label text. Format:[X Documents Selected] */
-"Images Selected" = "이미지 선택됨";
-
 /* No comment provided by engineer. */
 "Import" = "가져오기";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "Import to Photos";
 
 /* short for inches
    Units */
@@ -1016,9 +995,6 @@
 /* No comment provided by engineer. */
 "Invert Selection" = "선택 영역 반전";
 
-/* Gallery Rename when document title exists */
-"is already taken. Please choose a different name." = "이미 이용 중입니다. 다른 이름을 선택해주십시오.";
-
 /* No comment provided by engineer. */
 "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "Pixelmator 갤러리에서 새로운 파일 브라우저로 파일을 자동으로 이동하지 못했습니다. 이동을 탭하여 직접 이동하거나 Pixelmator를 재시작하여 다시 시도하세요.";
 
@@ -1045,6 +1021,9 @@
 
 /* No comment provided by engineer. */
 "Large" = "크게";
+
+/* No comment provided by engineer. */
+"Last Adjustments" = "Last Adjustments";
 
 /* Default new layer name */
 "Layer" = "레이어";
@@ -1178,9 +1157,6 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "거문고";
-
-/* Selection */
-"Magic Wand Selection" = "자동 선택";
 
 /* Tool */
 "Magnetic" = "자석";
@@ -1343,9 +1319,6 @@
 
 /* No comment provided by engineer. */
 "Open In Another App" = "다른 앱에서 열기";
-
-/* No comment provided by engineer. */
-"Open in Another App" = "다른 앱에서 열기";
 
 /* No comment provided by engineer. */
 "Orientation" = "방향";
@@ -1605,12 +1578,6 @@
 /* No comment provided by engineer. */
 "Remove unwanted elements" = "원하지 않는 요소 제거";
 
-/* No comment provided by engineer. */
-"Rename Image" = "이미지 이름 바꾸기";
-
-/* No comment provided by engineer. */
-"Rename Image Error" = "이미지 이름 바꾸기 오류";
-
 /* Retouch Tools
    Tool */
 "Repair" = "복구";
@@ -1626,12 +1593,6 @@
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "복구 중... %@";
-
-/* No comment provided by engineer. */
-"Replace" = "대치";
-
-/* No comment provided by engineer. */
-"Replace All" = "모두 대치";
 
 /* No comment provided by engineer. */
 "Replace Color" = "색상 대치";
@@ -1802,9 +1763,6 @@
 /* No comment provided by engineer. */
 "Select All" = "전체 선택";
 
-/* Edit Top Bar label text */
-"Select an Image" = "이미지 선택";
-
 /* Tool */
 "Select Column" = "열 선택";
 
@@ -1840,9 +1798,6 @@
 
 /* No comment provided by engineer. */
 "Send a Copy" = "사본 보내기";
-
-/* No comment provided by engineer. */
-"Send to iCloud Drive" = "iCloud Drive에 보내기";
 
 /* No comment provided by engineer. */
 "Send to iTunes" = "iTunes에 보내기";
@@ -1919,10 +1874,16 @@
 "Show" = "보기";
 
 /* No comment provided by engineer. */
+"Show All Photos" = "Show All Photos";
+
+/* No comment provided by engineer. */
 "Show Colors" = "색상 보기";
 
 /* Layer */
 "Show Layer" = "레이어 표시";
+
+/* No comment provided by engineer. */
+"Show Recents" = "Show Recents";
 
 /* No comment provided by engineer. */
 "Simple" = "단순";
@@ -2106,18 +2067,6 @@
 /* No comment provided by engineer. */
 "Take Photo" = "사진 찍기";
 
-/* Gallery Share */
-"Tap the image you'd like to copy to photos." = "사진에 복사하려는 이미지를 누르세요.";
-
-/* Gallery Share */
-"Tap the image you'd like to open in another app." = "다른 앱에서 열려는 이미지를 누르세요.";
-
-/* Gallery Share */
-"Tap the image you'd like to send to iCloud Drive." = "iCloud Drive에 전송하려는 이미지를 누르세요.";
-
-/* Gallery Share */
-"Tap the image you'd like to send." = "보내려는 이미지를 누르세요.";
-
 /* No comment provided by engineer. */
 "Tap to choose a brush" = "눌러서 브러시를 선택합니다";
 
@@ -2162,16 +2111,10 @@
 "The 16-bits per channel color depth is not supported. It will be converted to 8-bits per channel." = "채널 당 16비트 색 농도는 지원되지 않습니다. 채널 당 6비트로 변환됩니다.";
 
 /* No comment provided by engineer. */
-"The document can not be renamed because download is in progress. Please wait for download to complete." = "다운로드가 진행 중이므로 문서의 이름을 바꿀 수 없습니다. 다운로드가 완료될 때까지 기다려주십시오.";
-
-/* No comment provided by engineer. */
 "The file format version is not supported. " = "파일 형식 버전이 지원되지 않습니다.";
 
 /* No comment provided by engineer. */
 "The font %@ is missing. Your text might look different." = "%@ 글꼴이 누락되었습니다. 텍스트가 다르게 보일 수 있습니다.";
-
-/* No comment provided by engineer. */
-"The Image \"%@\" is stored in iCloud Drive. You can rename it in iCloud Drive App." = "이미지 \"%@\"(이)가 iCloud Drive에 저장되었습니다. iCloud Drive 앱에서 이미지의 이름을 바꿀 수 있습니다.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "이미지가 %@개의 레이어를 포함하고 있습니다. 더 생성하려면 이미지 크기를 줄이세요.";
@@ -2214,6 +2157,9 @@
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "%@ 레이어 유형은 지원되지 않습니다. 이미지가 다르게 보일 수 있습니다.";
+
+/* No comment provided by engineer. */
+"This cloud storage provider does not support Pixelmator files." = "This cloud storage provider does not support Pixelmator files.";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "이 유형의 활동은 데모 모드에서 지원되지 않습니다";
@@ -2301,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Twirl Right Settings" = "오른쪽 휘감기 설정";
-
-/* No comment provided by engineer. */
-"Type your email" = "이메일 입력";
 
 /* No comment provided by engineer. */
 "Typing" = "입력";
@@ -2425,9 +2368,6 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Warm" = "온화";
 
-/* No comment provided by engineer. */
-"Warning" = "경고";
-
 /* Tool */
 "Warp" = "휘기";
 
@@ -2442,9 +2382,6 @@
 
 /* No comment provided by engineer. */
 "Wetness" = "습도";
-
-/* No comment provided by engineer. */
-"What's New" = "새 기능";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator" = "Pixelmator의 새로운 점";
@@ -2462,13 +2399,7 @@
 "You are not connected to the internet. Please connect and try again later." = "인터넷에 연결되지 않았습니다. 연결 후 나중에 다시 시도해주십시오.";
 
 /* No comment provided by engineer. */
-"You are running out of disk space. There is less than 1GB of space available on your device. Please free up some space before working with Pixelmator." = "디스크 공간이 부족합니다. 장치의 빈 공간이 1GB 이하입니다. Pixelmator로 작업하기 전에 공간을 확보해주십시오.";
-
-/* No comment provided by engineer. */
 "You can download the latest version of Pixelmator from the App Store." = "App Store에서 최신 버전의 Pixelmator를 다운로드할 수 있습니다.";
-
-/* No comment provided by engineer. */
-"You can enable access in Settings > Privacy > Camera." = "설정 > 개인 정보 보호 > 카메라에서 액세스를 활성화할 수 있습니다.";
 
 /* No comment provided by engineer. */
 "You can take photos using the camera, or sync photos onto device using iTunes." = "카메라를 이용해 사진을 촬영하거나 iTunes를 이용해 기기에 사진을 동기화할 수 있습니다.";
