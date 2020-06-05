@@ -22,14 +22,11 @@
 /* No comment provided by engineer. */
 "(empty)" = "(空)";
 
-/* Edit Top Bar label text. */
+/* No comment provided by engineer. */
 "1 Image Selected" = "1 画像を選択";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "\"%@\"プリセット";
-
-/* No comment provided by engineer. */
-"A document named \"%@\" already exists in this location. Do you want to replace it with the one you’re moving?" = "この場所には“%@”という書類があります。移動中のもので置き換えますか？";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image will be created." = "フラット化された画像のコピーが作成されます。";
@@ -98,7 +95,7 @@
 "An error occurred while opening a template." = "テンプレートを開く際にエラーが発生しました。";
 
 /* No comment provided by engineer. */
-"An error occurred while opening the image." = "画像を開く際にエラーが発生しました。";
+"An error occurred while opening the image. Error code: %@." = "画像を開く際にエラーが発生しました。エラーコード：%@";
 
 /* No comment provided by engineer. */
 "Angle" = "角度";
@@ -263,12 +260,6 @@
 /* No comment provided by engineer. */
 "Bump Settings" = "バンプの設定";
 
-/* Custom group abbreviation */
-"C" = "C";
-
-/* No comment provided by engineer. */
-"Camera Access Denied" = "カメラにアクセスできません";
-
 /* No comment provided by engineer. */
 "Can't Access Photos" = "写真にアクセスできません";
 
@@ -313,9 +304,6 @@
 
 /* No comment provided by engineer. */
 "Choose App" = "アプリを選択";
-
-/* No comment provided by engineer. */
-"Choose How to Send" = "送信方法を選んでください";
 
 /* No comment provided by engineer. */
 "Choose Neutral Color" = "中間色を選択";
@@ -391,7 +379,7 @@
 /* No comment provided by engineer. */
 "Color Picker" = "カラーピッカー";
 
-/* No comment provided by engineer. */
+/* Selection */
 "Color Selection" = "色選択";
 
 /* No comment provided by engineer. */
@@ -433,11 +421,11 @@
 /* Edit Menu */
 "Copy" = "コピー";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "調整をコピー";
+
 /* Layer Management */
 "Copy Layer" = "レイヤーをコピー";
-
-/* No comment provided by engineer. */
-"Copy to Photos" = "写真にコピー";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "角の半径";
@@ -527,17 +515,14 @@
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "カラーの強さを減らす";
 
+/* No comment provided by engineer. */
+"Default" = "デフォルト";
+
 /* Edit Menu */
 "Delete" = "削除";
 
 /* No comment provided by engineer. */
 "Delete " = "削除";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete %d Images" = "%d 個の画像を削除";
-
-/* Gallery Edit Top Bar Delete button popover */
-"Delete Image" = "画像を削除";
 
 /* Layer Management */
 "Delete Layer" = "レイヤーを削除";
@@ -567,9 +552,6 @@
 /* No comment provided by engineer. */
 "Detail" = "詳細";
 
-/* Low space in device alert */
-"Device Low on Space" = "空き領域が少なくなっています";
-
 /* No comment provided by engineer. */
 "Device Settings" = "デバイスの設定";
 
@@ -586,6 +568,9 @@
 "Disc" = "ディスク";
 
 /* No comment provided by engineer. */
+"Dismiss" = "取り消す";
+
+/* No comment provided by engineer. */
 "Display Style" = "表示スタイル";
 
 /* No comment provided by engineer. */
@@ -600,9 +585,6 @@
 /* No comment provided by engineer. */
 "Divide" = "除算";
 
-/* No comment provided by engineer. */
-"Document Already Exists" = "書類は既に存在します";
-
 /* Document conflict error message */
 "Document has been edited by another application and is in conflict. Please resolve conflicts before continuing working with your document." = "書類は別のアプリケーションで編集されてコンフリクトしています。この書類のコンフリクトを解決してください。";
 
@@ -611,12 +593,6 @@
 
 /* No comment provided by engineer. */
 "Documents" = "書類";
-
-/* No comment provided by engineer. */
-"Documents Already Exist" = "書類は既に存在します";
-
-/* No comment provided by engineer. */
-"Documents with these filenames already exist in this location. Do you want to replace them with the ones you’re moving?" = "この場所には同じファイル名の書類があります。移動中のもので置き換えますか？";
 
 /* No comment provided by engineer. */
 "Done" = "完了";
@@ -645,11 +621,14 @@
 /* Edit Menu */
 "Duplicate" = "複製";
 
-/* Gallery edit top bar duplicate button popover text. */
-"Duplicate %d Images" = "%d 個の画像を複製";
+/* No comment provided by engineer. */
+"Duplicate " = "複製";
 
 /* Layer Management */
 "Duplicate Layer" = "レイヤーを複製";
+
+/* No comment provided by engineer. */
+"Duplicating..." = "複製中...";
 
 /* No comment provided by engineer. */
 "Edit" = "編集";
@@ -739,6 +718,9 @@
 "Favorite" = "お気に入り";
 
 /* No comment provided by engineer. */
+"Favorites" = "お気に入り";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "デモでは無効な機能です";
 
 /* Effects category name */
@@ -787,9 +769,6 @@
 "Focus" = "焦点";
 
 /* No comment provided by engineer. */
-"Folder" = "フォルダー";
-
-/* No comment provided by engineer. */
 "Fonts" = "フォント";
 
 /* No comment provided by engineer. */
@@ -826,13 +805,13 @@
 "Fullscreen" = "フルスクリーン";
 
 /* No comment provided by engineer. */
-"Gallery" = "ギャラリー";
-
-/* No comment provided by engineer. */
 "Gaussian" = "ガウス";
 
 /* Effects category name */
 "Generator" = "ジェネレータ";
+
+/* No comment provided by engineer. */
+"Get Help" = "ヘルプ";
 
 /* No comment provided by engineer. */
 "Get Started" = "開始する";
@@ -961,11 +940,11 @@
 /* Tool */
 "Image Size" = "画像サイズ";
 
-/* Edit Top Bar label text. Format:[X Documents Selected] */
-"Images Selected" = "個の画像を選択";
-
 /* No comment provided by engineer. */
 "Import" = "読み込む";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "写真に読み込む";
 
 /* short for inches
    Units */
@@ -1016,9 +995,6 @@
 /* No comment provided by engineer. */
 "Invert Selection" = "選択範囲を反転";
 
-/* Gallery Rename when document title exists */
-"is already taken. Please choose a different name." = "は既に使われています。別の名前を選んでください。";
-
 /* No comment provided by engineer. */
 "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "Pixelmatorギャラリーから新しいファイルブラウザにファイルを自動的に移動することはできませんでした。 [移動] をタップして手動で移動するか、Pixelmatorを再起動して再試行してください。";
 
@@ -1045,6 +1021,9 @@
 
 /* No comment provided by engineer. */
 "Large" = "大";
+
+/* No comment provided by engineer. */
+"Last Adjustments" = "最後の調整";
 
 /* Default new layer name */
 "Layer" = "レイヤー";
@@ -1178,9 +1157,6 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "こと座";
-
-/* Selection */
-"Magic Wand Selection" = "自動選択";
 
 /* Tool */
 "Magnetic" = "マグネット";
@@ -1343,9 +1319,6 @@
 
 /* No comment provided by engineer. */
 "Open In Another App" = "別のアプリで開く";
-
-/* No comment provided by engineer. */
-"Open in Another App" = "別のアプリで開く";
 
 /* No comment provided by engineer. */
 "Orientation" = "向き";
@@ -1605,12 +1578,6 @@
 /* No comment provided by engineer. */
 "Remove unwanted elements" = "不要なエレメントを削除";
 
-/* No comment provided by engineer. */
-"Rename Image" = "画像の名称を変更";
-
-/* No comment provided by engineer. */
-"Rename Image Error" = "画像エラー名称を変更";
-
 /* Retouch Tools
    Tool */
 "Repair" = "修復";
@@ -1626,12 +1593,6 @@
 
 /* No comment provided by engineer. */
 "Repairing... %@" = "修復中... %@";
-
-/* No comment provided by engineer. */
-"Replace" = "置き換え";
-
-/* No comment provided by engineer. */
-"Replace All" = "すべてを置き換え";
 
 /* No comment provided by engineer. */
 "Replace Color" = "色の置き換え";
@@ -1802,9 +1763,6 @@
 /* No comment provided by engineer. */
 "Select All" = "すべてを選択";
 
-/* Edit Top Bar label text */
-"Select an Image" = "画像を選択";
-
 /* Tool */
 "Select Column" = "列を選択";
 
@@ -1840,9 +1798,6 @@
 
 /* No comment provided by engineer. */
 "Send a Copy" = "コピーを送信";
-
-/* No comment provided by engineer. */
-"Send to iCloud Drive" = "iCloud Drive に送信";
 
 /* No comment provided by engineer. */
 "Send to iTunes" = "iTunes に送信";
@@ -1919,10 +1874,16 @@
 "Show" = "表示";
 
 /* No comment provided by engineer. */
+"Show All Photos" = "すべての写真を表示";
+
+/* No comment provided by engineer. */
 "Show Colors" = "カラーパネルを表示";
 
 /* Layer */
 "Show Layer" = "レイヤーを表示";
+
+/* No comment provided by engineer. */
+"Show Recents" = "最近を表示";
 
 /* No comment provided by engineer. */
 "Simple" = "シンプル";
@@ -2106,18 +2067,6 @@
 /* No comment provided by engineer. */
 "Take Photo" = "写真を撮る";
 
-/* Gallery Share */
-"Tap the image you'd like to copy to photos." = "写真にコピーする画像をタップします。";
-
-/* Gallery Share */
-"Tap the image you'd like to open in another app." = "別のアプリで開く画像をタップ";
-
-/* Gallery Share */
-"Tap the image you'd like to send to iCloud Drive." = "iCloud Drive に送信する画像をタップします。";
-
-/* Gallery Share */
-"Tap the image you'd like to send." = "送信する画像をタップ";
-
 /* No comment provided by engineer. */
 "Tap to choose a brush" = "タップしてブラシを選びます";
 
@@ -2162,16 +2111,10 @@
 "The 16-bits per channel color depth is not supported. It will be converted to 8-bits per channel." = "16ビット/チャネルの色深度はサポートしていません。８ビット/チャネルに変換されます。";
 
 /* No comment provided by engineer. */
-"The document can not be renamed because download is in progress. Please wait for download to complete." = "ダウンロード中のため書類の名称は変更できません。ダウンロードが完了するまでお待ちください。";
-
-/* No comment provided by engineer. */
 "The file format version is not supported. " = "このファイル形式のバージョンはサポートしていません";
 
 /* No comment provided by engineer. */
 "The font %@ is missing. Your text might look different." = "フォント%@が見つかりません。テキストが異なって表示されます。";
-
-/* No comment provided by engineer. */
-"The Image \"%@\" is stored in iCloud Drive. You can rename it in iCloud Drive App." = "画像 \"%@\" は iCloud Drive に保存されています。これは iCloud Drive App で名称を変更できます。";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "画像は%@個のレイヤーを含んでいます。追加するには画像のサイズを小さくしてください。";
@@ -2214,6 +2157,9 @@
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "%@形式のレイヤーはサポートしていません。画像が異なって表示されます。";
+
+/* No comment provided by engineer. */
+"This cloud storage provider does not support Pixelmator files." = "このクラウドストレージプロバイダーはPixelmatorファイルをサポートしていません。";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo mode" = "デモモードではサポートしていないアクティビティです。";
@@ -2301,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Twirl Right Settings" = "右回転の設定";
-
-/* No comment provided by engineer. */
-"Type your email" = "Eメールアドレスを入力";
 
 /* No comment provided by engineer. */
 "Typing" = "入力";
@@ -2425,9 +2368,6 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Warm" = "暖色";
 
-/* No comment provided by engineer. */
-"Warning" = "警告";
-
 /* Tool */
 "Warp" = "ワープ";
 
@@ -2442,9 +2382,6 @@
 
 /* No comment provided by engineer. */
 "Wetness" = "湿気";
-
-/* No comment provided by engineer. */
-"What's New" = "最新情報";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator" = "Pixelmator の新機能";
@@ -2462,13 +2399,7 @@
 "You are not connected to the internet. Please connect and try again later." = "インターネットに接続していません。インターネットに接続してください。";
 
 /* No comment provided by engineer. */
-"You are running out of disk space. There is less than 1GB of space available on your device. Please free up some space before working with Pixelmator." = "ディスクの空き領域が 1GB 以下になっています。不要なファイルを削除して、空き領域を作ってください。";
-
-/* No comment provided by engineer. */
 "You can download the latest version of Pixelmator from the App Store." = "App Store から最新の Pixelmator をダウンロードできます。";
-
-/* No comment provided by engineer. */
-"You can enable access in Settings > Privacy > Camera." = "設定>プライバシー>カメラでアクセスを有効にしてください。";
 
 /* No comment provided by engineer. */
 "You can take photos using the camera, or sync photos onto device using iTunes." = "カメラを使って写真を撮ったり、iTunes を使用してデバイス上に写真を同期できます。";
