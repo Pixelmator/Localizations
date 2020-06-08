@@ -61,6 +61,9 @@
 /* No comment provided by engineer. */
 "Actual Size" = "실제 크기";
 
+/* Edit Menu */
+"Add Group" = "Add Group";
+
 /* Layer Management */
 "Add Image" = "이미지 추가";
 
@@ -92,6 +95,9 @@
 "All Photos" = "모든 사진";
 
 /* No comment provided by engineer. */
+"All presets in group will be reset to the initial color adjustments." = "All presets in group will be reset to the initial color adjustments.";
+
+/* No comment provided by engineer. */
 "An unknown error occurred." = "알 수 없는 오류가 발생했습니다.";
 
 /* No comment provided by engineer. */
@@ -118,6 +124,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "포인트에서의 화살표";
+
+/* No comment provided by engineer. */
+"Aspect Ratio" = "영상비";
 
 /* No comment provided by engineer. */
 "Auto" = "자동";
@@ -148,12 +157,6 @@
 
 /* Tool */
 "Basic" = "기본";
-
-/* Batch processing */
-"Batch" = "일괄 처리";
-
-/* No comment provided by engineer. */
-"Batch " = "일괄 처리 ";
 
 /* No comment provided by engineer. */
 "Batch edit multiple photos" = "여러 장의 사진 일괄 편집";
@@ -195,16 +198,13 @@
 "Bottom" = "아래";
 
 /* No comment provided by engineer. */
-"Bottom Left" = "좌측 하단";
-
-/* No comment provided by engineer. */
-"Bottom Right" = "우측 하단";
-
-/* No comment provided by engineer. */
 "Box" = "상자";
 
 /* Color adjustments */
 "Brightness" = "명도";
+
+/* Edit Menu */
+"Bring to Front" = "맨 앞으로 가져오기";
 
 /* No comment provided by engineer. */
 "Brush Scatter" = "브러시 분산";
@@ -244,6 +244,9 @@
 
 /* No comment provided by engineer. */
 "Channel Mixer" = "채널 믹서";
+
+/* Image open error */
+"Check your internet connection, then try again." = "Check your internet connection, then try again.";
 
 /* No comment provided by engineer. */
 "Checkerboard" = "체커판";
@@ -293,6 +296,9 @@
 "Color Adjustments" = "색상 조정";
 
 /* No comment provided by engineer. */
+"Color Adjustments not found" = "Color Adjustments not found";
+
+/* No comment provided by engineer. */
 "Color Balance" = "색상 균형";
 
 /* No comment provided by engineer. */
@@ -334,17 +340,26 @@
 /* Edit Menu */
 "Copy" = "복사";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "조정 복사";
+
 /* Layer Management */
 "Copy Layer" = "레이어 복사";
 
 /* No comment provided by engineer. */
 "Copy Saved to Photos" = "사진에 복사본이 저장되었습니다";
 
+/* No comment provided by engineer. */
+"Copying Adjustments" = "Copying Adjustments";
+
 /* Tool */
 "Crayon" = "크레용";
 
 /* Gallery */
 "Create Image" = "이미지 생성";
+
+/* No comment provided by engineer. */
+"Create Workflow" = "Create Workflow";
 
 /* Tool */
 "Crop" = "자르기";
@@ -375,11 +390,17 @@
 /* No comment provided by engineer. */
 "Darker Color" = "더 어두운 색";
 
+/* No comment provided by engineer. */
+"Default" = "기본";
+
 /* Edit Menu */
 "Delete" = "삭제";
 
 /* No comment provided by engineer. */
 "Delete " = "삭제 ";
+
+/* No comment provided by engineer. */
+"Delete \"%@\"?" = "Delete \"%@\"?";
 
 /* Layer Management */
 "Delete Layer" = "레이어 삭제";
@@ -398,10 +419,10 @@
 "Deselect All" = "모두 삭제 취소";
 
 /* No comment provided by engineer. */
-"Destructive" = "파괴적";
-
-/* No comment provided by engineer. */
 "Detail" = "세부 사항";
+
+/* Edit Menu */
+"Details" = "Details";
 
 /* No comment provided by engineer. */
 "Difference" = "차이";
@@ -423,6 +444,9 @@
 
 /* No comment provided by engineer. */
 "Discard Changes" = "변경사항 무시";
+
+/* No comment provided by engineer. */
+"Dismiss" = "해제";
 
 /* No comment provided by engineer. */
 "Display Style" = "디스플레이 스타일";
@@ -448,8 +472,14 @@
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "양방향 화살표";
 
+/* No comment provided by engineer. */
+"Downloading Image" = "Downloading Image";
+
 /* Processing count */
 "Downloading Image %i of %i" = "%1$i / %2$i 이미지 다운로드 중";
+
+/* No comment provided by engineer. */
+"Downloading..." = "Downloading...";
 
 /* No comment provided by engineer. */
 "Droste" = "드로스테";
@@ -457,11 +487,29 @@
 /* Edit Menu */
 "Duplicate" = "복제";
 
+/* No comment provided by engineer. */
+"Duplicate " = "복제 ";
+
 /* Layer Management */
 "Duplicate Layer" = "레이어 복제";
 
 /* No comment provided by engineer. */
+"Duplicating..." = "복제 중...";
+
+/* No comment provided by engineer. */
 "Edit" = "편집";
+
+/* No comment provided by engineer. */
+"Edit %i Images" = "Edit %i Images";
+
+/* No comment provided by engineer. */
+"Edit %i Photos" = "Edit %i Photos";
+
+/* No comment provided by engineer. */
+"Edit 1 Image" = "Edit 1 Image";
+
+/* No comment provided by engineer. */
+"Edit 1 Photo" = "Edit 1 Photo";
 
 /* No comment provided by engineer. */
 "Edit in Pixelmator Photo" = "Pixelmator Photo에서 편집하기";
@@ -474,6 +522,16 @@
 
 /* No comment provided by engineer. */
 "Edit RAW" = "RAW 편집";
+
+/* No comment provided by engineer. */
+"Editing Image" = "Editing Image";
+
+/* Processing action
+   Processing count */
+"Editing Image %i of %i" = "Editing Image %1$i of %2$i";
+
+/* No comment provided by engineer. */
+"Editing..." = "Editing...";
 
 /* Tool */
 "Effects" = "효과";
@@ -542,10 +600,10 @@
 "Favorite" = "즐겨찾기";
 
 /* No comment provided by engineer. */
-"Feature not enabled for this demo" = "이 데모 버전은 지원하지 않는 기능입니다";
+"Favorites" = "즐겨찾기";
 
 /* No comment provided by engineer. */
-"Files" = "파일";
+"Feature not enabled for this demo" = "이 데모 버전은 지원하지 않는 기능입니다";
 
 /* Effects category name */
 "Fill" = "채우기";
@@ -725,6 +783,18 @@
 /* No comment provided by engineer. */
 "Import this image into Pixelmator Photo and open it for editing." = "이 이미지를 Pixelmator Photo로 가져와서 편집하기 위해 엽니다.";
 
+/* No comment provided by engineer. */
+"Import to Files" = "Import to Files";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "사진으로 가져오기";
+
+/* No comment provided by engineer. */
+"Importing Image" = "Importing Image";
+
+/* Processing count */
+"Importing Image %i of %i" = "Importing Image %1$i of %2$i";
+
 /* short for inches
    Units */
 "in" = "인치";
@@ -758,6 +828,9 @@
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "원본 사진이 더 이상 그곳에 없는 것 같습니다.";
+
+/* No comment provided by engineer. */
+"Last Adjustments" = "마지막 조정";
 
 /* Default new layer name */
 "Layer" = "레이어";
@@ -838,7 +911,8 @@
 /* Document loading */
 "Loading..." = "로드 중...";
 
-/* Layer */
+/* Edit Menu
+   Layer */
 "Lock" = "잠금";
 
 /* No comment provided by engineer. */
@@ -928,6 +1002,12 @@
 /* No comment provided by engineer. */
 "Move" = "이동";
 
+/* Edit Menu */
+"Move Left" = "Move Left";
+
+/* Edit Menu */
+"Move Right" = "Move Right";
+
 /* No comment provided by engineer. */
 "Multiply" = "곱하기";
 
@@ -941,13 +1021,10 @@
 "New Layer" = "새 레이어";
 
 /* No comment provided by engineer. */
-"New Workflow" = "새 작업 흐름";
+"Next" = "다음";
 
 /* keyboard */
 "next" = "다음";
-
-/* No comment provided by engineer. */
-"Next Image" = "다음 이미지";
 
 /* No comment provided by engineer. */
 "Next Preset" = "다음 프리셋";
@@ -963,9 +1040,6 @@
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "노이즈 감소";
-
-/* No comment provided by engineer. */
-"Nondestructive" = "비파괴적";
 
 /* Tool */
 "None" = "없음";
@@ -1026,6 +1100,12 @@
 
 /* No comment provided by engineer. */
 "Overlay" = "오버레이";
+
+/* No comment provided by engineer. */
+"Overwrite" = "덮어쓰기";
+
+/* No comment provided by engineer. */
+"Overwrite Original" = "Overwrite Original";
 
 /* Tool */
 "Paint" = "페인트";
@@ -1103,6 +1183,9 @@
 "Preserve transparency" = "투명도 유지";
 
 /* No comment provided by engineer. */
+"Preset Library" = "Preset Library";
+
+/* No comment provided by engineer. */
 "Presets Imported" = "가져온 프리셋";
 
 /* No comment provided by engineer. */
@@ -1112,10 +1195,10 @@
 "Previous" = "이전";
 
 /* No comment provided by engineer. */
-"Previous Image" = "이전 이미지";
+"Previous Preset" = "이전 프리셋";
 
 /* No comment provided by engineer. */
-"Previous Preset" = "이전 프리셋";
+"Processing Image" = "Processing Image";
 
 /* Processing count */
 "Processing Image %i of %i" = "%1$i / %2$i 이미지 처리 중";
@@ -1189,14 +1272,11 @@
 /* No comment provided by engineer. */
 "Reloading..." = "다시 로드 중...";
 
-/* Edit Menu */
+/* No comment provided by engineer. */
 "Remove" = "제거";
 
 /* No comment provided by engineer. */
 "Remove \"%@\"?" = "\"%@\"을(를) 제거할까요?";
-
-/* No comment provided by engineer. */
-"Remove Collection \"%@\"?" = "\"%@\" 컬렉션을 제거할까요?";
 
 /* No comment provided by engineer. */
 "Remove Color" = "색상 제거";
@@ -1220,6 +1300,9 @@
 /* No comment provided by engineer. */
 "Replace Color" = "색상 대치";
 
+/* Edit Menu */
+"Reset" = "재설정";
+
 /* No comment provided by engineer. */
 "Reset %@" = "%@ 재설정";
 
@@ -1234,6 +1317,9 @@
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "수평 투시도 재설정";
+
+/* No comment provided by engineer. */
+"Reset Library?" = "Reset Library?";
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "ML 자르기 재설정";
@@ -1309,9 +1395,6 @@
 "Save Copy to Photos" = "사진에 복사본 저장";
 
 /* No comment provided by engineer. */
-"Save in Place" = "제자리에 저장";
-
-/* No comment provided by engineer. */
 "Save the image to your Photos library." = "이미지를 사진 보관함에 저장합니다.";
 
 /* No comment provided by engineer. */
@@ -1319,9 +1402,6 @@
 
 /* No comment provided by engineer. */
 "Save to Photos" = "사진에 저장";
-
-/* No comment provided by engineer. */
-"Saving..." = "저장 중...";
 
 /* No comment provided by engineer. */
 "Scale" = "크기 조절";
@@ -1374,6 +1454,9 @@
 /* No comment provided by engineer. */
 "Selective Color" = "선택적 색상";
 
+/* Edit Menu */
+"Send to Back" = "맨 뒤로 보내기";
+
 /* No comment provided by engineer. */
 "Sepia" = "세피아";
 
@@ -1416,19 +1499,16 @@
 "Show" = "보기";
 
 /* No comment provided by engineer. */
-"Show Files" = "파일 보기";
+"Show All Photos" = "모든 사진 보기";
 
 /* No comment provided by engineer. */
-"Show Folders" = "폴더 보기";
+"Show Files" = "파일 보기";
 
 /* No comment provided by engineer. */
 "Show Info" = "정보 보기";
 
 /* Layer */
 "Show Layer" = "레이어 표시";
-
-/* No comment provided by engineer. */
-"Show List" = "목록 보기";
 
 /* No comment provided by engineer. */
 "Show Original" = "원본 보기";
@@ -1438,6 +1518,9 @@
 
 /* No comment provided by engineer. */
 "Show Presets" = "프리셋 보기";
+
+/* No comment provided by engineer. */
+"Show Recents" = "최근 사용 보기";
 
 /* No comment provided by engineer. */
 "Simple" = "단순";
@@ -1608,13 +1691,19 @@
 "The maximum number of layers for this image size is %i" = "이 이미지 크기에 대한 최대 레이어 수는 %i입니다";
 
 /* No comment provided by engineer. */
-"The preset will be permanently removed from the app." = "해당 프리셋은 앱에서 영구적으로 제거됩니다.";
+"The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone.";
+
+/* No comment provided by engineer. */
+"The preset will be permanently deleted from the app." = "The preset will be permanently deleted from the app.";
 
 /* No comment provided by engineer. */
 "The preset will be redefined with the current color adjustments." = "해당 프리셋은 현재 색상 조정으로 재정의됩니다.";
 
 /* No comment provided by engineer. */
-"The selected collection of presets will be removed." = "선택된 프리셋 컬렉션은 제거됩니다.";
+"The preset will be reset to the initial color adjustments." = "The preset will be reset to the initial color adjustments.";
+
+/* No comment provided by engineer. */
+"The selected image does not contain color adjustments." = "The selected image does not contain color adjustments.";
 
 /* No comment provided by engineer. */
 "The size is too large." = "크기가 너무 큽니다.";
@@ -1640,11 +1729,17 @@
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library so there is no original to modify." = "이 사진은 사진 보관함에서 가져오지 않았으므로 수정할 원본이 없습니다.";
 
+/* No comment provided by engineer. */
+"This preset collection will be permanently removed. This action cannot be undone." = "This preset collection will be permanently removed. This action cannot be undone.";
+
 /* Image open error */
 "This RAW format isn’t currently supported." = "이 RAW 포맷은 현재 지원되지 않습니다.";
 
 /* Demo App Description */
 "This version of Pixelmator Photo has been created specifically for demonstration purposes" = "이 Pixelmator Photo 버전은 데모 목적으로 특별히 제작되었습니다";
+
+/* No comment provided by engineer. */
+"This workflow will be permanently deleted from this device." = "This workflow will be permanently deleted from this device.";
 
 /* Effects category name */
 "Tile" = "타일";
@@ -1675,12 +1770,6 @@
 
 /* No comment provided by engineer. */
 "Top" = "위";
-
-/* No comment provided by engineer. */
-"Top Left" = "좌측 상단";
-
-/* No comment provided by engineer. */
-"Top Right" = "우측 상단";
 
 /* No comment provided by engineer. */
 "Torus Lens" = "원환체 렌즈";
@@ -1751,7 +1840,8 @@
 /* Layer Arrange */
 "Ungroup" = "그룹 해제";
 
-/* Layer */
+/* Edit Menu
+   Layer */
 "Unlock" = "잠금 해제";
 
 /* No comment provided by engineer. */
@@ -1828,6 +1918,9 @@
 
 /* Color adjustments */
 "Yellow / Blue" = "노랑 / 파랑";
+
+/* No comment provided by engineer. */
+"You're Offline" = "You're Offline";
 
 /* No comment provided by engineer. */
 "Zoom" = "확대/축소";
