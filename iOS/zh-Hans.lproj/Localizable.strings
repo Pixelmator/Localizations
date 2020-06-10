@@ -61,6 +61,9 @@
 /* No comment provided by engineer. */
 "Actual Size" = "实际大小";
 
+/* Edit Menu */
+"Add Group" = "添加组";
+
 /* Layer Management */
 "Add Image" = "添加图像";
 
@@ -92,6 +95,9 @@
 "All Photos" = "所有照片";
 
 /* No comment provided by engineer. */
+"All presets in group will be reset to the initial color adjustments." = "组中的所有预设将重置为初始颜色调整。";
+
+/* No comment provided by engineer. */
 "An unknown error occurred." = "发生一个未知错误。";
 
 /* No comment provided by engineer. */
@@ -118,6 +124,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "从点发出的箭头";
+
+/* No comment provided by engineer. */
+"Aspect Ratio" = "宽高比";
 
 /* No comment provided by engineer. */
 "Auto" = "自动";
@@ -148,12 +157,6 @@
 
 /* Tool */
 "Basic" = "基本";
-
-/* Batch processing */
-"Batch" = "批量";
-
-/* No comment provided by engineer. */
-"Batch " = "批量";
 
 /* No comment provided by engineer. */
 "Batch edit multiple photos" = "批量编辑多张照片";
@@ -195,16 +198,13 @@
 "Bottom" = "底";
 
 /* No comment provided by engineer. */
-"Bottom Left" = "左下";
-
-/* No comment provided by engineer. */
-"Bottom Right" = "右下";
-
-/* No comment provided by engineer. */
 "Box" = "方框";
 
 /* Color adjustments */
 "Brightness" = "亮度";
+
+/* Edit Menu */
+"Bring to Front" = "移到最前面";
 
 /* No comment provided by engineer. */
 "Brush Scatter" = "画笔散布";
@@ -244,6 +244,9 @@
 
 /* No comment provided by engineer. */
 "Channel Mixer" = "通道混合器";
+
+/* Image open error */
+"Check your internet connection, then try again." = "请检查您的网络连接，然后重试。";
 
 /* No comment provided by engineer. */
 "Checkerboard" = "棋盘";
@@ -293,6 +296,9 @@
 "Color Adjustments" = "颜色调整";
 
 /* No comment provided by engineer. */
+"Color Adjustments not found" = "颜色调整未找到";
+
+/* No comment provided by engineer. */
 "Color Balance" = "颜色平衡";
 
 /* No comment provided by engineer. */
@@ -334,17 +340,26 @@
 /* Edit Menu */
 "Copy" = "拷贝";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "拷贝调整";
+
 /* Layer Management */
 "Copy Layer" = "复制图层";
 
 /* No comment provided by engineer. */
 "Copy Saved to Photos" = "副本已保存到照片";
 
+/* No comment provided by engineer. */
+"Copying Adjustments" = "正在复制调整";
+
 /* Tool */
 "Crayon" = "蜡笔";
 
 /* Gallery */
 "Create Image" = "创建图像";
+
+/* No comment provided by engineer. */
+"Create Workflow" = "创建工作流程";
 
 /* Tool */
 "Crop" = "裁剪";
@@ -375,11 +390,17 @@
 /* No comment provided by engineer. */
 "Darker Color" = "深色";
 
+/* No comment provided by engineer. */
+"Default" = "默认";
+
 /* Edit Menu */
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
 "Delete " = "删除";
+
+/* No comment provided by engineer. */
+"Delete \"%@\"?" = "删除 \"%@\"？";
 
 /* Layer Management */
 "Delete Layer" = "删除图层";
@@ -398,10 +419,10 @@
 "Deselect All" = "取消全选";
 
 /* No comment provided by engineer. */
-"Destructive" = "有损";
-
-/* No comment provided by engineer. */
 "Detail" = "详细信息";
+
+/* Edit Menu */
+"Details" = "详情";
 
 /* No comment provided by engineer. */
 "Difference" = "差值";
@@ -423,6 +444,9 @@
 
 /* No comment provided by engineer. */
 "Discard Changes" = "放弃更改";
+
+/* No comment provided by engineer. */
+"Dismiss" = "终止";
 
 /* No comment provided by engineer. */
 "Display Style" = "显示样式";
@@ -448,8 +472,14 @@
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "双头箭头";
 
+/* No comment provided by engineer. */
+"Downloading Image" = "正在下载图像";
+
 /* Processing count */
 "Downloading Image %i of %i" = "正在下载图像 - %1$i/%2$i";
+
+/* No comment provided by engineer. */
+"Downloading..." = "正在下载...";
 
 /* No comment provided by engineer. */
 "Droste" = "德罗斯特效应";
@@ -457,11 +487,29 @@
 /* Edit Menu */
 "Duplicate" = "复制";
 
+/* No comment provided by engineer. */
+"Duplicate " = "复制";
+
 /* Layer Management */
 "Duplicate Layer" = "重复图层";
 
 /* No comment provided by engineer. */
+"Duplicating..." = "正在复制...";
+
+/* No comment provided by engineer. */
 "Edit" = "编辑";
+
+/* No comment provided by engineer. */
+"Edit %i Images" = "编辑 %i 个图像";
+
+/* No comment provided by engineer. */
+"Edit %i Photos" = "编辑 %i 张照片";
+
+/* No comment provided by engineer. */
+"Edit 1 Image" = "编辑 1 个图像";
+
+/* No comment provided by engineer. */
+"Edit 1 Photo" = "编辑 1 张照片";
 
 /* No comment provided by engineer. */
 "Edit in Pixelmator Photo" = "在 Pixelmator Photo 中编辑";
@@ -474,6 +522,16 @@
 
 /* No comment provided by engineer. */
 "Edit RAW" = "编辑 RAW";
+
+/* No comment provided by engineer. */
+"Editing Image" = "正在编辑图像";
+
+/* Processing action
+   Processing count */
+"Editing Image %i of %i" = "正在编辑图像 %1$i / %2$i";
+
+/* No comment provided by engineer. */
+"Editing..." = "正在编辑...";
 
 /* Tool */
 "Effects" = "效果";
@@ -542,10 +600,10 @@
 "Favorite" = "收藏";
 
 /* No comment provided by engineer. */
-"Feature not enabled for this demo" = "当前演示版未启用这个功能";
+"Favorites" = "收藏";
 
 /* No comment provided by engineer. */
-"Files" = "文件";
+"Feature not enabled for this demo" = "当前演示版未启用这个功能";
 
 /* Effects category name */
 "Fill" = "填充";
@@ -725,6 +783,18 @@
 /* No comment provided by engineer. */
 "Import this image into Pixelmator Photo and open it for editing." = "将此图像导入 Pixelmator Photo 并打开以编辑。";
 
+/* No comment provided by engineer. */
+"Import to Files" = "导入到文件";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "导入到照片";
+
+/* No comment provided by engineer. */
+"Importing Image" = "正在导入图像";
+
+/* Processing count */
+"Importing Image %i of %i" = "正在导入图像 %1$i / %2$i";
+
 /* short for inches
    Units */
 "in" = "英寸";
@@ -758,6 +828,9 @@
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "原始照片似乎已不在那里了。";
+
+/* No comment provided by engineer. */
+"Last Adjustments" = "上次调整";
 
 /* Default new layer name */
 "Layer" = "图层";
@@ -838,7 +911,8 @@
 /* Document loading */
 "Loading..." = "正在载入…";
 
-/* Layer */
+/* Edit Menu
+   Layer */
 "Lock" = "锁定";
 
 /* No comment provided by engineer. */
@@ -928,6 +1002,12 @@
 /* No comment provided by engineer. */
 "Move" = "移动";
 
+/* Edit Menu */
+"Move Left" = "左移";
+
+/* Edit Menu */
+"Move Right" = "右移";
+
 /* No comment provided by engineer. */
 "Multiply" = "加倍";
 
@@ -941,13 +1021,10 @@
 "New Layer" = "新建图层";
 
 /* No comment provided by engineer. */
-"New Workflow" = "新工作流程";
+"Next" = "下一个";
 
 /* keyboard */
 "next" = "下一个";
-
-/* No comment provided by engineer. */
-"Next Image" = "下一张图像";
 
 /* No comment provided by engineer. */
 "Next Preset" = "下一个预设";
@@ -963,9 +1040,6 @@
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "降噪";
-
-/* No comment provided by engineer. */
-"Nondestructive" = "无损";
 
 /* Tool */
 "None" = "没有";
@@ -1026,6 +1100,12 @@
 
 /* No comment provided by engineer. */
 "Overlay" = "叠层";
+
+/* No comment provided by engineer. */
+"Overwrite" = "覆盖";
+
+/* No comment provided by engineer. */
+"Overwrite Original" = "覆盖原始图像";
 
 /* Tool */
 "Paint" = "绘图";
@@ -1103,6 +1183,9 @@
 "Preserve transparency" = "保留透明度";
 
 /* No comment provided by engineer. */
+"Preset Library" = "预设库";
+
+/* No comment provided by engineer. */
 "Presets Imported" = "导入预设";
 
 /* No comment provided by engineer. */
@@ -1112,10 +1195,10 @@
 "Previous" = "上一张";
 
 /* No comment provided by engineer. */
-"Previous Image" = "上一张图像";
+"Previous Preset" = "上一个预设";
 
 /* No comment provided by engineer. */
-"Previous Preset" = "上一个预设";
+"Processing Image" = "正在处理图像";
 
 /* Processing count */
 "Processing Image %i of %i" = "正在处理图像 - %1$i/%2$i";
@@ -1189,14 +1272,11 @@
 /* No comment provided by engineer. */
 "Reloading..." = "正在重新载入...";
 
-/* Edit Menu */
+/* No comment provided by engineer. */
 "Remove" = "移除";
 
 /* No comment provided by engineer. */
 "Remove \"%@\"?" = "移除“%@”吗？";
-
-/* No comment provided by engineer. */
-"Remove Collection \"%@\"?" = "移除字体集“%@”？";
 
 /* No comment provided by engineer. */
 "Remove Color" = "移除颜色";
@@ -1220,6 +1300,9 @@
 /* No comment provided by engineer. */
 "Replace Color" = "替换颜色";
 
+/* Edit Menu */
+"Reset" = "重置";
+
 /* No comment provided by engineer. */
 "Reset %@" = "重置 %@";
 
@@ -1234,6 +1317,9 @@
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "重置水平透视";
+
+/* No comment provided by engineer. */
+"Reset Library?" = "重置库？";
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "重置 ML 裁剪";
@@ -1309,9 +1395,6 @@
 "Save Copy to Photos" = "将副本保存到照片";
 
 /* No comment provided by engineer. */
-"Save in Place" = "保存到原位置";
-
-/* No comment provided by engineer. */
 "Save the image to your Photos library." = "将图像保存到您的照片图库。";
 
 /* No comment provided by engineer. */
@@ -1319,9 +1402,6 @@
 
 /* No comment provided by engineer. */
 "Save to Photos" = "存储到“照片”";
-
-/* No comment provided by engineer. */
-"Saving..." = "正在保存...";
 
 /* No comment provided by engineer. */
 "Scale" = "缩放";
@@ -1374,6 +1454,9 @@
 /* No comment provided by engineer. */
 "Selective Color" = "选择性颜色";
 
+/* Edit Menu */
+"Send to Back" = "移到最后面";
+
 /* No comment provided by engineer. */
 "Sepia" = "老照片风格";
 
@@ -1416,19 +1499,16 @@
 "Show" = "显示";
 
 /* No comment provided by engineer. */
-"Show Files" = "显示文件";
+"Show All Photos" = "显示所有照片";
 
 /* No comment provided by engineer. */
-"Show Folders" = "显示文件夹";
+"Show Files" = "显示文件";
 
 /* No comment provided by engineer. */
 "Show Info" = "显示信息";
 
 /* Layer */
 "Show Layer" = "显示图层";
-
-/* No comment provided by engineer. */
-"Show List" = "显示列表";
 
 /* No comment provided by engineer. */
 "Show Original" = "显示原件";
@@ -1438,6 +1518,9 @@
 
 /* No comment provided by engineer. */
 "Show Presets" = "显示预设";
+
+/* No comment provided by engineer. */
+"Show Recents" = "显示最近使用的项目";
 
 /* No comment provided by engineer. */
 "Simple" = "简单";
@@ -1608,13 +1691,19 @@
 "The maximum number of layers for this image size is %i" = "此图像大小的最大图层数为 %i";
 
 /* No comment provided by engineer. */
-"The preset will be permanently removed from the app." = "此预设将从应用程序中被永久移除。";
+"The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "预设库将重置为默认库，并移除您创建的所有预设或集合。此操作无法撤消。";
+
+/* No comment provided by engineer. */
+"The preset will be permanently deleted from the app." = "将从应用程序永久删除预设。";
 
 /* No comment provided by engineer. */
 "The preset will be redefined with the current color adjustments." = "此预设将根据当前颜色调整重新定义。";
 
 /* No comment provided by engineer. */
-"The selected collection of presets will be removed." = "选定的预设集合将被移除。";
+"The preset will be reset to the initial color adjustments." = "预设将重置为初始颜色调整。";
+
+/* No comment provided by engineer. */
+"The selected image does not contain color adjustments." = "选定图像未包含颜色调整。";
 
 /* No comment provided by engineer. */
 "The size is too large." = "大小超出限制。";
@@ -1640,11 +1729,17 @@
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library so there is no original to modify." = "此照片不是从您的照片图库导入的，因此没有可修改的原件。";
 
+/* No comment provided by engineer. */
+"This preset collection will be permanently removed. This action cannot be undone." = "将永久移除预设集合。此操作不可撤销。";
+
 /* Image open error */
 "This RAW format isn’t currently supported." = "此 RAW 格式目前不被支持。";
 
 /* Demo App Description */
 "This version of Pixelmator Photo has been created specifically for demonstration purposes" = "这个版本的 Pixelmator Photo 专为演示用途定制";
+
+/* No comment provided by engineer. */
+"This workflow will be permanently deleted from this device." = "将从设备永久删除此工作流程。";
 
 /* Effects category name */
 "Tile" = "平铺";
@@ -1675,12 +1770,6 @@
 
 /* No comment provided by engineer. */
 "Top" = "顶";
-
-/* No comment provided by engineer. */
-"Top Left" = "左上";
-
-/* No comment provided by engineer. */
-"Top Right" = "右上";
 
 /* No comment provided by engineer. */
 "Torus Lens" = "圆环透镜";
@@ -1751,7 +1840,8 @@
 /* Layer Arrange */
 "Ungroup" = "取消成组";
 
-/* Layer */
+/* Edit Menu
+   Layer */
 "Unlock" = "解锁";
 
 /* No comment provided by engineer. */
@@ -1828,6 +1918,9 @@
 
 /* Color adjustments */
 "Yellow / Blue" = "黄色/蓝色";
+
+/* No comment provided by engineer. */
+"You're Offline" = "您离线了";
 
 /* No comment provided by engineer. */
 "Zoom" = "缩放";

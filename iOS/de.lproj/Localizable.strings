@@ -61,6 +61,9 @@
 /* No comment provided by engineer. */
 "Actual Size" = "Originalgröße";
 
+/* Edit Menu */
+"Add Group" = "Gruppe hinzufügen";
+
 /* Layer Management */
 "Add Image" = "Bild hinzufügen";
 
@@ -92,6 +95,9 @@
 "All Photos" = "Alle Fotos";
 
 /* No comment provided by engineer. */
+"All presets in group will be reset to the initial color adjustments." = "Alle Voreinstellungen dieser Gruppe werden auf die anfänglichen Farbanpassungen zurückgesetzt.";
+
+/* No comment provided by engineer. */
 "An unknown error occurred." = "Ein unbekannter Fehler ist aufgetreten.";
 
 /* No comment provided by engineer. */
@@ -118,6 +124,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "Pfeil von Punkt";
+
+/* No comment provided by engineer. */
+"Aspect Ratio" = "Seitenverhältnis";
 
 /* No comment provided by engineer. */
 "Auto" = "Auto";
@@ -148,12 +157,6 @@
 
 /* Tool */
 "Basic" = "Standard";
-
-/* Batch processing */
-"Batch" = "Stapel";
-
-/* No comment provided by engineer. */
-"Batch " = "Stapel ";
 
 /* No comment provided by engineer. */
 "Batch edit multiple photos" = "Bearbeiten Sie mehrere Fotos im Stapel";
@@ -195,16 +198,13 @@
 "Bottom" = "Unten";
 
 /* No comment provided by engineer. */
-"Bottom Left" = "Unten links";
-
-/* No comment provided by engineer. */
-"Bottom Right" = "Unten rechts";
-
-/* No comment provided by engineer. */
 "Box" = "Feld";
 
 /* Color adjustments */
 "Brightness" = "Helligkeit";
+
+/* Edit Menu */
+"Bring to Front" = "Ganz nach vorne";
 
 /* No comment provided by engineer. */
 "Brush Scatter" = "Pinselstreuung";
@@ -244,6 +244,9 @@
 
 /* No comment provided by engineer. */
 "Channel Mixer" = "Kanalmixer";
+
+/* Image open error */
+"Check your internet connection, then try again." = "Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.";
 
 /* No comment provided by engineer. */
 "Checkerboard" = "Schachbrett";
@@ -293,6 +296,9 @@
 "Color Adjustments" = "Farbanpassungen";
 
 /* No comment provided by engineer. */
+"Color Adjustments not found" = "Farbanpassungen nicht gefunden";
+
+/* No comment provided by engineer. */
 "Color Balance" = "Farbbalance";
 
 /* No comment provided by engineer. */
@@ -334,17 +340,26 @@
 /* Edit Menu */
 "Copy" = "Kopieren";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "Anpassungen kopieren";
+
 /* Layer Management */
 "Copy Layer" = "Ebene kopieren";
 
 /* No comment provided by engineer. */
 "Copy Saved to Photos" = "Kopie in Fotos gespeichert";
 
+/* No comment provided by engineer. */
+"Copying Adjustments" = "Anpassungen werden kopiert";
+
 /* Tool */
 "Crayon" = "Buntstift";
 
 /* Gallery */
 "Create Image" = "Bild erstellen";
+
+/* No comment provided by engineer. */
+"Create Workflow" = "Arbeitsablauf erstellen";
 
 /* Tool */
 "Crop" = "Beschneiden";
@@ -375,11 +390,17 @@
 /* No comment provided by engineer. */
 "Darker Color" = "Dunklere Farbe";
 
+/* No comment provided by engineer. */
+"Default" = "Standard";
+
 /* Edit Menu */
 "Delete" = "Löschen";
 
 /* No comment provided by engineer. */
 "Delete " = "Löschen ";
+
+/* No comment provided by engineer. */
+"Delete \"%@\"?" = "\"%@\" löschen?";
 
 /* Layer Management */
 "Delete Layer" = "Ebene löschen";
@@ -398,10 +419,10 @@
 "Deselect All" = "Alle abwählen";
 
 /* No comment provided by engineer. */
-"Destructive" = "Destruktiv";
-
-/* No comment provided by engineer. */
 "Detail" = "Detail";
+
+/* Edit Menu */
+"Details" = "Details";
 
 /* No comment provided by engineer. */
 "Difference" = "Differenz";
@@ -423,6 +444,9 @@
 
 /* No comment provided by engineer. */
 "Discard Changes" = "Änderungen verwerfen";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Verwerfen";
 
 /* No comment provided by engineer. */
 "Display Style" = "Anzeigestil";
@@ -448,8 +472,14 @@
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Doppelpfeil";
 
+/* No comment provided by engineer. */
+"Downloading Image" = "Bild wird heruntergeladen";
+
 /* Processing count */
 "Downloading Image %i of %i" = "Bild %1$i von %2$i wird heruntergeladen";
+
+/* No comment provided by engineer. */
+"Downloading..." = "Wird heruntergeladen...";
 
 /* No comment provided by engineer. */
 "Droste" = "Droste";
@@ -457,11 +487,29 @@
 /* Edit Menu */
 "Duplicate" = "Duplizieren";
 
+/* No comment provided by engineer. */
+"Duplicate " = "Duplizieren ";
+
 /* Layer Management */
 "Duplicate Layer" = "Ebene duplizieren";
 
 /* No comment provided by engineer. */
+"Duplicating..." = "Duplizieren...";
+
+/* No comment provided by engineer. */
 "Edit" = "Bearbeiten";
+
+/* No comment provided by engineer. */
+"Edit %i Images" = "%i Bilder bearbeiten";
+
+/* No comment provided by engineer. */
+"Edit %i Photos" = "%i Photos bearbeiten";
+
+/* No comment provided by engineer. */
+"Edit 1 Image" = "1 Bild bearbeiten";
+
+/* No comment provided by engineer. */
+"Edit 1 Photo" = "1 Foto bearbeiten";
 
 /* No comment provided by engineer. */
 "Edit in Pixelmator Photo" = "In Pixelmator Photo bearbeiten";
@@ -474,6 +522,16 @@
 
 /* No comment provided by engineer. */
 "Edit RAW" = "RAW bearbeiten";
+
+/* No comment provided by engineer. */
+"Editing Image" = "Bild wird bearbeitet";
+
+/* Processing action
+   Processing count */
+"Editing Image %i of %i" = "Bearbeite Bild %1$i von %2$i";
+
+/* No comment provided by engineer. */
+"Editing..." = "Wird bearbeitet...";
 
 /* Tool */
 "Effects" = "Effekte";
@@ -542,10 +600,10 @@
 "Favorite" = "Favorit";
 
 /* No comment provided by engineer. */
-"Feature not enabled for this demo" = "Funktion für diese Demo nicht aktiv";
+"Favorites" = "Favoriten";
 
 /* No comment provided by engineer. */
-"Files" = "Dateien";
+"Feature not enabled for this demo" = "Funktion für diese Demo nicht aktiv";
 
 /* Effects category name */
 "Fill" = "Füllen";
@@ -725,6 +783,18 @@
 /* No comment provided by engineer. */
 "Import this image into Pixelmator Photo and open it for editing." = "Dieses Bild in Pixelmator Photo importieren und es zum Bearbeiten öffnen.";
 
+/* No comment provided by engineer. */
+"Import to Files" = "Zu den Dateien importieren";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "Importieren und Fotos hinzufügen";
+
+/* No comment provided by engineer. */
+"Importing Image" = "Bild wird importiert";
+
+/* Processing count */
+"Importing Image %i of %i" = "Bild %1$i von %2$i wird importiert";
+
 /* short for inches
    Units */
 "in" = "in";
@@ -758,6 +828,9 @@
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "Es scheint, dass das originale Foto nicht mehr vorhanden ist.";
+
+/* No comment provided by engineer. */
+"Last Adjustments" = "Letzte Anpassungen";
 
 /* Default new layer name */
 "Layer" = "Ebene";
@@ -838,7 +911,8 @@
 /* Document loading */
 "Loading..." = "Lädt...";
 
-/* Layer */
+/* Edit Menu
+   Layer */
 "Lock" = "Schützen";
 
 /* No comment provided by engineer. */
@@ -928,6 +1002,12 @@
 /* No comment provided by engineer. */
 "Move" = "Bewegen";
 
+/* Edit Menu */
+"Move Left" = "Nach links verschieben";
+
+/* Edit Menu */
+"Move Right" = "Nach rechts verschieben";
+
 /* No comment provided by engineer. */
 "Multiply" = "Multiplizieren";
 
@@ -941,13 +1021,10 @@
 "New Layer" = "Neue Ebene";
 
 /* No comment provided by engineer. */
-"New Workflow" = "Neuer Arbeitsablauf";
+"Next" = "Weiter";
 
 /* keyboard */
 "next" = "weiter";
-
-/* No comment provided by engineer. */
-"Next Image" = "Nächstes Bild";
 
 /* No comment provided by engineer. */
 "Next Preset" = "Nächste Voreinstellung";
@@ -963,9 +1040,6 @@
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "Rauschreduzierung";
-
-/* No comment provided by engineer. */
-"Nondestructive" = "Nicht destruktiv";
 
 /* Tool */
 "None" = "Kein";
@@ -1026,6 +1100,12 @@
 
 /* No comment provided by engineer. */
 "Overlay" = "Ineinanderkopieren";
+
+/* No comment provided by engineer. */
+"Overwrite" = "Überschreiben";
+
+/* No comment provided by engineer. */
+"Overwrite Original" = "Original überschreiben";
 
 /* Tool */
 "Paint" = "Zeichnung";
@@ -1103,6 +1183,9 @@
 "Preserve transparency" = "Transparenz schützen";
 
 /* No comment provided by engineer. */
+"Preset Library" = "Voreinstellungsbibiliothek";
+
+/* No comment provided by engineer. */
 "Presets Imported" = "Voreinstellungen importiert";
 
 /* No comment provided by engineer. */
@@ -1112,10 +1195,10 @@
 "Previous" = "Zurück";
 
 /* No comment provided by engineer. */
-"Previous Image" = "Vorheriges Bild";
+"Previous Preset" = "Vorherige Voreinstellung";
 
 /* No comment provided by engineer. */
-"Previous Preset" = "Vorherige Voreinstellung";
+"Processing Image" = "Bild wird verarbeitet";
 
 /* Processing count */
 "Processing Image %i of %i" = "Bild %1$i von %2$i wird bearbeitet";
@@ -1189,14 +1272,11 @@
 /* No comment provided by engineer. */
 "Reloading..." = "Neu laden...";
 
-/* Edit Menu */
+/* No comment provided by engineer. */
 "Remove" = "Entfernen";
 
 /* No comment provided by engineer. */
 "Remove \"%@\"?" = "\"%@\" entfernen?";
-
-/* No comment provided by engineer. */
-"Remove Collection \"%@\"?" = "Sammlung \"%@\" entfernen?";
 
 /* No comment provided by engineer. */
 "Remove Color" = "Farbe entfernen";
@@ -1220,6 +1300,9 @@
 /* No comment provided by engineer. */
 "Replace Color" = "Farbersatz";
 
+/* Edit Menu */
+"Reset" = "Zurücksetzen";
+
 /* No comment provided by engineer. */
 "Reset %@" = "%@ zurücksetzen";
 
@@ -1234,6 +1317,9 @@
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "Horizontale Perspektive zurücksetzen";
+
+/* No comment provided by engineer. */
+"Reset Library?" = "Bibliothek zurücksetzen?";
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "ML-Schnitt zurücksetzen";
@@ -1309,9 +1395,6 @@
 "Save Copy to Photos" = "Kopien in Fotos speichern";
 
 /* No comment provided by engineer. */
-"Save in Place" = "An selber Stelle speichern";
-
-/* No comment provided by engineer. */
 "Save the image to your Photos library." = "Speichern Sie das Bild in Ihre Foto-Bibliothek.";
 
 /* No comment provided by engineer. */
@@ -1319,9 +1402,6 @@
 
 /* No comment provided by engineer. */
 "Save to Photos" = "In Fotos speichern";
-
-/* No comment provided by engineer. */
-"Saving..." = "Speichern...";
 
 /* No comment provided by engineer. */
 "Scale" = "Größe";
@@ -1374,6 +1454,9 @@
 /* No comment provided by engineer. */
 "Selective Color" = "Selektive Farbe";
 
+/* Edit Menu */
+"Send to Back" = "In den Hintergrund";
+
 /* No comment provided by engineer. */
 "Sepia" = "Sepia";
 
@@ -1416,19 +1499,16 @@
 "Show" = "Anzeigen";
 
 /* No comment provided by engineer. */
-"Show Files" = "Dateien anzeigen";
+"Show All Photos" = "Alle Fotos anzeigen";
 
 /* No comment provided by engineer. */
-"Show Folders" = "Ordner einblenden";
+"Show Files" = "Dateien anzeigen";
 
 /* No comment provided by engineer. */
 "Show Info" = "Info anzeigen";
 
 /* Layer */
 "Show Layer" = "Ebene einblenden";
-
-/* No comment provided by engineer. */
-"Show List" = "Liste anzeigen";
 
 /* No comment provided by engineer. */
 "Show Original" = "Original anzeigen";
@@ -1438,6 +1518,9 @@
 
 /* No comment provided by engineer. */
 "Show Presets" = "Voreinstellungen Anzeigen";
+
+/* No comment provided by engineer. */
+"Show Recents" = "Zuletzt benutzte anzeigen";
 
 /* No comment provided by engineer. */
 "Simple" = "Einfach";
@@ -1608,13 +1691,19 @@
 "The maximum number of layers for this image size is %i" = "Die maximale Anzahl an Ebenen für dieses Bild beträgt %i";
 
 /* No comment provided by engineer. */
-"The preset will be permanently removed from the app." = "Die Voreinstellungen werden dauerhaft aus dieser App entfernt.";
+"The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "Die Voreinstellungsbibliothek wird zurückgesetzt, wobei alle von Ihnen erstellten Voreinstellungen und Sammlungen gelöscht werden. Das kann nicht rückgängig gemacht werden.";
+
+/* No comment provided by engineer. */
+"The preset will be permanently deleted from the app." = "Die Voreinstellungen werden dauerhaft aus dieser App entfernt.";
 
 /* No comment provided by engineer. */
 "The preset will be redefined with the current color adjustments." = "Die Voreinstellungen werden mit den aktuellen Farbanpassungen neu definiert.";
 
 /* No comment provided by engineer. */
-"The selected collection of presets will be removed." = "Die ausgewählte Sammlung an Voreinstellungen wird entfernt.";
+"The preset will be reset to the initial color adjustments." = "Diese Voreinstellung wird auf die anfänglichen Farbanpassungen zurückgesetzt.";
+
+/* No comment provided by engineer. */
+"The selected image does not contain color adjustments." = "Das ausgewählte Bild enthält keine Farbanpassungen.";
 
 /* No comment provided by engineer. */
 "The size is too large." = "Die Größe ist zu groß.";
@@ -1640,11 +1729,17 @@
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library so there is no original to modify." = "Dieses Foto wurde nicht von Ihrer Foto-Bibliothek importiert, also gibt es kein modifizierbares Original.";
 
+/* No comment provided by engineer. */
+"This preset collection will be permanently removed. This action cannot be undone." = "Diese Voreinstellungsbibliothek wird dauerhaft gelöscht. Das kann nicht rückgängig gemacht werden.";
+
 /* Image open error */
 "This RAW format isn’t currently supported." = "Dieses RAW-Format wird zurzeit nicht unterstützt.";
 
 /* Demo App Description */
 "This version of Pixelmator Photo has been created specifically for demonstration purposes" = "Diese Version von Pixelmator Photo wurde speziell für Demozwecke erstellt";
+
+/* No comment provided by engineer. */
+"This workflow will be permanently deleted from this device." = "Dieser Arbeitsablauf wird dauerhaft von diesem Gerät gelöscht.";
 
 /* Effects category name */
 "Tile" = "Kachel";
@@ -1675,12 +1770,6 @@
 
 /* No comment provided by engineer. */
 "Top" = "Oben";
-
-/* No comment provided by engineer. */
-"Top Left" = "Oben links";
-
-/* No comment provided by engineer. */
-"Top Right" = "Oben rechts";
 
 /* No comment provided by engineer. */
 "Torus Lens" = "Wölblinse";
@@ -1751,7 +1840,8 @@
 /* Layer Arrange */
 "Ungroup" = "Gruppieren aufh.";
 
-/* Layer */
+/* Edit Menu
+   Layer */
 "Unlock" = "Schutz aufheben";
 
 /* No comment provided by engineer. */
@@ -1828,6 +1918,9 @@
 
 /* Color adjustments */
 "Yellow / Blue" = "Gelb / Blau";
+
+/* No comment provided by engineer. */
+"You're Offline" = "Sie sind offline";
 
 /* No comment provided by engineer. */
 "Zoom" = "Zoomen";

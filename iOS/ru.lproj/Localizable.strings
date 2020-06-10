@@ -61,6 +61,9 @@
 /* No comment provided by engineer. */
 "Actual Size" = "Реальный размер";
 
+/* Edit Menu */
+"Add Group" = "Добавить группу";
+
 /* Layer Management */
 "Add Image" = "Добавить изображение";
 
@@ -92,6 +95,9 @@
 "All Photos" = "Все фото";
 
 /* No comment provided by engineer. */
+"All presets in group will be reset to the initial color adjustments." = "Все наборы в группе будут сброшены на исходные корректировки цвета.";
+
+/* No comment provided by engineer. */
 "An unknown error occurred." = "Неизвестная ошибка.";
 
 /* No comment provided by engineer. */
@@ -118,6 +124,9 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "Стрелка с точкой";
+
+/* No comment provided by engineer. */
+"Aspect Ratio" = "Формат";
 
 /* No comment provided by engineer. */
 "Auto" = "Авто";
@@ -148,12 +157,6 @@
 
 /* Tool */
 "Basic" = "Основные";
-
-/* Batch processing */
-"Batch" = "Пакет";
-
-/* No comment provided by engineer. */
-"Batch " = "Пакет ";
 
 /* No comment provided by engineer. */
 "Batch edit multiple photos" = "Пакетная правка нескольких фото";
@@ -195,16 +198,13 @@
 "Bottom" = "Нижнее";
 
 /* No comment provided by engineer. */
-"Bottom Left" = "Внизу слева";
-
-/* No comment provided by engineer. */
-"Bottom Right" = "Внизу справа";
-
-/* No comment provided by engineer. */
 "Box" = "Ящик";
 
 /* Color adjustments */
 "Brightness" = "Яркость";
+
+/* Edit Menu */
+"Bring to Front" = "На передний план";
 
 /* No comment provided by engineer. */
 "Brush Scatter" = "Разброс кисти";
@@ -244,6 +244,9 @@
 
 /* No comment provided by engineer. */
 "Channel Mixer" = "Микшер каналов";
+
+/* Image open error */
+"Check your internet connection, then try again." = "Проверьте подключение к Интернету и повторите попытку.";
 
 /* No comment provided by engineer. */
 "Checkerboard" = "В клетку";
@@ -293,6 +296,9 @@
 "Color Adjustments" = "Цветокоррекция";
 
 /* No comment provided by engineer. */
+"Color Adjustments not found" = "Цветокоррекция не найдена";
+
+/* No comment provided by engineer. */
 "Color Balance" = "Цветовой баланс";
 
 /* No comment provided by engineer. */
@@ -334,17 +340,26 @@
 /* Edit Menu */
 "Copy" = "Скопировать";
 
+/* No comment provided by engineer. */
+"Copy Adjustments" = "Скопировать корректировки";
+
 /* Layer Management */
 "Copy Layer" = "Скопировать слой";
 
 /* No comment provided by engineer. */
 "Copy Saved to Photos" = "Скопировать сохраненные в Фото";
 
+/* No comment provided by engineer. */
+"Copying Adjustments" = "Копирование корректировок";
+
 /* Tool */
 "Crayon" = "Восковый мелок";
 
 /* Gallery */
 "Create Image" = "Создать изображение";
+
+/* No comment provided by engineer. */
+"Create Workflow" = "Создать процесс";
 
 /* Tool */
 "Crop" = "Обрезка";
@@ -375,11 +390,17 @@
 /* No comment provided by engineer. */
 "Darker Color" = "Темный цвет";
 
+/* No comment provided by engineer. */
+"Default" = "По умолчанию";
+
 /* Edit Menu */
 "Delete" = "Удалить";
 
 /* No comment provided by engineer. */
 "Delete " = "Удалить ";
+
+/* No comment provided by engineer. */
+"Delete \"%@\"?" = "Удалить \"%@\"?";
 
 /* Layer Management */
 "Delete Layer" = "Удалить слой";
@@ -398,10 +419,10 @@
 "Deselect All" = "Отменить выбор всех объектов";
 
 /* No comment provided by engineer. */
-"Destructive" = "Деструктивные";
-
-/* No comment provided by engineer. */
 "Detail" = "Подробнее";
+
+/* Edit Menu */
+"Details" = "Подробнее";
 
 /* No comment provided by engineer. */
 "Difference" = "Разница";
@@ -423,6 +444,9 @@
 
 /* No comment provided by engineer. */
 "Discard Changes" = "Отменить изменения";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Отклонить";
 
 /* No comment provided by engineer. */
 "Display Style" = "Показать стиль";
@@ -448,8 +472,14 @@
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Двусторонняя стрелка";
 
+/* No comment provided by engineer. */
+"Downloading Image" = "Загрузка изображения";
+
 /* Processing count */
 "Downloading Image %i of %i" = "Загрузка изображения %1$i из %2$i";
+
+/* No comment provided by engineer. */
+"Downloading..." = "Загрузка...";
 
 /* No comment provided by engineer. */
 "Droste" = "Дросте";
@@ -457,11 +487,29 @@
 /* Edit Menu */
 "Duplicate" = "Дублировать";
 
+/* No comment provided by engineer. */
+"Duplicate " = "Дублировать ";
+
 /* Layer Management */
 "Duplicate Layer" = "Дублировать слой";
 
 /* No comment provided by engineer. */
+"Duplicating..." = "Дублирование...";
+
+/* No comment provided by engineer. */
 "Edit" = "Правка";
+
+/* No comment provided by engineer. */
+"Edit %i Images" = "Править изображения (%i)";
+
+/* No comment provided by engineer. */
+"Edit %i Photos" = "Править %i фото";
+
+/* No comment provided by engineer. */
+"Edit 1 Image" = "Править изображение (1)";
+
+/* No comment provided by engineer. */
+"Edit 1 Photo" = "Править 1 фото";
 
 /* No comment provided by engineer. */
 "Edit in Pixelmator Photo" = "Правка в Pixelmator Photo";
@@ -474,6 +522,16 @@
 
 /* No comment provided by engineer. */
 "Edit RAW" = "Править RAW";
+
+/* No comment provided by engineer. */
+"Editing Image" = "Правка изображения";
+
+/* Processing action
+   Processing count */
+"Editing Image %i of %i" = "Правка изображения %1$i из %2$i";
+
+/* No comment provided by engineer. */
+"Editing..." = "Правка...";
 
 /* Tool */
 "Effects" = "Эффекты";
@@ -542,10 +600,10 @@
 "Favorite" = "Избранное";
 
 /* No comment provided by engineer. */
-"Feature not enabled for this demo" = "Эта функция недоступна в демоверсии";
+"Favorites" = "Избранное";
 
 /* No comment provided by engineer. */
-"Files" = "Файлы";
+"Feature not enabled for this demo" = "Эта функция недоступна в демо-версии";
 
 /* Effects category name */
 "Fill" = "Заливка";
@@ -725,6 +783,18 @@
 /* No comment provided by engineer. */
 "Import this image into Pixelmator Photo and open it for editing." = "Импортировать это изображение в Pixelmator Photo и открыть для редактирования.";
 
+/* No comment provided by engineer. */
+"Import to Files" = "Импортировать в Файлы";
+
+/* No comment provided by engineer. */
+"Import to Photos" = "Импортировать в Фото";
+
+/* No comment provided by engineer. */
+"Importing Image" = "Импорт изображения";
+
+/* Processing count */
+"Importing Image %i of %i" = "Импорт изображения %1$i из %2$i";
+
 /* short for inches
    Units */
 "in" = "дюйм";
@@ -759,6 +829,9 @@
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "Похоже, исходное фото больше там не находится.";
 
+/* No comment provided by engineer. */
+"Last Adjustments" = "Последние корректировки";
+
 /* Default new layer name */
 "Layer" = "Слой";
 
@@ -781,7 +854,7 @@
 "Levels" = "Уровни";
 
 /* No comment provided by engineer. */
-"Library" = "Библиотека";
+"Library" = "Медиатека";
 
 /* No comment provided by engineer. */
 "Light Color" = "Осветлить цвет";
@@ -838,7 +911,8 @@
 /* Document loading */
 "Loading..." = "Загрузка...";
 
-/* Layer */
+/* Edit Menu
+   Layer */
 "Lock" = "Блокировать";
 
 /* No comment provided by engineer. */
@@ -928,6 +1002,12 @@
 /* No comment provided by engineer. */
 "Move" = "Передвинуть";
 
+/* Edit Menu */
+"Move Left" = "Сдвинуть влево";
+
+/* Edit Menu */
+"Move Right" = "Сдвинуть вправо";
+
 /* No comment provided by engineer. */
 "Multiply" = "Умножить";
 
@@ -941,13 +1021,10 @@
 "New Layer" = "Новый слой";
 
 /* No comment provided by engineer. */
-"New Workflow" = "Новый процесс";
+"Next" = "Далее";
 
 /* keyboard */
 "next" = "далее";
-
-/* No comment provided by engineer. */
-"Next Image" = "Следующее изображение";
 
 /* No comment provided by engineer. */
 "Next Preset" = "Следующий набор настроек";
@@ -963,9 +1040,6 @@
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "Уменьшение шума";
-
-/* No comment provided by engineer. */
-"Nondestructive" = "Недеструктивные";
 
 /* Tool */
 "None" = "Нет";
@@ -1027,6 +1101,12 @@
 /* No comment provided by engineer. */
 "Overlay" = "Перекрытие";
 
+/* No comment provided by engineer. */
+"Overwrite" = "Перезаписать";
+
+/* No comment provided by engineer. */
+"Overwrite Original" = "Переписать оригинал";
+
 /* Tool */
 "Paint" = "Закраска";
 
@@ -1085,7 +1165,7 @@
 "Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo не получил доступ к Фото. Откройте доступ в Настройках.";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photo позволит вам редактировать изображения в вашей медиатеке Photos на iPad, автоматически сохраняя недеструктивные изменения в любом процессе. Чтобы переключиться между просмотром вашей медиатеки Фото и файлами изображений на iPad, нажмите Фото или Файлы на панели инструментов.";
+"Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photo позволит вам редактировать изображения в вашей медиатеке Фото на iPad, автоматически сохраняя недеструктивные изменения в любом процессе. Чтобы переключиться между просмотром вашей медиатеки Фото и файлами изображений на iPad, нажмите Фото или Файлы на панели инструментов.";
 
 /* Units */
 "Pixels" = "Пиксели";
@@ -1103,6 +1183,9 @@
 "Preserve transparency" = "Сохранить прозрачность";
 
 /* No comment provided by engineer. */
+"Preset Library" = "Библиотека наборов";
+
+/* No comment provided by engineer. */
 "Presets Imported" = "Набор импортирован";
 
 /* No comment provided by engineer. */
@@ -1112,10 +1195,10 @@
 "Previous" = "Предыдущее";
 
 /* No comment provided by engineer. */
-"Previous Image" = "Предыдущее изображение";
+"Previous Preset" = "Предыдущий набор настроек";
 
 /* No comment provided by engineer. */
-"Previous Preset" = "Предыдущий набор настроек";
+"Processing Image" = "Обработка изображения";
 
 /* Processing count */
 "Processing Image %i of %i" = "Обработка изображения %1$i из %2$i";
@@ -1189,14 +1272,11 @@
 /* No comment provided by engineer. */
 "Reloading..." = "Перезагрузка...";
 
-/* Edit Menu */
+/* No comment provided by engineer. */
 "Remove" = "Удалить";
 
 /* No comment provided by engineer. */
 "Remove \"%@\"?" = "Удалить \"%@\"?";
-
-/* No comment provided by engineer. */
-"Remove Collection \"%@\"?" = "Удалить коллекцию \"%@\"?";
 
 /* No comment provided by engineer. */
 "Remove Color" = "Удалить цвет";
@@ -1220,6 +1300,9 @@
 /* No comment provided by engineer. */
 "Replace Color" = "Замена цвета";
 
+/* Edit Menu */
+"Reset" = "Сброс";
+
 /* No comment provided by engineer. */
 "Reset %@" = "Сбросить %@";
 
@@ -1234,6 +1317,9 @@
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "Сбросить горизонтальную перспективу";
+
+/* No comment provided by engineer. */
+"Reset Library?" = "Сбросить библиотеку?";
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "Сбросить ML-обрезку";
@@ -1309,9 +1395,6 @@
 "Save Copy to Photos" = "Сохранить копию в Фото";
 
 /* No comment provided by engineer. */
-"Save in Place" = "Сохранить в том же месте";
-
-/* No comment provided by engineer. */
 "Save the image to your Photos library." = "Сохранить изображения в медиатеку Фото.";
 
 /* No comment provided by engineer. */
@@ -1319,9 +1402,6 @@
 
 /* No comment provided by engineer. */
 "Save to Photos" = "Сохранить в Фото";
-
-/* No comment provided by engineer. */
-"Saving..." = "Сохранение...";
 
 /* No comment provided by engineer. */
 "Scale" = "Масштаб";
@@ -1374,6 +1454,9 @@
 /* No comment provided by engineer. */
 "Selective Color" = "Выбирающий цвет";
 
+/* Edit Menu */
+"Send to Back" = "На задний план";
+
 /* No comment provided by engineer. */
 "Sepia" = "Сепия";
 
@@ -1416,19 +1499,16 @@
 "Show" = "Показать";
 
 /* No comment provided by engineer. */
-"Show Files" = "Показать файлы";
+"Show All Photos" = "Показать все фото";
 
 /* No comment provided by engineer. */
-"Show Folders" = "Показать папки";
+"Show Files" = "Показать файлы";
 
 /* No comment provided by engineer. */
 "Show Info" = "Показать свойства";
 
 /* Layer */
 "Show Layer" = "Показать слой";
-
-/* No comment provided by engineer. */
-"Show List" = "Показать список";
 
 /* No comment provided by engineer. */
 "Show Original" = "Показать оригинал";
@@ -1438,6 +1518,9 @@
 
 /* No comment provided by engineer. */
 "Show Presets" = "Показать наборы настроек";
+
+/* No comment provided by engineer. */
+"Show Recents" = "Показать недавние";
 
 /* No comment provided by engineer. */
 "Simple" = "Простой";
@@ -1608,13 +1691,19 @@
 "The maximum number of layers for this image size is %i" = "Максимальное количество слоев для изображения такого размера: %i";
 
 /* No comment provided by engineer. */
-"The preset will be permanently removed from the app." = "Набор будет окончательно удален из приложения.";
+"The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "Библиотека наборов будет сброшена на состояние по умолчанию, с удалением всех наборов и созданных вами коллекций. Результаты этого действия отменить нельзя.";
+
+/* No comment provided by engineer. */
+"The preset will be permanently deleted from the app." = "Набор будет окончательно удален из приложения.";
 
 /* No comment provided by engineer. */
 "The preset will be redefined with the current color adjustments." = "Набор будет пересмотрен с текущими корректировками цвета.";
 
 /* No comment provided by engineer. */
-"The selected collection of presets will be removed." = "Выбранная коллекция наборов будет удалена.";
+"The preset will be reset to the initial color adjustments." = "Набор будет сброшен на исходные корректировки цвета.";
+
+/* No comment provided by engineer. */
+"The selected image does not contain color adjustments." = "Выбранное изображение не содержит корректировок цвета.";
 
 /* No comment provided by engineer. */
 "The size is too large." = "Слишком большой размер.";
@@ -1640,11 +1729,17 @@
 /* No comment provided by engineer. */
 "This photo was not imported from your Photos library so there is no original to modify." = "Это фото не было импортировано из медиатеки Фото, поэтому нет оригинала для правки.";
 
+/* No comment provided by engineer. */
+"This preset collection will be permanently removed. This action cannot be undone." = "Эта коллекция наборов будет окончательно удалена. Результаты этого действия отменить нельзя.";
+
 /* Image open error */
 "This RAW format isn’t currently supported." = "RAW-формат не поддерживается в данный момент.";
 
 /* Demo App Description */
 "This version of Pixelmator Photo has been created specifically for demonstration purposes" = "Эта версия Pixelmator Photo предназначена специально для демонстрации";
+
+/* No comment provided by engineer. */
+"This workflow will be permanently deleted from this device." = "Этот процесс будет окончательно удален с этого устройства.";
 
 /* Effects category name */
 "Tile" = "Плитка";
@@ -1675,12 +1770,6 @@
 
 /* No comment provided by engineer. */
 "Top" = "Верхнее";
-
-/* No comment provided by engineer. */
-"Top Left" = "Вверху слева";
-
-/* No comment provided by engineer. */
-"Top Right" = "Вверху справа";
 
 /* No comment provided by engineer. */
 "Torus Lens" = "Torus-объектив";
@@ -1746,12 +1835,13 @@
 "Undo %@" = "Отменить «%@»";
 
 /* No comment provided by engineer. */
-"Unfavorite" = "Убрать из избранного";
+"Unfavorite" = "Убрать из Избранного";
 
 /* Layer Arrange */
 "Ungroup" = "Без группы";
 
-/* Layer */
+/* Edit Menu
+   Layer */
 "Unlock" = "Разблокировать";
 
 /* No comment provided by engineer. */
@@ -1828,6 +1918,9 @@
 
 /* Color adjustments */
 "Yellow / Blue" = "Желтый / синий";
+
+/* No comment provided by engineer. */
+"You're Offline" = "Вы офлайн";
 
 /* No comment provided by engineer. */
 "Zoom" = "Масштабирование";
