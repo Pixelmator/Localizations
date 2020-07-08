@@ -88,6 +88,9 @@
 /* Class = "NSMenuItem"; title = "Row Selection"; ObjectID = "2pu-b3-pew"; */
 "2pu-b3-pew.title" = "行の選択";
 
+/* Class = "NSMenuItem"; title = "Freeform Type"; ObjectID = "2rK-f5-Tci"; */
+"2rK-f5-Tci.title" = "フリーフォーム型";
+
 /* Class = "NSMenu"; title = "CIImage Data Source"; ObjectID = "2sk-6H-dbQ"; */
 "2sk-6H-dbQ.title" = "CIImageデータソース";
 
@@ -160,6 +163,9 @@
 /* Class = "NSMenuItem"; title = "Effects"; ObjectID = "5rk-am-Zsh"; */
 "5rk-am-Zsh.title" = "エフェクト";
 
+/* Class = "NSMenuItem"; title = "Automatically Show Controls"; ObjectID = "6D5-dJ-WDo"; */
+"6D5-dJ-WDo.title" = "コントローラーを自動で表示";
+
 /* Class = "NSMenuItem"; title = "Show Guides at Object Edges"; ObjectID = "6Db-h7-VLe"; */
 "6Db-h7-VLe.title" = "オブジェクトの端にガイドを表示";
 
@@ -199,6 +205,9 @@
 /* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "8AY-Ic-BXL"; */
 "8AY-Ic-BXL.title" = "ズームアウト";
 
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "8Hb-ZM-x9D"; */
+"8Hb-ZM-x9D.title" = "テキスト";
+
 /* Class = "NSMenu"; title = "Canvas Rendering Device Preference"; ObjectID = "8PM-GG-p1I"; */
 "8PM-GG-p1I.title" = "Canvas Rendering Device Preference";
 
@@ -210,6 +219,9 @@
 
 /* Class = "NSMenuItem"; title = "Shape"; ObjectID = "8cw-Bl-1ix"; */
 "8cw-Bl-1ix.title" = "シェイプ";
+
+/* Class = "NSMenuItem"; title = "Reset Canvas Rotation"; ObjectID = "8rI-cE-PbU"; */
+"8rI-cE-PbU.title" = "キャンバスの回転をリセット";
 
 /* Class = "NSMenuItem"; title = "Crop..."; ObjectID = "8rY-Wh-4XM"; */
 "8rY-Wh-4XM.title" = "切り抜く...";
@@ -235,8 +247,8 @@
 /* Class = "NSMenu"; title = "Tools"; ObjectID = "AtN-gq-6g9"; */
 "AtN-gq-6g9.title" = "ツール";
 
-/* Class = "NSMenuItem"; title = "Enable Flattened Image Cache"; ObjectID = "AyY-JH-cWm"; */
-"AyY-JH-cWm.title" = "フラット化されたイメージキャッシュを有効にする";
+/* Class = "NSMenuItem"; title = "Enable CI Image Cache"; ObjectID = "AyY-JH-cWm"; */
+"AyY-JH-cWm.title" = "Enable CI Image Cache";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "環境設定...";
@@ -264,6 +276,9 @@
 
 /* Class = "NSMenuItem"; title = "Hide Tool Options"; ObjectID = "C93-9L-LO2"; */
 "C93-9L-LO2.title" = "ツールオプションを隠す";
+
+/* Class = "NSMenuItem"; title = "Path Type"; ObjectID = "C96-0f-dWm"; */
+"C96-0f-dWm.title" = "パス型";
 
 /* Class = "NSMenuItem"; title = "Toggle Visibility"; ObjectID = "C9y-dJ-Pfs"; */
 "C9y-dJ-Pfs.title" = "Toggle Visibility";
@@ -400,11 +415,17 @@
 /* Class = "NSMenuItem"; title = "Bump"; ObjectID = "HiK-UB-YhR"; */
 "HiK-UB-YhR.title" = "バンプ";
 
+/* Class = "NSMenuItem"; title = "Enable Flattened Image Cache"; ObjectID = "Hmp-kg-VRz"; */
+"Hmp-kg-VRz.title" = "Enable Flattened Image Cache";
+
 /* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
 "HyV-fh-RgO.title" = "表示";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
 "IAo-SY-fd9.title" = "開く...";
+
+/* Class = "NSMenuItem"; title = "Toggle Text Tools"; ObjectID = "IQY-YY-sn2"; */
+"IQY-YY-sn2.title" = "Toggle Text Tools";
 
 /* Class = "NSMenuItem"; title = "Share"; ObjectID = "Ia4-hf-k0T"; */
 "Ia4-hf-k0T.title" = "共有";
@@ -417,6 +438,9 @@
 
 /* Class = "NSMenuItem"; title = "Auto-Center"; ObjectID = "J7V-dx-pQr"; */
 "J7V-dx-pQr.title" = "自動中央";
+
+/* Class = "NSMenu"; title = "Canvas Rotation"; ObjectID = "JQZ-H1-7Re"; */
+"JQZ-H1-7Re.title" = "キャンバスの回転";
 
 /* Class = "NSMenuItem"; title = "Create Clipping Mask"; ObjectID = "Jeq-ij-5A2"; */
 "Jeq-ij-5A2.title" = "クリッピングマスクを作成";
@@ -457,6 +481,9 @@
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "すべてを手前に移動";
 
+/* Class = "NSMenuItem"; title = "Welcome to Pixelmator Pro"; ObjectID = "LLT-z0-3sU"; */
+"LLT-z0-3sU.title" = "Pixelmator Proへようこそ";
+
 /* Class = "NSMenuItem"; title = "Add Guide..."; ObjectID = "LPe-wq-uHS"; */
 "LPe-wq-uHS.title" = "ガイドを追加...";
 
@@ -477,9 +504,6 @@
 
 /* Class = "NSMenu"; title = "Text"; ObjectID = "MeU-sv-r0a"; */
 "MeU-sv-r0a.title" = "テキスト";
-
-/* Class = "NSMenuItem"; title = "Type"; ObjectID = "Ml5-5O-tWd"; */
-"Ml5-5O-tWd.title" = "テキスト";
 
 /* Class = "NSMenuItem"; title = "Enable Composing Logs"; ObjectID = "N7U-XD-uMV"; */
 "N7U-XD-uMV.title" = "ログの作成を有効にする";
@@ -511,6 +535,9 @@
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
 "OY7-WF-poV.title" = "しまう";
 
+/* Class = "NSMenu"; title = "Type"; ObjectID = "Ok0-T7-48E"; */
+"Ok0-T7-48E.title" = "テキスト";
+
 /* Class = "NSMenuItem"; title = "Hide Pixelmator Pro"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Pixelmator Proを非表示";
 
@@ -528,6 +555,9 @@
 
 /* Class = "NSMenuItem"; title = "Convert into Pixels"; ObjectID = "PS5-r9-IOq"; */
 "PS5-r9-IOq.title" = "ピクセルに変換";
+
+/* Class = "NSMenuItem"; title = "Circular Text"; ObjectID = "PfM-BN-ite"; */
+"PfM-BN-ite.title" = "丸型テキスト";
 
 /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "PuN-vm-Jxe"; */
 "PuN-vm-Jxe.title" = "ロック";
@@ -577,6 +607,9 @@
 /* Class = "NSMenuItem"; title = "Load Selection"; ObjectID = "Sui-s2-jDR"; */
 "Sui-s2-jDR.title" = "選択範囲の読み込み";
 
+/* Class = "NSMenuItem"; title = "Always Show Controls"; ObjectID = "TPZ-ZJ-dL3"; */
+"TPZ-ZJ-dL3.title" = "常にコントロールを表示";
+
 /* Class = "NSMenuItem"; title = "Align Top"; ObjectID = "TU7-cX-Wds"; */
 "TU7-cX-Wds.title" = "上揃え";
 
@@ -601,8 +634,14 @@
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "V7A-Jx-Lc0"; */
 "V7A-Jx-Lc0.title" = "テキスト";
 
+/* Class = "NSMenuItem"; title = "Always Hide Controls"; ObjectID = "VK1-0L-iAh"; */
+"VK1-0L-iAh.title" = "常にコントロールを隠す";
+
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
 "Vdr-fp-XzO.title" = "ほかを非表示";
+
+/* Class = "NSMenuItem"; title = "Run Sample Apple Script"; ObjectID = "W14-Z8-gfK"; */
+"W14-Z8-gfK.title" = "Run Sample Apple Script";
 
 /* Class = "NSMenuItem"; title = "Show Relative Spacing"; ObjectID = "W35-E9-PJi"; */
 "W35-E9-PJi.title" = "相対的な間隔を表示";
@@ -739,6 +778,9 @@
 /* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "bj0-wj-vJE"; */
 "bj0-wj-vJE.title" = "フォントを表示";
 
+/* Class = "NSMenuItem"; title = "Last Used Type Tool"; ObjectID = "bjK-YJ-QOb"; */
+"bjK-YJ-QOb.title" = "Last Used Type Tool";
+
 /* Class = "NSMenuItem"; title = "Replace Image..."; ObjectID = "bmW-K0-cyC"; */
 "bmW-K0-cyC.title" = "画像を置き換え...";
 
@@ -786,6 +828,9 @@
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "e3W-oG-Wqw"; */
 "e3W-oG-Wqw.title" = "フルスクリーン";
+
+/* Class = "NSMenuItem"; title = "Reveal Original"; ObjectID = "eKF-iC-95K"; */
+"eKF-iC-95K.title" = "オリジナルに戻す";
 
 /* Class = "NSMenuItem"; title = "90° Left"; ObjectID = "eRI-Wd-5uR"; */
 "eRI-Wd-5uR.title" = "左に90 °";
@@ -838,6 +883,9 @@
 /* Class = "NSMenuItem"; title = "Keyboard Shortcuts"; ObjectID = "gJk-wy-94G"; */
 "gJk-wy-94G.title" = "キーボードショートカット";
 
+/* Class = "NSMenuItem"; title = "Overwrite Original"; ObjectID = "gTm-Qw-R1U"; */
+"gTm-Qw-R1U.title" = "オリジナルを上書き";
+
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
 "gVA-U4-sdL.title" = "ペースト";
 
@@ -855,6 +903,9 @@
 
 /* Class = "NSMenuItem"; title = "Skew..."; ObjectID = "gna-8V-4BE"; */
 "gna-8V-4BE.title" = "傾斜...";
+
+/* Class = "NSMenuItem"; title = "Canvas Rotation"; ObjectID = "h2O-BY-udp"; */
+"h2O-BY-udp.title" = "キャンバスの回転";
 
 /* Class = "NSMenuItem"; title = "Top Edges"; ObjectID = "hQw-R5-ONQ"; */
 "hQw-R5-ONQ.title" = "上揃え";
@@ -945,6 +996,9 @@
 
 /* Class = "NSMenuItem"; title = "Copy Effects"; ObjectID = "mky-KW-sa6"; */
 "mky-KW-sa6.title" = "エフェクトをコピー";
+
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "mto-EC-4BB"; */
+"mto-EC-4BB.title" = "テキスト";
 
 /* Class = "NSMenuItem"; title = "Invert Colors"; ObjectID = "n0s-n4-HKQ"; */
 "n0s-n4-HKQ.title" = "カラーを反転";
@@ -1122,6 +1176,9 @@
 
 /* Class = "NSMenuItem"; title = "Show Info Bar"; ObjectID = "ysf-h2-YR6"; */
 "ysf-h2-YR6.title" = "情報バーを表示";
+
+/* Class = "NSMenuItem"; title = "Circular Type"; ObjectID = "z1g-Ew-liZ"; */
+"z1g-Ew-liZ.title" = "丸型";
 
 /* Class = "NSMenuItem"; title = "Horizontal Centers"; ObjectID = "zcw-iN-Hhd"; */
 "zcw-iN-Hhd.title" = "中央揃え";

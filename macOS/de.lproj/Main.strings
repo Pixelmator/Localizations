@@ -88,6 +88,9 @@
 /* Class = "NSMenuItem"; title = "Row Selection"; ObjectID = "2pu-b3-pew"; */
 "2pu-b3-pew.title" = "Zeilenauswahl";
 
+/* Class = "NSMenuItem"; title = "Freeform Type"; ObjectID = "2rK-f5-Tci"; */
+"2rK-f5-Tci.title" = "Freeform";
+
 /* Class = "NSMenu"; title = "CIImage Data Source"; ObjectID = "2sk-6H-dbQ"; */
 "2sk-6H-dbQ.title" = "CIImage-Datenquelle";
 
@@ -160,6 +163,9 @@
 /* Class = "NSMenuItem"; title = "Effects"; ObjectID = "5rk-am-Zsh"; */
 "5rk-am-Zsh.title" = "Effekte";
 
+/* Class = "NSMenuItem"; title = "Automatically Show Controls"; ObjectID = "6D5-dJ-WDo"; */
+"6D5-dJ-WDo.title" = "Einstellungen automatisch anzeigen";
+
 /* Class = "NSMenuItem"; title = "Show Guides at Object Edges"; ObjectID = "6Db-h7-VLe"; */
 "6Db-h7-VLe.title" = "Hilfslinien an Objektgrenzen anzeigen";
 
@@ -199,6 +205,9 @@
 /* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "8AY-Ic-BXL"; */
 "8AY-Ic-BXL.title" = "Verkleinern";
 
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "8Hb-ZM-x9D"; */
+"8Hb-ZM-x9D.title" = "Text";
+
 /* Class = "NSMenu"; title = "Canvas Rendering Device Preference"; ObjectID = "8PM-GG-p1I"; */
 "8PM-GG-p1I.title" = "Canvas Rendering Device Preference";
 
@@ -210,6 +219,9 @@
 
 /* Class = "NSMenuItem"; title = "Shape"; ObjectID = "8cw-Bl-1ix"; */
 "8cw-Bl-1ix.title" = "Form";
+
+/* Class = "NSMenuItem"; title = "Reset Canvas Rotation"; ObjectID = "8rI-cE-PbU"; */
+"8rI-cE-PbU.title" = "Rotation der Leinwand zurücksetzen";
 
 /* Class = "NSMenuItem"; title = "Crop..."; ObjectID = "8rY-Wh-4XM"; */
 "8rY-Wh-4XM.title" = "Beschneiden …";
@@ -235,8 +247,8 @@
 /* Class = "NSMenu"; title = "Tools"; ObjectID = "AtN-gq-6g9"; */
 "AtN-gq-6g9.title" = "Werkzeuge";
 
-/* Class = "NSMenuItem"; title = "Enable Flattened Image Cache"; ObjectID = "AyY-JH-cWm"; */
-"AyY-JH-cWm.title" = "Geebneten Bildercache aktivieren";
+/* Class = "NSMenuItem"; title = "Enable CI Image Cache"; ObjectID = "AyY-JH-cWm"; */
+"AyY-JH-cWm.title" = "Enable CI Image Cache";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "Einstellungen …";
@@ -264,6 +276,9 @@
 
 /* Class = "NSMenuItem"; title = "Hide Tool Options"; ObjectID = "C93-9L-LO2"; */
 "C93-9L-LO2.title" = "Werkzeugoptionen ausblenden";
+
+/* Class = "NSMenuItem"; title = "Path Type"; ObjectID = "C96-0f-dWm"; */
+"C96-0f-dWm.title" = "Pfadtyp";
 
 /* Class = "NSMenuItem"; title = "Toggle Visibility"; ObjectID = "C9y-dJ-Pfs"; */
 "C9y-dJ-Pfs.title" = "Toggle Visibility";
@@ -400,11 +415,17 @@
 /* Class = "NSMenuItem"; title = "Bump"; ObjectID = "HiK-UB-YhR"; */
 "HiK-UB-YhR.title" = "Ausbeulen";
 
+/* Class = "NSMenuItem"; title = "Enable Flattened Image Cache"; ObjectID = "Hmp-kg-VRz"; */
+"Hmp-kg-VRz.title" = "Enable Flattened Image Cache";
+
 /* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
 "HyV-fh-RgO.title" = "Darstellung";
 
 /* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
 "IAo-SY-fd9.title" = "Öffnen …";
+
+/* Class = "NSMenuItem"; title = "Toggle Text Tools"; ObjectID = "IQY-YY-sn2"; */
+"IQY-YY-sn2.title" = "Toggle Text Tools";
 
 /* Class = "NSMenuItem"; title = "Share"; ObjectID = "Ia4-hf-k0T"; */
 "Ia4-hf-k0T.title" = "Teilen";
@@ -417,6 +438,9 @@
 
 /* Class = "NSMenuItem"; title = "Auto-Center"; ObjectID = "J7V-dx-pQr"; */
 "J7V-dx-pQr.title" = "Auto-Zentrieren";
+
+/* Class = "NSMenu"; title = "Canvas Rotation"; ObjectID = "JQZ-H1-7Re"; */
+"JQZ-H1-7Re.title" = "Leinwandrotation";
 
 /* Class = "NSMenuItem"; title = "Create Clipping Mask"; ObjectID = "Jeq-ij-5A2"; */
 "Jeq-ij-5A2.title" = "Schnittmaske erstellen";
@@ -457,6 +481,9 @@
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
 "LE2-aR-0XJ.title" = "Alle nach vorne bringen";
 
+/* Class = "NSMenuItem"; title = "Welcome to Pixelmator Pro"; ObjectID = "LLT-z0-3sU"; */
+"LLT-z0-3sU.title" = "Willkommen bei Pixelmator Pro";
+
 /* Class = "NSMenuItem"; title = "Add Guide..."; ObjectID = "LPe-wq-uHS"; */
 "LPe-wq-uHS.title" = "Hilfslinie hinzufügen ...";
 
@@ -477,9 +504,6 @@
 
 /* Class = "NSMenu"; title = "Text"; ObjectID = "MeU-sv-r0a"; */
 "MeU-sv-r0a.title" = "Text";
-
-/* Class = "NSMenuItem"; title = "Type"; ObjectID = "Ml5-5O-tWd"; */
-"Ml5-5O-tWd.title" = "Text";
 
 /* Class = "NSMenuItem"; title = "Enable Composing Logs"; ObjectID = "N7U-XD-uMV"; */
 "N7U-XD-uMV.title" = "Log-Erstellung aktivieren";
@@ -511,6 +535,9 @@
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
 "OY7-WF-poV.title" = "Minimieren";
 
+/* Class = "NSMenu"; title = "Type"; ObjectID = "Ok0-T7-48E"; */
+"Ok0-T7-48E.title" = "Text";
+
 /* Class = "NSMenuItem"; title = "Hide Pixelmator Pro"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Pixelmator Pro ausblenden";
 
@@ -528,6 +555,9 @@
 
 /* Class = "NSMenuItem"; title = "Convert into Pixels"; ObjectID = "PS5-r9-IOq"; */
 "PS5-r9-IOq.title" = "In Pixel konvertieren";
+
+/* Class = "NSMenuItem"; title = "Circular Text"; ObjectID = "PfM-BN-ite"; */
+"PfM-BN-ite.title" = "Runder Text";
 
 /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "PuN-vm-Jxe"; */
 "PuN-vm-Jxe.title" = "Schützen";
@@ -577,6 +607,9 @@
 /* Class = "NSMenuItem"; title = "Load Selection"; ObjectID = "Sui-s2-jDR"; */
 "Sui-s2-jDR.title" = "Auswahl laden";
 
+/* Class = "NSMenuItem"; title = "Always Show Controls"; ObjectID = "TPZ-ZJ-dL3"; */
+"TPZ-ZJ-dL3.title" = "Einstellungen immer anzeigen";
+
 /* Class = "NSMenuItem"; title = "Align Top"; ObjectID = "TU7-cX-Wds"; */
 "TU7-cX-Wds.title" = "Oben ausrichten";
 
@@ -601,8 +634,14 @@
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "V7A-Jx-Lc0"; */
 "V7A-Jx-Lc0.title" = "Text";
 
+/* Class = "NSMenuItem"; title = "Always Hide Controls"; ObjectID = "VK1-0L-iAh"; */
+"VK1-0L-iAh.title" = "Einstellungen immer verbergen";
+
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
 "Vdr-fp-XzO.title" = "Andere ausblenden";
+
+/* Class = "NSMenuItem"; title = "Run Sample Apple Script"; ObjectID = "W14-Z8-gfK"; */
+"W14-Z8-gfK.title" = "Run Sample Apple Script";
 
 /* Class = "NSMenuItem"; title = "Show Relative Spacing"; ObjectID = "W35-E9-PJi"; */
 "W35-E9-PJi.title" = "Relativen Abstand zeigen";
@@ -739,6 +778,9 @@
 /* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "bj0-wj-vJE"; */
 "bj0-wj-vJE.title" = "Schriften einblenden";
 
+/* Class = "NSMenuItem"; title = "Last Used Type Tool"; ObjectID = "bjK-YJ-QOb"; */
+"bjK-YJ-QOb.title" = "Last Used Type Tool";
+
 /* Class = "NSMenuItem"; title = "Replace Image..."; ObjectID = "bmW-K0-cyC"; */
 "bmW-K0-cyC.title" = "Bild ersetzen...";
 
@@ -786,6 +828,9 @@
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "e3W-oG-Wqw"; */
 "e3W-oG-Wqw.title" = "Vollbild ein";
+
+/* Class = "NSMenuItem"; title = "Reveal Original"; ObjectID = "eKF-iC-95K"; */
+"eKF-iC-95K.title" = "Original anzeigen";
 
 /* Class = "NSMenuItem"; title = "90° Left"; ObjectID = "eRI-Wd-5uR"; */
 "eRI-Wd-5uR.title" = "90° nach Links";
@@ -838,6 +883,9 @@
 /* Class = "NSMenuItem"; title = "Keyboard Shortcuts"; ObjectID = "gJk-wy-94G"; */
 "gJk-wy-94G.title" = "Tastenkürzel";
 
+/* Class = "NSMenuItem"; title = "Overwrite Original"; ObjectID = "gTm-Qw-R1U"; */
+"gTm-Qw-R1U.title" = "Original überschreiben";
+
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
 "gVA-U4-sdL.title" = "Einfügen";
 
@@ -855,6 +903,9 @@
 
 /* Class = "NSMenuItem"; title = "Skew..."; ObjectID = "gna-8V-4BE"; */
 "gna-8V-4BE.title" = "Verdrehen...";
+
+/* Class = "NSMenuItem"; title = "Canvas Rotation"; ObjectID = "h2O-BY-udp"; */
+"h2O-BY-udp.title" = "Leinwandrotation";
 
 /* Class = "NSMenuItem"; title = "Top Edges"; ObjectID = "hQw-R5-ONQ"; */
 "hQw-R5-ONQ.title" = "Obere Kanten";
@@ -945,6 +996,9 @@
 
 /* Class = "NSMenuItem"; title = "Copy Effects"; ObjectID = "mky-KW-sa6"; */
 "mky-KW-sa6.title" = "Effekte kopieren";
+
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "mto-EC-4BB"; */
+"mto-EC-4BB.title" = "Text";
 
 /* Class = "NSMenuItem"; title = "Invert Colors"; ObjectID = "n0s-n4-HKQ"; */
 "n0s-n4-HKQ.title" = "Farben umkehren";
@@ -1122,6 +1176,9 @@
 
 /* Class = "NSMenuItem"; title = "Show Info Bar"; ObjectID = "ysf-h2-YR6"; */
 "ysf-h2-YR6.title" = "Infoleiste einblenden";
+
+/* Class = "NSMenuItem"; title = "Circular Type"; ObjectID = "z1g-Ew-liZ"; */
+"z1g-Ew-liZ.title" = "Rund";
 
 /* Class = "NSMenuItem"; title = "Horizontal Centers"; ObjectID = "zcw-iN-Hhd"; */
 "zcw-iN-Hhd.title" = "Horizontale Zentren";
