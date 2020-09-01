@@ -76,7 +76,7 @@
 /* Layer Management */
 "Add Text" = "加入文字";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Adjust Colors" = "調整顏色";
 
 /* No comment provided by engineer. */
@@ -96,6 +96,12 @@
 
 /* No comment provided by engineer. */
 "All presets in group will be reset to the initial color adjustments." = "群組內所有的預設組將會重置為初始的顏色調整設定。";
+
+/* No comment provided by engineer. */
+"All the color adjustment presets in this collection will be reset to default. This action cannot be undone." = "All the color adjustment presets in this collection will be reset to default. This action cannot be undone.";
+
+/* No comment provided by engineer. */
+"All the workflows in this group will be reset to their default settings." = "All the workflows in this group will be reset to their default settings.";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "發生未知的錯誤。";
@@ -319,7 +325,7 @@
 /* No comment provided by engineer. */
 "Color Wheels" = "色輪";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Colors" = "顏色";
 
 /* No comment provided by engineer. */
@@ -471,6 +477,9 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "雙頭箭頭";
+
+/* No comment provided by engineer. */
+"Double-Tap" = "Double-Tap";
 
 /* No comment provided by engineer. */
 "Downloading Image" = "正在下載影像";
@@ -673,9 +682,6 @@
 
 /* No comment provided by engineer. */
 "Glide Reflected" = "滑動反射";
-
-/* No comment provided by engineer. */
-"Go to Photographs" = "轉到照片";
 
 /* No comment provided by engineer. */
 "Gradient" = "漸變";
@@ -978,11 +984,17 @@
 /* No comment provided by engineer. */
 "ML Match Colors" = "ML 匹配顏色";
 
-/* No comment provided by engineer. */
+/* Tool */
 "ML Super Resolution" = "ML Super Resolution";
+
+/* No comment provided by engineer. */
+"ML Tool" = "ML Tool";
 
 /* Units */
 "mm" = "公釐";
+
+/* No comment provided by engineer. */
+"MODIFIED" = "MODIFIED";
 
 /* No comment provided by engineer. */
 "More" = "更多";
@@ -1051,6 +1063,9 @@
 "OK" = "好";
 
 /* No comment provided by engineer. */
+"Only Draw with Apple Pencil is Turned On" = "Only Draw with Apple Pencil is Turned On";
+
+/* No comment provided by engineer. */
 "Op" = "Op";
 
 /* No comment provided by engineer. */
@@ -1081,15 +1096,6 @@
 "Original" = "原件";
 
 /* No comment provided by engineer. */
-"ORIGINAL COLORS" = "原色";
-
-/* No comment provided by engineer. */
-"ORIGINAL COMPOSITION" = "原始組合";
-
-/* No comment provided by engineer. */
-"ORIGINAL CONTENT" = "原始內容";
-
-/* No comment provided by engineer. */
 "ORIGINAL PERSPECTIVE" = "原始視角";
 
 /* Effects category name */
@@ -1103,9 +1109,6 @@
 
 /* No comment provided by engineer. */
 "Overwrite" = "覆蓋";
-
-/* No comment provided by engineer. */
-"Overwrite Original" = "覆寫原件";
 
 /* Tool */
 "Paint" = "繪製";
@@ -1276,9 +1279,6 @@
 "Remove" = "移除";
 
 /* No comment provided by engineer. */
-"Remove \"%@\"?" = "移除「%@」嗎？";
-
-/* No comment provided by engineer. */
 "Remove Color" = "移除顏色";
 
 /* No comment provided by engineer. */
@@ -1313,6 +1313,9 @@
 "Reset Auto Enhance" = "重設自動增強";
 
 /* No comment provided by engineer. */
+"Reset Changes" = "Reset Changes";
+
+/* No comment provided by engineer. */
 "Reset Crop" = "重設裁切";
 
 /* Perspective transform */
@@ -1330,14 +1333,23 @@
 /* No comment provided by engineer. */
 "Reset ML Match Colors" = "重設 ML 匹配顏色";
 
+/* "ML Super Resolution" should be used as it is and not translated. */
+"Reset ML Super Resolution?" = "Reset ML Super Resolution?";
+
 /* Perspective transform */
 "Reset Perspective" = "重設透視";
 
 /* No comment provided by engineer. */
-"Reset Repair Changes" = "重設修復更改";
+"Reset Repair tool edits?" = "Reset Repair tool edits?";
+
+/* No comment provided by engineer. */
+"Reset the resolution of this photo to the original." = "Reset the resolution of this photo to the original.";
 
 /* Perspective transform */
 "Reset Vertical Perspective" = "重設垂直透視";
+
+/* No comment provided by engineer. */
+"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "Resetting edits made with the Repair tool will also restore the resolution of this photo to the original.";
 
 /* Tool */
 "Restore" = "回復";
@@ -1439,6 +1451,9 @@
 /* No comment provided by engineer. */
 "Select Images" = "選擇影像";
 
+/* No comment provided by engineer. */
+"Select Repair Tool" = "Select Repair Tool";
+
 /* Tool */
 "Select Row" = "選取行";
 
@@ -1500,6 +1515,9 @@
 
 /* No comment provided by engineer. */
 "Show All Photos" = "顯示全部照片";
+
+/* No comment provided by engineer. */
+"Show Comparison Slider" = "Show Comparison Slider";
 
 /* No comment provided by engineer. */
 "Show Files" = "顯示檔案";
@@ -1732,6 +1750,9 @@
 /* No comment provided by engineer. */
 "This preset collection will be permanently removed. This action cannot be undone." = "此預設組合將會永久刪除。此動作無法還原。";
 
+/* No comment provided by engineer. */
+"This preset will be reset to its default settings." = "This preset will be reset to its default settings.";
+
 /* Image open error */
 "This RAW format isn’t currently supported." = "此 RAW 格式目前不被支援。";
 
@@ -1833,6 +1854,9 @@
 
 /* No comment provided by engineer. */
 "Undo %@" = "還原 %@";
+
+/* No comment provided by engineer. */
+"Undo and Redo" = "Undo and Redo";
 
 /* No comment provided by engineer. */
 "Unfavorite" = "取消最愛";
