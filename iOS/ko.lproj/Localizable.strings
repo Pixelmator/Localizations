@@ -76,7 +76,7 @@
 /* Layer Management */
 "Add Text" = "텍스트 추가";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Adjust Colors" = "색상 조정";
 
 /* No comment provided by engineer. */
@@ -96,6 +96,12 @@
 
 /* No comment provided by engineer. */
 "All presets in group will be reset to the initial color adjustments." = "그룹 안의 모든 프리셋이 원래 색상 조정으로 재설정됩니다.";
+
+/* No comment provided by engineer. */
+"All the color adjustment presets in this collection will be reset to default. This action cannot be undone." = "이 컬렉션의 모든 색상 조정 프리셋이 기본값으로 다시 설정됩니다. 이 작업은 취소할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"All the workflows in this group will be reset to their default settings." = "이 그룹의 모든 작업 흐름이 기본값으로 다시 설정됩니다.";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "알 수 없는 오류가 발생했습니다.";
@@ -319,7 +325,7 @@
 /* No comment provided by engineer. */
 "Color Wheels" = "색상 원판";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Colors" = "색상";
 
 /* No comment provided by engineer. */
@@ -471,6 +477,9 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "양방향 화살표";
+
+/* No comment provided by engineer. */
+"Double-Tap" = "두 번 탭하기";
 
 /* No comment provided by engineer. */
 "Downloading Image" = "이미지 다운로드 중";
@@ -673,9 +682,6 @@
 
 /* No comment provided by engineer. */
 "Glide Reflected" = "글라이드 반사";
-
-/* No comment provided by engineer. */
-"Go to Photographs" = "사진으로 이동";
 
 /* No comment provided by engineer. */
 "Gradient" = "그라디언트";
@@ -978,11 +984,17 @@
 /* No comment provided by engineer. */
 "ML Match Colors" = "ML 일치 색상";
 
-/* No comment provided by engineer. */
+/* Tool */
 "ML Super Resolution" = "ML Super Resolution";
+
+/* No comment provided by engineer. */
+"ML Tool" = "ML 도구";
 
 /* Units */
 "mm" = "mm";
+
+/* No comment provided by engineer. */
+"MODIFIED" = "수정됨";
 
 /* No comment provided by engineer. */
 "More" = "더 보기";
@@ -1051,6 +1063,9 @@
 "OK" = "확인";
 
 /* No comment provided by engineer. */
+"Only Draw with Apple Pencil is Turned On" = "'Apple Pencil로만 그리기'가 켜져 있습니다";
+
+/* No comment provided by engineer. */
 "Op" = "오프";
 
 /* No comment provided by engineer. */
@@ -1081,15 +1096,6 @@
 "Original" = "원본";
 
 /* No comment provided by engineer. */
-"ORIGINAL COLORS" = "원본 색상";
-
-/* No comment provided by engineer. */
-"ORIGINAL COMPOSITION" = "원본 구성";
-
-/* No comment provided by engineer. */
-"ORIGINAL CONTENT" = "원본 콘텐츠";
-
-/* No comment provided by engineer. */
 "ORIGINAL PERSPECTIVE" = "원본 투시도";
 
 /* Effects category name */
@@ -1103,9 +1109,6 @@
 
 /* No comment provided by engineer. */
 "Overwrite" = "덮어쓰기";
-
-/* No comment provided by engineer. */
-"Overwrite Original" = "원본 덮어쓰기";
 
 /* Tool */
 "Paint" = "페인트";
@@ -1276,9 +1279,6 @@
 "Remove" = "제거";
 
 /* No comment provided by engineer. */
-"Remove \"%@\"?" = "\"%@\"을(를) 제거할까요?";
-
-/* No comment provided by engineer. */
 "Remove Color" = "색상 제거";
 
 /* No comment provided by engineer. */
@@ -1313,6 +1313,9 @@
 "Reset Auto Enhance" = "자동 향상 재설정";
 
 /* No comment provided by engineer. */
+"Reset Changes" = "변경 사항 재설정";
+
+/* No comment provided by engineer. */
 "Reset Crop" = "자르기 재설정";
 
 /* Perspective transform */
@@ -1330,20 +1333,32 @@
 /* No comment provided by engineer. */
 "Reset ML Match Colors" = "ML 일치 색상 재설정";
 
+/* No comment provided by engineer. */
+"Reset ML Super Resolution?" = "ML Super Resolution을 재설정할까요?";
+
 /* Perspective transform */
 "Reset Perspective" = "투시도 재설정";
 
 /* No comment provided by engineer. */
-"Reset Repair Changes" = "변경 복구 재설정";
+"Reset Repair tool edits?" = "복구 도구 편집 내용을 재설정할까요?";
+
+/* No comment provided by engineer. */
+"Reset the resolution of this photo to the original." = "이 사진의 해상도를 원래대로 다시 설정합니다.";
 
 /* Perspective transform */
 "Reset Vertical Perspective" = "수직 투시도 재설정";
+
+/* No comment provided by engineer. */
+"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "복구 도구로 수행한 편집 내용을 재설정하면 이 사진의 해상도도 원래대로 복원됩니다.";
 
 /* Tool */
 "Restore" = "복원";
 
 /* No comment provided by engineer. */
 "Restore Layer" = "레이어 복원";
+
+/* No comment provided by engineer. */
+"Restoring the original resolution of this photo will also reset edits made with the Repair tool." = "이 사진의 원래 해상도를 복원하면 복구 도구로 수행한 편집 내용도 재설정됩니다.";
 
 /* No comment provided by engineer. */
 "Revert" = "복귀";
@@ -1439,6 +1454,9 @@
 /* No comment provided by engineer. */
 "Select Images" = "이미지 선택";
 
+/* No comment provided by engineer. */
+"Select Repair Tool" = "복구 도구 선택";
+
 /* Tool */
 "Select Row" = "행 선택";
 
@@ -1500,6 +1518,9 @@
 
 /* No comment provided by engineer. */
 "Show All Photos" = "모든 사진 보기";
+
+/* No comment provided by engineer. */
+"Show Comparison Slider" = "비교 슬라이더 표시";
 
 /* No comment provided by engineer. */
 "Show Files" = "파일 보기";
@@ -1732,6 +1753,9 @@
 /* No comment provided by engineer. */
 "This preset collection will be permanently removed. This action cannot be undone." = "이 프리셋 컬렉션은 영구적으로 제거됩니다. 이 작업은 취소할 수 없습니다.";
 
+/* No comment provided by engineer. */
+"This preset will be reset to its default settings." = "이 프리셋은 기본값으로 다시 설정됩니다.";
+
 /* Image open error */
 "This RAW format isn’t currently supported." = "이 RAW 포맷은 현재 지원되지 않습니다.";
 
@@ -1833,6 +1857,9 @@
 
 /* No comment provided by engineer. */
 "Undo %@" = "%@ 실행 취소";
+
+/* No comment provided by engineer. */
+"Undo and Redo" = "실행 취소 및 다시 실행";
 
 /* No comment provided by engineer. */
 "Unfavorite" = "즐겨찾기에서 제거";

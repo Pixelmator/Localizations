@@ -76,7 +76,7 @@
 /* Layer Management */
 "Add Text" = "Text hinzufügen";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Adjust Colors" = "Farben anpassen";
 
 /* No comment provided by engineer. */
@@ -96,6 +96,12 @@
 
 /* No comment provided by engineer. */
 "All presets in group will be reset to the initial color adjustments." = "Alle Voreinstellungen dieser Gruppe werden auf die anfänglichen Farbanpassungen zurückgesetzt.";
+
+/* No comment provided by engineer. */
+"All the color adjustment presets in this collection will be reset to default. This action cannot be undone." = "Alle Voreinstellungen zur Farbanpassung werden zurückgesetzt. Das kann nicht rückgängig gemacht werden.";
+
+/* No comment provided by engineer. */
+"All the workflows in this group will be reset to their default settings." = "Alle Arbeitsabläufe in dieser Gruppe werden auf die Standardwerte zurückgesetzt.";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "Ein unbekannter Fehler ist aufgetreten.";
@@ -319,7 +325,7 @@
 /* No comment provided by engineer. */
 "Color Wheels" = "Farbräder";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Colors" = "Farben";
 
 /* No comment provided by engineer. */
@@ -471,6 +477,9 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Doppelpfeil";
+
+/* No comment provided by engineer. */
+"Double-Tap" = "Zweimal tippen";
 
 /* No comment provided by engineer. */
 "Downloading Image" = "Bild wird heruntergeladen";
@@ -673,9 +682,6 @@
 
 /* No comment provided by engineer. */
 "Glide Reflected" = "Gleitreflexion";
-
-/* No comment provided by engineer. */
-"Go to Photographs" = "Zu Fotografien gehen";
 
 /* No comment provided by engineer. */
 "Gradient" = "Verlauf";
@@ -978,11 +984,17 @@
 /* No comment provided by engineer. */
 "ML Match Colors" = "Farben mit ML anpassen";
 
-/* No comment provided by engineer. */
+/* Tool */
 "ML Super Resolution" = "ML Super Resolution";
+
+/* No comment provided by engineer. */
+"ML Tool" = "ML-Tool";
 
 /* Units */
 "mm" = "mm";
+
+/* No comment provided by engineer. */
+"MODIFIED" = "MODIFIZIERT";
 
 /* No comment provided by engineer. */
 "More" = "Mehr";
@@ -1051,6 +1063,9 @@
 "OK" = "OK";
 
 /* No comment provided by engineer. */
+"Only Draw with Apple Pencil is Turned On" = "Nur mit Apple Pencil zeichnen ist aktiviert";
+
+/* No comment provided by engineer. */
 "Op" = "OP";
 
 /* No comment provided by engineer. */
@@ -1081,15 +1096,6 @@
 "Original" = "Original";
 
 /* No comment provided by engineer. */
-"ORIGINAL COLORS" = "ORIGINALE FARBEN";
-
-/* No comment provided by engineer. */
-"ORIGINAL COMPOSITION" = "ORIGINALE KOMPOSITION";
-
-/* No comment provided by engineer. */
-"ORIGINAL CONTENT" = "ORIGINALER INHALT";
-
-/* No comment provided by engineer. */
 "ORIGINAL PERSPECTIVE" = "ORIGINALE PERSPEKTIVE";
 
 /* Effects category name */
@@ -1103,9 +1109,6 @@
 
 /* No comment provided by engineer. */
 "Overwrite" = "Überschreiben";
-
-/* No comment provided by engineer. */
-"Overwrite Original" = "Original überschreiben";
 
 /* Tool */
 "Paint" = "Zeichnung";
@@ -1276,9 +1279,6 @@
 "Remove" = "Entfernen";
 
 /* No comment provided by engineer. */
-"Remove \"%@\"?" = "\"%@\" entfernen?";
-
-/* No comment provided by engineer. */
 "Remove Color" = "Farbe entfernen";
 
 /* No comment provided by engineer. */
@@ -1313,6 +1313,9 @@
 "Reset Auto Enhance" = "Auto-Verbesserung zurücksetzen";
 
 /* No comment provided by engineer. */
+"Reset Changes" = "Änderungen zurücksetzen";
+
+/* No comment provided by engineer. */
 "Reset Crop" = "Schnitt zurücksetzen";
 
 /* Perspective transform */
@@ -1330,20 +1333,32 @@
 /* No comment provided by engineer. */
 "Reset ML Match Colors" = "ML-Farbanpassung zurücksetzen";
 
+/* No comment provided by engineer. */
+"Reset ML Super Resolution?" = "ML-Super-Resolution zurücksetzen?";
+
 /* Perspective transform */
 "Reset Perspective" = "Perspektive zurücksetzen";
 
 /* No comment provided by engineer. */
-"Reset Repair Changes" = "Reparatur-Änderungen zurücksetzen";
+"Reset Repair tool edits?" = "Änderungen des Reparaturpinsels zurücksetzen?";
+
+/* No comment provided by engineer. */
+"Reset the resolution of this photo to the original." = "Setzt die Auflösung dieses Fotos auf die Originalwerte zurück.";
 
 /* Perspective transform */
 "Reset Vertical Perspective" = "Vertikale Perspektive zurücksetzen";
+
+/* No comment provided by engineer. */
+"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "Mit dem Reparaturpinsel gemachte Änderungen zurücksetzen stellt auch die ursprüngliche Auflösung dieses Fotos wieder her.";
 
 /* Tool */
 "Restore" = "Wiederherstellen";
 
 /* No comment provided by engineer. */
 "Restore Layer" = "Ebene wiederherstellen";
+
+/* No comment provided by engineer. */
+"Restoring the original resolution of this photo will also reset edits made with the Repair tool." = "Das Zurücksetzen der Auslöung dieses Fotos setzt auch die mit dem Reparaturpinsel gemachten Änderungen zurück.";
 
 /* No comment provided by engineer. */
 "Revert" = "Letzte Version";
@@ -1439,6 +1454,9 @@
 /* No comment provided by engineer. */
 "Select Images" = "Bilder auswählen";
 
+/* No comment provided by engineer. */
+"Select Repair Tool" = "Reparaturpinsel auswählen";
+
 /* Tool */
 "Select Row" = "Zeile auswählen";
 
@@ -1500,6 +1518,9 @@
 
 /* No comment provided by engineer. */
 "Show All Photos" = "Alle Fotos anzeigen";
+
+/* No comment provided by engineer. */
+"Show Comparison Slider" = "Vergleichsleiste anzeigen";
 
 /* No comment provided by engineer. */
 "Show Files" = "Dateien anzeigen";
@@ -1732,6 +1753,9 @@
 /* No comment provided by engineer. */
 "This preset collection will be permanently removed. This action cannot be undone." = "Diese Voreinstellungsbibliothek wird dauerhaft gelöscht. Das kann nicht rückgängig gemacht werden.";
 
+/* No comment provided by engineer. */
+"This preset will be reset to its default settings." = "Diese Voreinstellung wird auf ihren Ausgangswert zurückgesetzt.";
+
 /* Image open error */
 "This RAW format isn’t currently supported." = "Dieses RAW-Format wird zurzeit nicht unterstützt.";
 
@@ -1833,6 +1857,9 @@
 
 /* No comment provided by engineer. */
 "Undo %@" = "%@ rückgängig machen";
+
+/* No comment provided by engineer. */
+"Undo and Redo" = "Rückgängig und Erneut";
 
 /* No comment provided by engineer. */
 "Unfavorite" = "Aus Favoriten entfernen";

@@ -76,7 +76,7 @@
 /* Layer Management */
 "Add Text" = "Добавить текст";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Adjust Colors" = "Настроить цвета";
 
 /* No comment provided by engineer. */
@@ -96,6 +96,12 @@
 
 /* No comment provided by engineer. */
 "All presets in group will be reset to the initial color adjustments." = "Все наборы в группе будут сброшены на исходные корректировки цвета.";
+
+/* No comment provided by engineer. */
+"All the color adjustment presets in this collection will be reset to default. This action cannot be undone." = "Наборы цветокоррекции этой коллекции будут сброшены на значения по умолчанию. Результаты этого действия отменить нельзя.";
+
+/* No comment provided by engineer. */
+"All the workflows in this group will be reset to their default settings." = "Все процессы этой группы будут сброшены к их значениям по умолчанию.";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "Неизвестная ошибка.";
@@ -319,7 +325,7 @@
 /* No comment provided by engineer. */
 "Color Wheels" = "Цветовые круги";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Colors" = "Цвета";
 
 /* No comment provided by engineer. */
@@ -471,6 +477,9 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Двусторонняя стрелка";
+
+/* No comment provided by engineer. */
+"Double-Tap" = "Двойное нажатие";
 
 /* No comment provided by engineer. */
 "Downloading Image" = "Загрузка изображения";
@@ -673,9 +682,6 @@
 
 /* No comment provided by engineer. */
 "Glide Reflected" = "Отражение скольжения";
-
-/* No comment provided by engineer. */
-"Go to Photographs" = "Перейти к фотографиям";
 
 /* No comment provided by engineer. */
 "Gradient" = "Градиент";
@@ -978,11 +984,17 @@
 /* No comment provided by engineer. */
 "ML Match Colors" = "Машинно-обучаемая подгонка цвета";
 
-/* No comment provided by engineer. */
+/* Tool */
 "ML Super Resolution" = "ML Super Resolution";
+
+/* No comment provided by engineer. */
+"ML Tool" = "ML-инструмент";
 
 /* Units */
 "mm" = "мм";
+
+/* No comment provided by engineer. */
+"MODIFIED" = "ИЗМЕНЕНО";
 
 /* No comment provided by engineer. */
 "More" = "Еще";
@@ -1051,6 +1063,9 @@
 "OK" = "OK";
 
 /* No comment provided by engineer. */
+"Only Draw with Apple Pencil is Turned On" = "Рисовать, только когда Apple Pencil включен";
+
+/* No comment provided by engineer. */
 "Op" = "Оптик";
 
 /* No comment provided by engineer. */
@@ -1081,15 +1096,6 @@
 "Original" = "Исходный";
 
 /* No comment provided by engineer. */
-"ORIGINAL COLORS" = "ИСХОДНЫЕ ЦВЕТА";
-
-/* No comment provided by engineer. */
-"ORIGINAL COMPOSITION" = "ИСХОДНАЯ КОМПОЗИЦИЯ";
-
-/* No comment provided by engineer. */
-"ORIGINAL CONTENT" = "ИСХОДНЫЙ КОНТЕНТ";
-
-/* No comment provided by engineer. */
 "ORIGINAL PERSPECTIVE" = "ИСХОДНАЯ ПЕРСПЕКТИВА";
 
 /* Effects category name */
@@ -1103,9 +1109,6 @@
 
 /* No comment provided by engineer. */
 "Overwrite" = "Перезаписать";
-
-/* No comment provided by engineer. */
-"Overwrite Original" = "Переписать оригинал";
 
 /* Tool */
 "Paint" = "Закраска";
@@ -1276,9 +1279,6 @@
 "Remove" = "Удалить";
 
 /* No comment provided by engineer. */
-"Remove \"%@\"?" = "Удалить \"%@\"?";
-
-/* No comment provided by engineer. */
 "Remove Color" = "Удалить цвет";
 
 /* No comment provided by engineer. */
@@ -1313,6 +1313,9 @@
 "Reset Auto Enhance" = "Сбросить Автоулучшение";
 
 /* No comment provided by engineer. */
+"Reset Changes" = "Сбросить изменения";
+
+/* No comment provided by engineer. */
 "Reset Crop" = "Сбросить обрезку";
 
 /* Perspective transform */
@@ -1330,20 +1333,32 @@
 /* No comment provided by engineer. */
 "Reset ML Match Colors" = "Сброс ML Match Colors";
 
+/* No comment provided by engineer. */
+"Reset ML Super Resolution?" = "Сбросить ML супер-разрешение?";
+
 /* Perspective transform */
 "Reset Perspective" = "Сбросить перспективу";
 
 /* No comment provided by engineer. */
-"Reset Repair Changes" = "Сбросить правку исправления";
+"Reset Repair tool edits?" = "Сбросить правку инструментом исправления?";
+
+/* No comment provided by engineer. */
+"Reset the resolution of this photo to the original." = "Сбросить разрешение фото к исходному значению.";
 
 /* Perspective transform */
 "Reset Vertical Perspective" = "Сбросить вертикальную перспективу";
+
+/* No comment provided by engineer. */
+"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "Сброс правок, сделанных инструментом исправления, также приведёт к восстановлению разрешения к оригинальному.";
 
 /* Tool */
 "Restore" = "Восстановить";
 
 /* No comment provided by engineer. */
 "Restore Layer" = "Восстановить слой";
+
+/* No comment provided by engineer. */
+"Restoring the original resolution of this photo will also reset edits made with the Repair tool." = "Возвращение к исходному разрешению этого фото также приведёт к сбросу правок, сделанных инструментом исправления.";
 
 /* No comment provided by engineer. */
 "Revert" = "Вернуть";
@@ -1439,6 +1454,9 @@
 /* No comment provided by engineer. */
 "Select Images" = "Выбрать изображения";
 
+/* No comment provided by engineer. */
+"Select Repair Tool" = "Выбрать Инструмент Исправление";
+
 /* Tool */
 "Select Row" = "Выбрать строку";
 
@@ -1500,6 +1518,9 @@
 
 /* No comment provided by engineer. */
 "Show All Photos" = "Показать все фото";
+
+/* No comment provided by engineer. */
+"Show Comparison Slider" = "Показать ползунок сравнения";
 
 /* No comment provided by engineer. */
 "Show Files" = "Показать файлы";
@@ -1732,6 +1753,9 @@
 /* No comment provided by engineer. */
 "This preset collection will be permanently removed. This action cannot be undone." = "Эта коллекция наборов будет окончательно удалена. Результаты этого действия отменить нельзя.";
 
+/* No comment provided by engineer. */
+"This preset will be reset to its default settings." = "Этот набор будет сброшен к значениям по умолчанию.";
+
 /* Image open error */
 "This RAW format isn’t currently supported." = "RAW-формат не поддерживается в данный момент.";
 
@@ -1833,6 +1857,9 @@
 
 /* No comment provided by engineer. */
 "Undo %@" = "Отменить «%@»";
+
+/* No comment provided by engineer. */
+"Undo and Redo" = "Отменить и Повторить";
 
 /* No comment provided by engineer. */
 "Unfavorite" = "Убрать из Избранного";

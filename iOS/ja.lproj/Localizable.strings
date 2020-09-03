@@ -76,7 +76,7 @@
 /* Layer Management */
 "Add Text" = "テキストを追加";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Adjust Colors" = "カラーを調整";
 
 /* No comment provided by engineer. */
@@ -96,6 +96,12 @@
 
 /* No comment provided by engineer. */
 "All presets in group will be reset to the initial color adjustments." = "グループ内のすべてのプリセットは、初期のカラー調整にリセットされます。";
+
+/* No comment provided by engineer. */
+"All the color adjustment presets in this collection will be reset to default. This action cannot be undone." = "このコレクションのすべての色調整プリセットはデフォルトにリセットされます。 この操作は元に戻せません。";
+
+/* No comment provided by engineer. */
+"All the workflows in this group will be reset to their default settings." = "このグループのすべてのワークフローは、デフォルト設定にリセットされます。";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "不明なエラーが起きました。";
@@ -319,7 +325,7 @@
 /* No comment provided by engineer. */
 "Color Wheels" = "カラーホイール";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Colors" = "カラー";
 
 /* No comment provided by engineer. */
@@ -471,6 +477,9 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "両方向矢印";
+
+/* No comment provided by engineer. */
+"Double-Tap" = "ダブルタップ";
 
 /* No comment provided by engineer. */
 "Downloading Image" = "画像をダウンロード中";
@@ -673,9 +682,6 @@
 
 /* No comment provided by engineer. */
 "Glide Reflected" = "グレイド反射";
-
-/* No comment provided by engineer. */
-"Go to Photographs" = "写真に移動";
 
 /* No comment provided by engineer. */
 "Gradient" = "グラデーション";
@@ -978,11 +984,17 @@
 /* No comment provided by engineer. */
 "ML Match Colors" = "ML カラーマッチ";
 
-/* No comment provided by engineer. */
+/* Tool */
 "ML Super Resolution" = "ML Super Resolution";
+
+/* No comment provided by engineer. */
+"ML Tool" = "MLツール";
 
 /* Units */
 "mm" = "ミリ";
+
+/* No comment provided by engineer. */
+"MODIFIED" = "編集済み";
 
 /* No comment provided by engineer. */
 "More" = "詳細";
@@ -1051,6 +1063,9 @@
 "OK" = "OK";
 
 /* No comment provided by engineer. */
+"Only Draw with Apple Pencil is Turned On" = "Apple Pencilでの描画のみがオン";
+
+/* No comment provided by engineer. */
 "Op" = "オプ";
 
 /* No comment provided by engineer. */
@@ -1081,15 +1096,6 @@
 "Original" = "オリジナル";
 
 /* No comment provided by engineer. */
-"ORIGINAL COLORS" = "元の色";
-
-/* No comment provided by engineer. */
-"ORIGINAL COMPOSITION" = "元の構図";
-
-/* No comment provided by engineer. */
-"ORIGINAL CONTENT" = "元の内容";
-
-/* No comment provided by engineer. */
 "ORIGINAL PERSPECTIVE" = "元の視点";
 
 /* Effects category name */
@@ -1103,9 +1109,6 @@
 
 /* No comment provided by engineer. */
 "Overwrite" = "上書き";
-
-/* No comment provided by engineer. */
-"Overwrite Original" = "オリジナルを上書き";
 
 /* Tool */
 "Paint" = "ペイント";
@@ -1276,9 +1279,6 @@
 "Remove" = "削除";
 
 /* No comment provided by engineer. */
-"Remove \"%@\"?" = "\"%@\"を削除？";
-
-/* No comment provided by engineer. */
 "Remove Color" = "カラーを削除";
 
 /* No comment provided by engineer. */
@@ -1313,6 +1313,9 @@
 "Reset Auto Enhance" = "自動補正をリセット";
 
 /* No comment provided by engineer. */
+"Reset Changes" = "変更をリセット";
+
+/* No comment provided by engineer. */
 "Reset Crop" = "切り抜きをリセット";
 
 /* Perspective transform */
@@ -1330,20 +1333,32 @@
 /* No comment provided by engineer. */
 "Reset ML Match Colors" = "ML カラーマッチをリセット";
 
+/* No comment provided by engineer. */
+"Reset ML Super Resolution?" = "ML 超解像度をリセット？";
+
 /* Perspective transform */
 "Reset Perspective" = "視点をリセット";
 
 /* No comment provided by engineer. */
-"Reset Repair Changes" = "修復の変更をリセット";
+"Reset Repair tool edits?" = "修復ツールの編集をリセット？";
+
+/* No comment provided by engineer. */
+"Reset the resolution of this photo to the original." = "この写真の解像度を元に戻します。";
 
 /* Perspective transform */
 "Reset Vertical Perspective" = "垂直方向の視点をリセット";
+
+/* No comment provided by engineer. */
+"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "修復ツールで行った編集をリセットすると、この写真の解像度も元に戻ります。";
 
 /* Tool */
 "Restore" = "復元";
 
 /* No comment provided by engineer. */
 "Restore Layer" = "レイヤーを復元";
+
+/* No comment provided by engineer. */
+"Restoring the original resolution of this photo will also reset edits made with the Repair tool." = "この写真の元の解像度を復元すると、修復ツールで行った編集もリセットされます。";
 
 /* No comment provided by engineer. */
 "Revert" = "元に戻す";
@@ -1439,6 +1454,9 @@
 /* No comment provided by engineer. */
 "Select Images" = "画像を選択";
 
+/* No comment provided by engineer. */
+"Select Repair Tool" = "修復ツールを選択";
+
 /* Tool */
 "Select Row" = "行を選択";
 
@@ -1500,6 +1518,9 @@
 
 /* No comment provided by engineer. */
 "Show All Photos" = "すべての写真を表示";
+
+/* No comment provided by engineer. */
+"Show Comparison Slider" = "比較スライダーを表示";
 
 /* No comment provided by engineer. */
 "Show Files" = "ファイルを表示";
@@ -1732,6 +1753,9 @@
 /* No comment provided by engineer. */
 "This preset collection will be permanently removed. This action cannot be undone." = "このプリセットコレクションは完全に削除されます。この操作は元に戻せません。";
 
+/* No comment provided by engineer. */
+"This preset will be reset to its default settings." = "このプリセットはデフォルト設定にリセットされます。";
+
 /* Image open error */
 "This RAW format isn’t currently supported." = "このRAWフォーマットは現在サポートされていません。";
 
@@ -1833,6 +1857,9 @@
 
 /* No comment provided by engineer. */
 "Undo %@" = "%@を取り消す";
+
+/* No comment provided by engineer. */
+"Undo and Redo" = "取り消しとやり直し";
 
 /* No comment provided by engineer. */
 "Unfavorite" = "お気に入りではない";
