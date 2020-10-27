@@ -59,13 +59,10 @@
 "1 Point" = "1 個點";
 
 /* No comment provided by engineer. */
-"16:9" = "16:9";
+"16-bits per channel" = "每通道 16 位";
 
 /* No comment provided by engineer. */
 "180°" = "180°";
-
-/* No comment provided by engineer. */
-"2:3" = "2:3";
 
 /* No comment provided by engineer. */
 "2x" = "2x";
@@ -77,19 +74,10 @@
 "3-Way Color" = "三路顏色";
 
 /* No comment provided by engineer. */
-"3:2" = "3:2";
-
-/* No comment provided by engineer. */
-"3:4" = "3:4";
-
-/* No comment provided by engineer. */
 "3x" = "3x";
 
 /* No comment provided by engineer. */
 "45°" = "45°";
-
-/* No comment provided by engineer. */
-"4:3" = "4:3";
 
 /* color picker sample size area */
 "5 by 5" = "5 x 5";
@@ -98,10 +86,10 @@
 "5x" = "5x";
 
 /* No comment provided by engineer. */
-"90°" = "90°";
+"8-bits per channel" = "每通道 8 位";
 
 /* No comment provided by engineer. */
-"9:16" = "9:16";
+"90°" = "90°";
 
 /* No comment provided by engineer. */
 "\"%@\" Color Adjustment" = "\"%@\" 顏色調整";
@@ -119,9 +107,6 @@
 "Actual Size" = "實際大小";
 
 /* No comment provided by engineer. */
-"Add" = "添加";
-
-/* No comment provided by engineer. */
 "Add %@" = "添加 %@";
 
 /* No comment provided by engineer. */
@@ -132,9 +117,6 @@
 
 /* No comment provided by engineer. */
 "Add Color Tag" = "添加顏色標籤";
-
-/* No comment provided by engineer. */
-"Add Effects" = "添加效果";
 
 /* No comment provided by engineer. */
 "Add for Export..." = "添加以匯出...";
@@ -158,6 +140,9 @@
 "Add Point" = "添加點";
 
 /* No comment provided by engineer. */
+"Add Preset" = "Add Preset";
+
+/* No comment provided by engineer. */
 "Add Slice" = "添加切片";
 
 /* No comment provided by engineer. */
@@ -165,12 +150,6 @@
 
 /* No comment provided by engineer. */
 "Add to Shape" = "添加到形狀";
-
-/* No comment provided by engineer. */
-"Adjust" = "調整";
-
-/* No comment provided by engineer. */
-"Adjust Colors" = "調整顏色";
 
 /* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "調整顏色的亮度與飽和度。";
@@ -218,6 +197,9 @@
 "All rights reserved." = "保留一切權利.";
 
 /* No comment provided by engineer. */
+"Allow Access" = "Allow Access";
+
+/* No comment provided by engineer. */
 "Angle" = "角度";
 
 /* No comment provided by engineer. */
@@ -241,8 +223,11 @@
 /* No comment provided by engineer. */
 "Are you sure you want to remove the entire collection?" = "您確定要移除整個預設組嗎？";
 
-/* collection name */
+/* No comment provided by engineer. */
 "Are you sure you want to remove the entire “%@” collection?" = "您確定要移除整個預設組「%@」嗎？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove the “%@” preset?" = "Are you sure you want to remove the “%@” preset?";
 
 /* No comment provided by engineer. */
 "Arrange" = "排列";
@@ -470,7 +455,22 @@
 "Checkerboard" = "棋盤式";
 
 /* No comment provided by engineer. */
+"Choose a color adjustments collection." = "Choose a color adjustments collection.";
+
+/* No comment provided by engineer. */
 "Choose a color palette." = "選擇色盤。";
+
+/* No comment provided by engineer. */
+"Choose a effects collection." = "Choose a effects collection.";
+
+/* No comment provided by engineer. */
+"Choose a gradients collection." = "Choose a gradients collection.";
+
+/* No comment provided by engineer. */
+"Choose a shapes collection." = "Choose a shapes collection.";
+
+/* No comment provided by engineer. */
+"Choose a styles collection." = "Choose a styles collection.";
 
 /* No comment provided by engineer. */
 "Choose a Template" = "選取樣板";
@@ -518,7 +518,13 @@
 "Clear Slices" = "清除切片";
 
 /* No comment provided by engineer. */
+"Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "按一下以選取一種顏色。";
+
+/* No comment provided by engineer. */
+"Click to hide or show the color adjustment presets." = "Click to hide or show the color adjustment presets.";
 
 /* No comment provided by engineer. */
 "Click to hide or show the color picker." = "點擊以隱藏或顯示檢色器。";
@@ -527,7 +533,49 @@
 "Click to hide or show the color swatches." = "點擊以隱藏或顯示色票。";
 
 /* No comment provided by engineer. */
+"Click to hide or show the effect presets." = "Click to hide or show the effect presets.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the shape presets." = "Click to hide or show the shape presets.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the style presets." = "Click to hide or show the style presets.";
+
+/* No comment provided by engineer. */
+"Click to pick a color from your image" = "Click to pick a color from your image";
+
+/* No comment provided by engineer. */
 "Click to pick a color from your image." = "按一下以從圖像中選取顏色。";
+
+/* No comment provided by engineer. */
+"Click to pick a source color from your image" = "Click to pick a source color from your image";
+
+/* No comment provided by engineer. */
+"Click to pick a target color from your image" = "Click to pick a target color from your image";
+
+/* No comment provided by engineer. */
+"Click to set the black point for the red, green, and blue levels" = "Click to set the black point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the black point on the red, green, and blue curves" = "Click to set the black point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to set the gray point for the red, green, and blue levels" = "Click to set the gray point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the gray point in the image" = "Click to set the gray point in the image";
+
+/* No comment provided by engineer. */
+"Click to set the gray point on the red, green, and blue curves" = "Click to set the gray point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to set the white point for the red, green, and blue levels" = "Click to set the white point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the white point on the red, green, and blue curves" = "Click to set the white point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to show color panel." = "Click to show color panel.";
 
 /* No comment provided by engineer. */
 "Click to show or hide the Colors window." = "點擊以顯示或隱藏顏色視窗。";
@@ -548,13 +596,13 @@
 "CMYK Profiles" = "CMYK 色彩描述";
 
 /* No comment provided by engineer. */
+"Collection" = "Collection";
+
+/* No comment provided by engineer. */
 "Collections" = "書籤集";
 
 /* No comment provided by engineer. */
 "Color" = "顏色";
-
-/* No comment provided by engineer. */
-"Color Adjustment" = "色彩調整";
 
 /* Effects category name */
 "Color Adjustments" = "顏色調整";
@@ -569,6 +617,9 @@
 "Color Depth" = "色彩深度";
 
 /* No comment provided by engineer. */
+"Color Depth:" = "色彩深度：";
+
+/* No comment provided by engineer. */
 "Color Dodge" = "加亮顏色";
 
 /* No comment provided by engineer. */
@@ -579,6 +630,9 @@
 
 /* No comment provided by engineer. */
 "Color Noise Reduction" = "減少顏色雜訊";
+
+/* No comment provided by engineer. */
+"Color Palette" = "Color Palette";
 
 /* No comment provided by engineer. */
 "Color Palettes" = "色盤";
@@ -617,6 +671,9 @@
 "Constant" = "常數";
 
 /* No comment provided by engineer. */
+"Constrain" = "Constrain";
+
+/* No comment provided by engineer. */
 "Constrain Proportions" = "強制等比例";
 
 /* No comment provided by engineer. */
@@ -635,10 +692,13 @@
 "Convert into Shape" = "轉換成圖形";
 
 /* No comment provided by engineer. */
+"Copy" = "拷貝";
+
+/* No comment provided by engineer. */
 "copy" = "拷貝";
 
 /* No comment provided by engineer. */
-"Copy" = "拷貝";
+"Copy %@" = "Copy %@";
 
 /* No comment provided by engineer. */
 "Copy Adjustments" = "拷貝調整";
@@ -677,12 +737,6 @@
 "Crop" = "裁切";
 
 /* No comment provided by engineer. */
-"Crop Preset" = "裁切預設";
-
-/* No comment provided by engineer. */
-"Crop Presets" = "裁切預設";
-
-/* No comment provided by engineer. */
 "Crop Tool" = "裁切工具";
 
 /* No comment provided by engineer. */
@@ -701,7 +755,13 @@
 "Custom" = "自訂";
 
 /* No comment provided by engineer. */
-"Custom Shape" = "自訂形狀";
+"Custom Shapes" = "Custom Shapes";
+
+/* No comment provided by engineer. */
+"Customize Layout..." = "Customize Layout...";
+
+/* No comment provided by engineer. */
+"Customize Tools..." = "Customize Tools...";
 
 /* No comment provided by engineer. */
 "Cut" = "剪下";
@@ -741,9 +801,6 @@
 
 /* No comment provided by engineer. */
 "Delete Path" = "刪除路徑";
-
-/* No comment provided by engineer. */
-"Delete Paths" = "刪除路徑";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "刪除切片";
@@ -845,6 +902,9 @@
 "Don't Save" = "不儲存";
 
 /* No comment provided by engineer. */
+"Done" = "完成";
+
+/* No comment provided by engineer. */
 "Don’t Allow" = "不允許";
 
 /* No comment provided by engineer. */
@@ -860,16 +920,19 @@
 "Drag and drop images here to match their colors using machine learning." = "在這裡拖放影像，以使用機器學習匹配其顏色。";
 
 /* No comment provided by engineer. */
-"Draw" = "繪製";
+"Drag to adjust the position of the gradient" = "Drag to adjust the position of the gradient";
+
+/* No comment provided by engineer. */
+"Drag your favorite tools into the list above..." = "Drag your favorite tools into the list above...";
 
 /* No comment provided by engineer. */
 "Draw Path" = "繪製路徑";
 
 /* No comment provided by engineer. */
-"Draw Shape" = "繪製形狀";
+"Draw Slice" = "繪製切片";
 
 /* No comment provided by engineer. */
-"Draw Slice" = "繪製切片";
+"Drawing" = "Drawing";
 
 /* No comment provided by engineer. */
 "Droste" = "德羅斯特效應";
@@ -899,7 +962,7 @@
 "Edit Slice" = "編輯切片";
 
 /* No comment provided by engineer. */
-"Effect" = "效果";
+"EDR Mode" = "EDR Mode";
 
 /* No comment provided by engineer. */
 "Effects" = "效果";
@@ -909,6 +972,9 @@
 
 /* No comment provided by engineer. */
 "Ellipse" = "橢圓";
+
+/* No comment provided by engineer. */
+"Ellipse Shape" = "Ellipse Shape";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "橢圓選取";
@@ -962,19 +1028,37 @@
 "Export" = "匯出";
 
 /* No comment provided by engineer. */
+"Export All Effects" = "Export All Effects";
+
+/* No comment provided by engineer. */
 "Export All..." = "匯出所有...";
 
 /* No comment provided by engineer. */
 "Export As:" = "匯出為：";
 
 /* No comment provided by engineer. */
-"Export Color Palette" = "匯出色盤";
+"Export Color Adjustments" = "Export Color Adjustments";
+
+/* No comment provided by engineer. */
+"Export Color Palettes" = "Export Color Palettes";
+
+/* No comment provided by engineer. */
+"Export Custom Shapes" = "Export Custom Shapes";
 
 /* No comment provided by engineer. */
 "Export Document as Images" = "將文件匯出為影像";
 
 /* No comment provided by engineer. */
+"Export Effects" = "Export Effects";
+
+/* No comment provided by engineer. */
 "Export for Web" = "為 Web 匯出";
+
+/* No comment provided by engineer. */
+"Export Gradient Collection" = "Export Gradient Collection";
+
+/* No comment provided by engineer. */
+"Export Layer Styles" = "Export Layer Styles";
 
 /* No comment provided by engineer. */
 "Export Library" = "匯出庫";
@@ -1011,6 +1095,9 @@
 
 /* No comment provided by engineer. */
 "Exposure" = "曝光";
+
+/* No comment provided by engineer. */
+"Extension" = "延伸功能";
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
@@ -1067,6 +1154,9 @@
 "Finish Selection" = "完成選取";
 
 /* No comment provided by engineer. */
+"Fit" = "適中";
+
+/* No comment provided by engineer. */
 "Fixed" = "已修復";
 
 /* No comment provided by engineer. */
@@ -1077,6 +1167,9 @@
 
 /* No comment provided by engineer. */
 "Flatten Styles" = "平坦樣式";
+
+/* No comment provided by engineer. */
+"Flexible Space" = "Flexible Space";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "水平翻轉";
@@ -1100,9 +1193,6 @@
 "Foreground Color" = "前景色";
 
 /* No comment provided by engineer. */
-"Format" = "格式";
-
-/* No comment provided by engineer. */
 "Fourfold" = "四倍";
 
 /* No comment provided by engineer. */
@@ -1112,13 +1202,13 @@
 "Fourfold Translated" = "四倍轉換";
 
 /* No comment provided by engineer. */
-"Free Select" = "自由選取";
+"Free From Shape" = "Free From Shape";
 
 /* No comment provided by engineer. */
 "Free Selection" = "自由選取";
 
 /* No comment provided by engineer. */
-"Freeform" = "多邊形";
+"Freeform Pen" = "自由鋼筆";
 
 /* No comment provided by engineer. */
 "Freeform Type" = "多邊形輸入";
@@ -1161,6 +1251,9 @@
 
 /* No comment provided by engineer. */
 "Gradient Angle" = "漸變角度";
+
+/* No comment provided by engineer. */
+"Gradient Collection" = "Gradient Collection";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "漸變填充";
@@ -1214,6 +1307,9 @@
 "Halo" = "光輪效果";
 
 /* No comment provided by engineer. */
+"Hand" = "手";
+
+/* No comment provided by engineer. */
 "Hard Light" = "實光";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1338,6 @@
 
 /* No comment provided by engineer. */
 "Hide Fonts" = "隱藏字體";
-
-/* No comment provided by engineer. */
-"Hide Gradients" = "隱藏漸變";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "隱藏網格";
@@ -1287,9 +1380,6 @@
 
 /* No comment provided by engineer. */
 "Hide Selection Handles" = "隱藏選取手柄";
-
-/* No comment provided by engineer. */
-"Hide Shapes" = "隱藏形狀";
 
 /* No comment provided by engineer. */
 "Hide Tab Bar" = "隱藏標籤列";
@@ -1355,6 +1445,9 @@
 "Import" = "匯入";
 
 /* No comment provided by engineer. */
+"Import All" = "全部匯入";
+
+/* No comment provided by engineer. */
 "Import..." = "匯入...";
 
 /* short for inches */
@@ -1362,6 +1455,9 @@
 
 /* No comment provided by engineer. */
 "Inches" = "英吋";
+
+/* No comment provided by engineer. */
+"inches" = "英吋";
 
 /* No comment provided by engineer. */
 "Initial Crop" = "原始裁剪";
@@ -1442,6 +1538,9 @@
 "Layer Menu" = "圖層選單";
 
 /* No comment provided by engineer. */
+"Layer Styles" = "Layer Styles";
+
+/* No comment provided by engineer. */
 "Learn more" = "瞭解更多資訊";
 
 /* No comment provided by engineer. */
@@ -1482,6 +1581,9 @@
 
 /* No comment provided by engineer. */
 "Line Height" = "行高";
+
+/* No comment provided by engineer. */
+"Line Shape" = "Line Shape";
 
 /* No comment provided by engineer. */
 "Linear Burn" = "線性加深";
@@ -1527,9 +1629,6 @@
 
 /* No comment provided by engineer. */
 "Magenta / Green" = "洋紅色/綠色";
-
-/* No comment provided by engineer. */
-"Magnetic Select" = "磁性選取";
 
 /* No comment provided by engineer. */
 "Magnetic Selection" = "磁性選取範圍";
@@ -1622,6 +1721,9 @@
 "Move" = "移動";
 
 /* No comment provided by engineer. */
+"Move %@" = "Move %@";
+
+/* No comment provided by engineer. */
 "Move Guide" = "移動輔助線";
 
 /* No comment provided by engineer. */
@@ -1646,7 +1748,7 @@
 "Mustache" = "鬍子";
 
 /* No comment provided by engineer. */
-"New" = "新增";
+"New Collection" = "New Collection";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "新建橢圓形狀";
@@ -1662,6 +1764,42 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "新建線條形狀";
+
+/* No comment provided by engineer. */
+"New name for color adjustments collection:" = "New name for color adjustments collection:";
+
+/* No comment provided by engineer. */
+"New name for color adjustments:" = "New name for color adjustments:";
+
+/* No comment provided by engineer. */
+"New name for color palette:" = "色盤的新名稱：";
+
+/* No comment provided by engineer. */
+"New name for color preset:" = "New name for color preset:";
+
+/* No comment provided by engineer. */
+"New name for effects collection:" = "New name for effects collection:";
+
+/* No comment provided by engineer. */
+"New name for effects preset:" = "New name for effects preset:";
+
+/* No comment provided by engineer. */
+"New name for gradient collection:" = "New name for gradient collection:";
+
+/* No comment provided by engineer. */
+"New name for layer style collection:" = "New name for layer style collection:";
+
+/* No comment provided by engineer. */
+"New name for layout preset:" = "New name for layout preset:";
+
+/* No comment provided by engineer. */
+"New name for shape collection:" = "New name for shape collection:";
+
+/* No comment provided by engineer. */
+"New name for shape preset:" = "New name for shape preset:";
+
+/* No comment provided by engineer. */
+"New name for style preset:" = "New name for style preset:";
 
 /* No comment provided by engineer. */
 "New Polygon Shape" = "新建多邊形形狀";
@@ -1688,7 +1826,16 @@
 "New..." = "新增⋯";
 
 /* No comment provided by engineer. */
+"No camera or scanner connected." = "尚未連接相機或掃描器。";
+
+/* No comment provided by engineer. */
+"No camera or scanner selected." = "尚未選取相機或掃描器。";
+
+/* No comment provided by engineer. */
 "No Color Profile" = "無色彩描述";
+
+/* No comment provided by engineer. */
+"No Photos" = "沒有照片";
 
 /* No comment provided by engineer. */
 "No Recent Documents" = "沒有最近使用過的文件";
@@ -1772,6 +1919,9 @@
 "Paint and Sketch" = "繪圖與素描";
 
 /* No comment provided by engineer. */
+"Painting" = "Painting";
+
+/* No comment provided by engineer. */
 "Pass Through" = "通過";
 
 /* No comment provided by engineer. */
@@ -1823,6 +1973,12 @@
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
+"Pen" = "筆";
+
+/* No comment provided by engineer. */
+"Pencil" = "鉛筆";
+
+/* No comment provided by engineer. */
 "Percent" = "百分比";
 
 /* No comment provided by engineer. */
@@ -1868,7 +2024,19 @@
 "Pixels" = "像素";
 
 /* No comment provided by engineer. */
+"pixels" = "圖元";
+
+/* No comment provided by engineer. */
+"pixels/cm" = "圖元∕公分";
+
+/* No comment provided by engineer. */
+"pixels/inch" = "圖元∕英吋";
+
+/* No comment provided by engineer. */
 "PNG" = "PNG";
+
+/* No comment provided by engineer. */
+"points" = "點";
 
 /* No comment provided by engineer. */
 "Points: %d" = "點：%d";
@@ -1877,10 +2045,10 @@
 "Polygon" = "多邊形";
 
 /* No comment provided by engineer. */
-"Polygonal Select" = "多邊形選取";
+"Polygonal Selection" = "多邊形選取範圍";
 
 /* No comment provided by engineer. */
-"Polygonal Selection" = "多邊形選取範圍";
+"Polygonal Shape" = "Polygonal Shape";
 
 /* No comment provided by engineer. */
 "Position" = "位置";
@@ -1922,9 +2090,6 @@
 "Quick Export" = "快速匯出";
 
 /* No comment provided by engineer. */
-"Quick Select" = "快速選取";
-
-/* No comment provided by engineer. */
 "Quick Selection" = "快速選取範圍";
 
 /* No comment provided by engineer. */
@@ -1962,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Rectangle" = "矩形";
+
+/* No comment provided by engineer. */
+"Rectangle Shape" = "Rectangle Shape";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "矩形選取";
@@ -2003,22 +2171,22 @@
 "Remove %@" = "移除 %@";
 
 /* No comment provided by engineer. */
+"Remove \"\(label)\"" = "Remove \"\\(label)\"";
+
+/* No comment provided by engineer. */
 "Remove Adjustment" = "移除調整";
 
 /* No comment provided by engineer. */
 "Remove Anchor Point" = "移除定位點";
 
 /* No comment provided by engineer. */
-"Remove collection" = "移除預設組";
+"Remove Collection" = "Remove Collection";
 
 /* No comment provided by engineer. */
 "Remove Color" = "移除顏色";
 
 /* No comment provided by engineer. */
 "Remove Color Tag" = "移除顏色標籤";
-
-/* No comment provided by engineer. */
-"Remove Effect" = "移除效果";
 
 /* No comment provided by engineer. */
 "Remove From Favorites" = "自最愛中移除";
@@ -2036,16 +2204,40 @@
 "Remove Path" = "移除路徑";
 
 /* No comment provided by engineer. */
+"Remove Shape" = "移除形狀";
+
+/* No comment provided by engineer. */
+"Remove Shape Path" = "Remove Shape Path";
+
+/* No comment provided by engineer. */
+"Remove Shape Paths" = "Remove Shape Paths";
+
+/* No comment provided by engineer. */
 "Remove Style" = "移除樣式";
 
-/* collection name */
-"Remove “%@” collection" = "移除預設組「%@」";
+/* No comment provided by engineer. */
+"Remove this effect." = "Remove this effect.";
+
+/* No comment provided by engineer. */
+"Remove this layer style." = "Remove this layer style.";
+
+/* No comment provided by engineer. */
+"Remove “%@” Collection" = "Remove “%@” Collection";
+
+/* No comment provided by engineer. */
+"Remove “%@” Preset" = "Remove “%@” Preset";
+
+/* No comment provided by engineer. */
+"Remove..." = "Remove...";
 
 /* No comment provided by engineer. */
 "Rename" = "重新命名";
 
 /* No comment provided by engineer. */
 "Rename \"%@\"" = "重新命名「%@」";
+
+/* No comment provided by engineer. */
+"Rename \"%@\"..." = "Rename \"%@\"...";
 
 /* No comment provided by engineer. */
 "Rename..." = "正在重新命名...";
@@ -2108,7 +2300,13 @@
 "Reset Adjustments" = "重設調整";
 
 /* No comment provided by engineer. */
+"Reset All" = "Reset All";
+
+/* No comment provided by engineer. */
 "Reset Angle" = "重設角度";
+
+/* No comment provided by engineer. */
+"Reset Color Palettes" = "Reset Color Palettes";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "重設裁切";
@@ -2131,9 +2329,6 @@
 /* No comment provided by engineer. */
 "Reset Styles" = "重設樣式";
 
-/* No comment provided by engineer. */
-"Reset Swatches" = "重置色票";
-
 /* transform mode */
 "Resize" = "調整大小";
 
@@ -2144,13 +2339,22 @@
 "Resize Transform" = "調整大小變形";
 
 /* No comment provided by engineer. */
+"Resolution:" = "解析度：";
+
+/* No comment provided by engineer. */
 "Restore" = "回復";
 
 /* No comment provided by engineer. */
 "Retouch" = "潤飾";
 
 /* No comment provided by engineer. */
+"Retouching" = "Retouching";
+
+/* No comment provided by engineer. */
 "Reveal Canvas" = "顯示畫布";
+
+/* No comment provided by engineer. */
+"Revert to Default Set" = "Revert to Default Set";
 
 /* color picker color value display type */
 "RGB" = "RGB";
@@ -2184,6 +2388,9 @@
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "圓角矩形";
+
+/* No comment provided by engineer. */
+"Rounded Rectangle Shape" = "Rounded Rectangle Shape";
 
 /* No comment provided by engineer. */
 "Row Height" = "行高";
@@ -2252,6 +2459,9 @@
 "Scale Vertically by Tilt" = "按傾斜度垂直縮放";
 
 /* No comment provided by engineer. */
+"Scanned Image" = "已掃描的影像";
+
+/* No comment provided by engineer. */
 "Scatter" = "散佈";
 
 /* No comment provided by engineer. */
@@ -2264,7 +2474,7 @@
 "Search" = "搜尋";
 
 /* No comment provided by engineer. */
-"Select" = "選取";
+"Select a preset to change your workspace layout." = "Select a preset to change your workspace layout.";
 
 /* No comment provided by engineer. */
 "Select All" = "全選";
@@ -2276,22 +2486,19 @@
 "Select Bottom Layer" = "選擇底層";
 
 /* No comment provided by engineer. */
-"Select Color" = "選取顏色";
-
-/* No comment provided by engineer. */
 "Select Color Range" = "選擇顏色範圍";
 
 /* No comment provided by engineer. */
 "Select Column" = "選取列";
 
 /* No comment provided by engineer. */
-"Select multiple shape layers." = "選擇多個形狀圖層";
+"Select multiple shape layers" = "Select multiple shape layers";
 
 /* No comment provided by engineer. */
 "Select Next Layer" = "選擇下一層";
 
 /* No comment provided by engineer. */
-"Select or move a shape layer." = "選擇或移動形狀圖層。";
+"Select or move a shape layer" = "Select or move a shape layer";
 
 /* No comment provided by engineer. */
 "Select Previous Layer" = "選擇上一層";
@@ -2304,6 +2511,9 @@
 
 /* No comment provided by engineer. */
 "Selected Color" = "選取顏色";
+
+/* No comment provided by engineer. */
+"Selecting" = "Selecting";
 
 /* No comment provided by engineer. */
 "Selection" = "所選範圍";
@@ -2336,6 +2546,9 @@
 "Sepia" = "深褐色";
 
 /* No comment provided by engineer. */
+"Set alpha color component value" = "Set alpha color component value";
+
+/* No comment provided by engineer. */
 "Set blue color component value" = "設定藍色的分量值";
 
 /* No comment provided by engineer. */
@@ -2345,19 +2558,7 @@
 "Set red color component value" = "設定紅色的分量值";
 
 /* No comment provided by engineer. */
-"Set replace source color" = "設定替換源顏色";
-
-/* No comment provided by engineer. */
-"Set replace target color" = "設定替換目標顏色";
-
-/* No comment provided by engineer. */
 "Set the %@ color" = "設定 %@ 顏色";
-
-/* No comment provided by engineer. */
-"Set the black point for the Red, Green and Blue levels" = "設定紅色、綠色和藍色級別的黑色點";
-
-/* No comment provided by engineer. */
-"Set the black point on the Red, Green and Blue curves" = "設定紅色、綠色和藍色曲線的黑色點";
 
 /* No comment provided by engineer. */
 "Set the color for text" = "設定文字的顏色";
@@ -2366,25 +2567,7 @@
 "Set the color using a Hex color code." = "使用 Hex 色碼設置顏色。";
 
 /* No comment provided by engineer. */
-"Set the gray point for the Red, Green and Blue levels" = "設定紅色、綠色和藍色級別的灰色點";
-
-/* No comment provided by engineer. */
-"Set the Gray point for white balance" = "設定白平衡的灰色點";
-
-/* No comment provided by engineer. */
-"Set the gray point on the Red, Green and Blue curves" = "設定紅色、綠色和藍色曲線的灰色點";
-
-/* No comment provided by engineer. */
-"Set the monochrome color" = "設定單色顏色";
-
-/* No comment provided by engineer. */
 "Set the transparency of the color." = "設定顏色的透明度。";
-
-/* No comment provided by engineer. */
-"Set the white point for the Red, Green and Blue levels" = "設定紅色、綠色和藍色級別的白色點";
-
-/* No comment provided by engineer. */
-"Set the white point on the Red, Green and Blue curves" = "設定紅色、綠色和藍色曲線的白色點";
 
 /* No comment provided by engineer. */
 "Shadow" = "陰影";
@@ -2400,9 +2583,6 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "形狀方向";
-
-/* No comment provided by engineer. */
-"Shapes" = "形狀";
 
 /* No comment provided by engineer. */
 "Share" = "共享";
@@ -2444,9 +2624,6 @@
 "Show Fonts" = "顯示字體";
 
 /* No comment provided by engineer. */
-"Show Gradients" = "顯示梯度";
-
-/* No comment provided by engineer. */
 "Show Grid" = "顯示網格";
 
 /* No comment provided by engineer. */
@@ -2454,6 +2631,9 @@
 
 /* No comment provided by engineer. */
 "Show Handles" = "顯示手柄";
+
+/* No comment provided by engineer. */
+"Show hidden tools or customize the list of tools." = "Show hidden tools or customize the list of tools.";
 
 /* No comment provided by engineer. */
 "Show in Finder" = "顯示於 Finder";
@@ -2474,7 +2654,7 @@
 "Show Optimized Preview" = "顯示優化預覽";
 
 /* No comment provided by engineer. */
-"Show or hide format and style options." = "顯示或隱藏格式和樣式選項。";
+"Show or hide the gradient handles on the canvas." = "Show or hide the gradient handles on the canvas.";
 
 /* No comment provided by engineer. */
 "Show Outline" = "顯示外框";
@@ -2495,10 +2675,10 @@
 "Show Selection Handles" = "顯示選取手柄";
 
 /* No comment provided by engineer. */
-"Show Shapes" = "顯示形狀";
+"Show Tab Bar" = "顯示標籤列";
 
 /* No comment provided by engineer. */
-"Show Tab Bar" = "顯示標籤列";
+"Show the effect rope on canvas." = "Show the effect rope on canvas.";
 
 /* No comment provided by engineer. */
 "Show this window when Pixelmator Pro launches" = "在 Pixelmator Pro 開啟時顯示此視窗";
@@ -2547,9 +2727,6 @@
 
 /* No comment provided by engineer. */
 "Slice" = "切片";
-
-/* No comment provided by engineer. */
-"Slice Formats" = "切片格式";
 
 /* No comment provided by engineer. */
 "Slice Menu" = "切片選單";
@@ -2609,13 +2786,19 @@
 "Source Out" = "源在外部";
 
 /* No comment provided by engineer. */
+"Space" = "Space";
+
+/* No comment provided by engineer. */
 "Spot Light" = "探照燈";
 
 /* No comment provided by engineer. */
-"Square" = "正方形";
+"Star" = "星";
 
 /* No comment provided by engineer. */
-"Star" = "星";
+"Star Shape" = "Star Shape";
+
+/* No comment provided by engineer. */
+"Start" = "Start";
 
 /* No comment provided by engineer. */
 "Start Drawing" = "開始繪圖";
@@ -2720,9 +2903,6 @@
 "Text Style" = "文字樣式";
 
 /* No comment provided by engineer. */
-"Text Styles" = "文字樣式";
-
-/* No comment provided by engineer. */
 "Textures" = "紋理";
 
 /* No comment provided by engineer. */
@@ -2792,6 +2972,9 @@
 "to" = "至";
 
 /* No comment provided by engineer. */
+"To rearrange the interface elements, drag them to the desired position." = "To rearrange the interface elements, drag them to the desired position.";
+
+/* No comment provided by engineer. */
 "Tolerance: %@" = "公差：%@";
 
 /* No comment provided by engineer. */
@@ -2837,7 +3020,19 @@
 "Try (%i days remaining)" = "試用（剩餘 %i 天）";
 
 /* No comment provided by engineer. */
+"Turn histogram on or off." = "Turn histogram on or off.";
+
+/* No comment provided by engineer. */
 "Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of Pro Display XDR." = "打開擴展動態範圍模式，使用 Pro Display XDR 的最大屏幕亮度顯示隱藏的高光細節。";
+
+/* No comment provided by engineer. */
+"Turn this adjustment on or off." = "Turn this adjustment on or off.";
+
+/* No comment provided by engineer. */
+"Turn this effect on or off." = "Turn this effect on or off.";
+
+/* No comment provided by engineer. */
+"Turn this layer style on or off." = "Turn this layer style on or off.";
 
 /* No comment provided by engineer. */
 "Twelvefold" = "12 倍";
@@ -2879,10 +3074,10 @@
 "Untitled" = "未命名";
 
 /* No comment provided by engineer. */
-"Untitled layer" = "未命名圖層";
+"Untitled Layer" = "未命名圖層";
 
 /* No comment provided by engineer. */
-"Untitled Layer" = "未命名圖層";
+"Untitled layer" = "未命名圖層";
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "未命名圖層遮罩";
@@ -2943,6 +3138,12 @@
 
 /* No comment provided by engineer. */
 "Width:" = "寬度：";
+
+/* No comment provided by engineer. */
+"Workspace" = "Workspace";
+
+/* No comment provided by engineer. */
+"Workspace Layout" = "Workspace Layout";
 
 /* No comment provided by engineer. */
 "Would you like to preserve these edits in your Photos library?" = "您想要在照片圖庫中保留這些編輯嗎？";
