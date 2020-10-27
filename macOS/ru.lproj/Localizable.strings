@@ -59,13 +59,10 @@
 "1 Point" = "1 точка";
 
 /* No comment provided by engineer. */
-"16:9" = "16:9";
+"16-bits per channel" = "16 бит/канал";
 
 /* No comment provided by engineer. */
 "180°" = "180°";
-
-/* No comment provided by engineer. */
-"2:3" = "2:3";
 
 /* No comment provided by engineer. */
 "2x" = "2x";
@@ -77,19 +74,10 @@
 "3-Way Color" = "Трехвариантный цвет";
 
 /* No comment provided by engineer. */
-"3:2" = "3:2";
-
-/* No comment provided by engineer. */
-"3:4" = "3:4";
-
-/* No comment provided by engineer. */
 "3x" = "3x";
 
 /* No comment provided by engineer. */
 "45°" = "45°";
-
-/* No comment provided by engineer. */
-"4:3" = "4:3";
 
 /* color picker sample size area */
 "5 by 5" = "5 на 5";
@@ -98,10 +86,10 @@
 "5x" = "5x";
 
 /* No comment provided by engineer. */
-"90°" = "90°";
+"8-bits per channel" = "8 бит/канал";
 
 /* No comment provided by engineer. */
-"9:16" = "9:16";
+"90°" = "90°";
 
 /* No comment provided by engineer. */
 "\"%@\" Color Adjustment" = "Цветокоррекция: %@";
@@ -119,9 +107,6 @@
 "Actual Size" = "Реальный размер";
 
 /* No comment provided by engineer. */
-"Add" = "Добавить";
-
-/* No comment provided by engineer. */
 "Add %@" = "Добавить %@";
 
 /* No comment provided by engineer. */
@@ -132,9 +117,6 @@
 
 /* No comment provided by engineer. */
 "Add Color Tag" = "Добавить цветовой тег";
-
-/* No comment provided by engineer. */
-"Add Effects" = "Добавить эффекты";
 
 /* No comment provided by engineer. */
 "Add for Export..." = "Добавить для экспорта...";
@@ -158,6 +140,9 @@
 "Add Point" = "Добавить точку";
 
 /* No comment provided by engineer. */
+"Add Preset" = "Add Preset";
+
+/* No comment provided by engineer. */
 "Add Slice" = "Добавить ломтик";
 
 /* No comment provided by engineer. */
@@ -165,12 +150,6 @@
 
 /* No comment provided by engineer. */
 "Add to Shape" = "Добавить фигуру";
-
-/* No comment provided by engineer. */
-"Adjust" = "Настроить";
-
-/* No comment provided by engineer. */
-"Adjust Colors" = "Настроить цвета";
 
 /* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "Отрегулируйте яркость и насыщение цвета.";
@@ -218,6 +197,9 @@
 "All rights reserved." = "Все права защищены.";
 
 /* No comment provided by engineer. */
+"Allow Access" = "Allow Access";
+
+/* No comment provided by engineer. */
 "Angle" = "Угол";
 
 /* No comment provided by engineer. */
@@ -241,8 +223,11 @@
 /* No comment provided by engineer. */
 "Are you sure you want to remove the entire collection?" = "Уверены, что хотите удалить всю коллекцию?";
 
-/* collection name */
+/* No comment provided by engineer. */
 "Are you sure you want to remove the entire “%@” collection?" = "Уверены, что хотите удалить всю коллекцию “%@”?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove the “%@” preset?" = "Are you sure you want to remove the “%@” preset?";
 
 /* No comment provided by engineer. */
 "Arrange" = "Расстановка";
@@ -470,7 +455,22 @@
 "Checkerboard" = "В клетку";
 
 /* No comment provided by engineer. */
+"Choose a color adjustments collection." = "Choose a color adjustments collection.";
+
+/* No comment provided by engineer. */
 "Choose a color palette." = "Выбрать цветовую палитру.";
+
+/* No comment provided by engineer. */
+"Choose a effects collection." = "Choose a effects collection.";
+
+/* No comment provided by engineer. */
+"Choose a gradients collection." = "Choose a gradients collection.";
+
+/* No comment provided by engineer. */
+"Choose a shapes collection." = "Choose a shapes collection.";
+
+/* No comment provided by engineer. */
+"Choose a styles collection." = "Choose a styles collection.";
 
 /* No comment provided by engineer. */
 "Choose a Template" = "Выбор шаблона";
@@ -518,7 +518,13 @@
 "Clear Slices" = "Очистить ломтики";
 
 /* No comment provided by engineer. */
+"Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "Нажать для выбора цвета.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the color adjustment presets." = "Click to hide or show the color adjustment presets.";
 
 /* No comment provided by engineer. */
 "Click to hide or show the color picker." = "Нажать, чтобы скрыть или показать пипетку.";
@@ -527,7 +533,49 @@
 "Click to hide or show the color swatches." = "Нажать, чтобы скрыть или показать образцы.";
 
 /* No comment provided by engineer. */
+"Click to hide or show the effect presets." = "Click to hide or show the effect presets.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the shape presets." = "Click to hide or show the shape presets.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the style presets." = "Click to hide or show the style presets.";
+
+/* No comment provided by engineer. */
+"Click to pick a color from your image" = "Click to pick a color from your image";
+
+/* No comment provided by engineer. */
 "Click to pick a color from your image." = "Нажать для выбора цвета изображения.";
+
+/* No comment provided by engineer. */
+"Click to pick a source color from your image" = "Click to pick a source color from your image";
+
+/* No comment provided by engineer. */
+"Click to pick a target color from your image" = "Click to pick a target color from your image";
+
+/* No comment provided by engineer. */
+"Click to set the black point for the red, green, and blue levels" = "Click to set the black point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the black point on the red, green, and blue curves" = "Click to set the black point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to set the gray point for the red, green, and blue levels" = "Click to set the gray point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the gray point in the image" = "Click to set the gray point in the image";
+
+/* No comment provided by engineer. */
+"Click to set the gray point on the red, green, and blue curves" = "Click to set the gray point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to set the white point for the red, green, and blue levels" = "Click to set the white point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the white point on the red, green, and blue curves" = "Click to set the white point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to show color panel." = "Click to show color panel.";
 
 /* No comment provided by engineer. */
 "Click to show or hide the Colors window." = "Нажать, чтобы скрыть или показать панель цветов.";
@@ -548,13 +596,13 @@
 "CMYK Profiles" = "Профили CMYK";
 
 /* No comment provided by engineer. */
+"Collection" = "Collection";
+
+/* No comment provided by engineer. */
 "Collections" = "Коллекции";
 
 /* No comment provided by engineer. */
 "Color" = "Цвет";
-
-/* No comment provided by engineer. */
-"Color Adjustment" = "Цветокоррекция";
 
 /* Effects category name */
 "Color Adjustments" = "Цветокоррекция";
@@ -569,6 +617,9 @@
 "Color Depth" = "Глубина цвета";
 
 /* No comment provided by engineer. */
+"Color Depth:" = "Глубина цвета:";
+
+/* No comment provided by engineer. */
 "Color Dodge" = "Осветление основы";
 
 /* No comment provided by engineer. */
@@ -579,6 +630,9 @@
 
 /* No comment provided by engineer. */
 "Color Noise Reduction" = "Уменьшение цв. шума";
+
+/* No comment provided by engineer. */
+"Color Palette" = "Color Palette";
 
 /* No comment provided by engineer. */
 "Color Palettes" = "Цветовые палитры";
@@ -617,6 +671,9 @@
 "Constant" = "Постоянный";
 
 /* No comment provided by engineer. */
+"Constrain" = "Constrain";
+
+/* No comment provided by engineer. */
 "Constrain Proportions" = "Соблюдать пропорции";
 
 /* No comment provided by engineer. */
@@ -635,10 +692,13 @@
 "Convert into Shape" = "Конвертировать в фигуру";
 
 /* No comment provided by engineer. */
+"Copy" = "Скопировать";
+
+/* No comment provided by engineer. */
 "copy" = "копия";
 
 /* No comment provided by engineer. */
-"Copy" = "Скопировать";
+"Copy %@" = "Copy %@";
 
 /* No comment provided by engineer. */
 "Copy Adjustments" = "Скопировать корректировки";
@@ -677,12 +737,6 @@
 "Crop" = "Обрезка";
 
 /* No comment provided by engineer. */
-"Crop Preset" = "Обрезать набор настроек";
-
-/* No comment provided by engineer. */
-"Crop Presets" = "Обрезать наборы настроек";
-
-/* No comment provided by engineer. */
 "Crop Tool" = "Инструмент обрезки";
 
 /* No comment provided by engineer. */
@@ -701,7 +755,13 @@
 "Custom" = "Пользовательский";
 
 /* No comment provided by engineer. */
-"Custom Shape" = "Произвольная фигура";
+"Custom Shapes" = "Custom Shapes";
+
+/* No comment provided by engineer. */
+"Customize Layout..." = "Customize Layout...";
+
+/* No comment provided by engineer. */
+"Customize Tools..." = "Customize Tools...";
 
 /* No comment provided by engineer. */
 "Cut" = "Вырезать";
@@ -741,9 +801,6 @@
 
 /* No comment provided by engineer. */
 "Delete Path" = "Удалить путь";
-
-/* No comment provided by engineer. */
-"Delete Paths" = "Удалить пути";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "Удалить ломтик";
@@ -845,6 +902,9 @@
 "Don't Save" = "Не сохранять";
 
 /* No comment provided by engineer. */
+"Done" = "Готово";
+
+/* No comment provided by engineer. */
 "Don’t Allow" = "Не разрешать";
 
 /* No comment provided by engineer. */
@@ -860,16 +920,19 @@
 "Drag and drop images here to match their colors using machine learning." = "Перетащите любое изображение сюда, чтобы подогнать его цвета, используя машинное обучение.";
 
 /* No comment provided by engineer. */
-"Draw" = "Рисовать";
+"Drag to adjust the position of the gradient" = "Drag to adjust the position of the gradient";
+
+/* No comment provided by engineer. */
+"Drag your favorite tools into the list above..." = "Drag your favorite tools into the list above...";
 
 /* No comment provided by engineer. */
 "Draw Path" = "Нарисовать путь";
 
 /* No comment provided by engineer. */
-"Draw Shape" = "Нарисовать фигуру";
+"Draw Slice" = "Нарисовать ломтик";
 
 /* No comment provided by engineer. */
-"Draw Slice" = "Нарисовать ломтик";
+"Drawing" = "Drawing";
 
 /* No comment provided by engineer. */
 "Droste" = "Дросте";
@@ -899,7 +962,7 @@
 "Edit Slice" = "Править ломтик";
 
 /* No comment provided by engineer. */
-"Effect" = "Эффект";
+"EDR Mode" = "EDR Mode";
 
 /* No comment provided by engineer. */
 "Effects" = "Эффекты";
@@ -909,6 +972,9 @@
 
 /* No comment provided by engineer. */
 "Ellipse" = "Эллипс";
+
+/* No comment provided by engineer. */
+"Ellipse Shape" = "Ellipse Shape";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "Выбор эллипсом";
@@ -962,19 +1028,37 @@
 "Export" = "Экспорт";
 
 /* No comment provided by engineer. */
+"Export All Effects" = "Export All Effects";
+
+/* No comment provided by engineer. */
 "Export All..." = "Экспортировать все...";
 
 /* No comment provided by engineer. */
 "Export As:" = "Экспортировать как:";
 
 /* No comment provided by engineer. */
-"Export Color Palette" = "Экспортировать цветовую палитру";
+"Export Color Adjustments" = "Export Color Adjustments";
+
+/* No comment provided by engineer. */
+"Export Color Palettes" = "Export Color Palettes";
+
+/* No comment provided by engineer. */
+"Export Custom Shapes" = "Export Custom Shapes";
 
 /* No comment provided by engineer. */
 "Export Document as Images" = "Экспортировать документы как изображения";
 
 /* No comment provided by engineer. */
+"Export Effects" = "Export Effects";
+
+/* No comment provided by engineer. */
 "Export for Web" = "Экспорт для веб-использования";
+
+/* No comment provided by engineer. */
+"Export Gradient Collection" = "Export Gradient Collection";
+
+/* No comment provided by engineer. */
+"Export Layer Styles" = "Export Layer Styles";
 
 /* No comment provided by engineer. */
 "Export Library" = "Экспортировать библиотеку";
@@ -1011,6 +1095,9 @@
 
 /* No comment provided by engineer. */
 "Exposure" = "Экспозиция";
+
+/* No comment provided by engineer. */
+"Extension" = "Расширение";
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
@@ -1067,6 +1154,9 @@
 "Finish Selection" = "Закончить выбор";
 
 /* No comment provided by engineer. */
+"Fit" = "Подогнать";
+
+/* No comment provided by engineer. */
 "Fixed" = "Исправлено";
 
 /* No comment provided by engineer. */
@@ -1077,6 +1167,9 @@
 
 /* No comment provided by engineer. */
 "Flatten Styles" = "Сгладить стили";
+
+/* No comment provided by engineer. */
+"Flexible Space" = "Flexible Space";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "Перевернуть горизонтально";
@@ -1100,9 +1193,6 @@
 "Foreground Color" = "Цвет переднего плана";
 
 /* No comment provided by engineer. */
-"Format" = "Формат";
-
-/* No comment provided by engineer. */
 "Fourfold" = "Вчетверо";
 
 /* No comment provided by engineer. */
@@ -1112,13 +1202,13 @@
 "Fourfold Translated" = "Четырехкратно перемещенная";
 
 /* No comment provided by engineer. */
-"Free Select" = "Свободный выбор";
+"Free From Shape" = "Free From Shape";
 
 /* No comment provided by engineer. */
 "Free Selection" = "Свободный выбор";
 
 /* No comment provided by engineer. */
-"Freeform" = "Свободная форма";
+"Freeform Pen" = "Перо свободной формы";
 
 /* No comment provided by engineer. */
 "Freeform Type" = "Текст свободной формы";
@@ -1161,6 +1251,9 @@
 
 /* No comment provided by engineer. */
 "Gradient Angle" = "Угол градиента";
+
+/* No comment provided by engineer. */
+"Gradient Collection" = "Gradient Collection";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "Градиентная заливка";
@@ -1214,6 +1307,9 @@
 "Halo" = "Гало";
 
 /* No comment provided by engineer. */
+"Hand" = "Рука";
+
+/* No comment provided by engineer. */
 "Hard Light" = "Жесткий свет";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1338,6 @@
 
 /* No comment provided by engineer. */
 "Hide Fonts" = "Скрыть фигуры";
-
-/* No comment provided by engineer. */
-"Hide Gradients" = "Скрыть градиенты";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "Скрыть сетку";
@@ -1287,9 +1380,6 @@
 
 /* No comment provided by engineer. */
 "Hide Selection Handles" = "Скрыть маркеры выделения";
-
-/* No comment provided by engineer. */
-"Hide Shapes" = "Скрыть фигуры";
 
 /* No comment provided by engineer. */
 "Hide Tab Bar" = "Скрыть панель вкладок";
@@ -1355,6 +1445,9 @@
 "Import" = "Импорт";
 
 /* No comment provided by engineer. */
+"Import All" = "Импортировать все";
+
+/* No comment provided by engineer. */
 "Import..." = "Импортировать…";
 
 /* short for inches */
@@ -1362,6 +1455,9 @@
 
 /* No comment provided by engineer. */
 "Inches" = "Дюймы";
+
+/* No comment provided by engineer. */
+"inches" = "дюймы";
 
 /* No comment provided by engineer. */
 "Initial Crop" = "Начальная обрезка";
@@ -1442,6 +1538,9 @@
 "Layer Menu" = "Меню слоя";
 
 /* No comment provided by engineer. */
+"Layer Styles" = "Layer Styles";
+
+/* No comment provided by engineer. */
 "Learn more" = "Подробнее";
 
 /* No comment provided by engineer. */
@@ -1482,6 +1581,9 @@
 
 /* No comment provided by engineer. */
 "Line Height" = "Высота строки";
+
+/* No comment provided by engineer. */
+"Line Shape" = "Line Shape";
 
 /* No comment provided by engineer. */
 "Linear Burn" = "Линейное затемнение";
@@ -1527,9 +1629,6 @@
 
 /* No comment provided by engineer. */
 "Magenta / Green" = "Пурпурный / Зеленый";
-
-/* No comment provided by engineer. */
-"Magnetic Select" = "Выбор магнитом";
 
 /* No comment provided by engineer. */
 "Magnetic Selection" = "Выбор магнитом";
@@ -1622,6 +1721,9 @@
 "Move" = "Передвинуть";
 
 /* No comment provided by engineer. */
+"Move %@" = "Move %@";
+
+/* No comment provided by engineer. */
 "Move Guide" = "Переместить направляющую";
 
 /* No comment provided by engineer. */
@@ -1646,7 +1748,7 @@
 "Mustache" = "Усы";
 
 /* No comment provided by engineer. */
-"New" = "Новая";
+"New Collection" = "New Collection";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "Новый эллипс";
@@ -1662,6 +1764,42 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "Новая линия";
+
+/* No comment provided by engineer. */
+"New name for color adjustments collection:" = "New name for color adjustments collection:";
+
+/* No comment provided by engineer. */
+"New name for color adjustments:" = "New name for color adjustments:";
+
+/* No comment provided by engineer. */
+"New name for color palette:" = "Новое имя для цветовой палитры:";
+
+/* No comment provided by engineer. */
+"New name for color preset:" = "New name for color preset:";
+
+/* No comment provided by engineer. */
+"New name for effects collection:" = "New name for effects collection:";
+
+/* No comment provided by engineer. */
+"New name for effects preset:" = "New name for effects preset:";
+
+/* No comment provided by engineer. */
+"New name for gradient collection:" = "New name for gradient collection:";
+
+/* No comment provided by engineer. */
+"New name for layer style collection:" = "New name for layer style collection:";
+
+/* No comment provided by engineer. */
+"New name for layout preset:" = "New name for layout preset:";
+
+/* No comment provided by engineer. */
+"New name for shape collection:" = "New name for shape collection:";
+
+/* No comment provided by engineer. */
+"New name for shape preset:" = "New name for shape preset:";
+
+/* No comment provided by engineer. */
+"New name for style preset:" = "New name for style preset:";
 
 /* No comment provided by engineer. */
 "New Polygon Shape" = "Новый многоугольник";
@@ -1688,7 +1826,16 @@
 "New..." = "Новый...";
 
 /* No comment provided by engineer. */
+"No camera or scanner connected." = "Камера или сканер не подключены.";
+
+/* No comment provided by engineer. */
+"No camera or scanner selected." = "Камера или сканер не выбраны.";
+
+/* No comment provided by engineer. */
 "No Color Profile" = "Нет цветового профиля";
+
+/* No comment provided by engineer. */
+"No Photos" = "Нет фото";
 
 /* No comment provided by engineer. */
 "No Recent Documents" = "Нет недавних документов";
@@ -1772,6 +1919,9 @@
 "Paint and Sketch" = "Закраска и скетч";
 
 /* No comment provided by engineer. */
+"Painting" = "Painting";
+
+/* No comment provided by engineer. */
 "Pass Through" = "Пропустить";
 
 /* No comment provided by engineer. */
@@ -1823,6 +1973,12 @@
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
+"Pen" = "Перо";
+
+/* No comment provided by engineer. */
+"Pencil" = "Карандаш";
+
+/* No comment provided by engineer. */
 "Percent" = "Проценты";
 
 /* No comment provided by engineer. */
@@ -1868,7 +2024,19 @@
 "Pixels" = "Пиксели";
 
 /* No comment provided by engineer. */
+"pixels" = "пикс";
+
+/* No comment provided by engineer. */
+"pixels/cm" = "пикс/см";
+
+/* No comment provided by engineer. */
+"pixels/inch" = "пикс/дюйм";
+
+/* No comment provided by engineer. */
 "PNG" = "PNG";
+
+/* No comment provided by engineer. */
+"points" = "точки";
 
 /* No comment provided by engineer. */
 "Points: %d" = "Точек: %d";
@@ -1877,10 +2045,10 @@
 "Polygon" = "Многоугольник";
 
 /* No comment provided by engineer. */
-"Polygonal Select" = "Выбор многоугольником";
+"Polygonal Selection" = "Выбор многоугольником";
 
 /* No comment provided by engineer. */
-"Polygonal Selection" = "Выбор многоугольником";
+"Polygonal Shape" = "Polygonal Shape";
 
 /* No comment provided by engineer. */
 "Position" = "Позиция";
@@ -1922,9 +2090,6 @@
 "Quick Export" = "Быстрый экспорт";
 
 /* No comment provided by engineer. */
-"Quick Select" = "Быстрый выбор";
-
-/* No comment provided by engineer. */
 "Quick Selection" = "Быстрый выбор";
 
 /* No comment provided by engineer. */
@@ -1962,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Rectangle" = "Прямоугольник";
+
+/* No comment provided by engineer. */
+"Rectangle Shape" = "Rectangle Shape";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "Выбор прямоугольником";
@@ -2003,22 +2171,22 @@
 "Remove %@" = "Удалить %@";
 
 /* No comment provided by engineer. */
+"Remove \"\(label)\"" = "Remove \"\\(label)\"";
+
+/* No comment provided by engineer. */
 "Remove Adjustment" = "Удалить корректировки";
 
 /* No comment provided by engineer. */
 "Remove Anchor Point" = "Удалить узловую точку";
 
 /* No comment provided by engineer. */
-"Remove collection" = "Удалить коллекцию";
+"Remove Collection" = "Remove Collection";
 
 /* No comment provided by engineer. */
 "Remove Color" = "Удалить цвет";
 
 /* No comment provided by engineer. */
 "Remove Color Tag" = "Удалить цветовой тег";
-
-/* No comment provided by engineer. */
-"Remove Effect" = "Удалить эффект";
 
 /* No comment provided by engineer. */
 "Remove From Favorites" = "Удалить из Избранного";
@@ -2036,16 +2204,40 @@
 "Remove Path" = "Удалить путь";
 
 /* No comment provided by engineer. */
+"Remove Shape" = "Удалить фигуру";
+
+/* No comment provided by engineer. */
+"Remove Shape Path" = "Remove Shape Path";
+
+/* No comment provided by engineer. */
+"Remove Shape Paths" = "Remove Shape Paths";
+
+/* No comment provided by engineer. */
 "Remove Style" = "Удалить стиль";
 
-/* collection name */
-"Remove “%@” collection" = "Удалить коллекцию \"%@\"";
+/* No comment provided by engineer. */
+"Remove this effect." = "Remove this effect.";
+
+/* No comment provided by engineer. */
+"Remove this layer style." = "Remove this layer style.";
+
+/* No comment provided by engineer. */
+"Remove “%@” Collection" = "Remove “%@” Collection";
+
+/* No comment provided by engineer. */
+"Remove “%@” Preset" = "Remove “%@” Preset";
+
+/* No comment provided by engineer. */
+"Remove..." = "Remove...";
 
 /* No comment provided by engineer. */
 "Rename" = "Переименовать";
 
 /* No comment provided by engineer. */
 "Rename \"%@\"" = "Переименовать %@";
+
+/* No comment provided by engineer. */
+"Rename \"%@\"..." = "Rename \"%@\"...";
 
 /* No comment provided by engineer. */
 "Rename..." = "Переименовать...";
@@ -2108,7 +2300,13 @@
 "Reset Adjustments" = "Сброс корректировок";
 
 /* No comment provided by engineer. */
+"Reset All" = "Reset All";
+
+/* No comment provided by engineer. */
 "Reset Angle" = "Сбросить угол";
+
+/* No comment provided by engineer. */
+"Reset Color Palettes" = "Reset Color Palettes";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Сбросить обрезку";
@@ -2131,9 +2329,6 @@
 /* No comment provided by engineer. */
 "Reset Styles" = "Сбросить стили";
 
-/* No comment provided by engineer. */
-"Reset Swatches" = "Сбросить образцы";
-
 /* transform mode */
 "Resize" = "Изменить размер";
 
@@ -2144,13 +2339,22 @@
 "Resize Transform" = "Сменить размер преобразования";
 
 /* No comment provided by engineer. */
+"Resolution:" = "Разрешение:";
+
+/* No comment provided by engineer. */
 "Restore" = "Восстановить";
 
 /* No comment provided by engineer. */
 "Retouch" = "Ретушь";
 
 /* No comment provided by engineer. */
+"Retouching" = "Retouching";
+
+/* No comment provided by engineer. */
 "Reveal Canvas" = "Раскрыть холст";
+
+/* No comment provided by engineer. */
+"Revert to Default Set" = "Revert to Default Set";
 
 /* color picker color value display type */
 "RGB" = "RGB";
@@ -2184,6 +2388,9 @@
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "Прямоугольник с закругленными углами";
+
+/* No comment provided by engineer. */
+"Rounded Rectangle Shape" = "Rounded Rectangle Shape";
 
 /* No comment provided by engineer. */
 "Row Height" = "Высота строки";
@@ -2252,6 +2459,9 @@
 "Scale Vertically by Tilt" = "Верт.масштаб наклоном";
 
 /* No comment provided by engineer. */
+"Scanned Image" = "Сканируемое изображение";
+
+/* No comment provided by engineer. */
 "Scatter" = "Разброс";
 
 /* No comment provided by engineer. */
@@ -2264,7 +2474,7 @@
 "Search" = "Поиск";
 
 /* No comment provided by engineer. */
-"Select" = "Выбрать";
+"Select a preset to change your workspace layout." = "Select a preset to change your workspace layout.";
 
 /* No comment provided by engineer. */
 "Select All" = "Выбрать все";
@@ -2276,22 +2486,19 @@
 "Select Bottom Layer" = "Выбрать нижний слой";
 
 /* No comment provided by engineer. */
-"Select Color" = "Выбрать цвет";
-
-/* No comment provided by engineer. */
 "Select Color Range" = "Выбрать цветовой диапазон";
 
 /* No comment provided by engineer. */
 "Select Column" = "Выбрать столбец";
 
 /* No comment provided by engineer. */
-"Select multiple shape layers." = "Выбрать слои с несколькими фигурами.";
+"Select multiple shape layers" = "Select multiple shape layers";
 
 /* No comment provided by engineer. */
 "Select Next Layer" = "Выбрать следующий слой";
 
 /* No comment provided by engineer. */
-"Select or move a shape layer." = "Выбрать или переместить слой с фигурой.";
+"Select or move a shape layer" = "Select or move a shape layer";
 
 /* No comment provided by engineer. */
 "Select Previous Layer" = "Выбрать предыдущий слой";
@@ -2304,6 +2511,9 @@
 
 /* No comment provided by engineer. */
 "Selected Color" = "Выбранный цвет";
+
+/* No comment provided by engineer. */
+"Selecting" = "Selecting";
 
 /* No comment provided by engineer. */
 "Selection" = "Выбор";
@@ -2336,6 +2546,9 @@
 "Sepia" = "Сепия";
 
 /* No comment provided by engineer. */
+"Set alpha color component value" = "Set alpha color component value";
+
+/* No comment provided by engineer. */
 "Set blue color component value" = "Задать значение компоненты голубого цвета";
 
 /* No comment provided by engineer. */
@@ -2345,19 +2558,7 @@
 "Set red color component value" = "Задать значение компоненты красного цвета";
 
 /* No comment provided by engineer. */
-"Set replace source color" = "Задайте замену исходного цвета";
-
-/* No comment provided by engineer. */
-"Set replace target color" = "Задайте замену целевого цвета";
-
-/* No comment provided by engineer. */
 "Set the %@ color" = "Установить цвет: %@";
-
-/* No comment provided by engineer. */
-"Set the black point for the Red, Green and Blue levels" = "Уст. черную точку для красного, зелёного и синего уровней";
-
-/* No comment provided by engineer. */
-"Set the black point on the Red, Green and Blue curves" = "Уст. черную точку для красных, зелёных и синих кривых";
 
 /* No comment provided by engineer. */
 "Set the color for text" = "Задать цвет для текста";
@@ -2366,25 +2567,7 @@
 "Set the color using a Hex color code." = "Задать цвет, используя цветовой Hex-код.";
 
 /* No comment provided by engineer. */
-"Set the gray point for the Red, Green and Blue levels" = "Установить серую точку для красного, зелёного и синего уровней";
-
-/* No comment provided by engineer. */
-"Set the Gray point for white balance" = "Установить серую точку для баланса белого";
-
-/* No comment provided by engineer. */
-"Set the gray point on the Red, Green and Blue curves" = "Установить серую точку для красных, зелёных и синих кривых";
-
-/* No comment provided by engineer. */
-"Set the monochrome color" = "Задать монохромный цвет";
-
-/* No comment provided by engineer. */
 "Set the transparency of the color." = "Задать прозрачность цвета.";
-
-/* No comment provided by engineer. */
-"Set the white point for the Red, Green and Blue levels" = "Установить белую точку для красного, зелёного и синего уровней";
-
-/* No comment provided by engineer. */
-"Set the white point on the Red, Green and Blue curves" = "Установить белую точку для красных, зелёных и синих кривых";
 
 /* No comment provided by engineer. */
 "Shadow" = "Тень";
@@ -2400,9 +2583,6 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "Направление фигуры";
-
-/* No comment provided by engineer. */
-"Shapes" = "Фигуры";
 
 /* No comment provided by engineer. */
 "Share" = "Поделиться";
@@ -2444,9 +2624,6 @@
 "Show Fonts" = "Показать шрифты";
 
 /* No comment provided by engineer. */
-"Show Gradients" = "Показать градиенты";
-
-/* No comment provided by engineer. */
 "Show Grid" = "Показать сетку";
 
 /* No comment provided by engineer. */
@@ -2454,6 +2631,9 @@
 
 /* No comment provided by engineer. */
 "Show Handles" = "Показать маркеры";
+
+/* No comment provided by engineer. */
+"Show hidden tools or customize the list of tools." = "Show hidden tools or customize the list of tools.";
 
 /* No comment provided by engineer. */
 "Show in Finder" = "Показать в Finder";
@@ -2474,7 +2654,7 @@
 "Show Optimized Preview" = "Показать оптимизированное превью";
 
 /* No comment provided by engineer. */
-"Show or hide format and style options." = "Показать/скрыть формат и опции стиля.";
+"Show or hide the gradient handles on the canvas." = "Show or hide the gradient handles on the canvas.";
 
 /* No comment provided by engineer. */
 "Show Outline" = "Показать контур";
@@ -2495,10 +2675,10 @@
 "Show Selection Handles" = "Показать маркеры выделения";
 
 /* No comment provided by engineer. */
-"Show Shapes" = "Показать фигуры";
+"Show Tab Bar" = "Показать панель вкладок";
 
 /* No comment provided by engineer. */
-"Show Tab Bar" = "Показать панель вкладок";
+"Show the effect rope on canvas." = "Show the effect rope on canvas.";
 
 /* No comment provided by engineer. */
 "Show this window when Pixelmator Pro launches" = "Показывать это окно при запуске Pixelmator Pro";
@@ -2547,9 +2727,6 @@
 
 /* No comment provided by engineer. */
 "Slice" = "Ломтик";
-
-/* No comment provided by engineer. */
-"Slice Formats" = "Форматы ломтика";
 
 /* No comment provided by engineer. */
 "Slice Menu" = "Меню ломтика";
@@ -2609,13 +2786,19 @@
 "Source Out" = "Выход источника";
 
 /* No comment provided by engineer. */
+"Space" = "Space";
+
+/* No comment provided by engineer. */
 "Spot Light" = "Прожектор";
 
 /* No comment provided by engineer. */
-"Square" = "Квадрат";
+"Star" = "Звезда";
 
 /* No comment provided by engineer. */
-"Star" = "Звезда";
+"Star Shape" = "Star Shape";
+
+/* No comment provided by engineer. */
+"Start" = "Start";
 
 /* No comment provided by engineer. */
 "Start Drawing" = "Начать рисование";
@@ -2720,9 +2903,6 @@
 "Text Style" = "Стиль текста";
 
 /* No comment provided by engineer. */
-"Text Styles" = "Стили текста";
-
-/* No comment provided by engineer. */
 "Textures" = "Текстуры";
 
 /* No comment provided by engineer. */
@@ -2792,6 +2972,9 @@
 "to" = "на";
 
 /* No comment provided by engineer. */
+"To rearrange the interface elements, drag them to the desired position." = "To rearrange the interface elements, drag them to the desired position.";
+
+/* No comment provided by engineer. */
 "Tolerance: %@" = "Допуск: %@";
 
 /* No comment provided by engineer. */
@@ -2837,7 +3020,19 @@
 "Try (%i days remaining)" = "Пробная версия (осталось %i дн)";
 
 /* No comment provided by engineer. */
+"Turn histogram on or off." = "Turn histogram on or off.";
+
+/* No comment provided by engineer. */
 "Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of Pro Display XDR." = "Включите режим Extended Dynamic Range, чтобы показать скрытые выделенные детали с использованием максимальной яркости экрана Pro Display XDR.";
+
+/* No comment provided by engineer. */
+"Turn this adjustment on or off." = "Turn this adjustment on or off.";
+
+/* No comment provided by engineer. */
+"Turn this effect on or off." = "Turn this effect on or off.";
+
+/* No comment provided by engineer. */
+"Turn this layer style on or off." = "Turn this layer style on or off.";
 
 /* No comment provided by engineer. */
 "Twelvefold" = "Двенадцатикратно";
@@ -2879,10 +3074,10 @@
 "Untitled" = "Без названия";
 
 /* No comment provided by engineer. */
-"Untitled layer" = "Слой без названия";
+"Untitled Layer" = "Слой без названия";
 
 /* No comment provided by engineer. */
-"Untitled Layer" = "Слой без названия";
+"Untitled layer" = "Слой без названия";
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "Маска слоя без названия";
@@ -2943,6 +3138,12 @@
 
 /* No comment provided by engineer. */
 "Width:" = "Ширина:";
+
+/* No comment provided by engineer. */
+"Workspace" = "Workspace";
+
+/* No comment provided by engineer. */
+"Workspace Layout" = "Workspace Layout";
 
 /* No comment provided by engineer. */
 "Would you like to preserve these edits in your Photos library?" = "Не хотите ли сохранить эти правки в вашей медиатеке Photos?";
