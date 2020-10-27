@@ -1,41 +1,47 @@
 /* Class = "NSMenuItem"; title = "Send to Back"; ObjectID = "0cv-oH-Ey9"; */
 "0cv-oH-Ey9.title" = "Colocar en segundo plano";
 
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[0] = "Align the top edges of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[0]" = "Align the top edges of your selected objects.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[1] = "Align the vertical centers of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[1]" = "Align the vertical centers of your selected objects.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[2] = "Align the bottom edges of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[2]" = "Align the bottom edges of your selected objects.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[3] = "Evenly distribute your selected objects according to their left edges."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[3]" = "Evenly distribute your selected objects according to their left edges.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[4] = "Align the horizontal centers of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[4]" = "Align the horizontal centers of your selected objects.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[5] = "Align the right edges of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[5]" = "Align the right edges of your selected objects.";
+
 /* Class = "NSButton"; ibShadowedToolTip = "Move selected object backward in the layer stack."; ObjectID = "0mp-Te-RyF"; */
 "0mp-Te-RyF.ibShadowedToolTip" = "Mueve el objeto seleccionado hacia atrás en la pila de capas.";
+
+/* Class = "NSMenuItem"; title = "Group"; ObjectID = "1ao-G6-gzN"; */
+"1ao-G6-gzN.title" = "Agrupar";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Ungroup selected objects."; ObjectID = "1bg-wu-Now"; */
 "1bg-wu-Now.ibShadowedToolTip" = "Desagrupa los objetos seleccionados.";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their top edges."; ObjectID = "1gR-hh-rBl"; */
-"1gR-hh-rBl.ibShadowedToolTip" = "Distribuye uniformemente los objetos seleccionados según sus bordes superiores.";
-
 /* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "21P-8G-uSW"; */
 "21P-8G-uSW.title" = "100%";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their vertical centers."; ObjectID = "2a8-bJ-B9h"; */
-"2a8-bJ-B9h.ibShadowedToolTip" = "Distribuye uniformemente los objetos seleccionados según sus centros verticales.";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the object height."; ObjectID = "3G5-8E-eUg"; */
 "3G5-8E-eUg.ibShadowedToolTip" = "Ajusta la altura del objeto.";
 
-/* Class = "NSTextFieldCell"; title = "Automatically select layers by clicking them in your image."; ObjectID = "3wM-9b-6A4"; */
-"3wM-9b-6A4.title" = "Selecciona automáticamente las capas haciendo clic en la imagen.";
-
-/* Class = "NSTextField"; ibShadowedToolTip = "Create a shape from the intersection of the shape you draw and the currently selected shape."; ObjectID = "4sm-Xd-abn"; */
-"4sm-Xd-abn.ibShadowedToolTip" = "Crea una figura a partir de la intersección entre la figura que dibujas y la figura seleccionada actualmente.";
+/* Class = "NSTextFieldCell"; title = "Combine"; ObjectID = "70u-Nv-WIP"; */
+"70u-Nv-WIP.title" = "Combine";
 
 /* Class = "NSMenuItem"; title = "Pixels"; ObjectID = "7cp-Zd-SWr"; */
 "7cp-Zd-SWr.title" = "Píxeles";
 
-/* Class = "NSTextFieldCell"; title = "Intersect"; ObjectID = "93e-U6-c6e"; */
-"93e-U6-c6e.title" = "Intersecar";
-
 /* Class = "NSTextFieldCell"; title = "W:"; ObjectID = "9Xq-Ko-2hA"; */
 "9Xq-Ko-2hA.title" = "An:";
-
-/* Class = "NSTextFieldCell"; title = "Unite"; ObjectID = "BtC-6b-YNt"; */
-"BtC-6b-YNt.title" = "Unir";
 
 /* Class = "NSMenuItem"; title = "Send Backwards"; ObjectID = "Btc-gw-kYd"; */
 "Btc-gw-kYd.title" = "Colocar por debajo";
@@ -49,9 +55,6 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Unlock selected objects to allow editing."; ObjectID = "Edo-tC-2H6"; */
 "Edo-tC-2H6.ibShadowedToolTip" = "Desbloquea los objetos seleccionados para permitir la edición.";
 
-/* Class = "NSTextFieldCell"; title = "Auto Select"; ObjectID = "FNh-Lx-vNb"; */
-"FNh-Lx-vNb.title" = "Selección automática";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Lock selected objects to prevent editing."; ObjectID = "FXO-9m-im2"; */
 "FXO-9m-im2.ibShadowedToolTip" = "Bloquea los objetos seleccionados para evitar la edición.";
 
@@ -60,9 +63,6 @@
 
 /* Class = "NSStepper"; ibShadowedToolTip = "Set the distance from the object's top-left corner to the left edge of the canvas."; ObjectID = "GJb-fi-rpk"; */
 "GJb-fi-rpk.ibShadowedToolTip" = "Ajusta la distancia desde la esquina superior izquierda del objeto hasta el borde izquierdo del lienzo.";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Align the right edges of your selected objects."; ObjectID = "IZQ-AV-8st"; */
-"IZQ-AV-8st.ibShadowedToolTip" = "Alinea los bordes derechos de los objetos seleccionados.";
 
 /* Class = "NSButtonCell"; title = "Merge Layers"; ObjectID = "Jjs-lV-Roa"; */
 "Jjs-lV-Roa.title" = "Combinar capas";
@@ -82,6 +82,9 @@
 /* Class = "NSSlider"; ibShadowedToolTip = "Change the position of your selected object in the layer stack."; ObjectID = "MMH-k4-oWQ"; */
 "MMH-k4-oWQ.ibShadowedToolTip" = "Cambia la posición del objeto seleccionado en la pila de capas.";
 
+/* Class = "NSTextFieldCell"; title = "Angle"; ObjectID = "MQv-pm-Us0"; */
+"MQv-pm-Us0.title" = "Ángulo";
+
 /* Class = "NSMenuItem"; title = "Inches"; ObjectID = "MZZ-7D-l3f"; */
 "MZZ-7D-l3f.title" = "Pulgadas";
 
@@ -90,9 +93,6 @@
 
 /* Class = "NSButtonCell"; title = "Backward"; ObjectID = "OB5-yi-i3b"; */
 "OB5-yi-i3b.title" = "Hacia atrás";
-
-/* Class = "NSTextField"; ibShadowedToolTip = "Remove any overlapping areas between the shape you draw and the currently selected shape."; ObjectID = "OBf-Sz-5aT"; */
-"OBf-Sz-5aT.ibShadowedToolTip" = "Elimina cualquier área superpuesta entre la figura que dibujas y la figura seleccionada actualmente.";
 
 /* Class = "NSButtonCell"; title = "Constrain proportions"; ObjectID = "OJ5-e3-cYm"; */
 "OJ5-e3-cYm.title" = "Limitar proporciones";
@@ -103,17 +103,29 @@
 /* Class = "NSMenuItem"; title = "Bring to Front"; ObjectID = "RCq-OV-Ey6"; */
 "RCq-OV-Ey6.title" = "Colocar en primer plano";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their right edges."; ObjectID = "SJk-XO-zMZ"; */
-"SJk-XO-zMZ.ibShadowedToolTip" = "Distribuye uniformemente los objetos seleccionados según sus bordes derechos.";
-
-/* Class = "NSTextFieldCell"; title = "Exclude"; ObjectID = "TN3-BD-xiq"; */
-"TN3-BD-xiq.title" = "Excluir";
-
 /* Class = "NSMenuItem"; title = "Flip Horizontally"; ObjectID = "V1a-td-cTd"; */
 "V1a-td-cTd.title" = "Volteo horizontal";
 
 /* Class = "NSTextFieldCell"; title = "1125 px"; ObjectID = "VpS-D2-atF"; */
 "VpS-D2-atF.title" = "1125 px";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[0] = "Evenly distribute your selected objects according to their top edges."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[0]" = "Evenly distribute your selected objects according to their top edges.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[1] = "Evenly distribute your selected objects according to their vertical centers."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[1]" = "Evenly distribute your selected objects according to their vertical centers.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[2] = "Evenly distribute your selected objects according to their bottom edges."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[2]" = "Evenly distribute your selected objects according to their bottom edges.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[3] = "Evenly distribute your selected objects according to their left edges."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[3]" = "Evenly distribute your selected objects according to their left edges.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[4] = "Evenly distribute your selected objects according to their horizontal centers."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[4]" = "Evenly distribute your selected objects according to their horizontal centers.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[5] = "Evenly distribute your selected objects according to their right edges."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[5]" = "Evenly distribute your selected objects according to their right edges.";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set how much to round the corners of the shape."; ObjectID = "XPC-Hq-yHT"; */
 "XPC-Hq-yHT.ibShadowedToolTip" = "Configura cuánto se deben redondear los bordes de la figura.";
@@ -121,8 +133,8 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the angle of the object."; ObjectID = "XXm-Ep-bDH"; */
 "XXm-Ep-bDH.ibShadowedToolTip" = "Configura el ángulo del objeto.";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their bottom edges."; ObjectID = "XcO-MF-RrD"; */
-"XcO-MF-RrD.ibShadowedToolTip" = "Distribuye uniformemente los objetos seleccionados según sus bordes inferiores.";
+/* Class = "NSTextFieldCell"; title = "Flip"; ObjectID = "Xq3-9a-fRb"; */
+"Xq3-9a-fRb.title" = "Girar";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Show the selected objects to make them visible."; ObjectID = "Y5c-gY-4Ls"; */
 "Y5c-gY-4Ls.ibShadowedToolTip" = "Muestra los objetos seleccionados para hacerlos visibles.";
@@ -139,14 +151,11 @@
 /* Class = "NSMenuItem"; title = "Rotate"; ObjectID = "ZLT-F2-Mga"; */
 "ZLT-F2-Mga.title" = "Rotar";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their horizontal centers."; ObjectID = "adS-zi-erU"; */
-"adS-zi-erU.ibShadowedToolTip" = "Distribuye uniformemente los objetos seleccionados según sus centros horizontales.";
+/* Class = "NSMenuItem"; title = "Layer"; ObjectID = "aad-9q-6Ff"; */
+"aad-9q-6Ff.title" = "Capa";
 
 /* Class = "NSMenuItem"; title = "Rotate 180°"; ObjectID = "anc-VZ-zcz"; */
 "anc-VZ-zcz.title" = "Rotar 180°";
-
-/* Class = "NSTextField"; ibShadowedToolTip = "Subtract the shape from the currently selected shape."; ObjectID = "au1-zm-BJX"; */
-"au1-zm-BJX.ibShadowedToolTip" = "Sustrae esa figura de la figura seleccionada actualmente.";
 
 /* Class = "NSMenuItem"; title = "Millimeters"; ObjectID = "bhQ-IR-arc"; */
 "bhQ-IR-arc.title" = "Milímetros";
@@ -163,11 +172,8 @@
 /* Class = "NSSegmentedCell"; c82-Mt-0Th.ibShadowedToolTips[3] = "Remove any overlapping areas between the shape you draw and the currently selected shape."; ObjectID = "c82-Mt-0Th"; */
 "c82-Mt-0Th.ibShadowedToolTips[3]" = "Elimina cualquier área superpuesta entre la figura que dibujas y la figura seleccionada actualmente.";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Align the horizontal centers of your selected objects."; ObjectID = "cEB-Rh-8fT"; */
-"cEB-Rh-8fT.ibShadowedToolTip" = "Alinea los centros horizontales de los objetos seleccionados.";
-
-/* Class = "NSTextFieldCell"; title = "ARRANGE"; ObjectID = "d5s-RU-JP0"; */
-"d5s-RU-JP0.title" = "ORGANIZAR";
+/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "czQ-0M-KBS"; */
+"czQ-0M-KBS.ibShadowedToolTip" = "Añade esa figura a la figura seleccionada actualmente.";
 
 /* Class = "NSMenuItem"; title = "Percent"; ObjectID = "dCL-Bx-uBX"; */
 "dCL-Bx-uBX.title" = "Porcentaje";
@@ -220,6 +226,9 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Hide the selected objects to make them invisible."; ObjectID = "imy-BU-vp0"; */
 "imy-BU-vp0.ibShadowedToolTip" = "Oculta los objetos seleccionados para hacerlos invisibles.";
 
+/* Class = "NSButtonCell"; title = "Auto Select:"; ObjectID = "ixB-k7-Es5"; */
+"ixB-k7-Es5.title" = "Auto Select:";
+
 /* Class = "NSTextFieldCell"; title = "100 px"; ObjectID = "kPT-SB-GDm"; */
 "kPT-SB-GDm.title" = "100 px";
 
@@ -229,20 +238,11 @@
 /* Class = "NSMenuItem"; title = "Position"; ObjectID = "lvH-Go-6d6"; */
 "lvH-Go-6d6.title" = "Posición";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their left edges."; ObjectID = "n8N-eR-6OC"; */
-"n8N-eR-6OC.ibShadowedToolTip" = "Distribuye uniformemente los objetos seleccionados según sus bordes izquierdos.";
-
 /* Class = "NSTextFieldCell"; title = "Corner Radius"; ObjectID = "nhw-rV-GbO"; */
 "nhw-rV-GbO.title" = "Radio de esquina";
 
-/* Class = "NSTextFieldCell"; title = "Subtract"; ObjectID = "ntl-Rm-WKB"; */
-"ntl-Rm-WKB.title" = "Sustraer";
-
 /* Class = "NSTextFieldCell"; title = "45.0°"; ObjectID = "oAf-0f-BN4"; */
 "oAf-0f-BN4.title" = "45,0°";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Align the bottom edges of your selected objects."; ObjectID = "p2O-r9-WTB"; */
-"p2O-r9-WTB.ibShadowedToolTip" = "Alinea los bordes inferiores de los objetos seleccionados.";
 
 /* Class = "NSMenuItem"; title = "Bring Forward"; ObjectID = "pQT-8I-8oQ"; */
 "pQT-8I-8oQ.title" = "Colocar por encima";
@@ -250,11 +250,8 @@
 /* Class = "NSButtonCell"; title = "Transform..."; ObjectID = "peg-31-Nbk"; */
 "peg-31-Nbk.title" = "Transformar...";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Align the left edges of your selected objects."; ObjectID = "qhg-Kq-Ima"; */
-"qhg-Kq-Ima.ibShadowedToolTip" = "Alinea los bordes izquierdos de los objetos seleccionados.";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Align the vertical centers of your selected objects."; ObjectID = "r0l-bG-5px"; */
-"r0l-bG-5px.ibShadowedToolTip" = "Alinea los centros verticales de los objetos seleccionados.";
+/* Class = "NSTextFieldCell"; title = "Arrange"; ObjectID = "pkd-q9-ePM"; */
+"pkd-q9-ePM.title" = "Organizar";
 
 /* Class = "NSMenuItem"; title = "Rotate 90° Left"; ObjectID = "s5m-ad-ahi"; */
 "s5m-ad-ahi.title" = "Rotar 90° a la izquierda";
@@ -277,9 +274,6 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Group the selected objects into a single group layer."; ObjectID = "scv-Rh-mPw"; */
 "scv-Rh-mPw.ibShadowedToolTip" = "Agrupa los objetos seleccionados en un solo grupo de capas.";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Align the top edges of your selected objects."; ObjectID = "sdw-tJ-ZxV"; */
-"sdw-tJ-ZxV.ibShadowedToolTip" = "Alinea los bordes superiores de los objetos seleccionados.";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Destructively combine the selected objects into a single object."; ObjectID = "sfQ-Lz-CQh"; */
 "sfQ-Lz-CQh.ibShadowedToolTip" = "Combina los objetos seleccionados en un único objeto de forma destructiva.";
 
@@ -288,6 +282,9 @@
 
 /* Class = "NSStepper"; ibShadowedToolTip = "Set the object height."; ObjectID = "uNU-hT-FNq"; */
 "uNU-hT-FNq.ibShadowedToolTip" = "Ajusta la altura del objeto.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "uj1-NU-A2f"; */
+"uj1-NU-A2f.ibShadowedToolTip" = "Añade esa figura a la figura seleccionada actualmente.";
 
 /* Class = "NSMenuItem"; title = "Centimeters"; ObjectID = "ulf-YR-Nvr"; */
 "ulf-YR-Nvr.title" = "Centímetros";
@@ -301,9 +298,6 @@
 /* Class = "NSButtonCell"; title = "Group"; ObjectID = "waR-3P-xXg"; */
 "waR-3P-xXg.title" = "Agrupar";
 
-/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "x20-5l-daR"; */
-"x20-5l-daR.ibShadowedToolTip" = "Añade esa figura a la figura seleccionada actualmente.";
-
 /* Class = "NSMenuItem"; title = "Millimeters"; ObjectID = "xHf-XB-u8g"; */
 "xHf-XB-u8g.title" = "Milímetros";
 
@@ -315,3 +309,6 @@
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the distance from the object's top-left corner to the top edge of the canvas."; ObjectID = "ySw-dA-xJy"; */
 "ySw-dA-xJy.ibShadowedToolTip" = "Ajusta la distancia desde la esquina superior derecha del objeto hasta el borde izquierdo del lienzo.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Turn automatic layer selection on or off."; ObjectID = "ydc-Om-6DT"; */
+"ydc-Om-6DT.ibShadowedToolTip" = "Turn automatic layer selection on or off.";
