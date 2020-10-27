@@ -59,13 +59,10 @@
 "1 Point" = "1 Punto";
 
 /* No comment provided by engineer. */
-"16:9" = "16:9";
+"16-bits per channel" = "16 bits por canal";
 
 /* No comment provided by engineer. */
 "180°" = "180°";
-
-/* No comment provided by engineer. */
-"2:3" = "2:3";
 
 /* No comment provided by engineer. */
 "2x" = "2x";
@@ -77,19 +74,10 @@
 "3-Way Color" = "Color tridireccional";
 
 /* No comment provided by engineer. */
-"3:2" = "3:2";
-
-/* No comment provided by engineer. */
-"3:4" = "3:4";
-
-/* No comment provided by engineer. */
 "3x" = "3x";
 
 /* No comment provided by engineer. */
 "45°" = "45°";
-
-/* No comment provided by engineer. */
-"4:3" = "4:3";
 
 /* color picker sample size area */
 "5 by 5" = "5 por 5";
@@ -98,10 +86,10 @@
 "5x" = "5x";
 
 /* No comment provided by engineer. */
-"90°" = "90°";
+"8-bits per channel" = "8 bits por canal";
 
 /* No comment provided by engineer. */
-"9:16" = "9:16";
+"90°" = "90°";
 
 /* No comment provided by engineer. */
 "\"%@\" Color Adjustment" = "Ajuste de color \"%@\"";
@@ -119,9 +107,6 @@
 "Actual Size" = "Tamaño real";
 
 /* No comment provided by engineer. */
-"Add" = "Añadir";
-
-/* No comment provided by engineer. */
 "Add %@" = "Añadir %@";
 
 /* No comment provided by engineer. */
@@ -132,9 +117,6 @@
 
 /* No comment provided by engineer. */
 "Add Color Tag" = "Añadir etiqueta de color";
-
-/* No comment provided by engineer. */
-"Add Effects" = "Añadir efectos";
 
 /* No comment provided by engineer. */
 "Add for Export..." = "Añadir para la exportación...";
@@ -158,6 +140,9 @@
 "Add Point" = "Agregar punto";
 
 /* No comment provided by engineer. */
+"Add Preset" = "Add Preset";
+
+/* No comment provided by engineer. */
 "Add Slice" = "Añadir sector";
 
 /* No comment provided by engineer. */
@@ -165,12 +150,6 @@
 
 /* No comment provided by engineer. */
 "Add to Shape" = "Agregar a figura";
-
-/* No comment provided by engineer. */
-"Adjust" = "Ajustar";
-
-/* No comment provided by engineer. */
-"Adjust Colors" = "Ajustar colores";
 
 /* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "Ajusta el brillo y la saturación del color.";
@@ -218,6 +197,9 @@
 "All rights reserved." = "Todos los derechos reservados.";
 
 /* No comment provided by engineer. */
+"Allow Access" = "Allow Access";
+
+/* No comment provided by engineer. */
 "Angle" = "Ángulo";
 
 /* No comment provided by engineer. */
@@ -241,8 +223,11 @@
 /* No comment provided by engineer. */
 "Are you sure you want to remove the entire collection?" = "¿Seguro que quieres eliminar toda la colección?";
 
-/* collection name */
+/* No comment provided by engineer. */
 "Are you sure you want to remove the entire “%@” collection?" = "¿Seguro que quieres eliminar toda la colección “%@”?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove the “%@” preset?" = "Are you sure you want to remove the “%@” preset?";
 
 /* No comment provided by engineer. */
 "Arrange" = "Organizar";
@@ -470,7 +455,22 @@
 "Checkerboard" = "Tablero";
 
 /* No comment provided by engineer. */
+"Choose a color adjustments collection." = "Choose a color adjustments collection.";
+
+/* No comment provided by engineer. */
 "Choose a color palette." = "Selecciona una paleta de colores.";
+
+/* No comment provided by engineer. */
+"Choose a effects collection." = "Choose a effects collection.";
+
+/* No comment provided by engineer. */
+"Choose a gradients collection." = "Choose a gradients collection.";
+
+/* No comment provided by engineer. */
+"Choose a shapes collection." = "Choose a shapes collection.";
+
+/* No comment provided by engineer. */
+"Choose a styles collection." = "Choose a styles collection.";
 
 /* No comment provided by engineer. */
 "Choose a Template" = "Elige una plantilla";
@@ -518,7 +518,13 @@
 "Clear Slices" = "Borrar sectores";
 
 /* No comment provided by engineer. */
+"Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "Haz clic para seleccionar un color.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the color adjustment presets." = "Click to hide or show the color adjustment presets.";
 
 /* No comment provided by engineer. */
 "Click to hide or show the color picker." = "Haz clic para ocultar o mostrar el selector de colores.";
@@ -527,7 +533,49 @@
 "Click to hide or show the color swatches." = "Haz clic para ocultar o mostrar las muestras de colores.";
 
 /* No comment provided by engineer. */
+"Click to hide or show the effect presets." = "Click to hide or show the effect presets.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the shape presets." = "Click to hide or show the shape presets.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the style presets." = "Click to hide or show the style presets.";
+
+/* No comment provided by engineer. */
+"Click to pick a color from your image" = "Click to pick a color from your image";
+
+/* No comment provided by engineer. */
 "Click to pick a color from your image." = "Haz clic para elegir un color en la imagen.";
+
+/* No comment provided by engineer. */
+"Click to pick a source color from your image" = "Click to pick a source color from your image";
+
+/* No comment provided by engineer. */
+"Click to pick a target color from your image" = "Click to pick a target color from your image";
+
+/* No comment provided by engineer. */
+"Click to set the black point for the red, green, and blue levels" = "Click to set the black point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the black point on the red, green, and blue curves" = "Click to set the black point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to set the gray point for the red, green, and blue levels" = "Click to set the gray point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the gray point in the image" = "Click to set the gray point in the image";
+
+/* No comment provided by engineer. */
+"Click to set the gray point on the red, green, and blue curves" = "Click to set the gray point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to set the white point for the red, green, and blue levels" = "Click to set the white point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the white point on the red, green, and blue curves" = "Click to set the white point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to show color panel." = "Click to show color panel.";
 
 /* No comment provided by engineer. */
 "Click to show or hide the Colors window." = "Haz clic para mostrar u ocultar la ventana de colores.";
@@ -548,13 +596,13 @@
 "CMYK Profiles" = "Perfiles CMYK";
 
 /* No comment provided by engineer. */
+"Collection" = "Collection";
+
+/* No comment provided by engineer. */
 "Collections" = "Colecciones";
 
 /* No comment provided by engineer. */
 "Color" = "Color";
-
-/* No comment provided by engineer. */
-"Color Adjustment" = "Ajuste de color";
 
 /* Effects category name */
 "Color Adjustments" = "Ajuste de color";
@@ -569,6 +617,9 @@
 "Color Depth" = "Profundidad de color";
 
 /* No comment provided by engineer. */
+"Color Depth:" = "Profundidad de color:";
+
+/* No comment provided by engineer. */
 "Color Dodge" = "Sobreexponer color";
 
 /* No comment provided by engineer. */
@@ -579,6 +630,9 @@
 
 /* No comment provided by engineer. */
 "Color Noise Reduction" = "Reducción de ruido de color";
+
+/* No comment provided by engineer. */
+"Color Palette" = "Color Palette";
 
 /* No comment provided by engineer. */
 "Color Palettes" = "Paletas de colores";
@@ -617,6 +671,9 @@
 "Constant" = "Constante";
 
 /* No comment provided by engineer. */
+"Constrain" = "Constrain";
+
+/* No comment provided by engineer. */
 "Constrain Proportions" = "Limitar proporciones";
 
 /* No comment provided by engineer. */
@@ -635,10 +692,13 @@
 "Convert into Shape" = "Convertir en forma";
 
 /* No comment provided by engineer. */
+"Copy" = "Copiar";
+
+/* No comment provided by engineer. */
 "copy" = "copia";
 
 /* No comment provided by engineer. */
-"Copy" = "Copiar";
+"Copy %@" = "Copy %@";
 
 /* No comment provided by engineer. */
 "Copy Adjustments" = "Copiar ajustes";
@@ -677,12 +737,6 @@
 "Crop" = "Recortar";
 
 /* No comment provided by engineer. */
-"Crop Preset" = "Recortar el preajuste";
-
-/* No comment provided by engineer. */
-"Crop Presets" = "Recortar los preajustes";
-
-/* No comment provided by engineer. */
 "Crop Tool" = "Herramienta Recortar";
 
 /* No comment provided by engineer. */
@@ -701,7 +755,13 @@
 "Custom" = "Personalizado";
 
 /* No comment provided by engineer. */
-"Custom Shape" = "Forma personalizada";
+"Custom Shapes" = "Custom Shapes";
+
+/* No comment provided by engineer. */
+"Customize Layout..." = "Customize Layout...";
+
+/* No comment provided by engineer. */
+"Customize Tools..." = "Customize Tools...";
 
 /* No comment provided by engineer. */
 "Cut" = "Cortar";
@@ -741,9 +801,6 @@
 
 /* No comment provided by engineer. */
 "Delete Path" = "Eliminar trazado";
-
-/* No comment provided by engineer. */
-"Delete Paths" = "Eliminar trazados";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "Eliminar sector";
@@ -845,6 +902,9 @@
 "Don't Save" = "No guardar";
 
 /* No comment provided by engineer. */
+"Done" = "Hecho";
+
+/* No comment provided by engineer. */
 "Don’t Allow" = "No permitir";
 
 /* No comment provided by engineer. */
@@ -860,16 +920,19 @@
 "Drag and drop images here to match their colors using machine learning." = "Arrastra y suelta imágenes aquí para combinar sus colores por medio del aprendizaje automático.";
 
 /* No comment provided by engineer. */
-"Draw" = "Dibujar";
+"Drag to adjust the position of the gradient" = "Drag to adjust the position of the gradient";
+
+/* No comment provided by engineer. */
+"Drag your favorite tools into the list above..." = "Drag your favorite tools into the list above...";
 
 /* No comment provided by engineer. */
 "Draw Path" = "Dibujar trazo";
 
 /* No comment provided by engineer. */
-"Draw Shape" = "Dibujar figura";
+"Draw Slice" = "Dibujar sector";
 
 /* No comment provided by engineer. */
-"Draw Slice" = "Dibujar sector";
+"Drawing" = "Drawing";
 
 /* No comment provided by engineer. */
 "Droste" = "Droste";
@@ -899,7 +962,7 @@
 "Edit Slice" = "Editar sector";
 
 /* No comment provided by engineer. */
-"Effect" = "Efecto";
+"EDR Mode" = "EDR Mode";
 
 /* No comment provided by engineer. */
 "Effects" = "Efectos";
@@ -909,6 +972,9 @@
 
 /* No comment provided by engineer. */
 "Ellipse" = "Elipse";
+
+/* No comment provided by engineer. */
+"Ellipse Shape" = "Ellipse Shape";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "Selección elíptica";
@@ -962,19 +1028,37 @@
 "Export" = "Exportar";
 
 /* No comment provided by engineer. */
+"Export All Effects" = "Export All Effects";
+
+/* No comment provided by engineer. */
 "Export All..." = "Exportar todos...";
 
 /* No comment provided by engineer. */
 "Export As:" = "Exportar como:";
 
 /* No comment provided by engineer. */
-"Export Color Palette" = "Exportar paleta de colores";
+"Export Color Adjustments" = "Export Color Adjustments";
+
+/* No comment provided by engineer. */
+"Export Color Palettes" = "Export Color Palettes";
+
+/* No comment provided by engineer. */
+"Export Custom Shapes" = "Export Custom Shapes";
 
 /* No comment provided by engineer. */
 "Export Document as Images" = "Exportar documentos como imágenes";
 
 /* No comment provided by engineer. */
+"Export Effects" = "Export Effects";
+
+/* No comment provided by engineer. */
 "Export for Web" = "Exportar para web";
+
+/* No comment provided by engineer. */
+"Export Gradient Collection" = "Export Gradient Collection";
+
+/* No comment provided by engineer. */
+"Export Layer Styles" = "Export Layer Styles";
 
 /* No comment provided by engineer. */
 "Export Library" = "Exportar biblioteca";
@@ -1011,6 +1095,9 @@
 
 /* No comment provided by engineer. */
 "Exposure" = "Exposición";
+
+/* No comment provided by engineer. */
+"Extension" = "Extensión";
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
@@ -1067,6 +1154,9 @@
 "Finish Selection" = "Finalizar selección";
 
 /* No comment provided by engineer. */
+"Fit" = "Ajustar";
+
+/* No comment provided by engineer. */
 "Fixed" = "Fijo";
 
 /* No comment provided by engineer. */
@@ -1077,6 +1167,9 @@
 
 /* No comment provided by engineer. */
 "Flatten Styles" = "Combinar estilos";
+
+/* No comment provided by engineer. */
+"Flexible Space" = "Flexible Space";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "Volteo horizontal";
@@ -1100,9 +1193,6 @@
 "Foreground Color" = "Color de primer plano";
 
 /* No comment provided by engineer. */
-"Format" = "Formato";
-
-/* No comment provided by engineer. */
 "Fourfold" = "Cuatro veces";
 
 /* No comment provided by engineer. */
@@ -1112,13 +1202,13 @@
 "Fourfold Translated" = "Trasladado x 4";
 
 /* No comment provided by engineer. */
-"Free Select" = "Selección libre";
+"Free From Shape" = "Free From Shape";
 
 /* No comment provided by engineer. */
 "Free Selection" = "Selección libre";
 
 /* No comment provided by engineer. */
-"Freeform" = "Forma libre";
+"Freeform Pen" = "Lápiz de formas libres";
 
 /* No comment provided by engineer. */
 "Freeform Type" = "Texto de forma libre";
@@ -1161,6 +1251,9 @@
 
 /* No comment provided by engineer. */
 "Gradient Angle" = "Ángulo de degradado";
+
+/* No comment provided by engineer. */
+"Gradient Collection" = "Gradient Collection";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "Relleno de degradado";
@@ -1214,6 +1307,9 @@
 "Halo" = "Halo";
 
 /* No comment provided by engineer. */
+"Hand" = "Mano";
+
+/* No comment provided by engineer. */
 "Hard Light" = "Luz fuerte";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1338,6 @@
 
 /* No comment provided by engineer. */
 "Hide Fonts" = "Ocultar fuentes";
-
-/* No comment provided by engineer. */
-"Hide Gradients" = "Ocultar degradados";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "Ocultar cuadrícula";
@@ -1287,9 +1380,6 @@
 
 /* No comment provided by engineer. */
 "Hide Selection Handles" = "Ocultar marcadores de selección";
-
-/* No comment provided by engineer. */
-"Hide Shapes" = "Ocultar formas";
 
 /* No comment provided by engineer. */
 "Hide Tab Bar" = "Ocultar barra de pestañas";
@@ -1355,6 +1445,9 @@
 "Import" = "Importar";
 
 /* No comment provided by engineer. */
+"Import All" = "Importar todo";
+
+/* No comment provided by engineer. */
 "Import..." = "Importar...";
 
 /* short for inches */
@@ -1362,6 +1455,9 @@
 
 /* No comment provided by engineer. */
 "Inches" = "Pulgadas";
+
+/* No comment provided by engineer. */
+"inches" = "pulgadas";
 
 /* No comment provided by engineer. */
 "Initial Crop" = "Recorte inicial";
@@ -1442,6 +1538,9 @@
 "Layer Menu" = "Menú de capa";
 
 /* No comment provided by engineer. */
+"Layer Styles" = "Layer Styles";
+
+/* No comment provided by engineer. */
 "Learn more" = "Saber más";
 
 /* No comment provided by engineer. */
@@ -1482,6 +1581,9 @@
 
 /* No comment provided by engineer. */
 "Line Height" = "Altura de línea";
+
+/* No comment provided by engineer. */
+"Line Shape" = "Line Shape";
 
 /* No comment provided by engineer. */
 "Linear Burn" = "Subexposición lineal";
@@ -1527,9 +1629,6 @@
 
 /* No comment provided by engineer. */
 "Magenta / Green" = "Magenta/Verde";
-
-/* No comment provided by engineer. */
-"Magnetic Select" = "Selección magnética";
 
 /* No comment provided by engineer. */
 "Magnetic Selection" = "Selección magnética";
@@ -1622,6 +1721,9 @@
 "Move" = "Mover";
 
 /* No comment provided by engineer. */
+"Move %@" = "Move %@";
+
+/* No comment provided by engineer. */
 "Move Guide" = "Mover guía";
 
 /* No comment provided by engineer. */
@@ -1646,7 +1748,7 @@
 "Mustache" = "Bigote";
 
 /* No comment provided by engineer. */
-"New" = "Nuevo";
+"New Collection" = "New Collection";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "Nueva figura elíptica";
@@ -1662,6 +1764,42 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "Nueva figura lineal";
+
+/* No comment provided by engineer. */
+"New name for color adjustments collection:" = "New name for color adjustments collection:";
+
+/* No comment provided by engineer. */
+"New name for color adjustments:" = "New name for color adjustments:";
+
+/* No comment provided by engineer. */
+"New name for color palette:" = "Nuevo nombre para la paleta de colores:";
+
+/* No comment provided by engineer. */
+"New name for color preset:" = "New name for color preset:";
+
+/* No comment provided by engineer. */
+"New name for effects collection:" = "New name for effects collection:";
+
+/* No comment provided by engineer. */
+"New name for effects preset:" = "New name for effects preset:";
+
+/* No comment provided by engineer. */
+"New name for gradient collection:" = "New name for gradient collection:";
+
+/* No comment provided by engineer. */
+"New name for layer style collection:" = "New name for layer style collection:";
+
+/* No comment provided by engineer. */
+"New name for layout preset:" = "New name for layout preset:";
+
+/* No comment provided by engineer. */
+"New name for shape collection:" = "New name for shape collection:";
+
+/* No comment provided by engineer. */
+"New name for shape preset:" = "New name for shape preset:";
+
+/* No comment provided by engineer. */
+"New name for style preset:" = "New name for style preset:";
 
 /* No comment provided by engineer. */
 "New Polygon Shape" = "Nueva figura poligonal";
@@ -1688,7 +1826,16 @@
 "New..." = "Nuevo…";
 
 /* No comment provided by engineer. */
+"No camera or scanner connected." = "No hay ninguna cámara ni escáner conectado.";
+
+/* No comment provided by engineer. */
+"No camera or scanner selected." = "No hay ninguna cámara ni escáner seleccionado.";
+
+/* No comment provided by engineer. */
 "No Color Profile" = "Sin perfil de color";
+
+/* No comment provided by engineer. */
+"No Photos" = "No hay fotos";
 
 /* No comment provided by engineer. */
 "No Recent Documents" = "No hay documentos recientes";
@@ -1772,6 +1919,9 @@
 "Paint and Sketch" = "Pinta y dibuja";
 
 /* No comment provided by engineer. */
+"Painting" = "Painting";
+
+/* No comment provided by engineer. */
 "Pass Through" = "Atravesar";
 
 /* No comment provided by engineer. */
@@ -1823,6 +1973,12 @@
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
+"Pen" = "Bolígrafo";
+
+/* No comment provided by engineer. */
+"Pencil" = "Lápiz";
+
+/* No comment provided by engineer. */
 "Percent" = "Porcentaje";
 
 /* No comment provided by engineer. */
@@ -1868,7 +2024,19 @@
 "Pixels" = "Píxeles";
 
 /* No comment provided by engineer. */
+"pixels" = "píxeles";
+
+/* No comment provided by engineer. */
+"pixels/cm" = "píxeles/cm";
+
+/* No comment provided by engineer. */
+"pixels/inch" = "píxeles/pulg";
+
+/* No comment provided by engineer. */
 "PNG" = "PNG";
+
+/* No comment provided by engineer. */
+"points" = "puntos";
 
 /* No comment provided by engineer. */
 "Points: %d" = "Puntos: %d";
@@ -1877,10 +2045,10 @@
 "Polygon" = "Polígono";
 
 /* No comment provided by engineer. */
-"Polygonal Select" = "Selección poligonal";
+"Polygonal Selection" = "Selección poligonal";
 
 /* No comment provided by engineer. */
-"Polygonal Selection" = "Selección poligonal";
+"Polygonal Shape" = "Polygonal Shape";
 
 /* No comment provided by engineer. */
 "Position" = "Posición";
@@ -1922,9 +2090,6 @@
 "Quick Export" = "Exportación rápida";
 
 /* No comment provided by engineer. */
-"Quick Select" = "Selección rápida";
-
-/* No comment provided by engineer. */
 "Quick Selection" = "Selección rápida";
 
 /* No comment provided by engineer. */
@@ -1962,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Rectangle" = "Rectángulo";
+
+/* No comment provided by engineer. */
+"Rectangle Shape" = "Rectangle Shape";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "Selección rectangular";
@@ -2003,22 +2171,22 @@
 "Remove %@" = "Eliminar %@";
 
 /* No comment provided by engineer. */
+"Remove \"\(label)\"" = "Remove \"\\(label)\"";
+
+/* No comment provided by engineer. */
 "Remove Adjustment" = "Eliminar el ajuste";
 
 /* No comment provided by engineer. */
 "Remove Anchor Point" = "Eliminar punto de anclaje";
 
 /* No comment provided by engineer. */
-"Remove collection" = "Eliminar colección";
+"Remove Collection" = "Remove Collection";
 
 /* No comment provided by engineer. */
 "Remove Color" = "Eliminar color";
 
 /* No comment provided by engineer. */
 "Remove Color Tag" = "Quitar etiqueta de color";
-
-/* No comment provided by engineer. */
-"Remove Effect" = "Eliminar efecto";
 
 /* No comment provided by engineer. */
 "Remove From Favorites" = "Eliminar de favoritos";
@@ -2036,16 +2204,40 @@
 "Remove Path" = "Borrar el trazado";
 
 /* No comment provided by engineer. */
+"Remove Shape" = "Eliminar figura";
+
+/* No comment provided by engineer. */
+"Remove Shape Path" = "Remove Shape Path";
+
+/* No comment provided by engineer. */
+"Remove Shape Paths" = "Remove Shape Paths";
+
+/* No comment provided by engineer. */
 "Remove Style" = "Eliminar estilo";
 
-/* collection name */
-"Remove “%@” collection" = "Eliminar colección “%@”";
+/* No comment provided by engineer. */
+"Remove this effect." = "Remove this effect.";
+
+/* No comment provided by engineer. */
+"Remove this layer style." = "Remove this layer style.";
+
+/* No comment provided by engineer. */
+"Remove “%@” Collection" = "Remove “%@” Collection";
+
+/* No comment provided by engineer. */
+"Remove “%@” Preset" = "Remove “%@” Preset";
+
+/* No comment provided by engineer. */
+"Remove..." = "Remove...";
 
 /* No comment provided by engineer. */
 "Rename" = "Renombrar";
 
 /* No comment provided by engineer. */
 "Rename \"%@\"" = "Renombrar \"%@\"";
+
+/* No comment provided by engineer. */
+"Rename \"%@\"..." = "Rename \"%@\"...";
 
 /* No comment provided by engineer. */
 "Rename..." = "Renombrar...";
@@ -2108,7 +2300,13 @@
 "Reset Adjustments" = "Restaurar ajustes";
 
 /* No comment provided by engineer. */
+"Reset All" = "Reset All";
+
+/* No comment provided by engineer. */
 "Reset Angle" = "Restablecer el ángulo";
+
+/* No comment provided by engineer. */
+"Reset Color Palettes" = "Reset Color Palettes";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Restablecer el recorte";
@@ -2131,9 +2329,6 @@
 /* No comment provided by engineer. */
 "Reset Styles" = "Restablecer estilos";
 
-/* No comment provided by engineer. */
-"Reset Swatches" = "Restablecer muestras";
-
 /* transform mode */
 "Resize" = "Redimensionar";
 
@@ -2144,13 +2339,22 @@
 "Resize Transform" = "Transformación de la redimensión";
 
 /* No comment provided by engineer. */
+"Resolution:" = "Resolución:";
+
+/* No comment provided by engineer. */
 "Restore" = "Restaurar";
 
 /* No comment provided by engineer. */
 "Retouch" = "Retocar";
 
 /* No comment provided by engineer. */
+"Retouching" = "Retouching";
+
+/* No comment provided by engineer. */
 "Reveal Canvas" = "Descubrir lienzo";
+
+/* No comment provided by engineer. */
+"Revert to Default Set" = "Revert to Default Set";
 
 /* color picker color value display type */
 "RGB" = "RGB";
@@ -2184,6 +2388,9 @@
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "Rectángulo redondeado";
+
+/* No comment provided by engineer. */
+"Rounded Rectangle Shape" = "Rounded Rectangle Shape";
 
 /* No comment provided by engineer. */
 "Row Height" = "Altura de fila";
@@ -2252,6 +2459,9 @@
 "Scale Vertically by Tilt" = "Escalado vertical por inclin.";
 
 /* No comment provided by engineer. */
+"Scanned Image" = "Imagen escaneada";
+
+/* No comment provided by engineer. */
 "Scatter" = "Dispersión";
 
 /* No comment provided by engineer. */
@@ -2264,7 +2474,7 @@
 "Search" = "Buscar";
 
 /* No comment provided by engineer. */
-"Select" = "Seleccionar";
+"Select a preset to change your workspace layout." = "Select a preset to change your workspace layout.";
 
 /* No comment provided by engineer. */
 "Select All" = "Seleccionar todo";
@@ -2276,22 +2486,19 @@
 "Select Bottom Layer" = "Seleccionar capa inferior";
 
 /* No comment provided by engineer. */
-"Select Color" = "Seleccionar color";
-
-/* No comment provided by engineer. */
 "Select Color Range" = "Seleccionar rango de color";
 
 /* No comment provided by engineer. */
 "Select Column" = "Seleccionar columna";
 
 /* No comment provided by engineer. */
-"Select multiple shape layers." = "Selecciona capas de formas múltiples.";
+"Select multiple shape layers" = "Select multiple shape layers";
 
 /* No comment provided by engineer. */
 "Select Next Layer" = "Seleccionar siguiente capa";
 
 /* No comment provided by engineer. */
-"Select or move a shape layer." = "Selecciona o mueve una capa de forma.";
+"Select or move a shape layer" = "Select or move a shape layer";
 
 /* No comment provided by engineer. */
 "Select Previous Layer" = "Seleccionar capa anterior";
@@ -2304,6 +2511,9 @@
 
 /* No comment provided by engineer. */
 "Selected Color" = "Color seleccionado";
+
+/* No comment provided by engineer. */
+"Selecting" = "Selecting";
 
 /* No comment provided by engineer. */
 "Selection" = "Selección";
@@ -2336,6 +2546,9 @@
 "Sepia" = "Sepia";
 
 /* No comment provided by engineer. */
+"Set alpha color component value" = "Set alpha color component value";
+
+/* No comment provided by engineer. */
 "Set blue color component value" = "Establecer el valor del componente de color azul";
 
 /* No comment provided by engineer. */
@@ -2345,19 +2558,7 @@
 "Set red color component value" = "Establecer el valor del componente de color rojo";
 
 /* No comment provided by engineer. */
-"Set replace source color" = "Definir color de origen para sustitución";
-
-/* No comment provided by engineer. */
-"Set replace target color" = "Definir color de destino para sustitución";
-
-/* No comment provided by engineer. */
 "Set the %@ color" = "Establecer el color %@";
-
-/* No comment provided by engineer. */
-"Set the black point for the Red, Green and Blue levels" = "Establecer el punto negro para los niveles de rojo, verde y azul";
-
-/* No comment provided by engineer. */
-"Set the black point on the Red, Green and Blue curves" = "Establecer el punto negro en las curvas de rojo, verde y azul";
 
 /* No comment provided by engineer. */
 "Set the color for text" = "Definir el color del texto";
@@ -2366,25 +2567,7 @@
 "Set the color using a Hex color code." = "Ajusta el color usando un código de color hexadecimal.";
 
 /* No comment provided by engineer. */
-"Set the gray point for the Red, Green and Blue levels" = "Establecer el punto gris para los niveles de rojo, verde y azul";
-
-/* No comment provided by engineer. */
-"Set the Gray point for white balance" = "Definir el punto gris para el balance de blancos";
-
-/* No comment provided by engineer. */
-"Set the gray point on the Red, Green and Blue curves" = "Establecer el punto gris en las curvas de rojo, verde y azul";
-
-/* No comment provided by engineer. */
-"Set the monochrome color" = "Establecer el color monocromático";
-
-/* No comment provided by engineer. */
 "Set the transparency of the color." = "Establece la transparencia del color.";
-
-/* No comment provided by engineer. */
-"Set the white point for the Red, Green and Blue levels" = "Establecer el punto blanco para los niveles de rojo, verde y azul";
-
-/* No comment provided by engineer. */
-"Set the white point on the Red, Green and Blue curves" = "Establecer el punto blanco en las curvas de rojo, verde y azul";
 
 /* No comment provided by engineer. */
 "Shadow" = "Sombra";
@@ -2400,9 +2583,6 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "Dirección de figura";
-
-/* No comment provided by engineer. */
-"Shapes" = "Figuras";
 
 /* No comment provided by engineer. */
 "Share" = "Compartir";
@@ -2444,9 +2624,6 @@
 "Show Fonts" = "Mostrar tipos";
 
 /* No comment provided by engineer. */
-"Show Gradients" = "Mostrar degradados";
-
-/* No comment provided by engineer. */
 "Show Grid" = "Mostrar cuadrícula";
 
 /* No comment provided by engineer. */
@@ -2454,6 +2631,9 @@
 
 /* No comment provided by engineer. */
 "Show Handles" = "Mostrar marcadores";
+
+/* No comment provided by engineer. */
+"Show hidden tools or customize the list of tools." = "Show hidden tools or customize the list of tools.";
 
 /* No comment provided by engineer. */
 "Show in Finder" = "Mostrar en Finder";
@@ -2474,7 +2654,7 @@
 "Show Optimized Preview" = "Mostrar vista previa optimizada";
 
 /* No comment provided by engineer. */
-"Show or hide format and style options." = "Muestra u oculta las opciones de formato y estilo.";
+"Show or hide the gradient handles on the canvas." = "Show or hide the gradient handles on the canvas.";
 
 /* No comment provided by engineer. */
 "Show Outline" = "Mostrar contorno";
@@ -2495,10 +2675,10 @@
 "Show Selection Handles" = "Mostrar marcadores de selección";
 
 /* No comment provided by engineer. */
-"Show Shapes" = "Mostrar formas";
+"Show Tab Bar" = "Mostrar barra de pestañas";
 
 /* No comment provided by engineer. */
-"Show Tab Bar" = "Mostrar barra de pestañas";
+"Show the effect rope on canvas." = "Show the effect rope on canvas.";
 
 /* No comment provided by engineer. */
 "Show this window when Pixelmator Pro launches" = "Mostrar esta ventana al iniciar Pixelmator Pro";
@@ -2547,9 +2727,6 @@
 
 /* No comment provided by engineer. */
 "Slice" = "Sector";
-
-/* No comment provided by engineer. */
-"Slice Formats" = "Formatos de sector";
 
 /* No comment provided by engineer. */
 "Slice Menu" = "Menú de sector";
@@ -2609,13 +2786,19 @@
 "Source Out" = "Origen fuera";
 
 /* No comment provided by engineer. */
+"Space" = "Space";
+
+/* No comment provided by engineer. */
 "Spot Light" = "Foco";
 
 /* No comment provided by engineer. */
-"Square" = "Cuadrado";
+"Star" = "Estrella";
 
 /* No comment provided by engineer. */
-"Star" = "Estrella";
+"Star Shape" = "Star Shape";
+
+/* No comment provided by engineer. */
+"Start" = "Start";
 
 /* No comment provided by engineer. */
 "Start Drawing" = "Comenzar a dibujar";
@@ -2720,9 +2903,6 @@
 "Text Style" = "Estilo de texto";
 
 /* No comment provided by engineer. */
-"Text Styles" = "Estilos de texto";
-
-/* No comment provided by engineer. */
 "Textures" = "Texturas";
 
 /* No comment provided by engineer. */
@@ -2792,6 +2972,9 @@
 "to" = "a";
 
 /* No comment provided by engineer. */
+"To rearrange the interface elements, drag them to the desired position." = "To rearrange the interface elements, drag them to the desired position.";
+
+/* No comment provided by engineer. */
 "Tolerance: %@" = "Tolerancia: %@";
 
 /* No comment provided by engineer. */
@@ -2837,7 +3020,19 @@
 "Try (%i days remaining)" = "Probar (quedan %i días)";
 
 /* No comment provided by engineer. */
+"Turn histogram on or off." = "Turn histogram on or off.";
+
+/* No comment provided by engineer. */
 "Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of Pro Display XDR." = "Activa el modo de rango extendido de dinámica para mostrar los detalles destacados ocultos usando el brillo máximo de la pantalla Pro Display XDR.";
+
+/* No comment provided by engineer. */
+"Turn this adjustment on or off." = "Turn this adjustment on or off.";
+
+/* No comment provided by engineer. */
+"Turn this effect on or off." = "Turn this effect on or off.";
+
+/* No comment provided by engineer. */
+"Turn this layer style on or off." = "Turn this layer style on or off.";
 
 /* No comment provided by engineer. */
 "Twelvefold" = "Doce veces";
@@ -2879,10 +3074,10 @@
 "Untitled" = "Sin título";
 
 /* No comment provided by engineer. */
-"Untitled layer" = "Capa sin título";
+"Untitled Layer" = "Capa sin título";
 
 /* No comment provided by engineer. */
-"Untitled Layer" = "Capa sin título";
+"Untitled layer" = "Capa sin título";
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "Máscara de capa sin título";
@@ -2943,6 +3138,12 @@
 
 /* No comment provided by engineer. */
 "Width:" = "Anchura:";
+
+/* No comment provided by engineer. */
+"Workspace" = "Workspace";
+
+/* No comment provided by engineer. */
+"Workspace Layout" = "Workspace Layout";
 
 /* No comment provided by engineer. */
 "Would you like to preserve these edits in your Photos library?" = "¿Te gustaría conservar estas ediciones en la fototeca de Fotos?";
