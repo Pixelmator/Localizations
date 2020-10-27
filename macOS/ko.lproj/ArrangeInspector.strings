@@ -1,41 +1,47 @@
 /* Class = "NSMenuItem"; title = "Send to Back"; ObjectID = "0cv-oH-Ey9"; */
 "0cv-oH-Ey9.title" = "맨 뒤로 보내기";
 
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[0] = "Align the top edges of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[0]" = "Align the top edges of your selected objects.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[1] = "Align the vertical centers of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[1]" = "Align the vertical centers of your selected objects.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[2] = "Align the bottom edges of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[2]" = "Align the bottom edges of your selected objects.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[3] = "Evenly distribute your selected objects according to their left edges."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[3]" = "Evenly distribute your selected objects according to their left edges.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[4] = "Align the horizontal centers of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[4]" = "Align the horizontal centers of your selected objects.";
+
+/* Class = "NSSegmentedCell"; 0jd-VF-ovb.ibShadowedToolTips[5] = "Align the right edges of your selected objects."; ObjectID = "0jd-VF-ovb"; */
+"0jd-VF-ovb.ibShadowedToolTips[5]" = "Align the right edges of your selected objects.";
+
 /* Class = "NSButton"; ibShadowedToolTip = "Move selected object backward in the layer stack."; ObjectID = "0mp-Te-RyF"; */
 "0mp-Te-RyF.ibShadowedToolTip" = "레이어 스택에서 선택한 대상체를 뒤로 이동합니다.";
+
+/* Class = "NSMenuItem"; title = "Group"; ObjectID = "1ao-G6-gzN"; */
+"1ao-G6-gzN.title" = "그룹";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Ungroup selected objects."; ObjectID = "1bg-wu-Now"; */
 "1bg-wu-Now.ibShadowedToolTip" = "선택한 대상체들의 그룹을 해제합니다.";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their top edges."; ObjectID = "1gR-hh-rBl"; */
-"1gR-hh-rBl.ibShadowedToolTip" = "위쪽 가장자리에 맞춰 선택한 대상체들을 균등하게 분산시킵니다.";
-
 /* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "21P-8G-uSW"; */
 "21P-8G-uSW.title" = "100%";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their vertical centers."; ObjectID = "2a8-bJ-B9h"; */
-"2a8-bJ-B9h.ibShadowedToolTip" = "세로 가운데에 맞춰 선택한 대상체들을 균등하게 분산시킵니다.";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the object height."; ObjectID = "3G5-8E-eUg"; */
 "3G5-8E-eUg.ibShadowedToolTip" = "대상체의 높이를 설정합니다.";
 
-/* Class = "NSTextFieldCell"; title = "Automatically select layers by clicking them in your image."; ObjectID = "3wM-9b-6A4"; */
-"3wM-9b-6A4.title" = "이미지에서 레이어를 클릭해서 자동으로 선택합니다.";
-
-/* Class = "NSTextField"; ibShadowedToolTip = "Create a shape from the intersection of the shape you draw and the currently selected shape."; ObjectID = "4sm-Xd-abn"; */
-"4sm-Xd-abn.ibShadowedToolTip" = "사용자가 그린 도형과 현재 선택된 도형의 교차 부분에서 도형을 생성합니다.";
+/* Class = "NSTextFieldCell"; title = "Combine"; ObjectID = "70u-Nv-WIP"; */
+"70u-Nv-WIP.title" = "Combine";
 
 /* Class = "NSMenuItem"; title = "Pixels"; ObjectID = "7cp-Zd-SWr"; */
 "7cp-Zd-SWr.title" = "픽셀";
 
-/* Class = "NSTextFieldCell"; title = "Intersect"; ObjectID = "93e-U6-c6e"; */
-"93e-U6-c6e.title" = "교차";
-
 /* Class = "NSTextFieldCell"; title = "W:"; ObjectID = "9Xq-Ko-2hA"; */
 "9Xq-Ko-2hA.title" = "너비:";
-
-/* Class = "NSTextFieldCell"; title = "Unite"; ObjectID = "BtC-6b-YNt"; */
-"BtC-6b-YNt.title" = "결합";
 
 /* Class = "NSMenuItem"; title = "Send Backwards"; ObjectID = "Btc-gw-kYd"; */
 "Btc-gw-kYd.title" = "뒤로 보내기";
@@ -49,9 +55,6 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Unlock selected objects to allow editing."; ObjectID = "Edo-tC-2H6"; */
 "Edo-tC-2H6.ibShadowedToolTip" = "편집할 수 있도록 선택한 대상체들을 잠금 해제합니다.";
 
-/* Class = "NSTextFieldCell"; title = "Auto Select"; ObjectID = "FNh-Lx-vNb"; */
-"FNh-Lx-vNb.title" = "자동 선택";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Lock selected objects to prevent editing."; ObjectID = "FXO-9m-im2"; */
 "FXO-9m-im2.ibShadowedToolTip" = "편집할 수 없도록 선택한 대상체들을 잠급니다.";
 
@@ -60,9 +63,6 @@
 
 /* Class = "NSStepper"; ibShadowedToolTip = "Set the distance from the object's top-left corner to the left edge of the canvas."; ObjectID = "GJb-fi-rpk"; */
 "GJb-fi-rpk.ibShadowedToolTip" = "대상체의 왼쪽 위 모서리에서 캔버스의 왼쪽 가장자리까지의 거리를 설정합니다.";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Align the right edges of your selected objects."; ObjectID = "IZQ-AV-8st"; */
-"IZQ-AV-8st.ibShadowedToolTip" = "선택한 대상체들의 오른쪽 가장자리를 맞춥니다.";
 
 /* Class = "NSButtonCell"; title = "Merge Layers"; ObjectID = "Jjs-lV-Roa"; */
 "Jjs-lV-Roa.title" = "레이어 병합";
@@ -82,6 +82,9 @@
 /* Class = "NSSlider"; ibShadowedToolTip = "Change the position of your selected object in the layer stack."; ObjectID = "MMH-k4-oWQ"; */
 "MMH-k4-oWQ.ibShadowedToolTip" = "레이어 스택에서 선택한 대상체의 위치를 변경합니다.";
 
+/* Class = "NSTextFieldCell"; title = "Angle"; ObjectID = "MQv-pm-Us0"; */
+"MQv-pm-Us0.title" = "각도";
+
 /* Class = "NSMenuItem"; title = "Inches"; ObjectID = "MZZ-7D-l3f"; */
 "MZZ-7D-l3f.title" = "인치";
 
@@ -90,9 +93,6 @@
 
 /* Class = "NSButtonCell"; title = "Backward"; ObjectID = "OB5-yi-i3b"; */
 "OB5-yi-i3b.title" = "뒤로";
-
-/* Class = "NSTextField"; ibShadowedToolTip = "Remove any overlapping areas between the shape you draw and the currently selected shape."; ObjectID = "OBf-Sz-5aT"; */
-"OBf-Sz-5aT.ibShadowedToolTip" = "사용자가 그린 도형과 현재 선택된 도형의 겹친 영역을 제거합니다.";
 
 /* Class = "NSButtonCell"; title = "Constrain proportions"; ObjectID = "OJ5-e3-cYm"; */
 "OJ5-e3-cYm.title" = "비율 제한";
@@ -103,17 +103,29 @@
 /* Class = "NSMenuItem"; title = "Bring to Front"; ObjectID = "RCq-OV-Ey6"; */
 "RCq-OV-Ey6.title" = "맨 앞으로 가져오기";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their right edges."; ObjectID = "SJk-XO-zMZ"; */
-"SJk-XO-zMZ.ibShadowedToolTip" = "오른쪽 가장자리에 맞춰 선택한 대상체들을 균등하게 분산시킵니다.";
-
-/* Class = "NSTextFieldCell"; title = "Exclude"; ObjectID = "TN3-BD-xiq"; */
-"TN3-BD-xiq.title" = "제외";
-
 /* Class = "NSMenuItem"; title = "Flip Horizontally"; ObjectID = "V1a-td-cTd"; */
 "V1a-td-cTd.title" = "좌우로 뒤집기";
 
 /* Class = "NSTextFieldCell"; title = "1125 px"; ObjectID = "VpS-D2-atF"; */
 "VpS-D2-atF.title" = "1125 px";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[0] = "Evenly distribute your selected objects according to their top edges."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[0]" = "Evenly distribute your selected objects according to their top edges.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[1] = "Evenly distribute your selected objects according to their vertical centers."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[1]" = "Evenly distribute your selected objects according to their vertical centers.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[2] = "Evenly distribute your selected objects according to their bottom edges."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[2]" = "Evenly distribute your selected objects according to their bottom edges.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[3] = "Evenly distribute your selected objects according to their left edges."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[3]" = "Evenly distribute your selected objects according to their left edges.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[4] = "Evenly distribute your selected objects according to their horizontal centers."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[4]" = "Evenly distribute your selected objects according to their horizontal centers.";
+
+/* Class = "NSSegmentedCell"; WBM-0n-bqX.ibShadowedToolTips[5] = "Evenly distribute your selected objects according to their right edges."; ObjectID = "WBM-0n-bqX"; */
+"WBM-0n-bqX.ibShadowedToolTips[5]" = "Evenly distribute your selected objects according to their right edges.";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set how much to round the corners of the shape."; ObjectID = "XPC-Hq-yHT"; */
 "XPC-Hq-yHT.ibShadowedToolTip" = "도형의 모서리를 얼마만큼 둥글게 할지 설정합니다.";
@@ -121,8 +133,8 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the angle of the object."; ObjectID = "XXm-Ep-bDH"; */
 "XXm-Ep-bDH.ibShadowedToolTip" = "대상체의 각도를 설정합니다.";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their bottom edges."; ObjectID = "XcO-MF-RrD"; */
-"XcO-MF-RrD.ibShadowedToolTip" = "아래쪽 가장자리에 맞춰 선택한 대상체들을 균등하게 분산시킵니다.";
+/* Class = "NSTextFieldCell"; title = "Flip"; ObjectID = "Xq3-9a-fRb"; */
+"Xq3-9a-fRb.title" = "뒤집기";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Show the selected objects to make them visible."; ObjectID = "Y5c-gY-4Ls"; */
 "Y5c-gY-4Ls.ibShadowedToolTip" = "선택한 대상체들을 표시해서 보이게 합니다.";
@@ -139,14 +151,11 @@
 /* Class = "NSMenuItem"; title = "Rotate"; ObjectID = "ZLT-F2-Mga"; */
 "ZLT-F2-Mga.title" = "회전";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their horizontal centers."; ObjectID = "adS-zi-erU"; */
-"adS-zi-erU.ibShadowedToolTip" = "가로 가운데에 맞춰 선택한 대상체들을 균등하게 분산시킵니다.";
+/* Class = "NSMenuItem"; title = "Layer"; ObjectID = "aad-9q-6Ff"; */
+"aad-9q-6Ff.title" = "레이어";
 
 /* Class = "NSMenuItem"; title = "Rotate 180°"; ObjectID = "anc-VZ-zcz"; */
 "anc-VZ-zcz.title" = "180° 회전";
-
-/* Class = "NSTextField"; ibShadowedToolTip = "Subtract the shape from the currently selected shape."; ObjectID = "au1-zm-BJX"; */
-"au1-zm-BJX.ibShadowedToolTip" = "현재 선택된 도형에서 도형을 뺍니다.";
 
 /* Class = "NSMenuItem"; title = "Millimeters"; ObjectID = "bhQ-IR-arc"; */
 "bhQ-IR-arc.title" = "밀리미터";
@@ -163,11 +172,8 @@
 /* Class = "NSSegmentedCell"; c82-Mt-0Th.ibShadowedToolTips[3] = "Remove any overlapping areas between the shape you draw and the currently selected shape."; ObjectID = "c82-Mt-0Th"; */
 "c82-Mt-0Th.ibShadowedToolTips[3]" = "사용자가 그린 도형과 현재 선택된 도형의 겹친 영역을 제거합니다.";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Align the horizontal centers of your selected objects."; ObjectID = "cEB-Rh-8fT"; */
-"cEB-Rh-8fT.ibShadowedToolTip" = "선택한 대상체들의 가로 가운데를 맞춥니다.";
-
-/* Class = "NSTextFieldCell"; title = "ARRANGE"; ObjectID = "d5s-RU-JP0"; */
-"d5s-RU-JP0.title" = "정렬";
+/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "czQ-0M-KBS"; */
+"czQ-0M-KBS.ibShadowedToolTip" = "현재 선택된 도형에 도형을 추가합니다.";
 
 /* Class = "NSMenuItem"; title = "Percent"; ObjectID = "dCL-Bx-uBX"; */
 "dCL-Bx-uBX.title" = "퍼센트";
@@ -220,6 +226,9 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Hide the selected objects to make them invisible."; ObjectID = "imy-BU-vp0"; */
 "imy-BU-vp0.ibShadowedToolTip" = "선택한 대상체들을 숨겨서 보이지 않게 합니다.";
 
+/* Class = "NSButtonCell"; title = "Auto Select:"; ObjectID = "ixB-k7-Es5"; */
+"ixB-k7-Es5.title" = "Auto Select:";
+
 /* Class = "NSTextFieldCell"; title = "100 px"; ObjectID = "kPT-SB-GDm"; */
 "kPT-SB-GDm.title" = "100 px";
 
@@ -229,20 +238,11 @@
 /* Class = "NSMenuItem"; title = "Position"; ObjectID = "lvH-Go-6d6"; */
 "lvH-Go-6d6.title" = "위치";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Evenly distribute your selected objects according to their left edges."; ObjectID = "n8N-eR-6OC"; */
-"n8N-eR-6OC.ibShadowedToolTip" = "왼쪽 가장자리에 맞춰 선택한 대상체들을 균등하게 분산시킵니다.";
-
 /* Class = "NSTextFieldCell"; title = "Corner Radius"; ObjectID = "nhw-rV-GbO"; */
 "nhw-rV-GbO.title" = "모퉁이 반경";
 
-/* Class = "NSTextFieldCell"; title = "Subtract"; ObjectID = "ntl-Rm-WKB"; */
-"ntl-Rm-WKB.title" = "빼기";
-
 /* Class = "NSTextFieldCell"; title = "45.0°"; ObjectID = "oAf-0f-BN4"; */
 "oAf-0f-BN4.title" = "45.0°";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Align the bottom edges of your selected objects."; ObjectID = "p2O-r9-WTB"; */
-"p2O-r9-WTB.ibShadowedToolTip" = "선택한 대상체들의 아래 가장자리를 맞춥니다.";
 
 /* Class = "NSMenuItem"; title = "Bring Forward"; ObjectID = "pQT-8I-8oQ"; */
 "pQT-8I-8oQ.title" = "앞으로 가져오기";
@@ -250,11 +250,8 @@
 /* Class = "NSButtonCell"; title = "Transform..."; ObjectID = "peg-31-Nbk"; */
 "peg-31-Nbk.title" = "변형...";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Align the left edges of your selected objects."; ObjectID = "qhg-Kq-Ima"; */
-"qhg-Kq-Ima.ibShadowedToolTip" = "선택한 대상체들의 왼쪽 가장자리를 맞춥니다.";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Align the vertical centers of your selected objects."; ObjectID = "r0l-bG-5px"; */
-"r0l-bG-5px.ibShadowedToolTip" = "선택한 대상체들의 세로 가운데를 맞춥니다.";
+/* Class = "NSTextFieldCell"; title = "Arrange"; ObjectID = "pkd-q9-ePM"; */
+"pkd-q9-ePM.title" = "정렬";
 
 /* Class = "NSMenuItem"; title = "Rotate 90° Left"; ObjectID = "s5m-ad-ahi"; */
 "s5m-ad-ahi.title" = "왼쪽으로 90° 회전";
@@ -277,9 +274,6 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Group the selected objects into a single group layer."; ObjectID = "scv-Rh-mPw"; */
 "scv-Rh-mPw.ibShadowedToolTip" = "단일 그룹 레이어로 선택한 대상체들을 그룹화합니다.";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Align the top edges of your selected objects."; ObjectID = "sdw-tJ-ZxV"; */
-"sdw-tJ-ZxV.ibShadowedToolTip" = "선택한 대상체들의 위 가장자리를 맞춥니다.";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Destructively combine the selected objects into a single object."; ObjectID = "sfQ-Lz-CQh"; */
 "sfQ-Lz-CQh.ibShadowedToolTip" = "선택한 대상체들을 단일 대상체로 파괴적으로 결합합니다.";
 
@@ -288,6 +282,9 @@
 
 /* Class = "NSStepper"; ibShadowedToolTip = "Set the object height."; ObjectID = "uNU-hT-FNq"; */
 "uNU-hT-FNq.ibShadowedToolTip" = "대상체의 높이를 설정합니다.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "uj1-NU-A2f"; */
+"uj1-NU-A2f.ibShadowedToolTip" = "현재 선택된 도형에 도형을 추가합니다.";
 
 /* Class = "NSMenuItem"; title = "Centimeters"; ObjectID = "ulf-YR-Nvr"; */
 "ulf-YR-Nvr.title" = "센티미터";
@@ -301,9 +298,6 @@
 /* Class = "NSButtonCell"; title = "Group"; ObjectID = "waR-3P-xXg"; */
 "waR-3P-xXg.title" = "그룹";
 
-/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "x20-5l-daR"; */
-"x20-5l-daR.ibShadowedToolTip" = "현재 선택된 도형에 도형을 추가합니다.";
-
 /* Class = "NSMenuItem"; title = "Millimeters"; ObjectID = "xHf-XB-u8g"; */
 "xHf-XB-u8g.title" = "밀리미터";
 
@@ -315,3 +309,6 @@
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the distance from the object's top-left corner to the top edge of the canvas."; ObjectID = "ySw-dA-xJy"; */
 "ySw-dA-xJy.ibShadowedToolTip" = "대상체의 왼쪽 위 모서리에서 캔버스의 위 가장자리까지의 거리를 설정합니다.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Turn automatic layer selection on or off."; ObjectID = "ydc-Om-6DT"; */
+"ydc-Om-6DT.ibShadowedToolTip" = "Turn automatic layer selection on or off.";
