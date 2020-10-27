@@ -59,13 +59,10 @@
 "1 Point" = "1포인트";
 
 /* No comment provided by engineer. */
-"16:9" = "16:9";
+"16-bits per channel" = "채널당 16비트";
 
 /* No comment provided by engineer. */
 "180°" = "180°";
-
-/* No comment provided by engineer. */
-"2:3" = "2:3";
 
 /* No comment provided by engineer. */
 "2x" = "2x";
@@ -77,19 +74,10 @@
 "3-Way Color" = "3방향 색상";
 
 /* No comment provided by engineer. */
-"3:2" = "3:2";
-
-/* No comment provided by engineer. */
-"3:4" = "3:4";
-
-/* No comment provided by engineer. */
 "3x" = "3x";
 
 /* No comment provided by engineer. */
 "45°" = "45°";
-
-/* No comment provided by engineer. */
-"4:3" = "4:3";
 
 /* color picker sample size area */
 "5 by 5" = "5 X 5";
@@ -98,10 +86,10 @@
 "5x" = "5x";
 
 /* No comment provided by engineer. */
-"90°" = "90°";
+"8-bits per channel" = "채널당 8비트";
 
 /* No comment provided by engineer. */
-"9:16" = "9:16";
+"90°" = "90°";
 
 /* No comment provided by engineer. */
 "\"%@\" Color Adjustment" = "\"%@\" 색상 조정";
@@ -119,9 +107,6 @@
 "Actual Size" = "실제 크기";
 
 /* No comment provided by engineer. */
-"Add" = "추가";
-
-/* No comment provided by engineer. */
 "Add %@" = "%@ 추가";
 
 /* No comment provided by engineer. */
@@ -132,9 +117,6 @@
 
 /* No comment provided by engineer. */
 "Add Color Tag" = "색상 태그 추가";
-
-/* No comment provided by engineer. */
-"Add Effects" = "효과 추가";
 
 /* No comment provided by engineer. */
 "Add for Export..." = "내보내기에 추가...";
@@ -158,6 +140,9 @@
 "Add Point" = "포인트 추가";
 
 /* No comment provided by engineer. */
+"Add Preset" = "Add Preset";
+
+/* No comment provided by engineer. */
 "Add Slice" = "슬라이스 추가";
 
 /* No comment provided by engineer. */
@@ -165,12 +150,6 @@
 
 /* No comment provided by engineer. */
 "Add to Shape" = "도형에 추가";
-
-/* No comment provided by engineer. */
-"Adjust" = "조정";
-
-/* No comment provided by engineer. */
-"Adjust Colors" = "색상 조정";
 
 /* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "색상의 밝기 및 채도를 조정합니다.";
@@ -218,6 +197,9 @@
 "All rights reserved." = "모든 권리 보유.";
 
 /* No comment provided by engineer. */
+"Allow Access" = "Allow Access";
+
+/* No comment provided by engineer. */
 "Angle" = "각도";
 
 /* No comment provided by engineer. */
@@ -241,8 +223,11 @@
 /* No comment provided by engineer. */
 "Are you sure you want to remove the entire collection?" = "전체 컬렉션을 제거하겠습니까?";
 
-/* collection name */
+/* No comment provided by engineer. */
 "Are you sure you want to remove the entire “%@” collection?" = "전체 “%@” 컬렉션을 제거하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove the “%@” preset?" = "Are you sure you want to remove the “%@” preset?";
 
 /* No comment provided by engineer. */
 "Arrange" = "정렬";
@@ -470,7 +455,22 @@
 "Checkerboard" = "체커판";
 
 /* No comment provided by engineer. */
+"Choose a color adjustments collection." = "Choose a color adjustments collection.";
+
+/* No comment provided by engineer. */
 "Choose a color palette." = "색상 팔레트를 선택합니다.";
+
+/* No comment provided by engineer. */
+"Choose a effects collection." = "Choose a effects collection.";
+
+/* No comment provided by engineer. */
+"Choose a gradients collection." = "Choose a gradients collection.";
+
+/* No comment provided by engineer. */
+"Choose a shapes collection." = "Choose a shapes collection.";
+
+/* No comment provided by engineer. */
+"Choose a styles collection." = "Choose a styles collection.";
 
 /* No comment provided by engineer. */
 "Choose a Template" = "템플릿 선택";
@@ -518,7 +518,13 @@
 "Clear Slices" = "슬라이스 지우기";
 
 /* No comment provided by engineer. */
+"Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "색상을 선택하려면 클릭합니다.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the color adjustment presets." = "Click to hide or show the color adjustment presets.";
 
 /* No comment provided by engineer. */
 "Click to hide or show the color picker." = "클릭하여 색 선택 도구를 숨기거나 표시합니다.";
@@ -527,7 +533,49 @@
 "Click to hide or show the color swatches." = "클릭하여 색 견본을 숨기거나 표시합니다.";
 
 /* No comment provided by engineer. */
+"Click to hide or show the effect presets." = "Click to hide or show the effect presets.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the shape presets." = "Click to hide or show the shape presets.";
+
+/* No comment provided by engineer. */
+"Click to hide or show the style presets." = "Click to hide or show the style presets.";
+
+/* No comment provided by engineer. */
+"Click to pick a color from your image" = "Click to pick a color from your image";
+
+/* No comment provided by engineer. */
 "Click to pick a color from your image." = "이미지에서 색상을 선택하려면 클릭합니다.";
+
+/* No comment provided by engineer. */
+"Click to pick a source color from your image" = "Click to pick a source color from your image";
+
+/* No comment provided by engineer. */
+"Click to pick a target color from your image" = "Click to pick a target color from your image";
+
+/* No comment provided by engineer. */
+"Click to set the black point for the red, green, and blue levels" = "Click to set the black point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the black point on the red, green, and blue curves" = "Click to set the black point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to set the gray point for the red, green, and blue levels" = "Click to set the gray point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the gray point in the image" = "Click to set the gray point in the image";
+
+/* No comment provided by engineer. */
+"Click to set the gray point on the red, green, and blue curves" = "Click to set the gray point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to set the white point for the red, green, and blue levels" = "Click to set the white point for the red, green, and blue levels";
+
+/* No comment provided by engineer. */
+"Click to set the white point on the red, green, and blue curves" = "Click to set the white point on the red, green, and blue curves";
+
+/* No comment provided by engineer. */
+"Click to show color panel." = "Click to show color panel.";
 
 /* No comment provided by engineer. */
 "Click to show or hide the Colors window." = "클릭하여 색상 창을 표시하거나 숨깁니다.";
@@ -548,13 +596,13 @@
 "CMYK Profiles" = "CMYK 프로필";
 
 /* No comment provided by engineer. */
+"Collection" = "Collection";
+
+/* No comment provided by engineer. */
 "Collections" = "모음";
 
 /* No comment provided by engineer. */
 "Color" = "색상";
-
-/* No comment provided by engineer. */
-"Color Adjustment" = "색상 조정";
 
 /* Effects category name */
 "Color Adjustments" = "색상 조정";
@@ -569,6 +617,9 @@
 "Color Depth" = "색 농도";
 
 /* No comment provided by engineer. */
+"Color Depth:" = "색 농도:";
+
+/* No comment provided by engineer. */
 "Color Dodge" = "색상 닷지";
 
 /* No comment provided by engineer. */
@@ -579,6 +630,9 @@
 
 /* No comment provided by engineer. */
 "Color Noise Reduction" = "색상 노이즈 감소";
+
+/* No comment provided by engineer. */
+"Color Palette" = "Color Palette";
 
 /* No comment provided by engineer. */
 "Color Palettes" = "색상 팔레트";
@@ -617,6 +671,9 @@
 "Constant" = "상수";
 
 /* No comment provided by engineer. */
+"Constrain" = "Constrain";
+
+/* No comment provided by engineer. */
 "Constrain Proportions" = "제한 비율";
 
 /* No comment provided by engineer. */
@@ -635,10 +692,13 @@
 "Convert into Shape" = "도형으로 변환";
 
 /* No comment provided by engineer. */
+"Copy" = "복사";
+
+/* No comment provided by engineer. */
 "copy" = "복사본";
 
 /* No comment provided by engineer. */
-"Copy" = "복사";
+"Copy %@" = "Copy %@";
 
 /* No comment provided by engineer. */
 "Copy Adjustments" = "조정 복사";
@@ -677,12 +737,6 @@
 "Crop" = "자르기";
 
 /* No comment provided by engineer. */
-"Crop Preset" = "프리셋 자르기";
-
-/* No comment provided by engineer. */
-"Crop Presets" = "프리셋 자르기";
-
-/* No comment provided by engineer. */
 "Crop Tool" = "자르기 도구";
 
 /* No comment provided by engineer. */
@@ -701,7 +755,13 @@
 "Custom" = "사용자 정의";
 
 /* No comment provided by engineer. */
-"Custom Shape" = "사용자 정의 도형";
+"Custom Shapes" = "Custom Shapes";
+
+/* No comment provided by engineer. */
+"Customize Layout..." = "Customize Layout...";
+
+/* No comment provided by engineer. */
+"Customize Tools..." = "Customize Tools...";
 
 /* No comment provided by engineer. */
 "Cut" = "오려두기";
@@ -741,9 +801,6 @@
 
 /* No comment provided by engineer. */
 "Delete Path" = "경로 삭제";
-
-/* No comment provided by engineer. */
-"Delete Paths" = "경로 삭제";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "슬라이스 삭제";
@@ -845,6 +902,9 @@
 "Don't Save" = "저장하지 않음";
 
 /* No comment provided by engineer. */
+"Done" = "완료";
+
+/* No comment provided by engineer. */
 "Don’t Allow" = "허용 안 함";
 
 /* No comment provided by engineer. */
@@ -860,16 +920,19 @@
 "Drag and drop images here to match their colors using machine learning." = "이미지를 여기로 끌어서 놓고 기계 학습을 사용해 색상을 일치시킵니다.";
 
 /* No comment provided by engineer. */
-"Draw" = "그리기";
+"Drag to adjust the position of the gradient" = "Drag to adjust the position of the gradient";
+
+/* No comment provided by engineer. */
+"Drag your favorite tools into the list above..." = "Drag your favorite tools into the list above...";
 
 /* No comment provided by engineer. */
 "Draw Path" = "경로 그리기";
 
 /* No comment provided by engineer. */
-"Draw Shape" = "도형 그리기";
+"Draw Slice" = "슬라이스 그리기";
 
 /* No comment provided by engineer. */
-"Draw Slice" = "슬라이스 그리기";
+"Drawing" = "Drawing";
 
 /* No comment provided by engineer. */
 "Droste" = "드로스테";
@@ -899,7 +962,7 @@
 "Edit Slice" = "슬라이스 편집";
 
 /* No comment provided by engineer. */
-"Effect" = "효과";
+"EDR Mode" = "EDR Mode";
 
 /* No comment provided by engineer. */
 "Effects" = "효과";
@@ -909,6 +972,9 @@
 
 /* No comment provided by engineer. */
 "Ellipse" = "타원";
+
+/* No comment provided by engineer. */
+"Ellipse Shape" = "Ellipse Shape";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "타원형 선택";
@@ -962,19 +1028,37 @@
 "Export" = "내보내기";
 
 /* No comment provided by engineer. */
+"Export All Effects" = "Export All Effects";
+
+/* No comment provided by engineer. */
 "Export All..." = "모두 내보내기...";
 
 /* No comment provided by engineer. */
 "Export As:" = "다음으로 내보내기:";
 
 /* No comment provided by engineer. */
-"Export Color Palette" = "색상 팔레트 내보내기";
+"Export Color Adjustments" = "Export Color Adjustments";
+
+/* No comment provided by engineer. */
+"Export Color Palettes" = "Export Color Palettes";
+
+/* No comment provided by engineer. */
+"Export Custom Shapes" = "Export Custom Shapes";
 
 /* No comment provided by engineer. */
 "Export Document as Images" = "이미지로 문서 내보내기";
 
 /* No comment provided by engineer. */
+"Export Effects" = "Export Effects";
+
+/* No comment provided by engineer. */
 "Export for Web" = "웹용으로 내보내기";
+
+/* No comment provided by engineer. */
+"Export Gradient Collection" = "Export Gradient Collection";
+
+/* No comment provided by engineer. */
+"Export Layer Styles" = "Export Layer Styles";
 
 /* No comment provided by engineer. */
 "Export Library" = "라이브러리 내보내기";
@@ -1011,6 +1095,9 @@
 
 /* No comment provided by engineer. */
 "Exposure" = "노출";
+
+/* No comment provided by engineer. */
+"Extension" = "확장";
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
@@ -1067,6 +1154,9 @@
 "Finish Selection" = "선택 종료";
 
 /* No comment provided by engineer. */
+"Fit" = "자동";
+
+/* No comment provided by engineer. */
 "Fixed" = "고정";
 
 /* No comment provided by engineer. */
@@ -1077,6 +1167,9 @@
 
 /* No comment provided by engineer. */
 "Flatten Styles" = "스타일 병합";
+
+/* No comment provided by engineer. */
+"Flexible Space" = "Flexible Space";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "좌우로 뒤집기";
@@ -1100,9 +1193,6 @@
 "Foreground Color" = "전경색";
 
 /* No comment provided by engineer. */
-"Format" = "포맷";
-
-/* No comment provided by engineer. */
 "Fourfold" = "4배";
 
 /* No comment provided by engineer. */
@@ -1112,13 +1202,13 @@
 "Fourfold Translated" = "4방향으로 변환";
 
 /* No comment provided by engineer. */
-"Free Select" = "자유 선택";
+"Free From Shape" = "Free From Shape";
 
 /* No comment provided by engineer. */
 "Free Selection" = "자유 선택";
 
 /* No comment provided by engineer. */
-"Freeform" = "자유형";
+"Freeform Pen" = "자유형 펜";
 
 /* No comment provided by engineer. */
 "Freeform Type" = "자유형 입력";
@@ -1161,6 +1251,9 @@
 
 /* No comment provided by engineer. */
 "Gradient Angle" = "그라디언트 각도";
+
+/* No comment provided by engineer. */
+"Gradient Collection" = "Gradient Collection";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "그라디언트 채우기";
@@ -1214,6 +1307,9 @@
 "Halo" = "할로";
 
 /* No comment provided by engineer. */
+"Hand" = "손";
+
+/* No comment provided by engineer. */
 "Hard Light" = "하드 라이트";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1338,6 @@
 
 /* No comment provided by engineer. */
 "Hide Fonts" = "글꼴 가리기";
-
-/* No comment provided by engineer. */
-"Hide Gradients" = "그라디언트 가리기";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "눈금 가리기";
@@ -1287,9 +1380,6 @@
 
 /* No comment provided by engineer. */
 "Hide Selection Handles" = "선택 핸들 가리기";
-
-/* No comment provided by engineer. */
-"Hide Shapes" = "도형 가리기";
 
 /* No comment provided by engineer. */
 "Hide Tab Bar" = "탭 막대 가리기";
@@ -1355,6 +1445,9 @@
 "Import" = "가져오기";
 
 /* No comment provided by engineer. */
+"Import All" = "모두 가져오기";
+
+/* No comment provided by engineer. */
 "Import..." = "가져오기...";
 
 /* short for inches */
@@ -1362,6 +1455,9 @@
 
 /* No comment provided by engineer. */
 "Inches" = "인치";
+
+/* No comment provided by engineer. */
+"inches" = "인치";
 
 /* No comment provided by engineer. */
 "Initial Crop" = "초기 자르기";
@@ -1442,6 +1538,9 @@
 "Layer Menu" = "레이어 메뉴";
 
 /* No comment provided by engineer. */
+"Layer Styles" = "Layer Styles";
+
+/* No comment provided by engineer. */
 "Learn more" = "더 알아보기";
 
 /* No comment provided by engineer. */
@@ -1482,6 +1581,9 @@
 
 /* No comment provided by engineer. */
 "Line Height" = "줄 높이";
+
+/* No comment provided by engineer. */
+"Line Shape" = "Line Shape";
 
 /* No comment provided by engineer. */
 "Linear Burn" = "선형 번";
@@ -1527,9 +1629,6 @@
 
 /* No comment provided by engineer. */
 "Magenta / Green" = "자홍 / 녹색";
-
-/* No comment provided by engineer. */
-"Magnetic Select" = "자석 선택";
 
 /* No comment provided by engineer. */
 "Magnetic Selection" = "자석 선택";
@@ -1622,6 +1721,9 @@
 "Move" = "이동";
 
 /* No comment provided by engineer. */
+"Move %@" = "Move %@";
+
+/* No comment provided by engineer. */
 "Move Guide" = "안내선 이동";
 
 /* No comment provided by engineer. */
@@ -1646,7 +1748,7 @@
 "Mustache" = "콧수염";
 
 /* No comment provided by engineer. */
-"New" = "신규";
+"New Collection" = "New Collection";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "새 타원 도형";
@@ -1662,6 +1764,42 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "새 선 도형";
+
+/* No comment provided by engineer. */
+"New name for color adjustments collection:" = "New name for color adjustments collection:";
+
+/* No comment provided by engineer. */
+"New name for color adjustments:" = "New name for color adjustments:";
+
+/* No comment provided by engineer. */
+"New name for color palette:" = "새로운 색상 팔레트 이름:";
+
+/* No comment provided by engineer. */
+"New name for color preset:" = "New name for color preset:";
+
+/* No comment provided by engineer. */
+"New name for effects collection:" = "New name for effects collection:";
+
+/* No comment provided by engineer. */
+"New name for effects preset:" = "New name for effects preset:";
+
+/* No comment provided by engineer. */
+"New name for gradient collection:" = "New name for gradient collection:";
+
+/* No comment provided by engineer. */
+"New name for layer style collection:" = "New name for layer style collection:";
+
+/* No comment provided by engineer. */
+"New name for layout preset:" = "New name for layout preset:";
+
+/* No comment provided by engineer. */
+"New name for shape collection:" = "New name for shape collection:";
+
+/* No comment provided by engineer. */
+"New name for shape preset:" = "New name for shape preset:";
+
+/* No comment provided by engineer. */
+"New name for style preset:" = "New name for style preset:";
 
 /* No comment provided by engineer. */
 "New Polygon Shape" = "새 다각형 도형";
@@ -1688,7 +1826,16 @@
 "New..." = "신규...";
 
 /* No comment provided by engineer. */
+"No camera or scanner connected." = "연결된 카메라 또는 스캐너가 없습니다.";
+
+/* No comment provided by engineer. */
+"No camera or scanner selected." = "선택된 카메라 또는 스캐너가 없습니다.";
+
+/* No comment provided by engineer. */
 "No Color Profile" = "색상 프로필 없음";
+
+/* No comment provided by engineer. */
+"No Photos" = "사진 없음";
 
 /* No comment provided by engineer. */
 "No Recent Documents" = "최근 사용 도큐멘트 없음";
@@ -1772,6 +1919,9 @@
 "Paint and Sketch" = "페인트 및 스케치";
 
 /* No comment provided by engineer. */
+"Painting" = "Painting";
+
+/* No comment provided by engineer. */
 "Pass Through" = "통과";
 
 /* No comment provided by engineer. */
@@ -1823,6 +1973,12 @@
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
+"Pen" = "펜";
+
+/* No comment provided by engineer. */
+"Pencil" = "연필";
+
+/* No comment provided by engineer. */
 "Percent" = "퍼센트";
 
 /* No comment provided by engineer. */
@@ -1868,7 +2024,19 @@
 "Pixels" = "픽셀";
 
 /* No comment provided by engineer. */
+"pixels" = "픽셀";
+
+/* No comment provided by engineer. */
+"pixels/cm" = "픽셀/cm";
+
+/* No comment provided by engineer. */
+"pixels/inch" = "픽셀/인치";
+
+/* No comment provided by engineer. */
 "PNG" = "PNG";
+
+/* No comment provided by engineer. */
+"points" = "포인트";
 
 /* No comment provided by engineer. */
 "Points: %d" = "포인트: %d";
@@ -1877,10 +2045,10 @@
 "Polygon" = "다각형";
 
 /* No comment provided by engineer. */
-"Polygonal Select" = "다각형 선택";
+"Polygonal Selection" = "다각형 선택";
 
 /* No comment provided by engineer. */
-"Polygonal Selection" = "다각형 선택";
+"Polygonal Shape" = "Polygonal Shape";
 
 /* No comment provided by engineer. */
 "Position" = "위치";
@@ -1922,9 +2090,6 @@
 "Quick Export" = "빠른 내보내기";
 
 /* No comment provided by engineer. */
-"Quick Select" = "빠른 선택";
-
-/* No comment provided by engineer. */
 "Quick Selection" = "빠른 선택";
 
 /* No comment provided by engineer. */
@@ -1962,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Rectangle" = "사각형";
+
+/* No comment provided by engineer. */
+"Rectangle Shape" = "Rectangle Shape";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "사각형 선택";
@@ -2003,22 +2171,22 @@
 "Remove %@" = "%@ 제거";
 
 /* No comment provided by engineer. */
+"Remove \"\(label)\"" = "Remove \"\\(label)\"";
+
+/* No comment provided by engineer. */
 "Remove Adjustment" = "조정 제거";
 
 /* No comment provided by engineer. */
 "Remove Anchor Point" = "앵커 포인트 제거";
 
 /* No comment provided by engineer. */
-"Remove collection" = "컬렉션 제거";
+"Remove Collection" = "Remove Collection";
 
 /* No comment provided by engineer. */
 "Remove Color" = "색상 제거";
 
 /* No comment provided by engineer. */
 "Remove Color Tag" = "색상 태그 제거";
-
-/* No comment provided by engineer. */
-"Remove Effect" = "효과 제거";
 
 /* No comment provided by engineer. */
 "Remove From Favorites" = "즐겨찾기에서 제거";
@@ -2036,16 +2204,40 @@
 "Remove Path" = "경로 제거";
 
 /* No comment provided by engineer. */
+"Remove Shape" = "도형 제거";
+
+/* No comment provided by engineer. */
+"Remove Shape Path" = "Remove Shape Path";
+
+/* No comment provided by engineer. */
+"Remove Shape Paths" = "Remove Shape Paths";
+
+/* No comment provided by engineer. */
 "Remove Style" = "스타일 제거";
 
-/* collection name */
-"Remove “%@” collection" = "“%@” 컬렉션 제거";
+/* No comment provided by engineer. */
+"Remove this effect." = "Remove this effect.";
+
+/* No comment provided by engineer. */
+"Remove this layer style." = "Remove this layer style.";
+
+/* No comment provided by engineer. */
+"Remove “%@” Collection" = "Remove “%@” Collection";
+
+/* No comment provided by engineer. */
+"Remove “%@” Preset" = "Remove “%@” Preset";
+
+/* No comment provided by engineer. */
+"Remove..." = "Remove...";
 
 /* No comment provided by engineer. */
 "Rename" = "이름 변경";
 
 /* No comment provided by engineer. */
 "Rename \"%@\"" = "\"%@\" 이름 변경";
+
+/* No comment provided by engineer. */
+"Rename \"%@\"..." = "Rename \"%@\"...";
 
 /* No comment provided by engineer. */
 "Rename..." = "이름 변경...";
@@ -2108,7 +2300,13 @@
 "Reset Adjustments" = "조정 재설정";
 
 /* No comment provided by engineer. */
+"Reset All" = "Reset All";
+
+/* No comment provided by engineer. */
 "Reset Angle" = "각도 재설정";
+
+/* No comment provided by engineer. */
+"Reset Color Palettes" = "Reset Color Palettes";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "자르기 재설정";
@@ -2131,9 +2329,6 @@
 /* No comment provided by engineer. */
 "Reset Styles" = "스타일 재설정";
 
-/* No comment provided by engineer. */
-"Reset Swatches" = "견본 재설정";
-
 /* transform mode */
 "Resize" = "크기 조정";
 
@@ -2144,13 +2339,22 @@
 "Resize Transform" = "크기 조정 변형";
 
 /* No comment provided by engineer. */
+"Resolution:" = "해상도:";
+
+/* No comment provided by engineer. */
 "Restore" = "복원";
 
 /* No comment provided by engineer. */
 "Retouch" = "리터치";
 
 /* No comment provided by engineer. */
+"Retouching" = "Retouching";
+
+/* No comment provided by engineer. */
 "Reveal Canvas" = "캔버스 보기";
+
+/* No comment provided by engineer. */
+"Revert to Default Set" = "Revert to Default Set";
 
 /* color picker color value display type */
 "RGB" = "RGB";
@@ -2184,6 +2388,9 @@
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "모서리가 둥근 사각형";
+
+/* No comment provided by engineer. */
+"Rounded Rectangle Shape" = "Rounded Rectangle Shape";
 
 /* No comment provided by engineer. */
 "Row Height" = "행 높이";
@@ -2252,6 +2459,9 @@
 "Scale Vertically by Tilt" = "기울기에 따라 세로 크기 조절";
 
 /* No comment provided by engineer. */
+"Scanned Image" = "스캔된 이미지";
+
+/* No comment provided by engineer. */
 "Scatter" = "분산";
 
 /* No comment provided by engineer. */
@@ -2264,7 +2474,7 @@
 "Search" = "검색";
 
 /* No comment provided by engineer. */
-"Select" = "선택";
+"Select a preset to change your workspace layout." = "Select a preset to change your workspace layout.";
 
 /* No comment provided by engineer. */
 "Select All" = "전체 선택";
@@ -2276,22 +2486,19 @@
 "Select Bottom Layer" = "맨 아래 레이어 선택";
 
 /* No comment provided by engineer. */
-"Select Color" = "색상 선택";
-
-/* No comment provided by engineer. */
 "Select Color Range" = "색상 범위 선택";
 
 /* No comment provided by engineer. */
 "Select Column" = "열 선택";
 
 /* No comment provided by engineer. */
-"Select multiple shape layers." = "여러 개의 도형 레이어를 선택합니다.";
+"Select multiple shape layers" = "Select multiple shape layers";
 
 /* No comment provided by engineer. */
 "Select Next Layer" = "다음 레이어 선택";
 
 /* No comment provided by engineer. */
-"Select or move a shape layer." = "도형 레이어를 선택하거나 이동합니다.";
+"Select or move a shape layer" = "Select or move a shape layer";
 
 /* No comment provided by engineer. */
 "Select Previous Layer" = "이전 레이어 선택";
@@ -2304,6 +2511,9 @@
 
 /* No comment provided by engineer. */
 "Selected Color" = "선택된 색";
+
+/* No comment provided by engineer. */
+"Selecting" = "Selecting";
 
 /* No comment provided by engineer. */
 "Selection" = "선택";
@@ -2336,6 +2546,9 @@
 "Sepia" = "세피아";
 
 /* No comment provided by engineer. */
+"Set alpha color component value" = "Set alpha color component value";
+
+/* No comment provided by engineer. */
 "Set blue color component value" = "파란색 구성 요소 값 설정";
 
 /* No comment provided by engineer. */
@@ -2345,19 +2558,7 @@
 "Set red color component value" = "빨간색 구성 요소 값 설정";
 
 /* No comment provided by engineer. */
-"Set replace source color" = "대체 원본 색상 설정";
-
-/* No comment provided by engineer. */
-"Set replace target color" = "대체 대상 색상 설정";
-
-/* No comment provided by engineer. */
 "Set the %@ color" = "%@ 색상 설정";
-
-/* No comment provided by engineer. */
-"Set the black point for the Red, Green and Blue levels" = "빨강, 녹색, 파랑 레벨에 대한 검정 포인트 설정";
-
-/* No comment provided by engineer. */
-"Set the black point on the Red, Green and Blue curves" = "빨강, 녹색, 파랑 커브에 대한 검정 포인트 설정";
 
 /* No comment provided by engineer. */
 "Set the color for text" = "텍스트 색상 설정";
@@ -2366,25 +2567,7 @@
 "Set the color using a Hex color code." = "16진수 색상 코드를 사용해 색상을 설정합니다.";
 
 /* No comment provided by engineer. */
-"Set the gray point for the Red, Green and Blue levels" = "빨강, 녹색, 파랑 레벨에 대한 회색 포인트 설정";
-
-/* No comment provided by engineer. */
-"Set the Gray point for white balance" = "화이트 밸런스에 대한 회색 포인트 설정";
-
-/* No comment provided by engineer. */
-"Set the gray point on the Red, Green and Blue curves" = "빨강, 녹색, 파랑 커브에 대한 회색 포인트 설정";
-
-/* No comment provided by engineer. */
-"Set the monochrome color" = "단색 색상 설정";
-
-/* No comment provided by engineer. */
 "Set the transparency of the color." = "색상의 투명도를 설정합니다.";
-
-/* No comment provided by engineer. */
-"Set the white point for the Red, Green and Blue levels" = "빨강, 녹색, 파랑 레벨에 대한 흰색 포인트 설정";
-
-/* No comment provided by engineer. */
-"Set the white point on the Red, Green and Blue curves" = "빨강, 녹색, 파랑 커브에 대한 흰색 포인트 설정";
 
 /* No comment provided by engineer. */
 "Shadow" = "그림자";
@@ -2400,9 +2583,6 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "그림자 방향";
-
-/* No comment provided by engineer. */
-"Shapes" = "도형";
 
 /* No comment provided by engineer. */
 "Share" = "공유";
@@ -2444,9 +2624,6 @@
 "Show Fonts" = "글꼴 보기";
 
 /* No comment provided by engineer. */
-"Show Gradients" = "그라디언트 보기";
-
-/* No comment provided by engineer. */
 "Show Grid" = "눈금 보기";
 
 /* No comment provided by engineer. */
@@ -2454,6 +2631,9 @@
 
 /* No comment provided by engineer. */
 "Show Handles" = "핸들 보기";
+
+/* No comment provided by engineer. */
+"Show hidden tools or customize the list of tools." = "Show hidden tools or customize the list of tools.";
 
 /* No comment provided by engineer. */
 "Show in Finder" = "Finder에서 보기";
@@ -2474,7 +2654,7 @@
 "Show Optimized Preview" = "최적화된 미리 보기 표시";
 
 /* No comment provided by engineer. */
-"Show or hide format and style options." = "포맷 및 스타일 옵션을 표시하거나 숨깁니다.";
+"Show or hide the gradient handles on the canvas." = "Show or hide the gradient handles on the canvas.";
 
 /* No comment provided by engineer. */
 "Show Outline" = "윤곽선 보기";
@@ -2495,10 +2675,10 @@
 "Show Selection Handles" = "선택 핸들 보기";
 
 /* No comment provided by engineer. */
-"Show Shapes" = "도형 보기";
+"Show Tab Bar" = "탭 막대 보기";
 
 /* No comment provided by engineer. */
-"Show Tab Bar" = "탭 막대 보기";
+"Show the effect rope on canvas." = "Show the effect rope on canvas.";
 
 /* No comment provided by engineer. */
 "Show this window when Pixelmator Pro launches" = "Pixelmator Pro가 시작될 때 이 창 표시";
@@ -2547,9 +2727,6 @@
 
 /* No comment provided by engineer. */
 "Slice" = "슬라이스";
-
-/* No comment provided by engineer. */
-"Slice Formats" = "슬라이스 형식";
 
 /* No comment provided by engineer. */
 "Slice Menu" = "슬라이스 메뉴";
@@ -2609,13 +2786,19 @@
 "Source Out" = "원본 밖";
 
 /* No comment provided by engineer. */
+"Space" = "Space";
+
+/* No comment provided by engineer. */
 "Spot Light" = "스팟 라이트";
 
 /* No comment provided by engineer. */
-"Square" = "정사각형";
+"Star" = "별";
 
 /* No comment provided by engineer. */
-"Star" = "별";
+"Star Shape" = "Star Shape";
+
+/* No comment provided by engineer. */
+"Start" = "Start";
 
 /* No comment provided by engineer. */
 "Start Drawing" = "그리기 시작";
@@ -2720,9 +2903,6 @@
 "Text Style" = "텍스트 스타일";
 
 /* No comment provided by engineer. */
-"Text Styles" = "텍스트 스타일";
-
-/* No comment provided by engineer. */
 "Textures" = "텍스처";
 
 /* No comment provided by engineer. */
@@ -2792,6 +2972,9 @@
 "to" = "대상";
 
 /* No comment provided by engineer. */
+"To rearrange the interface elements, drag them to the desired position." = "To rearrange the interface elements, drag them to the desired position.";
+
+/* No comment provided by engineer. */
 "Tolerance: %@" = "허용 오차: %@";
 
 /* No comment provided by engineer. */
@@ -2837,7 +3020,19 @@
 "Try (%i days remaining)" = "체험 (%i일 남음)";
 
 /* No comment provided by engineer. */
+"Turn histogram on or off." = "Turn histogram on or off.";
+
+/* No comment provided by engineer. */
 "Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of Pro Display XDR." = "Pro Display XDR의 최대 화면 밝기를 사용해 숨은 하이라이트 디테일을 표시하려면 확장 동적 범위 모드를 활성화하세요.";
+
+/* No comment provided by engineer. */
+"Turn this adjustment on or off." = "Turn this adjustment on or off.";
+
+/* No comment provided by engineer. */
+"Turn this effect on or off." = "Turn this effect on or off.";
+
+/* No comment provided by engineer. */
+"Turn this layer style on or off." = "Turn this layer style on or off.";
 
 /* No comment provided by engineer. */
 "Twelvefold" = "12배";
@@ -2879,10 +3074,10 @@
 "Untitled" = "제목 없음";
 
 /* No comment provided by engineer. */
-"Untitled layer" = "제목 없는 레이어";
+"Untitled Layer" = "제목 없는 레이어";
 
 /* No comment provided by engineer. */
-"Untitled Layer" = "제목 없는 레이어";
+"Untitled layer" = "제목 없는 레이어";
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "제목 없는 레이어 마스크";
@@ -2943,6 +3138,12 @@
 
 /* No comment provided by engineer. */
 "Width:" = "너비:";
+
+/* No comment provided by engineer. */
+"Workspace" = "Workspace";
+
+/* No comment provided by engineer. */
+"Workspace Layout" = "Workspace Layout";
 
 /* No comment provided by engineer. */
 "Would you like to preserve these edits in your Photos library?" = "사진 보관함에 이 편집본을 보존하시겠습니까?";
