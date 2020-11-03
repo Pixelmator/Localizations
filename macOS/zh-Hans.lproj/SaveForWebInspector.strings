@@ -7,8 +7,8 @@
 /* Class = "NSTextFieldCell"; title = "Converts to the colors best for the web and removes the color profile."; ObjectID = "5iY-a0-cYc"; */
 "5iY-a0-cYc.title" = "变换为适合 Web 的最佳颜色并移除颜色描述文件。";
 
-/* Class = "NSTextFieldCell"; title = "Images"; ObjectID = "Clb-Z6-F7P"; */
-"Clb-Z6-F7P.title" = "图像";
+/* Class = "NSButtonCell"; title = "Add Format"; ObjectID = "CXm-oh-QEv"; */
+"CXm-oh-QEv.title" = "添加格式";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "DZG-w5-va1"; */
 "DZG-w5-va1.title" = "取消";
@@ -16,14 +16,11 @@
 /* Class = "NSMenuItem"; title = "SVG"; ObjectID = "EH5-uR-6B6"; */
 "EH5-uR-6B6.title" = "SVG";
 
-/* Class = "NSMenuItem"; title = "Bring to Front"; ObjectID = "GdD-EC-fiQ"; */
-"GdD-EC-fiQ.title" = "移到最前面";
+/* Class = "NSTextFieldCell"; title = "Format"; ObjectID = "GaO-nT-D8y"; */
+"GaO-nT-D8y.title" = "格式";
 
-/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "HAU-fh-hsc"; */
-"HAU-fh-hsc.title" = "移除";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Stop using the Export for Web tool."; ObjectID = "KUQ-mP-P51"; */
-"KUQ-mP-P51.ibShadowedToolTip" = "停止使用为 Web 导出工具。";
+/* Class = "NSButton"; ibShadowedToolTip = "Add an export format."; ObjectID = "H73-fJ-g1h"; */
+"H73-fJ-g1h.ibShadowedToolTip" = "添加导出格式。";
 
 /* Class = "NSTextFieldCell"; title = "Reduce to 8-bit color"; ObjectID = "LYK-XZ-31m"; */
 "LYK-XZ-31m.title" = "减少为 8 位色";
@@ -49,17 +46,14 @@
 /* Class = "NSTextFieldCell"; title = "Use advanced compression"; ObjectID = "U1G-F0-tzA"; */
 "U1G-F0-tzA.title" = "使用高级压缩";
 
-/* Class = "NSTextFieldCell"; title = "Presets"; ObjectID = "V5T-E1-hR5"; */
-"V5T-E1-hR5.title" = "预置";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VUr-V1-1s1"; */
-"VUr-V1-1s1.title" = "文本单元格";
+/* Class = "NSButton"; ibShadowedToolTip = "Remove this export format."; ObjectID = "U7B-QQ-PAg"; */
+"U7B-QQ-PAg.ibShadowedToolTip" = "移除此导出格式。";
 
 /* Class = "NSTextFieldCell"; title = "Compresses the image using several advanced but slower algorithms."; ObjectID = "VuT-WY-RBN"; */
 "VuT-WY-RBN.title" = "使用一些高级但速度较慢的算法压缩图像。";
 
-/* Class = "NSMenuItem"; title = "Format"; ObjectID = "Ytk-pc-b8h"; */
-"Ytk-pc-b8h.title" = "格式";
+/* Class = "NSButton"; ibShadowedToolTip = "Show the Export for Web presets."; ObjectID = "WAj-pg-0iz"; */
+"WAj-pg-0iz.ibShadowedToolTip" = "显示 Web 预置导出。";
 
 /* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "aCY-pe-VKG"; */
 "aCY-pe-VKG.title" = "大小";
@@ -67,20 +61,8 @@
 /* Class = "NSTextFieldCell"; title = "Keep transparency"; ObjectID = "aEF-H8-VFY"; */
 "aEF-H8-VFY.title" = "保持透明度";
 
-/* Class = "NSTextFieldCell"; title = "OPTIMIZE"; ObjectID = "dLY-uS-bYw"; */
-"dLY-uS-bYw.title" = "优化";
-
-/* Class = "NSMenuItem"; title = "Bring Forward"; ObjectID = "dhO-7E-1eH"; */
-"dhO-7E-1eH.title" = "前移";
-
-/* Class = "NSTextFieldCell"; title = "EXPORT FOR WEB"; ObjectID = "dlE-VG-wiD"; */
+/* Class = "NSTextFieldCell"; title = "Export for Web"; ObjectID = "dlE-VG-wiD"; */
 "dlE-VG-wiD.title" = "为 Web 导出";
-
-/* Class = "NSButtonCell"; title = "Add Format"; ObjectID = "eJg-Im-zb6"; */
-"eJg-Im-zb6.title" = "新增格式";
-
-/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "fBT-Oa-u1C"; */
-"fBT-Oa-u1C.title" = "重置";
 
 /* Class = "NSButtonCell"; title = "Export..."; ObjectID = "g6g-dE-eAy"; */
 "g6g-dE-eAy.title" = "导出…";
@@ -109,12 +91,6 @@
 /* Class = "NSTextFieldCell"; title = "146 x 146"; ObjectID = "r6D-Uh-1wx"; */
 "r6D-Uh-1wx.title" = "146 x 146";
 
-/* Class = "NSButtonCell"; title = "Presets"; ObjectID = "sso-bU-h42"; */
-"sso-bU-h42.title" = "预置";
-
-/* Class = "NSMenuItem"; title = "Send to Back"; ObjectID = "syz-ze-ghz"; */
-"syz-ze-ghz.title" = "移到最后面";
-
 /* Class = "NSMenuItem"; title = "1x"; ObjectID = "t28-vS-832"; */
 "t28-vS-832.title" = "1x";
 
@@ -132,6 +108,3 @@
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "x5L-Xo-dCT"; */
 "x5L-Xo-dCT.title" = "文本单元格";
-
-/* Class = "NSMenuItem"; title = "Send Backward"; ObjectID = "zmW-j1-uN2"; */
-"zmW-j1-uN2.title" = "后移";

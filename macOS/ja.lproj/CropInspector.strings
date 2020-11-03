@@ -40,6 +40,9 @@
 /* Class = "NSTextFieldCell"; title = "H:"; ObjectID = "KkF-xn-XzK"; */
 "KkF-xn-XzK.title" = "高さ:";
 
+/* Class = "NSTextFieldCell"; title = "Flip"; ObjectID = "LPg-ss-UqO"; */
+"LPg-ss-UqO.title" = "反転";
+
 /* Class = "NSMenuItem"; title = "Flip Vertically"; ObjectID = "MEC-zM-bim"; */
 "MEC-zM-bim.title" = "垂直方向に反転";
 
@@ -55,11 +58,11 @@
 /* Class = "NSMenuItem"; title = "Rotate 180°"; ObjectID = "OBZ-7E-fwv"; */
 "OBZ-7E-fwv.title" = "180°回転";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PAV-h1-S5Y"; */
-"PAV-h1-S5Y.title" = "テキスト セル";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Show a grid dividing the crop selection rectangle into thirds."; ObjectID = "Px9-BW-68U"; */
 "Px9-BW-68U.ibShadowedToolTip" = "切り抜き選択範囲を3分割したグリッドを表示。";
+
+/* Class = "NSTextFieldCell"; title = "Angle"; ObjectID = "Rlz-qk-QuR"; */
+"Rlz-qk-QuR.title" = "角度";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Flip the image horizontally."; ObjectID = "XRh-U8-Xss"; */
 "XRh-U8-Xss.ibShadowedToolTip" = "画像を水平方向に反転。";
@@ -73,14 +76,14 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the angle of the image."; ObjectID = "aDo-Lz-bz3"; */
 "aDo-Lz-bz3.ibShadowedToolTip" = "画像の角度を設定。";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "afQ-lj-deC"; */
+"afQ-lj-deC.ibShadowedToolTip" = "現在選択されているシェイプにシェイプを追加します。";
+
 /* Class = "NSMenuItem"; title = "Flip Horizontally"; ObjectID = "bCI-Is-KBA"; */
 "bCI-Is-KBA.title" = "水平方向に反転";
 
 /* Class = "NSTextFieldCell"; title = "Crops the image nondestructively, hiding it beyond the canvas."; ObjectID = "cvr-iN-qGX"; */
 "cvr-iN-qGX.title" = "画像を破壊することなくトリミングし、キャンバスの裏に隠します。";
-
-/* Class = "NSTextFieldCell"; title = "Show Grid"; ObjectID = "dB2-KV-S2g"; */
-"dB2-KV-S2g.title" = "グリッドを表示";
 
 /* Class = "NSSlider"; ibShadowedToolTip = "Change the angle of the image."; ObjectID = "dkF-1D-hrU"; */
 "dkF-1D-hrU.ibShadowedToolTip" = "画像の角度を変更。";
@@ -91,11 +94,8 @@
 /* Class = "NSMenuItem"; title = "Rotate"; ObjectID = "gDN-jy-vTT"; */
 "gDN-jy-vTT.title" = "回転";
 
-/* Class = "NSTextFieldCell"; title = "CROP"; ObjectID = "gts-ki-Y5D"; */
+/* Class = "NSTextFieldCell"; title = "Crop"; ObjectID = "gts-ki-Y5D"; */
 "gts-ki-Y5D.title" = "切り抜き";
-
-/* Class = "NSTextFieldCell"; title = "Constrain"; ObjectID = "hPE-XC-Dob"; */
-"hPE-XC-Dob.title" = "維持";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the width of the crop selection rectangle."; ObjectID = "keM-si-N3T"; */
 "keM-si-N3T.ibShadowedToolTip" = "切り抜く選択範囲の幅を設定";
@@ -118,6 +118,9 @@
 /* Class = "NSButtonCell"; title = "Auto Straighten"; ObjectID = "oBx-NH-na8"; */
 "oBx-NH-na8.title" = "自動矯正";
 
+/* Class = "NSButtonCell"; title = "Show Grid"; ObjectID = "pTX-xi-tqb"; */
+"pTX-xi-tqb.title" = "グリッドを表示";
+
 /* Class = "NSTextFieldCell"; title = "Permanently deletes all areas beyond the selection rectangle."; ObjectID = "paG-lM-GgK"; */
 "paG-lM-GgK.title" = "選択矩形範囲以外のすべての領域を永久に削除します。";
 
@@ -133,17 +136,14 @@
 /* Class = "NSTextFieldCell"; title = "1"; ObjectID = "tRG-hT-7fn"; */
 "tRG-hT-7fn.title" = "1";
 
-/* Class = "NSTextFieldCell"; title = "Constrain"; ObjectID = "vBd-Ac-Ct6"; */
-"vBd-Ac-Ct6.title" = "維持";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Automatically straighten the image."; ObjectID = "x5g-C7-OOX"; */
 "x5g-C7-OOX.ibShadowedToolTip" = "画像を自動的に矯正します。";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the height of the crop selection rectangle."; ObjectID = "xWB-oh-otT"; */
 "xWB-oh-otT.ibShadowedToolTip" = "切り抜く選択範囲の高さを設定。";
 
-/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "ymB-43-3rn"; */
-"ymB-43-3rn.title" = "ラベル:";
-
 /* Class = "NSStepper"; ibShadowedToolTip = "Set the width of the crop selection rectangle."; ObjectID = "zTE-A8-1Bv"; */
 "zTE-A8-1Bv.ibShadowedToolTip" = "切り抜く選択範囲の幅を設定";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "zgB-Hb-NG8"; */
+"zgB-Hb-NG8.ibShadowedToolTip" = "現在選択されているシェイプにシェイプを追加します。";

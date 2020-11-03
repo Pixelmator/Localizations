@@ -1,50 +1,29 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Set how much to round the corners of the shape."; ObjectID = "33H-Au-aDT"; */
 "33H-Au-aDT.ibShadowedToolTip" = "Definir arredondamento nos cantos da forma.";
 
-/* Class = "NSTextFieldCell"; title = "Intersect"; ObjectID = "4lU-Fn-zEZ"; */
-"4lU-Fn-zEZ.title" = "Interseção";
-
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the shape width."; ObjectID = "6Hk-RQ-wer"; */
 "6Hk-RQ-wer.ibShadowedToolTip" = "Definir a largura da forma.";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the shape height."; ObjectID = "6b1-1V-IqG"; */
 "6b1-1V-IqG.ibShadowedToolTip" = "Definir a altura da forma.";
 
-/* Class = "NSMenuItem"; title = "Add"; ObjectID = "8lQ-Ve-wq0"; */
-"8lQ-Ve-wq0.title" = "Adicionar";
+/* Class = "NSTextFieldCell"; title = "Shape"; ObjectID = "7s8-9A-J5N"; */
+"7s8-9A-J5N.title" = "Forma";
 
 /* Class = "NSMenuItem"; title = "Centimeters"; ObjectID = "92e-le-4yo"; */
 "92e-le-4yo.title" = "Centímetros";
 
-/* Class = "NSMenuItem"; title = "Position"; ObjectID = "AmG-N4-tyK"; */
-"AmG-N4-tyK.title" = "Posicionar";
-
 /* Class = "NSStepper"; ibShadowedToolTip = "Set the shape height."; ObjectID = "BiX-pA-wdw"; */
 "BiX-pA-wdw.ibShadowedToolTip" = "Definir a altura da forma.";
 
-/* Class = "NSPopUpButton"; ibShadowedToolTip = "Add a style to the shape."; ObjectID = "Bpb-NH-jYd"; */
-"Bpb-NH-jYd.ibShadowedToolTip" = "Adicionar um estilo à forma.";
-
-/* Class = "NSMenuItem"; title = "Inner Shadow"; ObjectID = "ENF-QH-BEJ"; */
-"ENF-QH-BEJ.title" = "Sombra interna";
-
-/* Class = "NSSegmentedCell"; ENJ-Qm-eM2.ibShadowedToolTips[0] = "Add the shape to the currently selected shape."; ObjectID = "ENJ-Qm-eM2"; */
-"ENJ-Qm-eM2.ibShadowedToolTips[0]" = "Adicionar a forma à forma selecionada.";
-
-/* Class = "NSSegmentedCell"; ENJ-Qm-eM2.ibShadowedToolTips[1] = "Subtract the shape from the currently selected shape."; ObjectID = "ENJ-Qm-eM2"; */
-"ENJ-Qm-eM2.ibShadowedToolTips[1]" = "Subtrair a forma da forma selecionada.";
-
-/* Class = "NSSegmentedCell"; ENJ-Qm-eM2.ibShadowedToolTips[2] = "Create a shape from the intersection of the shape you draw and the currently selected shape."; ObjectID = "ENJ-Qm-eM2"; */
-"ENJ-Qm-eM2.ibShadowedToolTips[2]" = "Criar uma forma a partir da interseção da forma que você desenhou e da forma selecionada.";
-
-/* Class = "NSSegmentedCell"; ENJ-Qm-eM2.ibShadowedToolTips[3] = "Remove any overlapping areas between the shape you draw and the currently selected shape."; ObjectID = "ENJ-Qm-eM2"; */
-"ENJ-Qm-eM2.ibShadowedToolTips[3]" = "Remover todas as áreas de sobreposição entre a forma que você desenhou e a forma selecionada.";
-
-/* Class = "NSMenuItem"; title = "Remove Adjustment"; ObjectID = "EQ2-0G-AQx"; */
-"EQ2-0G-AQx.title" = "Remover ajuste";
+/* Class = "NSButton"; ibShadowedToolTip = "Apply a layer style to this layer."; ObjectID = "EQv-SP-35l"; */
+"EQv-SP-35l.ibShadowedToolTip" = "Aplica um estilo de camada a esta camada.";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "F5Z-dg-QDg"; */
 "F5Z-dg-QDg.title" = "Célula de texto";
+
+/* Class = "NSButtonCell"; title = "Add Style"; ObjectID = "GuZ-Rv-fDM"; */
+"GuZ-Rv-fDM.title" = "Adiciona estilo";
 
 /* Class = "NSTextFieldCell"; title = "W:"; ObjectID = "IGo-fI-1WJ"; */
 "IGo-fI-1WJ.title" = "L:";
@@ -52,14 +31,17 @@
 /* Class = "NSTextFieldCell"; title = "Corner Radius"; ObjectID = "IM5-ZW-ULo"; */
 "IM5-ZW-ULo.title" = "Raio do canto";
 
-/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "ItD-TS-uDe"; */
-"ItD-TS-uDe.ibShadowedToolTip" = "Adicionar a forma à forma selecionada.";
+/* Class = "NSSegmentedCell"; LJI-GI-u15.ibShadowedToolTips[0] = "Add the shape to the currently selected shape."; ObjectID = "LJI-GI-u15"; */
+"LJI-GI-u15.ibShadowedToolTips[0]" = "Adicionar a forma à forma selecionada.";
 
-/* Class = "NSSlider"; ibShadowedToolTip = "Adjust the transparency of the shape."; ObjectID = "KT9-Gr-qMN"; */
-"KT9-Gr-qMN.ibShadowedToolTip" = "Ajustar a transparência da forma.";
+/* Class = "NSSegmentedCell"; LJI-GI-u15.ibShadowedToolTips[1] = "Subtract the shape from the currently selected shape."; ObjectID = "LJI-GI-u15"; */
+"LJI-GI-u15.ibShadowedToolTips[1]" = "Subtrai forma da forma selecionada.";
 
-/* Class = "NSTextFieldCell"; title = "Unite"; ObjectID = "N6l-N9-6dU"; */
-"N6l-N9-6dU.title" = "Unir";
+/* Class = "NSSegmentedCell"; LJI-GI-u15.ibShadowedToolTips[2] = "Create a shape from the intersection of the shape you draw and the currently selected shape."; ObjectID = "LJI-GI-u15"; */
+"LJI-GI-u15.ibShadowedToolTips[2]" = "Criar uma forma a partir da confluência da forma que você desenhou com a forma selecionada.";
+
+/* Class = "NSSegmentedCell"; LJI-GI-u15.ibShadowedToolTips[3] = "Remove any overlapping areas between the shape you draw and the currently selected shape."; ObjectID = "LJI-GI-u15"; */
+"LJI-GI-u15.ibShadowedToolTips[3]" = "Remover todas as áreas de sobreposição entre a forma que você desenhou e a forma selecionada.";
 
 /* Class = "NSMenuItem"; title = "Pixels"; ObjectID = "NIA-ty-5ac"; */
 "NIA-ty-5ac.title" = "Pixels";
@@ -67,20 +49,17 @@
 /* Class = "NSButton"; ibShadowedToolTip = "Reset the layer style of the shape to default."; ObjectID = "Nrt-ih-RT0"; */
 "Nrt-ih-RT0.ibShadowedToolTip" = "Redefinir o estilo da camada da forma com os valores padrão.";
 
-/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "PEM-yb-VHk"; */
-"PEM-yb-VHk.title" = "Normal";
+/* Class = "NSTextFieldCell"; title = "Shape"; ObjectID = "OOL-rf-fyS"; */
+"OOL-rf-fyS.title" = "Forma";
 
 /* Class = "NSStepper"; ibShadowedToolTip = "Set the shape width."; ObjectID = "Plj-X2-dS2"; */
 "Plj-X2-dS2.ibShadowedToolTip" = "Definir a largura da forma.";
 
-/* Class = "NSTextFieldCell"; title = "Exclude"; ObjectID = "T41-yV-bLm"; */
-"T41-yV-bLm.title" = "Excluir";
-
 /* Class = "NSTextFieldCell"; title = "100 px"; ObjectID = "TWb-P5-5p3"; */
 "TWb-P5-5p3.title" = "100 px";
 
-/* Class = "NSTextField"; ibShadowedToolTip = "Remove any overlapping areas between the shape you draw and the currently selected shape."; ObjectID = "Tbp-eW-MCl"; */
-"Tbp-eW-MCl.ibShadowedToolTip" = "Remover todas as áreas de sobreposição entre a forma que você desenhou e a forma selecionada.";
+/* Class = "NSTextFieldCell"; title = "Combine"; ObjectID = "Tn1-Ca-n35"; */
+"Tn1-Ca-n35.title" = "Combinar";
 
 /* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "UMk-5y-8Fi"; */
 "UMk-5y-8Fi.title" = "1 px";
@@ -88,35 +67,14 @@
 /* Class = "NSTextFieldCell"; title = "1 px"; ObjectID = "UOd-Hg-L6j"; */
 "UOd-Hg-L6j.title" = "1 px";
 
-/* Class = "NSTextField"; ibShadowedToolTip = "Create a shape from the intersection of the shape you draw and the currently selected shape."; ObjectID = "UpY-pT-awC"; */
-"UpY-pT-awC.ibShadowedToolTip" = "Criar uma forma a partir da confluência da forma que você desenhou com a forma selecionada.";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Select to maintain the aspect ratio (width to height) when resizing this shape."; ObjectID = "VHx-qh-bzJ"; */
 "VHx-qh-bzJ.ibShadowedToolTip" = "Selecione para manter a proporção (entre largura e altura) ao redimensionar a forma.";
-
-/* Class = "NSMenuItem"; title = "Shadow"; ObjectID = "VXp-zX-vXf"; */
-"VXp-zX-vXf.title" = "Sombra";
 
 /* Class = "NSMenuItem"; title = "Inches"; ObjectID = "Vvv-Gm-l52"; */
 "Vvv-Gm-l52.title" = "Polegadas";
 
-/* Class = "NSTextField"; ibShadowedToolTip = "Subtract the shape from the currently selected shape."; ObjectID = "W6l-GJ-wJj"; */
-"W6l-GJ-wJj.ibShadowedToolTip" = "Subtrair forma da selecionada.";
-
 /* Class = "NSTextFieldCell"; title = "H:"; ObjectID = "YSr-ez-xbs"; */
 "YSr-ez-xbs.title" = "A:";
-
-/* Class = "NSTextFieldCell"; title = "Subtract"; ObjectID = "YpA-rR-cB3"; */
-"YpA-rR-cB3.title" = "Subtrair";
-
-/* Class = "NSTextField"; ibShadowedToolTip = "Set the transparency of the shape."; ObjectID = "ZkF-wQ-gGb"; */
-"ZkF-wQ-gGb.ibShadowedToolTip" = "Definir a transparência da forma.";
-
-/* Class = "NSMenuItem"; title = "Fill"; ObjectID = "dLz-of-o93"; */
-"dLz-of-o93.title" = "Preencher";
-
-/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose how to blend the shape with other objects in your image."; ObjectID = "fJf-3F-2K1"; */
-"fJf-3F-2K1.ibShadowedToolTip" = "Escolher como mesclar a forma com outros objetos da imagem.";
 
 /* Class = "NSButtonCell"; title = "Reset Style"; ObjectID = "hK9-Nc-Kme"; */
 "hK9-Nc-Kme.title" = "Redefinir estilo";
@@ -124,23 +82,8 @@
 /* Class = "NSMenuItem"; title = "Size"; ObjectID = "iHa-1j-ucM"; */
 "iHa-1j-ucM.title" = "Tamanho";
 
-/* Class = "NSTextFieldCell"; title = "STYLE"; ObjectID = "iiY-jO-kU6"; */
-"iiY-jO-kU6.title" = "ESTILO";
-
 /* Class = "NSButtonCell"; title = "Constrain proportions"; ObjectID = "jWw-bP-Y0i"; */
 "jWw-bP-Y0i.title" = "Manter a proporção";
-
-/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "kma-nX-Ss1"; */
-"kma-nX-Ss1.title" = "Redefinir";
-
-/* Class = "NSTextFieldCell"; title = "100%"; ObjectID = "qyP-oN-o8j"; */
-"qyP-oN-o8j.title" = "100%";
-
-/* Class = "NSMenuItem"; title = "Stroke"; ObjectID = "snz-RU-G33"; */
-"snz-RU-G33.title" = "Traço";
-
-/* Class = "NSTextFieldCell"; title = "SHAPE"; ObjectID = "suo-bo-hmX"; */
-"suo-bo-hmX.title" = "FORMA";
 
 /* Class = "NSStepper"; ibShadowedToolTip = "Set how much to round the corners of the shape."; ObjectID = "uQV-Kg-Hvk"; */
 "uQV-Kg-Hvk.ibShadowedToolTip" = "Definir arredondamento nos cantos da forma.";

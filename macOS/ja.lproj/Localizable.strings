@@ -59,13 +59,10 @@
 "1 Point" = "1ポイント";
 
 /* No comment provided by engineer. */
-"16:9" = "16:9";
+"16-bits per channel" = "16ビット/チャンネル";
 
 /* No comment provided by engineer. */
 "180°" = "180°";
-
-/* No comment provided by engineer. */
-"2:3" = "2:3";
 
 /* No comment provided by engineer. */
 "2x" = "2x";
@@ -77,19 +74,10 @@
 "3-Way Color" = "3ウェイカラー";
 
 /* No comment provided by engineer. */
-"3:2" = "3:2";
-
-/* No comment provided by engineer. */
-"3:4" = "3:4";
-
-/* No comment provided by engineer. */
 "3x" = "3x";
 
 /* No comment provided by engineer. */
 "45°" = "45°";
-
-/* No comment provided by engineer. */
-"4:3" = "4:3";
 
 /* color picker sample size area */
 "5 by 5" = "5 x 5";
@@ -98,10 +86,10 @@
 "5x" = "5x";
 
 /* No comment provided by engineer. */
-"90°" = "90°";
+"8-bits per channel" = "8ビット/チャンネル";
 
 /* No comment provided by engineer. */
-"9:16" = "9:16";
+"90°" = "90°";
 
 /* No comment provided by engineer. */
 "\"%@\" Color Adjustment" = "\"%@\"カラー調整";
@@ -119,9 +107,6 @@
 "Actual Size" = "実際のサイズ";
 
 /* No comment provided by engineer. */
-"Add" = "追加";
-
-/* No comment provided by engineer. */
 "Add %@" = "%@を追加";
 
 /* No comment provided by engineer. */
@@ -132,9 +117,6 @@
 
 /* No comment provided by engineer. */
 "Add Color Tag" = "カラータグを追加";
-
-/* No comment provided by engineer. */
-"Add Effects" = "エフェクトを追加";
 
 /* No comment provided by engineer. */
 "Add for Export..." = "書き出し用に追加...";
@@ -158,6 +140,9 @@
 "Add Point" = "ポイントを追加";
 
 /* No comment provided by engineer. */
+"Add Preset" = "プリセットを追加";
+
+/* No comment provided by engineer. */
 "Add Slice" = "スライスを追加";
 
 /* No comment provided by engineer. */
@@ -165,12 +150,6 @@
 
 /* No comment provided by engineer. */
 "Add to Shape" = "シェイプに追加";
-
-/* No comment provided by engineer. */
-"Adjust" = "調整";
-
-/* No comment provided by engineer. */
-"Adjust Colors" = "カラーを調整";
 
 /* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "色の明るさと彩度を調整します。";
@@ -218,6 +197,9 @@
 "All rights reserved." = "All rights reserved.";
 
 /* No comment provided by engineer. */
+"Allow Access" = "アクセルを許可";
+
+/* No comment provided by engineer. */
 "Angle" = "角度";
 
 /* No comment provided by engineer. */
@@ -241,8 +223,11 @@
 /* No comment provided by engineer. */
 "Are you sure you want to remove the entire collection?" = "コレクション全体を削除してもよろしいですか？";
 
-/* collection name */
+/* No comment provided by engineer. */
 "Are you sure you want to remove the entire “%@” collection?" = "コレクション \"%@\" の全体を削除してもよろしいですか？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove the “%@” preset?" = "“%@” プリセットを削除してもよろしいですか？";
 
 /* No comment provided by engineer. */
 "Arrange" = "並べ替え";
@@ -470,7 +455,22 @@
 "Checkerboard" = "チェッカーボード";
 
 /* No comment provided by engineer. */
+"Choose a color adjustments collection." = "カラー調整コレクションを選択。";
+
+/* No comment provided by engineer. */
 "Choose a color palette." = "カラーパレットを選択。";
+
+/* No comment provided by engineer. */
+"Choose a effects collection." = "エフェクトコレクションを選択。";
+
+/* No comment provided by engineer. */
+"Choose a gradients collection." = "グラデーションコレクションを選択。";
+
+/* No comment provided by engineer. */
+"Choose a shapes collection." = "シェイプコレクションを選択。";
+
+/* No comment provided by engineer. */
+"Choose a styles collection." = "スタイルコレクションを選択。";
 
 /* No comment provided by engineer. */
 "Choose a Template" = "テンプレートを選ぶ";
@@ -518,7 +518,13 @@
 "Clear Slices" = "スライスを消去";
 
 /* No comment provided by engineer. */
+"Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "[アクセスを許可] をクリックして Pixelmator Pro が \"%@\" フォルダ内のファイルにアクセスできるようにします。";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "クリックして色を選択します。";
+
+/* No comment provided by engineer. */
+"Click to hide or show the color adjustment presets." = "クリックしてカラー調整プリセットを表示 / 非表示。";
 
 /* No comment provided by engineer. */
 "Click to hide or show the color picker." = "クリックしてカラーピッカーを表示/非表示。";
@@ -527,7 +533,49 @@
 "Click to hide or show the color swatches." = "クリックしてカラースウォッチを表示/非表示";
 
 /* No comment provided by engineer. */
+"Click to hide or show the effect presets." = "クリックしてエフェクトプリセットを表示 / 非表示。";
+
+/* No comment provided by engineer. */
+"Click to hide or show the shape presets." = "クリックしてシェイププリセットを表示 / 非表示。";
+
+/* No comment provided by engineer. */
+"Click to hide or show the style presets." = "クリックしてスタイルプリセットを表示 / 非表示。";
+
+/* No comment provided by engineer. */
+"Click to pick a color from your image" = "クリックして画像から色を選択";
+
+/* No comment provided by engineer. */
 "Click to pick a color from your image." = "クリックしてイメージから色を選択。";
+
+/* No comment provided by engineer. */
+"Click to pick a source color from your image" = "クリックして画像から元となる色を選択";
+
+/* No comment provided by engineer. */
+"Click to pick a target color from your image" = "クリックして画像から目的となる色を選択";
+
+/* No comment provided by engineer. */
+"Click to set the black point for the red, green, and blue levels" = "クリックして、レッド、グリーン、ブルーのレベルにブラックポイントを設定";
+
+/* No comment provided by engineer. */
+"Click to set the black point on the red, green, and blue curves" = "クリックして、レッド、グリーン、ブルー曲線上にブラックポイントを設定";
+
+/* No comment provided by engineer. */
+"Click to set the gray point for the red, green, and blue levels" = "クリックして、レッド、グリーン、ブルーのレベルにグレーポイントを設定";
+
+/* No comment provided by engineer. */
+"Click to set the gray point in the image" = "クリックして画像にグレーポイントを設定";
+
+/* No comment provided by engineer. */
+"Click to set the gray point on the red, green, and blue curves" = "クリックして、レッド、グリーン、ブルー曲線上にグレーポイントを設定";
+
+/* No comment provided by engineer. */
+"Click to set the white point for the red, green, and blue levels" = "クリックして、レッド、グリーン、ブルーのレベルにホワイトポイントを設定";
+
+/* No comment provided by engineer. */
+"Click to set the white point on the red, green, and blue curves" = "クリックして、レッド、グリーン、ブルー曲線上にホワイトポイントを設定";
+
+/* No comment provided by engineer. */
+"Click to show color panel." = "クリックしてカラーパネルを表示。";
 
 /* No comment provided by engineer. */
 "Click to show or hide the Colors window." = "クリックしてカラーウインドウを表示/非表示。";
@@ -548,13 +596,13 @@
 "CMYK Profiles" = "CMYK プロファイル";
 
 /* No comment provided by engineer. */
+"Collection" = "コレクション";
+
+/* No comment provided by engineer. */
 "Collections" = "コレクション";
 
 /* No comment provided by engineer. */
 "Color" = "カラー";
-
-/* No comment provided by engineer. */
-"Color Adjustment" = "カラー調整";
 
 /* Effects category name */
 "Color Adjustments" = "カラー調整";
@@ -569,6 +617,9 @@
 "Color Depth" = "色深度";
 
 /* No comment provided by engineer. */
+"Color Depth:" = "色深度:";
+
+/* No comment provided by engineer. */
 "Color Dodge" = "覆い焼き (カラー)";
 
 /* No comment provided by engineer. */
@@ -579,6 +630,9 @@
 
 /* No comment provided by engineer. */
 "Color Noise Reduction" = "カラーノイズ低減";
+
+/* No comment provided by engineer. */
+"Color Palette" = "カラーパレット";
 
 /* No comment provided by engineer. */
 "Color Palettes" = "カラーパレット";
@@ -617,6 +671,9 @@
 "Constant" = "定数";
 
 /* No comment provided by engineer. */
+"Constrain" = "維持";
+
+/* No comment provided by engineer. */
 "Constrain Proportions" = "縦横比を維持";
 
 /* No comment provided by engineer. */
@@ -635,10 +692,13 @@
 "Convert into Shape" = "シェイプに変換";
 
 /* No comment provided by engineer. */
+"Copy" = "コピー";
+
+/* No comment provided by engineer. */
 "copy" = "コピー";
 
 /* No comment provided by engineer. */
-"Copy" = "コピー";
+"Copy %@" = "%@ をコピー";
 
 /* No comment provided by engineer. */
 "Copy Adjustments" = "調整をコピー";
@@ -668,19 +728,13 @@
 "Create an empty new document" = "新規に空の書類を作成";
 
 /* No comment provided by engineer. */
-"Create beautiful designs and stunning illustrations with a full set of vector tools, smart shapes, and a variety of pre-designed shapes." = "ベクターツール、スマートシェイプ、および事前にデザインされたさまざまなシェイプを使用して、美しいデザインと美しいイラストを作成します。";
-
-/* No comment provided by engineer. */
 "Create Clipping Mask" = "クリッピングマスクを作成";
 
 /* No comment provided by engineer. */
+"Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "使いやすいスマートシェイプ、強力なテキストツール、フルセットのベクターツールを使用して、魅力的なデザインやイラストを作成します。";
+
+/* No comment provided by engineer. */
 "Crop" = "切り抜き";
-
-/* No comment provided by engineer. */
-"Crop Preset" = "プリセットを切り抜く";
-
-/* No comment provided by engineer. */
-"Crop Presets" = "プリセットを切り抜く";
 
 /* No comment provided by engineer. */
 "Crop Tool" = "切り抜きツール";
@@ -701,7 +755,13 @@
 "Custom" = "その他";
 
 /* No comment provided by engineer. */
-"Custom Shape" = "カスタム";
+"Custom Shapes" = "カスタムシェイプ";
+
+/* No comment provided by engineer. */
+"Customize Layout..." = "レイアウトをカスタマイズ...";
+
+/* No comment provided by engineer. */
+"Customize Tools..." = "ツールをカスタマイズ...";
 
 /* No comment provided by engineer. */
 "Cut" = "カット";
@@ -741,9 +801,6 @@
 
 /* No comment provided by engineer. */
 "Delete Path" = "パスを削除";
-
-/* No comment provided by engineer. */
-"Delete Paths" = "パスを削除";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "スライスを削除";
@@ -845,6 +902,9 @@
 "Don't Save" = "保存しない";
 
 /* No comment provided by engineer. */
+"Done" = "完了";
+
+/* No comment provided by engineer. */
 "Don’t Allow" = "許可しない";
 
 /* No comment provided by engineer. */
@@ -860,16 +920,19 @@
 "Drag and drop images here to match their colors using machine learning." = "機械学習を使用して色を合わせるために、イメージをここにドラッグ＆ドロップします。";
 
 /* No comment provided by engineer. */
-"Draw" = "描画";
+"Drag to adjust the position of the gradient" = "ドラッグしてグラデーションの位置を調整";
+
+/* No comment provided by engineer. */
+"Drag your favorite tools into the list above..." = "よく使うツールを上部のリストにドラッグしてください...";
 
 /* No comment provided by engineer. */
 "Draw Path" = "パスを描画";
 
 /* No comment provided by engineer. */
-"Draw Shape" = "シェイプを描画";
+"Draw Slice" = "スライスを描画";
 
 /* No comment provided by engineer. */
-"Draw Slice" = "スライスを描画";
+"Drawing" = "描画";
 
 /* No comment provided by engineer. */
 "Droste" = "ドロステ";
@@ -899,7 +962,7 @@
 "Edit Slice" = "スライスを編集";
 
 /* No comment provided by engineer. */
-"Effect" = "エフェクト";
+"EDR Mode" = "EDRモード";
 
 /* No comment provided by engineer. */
 "Effects" = "エフェクト";
@@ -909,6 +972,9 @@
 
 /* No comment provided by engineer. */
 "Ellipse" = "楕円";
+
+/* No comment provided by engineer. */
+"Ellipse Shape" = "楕円形";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "楕円で選択";
@@ -944,7 +1010,7 @@
 "Exclude" = "除外";
 
 /* No comment provided by engineer. */
-"Exclude from Shape" = "シェイプから除外する";
+"Exclude from Shape" = "シェイプから除外";
 
 /* No comment provided by engineer. */
 "Exclude Shapes" = "シェイプを除外";
@@ -962,19 +1028,37 @@
 "Export" = "書き出す";
 
 /* No comment provided by engineer. */
+"Export All Effects" = "すべてのエフェクトを書き出す";
+
+/* No comment provided by engineer. */
 "Export All..." = "すべてを書き出す...";
 
 /* No comment provided by engineer. */
 "Export As:" = "書き出し:";
 
 /* No comment provided by engineer. */
-"Export Color Palette" = "カラーパレットを書き出す";
+"Export Color Adjustments" = "カラー調整を書き出す";
+
+/* No comment provided by engineer. */
+"Export Color Palettes" = "カラーパレットを書き出す";
+
+/* No comment provided by engineer. */
+"Export Custom Shapes" = "カスタムシェイプを書き出す";
 
 /* No comment provided by engineer. */
 "Export Document as Images" = "書類をイメージとして書き出す";
 
 /* No comment provided by engineer. */
+"Export Effects" = "エフェクトを書き出す";
+
+/* No comment provided by engineer. */
 "Export for Web" = "Web 用に書き出す";
+
+/* No comment provided by engineer. */
+"Export Gradient Collection" = "グラデーションコレクションを書き出す";
+
+/* No comment provided by engineer. */
+"Export Layer Styles" = "レイヤースタイルを書き出す";
 
 /* No comment provided by engineer. */
 "Export Library" = "書き出しライブラリ";
@@ -1011,6 +1095,9 @@
 
 /* No comment provided by engineer. */
 "Exposure" = "露光量";
+
+/* No comment provided by engineer. */
+"Extension" = "機能拡張";
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
@@ -1067,6 +1154,9 @@
 "Finish Selection" = "選択を終了";
 
 /* No comment provided by engineer. */
+"Fit" = "画面に合わせる";
+
+/* No comment provided by engineer. */
 "Fixed" = "固定";
 
 /* No comment provided by engineer. */
@@ -1077,6 +1167,9 @@
 
 /* No comment provided by engineer. */
 "Flatten Styles" = "スタイルを平坦化";
+
+/* No comment provided by engineer. */
+"Flexible Space" = "伸縮自在のスペース";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "水平方向に反転";
@@ -1100,9 +1193,6 @@
 "Foreground Color" = "前景色";
 
 /* No comment provided by engineer. */
-"Format" = "形式";
-
-/* No comment provided by engineer. */
 "Fourfold" = "4倍";
 
 /* No comment provided by engineer. */
@@ -1112,13 +1202,13 @@
 "Fourfold Translated" = "4 方向変形";
 
 /* No comment provided by engineer. */
-"Free Select" = "フリー選択";
+"Free From Shape" = "シェイプから外す";
 
 /* No comment provided by engineer. */
 "Free Selection" = "フリー選択";
 
 /* No comment provided by engineer. */
-"Freeform" = "フリーフォーム";
+"Freeform Pen" = "フリーフォームペン";
 
 /* No comment provided by engineer. */
 "Freeform Type" = "フリーフォーム型";
@@ -1161,6 +1251,9 @@
 
 /* No comment provided by engineer. */
 "Gradient Angle" = "グラデーションの角度";
+
+/* No comment provided by engineer. */
+"Gradient Collection" = "グラデーションコレクション";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "グラデーションで塗りつぶし";
@@ -1214,6 +1307,9 @@
 "Halo" = "ハロー";
 
 /* No comment provided by engineer. */
+"Hand" = "手のひら";
+
+/* No comment provided by engineer. */
 "Hard Light" = "ハードライト";
 
 /* No comment provided by engineer. */
@@ -1242,9 +1338,6 @@
 
 /* No comment provided by engineer. */
 "Hide Fonts" = "フォントを隠す";
-
-/* No comment provided by engineer. */
-"Hide Gradients" = "グラデーションを隠す";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "グリッドを隠す";
@@ -1287,9 +1380,6 @@
 
 /* No comment provided by engineer. */
 "Hide Selection Handles" = "選択ハンドルを非表示";
-
-/* No comment provided by engineer. */
-"Hide Shapes" = "シェイプを隠す";
 
 /* No comment provided by engineer. */
 "Hide Tab Bar" = "タブバーを非表示";
@@ -1355,6 +1445,9 @@
 "Import" = "読み込み";
 
 /* No comment provided by engineer. */
+"Import All" = "すべてをインポート";
+
+/* No comment provided by engineer. */
 "Import..." = "読み込み...";
 
 /* short for inches */
@@ -1362,6 +1455,9 @@
 
 /* No comment provided by engineer. */
 "Inches" = "インチ";
+
+/* No comment provided by engineer. */
+"inches" = "インチ";
 
 /* No comment provided by engineer. */
 "Initial Crop" = "初期の切り抜き";
@@ -1391,7 +1487,7 @@
 "Intersect" = "交差";
 
 /* No comment provided by engineer. */
-"Intersect Shapes" = "シェイプとの交差";
+"Intersect Shapes" = "シェイプの交差";
 
 /* No comment provided by engineer. */
 "Intersect with Shape" = "シェイプとの交差";
@@ -1442,6 +1538,9 @@
 "Layer Menu" = "レイヤーメニュー";
 
 /* No comment provided by engineer. */
+"Layer Styles" = "レイヤースタイル";
+
+/* No comment provided by engineer. */
 "Learn more" = "詳細";
 
 /* No comment provided by engineer. */
@@ -1482,6 +1581,9 @@
 
 /* No comment provided by engineer. */
 "Line Height" = "行間隔";
+
+/* No comment provided by engineer. */
+"Line Shape" = "ライン";
 
 /* No comment provided by engineer. */
 "Linear Burn" = "焼き込み (リニア)";
@@ -1527,9 +1629,6 @@
 
 /* No comment provided by engineer. */
 "Magenta / Green" = "マゼンタ/グリーン";
-
-/* No comment provided by engineer. */
-"Magnetic Select" = "マグネット選択";
 
 /* No comment provided by engineer. */
 "Magnetic Selection" = "マグネット選択";
@@ -1622,6 +1721,9 @@
 "Move" = "移動";
 
 /* No comment provided by engineer. */
+"Move %@" = "%@ を移動";
+
+/* No comment provided by engineer. */
 "Move Guide" = "ガイドを移動";
 
 /* No comment provided by engineer. */
@@ -1646,10 +1748,10 @@
 "Mustache" = "口ひげ";
 
 /* No comment provided by engineer. */
-"New" = "新規";
+"New Collection" = "新規コレクション";
 
 /* No comment provided by engineer. */
-"New Ellipse Shape" = "新規楕円形シェイプ";
+"New Ellipse Shape" = "新規の楕円形";
 
 /* No comment provided by engineer. */
 "New from Clipboard" = "クリップボードから新規作成";
@@ -1661,16 +1763,52 @@
 "New Layer" = "新規レイヤー";
 
 /* No comment provided by engineer. */
-"New Line Shape" = "新規ラインシェイプ";
+"New Line Shape" = "新規のライン";
 
 /* No comment provided by engineer. */
-"New Polygon Shape" = "新規多角形シェイプ";
+"New name for color adjustments collection:" = "新しいカラー調整コレクション名：";
 
 /* No comment provided by engineer. */
-"New Rectangle Shape" = "新規長方形シェイプ";
+"New name for color adjustments:" = "新しいカラー調整コレクション名：";
 
 /* No comment provided by engineer. */
-"New Rounded Rectangle Shape" = "新規角丸長方形シェイプ";
+"New name for color palette:" = "新しいカラーパレット名：";
+
+/* No comment provided by engineer. */
+"New name for color preset:" = "新しいカラープリセット名：";
+
+/* No comment provided by engineer. */
+"New name for effects collection:" = "新しいエフェクトコレクション名：";
+
+/* No comment provided by engineer. */
+"New name for effects preset:" = "新しいエフェクトプリセット名：";
+
+/* No comment provided by engineer. */
+"New name for gradient collection:" = "新しいグラデーションコレクション名：";
+
+/* No comment provided by engineer. */
+"New name for layer style collection:" = "新しいレイヤースタイルコレクション名：";
+
+/* No comment provided by engineer. */
+"New name for layout preset:" = "新しいレイヤープリセット名：";
+
+/* No comment provided by engineer. */
+"New name for shape collection:" = "新しいシェイプコレクション名：";
+
+/* No comment provided by engineer. */
+"New name for shape preset:" = "新しいシェイププリセット名：";
+
+/* No comment provided by engineer. */
+"New name for style preset:" = "新しいスタイルプリセット名：";
+
+/* No comment provided by engineer. */
+"New Polygon Shape" = "新規の多角形";
+
+/* No comment provided by engineer. */
+"New Rectangle Shape" = "新規の長方形";
+
+/* No comment provided by engineer. */
+"New Rounded Rectangle Shape" = "新規の角丸長方形";
 
 /* No comment provided by engineer. */
 "New Shape" = "新規シェイプ";
@@ -1679,7 +1817,7 @@
 "New Shape Layer" = "新規シェイプレイヤー";
 
 /* No comment provided by engineer. */
-"New Star Shape" = "新規スターシェイプ";
+"New Star Shape" = "新規のスター";
 
 /* No comment provided by engineer. */
 "New Text Layer" = "新規テキストレイヤー";
@@ -1688,7 +1826,16 @@
 "New..." = "新規作成...";
 
 /* No comment provided by engineer. */
+"No camera or scanner connected." = "カメラまたはスキャナーは接続されていません。";
+
+/* No comment provided by engineer. */
+"No camera or scanner selected." = "カメラまたはスキャナーが選択されていません。";
+
+/* No comment provided by engineer. */
 "No Color Profile" = "カラープロファイルなし";
+
+/* No comment provided by engineer. */
+"No Photos" = "写真なし";
 
 /* No comment provided by engineer. */
 "No Recent Documents" = "最近使った書類なし";
@@ -1772,6 +1919,9 @@
 "Paint and Sketch" = "ペイントとスケッチ";
 
 /* No comment provided by engineer. */
+"Painting" = "ペインティング";
+
+/* No comment provided by engineer. */
 "Pass Through" = "パススルー";
 
 /* No comment provided by engineer. */
@@ -1823,6 +1973,12 @@
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
+"Pen" = "ペン";
+
+/* No comment provided by engineer. */
+"Pencil" = "鉛筆";
+
+/* No comment provided by engineer. */
 "Percent" = "パーセント";
 
 /* No comment provided by engineer. */
@@ -1868,7 +2024,19 @@
 "Pixels" = "ピクセル";
 
 /* No comment provided by engineer. */
+"pixels" = "ピクセル";
+
+/* No comment provided by engineer. */
+"pixels/cm" = "ピクセル／センチ";
+
+/* No comment provided by engineer. */
+"pixels/inch" = "ピクセル／インチ";
+
+/* No comment provided by engineer. */
 "PNG" = "PNG";
+
+/* No comment provided by engineer. */
+"points" = "ポイント";
 
 /* No comment provided by engineer. */
 "Points: %d" = "ポイント: %d";
@@ -1877,10 +2045,10 @@
 "Polygon" = "多角形";
 
 /* No comment provided by engineer. */
-"Polygonal Select" = "多角形選択";
+"Polygonal Selection" = "多角形選択";
 
 /* No comment provided by engineer. */
-"Polygonal Selection" = "多角形選択";
+"Polygonal Shape" = "多角形";
 
 /* No comment provided by engineer. */
 "Position" = "位置";
@@ -1922,9 +2090,6 @@
 "Quick Export" = "クイック書き出し";
 
 /* No comment provided by engineer. */
-"Quick Select" = "クイック選択";
-
-/* No comment provided by engineer. */
 "Quick Selection" = "クイック選択";
 
 /* No comment provided by engineer. */
@@ -1962,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Rectangle" = "長方形";
+
+/* No comment provided by engineer. */
+"Rectangle Shape" = "長方形";
 
 /* No comment provided by engineer. */
 "Rectangular Selection" = "矩形選択";
@@ -2003,22 +2171,22 @@
 "Remove %@" = "%@を削除";
 
 /* No comment provided by engineer. */
+"Remove \"\(label)\"" = "\"\\(label)\" を削除";
+
+/* No comment provided by engineer. */
 "Remove Adjustment" = "調整を取り除く";
 
 /* No comment provided by engineer. */
 "Remove Anchor Point" = "アンカーポイントを削除";
 
 /* No comment provided by engineer. */
-"Remove collection" = "コレクションを削除";
+"Remove Collection" = "コレクションを削除";
 
 /* No comment provided by engineer. */
 "Remove Color" = "カラーを削除";
 
 /* No comment provided by engineer. */
 "Remove Color Tag" = "カラータグを削除";
-
-/* No comment provided by engineer. */
-"Remove Effect" = "エフェクトを削除";
 
 /* No comment provided by engineer. */
 "Remove From Favorites" = "お気に入りから削除";
@@ -2036,16 +2204,40 @@
 "Remove Path" = "パスを削除";
 
 /* No comment provided by engineer. */
+"Remove Shape" = "シェイプを削除";
+
+/* No comment provided by engineer. */
+"Remove Shape Path" = "シェイプのパスを削除";
+
+/* No comment provided by engineer. */
+"Remove Shape Paths" = "シェイプのパスを削除";
+
+/* No comment provided by engineer. */
 "Remove Style" = "スタイルを削除";
 
-/* collection name */
-"Remove “%@” collection" = "コレクション “%@” を削除";
+/* No comment provided by engineer. */
+"Remove this effect." = "このエフェクトを削除。";
+
+/* No comment provided by engineer. */
+"Remove this layer style." = "このレイヤースタイルを削除。";
+
+/* No comment provided by engineer. */
+"Remove “%@” Collection" = "“%@” コレクションを削除";
+
+/* No comment provided by engineer. */
+"Remove “%@” Preset" = "“%@” プリセットを削除";
+
+/* No comment provided by engineer. */
+"Remove..." = "削除...";
 
 /* No comment provided by engineer. */
 "Rename" = "名称変更";
 
 /* No comment provided by engineer. */
 "Rename \"%@\"" = "\"%@\"の名称を変更";
+
+/* No comment provided by engineer. */
+"Rename \"%@\"..." = "\"%@\" を削除...";
 
 /* No comment provided by engineer. */
 "Rename..." = "名前を変更...";
@@ -2108,7 +2300,13 @@
 "Reset Adjustments" = "調整をリセット";
 
 /* No comment provided by engineer. */
+"Reset All" = "すべてをリセット";
+
+/* No comment provided by engineer. */
 "Reset Angle" = "角度をリセット";
+
+/* No comment provided by engineer. */
+"Reset Color Palettes" = "カラーパレットをリセット";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "切り抜きをリセット";
@@ -2131,9 +2329,6 @@
 /* No comment provided by engineer. */
 "Reset Styles" = "スタイルをリセット";
 
-/* No comment provided by engineer. */
-"Reset Swatches" = "スウォッチをリセット";
-
 /* transform mode */
 "Resize" = "リサイズ";
 
@@ -2144,13 +2339,22 @@
 "Resize Transform" = "サイズ変更";
 
 /* No comment provided by engineer. */
+"Resolution:" = "解像度:";
+
+/* No comment provided by engineer. */
 "Restore" = "復元";
 
 /* No comment provided by engineer. */
 "Retouch" = "レタッチ";
 
 /* No comment provided by engineer. */
+"Retouching" = "レタッチ";
+
+/* No comment provided by engineer. */
 "Reveal Canvas" = "キャンバスを表示";
+
+/* No comment provided by engineer. */
+"Revert to Default Set" = "デフォルトのセットに戻す";
 
 /* color picker color value display type */
 "RGB" = "RGB";
@@ -2184,6 +2388,9 @@
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "角丸長方形";
+
+/* No comment provided by engineer. */
+"Rounded Rectangle Shape" = "角丸長方形";
 
 /* No comment provided by engineer. */
 "Row Height" = "行の高さ";
@@ -2252,6 +2459,9 @@
 "Scale Vertically by Tilt" = "傾きに応じて垂直方向に拡大/縮小";
 
 /* No comment provided by engineer. */
+"Scanned Image" = "スキャンしたイメージ";
+
+/* No comment provided by engineer. */
 "Scatter" = "散布";
 
 /* No comment provided by engineer. */
@@ -2264,7 +2474,7 @@
 "Search" = "検索";
 
 /* No comment provided by engineer. */
-"Select" = "選択";
+"Select a preset to change your workspace layout." = "プリセットを選択してワークスペースのレイアウトを変更します。";
 
 /* No comment provided by engineer. */
 "Select All" = "すべてを選択";
@@ -2276,22 +2486,19 @@
 "Select Bottom Layer" = "最下部のレイヤーを選択";
 
 /* No comment provided by engineer. */
-"Select Color" = "カラーを選択";
-
-/* No comment provided by engineer. */
 "Select Color Range" = "カラーの範囲を選択";
 
 /* No comment provided by engineer. */
 "Select Column" = "列を選択";
 
 /* No comment provided by engineer. */
-"Select multiple shape layers." = "複数のシェイプレイヤーを選択。";
+"Select multiple shape layers" = "複数のシェイプレイヤーを選択";
 
 /* No comment provided by engineer. */
 "Select Next Layer" = "次のレイヤーを選択";
 
 /* No comment provided by engineer. */
-"Select or move a shape layer." = "シェイプレイヤーを選択/移動。";
+"Select or move a shape layer" = "シェイプレイヤーを選択/移動";
 
 /* No comment provided by engineer. */
 "Select Previous Layer" = "前のレイヤーを選択";
@@ -2304,6 +2511,9 @@
 
 /* No comment provided by engineer. */
 "Selected Color" = "選択したカラー";
+
+/* No comment provided by engineer. */
+"Selecting" = "選択";
 
 /* No comment provided by engineer. */
 "Selection" = "選択範囲";
@@ -2336,6 +2546,9 @@
 "Sepia" = "セピア";
 
 /* No comment provided by engineer. */
+"Set alpha color component value" = "アルファカラーコンポーネント値を設定";
+
+/* No comment provided by engineer. */
 "Set blue color component value" = "ブルー成分の値を設定します";
 
 /* No comment provided by engineer. */
@@ -2345,19 +2558,7 @@
 "Set red color component value" = "レッド成分の値を設定します";
 
 /* No comment provided by engineer. */
-"Set replace source color" = "置き換えソースカラーを設定";
-
-/* No comment provided by engineer. */
-"Set replace target color" = "置き換えターゲットカラーを設定";
-
-/* No comment provided by engineer. */
 "Set the %@ color" = "%@カラーを設定";
-
-/* No comment provided by engineer. */
-"Set the black point for the Red, Green and Blue levels" = "レッド、グリーン、ブルーのレベルにブラックポイントを設定";
-
-/* No comment provided by engineer. */
-"Set the black point on the Red, Green and Blue curves" = "レッド、グリーン、ブルー曲線上にブラックポイントを設定";
 
 /* No comment provided by engineer. */
 "Set the color for text" = "テキストのカラーを設定";
@@ -2366,25 +2567,7 @@
 "Set the color using a Hex color code." = "16進カラーコードを使用して色を設定します。";
 
 /* No comment provided by engineer. */
-"Set the gray point for the Red, Green and Blue levels" = "レッド、グリーン、ブルーのレベルにグレーポイントを設定";
-
-/* No comment provided by engineer. */
-"Set the Gray point for white balance" = "ホワイトバランスにグレーポイントを設定";
-
-/* No comment provided by engineer. */
-"Set the gray point on the Red, Green and Blue curves" = "レッド、グリーン、ブルー曲線上にグレーポイントを設定";
-
-/* No comment provided by engineer. */
-"Set the monochrome color" = "モノクロのカラーを設定";
-
-/* No comment provided by engineer. */
 "Set the transparency of the color." = "色の透明度を設定します。";
-
-/* No comment provided by engineer. */
-"Set the white point for the Red, Green and Blue levels" = "レッド、グリーン、ブルーのレベルにホワイトポイントを設定";
-
-/* No comment provided by engineer. */
-"Set the white point on the Red, Green and Blue curves" = "レッド、グリーン、ブルー曲線上にホワイトポイントを設定";
 
 /* No comment provided by engineer. */
 "Shadow" = "シャドウ";
@@ -2400,9 +2583,6 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "シェイプの方向";
-
-/* No comment provided by engineer. */
-"Shapes" = "シェイプ";
 
 /* No comment provided by engineer. */
 "Share" = "共有";
@@ -2444,9 +2624,6 @@
 "Show Fonts" = "フォントを表示";
 
 /* No comment provided by engineer. */
-"Show Gradients" = "グラデーションを表示";
-
-/* No comment provided by engineer. */
 "Show Grid" = "グリッドを表示";
 
 /* No comment provided by engineer. */
@@ -2454,6 +2631,9 @@
 
 /* No comment provided by engineer. */
 "Show Handles" = "ハンドルを表示";
+
+/* No comment provided by engineer. */
+"Show hidden tools or customize the list of tools." = "非表示のツールを表示またはツールのリストをカスタマイズします。";
 
 /* No comment provided by engineer. */
 "Show in Finder" = "Finderに表示";
@@ -2474,7 +2654,7 @@
 "Show Optimized Preview" = "最適化したプレビューを表示";
 
 /* No comment provided by engineer. */
-"Show or hide format and style options." = "書式とスタイルオプションを表示/非表示にする。";
+"Show or hide the gradient handles on the canvas." = "キャンバス上のグラデーションハンドルを表示または非表示にします。";
 
 /* No comment provided by engineer. */
 "Show Outline" = "アウトラインを表示";
@@ -2495,10 +2675,10 @@
 "Show Selection Handles" = "選択ハンドルを表示";
 
 /* No comment provided by engineer. */
-"Show Shapes" = "シェイプを表示";
+"Show Tab Bar" = "タブバーを表示";
 
 /* No comment provided by engineer. */
-"Show Tab Bar" = "タブバーを表示";
+"Show the effect rope on canvas." = "キャンバスにエフェクトロープを表示します。";
 
 /* No comment provided by engineer. */
 "Show this window when Pixelmator Pro launches" = "Pixelmator Pro起動時にこのウインドウを表示する";
@@ -2547,9 +2727,6 @@
 
 /* No comment provided by engineer. */
 "Slice" = "スライス";
-
-/* No comment provided by engineer. */
-"Slice Formats" = "スライスの形式";
 
 /* No comment provided by engineer. */
 "Slice Menu" = "スライスのメニュー";
@@ -2609,13 +2786,19 @@
 "Source Out" = "ソースアウト";
 
 /* No comment provided by engineer. */
+"Space" = "スペース";
+
+/* No comment provided by engineer. */
 "Spot Light" = "スポット";
 
 /* No comment provided by engineer. */
-"Square" = "正方形";
+"Star" = "スター";
 
 /* No comment provided by engineer. */
-"Star" = "スター";
+"Star Shape" = "星";
+
+/* No comment provided by engineer. */
+"Start" = "開始";
 
 /* No comment provided by engineer. */
 "Start Drawing" = "描画を開始";
@@ -2720,9 +2903,6 @@
 "Text Style" = "テキストスタイル";
 
 /* No comment provided by engineer. */
-"Text Styles" = "テキストスタイル";
-
-/* No comment provided by engineer. */
 "Textures" = "テクスチャ";
 
 /* No comment provided by engineer. */
@@ -2792,6 +2972,9 @@
 "to" = "から";
 
 /* No comment provided by engineer. */
+"To rearrange the interface elements, drag them to the desired position." = "インターフェイス要素を再配置するには、それらを目的の位置にドラッグします。";
+
+/* No comment provided by engineer. */
 "Tolerance: %@" = "許容範囲: %@";
 
 /* No comment provided by engineer. */
@@ -2837,7 +3020,19 @@
 "Try (%i days remaining)" = "試用する (残り%i日)";
 
 /* No comment provided by engineer. */
+"Turn histogram on or off." = "ヒストグラムをオンまたはオフにします。";
+
+/* No comment provided by engineer. */
 "Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of Pro Display XDR." = "Pro Display XDR の最大画面輝度を使用して非表示のハイライトの詳細を表示するには、拡張ダイナミックレンジモードをオンにします。";
+
+/* No comment provided by engineer. */
+"Turn this adjustment on or off." = "この調整をオンまたはオフにします。";
+
+/* No comment provided by engineer. */
+"Turn this effect on or off." = "このエフェクトをオンまたはオフにします。";
+
+/* No comment provided by engineer. */
+"Turn this layer style on or off." = "このレイヤースタイルをオンまたはオフにします。";
 
 /* No comment provided by engineer. */
 "Twelvefold" = "12倍";
@@ -2879,10 +3074,10 @@
 "Untitled" = "無題";
 
 /* No comment provided by engineer. */
-"Untitled layer" = "名称未設定レイヤー";
+"Untitled Layer" = "名称未設定";
 
 /* No comment provided by engineer. */
-"Untitled Layer" = "名称未設定";
+"Untitled layer" = "名称未設定レイヤー";
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "名称未設定レイヤーマスク";
@@ -2943,6 +3138,12 @@
 
 /* No comment provided by engineer. */
 "Width:" = "幅:";
+
+/* No comment provided by engineer. */
+"Workspace" = "ワークスペース";
+
+/* No comment provided by engineer. */
+"Workspace Layout" = "ワークスペースのレイアウト";
 
 /* No comment provided by engineer. */
 "Would you like to preserve these edits in your Photos library?" = "これらの変更を写真ライブラリに保存しますか？";

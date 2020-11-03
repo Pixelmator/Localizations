@@ -40,6 +40,9 @@
 /* Class = "NSTextFieldCell"; title = "H:"; ObjectID = "KkF-xn-XzK"; */
 "KkF-xn-XzK.title" = "Al:";
 
+/* Class = "NSTextFieldCell"; title = "Flip"; ObjectID = "LPg-ss-UqO"; */
+"LPg-ss-UqO.title" = "Girar";
+
 /* Class = "NSMenuItem"; title = "Flip Vertically"; ObjectID = "MEC-zM-bim"; */
 "MEC-zM-bim.title" = "Volteo vertical";
 
@@ -55,11 +58,11 @@
 /* Class = "NSMenuItem"; title = "Rotate 180°"; ObjectID = "OBZ-7E-fwv"; */
 "OBZ-7E-fwv.title" = "Rotar 180°";
 
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "PAV-h1-S5Y"; */
-"PAV-h1-S5Y.title" = "Celda de texto";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Show a grid dividing the crop selection rectangle into thirds."; ObjectID = "Px9-BW-68U"; */
 "Px9-BW-68U.ibShadowedToolTip" = "Muestra una cuadrícula que divide el rectángulo de la selección de corte en tres partes.";
+
+/* Class = "NSTextFieldCell"; title = "Angle"; ObjectID = "Rlz-qk-QuR"; */
+"Rlz-qk-QuR.title" = "Ángulo";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Flip the image horizontally."; ObjectID = "XRh-U8-Xss"; */
 "XRh-U8-Xss.ibShadowedToolTip" = "Gira la imagen horizontalmente.";
@@ -73,14 +76,14 @@
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the angle of the image."; ObjectID = "aDo-Lz-bz3"; */
 "aDo-Lz-bz3.ibShadowedToolTip" = "Configura el ángulo de la imagen.";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "afQ-lj-deC"; */
+"afQ-lj-deC.ibShadowedToolTip" = "Añade esa figura a la figura seleccionada actualmente.";
+
 /* Class = "NSMenuItem"; title = "Flip Horizontally"; ObjectID = "bCI-Is-KBA"; */
 "bCI-Is-KBA.title" = "Volteo horizontal";
 
 /* Class = "NSTextFieldCell"; title = "Crops the image nondestructively, hiding it beyond the canvas."; ObjectID = "cvr-iN-qGX"; */
 "cvr-iN-qGX.title" = "Corta la imagen de forma no destructiva, ocultándola en el lienzo.";
-
-/* Class = "NSTextFieldCell"; title = "Show Grid"; ObjectID = "dB2-KV-S2g"; */
-"dB2-KV-S2g.title" = "Mostrar cuadrícula";
 
 /* Class = "NSSlider"; ibShadowedToolTip = "Change the angle of the image."; ObjectID = "dkF-1D-hrU"; */
 "dkF-1D-hrU.ibShadowedToolTip" = "Cambia el ángulo de la imagen.";
@@ -91,11 +94,8 @@
 /* Class = "NSMenuItem"; title = "Rotate"; ObjectID = "gDN-jy-vTT"; */
 "gDN-jy-vTT.title" = "Rotar";
 
-/* Class = "NSTextFieldCell"; title = "CROP"; ObjectID = "gts-ki-Y5D"; */
-"gts-ki-Y5D.title" = "RECORTAR";
-
-/* Class = "NSTextFieldCell"; title = "Constrain"; ObjectID = "hPE-XC-Dob"; */
-"hPE-XC-Dob.title" = "Limitar";
+/* Class = "NSTextFieldCell"; title = "Crop"; ObjectID = "gts-ki-Y5D"; */
+"gts-ki-Y5D.title" = "Recortar";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the width of the crop selection rectangle."; ObjectID = "keM-si-N3T"; */
 "keM-si-N3T.ibShadowedToolTip" = "Configura el ancho del rectángulo de la selección de corte.";
@@ -118,6 +118,9 @@
 /* Class = "NSButtonCell"; title = "Auto Straighten"; ObjectID = "oBx-NH-na8"; */
 "oBx-NH-na8.title" = "Enderezar automáticamente";
 
+/* Class = "NSButtonCell"; title = "Show Grid"; ObjectID = "pTX-xi-tqb"; */
+"pTX-xi-tqb.title" = "Mostrar cuadrícula";
+
 /* Class = "NSTextFieldCell"; title = "Permanently deletes all areas beyond the selection rectangle."; ObjectID = "paG-lM-GgK"; */
 "paG-lM-GgK.title" = "Borra permanentemente todas las áreas que se encuentren fuera del rectángulo de la selección.";
 
@@ -133,17 +136,14 @@
 /* Class = "NSTextFieldCell"; title = "1"; ObjectID = "tRG-hT-7fn"; */
 "tRG-hT-7fn.title" = "1";
 
-/* Class = "NSTextFieldCell"; title = "Constrain"; ObjectID = "vBd-Ac-Ct6"; */
-"vBd-Ac-Ct6.title" = "Limitar";
-
 /* Class = "NSButton"; ibShadowedToolTip = "Automatically straighten the image."; ObjectID = "x5g-C7-OOX"; */
 "x5g-C7-OOX.ibShadowedToolTip" = "Endereza automáticamente la imagen.";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Set the height of the crop selection rectangle."; ObjectID = "xWB-oh-otT"; */
 "xWB-oh-otT.ibShadowedToolTip" = "Configura la altura del rectángulo de la selección de corte.";
 
-/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "ymB-43-3rn"; */
-"ymB-43-3rn.title" = "Etiqueta:";
-
 /* Class = "NSStepper"; ibShadowedToolTip = "Set the width of the crop selection rectangle."; ObjectID = "zTE-A8-1Bv"; */
 "zTE-A8-1Bv.ibShadowedToolTip" = "Configura el ancho del rectángulo de la selección de corte.";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Add the shape to the currently selected shape."; ObjectID = "zgB-Hb-NG8"; */
+"zgB-Hb-NG8.ibShadowedToolTip" = "Añade esa figura a la figura seleccionada actualmente.";

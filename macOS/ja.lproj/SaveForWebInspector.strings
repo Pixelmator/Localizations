@@ -7,8 +7,8 @@
 /* Class = "NSTextFieldCell"; title = "Converts to the colors best for the web and removes the color profile."; ObjectID = "5iY-a0-cYc"; */
 "5iY-a0-cYc.title" = "Web に最適な色に変換しカラープロファイルを削除します。";
 
-/* Class = "NSTextFieldCell"; title = "Images"; ObjectID = "Clb-Z6-F7P"; */
-"Clb-Z6-F7P.title" = "イメージ";
+/* Class = "NSButtonCell"; title = "Add Format"; ObjectID = "CXm-oh-QEv"; */
+"CXm-oh-QEv.title" = "フォーマットを追加";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "DZG-w5-va1"; */
 "DZG-w5-va1.title" = "キャンセル";
@@ -16,14 +16,11 @@
 /* Class = "NSMenuItem"; title = "SVG"; ObjectID = "EH5-uR-6B6"; */
 "EH5-uR-6B6.title" = "SVG";
 
-/* Class = "NSMenuItem"; title = "Bring to Front"; ObjectID = "GdD-EC-fiQ"; */
-"GdD-EC-fiQ.title" = "最前面へ";
+/* Class = "NSTextFieldCell"; title = "Format"; ObjectID = "GaO-nT-D8y"; */
+"GaO-nT-D8y.title" = "フォーマット";
 
-/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "HAU-fh-hsc"; */
-"HAU-fh-hsc.title" = "削除";
-
-/* Class = "NSButton"; ibShadowedToolTip = "Stop using the Export for Web tool."; ObjectID = "KUQ-mP-P51"; */
-"KUQ-mP-P51.ibShadowedToolTip" = "Web ツールの書き出しの使用を停止します。";
+/* Class = "NSButton"; ibShadowedToolTip = "Add an export format."; ObjectID = "H73-fJ-g1h"; */
+"H73-fJ-g1h.ibShadowedToolTip" = "書き出しフォーマットを追加";
 
 /* Class = "NSTextFieldCell"; title = "Reduce to 8-bit color"; ObjectID = "LYK-XZ-31m"; */
 "LYK-XZ-31m.title" = "8ビットカラーに縮小";
@@ -49,17 +46,14 @@
 /* Class = "NSTextFieldCell"; title = "Use advanced compression"; ObjectID = "U1G-F0-tzA"; */
 "U1G-F0-tzA.title" = "高度な圧縮を使用";
 
-/* Class = "NSTextFieldCell"; title = "Presets"; ObjectID = "V5T-E1-hR5"; */
-"V5T-E1-hR5.title" = "プリセット";
-
-/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VUr-V1-1s1"; */
-"VUr-V1-1s1.title" = "テキスト セル";
+/* Class = "NSButton"; ibShadowedToolTip = "Remove this export format."; ObjectID = "U7B-QQ-PAg"; */
+"U7B-QQ-PAg.ibShadowedToolTip" = "この書き出しフォーマットを削除";
 
 /* Class = "NSTextFieldCell"; title = "Compresses the image using several advanced but slower algorithms."; ObjectID = "VuT-WY-RBN"; */
 "VuT-WY-RBN.title" = "いくつかの高度でより遅いアルゴリズムを使用してイメージを圧縮します。";
 
-/* Class = "NSMenuItem"; title = "Format"; ObjectID = "Ytk-pc-b8h"; */
-"Ytk-pc-b8h.title" = "形式";
+/* Class = "NSButton"; ibShadowedToolTip = "Show the Export for Web presets."; ObjectID = "WAj-pg-0iz"; */
+"WAj-pg-0iz.ibShadowedToolTip" = "Webプリセットの書き出しを表示します。";
 
 /* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "aCY-pe-VKG"; */
 "aCY-pe-VKG.title" = "サイズ";
@@ -67,20 +61,8 @@
 /* Class = "NSTextFieldCell"; title = "Keep transparency"; ObjectID = "aEF-H8-VFY"; */
 "aEF-H8-VFY.title" = "透明度を維持";
 
-/* Class = "NSTextFieldCell"; title = "OPTIMIZE"; ObjectID = "dLY-uS-bYw"; */
-"dLY-uS-bYw.title" = "最適化";
-
-/* Class = "NSMenuItem"; title = "Bring Forward"; ObjectID = "dhO-7E-1eH"; */
-"dhO-7E-1eH.title" = "前面へ";
-
-/* Class = "NSTextFieldCell"; title = "EXPORT FOR WEB"; ObjectID = "dlE-VG-wiD"; */
-"dlE-VG-wiD.title" = "Web 用に書き出し";
-
-/* Class = "NSButtonCell"; title = "Add Format"; ObjectID = "eJg-Im-zb6"; */
-"eJg-Im-zb6.title" = "フォーマットを追加";
-
-/* Class = "NSMenuItem"; title = "Reset"; ObjectID = "fBT-Oa-u1C"; */
-"fBT-Oa-u1C.title" = "リセット";
+/* Class = "NSTextFieldCell"; title = "Export for Web"; ObjectID = "dlE-VG-wiD"; */
+"dlE-VG-wiD.title" = "Web 用に書き出す";
 
 /* Class = "NSButtonCell"; title = "Export..."; ObjectID = "g6g-dE-eAy"; */
 "g6g-dE-eAy.title" = "書き出す...";
@@ -109,12 +91,6 @@
 /* Class = "NSTextFieldCell"; title = "146 x 146"; ObjectID = "r6D-Uh-1wx"; */
 "r6D-Uh-1wx.title" = "146 x 146";
 
-/* Class = "NSButtonCell"; title = "Presets"; ObjectID = "sso-bU-h42"; */
-"sso-bU-h42.title" = "プリセット";
-
-/* Class = "NSMenuItem"; title = "Send to Back"; ObjectID = "syz-ze-ghz"; */
-"syz-ze-ghz.title" = "最背面へ";
-
 /* Class = "NSMenuItem"; title = "1x"; ObjectID = "t28-vS-832"; */
 "t28-vS-832.title" = "1x";
 
@@ -132,6 +108,3 @@
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "x5L-Xo-dCT"; */
 "x5L-Xo-dCT.title" = "テキスト セル";
-
-/* Class = "NSMenuItem"; title = "Send Backward"; ObjectID = "zmW-j1-uN2"; */
-"zmW-j1-uN2.title" = "背面へ";
