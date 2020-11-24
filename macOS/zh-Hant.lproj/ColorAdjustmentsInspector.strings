@@ -1,11 +1,23 @@
 /* Class = "NSPopUpButton"; ibShadowedToolTip = "Apply other machine learning-powered adjustments."; ObjectID = "0dI-wZ-Qnm"; */
 "0dI-wZ-Qnm.ibShadowedToolTip" = "套用其他機器學習產生的調整。";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "ISO speed setting (the overall sensitivity of the camera sensor to light)."; ObjectID = "1wd-oU-txr"; */
+"1wd-oU-txr.ibShadowedToolTip" = "ISO 速度設定（相機感測器對光的整體靈敏度）。";
+
 /* Class = "NSTextField"; ibShadowedToolTip = "Camera used to take the photo."; ObjectID = "6Qp-j5-cNB"; */
 "6Qp-j5-cNB.ibShadowedToolTip" = "用於拍照的相機。";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "Relative aperture diameter setting (expressed as the ratio of focal length to effective aperture diameter)."; ObjectID = "6uQ-uI-dyg"; */
+"6uQ-uI-dyg.ibShadowedToolTip" = "相對孔徑設定（以焦距與有效孔徑直徑之比表示）。";
+
+/* Class = "NSTextFieldCell"; title = "1/80 s"; ObjectID = "8N5-g1-2fr"; */
+"8N5-g1-2fr.title" = "1/80 s";
+
 /* Class = "NSTextFieldCell"; title = "Canon EOS 5D Mark III"; ObjectID = "8pL-5d-gTY"; */
 "8pL-5d-gTY.title" = "Canon EOS 5D Mark III";
+
+/* Class = "NSTextFieldCell"; title = "ISO 100"; ObjectID = "9uE-X9-ShV"; */
+"9uE-X9-ShV.title" = "ISO 100";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Shutter speed setting (the length of time the camera sensor was exposed to light)."; ObjectID = "CdG-iO-dti"; */
 "CdG-iO-dti.ibShadowedToolTip" = "快門速度設定（相機感測器暴露在光線下的時間長度）。";
@@ -13,11 +25,17 @@
 /* Class = "NSTextFieldCell"; title = "---"; ObjectID = "GLW-sR-Hn8"; */
 "GLW-sR-Hn8.title" = "---";
 
+/* Class = "NSTextField"; ibShadowedToolTip = "Shutter speed setting (the length of time the camera sensor was exposed to light)."; ObjectID = "IBb-oz-DEO"; */
+"IBb-oz-DEO.ibShadowedToolTip" = "快門速度設定（相機感測器暴露在光線下的時間長度）。";
+
 /* Class = "NSButton"; ibShadowedToolTip = "Click to automatically enhance the white balance, lightness, hue & saturation, and individual color ranges in the image."; ObjectID = "IsO-ec-0Kn"; */
 "IsO-ec-0Kn.ibShadowedToolTip" = "按一下即可自動增強影像中的白平衡、亮度、色調和飽和度以及各顏色範圍。";
 
 /* Class = "NSButtonCell"; title = "ML Enhance"; ObjectID = "J2n-yq-pw3"; */
 "J2n-yq-pw3.title" = "ML Enhance";
+
+/* Class = "NSTextFieldCell"; title = "---"; ObjectID = "JHu-rz-ici"; */
+"JHu-rz-ici.title" = "---";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Focal length (the distance from the camera lens to the camera sensor)."; ObjectID = "LWc-g0-HfQ"; */
 "LWc-g0-HfQ.ibShadowedToolTip" = "焦距（從相機鏡頭到相機感測器的距離）。";
@@ -33,6 +51,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Adjustment"; ObjectID = "UIf-HO-vPj"; */
 "UIf-HO-vPj.title" = "調整";
+
+/* Class = "NSTextFieldCell"; title = "Histogram"; ObjectID = "V8I-Rv-NIr"; */
+"V8I-Rv-NIr.title" = "長條圖";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Show what the object looks like without any color adjustments."; ObjectID = "Vcg-cP-64h"; */
 "Vcg-cP-64h.ibShadowedToolTip" = "顯示不進行任何顏色調整的物件外觀。";
@@ -52,17 +73,32 @@
 /* Class = "NSButtonCell"; title = "Flatten"; ObjectID = "d04-dU-P65"; */
 "d04-dU-P65.title" = "平面化";
 
+/* Class = "NSTextFieldCell"; title = "Canon EF 24-70@22 mm"; ObjectID = "dXs-CD-v7b"; */
+"dXs-CD-v7b.title" = "Canon EF 24-70@22 mm";
+
 /* Class = "NSTextFieldCell"; title = "EDR Mode"; ObjectID = "dnx-HT-B6H"; */
 "dnx-HT-B6H.title" = "EDR 模式";
 
 /* Class = "NSTextFieldCell"; title = "1/80 s"; ObjectID = "fl5-1S-dtT"; */
 "fl5-1S-dtT.title" = "1/80 s";
 
+/* Class = "NSTextFieldCell"; title = "Canon EOS 5D Mark III"; ObjectID = "hG9-ac-dBv"; */
+"hG9-ac-dBv.title" = "Canon EOS 5D Mark III";
+
 /* Class = "NSTextFieldCell"; title = "Canon EF 24-70@22 mm"; ObjectID = "hnY-Sp-wMP"; */
 "hnY-Sp-wMP.title" = "Canon EF 24-70@22 mm";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "iAi-4u-cTE"; */
 "iAi-4u-cTE.title" = "文字輸入格";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Focal length (the distance from the camera lens to the camera sensor)."; ObjectID = "jXk-Ro-mRn"; */
+"jXk-Ro-mRn.ibShadowedToolTip" = "焦距（從相機鏡頭到相機感測器的距離）。";
+
+/* Class = "NSTextFieldCell"; title = "50 mm"; ObjectID = "k8L-yq-U5Z"; */
+"k8L-yq-U5Z.title" = "50 mm";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Camera lens used to take the photo."; ObjectID = "lWM-JZ-cfb"; */
+"lWM-JZ-cfb.ibShadowedToolTip" = "用於拍照的相機鏡頭。";
 
 /* Class = "NSTextFieldCell"; title = "ISO 100"; ObjectID = "lhW-di-u1G"; */
 "lhW-di-u1G.title" = "ISO 100";
@@ -75,6 +111,9 @@
 
 /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "ski-58-VuX"; */
 "ski-58-VuX.title" = "重設";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Camera used to take the photo."; ObjectID = "tyM-74-CUi"; */
+"tyM-74-CUi.ibShadowedToolTip" = "用於拍照的相機。";
 
 /* Class = "NSButtonCell"; title = "Customize"; ObjectID = "vq4-md-JTG"; */
 "vq4-md-JTG.title" = "自訂";
