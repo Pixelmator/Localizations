@@ -5,6 +5,9 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* No comment provided by engineer. */
+"%@ (Offline)" = "%@ (Offline)";
+
+/* No comment provided by engineer. */
 "%@ Adjustment" = "%@ 조정";
 
 /* No comment provided by engineer. */
@@ -75,6 +78,9 @@
 
 /* No comment provided by engineer. */
 "3-Way Color" = "3방향 색상";
+
+/* No comment provided by engineer. */
+"3D LUT" = "3D LUT";
 
 /* No comment provided by engineer. */
 "3x" = "3x";
@@ -152,6 +158,9 @@
 "Add Slices" = "슬라이스 추가";
 
 /* No comment provided by engineer. */
+"Add to Custom LUTs" = "Add to Custom LUTs";
+
+/* No comment provided by engineer. */
 "Add to Shape" = "도형에 추가";
 
 /* No comment provided by engineer. */
@@ -209,6 +218,9 @@
 "Amount" = "양";
 
 /* No comment provided by engineer. */
+"An unexpected error occurred." = "An unexpected error occurred.";
+
+/* No comment provided by engineer. */
 "Angle" = "각도";
 
 /* No comment provided by engineer. */
@@ -230,7 +242,7 @@
 "Apple ProRAW" = "Apple ProRAW";
 
 /* No comment provided by engineer. */
-"Apply" = "적용";
+"Apply Custom LUT" = "Apply Custom LUT";
 
 /* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "해당 도큐멘트를 적절하게 수정하시겠습니까?";
@@ -470,6 +482,12 @@
 "Checkerboard" = "체커판";
 
 /* No comment provided by engineer. */
+"Choose" = "Choose";
+
+/* No comment provided by engineer. */
+"Choose a 3D LUT file." = "Choose a 3D LUT file.";
+
+/* No comment provided by engineer. */
 "Choose a color adjustments collection." = "색상 조정 컬렉션을 선택합니다.";
 
 /* No comment provided by engineer. */
@@ -492,6 +510,9 @@
 
 /* No comment provided by engineer. */
 "Choose an image to use for color matching." = "색상 일치에 사용할 이미지를 선택합니다.";
+
+/* No comment provided by engineer. */
+"Choose Custom LUT..." = "Choose Custom LUT...";
 
 /* No comment provided by engineer. */
 "Choose Mask..." = "마스크 선택...";
@@ -698,9 +719,6 @@
 "Contrast" = "대비";
 
 /* No comment provided by engineer. */
-"Convert color adjustments values to LUT." = "색상 조정 값을 LUT로 변환합니다.";
-
-/* No comment provided by engineer. */
 "Convert into Pixels" = "픽셀로 변환";
 
 /* No comment provided by engineer. */
@@ -708,6 +726,12 @@
 
 /* No comment provided by engineer. */
 "Convert into Shape" = "도형으로 변환";
+
+/* No comment provided by engineer. */
+"Convert LUT into Adjustments" = "Convert LUT into Adjustments";
+
+/* No comment provided by engineer. */
+"Converting LUT into Adjustments..." = "Converting LUT into Adjustments...";
 
 /* No comment provided by engineer. */
 "Copy" = "복사";
@@ -771,6 +795,9 @@
 
 /* No comment provided by engineer. */
 "Custom" = "사용자 정의";
+
+/* No comment provided by engineer. */
+"Custom LUT" = "Custom LUT";
 
 /* No comment provided by engineer. */
 "Custom Shapes" = "사용자 지정 도형";
@@ -1013,6 +1040,9 @@
 "Elliptical Speech Bubble" = "타원형 말 풍선";
 
 /* No comment provided by engineer. */
+"Enable %@" = "%@ 활성화";
+
+/* No comment provided by engineer. */
 "Enable Auto-Center" = "자동 가운데 맞춤 활성화";
 
 /* No comment provided by engineer. */
@@ -1158,6 +1188,12 @@
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "한 개 이상의 확장 속성 값을 가져오는 데 실패했습니다";
+
+/* No comment provided by engineer. */
+"Failed to open 3D LUT file." = "Failed to open 3D LUT file.";
+
+/* No comment provided by engineer. */
+"Failed to save LUT to Custom LUTs." = "Failed to save LUT to Custom LUTs.";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "한 개 이상의 확장 속성을 설정하는 데 실패했습니다";
@@ -2084,6 +2120,9 @@
 "pixels/inch" = "픽셀/인치";
 
 /* No comment provided by engineer. */
+"Please try relaunching Pixelmator Pro." = "Please try relaunching Pixelmator Pro.";
+
+/* No comment provided by engineer. */
 "PNG" = "PNG";
 
 /* No comment provided by engineer. */
@@ -2222,6 +2261,9 @@
 "Refine Selection..." = "선택 미세 조정...";
 
 /* No comment provided by engineer. */
+"Relaunch" = "Relaunch";
+
+/* No comment provided by engineer. */
 "Release Clipping Mask" = "클리핑 마스크 해제";
 
 /* No comment provided by engineer. */
@@ -2244,6 +2286,9 @@
 
 /* No comment provided by engineer. */
 "Remove Color Tag" = "색상 태그 제거";
+
+/* No comment provided by engineer. */
+"Remove Custom LUT" = "Remove Custom LUT";
 
 /* No comment provided by engineer. */
 "Remove from Favorites" = "즐겨찾기에서 제거";
@@ -2336,6 +2381,9 @@
 "Replace this image with another." = "이 이미지를 다른 것으로 대체합니다.";
 
 /* No comment provided by engineer. */
+"Report..." = "Report...";
+
+/* No comment provided by engineer. */
 "Reprocess RAW" = "RAW 다시 처리";
 
 /* No comment provided by engineer. */
@@ -2364,6 +2412,9 @@
 
 /* No comment provided by engineer. */
 "Reset Crop" = "자르기 재설정";
+
+/* No comment provided by engineer. */
+"Reset Custom LUTs" = "Reset Custom LUTs";
 
 /* No comment provided by engineer. */
 "Reset Effects" = "효과 재설정";
@@ -2529,6 +2580,9 @@
 
 /* No comment provided by engineer. */
 "Search" = "검색";
+
+/* No comment provided by engineer. */
+"Select \"%@\" LUT" = "Select \"%@\" LUT";
 
 /* No comment provided by engineer. */
 "Select a preset to change your workspace layout." = "프리셋을 선택하여 작업 공간 레이아웃을 변경합니다.";
@@ -2988,6 +3042,9 @@
 
 /* No comment provided by engineer. */
 "The Pixelmator Pro Photos extension was unable to open the photo in the Photos Library. A photo preview will be opened instead." = "Pixelmator Pro 사진 확장이 사진 보관함의 사진을 열 수 없습니다. 대신 사진 미리 보기가 열립니다.";
+
+/* No comment provided by engineer. */
+"The selected 3D LUT is not supported by %@." = "The selected 3D LUT is not supported by %@.";
 
 /* No comment provided by engineer. */
 "The “%@” document is damaged, or isn’t compatible with %@ %@." = "\"%1$@\" 도큐멘트가 손상되었거나, %2$@ %3$@와(과) 호환되지 않습니다.";
