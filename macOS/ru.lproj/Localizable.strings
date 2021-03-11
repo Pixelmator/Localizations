@@ -5,6 +5,9 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* No comment provided by engineer. */
+"%@ (Offline)" = "%@ (Offline)";
+
+/* No comment provided by engineer. */
 "%@ Adjustment" = "Корректировки: %@";
 
 /* No comment provided by engineer. */
@@ -75,6 +78,9 @@
 
 /* No comment provided by engineer. */
 "3-Way Color" = "Трехвариантный цвет";
+
+/* No comment provided by engineer. */
+"3D LUT" = "3D LUT";
 
 /* No comment provided by engineer. */
 "3x" = "3x";
@@ -152,6 +158,9 @@
 "Add Slices" = "Добавить ломтики";
 
 /* No comment provided by engineer. */
+"Add to Custom LUTs" = "Add to Custom LUTs";
+
+/* No comment provided by engineer. */
 "Add to Shape" = "Добавить фигуру";
 
 /* No comment provided by engineer. */
@@ -209,6 +218,9 @@
 "Amount" = "Величина";
 
 /* No comment provided by engineer. */
+"An unexpected error occurred." = "An unexpected error occurred.";
+
+/* No comment provided by engineer. */
 "Angle" = "Угол";
 
 /* No comment provided by engineer. */
@@ -230,7 +242,7 @@
 "Apple ProRAW" = "Apple ProRAW";
 
 /* No comment provided by engineer. */
-"Apply" = "Применить";
+"Apply Custom LUT" = "Apply Custom LUT";
 
 /* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "Вы действительно хотите изменить этот документ на месте?";
@@ -470,6 +482,12 @@
 "Checkerboard" = "В клетку";
 
 /* No comment provided by engineer. */
+"Choose" = "Choose";
+
+/* No comment provided by engineer. */
+"Choose a 3D LUT file." = "Choose a 3D LUT file.";
+
+/* No comment provided by engineer. */
 "Choose a color adjustments collection." = "Выбрать коллекцию цветокоррекции.";
 
 /* No comment provided by engineer. */
@@ -492,6 +510,9 @@
 
 /* No comment provided by engineer. */
 "Choose an image to use for color matching." = "Выберите изображение для полного соответствия цвета.";
+
+/* No comment provided by engineer. */
+"Choose Custom LUT..." = "Choose Custom LUT...";
 
 /* No comment provided by engineer. */
 "Choose Mask..." = "Выбрать маску...";
@@ -698,9 +719,6 @@
 "Contrast" = "Контрастность";
 
 /* No comment provided by engineer. */
-"Convert color adjustments values to LUT." = "Конвертировать величины цветокоррекции в LUT.";
-
-/* No comment provided by engineer. */
 "Convert into Pixels" = "Конвертировать в пиксели";
 
 /* No comment provided by engineer. */
@@ -708,6 +726,12 @@
 
 /* No comment provided by engineer. */
 "Convert into Shape" = "Конвертировать в фигуру";
+
+/* No comment provided by engineer. */
+"Convert LUT into Adjustments" = "Convert LUT into Adjustments";
+
+/* No comment provided by engineer. */
+"Converting LUT into Adjustments..." = "Converting LUT into Adjustments...";
 
 /* No comment provided by engineer. */
 "Copy" = "Скопировать";
@@ -771,6 +795,9 @@
 
 /* No comment provided by engineer. */
 "Custom" = "Пользовательский";
+
+/* No comment provided by engineer. */
+"Custom LUT" = "Custom LUT";
 
 /* No comment provided by engineer. */
 "Custom Shapes" = "Произвольные фигуры";
@@ -1013,6 +1040,9 @@
 "Elliptical Speech Bubble" = "Эллиптический пузырь речи";
 
 /* No comment provided by engineer. */
+"Enable %@" = "Включить %@";
+
+/* No comment provided by engineer. */
 "Enable Auto-Center" = "Отключить автоцентровку";
 
 /* No comment provided by engineer. */
@@ -1158,6 +1188,12 @@
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "Не удалось получить один или более значений расширенных атрибутов";
+
+/* No comment provided by engineer. */
+"Failed to open 3D LUT file." = "Failed to open 3D LUT file.";
+
+/* No comment provided by engineer. */
+"Failed to save LUT to Custom LUTs." = "Failed to save LUT to Custom LUTs.";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "Не удалось установить один или более расширенных атрибутов.";
@@ -2084,6 +2120,9 @@
 "pixels/inch" = "пикс/дюйм";
 
 /* No comment provided by engineer. */
+"Please try relaunching Pixelmator Pro." = "Please try relaunching Pixelmator Pro.";
+
+/* No comment provided by engineer. */
 "PNG" = "PNG";
 
 /* No comment provided by engineer. */
@@ -2222,6 +2261,9 @@
 "Refine Selection..." = "Уточнить выделение...";
 
 /* No comment provided by engineer. */
+"Relaunch" = "Relaunch";
+
+/* No comment provided by engineer. */
 "Release Clipping Mask" = "Выпустить обтравочную маску";
 
 /* No comment provided by engineer. */
@@ -2244,6 +2286,9 @@
 
 /* No comment provided by engineer. */
 "Remove Color Tag" = "Удалить цветовой тег";
+
+/* No comment provided by engineer. */
+"Remove Custom LUT" = "Remove Custom LUT";
 
 /* No comment provided by engineer. */
 "Remove from Favorites" = "Убрать из «Избранного»";
@@ -2336,6 +2381,9 @@
 "Replace this image with another." = "Заменить это изображение другим.";
 
 /* No comment provided by engineer. */
+"Report..." = "Report...";
+
+/* No comment provided by engineer. */
 "Reprocess RAW" = "Репроцесс RAW";
 
 /* No comment provided by engineer. */
@@ -2364,6 +2412,9 @@
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Сбросить обрезку";
+
+/* No comment provided by engineer. */
+"Reset Custom LUTs" = "Reset Custom LUTs";
 
 /* No comment provided by engineer. */
 "Reset Effects" = "Сбросить эффекты";
@@ -2529,6 +2580,9 @@
 
 /* No comment provided by engineer. */
 "Search" = "Поиск";
+
+/* No comment provided by engineer. */
+"Select \"%@\" LUT" = "Select \"%@\" LUT";
 
 /* No comment provided by engineer. */
 "Select a preset to change your workspace layout." = "Выбрать набор, чтобы изменить макет рабочей области.";
@@ -2988,6 +3042,9 @@
 
 /* No comment provided by engineer. */
 "The Pixelmator Pro Photos extension was unable to open the photo in the Photos Library. A photo preview will be opened instead." = "Расширение Pixelmator Pro Photos не смогло открыть фото в медиатеке Photos. Вместо этого будет открыт предпросмотр.";
+
+/* No comment provided by engineer. */
+"The selected 3D LUT is not supported by %@." = "The selected 3D LUT is not supported by %@.";
 
 /* No comment provided by engineer. */
 "The “%@” document is damaged, or isn’t compatible with %@ %@." = "Документ «%1$@» поврежден или несовместим с %2$@ %3$@.";
