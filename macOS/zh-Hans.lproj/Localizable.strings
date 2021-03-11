@@ -5,6 +5,9 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* No comment provided by engineer. */
+"%@ (Offline)" = "%@ (Offline)";
+
+/* No comment provided by engineer. */
 "%@ Adjustment" = "%@ 调整";
 
 /* No comment provided by engineer. */
@@ -75,6 +78,9 @@
 
 /* No comment provided by engineer. */
 "3-Way Color" = "三路颜色";
+
+/* No comment provided by engineer. */
+"3D LUT" = "3D LUT";
 
 /* No comment provided by engineer. */
 "3x" = "3x";
@@ -152,6 +158,9 @@
 "Add Slices" = "添加切片";
 
 /* No comment provided by engineer. */
+"Add to Custom LUTs" = "Add to Custom LUTs";
+
+/* No comment provided by engineer. */
 "Add to Shape" = "添加到形状";
 
 /* No comment provided by engineer. */
@@ -209,6 +218,9 @@
 "Amount" = "数量";
 
 /* No comment provided by engineer. */
+"An unexpected error occurred." = "An unexpected error occurred.";
+
+/* No comment provided by engineer. */
 "Angle" = "角度";
 
 /* No comment provided by engineer. */
@@ -230,7 +242,7 @@
 "Apple ProRAW" = "Apple ProRAW";
 
 /* No comment provided by engineer. */
-"Apply" = "应用";
+"Apply Custom LUT" = "Apply Custom LUT";
 
 /* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "您确定要修改现有文稿吗？";
@@ -470,6 +482,12 @@
 "Checkerboard" = "棋盘";
 
 /* No comment provided by engineer. */
+"Choose" = "Choose";
+
+/* No comment provided by engineer. */
+"Choose a 3D LUT file." = "Choose a 3D LUT file.";
+
+/* No comment provided by engineer. */
 "Choose a color adjustments collection." = "创建颜色调整集合。";
 
 /* No comment provided by engineer. */
@@ -492,6 +510,9 @@
 
 /* No comment provided by engineer. */
 "Choose an image to use for color matching." = "选择要用于颜色匹配的图像。";
+
+/* No comment provided by engineer. */
+"Choose Custom LUT..." = "Choose Custom LUT...";
 
 /* No comment provided by engineer. */
 "Choose Mask..." = "选择蒙板...";
@@ -698,9 +719,6 @@
 "Contrast" = "对比度";
 
 /* No comment provided by engineer. */
-"Convert color adjustments values to LUT." = "将颜色调整值转换为 LUT。";
-
-/* No comment provided by engineer. */
 "Convert into Pixels" = "变换为像素";
 
 /* No comment provided by engineer. */
@@ -708,6 +726,12 @@
 
 /* No comment provided by engineer. */
 "Convert into Shape" = "转换为形状";
+
+/* No comment provided by engineer. */
+"Convert LUT into Adjustments" = "Convert LUT into Adjustments";
+
+/* No comment provided by engineer. */
+"Converting LUT into Adjustments..." = "Converting LUT into Adjustments...";
 
 /* No comment provided by engineer. */
 "Copy" = "拷贝";
@@ -771,6 +795,9 @@
 
 /* No comment provided by engineer. */
 "Custom" = "自定义";
+
+/* No comment provided by engineer. */
+"Custom LUT" = "Custom LUT";
 
 /* No comment provided by engineer. */
 "Custom Shapes" = "自定义形状";
@@ -1013,6 +1040,9 @@
 "Elliptical Speech Bubble" = "椭圆对话气泡";
 
 /* No comment provided by engineer. */
+"Enable %@" = "启用 %@";
+
+/* No comment provided by engineer. */
 "Enable Auto-Center" = "启用自动居中";
 
 /* No comment provided by engineer. */
@@ -1158,6 +1188,12 @@
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "未能获取一个或多个扩展属性值";
+
+/* No comment provided by engineer. */
+"Failed to open 3D LUT file." = "Failed to open 3D LUT file.";
+
+/* No comment provided by engineer. */
+"Failed to save LUT to Custom LUTs." = "Failed to save LUT to Custom LUTs.";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "未能获取一个或多个扩展属性。";
@@ -2084,6 +2120,9 @@
 "pixels/inch" = "像素/英寸";
 
 /* No comment provided by engineer. */
+"Please try relaunching Pixelmator Pro." = "Please try relaunching Pixelmator Pro.";
+
+/* No comment provided by engineer. */
 "PNG" = "PNG";
 
 /* No comment provided by engineer. */
@@ -2222,6 +2261,9 @@
 "Refine Selection..." = "调整选区...";
 
 /* No comment provided by engineer. */
+"Relaunch" = "Relaunch";
+
+/* No comment provided by engineer. */
 "Release Clipping Mask" = "释放剪裁蒙版";
 
 /* No comment provided by engineer. */
@@ -2244,6 +2286,9 @@
 
 /* No comment provided by engineer. */
 "Remove Color Tag" = "移除颜色标签";
+
+/* No comment provided by engineer. */
+"Remove Custom LUT" = "Remove Custom LUT";
 
 /* No comment provided by engineer. */
 "Remove from Favorites" = "从个人收藏中移除";
@@ -2336,6 +2381,9 @@
 "Replace this image with another." = "用另一个图像替换此图像。";
 
 /* No comment provided by engineer. */
+"Report..." = "Report...";
+
+/* No comment provided by engineer. */
 "Reprocess RAW" = "重新处理 RAW";
 
 /* No comment provided by engineer. */
@@ -2364,6 +2412,9 @@
 
 /* No comment provided by engineer. */
 "Reset Crop" = "重置裁剪";
+
+/* No comment provided by engineer. */
+"Reset Custom LUTs" = "Reset Custom LUTs";
 
 /* No comment provided by engineer. */
 "Reset Effects" = "重置效果";
@@ -2529,6 +2580,9 @@
 
 /* No comment provided by engineer. */
 "Search" = "搜索";
+
+/* No comment provided by engineer. */
+"Select \"%@\" LUT" = "Select \"%@\" LUT";
 
 /* No comment provided by engineer. */
 "Select a preset to change your workspace layout." = "选择预置以更改工作区布局。";
@@ -2988,6 +3042,9 @@
 
 /* No comment provided by engineer. */
 "The Pixelmator Pro Photos extension was unable to open the photo in the Photos Library. A photo preview will be opened instead." = "Pixelmator Pro 照片扩展未能在照片图库中打开照片。将打开照片预览。";
+
+/* No comment provided by engineer. */
+"The selected 3D LUT is not supported by %@." = "The selected 3D LUT is not supported by %@.";
 
 /* No comment provided by engineer. */
 "The “%@” document is damaged, or isn’t compatible with %@ %@." = "文稿“%1$@”已损坏，或与 %2$@ %3$@ 不兼容。";
