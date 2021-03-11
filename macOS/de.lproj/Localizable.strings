@@ -5,6 +5,9 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* No comment provided by engineer. */
+"%@ (Offline)" = "%@ (Offline)";
+
+/* No comment provided by engineer. */
 "%@ Adjustment" = "%@ Anpassung";
 
 /* No comment provided by engineer. */
@@ -75,6 +78,9 @@
 
 /* No comment provided by engineer. */
 "3-Way Color" = "3-Wege-Farbtöne";
+
+/* No comment provided by engineer. */
+"3D LUT" = "3D LUT";
 
 /* No comment provided by engineer. */
 "3x" = "3x";
@@ -152,6 +158,9 @@
 "Add Slices" = "Slices hinzufügen";
 
 /* No comment provided by engineer. */
+"Add to Custom LUTs" = "Add to Custom LUTs";
+
+/* No comment provided by engineer. */
 "Add to Shape" = "Zur Form hinzufügen";
 
 /* No comment provided by engineer. */
@@ -209,6 +218,9 @@
 "Amount" = "Stärke";
 
 /* No comment provided by engineer. */
+"An unexpected error occurred." = "An unexpected error occurred.";
+
+/* No comment provided by engineer. */
 "Angle" = "Winkel";
 
 /* No comment provided by engineer. */
@@ -230,7 +242,7 @@
 "Apple ProRAW" = "Apple ProRAW";
 
 /* No comment provided by engineer. */
-"Apply" = "Anwenden";
+"Apply Custom LUT" = "Apply Custom LUT";
 
 /* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "Möchten Sie das Dokument wirklich am gleichen Ort modifizieren?";
@@ -470,6 +482,12 @@
 "Checkerboard" = "Schachbrett";
 
 /* No comment provided by engineer. */
+"Choose" = "Choose";
+
+/* No comment provided by engineer. */
+"Choose a 3D LUT file." = "Choose a 3D LUT file.";
+
+/* No comment provided by engineer. */
 "Choose a color adjustments collection." = "Eine Farbanpassungssammlung auswählen.";
 
 /* No comment provided by engineer. */
@@ -492,6 +510,9 @@
 
 /* No comment provided by engineer. */
 "Choose an image to use for color matching." = "Wählen Sie ein Bild für die Farbanpassung.";
+
+/* No comment provided by engineer. */
+"Choose Custom LUT..." = "Choose Custom LUT...";
 
 /* No comment provided by engineer. */
 "Choose Mask..." = "Maske auswählen...";
@@ -698,9 +719,6 @@
 "Contrast" = "Kontrast";
 
 /* No comment provided by engineer. */
-"Convert color adjustments values to LUT." = "Farbanpassungswerte in LUT umrechnen";
-
-/* No comment provided by engineer. */
 "Convert into Pixels" = "In Pixel konvertieren";
 
 /* No comment provided by engineer. */
@@ -708,6 +726,12 @@
 
 /* No comment provided by engineer. */
 "Convert into Shape" = "In Form konvertieren";
+
+/* No comment provided by engineer. */
+"Convert LUT into Adjustments" = "Convert LUT into Adjustments";
+
+/* No comment provided by engineer. */
+"Converting LUT into Adjustments..." = "Converting LUT into Adjustments...";
 
 /* No comment provided by engineer. */
 "Copy" = "Kopieren";
@@ -771,6 +795,9 @@
 
 /* No comment provided by engineer. */
 "Custom" = "Benutzerdefiniert";
+
+/* No comment provided by engineer. */
+"Custom LUT" = "Custom LUT";
 
 /* No comment provided by engineer. */
 "Custom Shapes" = "Benutzerdefinierte Formen";
@@ -1013,6 +1040,9 @@
 "Elliptical Speech Bubble" = "Elliptische Sprechblase";
 
 /* No comment provided by engineer. */
+"Enable %@" = "%@ aktivieren";
+
+/* No comment provided by engineer. */
 "Enable Auto-Center" = "Auto-Zentrieren aktivieren";
 
 /* No comment provided by engineer. */
@@ -1158,6 +1188,12 @@
 
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "Konnte einen oder mehrere erweiterte Attributwerte nicht einholen";
+
+/* No comment provided by engineer. */
+"Failed to open 3D LUT file." = "Failed to open 3D LUT file.";
+
+/* No comment provided by engineer. */
+"Failed to save LUT to Custom LUTs." = "Failed to save LUT to Custom LUTs.";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "Konnte ein oder mehrere erweiterte Attribute nicht einstellen.";
@@ -2084,6 +2120,9 @@
 "pixels/inch" = "Pixel/Zoll";
 
 /* No comment provided by engineer. */
+"Please try relaunching Pixelmator Pro." = "Please try relaunching Pixelmator Pro.";
+
+/* No comment provided by engineer. */
 "PNG" = "PNG";
 
 /* No comment provided by engineer. */
@@ -2222,6 +2261,9 @@
 "Refine Selection..." = "Auswahl anpassen …";
 
 /* No comment provided by engineer. */
+"Relaunch" = "Relaunch";
+
+/* No comment provided by engineer. */
 "Release Clipping Mask" = "Schnittmaske freigeben";
 
 /* No comment provided by engineer. */
@@ -2244,6 +2286,9 @@
 
 /* No comment provided by engineer. */
 "Remove Color Tag" = "Farb-Tag entfernen";
+
+/* No comment provided by engineer. */
+"Remove Custom LUT" = "Remove Custom LUT";
 
 /* No comment provided by engineer. */
 "Remove from Favorites" = "Aus Favoriten entfernen";
@@ -2336,6 +2381,9 @@
 "Replace this image with another." = "Dieses Bild mit einem anderen ersetzen.";
 
 /* No comment provided by engineer. */
+"Report..." = "Report...";
+
+/* No comment provided by engineer. */
 "Reprocess RAW" = "RAW wiederaufbereiten";
 
 /* No comment provided by engineer. */
@@ -2364,6 +2412,9 @@
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Schnitt zurücksetzen";
+
+/* No comment provided by engineer. */
+"Reset Custom LUTs" = "Reset Custom LUTs";
 
 /* No comment provided by engineer. */
 "Reset Effects" = "Effekte zurücksetzen";
@@ -2529,6 +2580,9 @@
 
 /* No comment provided by engineer. */
 "Search" = "Suche";
+
+/* No comment provided by engineer. */
+"Select \"%@\" LUT" = "Select \"%@\" LUT";
 
 /* No comment provided by engineer. */
 "Select a preset to change your workspace layout." = "Wählen Sie eine Voreinstellung aus, um Ihr Arbeitsplatz-Layout zu ändern.";
@@ -2988,6 +3042,9 @@
 
 /* No comment provided by engineer. */
 "The Pixelmator Pro Photos extension was unable to open the photo in the Photos Library. A photo preview will be opened instead." = "Die Erweiterung Pixelmator Pro Photos konnte das Foto in der Fotobibliothek nicht öffnen. Stattdessen wird eine Vorschau geöffnet.";
+
+/* No comment provided by engineer. */
+"The selected 3D LUT is not supported by %@." = "The selected 3D LUT is not supported by %@.";
 
 /* No comment provided by engineer. */
 "The “%@” document is damaged, or isn’t compatible with %@ %@." = "Das Dokument “%1$@” ist beschädigt oder nicht mit %2$@ %3$@ kompatibel.";
