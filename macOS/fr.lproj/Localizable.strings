@@ -5,7 +5,7 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* No comment provided by engineer. */
-"%@ (Offline)" = "%@ (Offline)";
+"%@ (Offline)" = "%@ (déconnecté)";
 
 /* No comment provided by engineer. */
 "%@ Adjustment" = "Réglage de %@";
@@ -158,7 +158,7 @@
 "Add Slices" = "Ajouter des tranches";
 
 /* No comment provided by engineer. */
-"Add to Custom LUTs" = "Add to Custom LUTs";
+"Add to Custom LUTs" = "Ajouter aux LUT personnalisées";
 
 /* No comment provided by engineer. */
 "Add to Shape" = "Ajouter à la forme";
@@ -218,7 +218,7 @@
 "Amount" = "Quantité";
 
 /* No comment provided by engineer. */
-"An unexpected error occurred." = "An unexpected error occurred.";
+"An unexpected error occurred." = "Une erreur inattendue est survenue.";
 
 /* No comment provided by engineer. */
 "Angle" = "Angle";
@@ -242,7 +242,7 @@
 "Apple ProRAW" = "Apple ProRAW";
 
 /* No comment provided by engineer. */
-"Apply Custom LUT" = "Apply Custom LUT";
+"Apply Custom LUT" = "Appliquer une LUT personnalisée";
 
 /* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "Êtes-vous sûr de vouloir modifier ce document ?";
@@ -482,10 +482,10 @@
 "Checkerboard" = "Damier";
 
 /* No comment provided by engineer. */
-"Choose" = "Choose";
+"Choose" = "Choisir";
 
 /* No comment provided by engineer. */
-"Choose a 3D LUT file." = "Choose a 3D LUT file.";
+"Choose a 3D LUT file." = "Choisissez un fichier 3D LUT.";
 
 /* No comment provided by engineer. */
 "Choose a color adjustments collection." = "Choisir une collection d'ajustements de couleurs.";
@@ -512,7 +512,7 @@
 "Choose an image to use for color matching." = "Choisissez une image à utiliser pour la correspondance des couleurs.";
 
 /* No comment provided by engineer. */
-"Choose Custom LUT..." = "Choose Custom LUT...";
+"Choose Custom LUT..." = "Choisir une LUT personnalisée...";
 
 /* No comment provided by engineer. */
 "Choose Mask..." = "Choisir le masque...";
@@ -728,10 +728,10 @@
 "Convert into Shape" = "Convertir en forme";
 
 /* No comment provided by engineer. */
-"Convert LUT into Adjustments" = "Convert LUT into Adjustments";
+"Convert LUT into Adjustments" = "Convertir LUT en Réglages";
 
 /* No comment provided by engineer. */
-"Converting LUT into Adjustments..." = "Converting LUT into Adjustments...";
+"Converting LUT into Adjustments..." = "Conversion de LUT en Réglages...";
 
 /* No comment provided by engineer. */
 "Copy" = "Copier";
@@ -797,7 +797,7 @@
 "Custom" = "Personnalisé";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "Custom LUT";
+"Custom LUT" = "LUT personnalisée";
 
 /* No comment provided by engineer. */
 "Custom Shapes" = "Formes personnalisées";
@@ -1190,10 +1190,10 @@
 "Failed to get one or more extended attribute values" = "Impossible de récupérer une ou plusieurs valeurs d’attributs étendus";
 
 /* No comment provided by engineer. */
-"Failed to open 3D LUT file." = "Failed to open 3D LUT file.";
+"Failed to open 3D LUT file." = "L'ouverture du fichier 3D LUT a échoué.";
 
 /* No comment provided by engineer. */
-"Failed to save LUT to Custom LUTs." = "Failed to save LUT to Custom LUTs.";
+"Failed to save LUT to Custom LUTs." = "L'enregistrement de LUT en LUT personnalisées a échoué.";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "Impossible de définir un ou plusieurs attributs étendus.";
@@ -2120,7 +2120,7 @@
 "pixels/inch" = "pixels/pouce";
 
 /* No comment provided by engineer. */
-"Please try relaunching Pixelmator Pro." = "Please try relaunching Pixelmator Pro.";
+"Please try relaunching Pixelmator Pro." = "Veuillez réessayer de relancer Pixelmator Pro.";
 
 /* No comment provided by engineer. */
 "PNG" = "PNG";
@@ -2261,7 +2261,7 @@
 "Refine Selection..." = "Affiner la sélection…";
 
 /* No comment provided by engineer. */
-"Relaunch" = "Relaunch";
+"Relaunch" = "Relancer";
 
 /* No comment provided by engineer. */
 "Release Clipping Mask" = "Annuler masque d’écrêtage";
@@ -2288,7 +2288,7 @@
 "Remove Color Tag" = "Supprimer le tag de couleur";
 
 /* No comment provided by engineer. */
-"Remove Custom LUT" = "Remove Custom LUT";
+"Remove Custom LUT" = "Supprimer la LUT personnalisée";
 
 /* No comment provided by engineer. */
 "Remove from Favorites" = "Supprimer des favoris";
@@ -2381,7 +2381,7 @@
 "Replace this image with another." = "Remplacer cette image par une autre.";
 
 /* No comment provided by engineer. */
-"Report..." = "Report...";
+"Report..." = "Signaler...";
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "Retraiter RAW";
@@ -2414,7 +2414,7 @@
 "Reset Crop" = "Réinitialiser le rognage";
 
 /* No comment provided by engineer. */
-"Reset Custom LUTs" = "Reset Custom LUTs";
+"Reset Custom LUTs" = "Réinitialiser LUT personnalisées";
 
 /* No comment provided by engineer. */
 "Reset Effects" = "Réinitialiser les effets";
@@ -2582,7 +2582,7 @@
 "Search" = "Rechercher";
 
 /* No comment provided by engineer. */
-"Select \"%@\" LUT" = "Select \"%@\" LUT";
+"Select \"%@\" LUT" = "Choisir LUT « %@ »";
 
 /* No comment provided by engineer. */
 "Select a preset to change your workspace layout." = "Sélectionner un préréglage pour modifier la présentation de l'espace de travail.";
