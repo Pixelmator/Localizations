@@ -731,7 +731,7 @@
 "Convert LUT into Adjustments" = "LUTを調整に変換する";
 
 /* No comment provided by engineer. */
-"Convert LUTs into Adjustments" = "Convert LUTs into Adjustments";
+"Convert LUTs into Adjustments" = "LUTをカラー調整に変換する";
 
 /* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUTを調整に変換しています…";
@@ -1100,7 +1100,7 @@
 "Export" = "書き出す";
 
 /* No comment provided by engineer. */
-"Export Adjustments as LUTs" = "Export Adjustments as LUTs";
+"Export Adjustments as LUTs" = "調整をLUTとして書き出す";
 
 /* No comment provided by engineer. */
 "Export Adjustments as LUT…" = "調整をLUTで書き出す…";
@@ -1718,7 +1718,7 @@
 "Luminosity" = "輝度";
 
 /* No comment provided by engineer. */
-"LUT Support" = "LUT Support";
+"LUT Support" = "LUT サポート";
 
 /* No comment provided by engineer. */
 "Magenta / Green" = "マゼンタ/グリーン";
@@ -1784,7 +1784,7 @@
 "ML Denoise" = "ML ノイズ除去";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML Enhance";
+"ML Enhance" = "ML エンハンス";
 
 /* No comment provided by engineer. */
 "ML Match Colors" = "ML カラーマッチ";
@@ -1792,7 +1792,9 @@
 /* No comment provided by engineer. */
 "ML Match Colors…" = "ML カラーマッチ…";
 
-/* No comment provided by engineer. */
+/* This feature upscales image 3 times while preserving image details. 
+
+ML in this context means Machine Learning. Full feature name could be left in place in English if that makes sense. We consider "ML" part not translatable, it's used as part of branding in machine learning tools suite within Pixelmator products. */
 "ML Super Resolution" = "ML 超解像";
 
 /* No comment provided by engineer. */
@@ -1952,7 +1954,7 @@
 "Off" = "オフ";
 
 /* No comment provided by engineer. */
-"Offline LUT" = "Offline LUT";
+"Offline LUT" = "オフライン LUT";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
