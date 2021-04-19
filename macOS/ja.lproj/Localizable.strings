@@ -74,9 +74,6 @@
 "3 by 3" = "3 x 3";
 
 /* No comment provided by engineer. */
-"3 New Effects" = "3つの新しいエフェクト";
-
-/* No comment provided by engineer. */
 "3-Way Color" = "3ウェイカラー";
 
 /* No comment provided by engineer. */
@@ -108,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "フォルダ%@には同じ名前のファイルまたはフォルダが存在します。これを置き換えると現在の内容が上書きされます。";
+
+/* No comment provided by engineer. */
+"A set of %@ LUTs in %@ different collections created by the Pixelmator Team is included with this update." = "このアップデートにはPixelmator Teamによって作成された%2$@ のさまざまなコレクション内の%1$@LUTのセットが含まれています。";
 
 /* No comment provided by engineer. */
 "Accumulation" = "累積";
@@ -234,9 +234,6 @@
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
-
-/* No comment provided by engineer. */
-"Apple ProRAW" = "Apple ProRAW";
 
 /* No comment provided by engineer. */
 "Apply Custom LUT" = "カスタムLUTを適用";
@@ -417,6 +414,9 @@
 
 /* No comment provided by engineer. */
 "Brushes" = "ブラシ";
+
+/* No comment provided by engineer. */
+"Built-In LUT Collection" = "ビルトインLUTコレクション";
 
 /* No comment provided by engineer. */
 "Bump" = "バンプ";
@@ -729,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "LUTを調整に変換する";
+
+/* No comment provided by engineer. */
+"Convert LUTs into Adjustments" = "LUTを調整に変換する";
 
 /* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUTを調整に変換しています…";
@@ -1097,6 +1100,9 @@
 "Export" = "書き出す";
 
 /* No comment provided by engineer. */
+"Export Adjustments as LUTs" = "調整をLUTとして書き出す";
+
+/* No comment provided by engineer. */
 "Export Adjustments as LUT…" = "調整をLUTで書き出す…";
 
 /* No comment provided by engineer. */
@@ -1134,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Export Library" = "書き出しライブラリ";
+
+/* No comment provided by engineer. */
+"Export LUTs from Pixelmator Pro to apply the same color changes in other apps, such as Final Cut Pro X." = "Pixelmator ProからLUTを書き出してFinal Cut Pro Xなどの他のアプリに同じ色の変更を適用します。";
 
 /* No comment provided by engineer. */
 "export mask as png" = "マスクを png 形式でエクスポート";
@@ -1221,9 +1230,6 @@
 
 /* No comment provided by engineer. */
 "Fill with Foreground Color" = "前景色で塗りつぶす";
-
-/* No comment provided by engineer. */
-"Find 3 powerful new effects in the Effects tool – Gradient Map, Displacement Map, and High Pass." = "エフェクトツールで、グラデーションマップ、ディスプレイスメントマップ、ハイパスの3つの強力なエフェクトが追加されました。";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "描画を終了";
@@ -1559,6 +1565,9 @@
 "Inside" = "内側";
 
 /* No comment provided by engineer. */
+"Intelligently convert LUTs into color adjustments using machine learning magic." = "機械学習の技術を使用してLUTをインテリジェントに色調整に変換します。";
+
+/* No comment provided by engineer. */
 "Intensity" = "強度";
 
 /* No comment provided by engineer. */
@@ -1709,6 +1718,9 @@
 "Luminosity" = "輝度";
 
 /* No comment provided by engineer. */
+"LUT Support" = "LUT サポート";
+
+/* No comment provided by engineer. */
 "Magenta / Green" = "マゼンタ/グリーン";
 
 /* No comment provided by engineer. */
@@ -1772,7 +1784,7 @@
 "ML Denoise" = "ML ノイズ除去";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML Enhance";
+"ML Enhance" = "ML エンハンス";
 
 /* No comment provided by engineer. */
 "ML Match Colors" = "ML カラーマッチ";
@@ -1780,7 +1792,9 @@
 /* No comment provided by engineer. */
 "ML Match Colors…" = "ML カラーマッチ…";
 
-/* No comment provided by engineer. */
+/* This feature upscales image 3 times while preserving image details. 
+
+ML in this context means Machine Learning. Full feature name could be left in place in English if that makes sense. We consider "ML" part not translatable, it's used as part of branding in machine learning tools suite within Pixelmator products. */
 "ML Super Resolution" = "ML 超解像";
 
 /* No comment provided by engineer. */
@@ -1940,7 +1954,7 @@
 "Off" = "オフ";
 
 /* No comment provided by engineer. */
-"Offline LUT" = "Offline LUT";
+"Offline LUT" = "オフライン LUT";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -2108,9 +2122,6 @@
 "Pixelmator Pro is built exclusively for macOS. So it’s easy to use by design and takes full advantage of the power of your Mac." = "Pixelmator Pro は macOS 専用に製作されています。使いやすさを追求したデザインで、Mac のパワーを最大限に活用できます。";
 
 /* No comment provided by engineer. */
-"Pixelmator Pro now fully supports Apple ProRAW photos." = "Pixelmator ProはApple ProRAW形式を完全にサポートします。";
-
-/* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Pixelmator Pro試用版";
 
 /* No comment provided by engineer. */
@@ -2229,9 +2240,6 @@
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW レイヤー";
-
-/* No comment provided by engineer. */
-"Recover much more detail in the shadows and highlights of photos." = "写真のシャドウとハイライトでより多くのディテールを回復します。";
 
 /* No comment provided by engineer. */
 "Rectangle" = "長方形";
@@ -2688,9 +2696,6 @@
 
 /* No comment provided by engineer. */
 "Shadows" = "シャドウ";
-
-/* No comment provided by engineer. */
-"Shadows and Highlights" = "シャドウとハイライト";
 
 /* No comment provided by engineer. */
 "Shape" = "シェイプ";
@@ -3218,9 +3223,6 @@
 "Upgrade" = "アップグレード";
 
 /* No comment provided by engineer. */
-"Use the Export for Web tool to export WebP images and create export presets." = "[Web用に書き出し] ツールを使用して、WebP画像を書き出して書き出しプリセットを作成します。";
-
-/* No comment provided by engineer. */
 "Version" = "バージョン";
 
 /* No comment provided by engineer. */
@@ -3260,9 +3262,6 @@
 "Watercolor" = "水彩画";
 
 /* No comment provided by engineer. */
-"WebP Export" = "Web用に書き出し";
-
-/* No comment provided by engineer. */
 "Welcome to Pixelmator Pro" = "Pixelmator Pro\nへようこそ";
 
 /* No comment provided by engineer. */
@@ -3282,6 +3281,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "幅:";
+
+/* No comment provided by engineer. */
+"With full support for LUTs, you can now edit the colors of images using color presets created in other apps." = "LUTをフルサポートすることで、他のアプリで作成されたカラープリセットを使用して画像の色を編集できるようになりました。";
 
 /* No comment provided by engineer. */
 "Workspace" = "ワークスペース";

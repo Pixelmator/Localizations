@@ -74,9 +74,6 @@
 "3 by 3" = "3x3";
 
 /* No comment provided by engineer. */
-"3 New Effects" = "3 个新效果";
-
-/* No comment provided by engineer. */
 "3-Way Color" = "三路颜色";
 
 /* No comment provided by engineer. */
@@ -108,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "文件夹“%@”中已有相同名称的文件或文件夹。替换它将覆盖其当前内容。";
+
+/* No comment provided by engineer. */
+"A set of %@ LUTs in %@ different collections created by the Pixelmator Team is included with this update." = "此更新包含 Pixelmator 团队创建的一组 %1$@ 个 LUT（%2$@ 个不同系列）。";
 
 /* No comment provided by engineer. */
 "Accumulation" = "累积";
@@ -234,9 +234,6 @@
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
-
-/* No comment provided by engineer. */
-"Apple ProRAW" = "Apple ProRAW";
 
 /* No comment provided by engineer. */
 "Apply Custom LUT" = "应用自定义 LUT";
@@ -417,6 +414,9 @@
 
 /* No comment provided by engineer. */
 "Brushes" = "画笔";
+
+/* No comment provided by engineer. */
+"Built-In LUT Collection" = "内建 LUT 系列";
 
 /* No comment provided by engineer. */
 "Bump" = "凹凸";
@@ -729,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "将 LUT 转换成调整";
+
+/* No comment provided by engineer. */
+"Convert LUTs into Adjustments" = "将 LUT 转换为调整";
 
 /* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "正在将 LUT 转换成调整…";
@@ -1097,6 +1100,9 @@
 "Export" = "导出";
 
 /* No comment provided by engineer. */
+"Export Adjustments as LUTs" = "将调整导出为 LUT";
+
+/* No comment provided by engineer. */
 "Export Adjustments as LUT…" = "导出调整为 LUT…";
 
 /* No comment provided by engineer. */
@@ -1134,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Export Library" = "导出库";
+
+/* No comment provided by engineer. */
+"Export LUTs from Pixelmator Pro to apply the same color changes in other apps, such as Final Cut Pro X." = "从 Pixelmator Pro 导出 LUT，以在其他 app（例如 Final Cut Pro X）中应用相同的颜色更改。";
 
 /* No comment provided by engineer. */
 "export mask as png" = "导出蒙版为 png";
@@ -1221,9 +1230,6 @@
 
 /* No comment provided by engineer. */
 "Fill with Foreground Color" = "用前景色填充";
-
-/* No comment provided by engineer. */
-"Find 3 powerful new effects in the Effects tool – Gradient Map, Displacement Map, and High Pass." = "在“效果”工具中找到 3 个功能强大的新效果 – 渐变地图、置换地图和高通。";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "完成绘图";
@@ -1559,6 +1565,9 @@
 "Inside" = "内";
 
 /* No comment provided by engineer. */
+"Intelligently convert LUTs into color adjustments using machine learning magic." = "使用机器学习魔法将 LUT 智能地转换为颜色调整。";
+
+/* No comment provided by engineer. */
 "Intensity" = "强度";
 
 /* No comment provided by engineer. */
@@ -1709,6 +1718,9 @@
 "Luminosity" = "明度";
 
 /* No comment provided by engineer. */
+"LUT Support" = "LUT 支持";
+
+/* No comment provided by engineer. */
 "Magenta / Green" = "洋红色/绿色";
 
 /* No comment provided by engineer. */
@@ -1772,7 +1784,7 @@
 "ML Denoise" = "ML 降噪";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML Enhance";
+"ML Enhance" = "ML 增强";
 
 /* No comment provided by engineer. */
 "ML Match Colors" = "ML 匹配颜色";
@@ -1780,7 +1792,9 @@
 /* No comment provided by engineer. */
 "ML Match Colors…" = "ML 匹配颜色…";
 
-/* No comment provided by engineer. */
+/* This feature upscales image 3 times while preserving image details. 
+
+ML in this context means Machine Learning. Full feature name could be left in place in English if that makes sense. We consider "ML" part not translatable, it's used as part of branding in machine learning tools suite within Pixelmator products. */
 "ML Super Resolution" = "ML Super Resolution";
 
 /* No comment provided by engineer. */
@@ -1940,7 +1954,7 @@
 "Off" = "关";
 
 /* No comment provided by engineer. */
-"Offline LUT" = "Offline LUT";
+"Offline LUT" = "离线 LUT";
 
 /* No comment provided by engineer. */
 "OK" = "好";
@@ -2108,9 +2122,6 @@
 "Pixelmator Pro is built exclusively for macOS. So it’s easy to use by design and takes full advantage of the power of your Mac." = "Pixelmator Pro 专为 macOS 打造。因此设计上易于使用，可以充分利用 Mac 的强大性能。";
 
 /* No comment provided by engineer. */
-"Pixelmator Pro now fully supports Apple ProRAW photos." = "Pixelmator Pro 现已完全支持 Apple ProRAW 照片。";
-
-/* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Pixelmator Pro 试用";
 
 /* No comment provided by engineer. */
@@ -2229,9 +2240,6 @@
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW 图层";
-
-/* No comment provided by engineer. */
-"Recover much more detail in the shadows and highlights of photos." = "在照片的阴影和高光中恢复更多更多的细节。";
 
 /* No comment provided by engineer. */
 "Rectangle" = "矩形";
@@ -2688,9 +2696,6 @@
 
 /* No comment provided by engineer. */
 "Shadows" = "阴影";
-
-/* No comment provided by engineer. */
-"Shadows and Highlights" = "阴影和高亮";
 
 /* No comment provided by engineer. */
 "Shape" = "形状";
@@ -3218,9 +3223,6 @@
 "Upgrade" = "升级";
 
 /* No comment provided by engineer. */
-"Use the Export for Web tool to export WebP images and create export presets." = "使用“导出用于 Web”工具导出 WebP 图像并创建导出预设。";
-
-/* No comment provided by engineer. */
 "Version" = "版本";
 
 /* No comment provided by engineer. */
@@ -3260,9 +3262,6 @@
 "Watercolor" = "水彩";
 
 /* No comment provided by engineer. */
-"WebP Export" = "WebP 导出";
-
-/* No comment provided by engineer. */
 "Welcome to Pixelmator Pro" = "欢迎使用 Pixelmator Pro";
 
 /* No comment provided by engineer. */
@@ -3282,6 +3281,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "宽度:";
+
+/* No comment provided by engineer. */
+"With full support for LUTs, you can now edit the colors of images using color presets created in other apps." = "现已全面支持 LUT，您可以使用在其他 app 中创建的颜色预设来编辑图像颜色。";
 
 /* No comment provided by engineer. */
 "Workspace" = "工作区";

@@ -74,9 +74,6 @@
 "3 by 3" = "3 par 3";
 
 /* No comment provided by engineer. */
-"3 New Effects" = "3 nouveaux effets";
-
-/* No comment provided by engineer. */
 "3-Way Color" = "Couleur à 3 voies";
 
 /* No comment provided by engineer. */
@@ -108,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Un fichier ou un dossier du même nom se trouve déjà dans le dossier %@. Si vous le remplacez, le contenu d’origine sera perdu.";
+
+/* No comment provided by engineer. */
+"A set of %@ LUTs in %@ different collections created by the Pixelmator Team is included with this update." = "Cette mise à jour comprend un ensemble de %1$@ LUT décliné en %2$@ collections, créées par l'équipe Pixelmator.";
 
 /* No comment provided by engineer. */
 "Accumulation" = "Accumulation";
@@ -234,9 +234,6 @@
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
-
-/* No comment provided by engineer. */
-"Apple ProRAW" = "Apple ProRAW";
 
 /* No comment provided by engineer. */
 "Apply Custom LUT" = "Appliquer une LUT personnalisée";
@@ -417,6 +414,9 @@
 
 /* No comment provided by engineer. */
 "Brushes" = "Pinceaux";
+
+/* No comment provided by engineer. */
+"Built-In LUT Collection" = "Collection de LUT intégrée";
 
 /* No comment provided by engineer. */
 "Bump" = "Bosselage";
@@ -729,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "Convertir LUT en Réglages";
+
+/* No comment provided by engineer. */
+"Convert LUTs into Adjustments" = "Convertir des LUT en Réglages";
 
 /* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "Conversion de LUT en Réglages…";
@@ -1097,6 +1100,9 @@
 "Export" = "Exporter";
 
 /* No comment provided by engineer. */
+"Export Adjustments as LUTs" = "Export des Réglages au format LUT";
+
+/* No comment provided by engineer. */
 "Export Adjustments as LUT…" = "Export des Réglages au format LUT…";
 
 /* No comment provided by engineer. */
@@ -1134,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Export Library" = "Exporter la bibliothèque";
+
+/* No comment provided by engineer. */
+"Export LUTs from Pixelmator Pro to apply the same color changes in other apps, such as Final Cut Pro X." = "Exportez les LUT de Pixelmator Pro pour appliquer les mêmes changements de couleur dans d'autres applications, comme Final Cut Pro X.";
 
 /* No comment provided by engineer. */
 "export mask as png" = "exporter le masque en png";
@@ -1221,9 +1230,6 @@
 
 /* No comment provided by engineer. */
 "Fill with Foreground Color" = "Remplir avec la couleur de premier plan";
-
-/* No comment provided by engineer. */
-"Find 3 powerful new effects in the Effects tool – Gradient Map, Displacement Map, and High Pass." = "Retrouvez les 3 nouveaux effets puissants de l'outil Effets – Courbe de transfert de dégradés, Carte de déplacement et Passe-haut.";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "Finir dessin";
@@ -1559,6 +1565,9 @@
 "Inside" = "Intérieur";
 
 /* No comment provided by engineer. */
+"Intelligently convert LUTs into color adjustments using machine learning magic." = "Convertissez intelligemment des LUT en réglages de couleurs grâce à la magie de l'apprentissage automatique.";
+
+/* No comment provided by engineer. */
 "Intensity" = "Intensité";
 
 /* No comment provided by engineer. */
@@ -1709,6 +1718,9 @@
 "Luminosity" = "Luminosité";
 
 /* No comment provided by engineer. */
+"LUT Support" = "Support LUT";
+
+/* No comment provided by engineer. */
 "Magenta / Green" = "Magenta / vert";
 
 /* No comment provided by engineer. */
@@ -1772,7 +1784,7 @@
 "ML Denoise" = "Suppression du bruit ML";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML Enhance";
+"ML Enhance" = "Amélioration ML";
 
 /* No comment provided by engineer. */
 "ML Match Colors" = "Correspondance des couleurs ML";
@@ -1780,7 +1792,9 @@
 /* No comment provided by engineer. */
 "ML Match Colors…" = "Correspondance des couleurs ML…";
 
-/* No comment provided by engineer. */
+/* This feature upscales image 3 times while preserving image details. 
+
+ML in this context means Machine Learning. Full feature name could be left in place in English if that makes sense. We consider "ML" part not translatable, it's used as part of branding in machine learning tools suite within Pixelmator products. */
 "ML Super Resolution" = "ML Super Resolution";
 
 /* No comment provided by engineer. */
@@ -1940,7 +1954,7 @@
 "Off" = "Arrêt";
 
 /* No comment provided by engineer. */
-"Offline LUT" = "Offline LUT";
+"Offline LUT" = "LUT hors ligne";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -2108,9 +2122,6 @@
 "Pixelmator Pro is built exclusively for macOS. So it’s easy to use by design and takes full advantage of the power of your Mac." = "Pixelmator Pro est conçu exclusivement pour macOS, et est donc facile à utiliser par conception et tire le meilleur de la puissance de votre Mac.";
 
 /* No comment provided by engineer. */
-"Pixelmator Pro now fully supports Apple ProRAW photos." = "Pixelmator Pro prend désormais entièrement en charge les photos au format Apple ProRAW.";
-
-/* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Essai Pixelmator Pro";
 
 /* No comment provided by engineer. */
@@ -2229,9 +2240,6 @@
 
 /* No comment provided by engineer. */
 "RAW Layer" = "Calque au format RAW";
-
-/* No comment provided by engineer. */
-"Recover much more detail in the shadows and highlights of photos." = "Récupérez bien plus de détails dans les tons clairs et foncés de vos photos.";
 
 /* No comment provided by engineer. */
 "Rectangle" = "Rectangle";
@@ -2688,9 +2696,6 @@
 
 /* No comment provided by engineer. */
 "Shadows" = "Tons foncés";
-
-/* No comment provided by engineer. */
-"Shadows and Highlights" = "Ombres et Surbrillances";
 
 /* No comment provided by engineer. */
 "Shape" = "Forme";
@@ -3218,9 +3223,6 @@
 "Upgrade" = "Mettre à jour";
 
 /* No comment provided by engineer. */
-"Use the Export for Web tool to export WebP images and create export presets." = "Utilisez l'outil Exporter pour le web pour exporter des images WebP et créer des préréglages d'exportation.";
-
-/* No comment provided by engineer. */
 "Version" = "Version";
 
 /* No comment provided by engineer. */
@@ -3260,9 +3262,6 @@
 "Watercolor" = "Aquarelle";
 
 /* No comment provided by engineer. */
-"WebP Export" = "Export WebP";
-
-/* No comment provided by engineer. */
 "Welcome to Pixelmator Pro" = "Bienvenue dans Pixelmator Pro";
 
 /* No comment provided by engineer. */
@@ -3282,6 +3281,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "Largeur :";
+
+/* No comment provided by engineer. */
+"With full support for LUTs, you can now edit the colors of images using color presets created in other apps." = "Grâce à la prise en charge complète des LUT, vous pouvez désormais modifier les couleurs des images en utilisant des préréglages de couleurs créés dans d'autres applications.";
 
 /* No comment provided by engineer. */
 "Workspace" = "Espace de travail";

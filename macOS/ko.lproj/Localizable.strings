@@ -74,9 +74,6 @@
 "3 by 3" = "3 X 3";
 
 /* No comment provided by engineer. */
-"3 New Effects" = "3가지 새로운 효과";
-
-/* No comment provided by engineer. */
 "3-Way Color" = "3방향 색상";
 
 /* No comment provided by engineer. */
@@ -108,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "%@ 폴더에 동일한 이름의 파일이나 폴더가 이미 존재합니다. 대치하면 현재 내용을 덮어씁니다.";
+
+/* No comment provided by engineer. */
+"A set of %@ LUTs in %@ different collections created by the Pixelmator Team is included with this update." = "이번 업데이트에는 %2$@가지 컬렉션에 Pixelmator 팀이 제작한 %1$@개의 LUT가 포함되어 있습니다.";
 
 /* No comment provided by engineer. */
 "Accumulation" = "누적";
@@ -234,9 +234,6 @@
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
-
-/* No comment provided by engineer. */
-"Apple ProRAW" = "Apple ProRAW";
 
 /* No comment provided by engineer. */
 "Apply Custom LUT" = "사용자 정의 LUT 적용";
@@ -417,6 +414,9 @@
 
 /* No comment provided by engineer. */
 "Brushes" = "브러시";
+
+/* No comment provided by engineer. */
+"Built-In LUT Collection" = "내장 LUT 컬렉션";
 
 /* No comment provided by engineer. */
 "Bump" = "범프";
@@ -729,6 +729,9 @@
 
 /* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "LUT를 조정으로 변환";
+
+/* No comment provided by engineer. */
+"Convert LUTs into Adjustments" = "LUT를 조정으로 변환";
 
 /* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUT를 조정으로 변환 중…";
@@ -1097,6 +1100,9 @@
 "Export" = "내보내기";
 
 /* No comment provided by engineer. */
+"Export Adjustments as LUTs" = "LUT로 조정 내보내기";
+
+/* No comment provided by engineer. */
 "Export Adjustments as LUT…" = "LUT로 조정 내보내기…";
 
 /* No comment provided by engineer. */
@@ -1134,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Export Library" = "라이브러리 내보내기";
+
+/* No comment provided by engineer. */
+"Export LUTs from Pixelmator Pro to apply the same color changes in other apps, such as Final Cut Pro X." = "Pixelmator Pro에서 LUT를 내보내서 Final Cut Pro X와 같은 다른 앱에서 동일한 색상 변경을 적용합니다.";
 
 /* No comment provided by engineer. */
 "export mask as png" = "png로 마스크 내보내기";
@@ -1221,9 +1230,6 @@
 
 /* No comment provided by engineer. */
 "Fill with Foreground Color" = "전경색으로 채우기";
-
-/* No comment provided by engineer. */
-"Find 3 powerful new effects in the Effects tool – Gradient Map, Displacement Map, and High Pass." = "'효과' 도구에 강력한 신규 효과 3가지(그라디언트 지도, 대체 지도, 하이 패스)가 추가되었습니다.";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "그리기 완료";
@@ -1559,6 +1565,9 @@
 "Inside" = "내부";
 
 /* No comment provided by engineer. */
+"Intelligently convert LUTs into color adjustments using machine learning magic." = "기계 학습 기술을 사용하여 지능적으로 LUT를 색상 조정으로 변환합니다.";
+
+/* No comment provided by engineer. */
 "Intensity" = "강도";
 
 /* No comment provided by engineer. */
@@ -1709,6 +1718,9 @@
 "Luminosity" = "광도";
 
 /* No comment provided by engineer. */
+"LUT Support" = "LUT 지원";
+
+/* No comment provided by engineer. */
 "Magenta / Green" = "자홍 / 녹색";
 
 /* No comment provided by engineer. */
@@ -1772,19 +1784,21 @@
 "ML Denoise" = "ML 노이즈 제거";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML Enhance";
+"ML Enhance" = "ML 향상";
 
 /* No comment provided by engineer. */
-"ML Match Colors" = "ML 일치 색상";
+"ML Match Colors" = "ML 색상 일치";
 
 /* No comment provided by engineer. */
-"ML Match Colors…" = "ML 일치 색상…";
+"ML Match Colors…" = "ML 색상 일치…";
+
+/* This feature upscales image 3 times while preserving image details. 
+
+ML in this context means Machine Learning. Full feature name could be left in place in English if that makes sense. We consider "ML" part not translatable, it's used as part of branding in machine learning tools suite within Pixelmator products. */
+"ML Super Resolution" = "ML 초해상도";
 
 /* No comment provided by engineer. */
-"ML Super Resolution" = "ML Super Resolution";
-
-/* No comment provided by engineer. */
-"ML Unshake" = "ML Unshake";
+"ML Unshake" = "ML 흔들림 보정";
 
 /* No comment provided by engineer. */
 "mm" = "mm";
@@ -1940,7 +1954,7 @@
 "Off" = "끔";
 
 /* No comment provided by engineer. */
-"Offline LUT" = "Offline LUT";
+"Offline LUT" = "오프라인 LUT";
 
 /* No comment provided by engineer. */
 "OK" = "확인";
@@ -2021,7 +2035,7 @@
 "Paste Adjustments" = "조정 붙이기";
 
 /* No comment provided by engineer. */
-"Paste and ML Match Colors" = "붙여넣기 및 ML 일치 색상";
+"Paste and ML Match Colors" = "붙여넣기 및 ML 색상 일치";
 
 /* No comment provided by engineer. */
 "Paste Effects" = "효과 붙이기";
@@ -2033,7 +2047,7 @@
 "Paste Styles" = "스타일 붙이기";
 
 /* No comment provided by engineer. */
-"Pasting and ML Match Colors…" = "붙여넣기 및 ML 일치 색상…";
+"Pasting and ML Match Colors…" = "붙여넣기 및 ML 색상 일치…";
 
 /* No comment provided by engineer. */
 "Path" = "경로";
@@ -2106,9 +2120,6 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro is built exclusively for macOS. So it’s easy to use by design and takes full advantage of the power of your Mac." = "Pixelmator Pro는 macOS 전용으로 제작되었습니다. 간편하게 사용할 수 있도록 디자인되었으며, Mac의 기능을 최대한 활용할 수 있습니다.";
-
-/* No comment provided by engineer. */
-"Pixelmator Pro now fully supports Apple ProRAW photos." = "Pixelmator Pro가 이제 Apple ProRAW 사진을 완벽히 지원합니다.";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Pixelmator Pro 평가판";
@@ -2229,9 +2240,6 @@
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW 레이어";
-
-/* No comment provided by engineer. */
-"Recover much more detail in the shadows and highlights of photos." = "사진의 그림자와 하이라이트에서 더 많은 디테일을 복구합니다.";
 
 /* No comment provided by engineer. */
 "Rectangle" = "사각형";
@@ -2688,9 +2696,6 @@
 
 /* No comment provided by engineer. */
 "Shadows" = "그림자";
-
-/* No comment provided by engineer. */
-"Shadows and Highlights" = "그림자 및 하이라이트";
 
 /* No comment provided by engineer. */
 "Shape" = "도형";
@@ -3218,9 +3223,6 @@
 "Upgrade" = "업그레이드";
 
 /* No comment provided by engineer. */
-"Use the Export for Web tool to export WebP images and create export presets." = "'웹용으로 내보내기' 도구를 사용하여 WebP 이미지를 내보내고, 내보내기 프리셋을 생성합니다.";
-
-/* No comment provided by engineer. */
 "Version" = "버전";
 
 /* No comment provided by engineer. */
@@ -3260,9 +3262,6 @@
 "Watercolor" = "수채화";
 
 /* No comment provided by engineer. */
-"WebP Export" = "WebP 내보내기";
-
-/* No comment provided by engineer. */
 "Welcome to Pixelmator Pro" = "Pixelmator Pro에 환영합니다";
 
 /* No comment provided by engineer. */
@@ -3282,6 +3281,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "너비:";
+
+/* No comment provided by engineer. */
+"With full support for LUTs, you can now edit the colors of images using color presets created in other apps." = "LUT에 대한 완벽한 지원을 통하여 이제 다른 앱에서 생성된 색상 프리셋을 사용하여 이미지의 색상을 편집할 수 있습니다.";
 
 /* No comment provided by engineer. */
 "Workspace" = "작업 공간";
