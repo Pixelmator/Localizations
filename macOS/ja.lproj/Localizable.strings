@@ -107,9 +107,6 @@
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "フォルダ%@には同じ名前のファイルまたはフォルダが存在します。これを置き換えると現在の内容が上書きされます。";
 
 /* No comment provided by engineer. */
-"A set of %@ LUTs in %@ different collections created by the Pixelmator Team is included with this update." = "このアップデートにはPixelmator Teamによって作成された%2$@ のさまざまなコレクション内の%1$@LUTのセットが含まれています。";
-
-/* No comment provided by engineer. */
 "Accumulation" = "累積";
 
 /* No comment provided by engineer. */
@@ -206,9 +203,6 @@
 "All" = "すべて";
 
 /* No comment provided by engineer. */
-"All Brushes" = "すべてのブラシ";
-
-/* No comment provided by engineer. */
 "All rights reserved." = "All rights reserved.";
 
 /* No comment provided by engineer. */
@@ -260,6 +254,9 @@
 "Arrow from Point" = "ポイントから矢印";
 
 /* No comment provided by engineer. */
+"Aspect Ratio Presets:" = "縦横比プリセット:";
+
+/* No comment provided by engineer. */
 "Assign Profile" = "プロファイルを設定";
 
 /* No comment provided by engineer. */
@@ -276,9 +273,6 @@
 
 /* No comment provided by engineer. */
 "Auto Contrast" = "自動コントラスト";
-
-/* No comment provided by engineer. */
-"Auto Crop" = "自動切り抜き";
 
 /* No comment provided by engineer. */
 "Auto Enhance" = "自動補正";
@@ -309,6 +303,9 @@
 
 /* No comment provided by engineer. */
 "Auto-Center" = "自動中央";
+
+/* No comment provided by engineer. */
+"Automatically paint brush strokes along paths, layers, and selections using any brush in your collection." = "コレクション内の任意のブラシを使用して、パス・レイヤー・選択範囲に沿って自動的にペイントします。";
 
 /* RGB blue component */
 "B" = "B";
@@ -416,9 +413,6 @@
 "Brushes" = "ブラシ";
 
 /* No comment provided by engineer. */
-"Built-In LUT Collection" = "ビルトインLUTコレクション";
-
-/* No comment provided by engineer. */
 "Bump" = "バンプ";
 
 /* No comment provided by engineer. */
@@ -462,6 +456,9 @@
 
 /* No comment provided by engineer. */
 "Change Opacity" = "不透明度を変更";
+
+/* No comment provided by engineer. */
+"Change Perspective" = "視点を変更";
 
 /* No comment provided by engineer. */
 "Change Shape" = "シェイプを変更";
@@ -543,6 +540,15 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "透明性";
+
+/* No comment provided by engineer. */
+"Clarity Highlights" = "ハイライトを明るく";
+
+/* No comment provided by engineer. */
+"Clarity Midtones" = "ミッドトーンを明るく";
+
+/* No comment provided by engineer. */
+"Clarity Shadows" = "シャドウを明るく";
 
 /* No comment provided by engineer. */
 "Clear Guides" = "ガイドを消去";
@@ -706,7 +712,7 @@
 /* No comment provided by engineer. */
 "Constant" = "定数";
 
-/* No comment provided by engineer. */
+/* DocumentInspector */
 "Constrain" = "維持";
 
 /* No comment provided by engineer. */
@@ -729,9 +735,6 @@
 
 /* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "LUTを調整に変換する";
-
-/* No comment provided by engineer. */
-"Convert LUTs into Adjustments" = "LUTを調整に変換する";
 
 /* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUTを調整に変換しています…";
@@ -843,6 +846,9 @@
 
 /* No comment provided by engineer. */
 "Default Effects" = "デフォルトエフェクト";
+
+/* No comment provided by engineer. */
+"Dehaze" = "かすみの除去";
 
 /* No comment provided by engineer. */
 "Delete" = "削除";
@@ -1100,9 +1106,6 @@
 "Export" = "書き出す";
 
 /* No comment provided by engineer. */
-"Export Adjustments as LUTs" = "調整をLUTとして書き出す";
-
-/* No comment provided by engineer. */
 "Export Adjustments as LUT…" = "調整をLUTで書き出す…";
 
 /* No comment provided by engineer. */
@@ -1140,9 +1143,6 @@
 
 /* No comment provided by engineer. */
 "Export Library" = "書き出しライブラリ";
-
-/* No comment provided by engineer. */
-"Export LUTs from Pixelmator Pro to apply the same color changes in other apps, such as Final Cut Pro." = "Pixelmator ProからLUTを書き出してFinal Cut Proなどの他のアプリに同じ色の変更を適用します。";
 
 /* No comment provided by engineer. */
 "export mask as png" = "マスクを png 形式でエクスポート";
@@ -1229,6 +1229,12 @@
 "Fill with Background Color" = "背景色で塗りつぶす";
 
 /* No comment provided by engineer. */
+"Fill with Color" = "色で塗りつぶす";
+
+/* No comment provided by engineer. */
+"Fill with Color…" = "色で塗りつぶす…";
+
+/* No comment provided by engineer. */
 "Fill with Foreground Color" = "前景色で塗りつぶす";
 
 /* No comment provided by engineer. */
@@ -1238,7 +1244,13 @@
 "Finish Selection" = "選択を終了";
 
 /* No comment provided by engineer. */
+"First Line Indent" = "最初の行のインデント";
+
+/* No comment provided by engineer. */
 "Fit" = "画面に合わせる";
+
+/* No comment provided by engineer. */
+"Fit Crop" = "クロップに合わせる";
 
 /* No comment provided by engineer. */
 "Fixed" = "固定";
@@ -1308,6 +1320,9 @@
 
 /* Effects category name */
 "Generator" = "ジェネレータ";
+
+/* No comment provided by engineer. */
+"Get machine learning-powered suggestions for eye-catching crops with just a click." = "クリックするだけで、人目を引くクロップに機械学習を活用した提案を入手できます。";
 
 /* No comment provided by engineer. */
 "Get Started" = "開始する";
@@ -1523,6 +1538,9 @@
 "Image Size" = "イメージサイズ";
 
 /* No comment provided by engineer. */
+"Image Straightened by %@" = "%@ で正された画像";
+
+/* No comment provided by engineer. */
 "Image Unavailable" = "画像が利用できません";
 
 /* No comment provided by engineer. */
@@ -1565,7 +1583,7 @@
 "Inside" = "内側";
 
 /* No comment provided by engineer. */
-"Intelligently convert LUTs into color adjustments using machine learning magic." = "機械学習の技術を使用してLUTをインテリジェントに色調整に変換します。";
+"Instantly fill any layer with a color by dragging and dropping from the new color picker in the toolbar or any other color well." = "ツールバーの新しいカラーピッカーなどからドラッグアンドドロップするだけで、任意のレイヤーを即座に塗りつぶします。";
 
 /* No comment provided by engineer. */
 "Intensity" = "強度";
@@ -1631,6 +1649,9 @@
 "Learn more" = "詳細";
 
 /* No comment provided by engineer. */
+"Left Indent" = "左インデント";
+
+/* No comment provided by engineer. */
 "Lens Correction" = "レンズ補正";
 
 /* No comment provided by engineer. */
@@ -1694,6 +1715,9 @@
 "Load" = "読み込み";
 
 /* No comment provided by engineer. */
+"Load Grayscale Selection" = "グレースケール選択をロード";
+
+/* No comment provided by engineer. */
 "Load Selection" = "選択範囲の読み込み";
 
 /* No comment provided by engineer. */
@@ -1716,9 +1740,6 @@
 
 /* No comment provided by engineer. */
 "Luminosity" = "輝度";
-
-/* No comment provided by engineer. */
-"LUT Support" = "LUT サポート";
 
 /* No comment provided by engineer. */
 "Magenta / Green" = "マゼンタ/グリーン";
@@ -1769,6 +1790,9 @@
 "Merge Brush Marks" = "ブラシのマークを結合";
 
 /* No comment provided by engineer. */
+"Merge brush marks" = "ブラシのマークを結合";
+
+/* No comment provided by engineer. */
 "Merge Shape Components" = "シェイプの部品を結合";
 
 /* No comment provided by engineer. */
@@ -1781,6 +1805,9 @@
 "Minimum Opacity" = "最小不透明度";
 
 /* No comment provided by engineer. */
+"ML Crop" = "ML 切り抜き";
+
+/* No comment provided by engineer. */
 "ML Denoise" = "ML ノイズ除去";
 
 /* No comment provided by engineer. */
@@ -1791,6 +1818,9 @@
 
 /* No comment provided by engineer. */
 "ML Match Colors…" = "ML カラーマッチ…";
+
+/* No comment provided by engineer. */
+"ML Refine Selection" = "ML リファイン選択";
 
 /* No comment provided by engineer. */
 "ML Super Resolution" = "ML 超解像";
@@ -1932,6 +1962,9 @@
 
 /* No comment provided by engineer. */
 "No Color Profile" = "カラープロファイルなし";
+
+/* No comment provided by engineer. */
+"No Horizon Detected" = "水平線が検出されません";
 
 /* No comment provided by engineer. */
 "No Photos" = "写真なし";
@@ -2185,7 +2218,7 @@
 /* No comment provided by engineer. */
 "Preset" = "プリセット";
 
-/* No comment provided by engineer. */
+/* DocumentInspector */
 "Presets" = "プリセット";
 
 /* No comment provided by engineer. */
@@ -2202,6 +2235,9 @@
 
 /* No comment provided by engineer. */
 "Quick Export" = "クイック書き出し";
+
+/* No comment provided by engineer. */
+"Quick Fill" = "クイックフィル";
 
 /* No comment provided by engineer. */
 "Quick Selection" = "クイック選択";
@@ -2232,9 +2268,6 @@
 
 /* No comment provided by engineer. */
 "Range" = "範囲";
-
-/* No comment provided by engineer. */
-"Ratio:" = "比率:";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW レイヤー";
@@ -2420,6 +2453,9 @@
 "Reset Angle" = "角度をリセット";
 
 /* No comment provided by engineer. */
+"Reset Auto Straighten" = "自動矯正をリセット";
+
+/* No comment provided by engineer. */
 "Reset Color Palettes" = "カラーパレットをリセット";
 
 /* No comment provided by engineer. */
@@ -2435,7 +2471,7 @@
 "Reset Handles" = "ハンドルをリセット";
 
 /* No comment provided by engineer. */
-"Reset Preview" = "プレビューをリセット";
+"Reset ML Crop" = "ML 切り抜きをリセット";
 
 /* No comment provided by engineer. */
 "Reset Ruler's origin" = "ルーラーの原点をリセット";
@@ -2481,6 +2517,9 @@
 
 /* No comment provided by engineer. */
 "RGB Profiles" = "RGB プロファイル";
+
+/* No comment provided by engineer. */
+"Right Indent" = "右インデント";
 
 /* No comment provided by engineer. */
 "Rotate" = "回転";
@@ -2840,10 +2879,10 @@
 "Size by Speed" = "速度によるサイズ";
 
 /* No comment provided by engineer. */
-"Size Scatter" = "サイズ散布";
+"Size Presets:" = "サイズプリセット:";
 
 /* No comment provided by engineer. */
-"Size:" = "サイズ:";
+"Size Scatter" = "サイズ散布";
 
 /* No comment provided by engineer. */
 "Skew" = "傾斜";
@@ -2874,6 +2913,9 @@
 
 /* No comment provided by engineer. */
 "Smooth Textures" = "テクスチャを滑らかにする";
+
+/* No comment provided by engineer. */
+"Smooth textures" = "テクスチャを滑らかにする";
 
 /* No comment provided by engineer. */
 "Smoothen Path" = "パスを滑らかにする";
@@ -2910,6 +2952,12 @@
 
 /* No comment provided by engineer. */
 "Space" = "スペース";
+
+/* No comment provided by engineer. */
+"Spacing After" = "後の間隔";
+
+/* No comment provided by engineer. */
+"Spacing Before" = "前の間隔";
 
 /* No comment provided by engineer. */
 "Spot Light" = "スポット";
@@ -2961,6 +3009,12 @@
 
 /* No comment provided by engineer. */
 "Stroke Width" = "線の幅";
+
+/* No comment provided by engineer. */
+"Stroke with Brush" = "ブラシで描画";
+
+/* No comment provided by engineer. */
+"Stroke with Brush…" = "ブラシで描画…";
 
 /* No comment provided by engineer. */
 "Style" = "スタイル";
@@ -3026,6 +3080,9 @@
 "Text Style" = "テキストスタイル";
 
 /* No comment provided by engineer. */
+"Texture" = "テクスチャ";
+
+/* No comment provided by engineer. */
 "Textures" = "テクスチャ";
 
 /* No comment provided by engineer. */
@@ -3051,6 +3108,9 @@
 
 /* No comment provided by engineer. */
 "The Pixelmator Pro Photos extension was unable to open the photo in the Photos Library. A photo preview will be opened instead." = "Pixelmator Pro写真機能拡張は写真ライブラリの写真を開くことができません。代わりに写真のプレビューで開きます。";
+
+/* No comment provided by engineer. */
+"The redesigned Type tool now includes a text size slider, advanced spacing options, and other improvements." = "再設計されたテキストツールには、テキストサイズスライダー、高度な間隔オプション、およびその他の改善を含んでいます。";
 
 /* No comment provided by engineer. */
 "The selected 3D LUT is not supported by %@." = "選択した3D LUTは％@ではサポートしていません。";
@@ -3176,6 +3236,9 @@
 "Type" = "テキスト";
 
 /* No comment provided by engineer. */
+"Type Tool Improvements" = "テキストツールの改良";
+
+/* No comment provided by engineer. */
 "Underline" = "下線";
 
 /* No comment provided by engineer. */
@@ -3281,9 +3344,6 @@
 "Width:" = "幅:";
 
 /* No comment provided by engineer. */
-"With full support for LUTs, you can now edit the colors of images using color presets created in other apps." = "LUTをフルサポートすることで、他のアプリで作成されたカラープリセットを使用して画像の色を編集できるようになりました。";
-
-/* No comment provided by engineer. */
 "Workspace" = "ワークスペース";
 
 /* No comment provided by engineer. */
@@ -3297,9 +3357,6 @@
 
 /* No comment provided by engineer. */
 "Would you like to upgrade this document?" = "この書類をアップグレードしますか？";
-
-/* No comment provided by engineer. */
-"x" = "x";
 
 /* No comment provided by engineer. */
 "x: %@, y: %@" = "x: %1$@, y: %2$@";

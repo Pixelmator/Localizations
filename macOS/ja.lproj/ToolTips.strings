@@ -221,6 +221,12 @@
 "Adjust the dynamic range of the darkest areas in the image." = "イメージの最暗部のダイナミックレンジを調整します。";
 
 /* No comment provided by engineer. */
+"Adjust the font size." = "フォントサイズを調整";
+
+/* No comment provided by engineer. */
+"Adjust the horizontal perspective of the image." = "画像の水平方向の遠近法を調整します。";
+
+/* No comment provided by engineer. */
 "Adjust the horizontal perspective of the object." = "オブジェクトの水平方向の遠近を設定します。";
 
 /* No comment provided by engineer. */
@@ -272,7 +278,13 @@
 "Adjust the overall tint of the image." = "イメージの全体的な色合いを調整します。";
 
 /* No comment provided by engineer. */
+"Adjust the position in the brush stroke at which simulated pressure will be strongest." = "ブラシストロークでシミュレートされた圧力が最も強くなるように位置を調整します。";
+
+/* No comment provided by engineer. */
 "Adjust the rotation of the canvas." = "キャンバスの回転を調整します。";
+
+/* No comment provided by engineer. */
+"Adjust the rotation of the image." = "画像の回転を調整します。";
 
 /* No comment provided by engineer. */
 "Adjust the saturation of every color in the image." = "イメージの各色の彩度を調整します。";
@@ -354,9 +366,6 @@
 
 /* No comment provided by engineer. */
 "Adjust the spacing between individual brush marks." = "個々のブラシマークの間隔を調整します。";
-
-/* No comment provided by engineer. */
-"Adjust the spacing between letters." = "文字の間隔を調整します。";
 
 /* No comment provided by engineer. */
 "Adjust the strength of the black and white effect." = "ブラック＆ホワイトエフェクトの強さを調整します。";
@@ -443,6 +452,9 @@
 "Adjust the vertical distance between each line of text." = "各テキスト行の間の垂直距離を調整します。";
 
 /* No comment provided by engineer. */
+"Adjust the vertical perspective of the image." = "画像の垂直方向の遠近法を調整します。";
+
+/* No comment provided by engineer. */
 "Adjust the vertical perspective of the object." = "オブジェクトの垂直方向の遠近を調整します。";
 
 /* No comment provided by engineer. */
@@ -482,7 +494,13 @@
 "Angle" = "角度";
 
 /* No comment provided by engineer. */
+"Apply the brush stroke to your image." = "画像にブラシストロークを適用します。";
+
+/* No comment provided by engineer. */
 "Apply the transformations to the object." = "オブジェクトに変形を適用します。";
+
+/* No comment provided by engineer. */
+"Automatically straighten the image." = "画像を自動的に矯正します。";
 
 /* No comment provided by engineer. */
 "Blending Mode" = "ブレンディングモード";
@@ -551,7 +569,13 @@
 "Choose a stroke style." = "線のスタイルを選択します。";
 
 /* No comment provided by engineer. */
+"Choose and customize the grid displayed in the crop selection area." = "切り抜き選択範囲に表示されるグリッドを選択してカスタマイズします。";
+
+/* No comment provided by engineer. */
 "Choose and manage LUTs." = "LUTを選択して管理します。";
+
+/* No comment provided by engineer. */
+"Choose how strongly brush stroke smoothing should be applied." = "ブラシストロークのスムージングの強度を選択します。";
 
 /* No comment provided by engineer. */
 "Choose how the color blends with the object you fill." = "塗りつぶすオブジェクトにどのようにカラーをブレンドするかを選びます。";
@@ -576,6 +600,9 @@
 
 /* No comment provided by engineer. */
 "Choose what to show or hide while creating an image." = "イメージの作成中に何を表示するか、または非表示にするかを選択します。";
+
+/* No comment provided by engineer. */
+"Choose when to turn certain letter combinations, (for example \"fi\") into one character." = "特定の文字の組み合わせ (\"fi\" 等) を1文字に変換するタイミングを選択します。";
 
 /* No comment provided by engineer. */
 "Clear the selection." = "選択範囲を消去。";
@@ -638,6 +665,9 @@
 "Click to set the white balance automatically by choosing a neutral gray in your image." = "クリックしてイメージのニュートラルグレーを選択してホワイトバランスを自動的に設定します。";
 
 /* No comment provided by engineer. */
+"Click to switch the foreground and background colors." = "クリックして前景色と背景色を切り替えます。";
+
+/* No comment provided by engineer. */
 "Color" = "カラー";
 
 /* No comment provided by engineer. */
@@ -656,6 +686,9 @@
 "Create a bump effect in precise areas of an image." = "画像の正確な領域にバンプエフェクトを作成します。";
 
 /* No comment provided by engineer. */
+"Create a new brush preset with the current brush settings." = "現在のブラシ設定で新しいブラシプリセットを作成します。";
+
+/* No comment provided by engineer. */
 "Create a shape from the intersection of the shape you draw and the currently selected shape." = "描画したシェイプと現在選択されているシェイプの交点からシェイプを作成します。";
 
 /* No comment provided by engineer. */
@@ -671,7 +704,16 @@
 "Crop and straighten the image." = "画像を切り取って矯正します。";
 
 /* No comment provided by engineer. */
+"Crop the image automatically using a machine learning algorithm." = "機械学習アルゴリズムを使用して画像を自動的にトリミングします。";
+
+/* No comment provided by engineer. */
+"Crop the image." = "画像を切り抜きます。";
+
+/* No comment provided by engineer. */
 "Customize the look of layers by applying fills, strokes, and shadows." = "塗りつぶし、線、シャドウを適用して、レイヤーの外観をカスタマイズします。";
+
+/* No comment provided by engineer. */
+"Decrease the font size." = "フォントサイズを小さくします。";
 
 /* No comment provided by engineer. */
 "Destructively combine the selected objects into a single object." = "選択したオブジェクトを破壊的に1つのオブジェクトに結合します。";
@@ -776,6 +818,12 @@
 "Fine-tune or completely change the colors of images." = "画像の色を微調整または完全に変更します。";
 
 /* No comment provided by engineer. */
+"Flip the image horizontally." = "画像を水平方向に反転。";
+
+/* No comment provided by engineer. */
+"Flip the image vertically." = "画像を垂直方向に反転。";
+
+/* No comment provided by engineer. */
 "Flip the object horizontally." = "水平方向に反転します。";
 
 /* No comment provided by engineer. */
@@ -806,6 +854,9 @@
 "Hide the Tools sidebar." = "ツールサイドバーを非表示にします。";
 
 /* No comment provided by engineer. */
+"Increase the font size." = "フォントサイズを大きくします。";
+
+/* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "両端揃え";
 
 /* No comment provided by engineer. */
@@ -825,6 +876,9 @@
 
 /* No comment provided by engineer. */
 "Make round and elliptical selections." = "円形および楕円形の選択を行います。";
+
+/* No comment provided by engineer. */
+"Make selected text a superscript or subscript." = "選択したテキストを上付き文字または下付き文字にします。";
 
 /* No comment provided by engineer. */
 "Make selections according to the colors of areas." = "領域の色に合わせた選択を行います。";
@@ -902,7 +956,13 @@
 "Repair the entire selected area in your image." = "イメージ内の選択した領域全体を修復します。";
 
 /* No comment provided by engineer. */
+"Reset all your current changes and stop cropping the image." = "現在の変更をすべてリセットし画像のトリミングを停止します。";
+
+/* No comment provided by engineer. */
 "Reset all your current changes and stop transforming the object." = "これまでの変更すべてをリセットして、オブジェクトの変形を停止します。";
+
+/* No comment provided by engineer. */
+"Reset all your current changes made with the Crop tool." = "切り抜きツールで行った現在の変更をすべてリセットします。";
 
 /* No comment provided by engineer. */
 "Reset all your current changes." = "現在の変更のすべてをリセットします。";
@@ -915,6 +975,9 @@
 
 /* No comment provided by engineer. */
 "Restore the selected object to its original dimensions." = "選択したオブジェクトを元のサイズに復元します。";
+
+/* No comment provided by engineer. */
+"Reveal or hide the advanced brush settings." = "ブラシ設定の詳細を表示または非表示にします。";
 
 /* No comment provided by engineer. */
 "Reverse the colors of the gradient." = "グラデーションの色を反転します。";
@@ -930,6 +993,18 @@
 
 /* No comment provided by engineer. */
 "Rotate document 90° right." = "書類を右に90°回転します。";
+
+/* No comment provided by engineer. */
+"Rotate the image clockwise." = "画像を時計回りに回転させます。";
+
+/* No comment provided by engineer. */
+"Rotate the image counterclockwise." = "画像を反時計回りに回転させます。";
+
+/* No comment provided by engineer. */
+"Rotate the image to the left by one degree." = "画像を左に1度回転します。";
+
+/* No comment provided by engineer. */
+"Rotate the image to the right by one degree." = "画像を右に1度回転します。";
 
 /* No comment provided by engineer. */
 "Sample colors and manage your color palettes." = "色をサンプリングしカラーパレットを管理します。";
@@ -953,7 +1028,13 @@
 "Select to always sample the same part of your image with each new brush stroke." = "常に新しいブラシストロークを使用してイメージの同じ部分をサンプルする場合に選択します。";
 
 /* No comment provided by engineer. */
+"Select to automatically smooth brush strokes." = "選択してブラシストロークを自動的に滑らかにします。";
+
+/* No comment provided by engineer. */
 "Select to enable the wet paint effect." = "ウェットペイントエフェクトを有効にする場合に選択します。";
+
+/* No comment provided by engineer. */
+"Select to fill only opaque areas." = "選択して不透明な領域のみを塗りつぶします。";
 
 /* No comment provided by engineer. */
 "Select to fill the object with a color or gradient." = "オブジェクトをカラーまたはグラデーションで塗りつぶす場合に選択します。";
@@ -968,10 +1049,16 @@
 "Select to make the Repair tool take into account every object in your image." = "修復ツールでイメージ内のすべてのオブジェクトを対象にします。";
 
 /* No comment provided by engineer. */
+"Select to permanently delete any areas outside the crop selection rectangle." = "選択すると切り抜き選択範囲の外側の領域が完全に削除されます。";
+
+/* No comment provided by engineer. */
 "Select to show the clone source marker." = "選択してクローンソースマーカーを表示";
 
 /* No comment provided by engineer. */
 "Select to smooth the textures of the brush." = "ブラシのテクスチャを滑らかにする場合に選択します。";
+
+/* No comment provided by engineer. */
+"Select to take the pressure settings of the brush into account when drawing the brush stroke." = "選択してブラシストロークを描画する時にブラシの筆圧設定を考慮に入れます。";
 
 /* No comment provided by engineer. */
 "Set how bright the blue channel of your original image appears in the black and white." = "元のイメージのブルーチャンネルがモノクロでどれくらい明るく表示されるかを設定します。";
@@ -1055,6 +1142,9 @@
 "Set how much the vertical size of each brush mark should change according to the amount you tilt your graphics pen." = "グラフィックペンを傾ける量に応じて、各ブラシマークの垂直サイズをどれだけ変化させるかを設定します。";
 
 /* No comment provided by engineer. */
+"Set how much to raise or lower selected text." = "選択したテキストを上下させる量を設定します。";
+
+/* No comment provided by engineer. */
 "Set how much to randomly vary the angle of each brush mark in a brushstroke." = "ブラシストローク内の各ブラシマークの角度をどれだけランダムに変化させるかを設定します。";
 
 /* No comment provided by engineer. */
@@ -1130,6 +1220,24 @@
 "Set the amount of scatter." = "散布量を設定します。";
 
 /* No comment provided by engineer. */
+"Set the amount of space after a paragraph." = "段落の後のスペースの量を設定します。";
+
+/* No comment provided by engineer. */
+"Set the amount of space before a paragraph." = "段落の前のスペースの量を設定します。";
+
+/* No comment provided by engineer. */
+"Set the amount of space between text characters." = "テキストの文字間のスペースの量を設定します。";
+
+/* No comment provided by engineer. */
+"Set the amount of space between the first line of the paragraph and the left margin." = "段落の最初の行と左マージンの間のスペースの量を設定します。";
+
+/* No comment provided by engineer. */
+"Set the amount of space between the paragraph and the left margin." = "段落と左マージンの間のスペースの量を設定します。";
+
+/* No comment provided by engineer. */
+"Set the amount of space between the paragraph and the right margin." = "段落と右マージンの間のスペースの量を設定します。";
+
+/* No comment provided by engineer. */
 "Set the amount of yellow and blue in the highlights." = "ハイライトのイエローとブルーの量を設定します。";
 
 /* No comment provided by engineer. */
@@ -1190,7 +1298,13 @@
 "Set the font size." = "フォントサイズを設定します。";
 
 /* No comment provided by engineer. */
+"Set the height of the crop selection rectangle." = "切り抜く選択範囲の高さを設定。";
+
+/* No comment provided by engineer. */
 "Set the height of the selection row." = "選択範囲を行の高さを設定します。";
+
+/* No comment provided by engineer. */
+"Set the horizontal perspective of the image." = "画像の水平方向の遠近法を設定します。";
 
 /* No comment provided by engineer. */
 "Set the horizontal perspective of the object." = "オブジェクトの水平方向の遠近を設定します。";
@@ -1209,6 +1323,9 @@
 
 /* No comment provided by engineer. */
 "Set the intensity of the fade effect in the darkest areas of the image." = "画像の最も暗い領域でフェード効果の強度を設定します。";
+
+/* No comment provided by engineer. */
+"Set the location in the brush stroke at which simulated pressure will be strongest." = "シミュレートされた圧力が最も強くなるブラシストロークの位置を設定します。";
 
 /* No comment provided by engineer. */
 "Set the minimum transparency of the brushstroke." = "ブラシストロークの最小の透明度を設定します。";
@@ -1236,6 +1353,9 @@
 
 /* No comment provided by engineer. */
 "Set the overall tint of the image." = "イメージの全体的な色合いを設定します。";
+
+/* No comment provided by engineer. */
+"Set the rotation of the image." = "画像の回転を設定します。";
 
 /* No comment provided by engineer. */
 "Set the saturation of every color in the image." = "イメージの各色の彩度を設定します。";
@@ -1311,9 +1431,6 @@
 
 /* No comment provided by engineer. */
 "Set the spacing between individual brush marks." = "個々のブラシマークの間隔を設定します。";
-
-/* No comment provided by engineer. */
-"Set the spacing between letter." = "文字の間隔を設定します。";
 
 /* No comment provided by engineer. */
 "Set the strength of the black and white effect." = "ブラック＆ホワイトエフェクトの強さを設定します。";
@@ -1394,16 +1511,25 @@
 "Set the vertical distance between each line of text." = "各テキスト行の間の垂直距離を設定します。";
 
 /* No comment provided by engineer. */
+"Set the vertical perspective of the image." = "画像の垂直方向の遠近法を設定します。";
+
+/* No comment provided by engineer. */
 "Set the vertical perspective of the object." = "オブジェクトの垂直方向の遠近を設定します。";
 
 /* No comment provided by engineer. */
 "Set the vertical size of the brush shape." = "ブラシの形状の垂直方向のサイズを設定します。";
 
 /* No comment provided by engineer. */
+"Set the width of the crop selection rectangle." = "切り抜く選択範囲の幅を設定";
+
+/* No comment provided by engineer. */
 "Set the width of the selection column." = "選択範囲を列の幅を設定します。";
 
 /* No comment provided by engineer. */
 "Share the image." = "イメージを共有。";
+
+/* No comment provided by engineer. */
+"Show advanced options." = "詳細設定を表示。";
 
 /* No comment provided by engineer. */
 "Show document info." = "書類の情報を表示。";
@@ -1466,7 +1592,16 @@
 "Smudge parts of an image as if smudging wet paint." = "絵の具で汚すように画像の一部を汚します。";
 
 /* No comment provided by engineer. */
+"Stop painting the brush stroke." = "ブラシストロークの描画を停止します。";
+
+/* No comment provided by engineer. */
 "Stretch the object in any direction." = "オブジェクトを任意の方向に引き伸ばします。";
+
+/* No comment provided by engineer. */
+"Strikethrough text." = "取り消し線のテキスト。";
+
+/* No comment provided by engineer. */
+"Stroke the currently active selection, shape, or layer outline using a brush." = "ブラシを使用して、現在アクティブな選択範囲、シェイプ、またはレイヤーのアウトラインを描画します。";
 
 /* No comment provided by engineer. */
 "Subtract the shape from the currently selected shape." = "現在選択されているシェイプからシェイプを取り除きます。";
@@ -1512,6 +1647,9 @@
 
 /* No comment provided by engineer. */
 "Unlock the layer to allow editing." = "レイヤーのロックを解除して編集可能にします。";
+
+/* No comment provided by engineer. */
+"Update the settings of the \"%@\" preset." = "\"％@\"プリセットの設定を更新します。";
 
 /* No comment provided by engineer. */
 "Use a linear gradient." = "線形のグラデーションを使用。";
