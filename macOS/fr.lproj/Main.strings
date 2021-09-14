@@ -7,8 +7,8 @@
 /* Class = "NSMenuItem"; title = "Reset Shape Handles"; ObjectID = "0ZY-TK-BSZ"; */
 "0ZY-TK-BSZ.title" = "Réinitialiser les poignées de forme";
 
-/* Class = "NSMenuItem"; title = "ML Refine"; ObjectID = "0aP-ii-F0S"; */
-"0aP-ii-F0S.title" = "Affiner ML";
+/* Class = "NSMenuItem"; title = "ML Refine Selection"; ObjectID = "0aP-ii-F0S"; */
+"0aP-ii-F0S.title" = "Affiner la sélection ML";
 
 /* Class = "NSMenuItem"; title = "Hide Interface"; ObjectID = "0br-R7-bTE"; */
 "0br-R7-bTE.title" = "Masquer l'interface";
@@ -154,6 +154,9 @@
 /* Class = "NSMenuItem"; title = "Saturate"; ObjectID = "53L-Vz-JgH"; */
 "53L-Vz-JgH.title" = "Saturer";
 
+/* Class = "NSMenuItem"; title = "ML Refine Mask"; ObjectID = "53c-hf-357"; */
+"53c-hf-357.title" = "ML Refine Mask";
+
 /* Class = "NSMenuItem"; title = "Show Pixel Grid"; ObjectID = "55a-6B-405"; */
 "55a-6B-405.title" = "Afficher la grille de pixels";
 
@@ -238,8 +241,8 @@
 /* Class = "NSMenuItem"; title = "Type"; ObjectID = "8Hb-ZM-x9D"; */
 "8Hb-ZM-x9D.title" = "Saisir";
 
-/* Class = "NSMenuItem"; title = "Move Object"; ObjectID = "8LR-2I-PcS"; */
-"8LR-2I-PcS.title" = "Déplacer l'objet";
+/* Class = "NSMenuItem"; title = "Move Object (masked)"; ObjectID = "8LR-2I-PcS"; */
+"8LR-2I-PcS.title" = "Move Object (masked)";
 
 /* Class = "NSMenu"; title = "Canvas Rendering Device Preference"; ObjectID = "8PM-GG-p1I"; */
 "8PM-GG-p1I.title" = "Canvas Rendering Device Preference";
@@ -250,8 +253,8 @@
 /* Class = "NSMenuItem"; title = "Polygon"; ObjectID = "8aj-8k-Ape"; */
 "8aj-8k-Ape.title" = "Polygone";
 
-/* Class = "NSMenuItem"; title = "Move Person Object"; ObjectID = "8b0-Ge-XDy"; */
-"8b0-Ge-XDy.title" = "Move Person Object";
+/* Class = "NSMenuItem"; title = "Move Person Object (masked)"; ObjectID = "8b0-Ge-XDy"; */
+"8b0-Ge-XDy.title" = "Move Person Object (masked)";
 
 /* Class = "NSMenuItem"; title = "Shape"; ObjectID = "8cw-Bl-1ix"; */
 "8cw-Bl-1ix.title" = "Forme";
@@ -291,6 +294,9 @@
 
 /* Class = "NSMenuItem"; title = "Smudge"; ObjectID = "BRi-yL-gS1"; */
 "BRi-yL-gS1.title" = "Doigt";
+
+/* Class = "NSMenuItem"; title = "ML Decontaminate Colors (Image Only)"; ObjectID = "BZ9-Kk-N3l"; */
+"BZ9-Kk-N3l.title" = "ML Decontaminate Colors (Image Only)";
 
 /* Class = "NSMenuItem"; title = "Reshape"; ObjectID = "Bh8-bv-NYF"; */
 "Bh8-bv-NYF.title" = "Remodeler";
@@ -342,6 +348,9 @@
 
 /* Class = "NSMenu"; title = "Arrange"; ObjectID = "D2d-g4-MTd"; */
 "D2d-g4-MTd.title" = "Organiser";
+
+/* Class = "NSMenuItem"; title = "ML Refine Selection"; ObjectID = "D8b-1G-9Xz"; */
+"D8b-1G-9Xz.title" = "Affiner la sélection ML";
 
 /* Class = "NSMenuItem"; title = "Elliptical Selection"; ObjectID = "DH5-N4-poC"; */
 "DH5-N4-poC.title" = "Sélection elliptique";
@@ -405,6 +414,9 @@
 
 /* Class = "NSMenuItem"; title = "FaceTime…"; ObjectID = "FTw-td-Jqc"; */
 "FTw-td-Jqc.title" = "FaceTime…";
+
+/* Class = "NSMenu"; title = "Pre-production Features"; ObjectID = "Faj-dX-fRy"; */
+"Faj-dX-fRy.title" = "Pre-production Features";
 
 /* Class = "NSMenuItem"; title = "Print Memory Usage"; ObjectID = "FiT-dj-jtL"; */
 "FiT-dj-jtL.title" = "Imprimer l'utilisation mémoire";
@@ -549,6 +561,9 @@
 
 /* Class = "NSMenuItem"; title = "Warp"; ObjectID = "MBm-1I-giF"; */
 "MBm-1I-giF.title" = "Déformation";
+
+/* Class = "NSMenuItem"; title = "ML Decontaminate Colors (Using Mask)"; ObjectID = "MbM-6d-EW8"; */
+"MbM-6d-EW8.title" = "ML Decontaminate Colors (Using Mask)";
 
 /* Class = "NSMenuItem"; title = "Performance Metrics"; ObjectID = "MeK-2t-rvz"; */
 "MeK-2t-rvz.title" = "Métriques de performance";
@@ -736,6 +751,9 @@
 /* Class = "NSMenuItem"; title = "CPU Buffer"; ObjectID = "Wwl-wa-plA"; */
 "Wwl-wa-plA.title" = "Tampon CPU";
 
+/* Class = "NSMenuItem"; title = "Copy ML Decontaminated Selection"; ObjectID = "WyB-uw-hM6"; */
+"WyB-uw-hM6.title" = "Copy ML Decontaminated Selection";
+
 /* Class = "NSMenuItem"; title = "Reset Styles"; ObjectID = "Wzm-T2-rlA"; */
 "Wzm-T2-rlA.title" = "Revenir aux styles de départ";
 
@@ -771,6 +789,9 @@
 
 /* Class = "NSMenuItem"; title = "New from Photos…"; ObjectID = "YRe-o2-QVy"; */
 "YRe-o2-QVy.title" = "Nouveau dans les photos…";
+
+/* Class = "NSMenuItem"; title = "Move Generic Object (decontaminated)"; ObjectID = "YVh-NG-jcS"; */
+"YVh-NG-jcS.title" = "Move Generic Object (decontaminated)";
 
 /* Class = "NSMenu"; title = "Guides"; ObjectID = "YZf-w3-7e6"; */
 "YZf-w3-7e6.title" = "Repères";
@@ -853,6 +874,9 @@
 /* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "bj0-wj-vJE"; */
 "bj0-wj-vJE.title" = "Afficher les polices";
 
+/* Class = "NSMenuItem"; title = "ML Refine Mask"; ObjectID = "bj3-UV-kIH"; */
+"bj3-UV-kIH.title" = "ML Refine Mask";
+
 /* Class = "NSMenuItem"; title = "Last Used Type Tool"; ObjectID = "bjK-YJ-QOb"; */
 "bjK-YJ-QOb.title" = "Last Used Type Tool";
 
@@ -864,6 +888,9 @@
 
 /* Class = "NSMenuItem"; title = "Color Profile…"; ObjectID = "byQ-Tm-lkj"; */
 "byQ-Tm-lkj.title" = "Profil de couleur…";
+
+/* Class = "NSMenuItem"; title = "ML Decontaminate Colors"; ObjectID = "bzA-6m-tAm"; */
+"bzA-6m-tAm.title" = "ML Decontaminate Colors";
 
 /* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "cAm-KJ-Rjx"; */
 "cAm-KJ-Rjx.title" = "Taille réelle";
@@ -946,8 +973,8 @@
 /* Class = "NSMenuItem"; title = "Repair"; ObjectID = "fre-sg-7qB"; */
 "fre-sg-7qB.title" = "Réparer";
 
-/* Class = "NSMenuItem"; title = "Move Generic Object"; ObjectID = "fzf-hz-Fye"; */
-"fzf-hz-Fye.title" = "Move Generic Object";
+/* Class = "NSMenuItem"; title = "Move Generic Object (masked)"; ObjectID = "fzf-hz-Fye"; */
+"fzf-hz-Fye.title" = "Move Generic Object (masked)";
 
 /* Class = "NSMenuItem"; title = "Facebook"; ObjectID = "g32-dO-vZH"; */
 "g32-dO-vZH.title" = "Facebook";
@@ -1054,6 +1081,9 @@
 /* Class = "NSMenuItem"; title = "Show All Tabs"; ObjectID = "lUK-km-XVt"; */
 "lUK-km-XVt.title" = "Afficher tous les onglets";
 
+/* Class = "NSMenuItem"; title = "ML Decontaminate Selection"; ObjectID = "lha-GY-Qrf"; */
+"lha-GY-Qrf.title" = "ML Decontaminate Selection";
+
 /* Class = "NSMenu"; title = "Ligature"; ObjectID = "loe-rm-iVv"; */
 "loe-rm-iVv.title" = "Ligature";
 
@@ -1153,6 +1183,9 @@
 /* Class = "NSMenuItem"; title = "180°"; ObjectID = "sVO-a7-AuP"; */
 "sVO-a7-AuP.title" = "180°";
 
+/* Class = "NSMenuItem"; title = "Pre-production Features"; ObjectID = "sml-yf-evR"; */
+"sml-yf-evR.title" = "Pre-production Features";
+
 /* Class = "NSMenuItem"; title = "Other…"; ObjectID = "spb-SQ-OzZ"; */
 "spb-SQ-OzZ.title" = "Autre…";
 
@@ -1176,6 +1209,9 @@
 
 /* Class = "NSMenuItem"; title = "Make Smooth Point"; ObjectID = "tlq-Ue-kSa"; */
 "tlq-Ue-kSa.title" = "Créer un point lisse";
+
+/* Class = "NSMenuItem"; title = "Move Person Object (decontaminated)"; ObjectID = "tmv-Fj-FcY"; */
+"tmv-Fj-FcY.title" = "Move Person Object (decontaminated)";
 
 /* Class = "NSMenuItem"; title = "Flip Vertical"; ObjectID = "tu1-rX-jcL"; */
 "tu1-rX-jcL.title" = "Symétrie axe vertical";
@@ -1275,6 +1311,9 @@
 
 /* Class = "NSMenuItem"; title = "Horizontal Centers"; ObjectID = "zcw-iN-Hhd"; */
 "zcw-iN-Hhd.title" = "Centres, dans le sens horizontal";
+
+/* Class = "NSMenuItem"; title = "ML Remove Background"; ObjectID = "zmC-zA-ugC"; */
+"zmC-zA-ugC.title" = "ML Remove Background";
 
 /* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "zqV-g2-2Qp"; */
 "zqV-g2-2Qp.title" = "Agrandir";
