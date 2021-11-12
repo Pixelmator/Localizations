@@ -17,6 +17,9 @@
 "Adds areas to the existing selection." = "既存の選択範囲に領域を追加します。";
 
 /* No comment provided by engineer. */
+"Adds areas to the mask." = "Adds areas to the mask.";
+
+/* No comment provided by engineer. */
 "Adjust how bright the blue channel of your original image appears in the black and white." = "元のイメージのブルーチャンネルがモノクロでどれくらい明るく表示されるかを調整します。";
 
 /* No comment provided by engineer. */
@@ -113,6 +116,9 @@
 "Adjust how much the vertical size of each brush mark should change according to the amount you tilt your graphics pen." = "グラフィックペンを傾ける量に応じて、各ブラシマークの垂直サイズをどれだけ変化させるかを調整します。";
 
 /* No comment provided by engineer. */
+"Adjust how much to enlarge or shrink the mask." = "Adjust how much to enlarge or shrink the mask.";
+
+/* No comment provided by engineer. */
 "Adjust how much to enlarge or shrink the selection." = "選択範囲を拡大・縮小する値を調整します。";
 
 /* No comment provided by engineer. */
@@ -134,7 +140,16 @@
 "Adjust how much to randomly vary the transparency of each brush mark in a brushstroke." = "ブラシストローク内の各ブラシマークの透明度をどれだけランダムに変化させるかを調整します。";
 
 /* No comment provided by engineer. */
+"Adjust how much to round the mask." = "Adjust how much to round the mask.";
+
+/* No comment provided by engineer. */
 "Adjust how much to round the selection." = "選択をどのくらい丸めるかを調整します。";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the edges of the brush used to add or subtract areas from the mask." = "Adjust how much to soften the edges of the brush used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the edges of the brush used to add or subtract areas from the selection." = "Adjust how much to soften the edges of the brush used to add or subtract areas from the selection.";
 
 /* No comment provided by engineer. */
 "Adjust how much to soften the edges of the brush." = "ブラシの端をどれだけ緩和するかを調整します。";
@@ -168,6 +183,9 @@
 
 /* No comment provided by engineer. */
 "Adjust how much to soften the edges of the Soften tool brush." = "ソフトツールのブラシの端をどれだけ緩和するかを調整します。";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the mask." = "Adjust how much to soften the mask.";
 
 /* No comment provided by engineer. */
 "Adjust the amount of magenta and green in the highlights." = "マゼンタとグリーンのハイライトの量を調整します。";
@@ -314,10 +332,13 @@
 "Adjust the saturation of the selected color." = "選択した色の彩度を調整します。";
 
 /* No comment provided by engineer. */
-"Adjust the sensitivity of the edge detection algorithm." = "エッジ検出アルゴリズムの感度を調整します。";
+"Adjust the size of the brush texture." = "ブラシのテクスチャのサイズを調整します。";
 
 /* No comment provided by engineer. */
-"Adjust the size of the brush texture." = "ブラシのテクスチャのサイズを調整します。";
+"Adjust the size of the brush used to add or subtract areas from the mask." = "Adjust the size of the brush used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Adjust the size of the brush used to add or subtract areas from your selection." = "Adjust the size of the brush used to add or subtract areas from your selection.";
 
 /* No comment provided by engineer. */
 "Adjust the size of the brush." = "ブラシのサイズを調整します。";
@@ -455,6 +476,9 @@
 "Adjust the transparency of the inner shadow." = "インナーシャドウの透明度を調整します。";
 
 /* No comment provided by engineer. */
+"Adjust the transparency of the Smart Erase tool." = "スマート消去ツールの透明度を調整します。";
+
+/* No comment provided by engineer. */
 "Adjust the transparency of the starts and ends of your brushstrokes." = "ブラシストロークの始端と終端の透明度を調整します。";
 
 /* No comment provided by engineer. */
@@ -509,10 +533,28 @@
 "Apply the brush stroke to your image." = "画像にブラシストロークを適用します。";
 
 /* No comment provided by engineer. */
-"Apply the refinements to your selection." = "変更を選択範囲に適用します。";
+"Apply the changes and output them to the selected output." = "Apply the changes and output them to the selected output.";
+
+/* No comment provided by engineer. */
+"Apply the refinements to the mask." = "Apply the refinements to the mask.";
 
 /* No comment provided by engineer. */
 "Apply the transformations to the object." = "オブジェクトに変形を適用します。";
+
+/* No comment provided by engineer. */
+"Automatically make a selection of the subject of the currently selected layer." = "Automatically make a selection of the subject of the currently selected layer.";
+
+/* No comment provided by engineer. */
+"Automatically make a selection of the subject of the image." = "Automatically make a selection of the subject of the image.";
+
+/* No comment provided by engineer. */
+"Automatically mask out the background of the layer." = "Automatically mask out the background of the layer.";
+
+/* No comment provided by engineer. */
+"Automatically refine the edges of the mask." = "Automatically refine the edges of the mask.";
+
+/* No comment provided by engineer. */
+"Automatically refine the edges of the selection." = "Automatically refine the edges of the selection.";
 
 /* No comment provided by engineer. */
 "Automatically straighten the image." = "画像を自動的に矯正します。";
@@ -569,6 +611,12 @@
 "Change the position of your selected object in the layer stack." = "レイヤースタック内の選択したオブジェクトの位置を変更します。";
 
 /* No comment provided by engineer. */
+"Change the selection mode to Add. Painting over the image will add areas to your existing selection." = "Change the selection mode to Add. Painting over the image will add areas to your existing selection.";
+
+/* No comment provided by engineer. */
+"Change the selection mode to Subtract. Painting over the image will subtract areas from your existing selection." = "Change the selection mode to Subtract. Painting over the image will subtract areas from your existing selection.";
+
+/* No comment provided by engineer. */
 "Choose a fill type for the stroke." = "線の塗りつぶしの種類を選択します。";
 
 /* No comment provided by engineer. */
@@ -611,16 +659,31 @@
 "Choose the font family." = "フォントファミリーを選択します。";
 
 /* No comment provided by engineer. */
+"Choose the overlay used to indicate masked and unmasked areas." = "Choose the overlay used to indicate masked and unmasked areas.";
+
+/* No comment provided by engineer. */
 "Choose the overlay used to indicate selected and unselected areas." = "選択された領域と選択されていない領域を示すオーバーレイを選択します。";
 
 /* No comment provided by engineer. */
+"Choose the tool used to add or subtract areas from the mask." = "Choose the tool used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Choose the tool used to add or subtract areas from the selection." = "Choose the tool used to add or subtract areas from the selection.";
+
+/* No comment provided by engineer. */
 "Choose the typeface." = "書体を選択します。";
+
+/* No comment provided by engineer. */
+"Choose the way you'd like to output the selection when you finish using the Select and Mask tool." = "Choose the way you'd like to output the selection when you finish using the Select and Mask tool.";
 
 /* No comment provided by engineer. */
 "Choose what to show or hide while creating an image." = "イメージの作成中に何を表示するか、または非表示にするかを選択します。";
 
 /* No comment provided by engineer. */
 "Choose when to turn certain letter combinations, (for example \"fi\") into one character." = "特定の文字の組み合わせ (\"fi\" 等) を1文字に変換するタイミングを選択します。";
+
+/* No comment provided by engineer. */
+"Clear the contents of the mask." = "Clear the contents of the mask.";
 
 /* No comment provided by engineer. */
 "Clear the selection." = "選択範囲を消去。";
@@ -884,9 +947,6 @@
 "Increase the font size." = "フォントサイズを大きくします。";
 
 /* No comment provided by engineer. */
-"Intelligently enhance the selection using machine learning." = "機械学習を使用して選択をインテリジェントに強化します。";
-
-/* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "両端揃え";
 
 /* No comment provided by engineer. */
@@ -983,6 +1043,9 @@
 "Remove small imperfections or entire objects from images." = "画像から小さな欠陥やオブジェクト全体を削除します。";
 
 /* No comment provided by engineer. */
+"Remove the background from the currently selected layer." = "Remove the background from the currently selected layer.";
+
+/* No comment provided by engineer. */
 "Repair the entire selected area in your image." = "イメージ内の選択した領域全体を修復します。";
 
 /* No comment provided by engineer. */
@@ -998,10 +1061,16 @@
 "Reset all your current changes." = "現在の変更のすべてをリセットします。";
 
 /* No comment provided by engineer. */
-"Reset any refinements and stop refining the selection." = "選択範囲の変更をリセットして編集を停止します。";
+"Reset any changes made to the selection." = "Reset any changes made to the selection.";
 
 /* No comment provided by engineer. */
-"Reset any refinements to the selection." = "選択範囲の変更をリセットします。";
+"Reset any refinements and stop using the Refine Mask tool." = "Reset any refinements and stop using the Refine Mask tool.";
+
+/* No comment provided by engineer. */
+"Reset any refinements and stop using the Select and Mask tool." = "Reset any refinements and stop using the Select and Mask tool.";
+
+/* No comment provided by engineer. */
+"Reset any refinements to the mask." = "Reset any refinements to the mask.";
 
 /* No comment provided by engineer. */
 "Reset the colors of the Color wheel" = "カラーホイールの色をリセット";
@@ -1067,9 +1136,6 @@
 "Select to always sample the same part of your image with each new brush stroke." = "常に新しいブラシストロークを使用してイメージの同じ部分をサンプルする場合に選択します。";
 
 /* No comment provided by engineer. */
-"Select to automatically enhance your selection." = "選択範囲を自動補正します。";
-
-/* No comment provided by engineer. */
 "Select to automatically smooth brush strokes." = "選択してブラシストロークを自動的に滑らかにします。";
 
 /* No comment provided by engineer. */
@@ -1101,6 +1167,9 @@
 
 /* No comment provided by engineer. */
 "Select to make the Select Color Range tool take into account every layer in your image." = "カラー範囲選択ツールがイメージ内のすべてのレイヤーを対象とする場合に選択します。";
+
+/* No comment provided by engineer. */
+"Select to make the Smart Erase tool take into account every object in your image." = "スマート消去ツールでイメージ内のすべてのオブジェクトを対象とする場合に選択します。";
 
 /* No comment provided by engineer. */
 "Select to naturally smooth the selection outline." = "選択範囲のアウトラインを自然に滑らかにする場合に選択します。";
@@ -1202,6 +1271,9 @@
 "Set how much the vertical size of each brush mark should change according to the amount you tilt your graphics pen." = "グラフィックペンを傾ける量に応じて、各ブラシマークの垂直サイズをどれだけ変化させるかを設定します。";
 
 /* No comment provided by engineer. */
+"Set how much to enlarge or shrink the mask." = "Set how much to enlarge or shrink the mask.";
+
+/* No comment provided by engineer. */
 "Set how much to enlarge or shrink the selection." = "選択範囲を拡大・縮小する値を設定します。";
 
 /* No comment provided by engineer. */
@@ -1229,7 +1301,16 @@
 "Set how much to round the corners of the shape." = "シェイプの角を丸める量を設定します。";
 
 /* No comment provided by engineer. */
+"Set how much to round the mask." = "Set how much to round the mask.";
+
+/* No comment provided by engineer. */
 "Set how much to round the selection." = "選択をどのくらい丸めるかを設定します。";
+
+/* No comment provided by engineer. */
+"Set how much to soften the edges of the brush used to add or subtract areas from the mask." = "Set how much to soften the edges of the brush used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Set how much to soften the edges of the brush used to add or subtract areas from the selection." = "Set how much to soften the edges of the brush used to add or subtract areas from the selection.";
 
 /* No comment provided by engineer. */
 "Set how much to soften the edges of the brush." = "ブラシの端をどれだけ緩和するかを設定します。";
@@ -1263,6 +1344,9 @@
 
 /* No comment provided by engineer. */
 "Set how much to soften the edges of the Soften tool brush." = "ソフトツールのブラシの端をどれだけ緩和するかを設定します。";
+
+/* No comment provided by engineer. */
+"Set how much to soften the mask." = "Set how much to soften the mask.";
 
 /* No comment provided by engineer. */
 "Set the amount of grain particles." = "粒子の量を設定します。";
@@ -1442,10 +1526,13 @@
 "Set the saturation of the selected color." = "選択した色の彩度を設定します。";
 
 /* No comment provided by engineer. */
-"Set the sensitivity of the edge detection algorithm." = "エッジ検出アルゴリズムの感度を設定します。";
+"Set the size of the brush texture." = "ブラシのテクスチャのサイズを設定します。";
 
 /* No comment provided by engineer. */
-"Set the size of the brush texture." = "ブラシのテクスチャのサイズを設定します。";
+"Set the size of the brush used to add or subtract areas from the mask." = "Set the size of the brush used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Set the size of the brush used to add or subtract areas from your selection." = "Set the size of the brush used to add or subtract areas from your selection.";
 
 /* No comment provided by engineer. */
 "Set the size of the brush." = "ブラシのサイズを設定します。";
@@ -1571,6 +1658,9 @@
 "Set the transparency of the inner shadow." = "インナーシャドウの透明度を設定します。";
 
 /* No comment provided by engineer. */
+"Set the transparency of the Smart Erase tool." = "スマート消去ツールの透明度を設定します。";
+
+/* No comment provided by engineer. */
 "Set the transparency of the starts and ends of your brushstrokes." = "ブラシストロークの始端と終端の透明度を設定します。";
 
 /* No comment provided by engineer. */
@@ -1682,6 +1772,9 @@
 "Subtracts areas from the existing selection." = "既存の選択範囲から差し引きます。";
 
 /* No comment provided by engineer. */
+"Subtracts areas from the mask." = "Subtracts areas from the mask.";
+
+/* No comment provided by engineer. */
 "The brightest areas of an image." = "イメージの最も明るい領域。";
 
 /* No comment provided by engineer. */
@@ -1701,6 +1794,9 @@
 
 /* No comment provided by engineer. */
 "Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of your display" = "拡張ダイナミックレンジモードをオンにして、ディスプレイの最大画面輝度を使用して、非表示になったハイライトの詳細を表示します";
+
+/* No comment provided by engineer. */
+"Turn the mask inside out." = "Turn the mask inside out.";
 
 /* No comment provided by engineer. */
 "Turn the selection inside out." = "選択範囲を反転する";
