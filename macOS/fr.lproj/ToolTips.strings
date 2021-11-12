@@ -17,6 +17,9 @@
 "Adds areas to the existing selection." = "Ajoute des zones à la sélection existante.";
 
 /* No comment provided by engineer. */
+"Adds areas to the mask." = "Adds areas to the mask.";
+
+/* No comment provided by engineer. */
 "Adjust how bright the blue channel of your original image appears in the black and white." = "Ajustez le niveau de luminosité de la couche bleue de votre image d’origine dans le noir et blanc.";
 
 /* No comment provided by engineer. */
@@ -113,6 +116,9 @@
 "Adjust how much the vertical size of each brush mark should change according to the amount you tilt your graphics pen." = "Ajustez l’évolution de la taille verticale de chaque marque de pinceau en fonction de l’inclinaison de votre stylet.";
 
 /* No comment provided by engineer. */
+"Adjust how much to enlarge or shrink the mask." = "Adjust how much to enlarge or shrink the mask.";
+
+/* No comment provided by engineer. */
 "Adjust how much to enlarge or shrink the selection." = "Ajustez l’agrandissment ou le rétrécissement de la sélection.";
 
 /* No comment provided by engineer. */
@@ -134,7 +140,16 @@
 "Adjust how much to randomly vary the transparency of each brush mark in a brushstroke." = "Ajustez le niveau de variation aléatoire de la transparence de chaque marque d’un coup de pinceau.";
 
 /* No comment provided by engineer. */
+"Adjust how much to round the mask." = "Adjust how much to round the mask.";
+
+/* No comment provided by engineer. */
 "Adjust how much to round the selection." = "Modifiez la rondeur de la sélection.";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the edges of the brush used to add or subtract areas from the mask." = "Adjust how much to soften the edges of the brush used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the edges of the brush used to add or subtract areas from the selection." = "Adjust how much to soften the edges of the brush used to add or subtract areas from the selection.";
 
 /* No comment provided by engineer. */
 "Adjust how much to soften the edges of the brush." = "Ajustez le lissage des contours du pinceau.";
@@ -168,6 +183,9 @@
 
 /* No comment provided by engineer. */
 "Adjust how much to soften the edges of the Soften tool brush." = "Ajustez le lissage des contours du pinceau de l’outil Adoucir.";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the mask." = "Adjust how much to soften the mask.";
 
 /* No comment provided by engineer. */
 "Adjust the amount of magenta and green in the highlights." = "Ajustez la quantité de magenta et de vert dans les tons clairs.";
@@ -314,10 +332,13 @@
 "Adjust the saturation of the selected color." = "Ajustez la saturation de la couleur sélectionnée.";
 
 /* No comment provided by engineer. */
-"Adjust the sensitivity of the edge detection algorithm." = "Ajustez la sensibilité de l’algorithme de détection des contours.";
+"Adjust the size of the brush texture." = "Ajustez la taille de la texture du pinceau.";
 
 /* No comment provided by engineer. */
-"Adjust the size of the brush texture." = "Ajustez la taille de la texture du pinceau.";
+"Adjust the size of the brush used to add or subtract areas from the mask." = "Adjust the size of the brush used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Adjust the size of the brush used to add or subtract areas from your selection." = "Adjust the size of the brush used to add or subtract areas from your selection.";
 
 /* No comment provided by engineer. */
 "Adjust the size of the brush." = "Ajustez la taille du pinceau.";
@@ -455,6 +476,9 @@
 "Adjust the transparency of the inner shadow." = "Ajustez la transparence de l’ombre interne.";
 
 /* No comment provided by engineer. */
+"Adjust the transparency of the Smart Erase tool." = "Ajustez la transparence de l’outil Gomme magique.";
+
+/* No comment provided by engineer. */
 "Adjust the transparency of the starts and ends of your brushstrokes." = "Ajustez la transparence du début et de la fin de vos coups de pinceau.";
 
 /* No comment provided by engineer. */
@@ -509,10 +533,28 @@
 "Apply the brush stroke to your image." = "Appliquer le trait de pinceau à votre image.";
 
 /* No comment provided by engineer. */
-"Apply the refinements to your selection." = "Appliquez les ajustements à votre sélection.";
+"Apply the changes and output them to the selected output." = "Apply the changes and output them to the selected output.";
+
+/* No comment provided by engineer. */
+"Apply the refinements to the mask." = "Apply the refinements to the mask.";
 
 /* No comment provided by engineer. */
 "Apply the transformations to the object." = "Appliquer les transformations à l’objet.";
+
+/* No comment provided by engineer. */
+"Automatically make a selection of the subject of the currently selected layer." = "Automatically make a selection of the subject of the currently selected layer.";
+
+/* No comment provided by engineer. */
+"Automatically make a selection of the subject of the image." = "Automatically make a selection of the subject of the image.";
+
+/* No comment provided by engineer. */
+"Automatically mask out the background of the layer." = "Automatically mask out the background of the layer.";
+
+/* No comment provided by engineer. */
+"Automatically refine the edges of the mask." = "Automatically refine the edges of the mask.";
+
+/* No comment provided by engineer. */
+"Automatically refine the edges of the selection." = "Automatically refine the edges of the selection.";
 
 /* No comment provided by engineer. */
 "Automatically straighten the image." = "Redresser automatiquement l’image.";
@@ -569,6 +611,12 @@
 "Change the position of your selected object in the layer stack." = "Modifiez la position de l’objet sélectionné dans la pile de calques.";
 
 /* No comment provided by engineer. */
+"Change the selection mode to Add. Painting over the image will add areas to your existing selection." = "Change the selection mode to Add. Painting over the image will add areas to your existing selection.";
+
+/* No comment provided by engineer. */
+"Change the selection mode to Subtract. Painting over the image will subtract areas from your existing selection." = "Change the selection mode to Subtract. Painting over the image will subtract areas from your existing selection.";
+
+/* No comment provided by engineer. */
 "Choose a fill type for the stroke." = "Choisissez un type de remplissage pour le coup de pinceau.";
 
 /* No comment provided by engineer. */
@@ -611,16 +659,31 @@
 "Choose the font family." = "Choisir la famille de police.";
 
 /* No comment provided by engineer. */
+"Choose the overlay used to indicate masked and unmasked areas." = "Choose the overlay used to indicate masked and unmasked areas.";
+
+/* No comment provided by engineer. */
 "Choose the overlay used to indicate selected and unselected areas." = "Choisir la superposition utilisée pour indiquer les zones sélectionnées et non sélectionnées.";
 
 /* No comment provided by engineer. */
+"Choose the tool used to add or subtract areas from the mask." = "Choose the tool used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Choose the tool used to add or subtract areas from the selection." = "Choose the tool used to add or subtract areas from the selection.";
+
+/* No comment provided by engineer. */
 "Choose the typeface." = "Choisir le style de caractères.";
+
+/* No comment provided by engineer. */
+"Choose the way you'd like to output the selection when you finish using the Select and Mask tool." = "Choose the way you'd like to output the selection when you finish using the Select and Mask tool.";
 
 /* No comment provided by engineer. */
 "Choose what to show or hide while creating an image." = "Choisissez ce que vous souhaitez afficher ou masquer lors de la création d’une image.";
 
 /* No comment provided by engineer. */
 "Choose when to turn certain letter combinations, (for example \"fi\") into one character." = "Choisir quand changer certaines combinaisons de lettres (par exemple \"fi\") en un seul caractère.";
+
+/* No comment provided by engineer. */
+"Clear the contents of the mask." = "Clear the contents of the mask.";
 
 /* No comment provided by engineer. */
 "Clear the selection." = "Effacez la sélection.";
@@ -884,9 +947,6 @@
 "Increase the font size." = "Augmenter la taille de la police.";
 
 /* No comment provided by engineer. */
-"Intelligently enhance the selection using machine learning." = "Améliorer intelligemment la sélection en utilisant l’apprentissage automatique.";
-
-/* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "Justifiez le texte (centrer à gauche et à droite).";
 
 /* No comment provided by engineer. */
@@ -983,6 +1043,9 @@
 "Remove small imperfections or entire objects from images." = "Supprimez de petites imperfections ou des objets entiers des images.";
 
 /* No comment provided by engineer. */
+"Remove the background from the currently selected layer." = "Remove the background from the currently selected layer.";
+
+/* No comment provided by engineer. */
 "Repair the entire selected area in your image." = "Réparez l’intégralité de la zone sélectionnée dans votre image.";
 
 /* No comment provided by engineer. */
@@ -998,10 +1061,16 @@
 "Reset all your current changes." = "Annulez toutes les modifications actuelles.";
 
 /* No comment provided by engineer. */
-"Reset any refinements and stop refining the selection." = "Annulez tous les ajustements et arrêtez d’ajuster la sélection.";
+"Reset any changes made to the selection." = "Reset any changes made to the selection.";
 
 /* No comment provided by engineer. */
-"Reset any refinements to the selection." = "Annulez tous les ajustements apportés à la sélection.";
+"Reset any refinements and stop using the Refine Mask tool." = "Reset any refinements and stop using the Refine Mask tool.";
+
+/* No comment provided by engineer. */
+"Reset any refinements and stop using the Select and Mask tool." = "Reset any refinements and stop using the Select and Mask tool.";
+
+/* No comment provided by engineer. */
+"Reset any refinements to the mask." = "Reset any refinements to the mask.";
 
 /* No comment provided by engineer. */
 "Reset the colors of the Color wheel" = "Réinitialiser les couleurs de roue chromatique";
@@ -1067,9 +1136,6 @@
 "Select to always sample the same part of your image with each new brush stroke." = "Sélectionnez cette option afin de toujours échantillonner la même partie de votre image à chaque nouveau coup de pinceau.";
 
 /* No comment provided by engineer. */
-"Select to automatically enhance your selection." = "Sélectionnez cette option pour améliorer automatiquement votre sélection.";
-
-/* No comment provided by engineer. */
 "Select to automatically smooth brush strokes." = "Sélectionner pour lisser automatiquement les traits de pinceau.";
 
 /* No comment provided by engineer. */
@@ -1101,6 +1167,9 @@
 
 /* No comment provided by engineer. */
 "Select to make the Select Color Range tool take into account every layer in your image." = "Sélectionnez cette option pour que l’outil Choisir gamme de couleur prenne tous les calques de votre image en compte.";
+
+/* No comment provided by engineer. */
+"Select to make the Smart Erase tool take into account every object in your image." = "Sélectionnez cette option pour que l’outil Gomme magique prenne tous les objets de votre image en compte.";
 
 /* No comment provided by engineer. */
 "Select to naturally smooth the selection outline." = "Sélectionnez cette option pour lisser naturellement le contour de la sélection.";
@@ -1202,6 +1271,9 @@
 "Set how much the vertical size of each brush mark should change according to the amount you tilt your graphics pen." = "Définissez l’évolution de la taille verticale de chaque marque de pinceau en fonction de l’inclinaison de votre stylet.";
 
 /* No comment provided by engineer. */
+"Set how much to enlarge or shrink the mask." = "Set how much to enlarge or shrink the mask.";
+
+/* No comment provided by engineer. */
 "Set how much to enlarge or shrink the selection." = "Définissez l’agrandissement ou le rétrécissement de la sélection.";
 
 /* No comment provided by engineer. */
@@ -1229,7 +1301,16 @@
 "Set how much to round the corners of the shape." = "Définissez la rondeur des coins de la forme.";
 
 /* No comment provided by engineer. */
+"Set how much to round the mask." = "Set how much to round the mask.";
+
+/* No comment provided by engineer. */
 "Set how much to round the selection." = "Définissez la rondeur de la sélection.";
+
+/* No comment provided by engineer. */
+"Set how much to soften the edges of the brush used to add or subtract areas from the mask." = "Set how much to soften the edges of the brush used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Set how much to soften the edges of the brush used to add or subtract areas from the selection." = "Set how much to soften the edges of the brush used to add or subtract areas from the selection.";
 
 /* No comment provided by engineer. */
 "Set how much to soften the edges of the brush." = "Définissez le lissage des contours du pinceau.";
@@ -1263,6 +1344,9 @@
 
 /* No comment provided by engineer. */
 "Set how much to soften the edges of the Soften tool brush." = "Définissez le lissage des contours du pinceau de l’outil Adoucir.";
+
+/* No comment provided by engineer. */
+"Set how much to soften the mask." = "Set how much to soften the mask.";
 
 /* No comment provided by engineer. */
 "Set the amount of grain particles." = "Définissez le nombre de particules de grain.";
@@ -1442,10 +1526,13 @@
 "Set the saturation of the selected color." = "Définissez la saturation de la couleur sélectionnée.";
 
 /* No comment provided by engineer. */
-"Set the sensitivity of the edge detection algorithm." = "Définissez la sensibilité de l’algorithme de détection des contours.";
+"Set the size of the brush texture." = "Définissez la taille de la texture du pinceau.";
 
 /* No comment provided by engineer. */
-"Set the size of the brush texture." = "Définissez la taille de la texture du pinceau.";
+"Set the size of the brush used to add or subtract areas from the mask." = "Set the size of the brush used to add or subtract areas from the mask.";
+
+/* No comment provided by engineer. */
+"Set the size of the brush used to add or subtract areas from your selection." = "Set the size of the brush used to add or subtract areas from your selection.";
 
 /* No comment provided by engineer. */
 "Set the size of the brush." = "Définissez la taille du pinceau.";
@@ -1571,6 +1658,9 @@
 "Set the transparency of the inner shadow." = "Définissez la transparence de l’ombre interne.";
 
 /* No comment provided by engineer. */
+"Set the transparency of the Smart Erase tool." = "Définissez la transparence de l’outil Gomme magique.";
+
+/* No comment provided by engineer. */
 "Set the transparency of the starts and ends of your brushstrokes." = "Définissez la transparence du début et de la fin de vos coups de pinceau.";
 
 /* No comment provided by engineer. */
@@ -1682,6 +1772,9 @@
 "Subtracts areas from the existing selection." = "Soustrait des zones de la sélection existante.";
 
 /* No comment provided by engineer. */
+"Subtracts areas from the mask." = "Subtracts areas from the mask.";
+
+/* No comment provided by engineer. */
 "The brightest areas of an image." = "Les zones les plus claires d’une image.";
 
 /* No comment provided by engineer. */
@@ -1701,6 +1794,9 @@
 
 /* No comment provided by engineer. */
 "Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of your display" = "Activez le mode Gamme Dynamique Étendue pour afficher des détails clairs masqués en utilisant le maximum de luminosité d’écran de votre affichage.";
+
+/* No comment provided by engineer. */
+"Turn the mask inside out." = "Turn the mask inside out.";
 
 /* No comment provided by engineer. */
 "Turn the selection inside out." = "Mettez la sélection à l’envers.";
