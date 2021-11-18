@@ -53,6 +53,9 @@
 "Brush Size" = "ブラシの大きさ";
 
 /* No comment provided by engineer. */
+"Brush Softness" = "ブラシの柔らかさ";
+
+/* No comment provided by engineer. */
 "Bump" = "バンプ";
 
 /* No comment provided by engineer. */
@@ -60,6 +63,12 @@
 
 /* No comment provided by engineer. */
 "Character Spacing" = "文字間隔";
+
+/* No comment provided by engineer. */
+"Clear Mask" = "マスクを消去";
+
+/* No comment provided by engineer. */
+"Clear Selection" = "選択を消去";
 
 /* No comment provided by engineer. */
 "Clone" = "クローン";
@@ -74,7 +83,7 @@
 "Color Selection" = "色選択";
 
 /* No comment provided by engineer. */
-"Column Selection" = "列選択";
+"Column Selection" = "列の選択";
 
 /* No comment provided by engineer. */
 "Column Width" = "列の幅";
@@ -111,12 +120,6 @@
 
 /* No comment provided by engineer. */
 "Distort" = "歪み";
-
-/* No comment provided by engineer. */
-"Edge Detection" = "エッジ検出";
-
-/* No comment provided by engineer. */
-"Edge Softness" = "エッジのやわらかさ";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "楕円で選択";
@@ -173,6 +176,12 @@
 "Invert" = "反転";
 
 /* No comment provided by engineer. */
+"Invert Mask" = "マスクを反転";
+
+/* No comment provided by engineer. */
+"Invert Selection" = "選択範囲を反転";
+
+/* No comment provided by engineer. */
 "Lanczos" = "ランチョス";
 
 /* No comment provided by engineer. */
@@ -188,13 +197,13 @@
 "Line Height" = "行間隔";
 
 /* No comment provided by engineer. */
-"Live tracking" = "ライブトラッキング";
-
-/* No comment provided by engineer. */
 "Lock" = "ロック";
 
 /* No comment provided by engineer. */
 "Magnetic Selection" = "マグネット選択";
+
+/* No comment provided by engineer. */
+"Mask Subject" = "対象をマスク";
 
 /* No comment provided by engineer. */
 "Max Pressure Location" = "最大圧力位置";
@@ -207,12 +216,6 @@
 
 /* No comment provided by engineer. */
 "ML Crop" = "ML 切り抜き";
-
-/* No comment provided by engineer. */
-"ML Refine" = "ML リファイン";
-
-/* No comment provided by engineer. */
-"ML Refine Selection" = "ML リファイン選択";
 
 /* No comment provided by engineer. */
 "Nearest Neighbor" = "最近隣";
@@ -228,6 +231,9 @@
 
 /* No comment provided by engineer. */
 "Original Size" = "元のサイズ";
+
+/* No comment provided by engineer. */
+"Output" = "出力";
 
 /* No comment provided by engineer. */
 "Overlay" = "オーバーレイ";
@@ -257,10 +263,10 @@
 "Rectangular Selection" = "矩形選択";
 
 /* No comment provided by engineer. */
-"Refine Selection" = "選択範囲をカスタマイズ";
+"Refine Mask" = "マスクを調整";
 
 /* No comment provided by engineer. */
-"Refine…" = "カスタマイズ…";
+"Remove Background" = "背景を削除";
 
 /* No comment provided by engineer. */
 "Repair" = "修復";
@@ -284,6 +290,9 @@
 "Rotate" = "回転";
 
 /* No comment provided by engineer. */
+"Roundness" = "丸み";
+
+/* No comment provided by engineer. */
 "Row Height" = "行の高さ";
 
 /* No comment provided by engineer. */
@@ -296,13 +305,25 @@
 "Saturate" = "彩度を上げる";
 
 /* No comment provided by engineer. */
+"Select and Mask" = "選択とマスク";
+
+/* No comment provided by engineer. */
+"Select and Mask…" = "選択とマスク...";
+
+/* No comment provided by engineer. */
 "Select Color Range" = "カラーの範囲を選択";
 
 /* No comment provided by engineer. */
 "Select Color Range…" = "カラーの範囲を選択…";
 
 /* No comment provided by engineer. */
+"Select Subject" = "対象を選択";
+
+/* No comment provided by engineer. */
 "Select to make the Color Fill tool take into account every object in your image." = "カラー塗りつぶしツールでイメージ内のすべてのオブジェクトを対象とする場合に選択します。";
+
+/* No comment provided by engineer. */
+"Select to naturally smooth the edges of the erased areas. ." = "消去された領域のエッジを自然に滑らかにします。";
 
 /* No comment provided by engineer. */
 "Select to naturally smooth the fill outline." = "塗りつぶしのアウトラインを自然に滑らかにする場合に選択します。";
@@ -314,9 +335,6 @@
 "Shadows" = "シャドウ";
 
 /* No comment provided by engineer. */
-"Shape Roundness" = "図形の丸み";
-
-/* No comment provided by engineer. */
 "Sharpen" = "シャープ";
 
 /* No comment provided by engineer. */
@@ -324,6 +342,9 @@
 
 /* No comment provided by engineer. */
 "Show Grid" = "グリッドを表示";
+
+/* No comment provided by engineer. */
+"Show selection preview" = "選択プレビューを表示";
 
 /* No comment provided by engineer. */
 "Show source marker" = "ソースマーカーを表示";
@@ -338,7 +359,10 @@
 "Skew" = "傾斜";
 
 /* No comment provided by engineer. */
-"Smart Refine" = "スマートリファイン";
+"Smart Erase" = "スマート消去";
+
+/* No comment provided by engineer. */
+"Smart Refine" = "スマートカスタマイズ";
 
 /* No comment provided by engineer. */
 "Smooth edges" = "滑らかなエッジ";

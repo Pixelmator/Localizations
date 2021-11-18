@@ -17,6 +17,9 @@
 "Adds areas to the existing selection." = "將區域添加到現有選擇中。";
 
 /* No comment provided by engineer. */
+"Adds areas to the mask." = "將區域加到遮罩中。";
+
+/* No comment provided by engineer. */
 "Adjust how bright the blue channel of your original image appears in the black and white." = "調整原始影像的藍色通道在黑白中顯示的亮度。";
 
 /* No comment provided by engineer. */
@@ -113,6 +116,9 @@
 "Adjust how much the vertical size of each brush mark should change according to the amount you tilt your graphics pen." = "根據您傾斜繪圖筆的程度調整每個畫筆標記的垂直大小更改的程度。";
 
 /* No comment provided by engineer. */
+"Adjust how much to enlarge or shrink the mask." = "調整放大或縮小遮罩的程度。";
+
+/* No comment provided by engineer. */
 "Adjust how much to enlarge or shrink the selection." = "調整放大或縮小所選內容的程度。";
 
 /* No comment provided by engineer. */
@@ -134,7 +140,16 @@
 "Adjust how much to randomly vary the transparency of each brush mark in a brushstroke." = "調整每一個畫筆標記透明度波動的隨機性程度。";
 
 /* No comment provided by engineer. */
+"Adjust how much to round the mask." = "調整遮罩的捨入程度。";
+
+/* No comment provided by engineer. */
 "Adjust how much to round the selection." = "調整所選內容的舍入程度。";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the edges of the brush used to add or subtract areas from the mask." = "調整增加或減少遮罩區域的畫筆的邊緣柔化程度。";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the edges of the brush used to add or subtract areas from the selection." = "調整增加或減少選取區域的畫筆的邊緣柔化程度。";
 
 /* No comment provided by engineer. */
 "Adjust how much to soften the edges of the brush." = "調整畫筆邊緣的柔化程度。";
@@ -168,6 +183,9 @@
 
 /* No comment provided by engineer. */
 "Adjust how much to soften the edges of the Soften tool brush." = "調整柔化工具畫筆邊緣的柔化程度。";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the mask." = "調整遮罩的柔化程度。";
 
 /* No comment provided by engineer. */
 "Adjust the amount of magenta and green in the highlights." = "調整突出色調中洋紅色和綠色的量。";
@@ -314,10 +332,13 @@
 "Adjust the saturation of the selected color." = "調整所選顏色的飽和度。";
 
 /* No comment provided by engineer. */
-"Adjust the sensitivity of the edge detection algorithm." = "調整邊緣檢測演算法的靈敏度。";
+"Adjust the size of the brush texture." = "調整畫筆紋理的大小。";
 
 /* No comment provided by engineer. */
-"Adjust the size of the brush texture." = "調整畫筆紋理的大小。";
+"Adjust the size of the brush used to add or subtract areas from the mask." = "調整增加或減少遮罩區域的畫筆大小。";
+
+/* No comment provided by engineer. */
+"Adjust the size of the brush used to add or subtract areas from your selection." = "調整增加或減少選取區域的畫筆大小。";
 
 /* No comment provided by engineer. */
 "Adjust the size of the brush." = "調整畫筆的大小。";
@@ -455,6 +476,9 @@
 "Adjust the transparency of the inner shadow." = "調整內部陰影的透明度。";
 
 /* No comment provided by engineer. */
+"Adjust the transparency of the Smart Erase tool." = "調整智慧擦除工具的透明度。";
+
+/* No comment provided by engineer. */
 "Adjust the transparency of the starts and ends of your brushstrokes." = "調整筆觸開始和結束的透明度。";
 
 /* No comment provided by engineer. */
@@ -509,10 +533,28 @@
 "Apply the brush stroke to your image." = "將筆刷筆畫套用到影像。";
 
 /* No comment provided by engineer. */
-"Apply the refinements to your selection." = "對選區套用改進。";
+"Apply the changes and output them to the selected output." = "套用更改並輸出至選擇的輸出方式。";
+
+/* No comment provided by engineer. */
+"Apply the refinements to the mask." = "對遮罩套用調整內容。";
 
 /* No comment provided by engineer. */
 "Apply the transformations to the object." = "將轉換套用於物件。";
+
+/* No comment provided by engineer. */
+"Automatically make a selection of the subject of the currently selected layer." = "自動選擇目前圖層的主體。";
+
+/* No comment provided by engineer. */
+"Automatically make a selection of the subject of the image." = "自動選擇圖像的主體。";
+
+/* No comment provided by engineer. */
+"Automatically mask out the background of the layer." = "自動遮罩圖層背景。";
+
+/* No comment provided by engineer. */
+"Automatically refine the edges of the mask." = "自動調整遮罩邊緣。";
+
+/* No comment provided by engineer. */
+"Automatically refine the edges of the selection." = "自動調整選取區域邊緣。";
 
 /* No comment provided by engineer. */
 "Automatically straighten the image." = "自動拉直影像。";
@@ -569,6 +611,12 @@
 "Change the position of your selected object in the layer stack." = "更改所選物件在圖層堆中的位置。";
 
 /* No comment provided by engineer. */
+"Change the selection mode to Add. Painting over the image will add areas to your existing selection." = "將選擇模式改為增加。畫過圖像將會新增目前選擇的區域。";
+
+/* No comment provided by engineer. */
+"Change the selection mode to Subtract. Painting over the image will subtract areas from your existing selection." = "將選擇模式改為減去。畫過圖像將會減少目前選擇的區域。";
+
+/* No comment provided by engineer. */
 "Choose a fill type for the stroke." = "選取筆畫的填充類型。";
 
 /* No comment provided by engineer. */
@@ -611,16 +659,31 @@
 "Choose the font family." = "選擇字體系列。";
 
 /* No comment provided by engineer. */
+"Choose the overlay used to indicate masked and unmasked areas." = "選擇已遮罩和未遮罩區域的覆疊效果。";
+
+/* No comment provided by engineer. */
 "Choose the overlay used to indicate selected and unselected areas." = "選擇已選擇和未選擇區域的覆疊效果。";
 
 /* No comment provided by engineer. */
+"Choose the tool used to add or subtract areas from the mask." = "選擇增加或減少遮罩區域的工具。";
+
+/* No comment provided by engineer. */
+"Choose the tool used to add or subtract areas from the selection." = "選擇增加或減少選取區域的工具。";
+
+/* No comment provided by engineer. */
 "Choose the typeface." = "選擇字樣。";
+
+/* No comment provided by engineer. */
+"Choose the way you'd like to output the selection when you finish using the Select and Mask tool." = "選擇用完選擇並遮罩工具後想要的輸出方式。";
 
 /* No comment provided by engineer. */
 "Choose what to show or hide while creating an image." = "選取在創建影像時顯示或隱藏的內容。";
 
 /* No comment provided by engineer. */
 "Choose when to turn certain letter combinations, (for example \"fi\") into one character." = "選擇什麼時候要將特定字母組合（如「fi」）變成一個字元。";
+
+/* No comment provided by engineer. */
+"Clear the contents of the mask." = "清空遮罩的內容。";
 
 /* No comment provided by engineer. */
 "Clear the selection." = "清除所選項目。";
@@ -884,9 +947,6 @@
 "Increase the font size." = "放大字級。";
 
 /* No comment provided by engineer. */
-"Intelligently enhance the selection using machine learning." = "使用機器學習智慧化增進選擇。";
-
-/* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "兩端對齊（中間向兩邊）。";
 
 /* No comment provided by engineer. */
@@ -983,6 +1043,9 @@
 "Remove small imperfections or entire objects from images." = "移除影像中之缺陷部分或整個物件。";
 
 /* No comment provided by engineer. */
+"Remove the background from the currently selected layer." = "從當前選定的圖層中移除背景。";
+
+/* No comment provided by engineer. */
 "Repair the entire selected area in your image." = "修復影像中的整個選定區域。";
 
 /* No comment provided by engineer. */
@@ -998,10 +1061,16 @@
 "Reset all your current changes." = "重設當前的所有更改。";
 
 /* No comment provided by engineer. */
-"Reset any refinements and stop refining the selection." = "重置任何細化並停止優化所選內容。";
+"Reset any changes made to the selection." = "重設所選內容的任何更改。";
 
 /* No comment provided by engineer. */
-"Reset any refinements to the selection." = "重置所選內容的任何細化。";
+"Reset any refinements and stop using the Refine Mask tool." = "重設所有微調內容並停止使用調整遮罩工具。";
+
+/* No comment provided by engineer. */
+"Reset any refinements and stop using the Select and Mask tool." = "重設所有微調內容並停止使用選擇並遮罩工具。";
+
+/* No comment provided by engineer. */
+"Reset any refinements to the mask." = "重設所選內容的任何調整內容。";
 
 /* No comment provided by engineer. */
 "Reset the colors of the Color wheel" = "重設色輪的顏色";
@@ -1067,9 +1136,6 @@
 "Select to always sample the same part of your image with each new brush stroke." = "選取以始終在每個新的畫筆描邊中對影像的同一部分取樣。";
 
 /* No comment provided by engineer. */
-"Select to automatically enhance your selection." = "選擇以自動增強所選內容。";
-
-/* No comment provided by engineer. */
 "Select to automatically smooth brush strokes." = "選擇以自動平滑筆畫。";
 
 /* No comment provided by engineer. */
@@ -1101,6 +1167,9 @@
 
 /* No comment provided by engineer. */
 "Select to make the Select Color Range tool take into account every layer in your image." = "選擇以使選擇顏色範圍工具考慮到影像中的每個圖層。";
+
+/* No comment provided by engineer. */
+"Select to make the Smart Erase tool take into account every object in your image." = "選取以使智慧擦除工具考慮到影像中的每個圖層。";
 
 /* No comment provided by engineer. */
 "Select to naturally smooth the selection outline." = "選擇以自然平滑選區輪廓。";
@@ -1202,6 +1271,9 @@
 "Set how much the vertical size of each brush mark should change according to the amount you tilt your graphics pen." = "設定您傾斜繪圖筆的程度調整每個畫筆標記的垂直大小更改的程度。";
 
 /* No comment provided by engineer. */
+"Set how much to enlarge or shrink the mask." = "設定放大或縮小遮罩的程度。";
+
+/* No comment provided by engineer. */
 "Set how much to enlarge or shrink the selection." = "設定放大或縮小所選內容的程度。";
 
 /* No comment provided by engineer. */
@@ -1229,7 +1301,16 @@
 "Set how much to round the corners of the shape." = "設定形狀邊角的圓弧程度。";
 
 /* No comment provided by engineer. */
+"Set how much to round the mask." = "設定遮罩的捨入程度。";
+
+/* No comment provided by engineer. */
 "Set how much to round the selection." = "設定所選內容的舍入程度。";
+
+/* No comment provided by engineer. */
+"Set how much to soften the edges of the brush used to add or subtract areas from the mask." = "設定增加或減少遮罩區域的畫筆的邊緣柔化程度。";
+
+/* No comment provided by engineer. */
+"Set how much to soften the edges of the brush used to add or subtract areas from the selection." = "設定增加或減少選取區域的畫筆的邊緣柔化程度。";
 
 /* No comment provided by engineer. */
 "Set how much to soften the edges of the brush." = "設定畫筆邊緣的柔化程度。";
@@ -1263,6 +1344,9 @@
 
 /* No comment provided by engineer. */
 "Set how much to soften the edges of the Soften tool brush." = "設定柔化工具畫筆邊緣的柔化程度。";
+
+/* No comment provided by engineer. */
+"Set how much to soften the mask." = "設定遮罩的柔化程度。";
 
 /* No comment provided by engineer. */
 "Set the amount of grain particles." = "設定顆粒量。";
@@ -1442,10 +1526,13 @@
 "Set the saturation of the selected color." = "設定所選顏色的飽和度。";
 
 /* No comment provided by engineer. */
-"Set the sensitivity of the edge detection algorithm." = "設定邊緣檢測演算法的靈敏度。";
+"Set the size of the brush texture." = "設定畫筆紋理的大小。";
 
 /* No comment provided by engineer. */
-"Set the size of the brush texture." = "設定畫筆紋理的大小。";
+"Set the size of the brush used to add or subtract areas from the mask." = "設定增加或減少遮罩區域的畫筆大小。";
+
+/* No comment provided by engineer. */
+"Set the size of the brush used to add or subtract areas from your selection." = "設定增加或減少選取區域的畫筆大小。";
 
 /* No comment provided by engineer. */
 "Set the size of the brush." = "設定畫筆的大小。";
@@ -1571,6 +1658,9 @@
 "Set the transparency of the inner shadow." = "設定內部陰影的透明度。";
 
 /* No comment provided by engineer. */
+"Set the transparency of the Smart Erase tool." = "設定智慧擦除工具的透明度。";
+
+/* No comment provided by engineer. */
 "Set the transparency of the starts and ends of your brushstrokes." = "設定筆觸開始和結束的透明度。";
 
 /* No comment provided by engineer. */
@@ -1682,6 +1772,9 @@
 "Subtracts areas from the existing selection." = "從現有選擇中減去區域。";
 
 /* No comment provided by engineer. */
+"Subtracts areas from the mask." = "將區域從遮罩去除。";
+
+/* No comment provided by engineer. */
 "The brightest areas of an image." = "影像中最亮的區域。";
 
 /* No comment provided by engineer. */
@@ -1701,6 +1794,9 @@
 
 /* No comment provided by engineer. */
 "Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of your display" = "打開擴展動態範圍模式，使用您螢幕的最大亮度顯示隱藏的高光細節。";
+
+/* No comment provided by engineer. */
+"Turn the mask inside out." = "將遮罩內翻出來。";
 
 /* No comment provided by engineer. */
 "Turn the selection inside out." = "將選區內翻出來。";

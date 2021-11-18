@@ -17,6 +17,9 @@
 "Adds areas to the existing selection." = "Добавляет области к имеющемуся выделению.";
 
 /* No comment provided by engineer. */
+"Adds areas to the mask." = "Добавляет области в маску.";
+
+/* No comment provided by engineer. */
 "Adjust how bright the blue channel of your original image appears in the black and white." = "Отрегулируйте, насколько ярко синий канал исходного изображения можно видеть в черно/белом.";
 
 /* No comment provided by engineer. */
@@ -113,6 +116,9 @@
 "Adjust how much the vertical size of each brush mark should change according to the amount you tilt your graphics pen." = "Отрегулируйте, насколько вертикальный размер каждого следа кисти должен измениться согласно величине наклона вашего графического пера.";
 
 /* No comment provided by engineer. */
+"Adjust how much to enlarge or shrink the mask." = "Отрегулируйте, насколько расширить или сжать маску.";
+
+/* No comment provided by engineer. */
 "Adjust how much to enlarge or shrink the selection." = "Отрегулируйте, насколько расширить или сжать выбор.";
 
 /* No comment provided by engineer. */
@@ -134,7 +140,16 @@
 "Adjust how much to randomly vary the transparency of each brush mark in a brushstroke." = "Отрегулируйте, насколько случайно менять прозрачность каждого следа кисти в штрихе кисти.";
 
 /* No comment provided by engineer. */
+"Adjust how much to round the mask." = "Отрегулируйте, насколько скруглить маску.";
+
+/* No comment provided by engineer. */
 "Adjust how much to round the selection." = "Отрегулируйте, насколько скруглить выбор.";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the edges of the brush used to add or subtract areas from the mask." = "Отрегулируйте, насколько смягчить края кисти добавления/вычитания областей из маски.";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the edges of the brush used to add or subtract areas from the selection." = "Отрегулируйте, насколько смягчить края кисти добавления/вычитания областей из выбора.";
 
 /* No comment provided by engineer. */
 "Adjust how much to soften the edges of the brush." = "Отрегулируйте, насколько смягчить края кисти.";
@@ -168,6 +183,9 @@
 
 /* No comment provided by engineer. */
 "Adjust how much to soften the edges of the Soften tool brush." = "Отрегулируйте, насколько смягчить края инструмента кисти Смягчения.";
+
+/* No comment provided by engineer. */
+"Adjust how much to soften the mask." = "Отрегулируйте, насколько смягчить маску.";
 
 /* No comment provided by engineer. */
 "Adjust the amount of magenta and green in the highlights." = "Отрегулируйте количество пурпурного и зеленого в светлых местах.";
@@ -314,10 +332,13 @@
 "Adjust the saturation of the selected color." = "Отрегулируйте насыщенность выбранного цвета.";
 
 /* No comment provided by engineer. */
-"Adjust the sensitivity of the edge detection algorithm." = "Отрегулируйте чувствительность алгоритма обнаружения края.";
+"Adjust the size of the brush texture." = "Отрегулируйте размер текстуры кисти.";
 
 /* No comment provided by engineer. */
-"Adjust the size of the brush texture." = "Отрегулируйте размер текстуры кисти.";
+"Adjust the size of the brush used to add or subtract areas from the mask." = "Отрегулируйте размер кисти добавления/вычитания областей из маски.";
+
+/* No comment provided by engineer. */
+"Adjust the size of the brush used to add or subtract areas from your selection." = "Отрегулируйте размер кисти добавления/вычитания областей из выбранного.";
 
 /* No comment provided by engineer. */
 "Adjust the size of the brush." = "Отрегулируйте размер кисти.";
@@ -455,6 +476,9 @@
 "Adjust the transparency of the inner shadow." = "Отрегулируйте прозрачность внутри тени.";
 
 /* No comment provided by engineer. */
+"Adjust the transparency of the Smart Erase tool." = "Отрегулируйте прозрачность инструмента смарт-ластик.";
+
+/* No comment provided by engineer. */
 "Adjust the transparency of the starts and ends of your brushstrokes." = "Отрегулируйте прозрачность начал и концов ваших штрихов кистью.";
 
 /* No comment provided by engineer. */
@@ -509,10 +533,28 @@
 "Apply the brush stroke to your image." = "Применить штрих кисти к изображению.";
 
 /* No comment provided by engineer. */
-"Apply the refinements to your selection." = "Применить уточнения для вашего выбора.";
+"Apply the changes and output them to the selected output." = "Применить изменения и вывести их к выбранному выходу.";
+
+/* No comment provided by engineer. */
+"Apply the refinements to the mask." = "Применить уточнения к маске.";
 
 /* No comment provided by engineer. */
 "Apply the transformations to the object." = "Примените преобразования к объекту.";
+
+/* No comment provided by engineer. */
+"Automatically make a selection of the subject of the currently selected layer." = "Автоматически сделать выбор объекта выбранного слоя.";
+
+/* No comment provided by engineer. */
+"Automatically make a selection of the subject of the image." = "Автоматически сделать выбор объекта изображения.";
+
+/* No comment provided by engineer. */
+"Automatically mask out the background of the layer." = "Автоматически размаскировать фон объекта изображения.";
+
+/* No comment provided by engineer. */
+"Automatically refine the edges of the mask." = "Автоматически уточнить границы маски.";
+
+/* No comment provided by engineer. */
+"Automatically refine the edges of the selection." = "Автоматически уточнить границы выбора.";
 
 /* No comment provided by engineer. */
 "Automatically straighten the image." = "Автовыпрямляет изображение.";
@@ -569,6 +611,12 @@
 "Change the position of your selected object in the layer stack." = "Измените положение выбранного объекта в стеке слоев.";
 
 /* No comment provided by engineer. */
+"Change the selection mode to Add. Painting over the image will add areas to your existing selection." = "Изменить режим выбора на добавление. Рисование по изображению добавит области к имеющемуся выбору.";
+
+/* No comment provided by engineer. */
+"Change the selection mode to Subtract. Painting over the image will subtract areas from your existing selection." = "Изменить режим выбора на вычитание. Рисование по изображению вычтет области из имеющегося выбора.";
+
+/* No comment provided by engineer. */
 "Choose a fill type for the stroke." = "Выбрать тип заливки штриха.";
 
 /* No comment provided by engineer. */
@@ -611,16 +659,31 @@
 "Choose the font family." = "Выбрать семейство шрифта.";
 
 /* No comment provided by engineer. */
+"Choose the overlay used to indicate masked and unmasked areas." = "Выбрать оверлей, используемый для указания участков с маской и без нее.";
+
+/* No comment provided by engineer. */
 "Choose the overlay used to indicate selected and unselected areas." = "Выбрать оверлей, используемый для указания участков с выделением и без него.";
 
 /* No comment provided by engineer. */
+"Choose the tool used to add or subtract areas from the mask." = "Выбрать инструмент для добавления/вычитания областей из маски.";
+
+/* No comment provided by engineer. */
+"Choose the tool used to add or subtract areas from the selection." = "Выбрать инструмент для добавления/вычитания областей из выбора.";
+
+/* No comment provided by engineer. */
 "Choose the typeface." = "Выбрать гарнитуру шрифта.";
+
+/* No comment provided by engineer. */
+"Choose the way you'd like to output the selection when you finish using the Select and Mask tool." = "Выбрать способ вывода выбора, когда вы прекратите работу с инструментом выбора и маски.";
 
 /* No comment provided by engineer. */
 "Choose what to show or hide while creating an image." = "Выбрать, что показать/скрыть при создании изображения.";
 
 /* No comment provided by engineer. */
 "Choose when to turn certain letter combinations, (for example \"fi\") into one character." = "Выбрать, когда заменять определенные сочетания букв (например, \"fi\") единым символом.";
+
+/* No comment provided by engineer. */
+"Clear the contents of the mask." = "Очистить контент маски.";
 
 /* No comment provided by engineer. */
 "Clear the selection." = "Очистить выбранное.";
@@ -884,9 +947,6 @@
 "Increase the font size." = "Увеличить размер шрифта.";
 
 /* No comment provided by engineer. */
-"Intelligently enhance the selection using machine learning." = "Интеллектуально расширить выборку с помощью алгоритмов машинного обучения.";
-
-/* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "Выровнять текст по всей ширине (от центра вправо и влево).";
 
 /* No comment provided by engineer. */
@@ -983,6 +1043,9 @@
 "Remove small imperfections or entire objects from images." = "Удалить маленькие дефекты или объекты целиком с изображений.";
 
 /* No comment provided by engineer. */
+"Remove the background from the currently selected layer." = "Удалить фон из выделенного слоя.";
+
+/* No comment provided by engineer. */
 "Repair the entire selected area in your image." = "Исправить всю выбранную область изображения.";
 
 /* No comment provided by engineer. */
@@ -998,10 +1061,16 @@
 "Reset all your current changes." = "Сбросить все ваши текущие изменения.";
 
 /* No comment provided by engineer. */
-"Reset any refinements and stop refining the selection." = "Сбросить любые уточнения и прекратить уточнение выделения.";
+"Reset any changes made to the selection." = "Сбросить любые изменения в выборе.";
 
 /* No comment provided by engineer. */
-"Reset any refinements to the selection." = "Сбросить любые уточнения выделения.";
+"Reset any refinements and stop using the Refine Mask tool." = "Сбросить все уточнения и прекратить работу с инструментом уточнения маски.";
+
+/* No comment provided by engineer. */
+"Reset any refinements and stop using the Select and Mask tool." = "Сбросить все уточнения и прекратить работу с инструментом выбора и маски.";
+
+/* No comment provided by engineer. */
+"Reset any refinements to the mask." = "Сбросить любые уточнения маски.";
 
 /* No comment provided by engineer. */
 "Reset the colors of the Color wheel" = "Сбросьте цвета в цветовом круге";
@@ -1067,9 +1136,6 @@
 "Select to always sample the same part of your image with each new brush stroke." = "Всегда выбирать образец той же части изображения при каждом новом штрихе кисти.";
 
 /* No comment provided by engineer. */
-"Select to automatically enhance your selection." = "Выберите автоулучшение выбора.";
-
-/* No comment provided by engineer. */
 "Select to automatically smooth brush strokes." = "Выбрать автоматическое сглаживание мазков кисти.";
 
 /* No comment provided by engineer. */
@@ -1101,6 +1167,9 @@
 
 /* No comment provided by engineer. */
 "Select to make the Select Color Range tool take into account every layer in your image." = "Выбрать, чтобы инструмент выборки цветового диапазона учитывал каждый слой изображения.";
+
+/* No comment provided by engineer. */
+"Select to make the Smart Erase tool take into account every object in your image." = "Выберите, чтобы инструмент «Смарт-ластик» учитывал каждый объект в изображении.";
 
 /* No comment provided by engineer. */
 "Select to naturally smooth the selection outline." = "Выбрать естественное сглаживание при выборке контура.";
@@ -1202,6 +1271,9 @@
 "Set how much the vertical size of each brush mark should change according to the amount you tilt your graphics pen." = "Задайте, насколько вертикальный размер каждого следа кисти должен измениться согласно величине наклона вашего графического пера.";
 
 /* No comment provided by engineer. */
+"Set how much to enlarge or shrink the mask." = "Установите, насколько расширить или сжать маску.";
+
+/* No comment provided by engineer. */
 "Set how much to enlarge or shrink the selection." = "Установите, насколько расширить или сжать выбор.";
 
 /* No comment provided by engineer. */
@@ -1229,7 +1301,16 @@
 "Set how much to round the corners of the shape." = "Задайте степень закругления углов фигуры.";
 
 /* No comment provided by engineer. */
+"Set how much to round the mask." = "Установите, насколько скруглить маску.";
+
+/* No comment provided by engineer. */
 "Set how much to round the selection." = "Установите, насколько скруглить выбор.";
+
+/* No comment provided by engineer. */
+"Set how much to soften the edges of the brush used to add or subtract areas from the mask." = "Задайте, насколько смягчить края кисти добавления/вычитания областей из маски.";
+
+/* No comment provided by engineer. */
+"Set how much to soften the edges of the brush used to add or subtract areas from the selection." = "Задайте, насколько смягчить края кисти добавления/вычитания областей из выбора.";
 
 /* No comment provided by engineer. */
 "Set how much to soften the edges of the brush." = "Задайте, насколько смягчить края кисти.";
@@ -1263,6 +1344,9 @@
 
 /* No comment provided by engineer. */
 "Set how much to soften the edges of the Soften tool brush." = "Задайте, насколько смягчить края инструмента кисти Смягчения.";
+
+/* No comment provided by engineer. */
+"Set how much to soften the mask." = "Задайте, насколько смягчить маску.";
 
 /* No comment provided by engineer. */
 "Set the amount of grain particles." = "Задайте количество частиц зерна.";
@@ -1442,10 +1526,13 @@
 "Set the saturation of the selected color." = "Задайте насыщенность выбранного цвета.";
 
 /* No comment provided by engineer. */
-"Set the sensitivity of the edge detection algorithm." = "Задайте чувствительность алгоритма обнаружения края.";
+"Set the size of the brush texture." = "Задайте размер текстуры кисти.";
 
 /* No comment provided by engineer. */
-"Set the size of the brush texture." = "Задайте размер текстуры кисти.";
+"Set the size of the brush used to add or subtract areas from the mask." = "Задайте размер кисти добавления/вычитания областей из маски.";
+
+/* No comment provided by engineer. */
+"Set the size of the brush used to add or subtract areas from your selection." = "Задайте размер кисти добавления/вычитания областей из выбранного.";
 
 /* No comment provided by engineer. */
 "Set the size of the brush." = "Задать размер кисти.";
@@ -1571,6 +1658,9 @@
 "Set the transparency of the inner shadow." = "Задаете прозрачность внутри тени.";
 
 /* No comment provided by engineer. */
+"Set the transparency of the Smart Erase tool." = "Задайте прозрачность инструмента смарт-ластик.";
+
+/* No comment provided by engineer. */
 "Set the transparency of the starts and ends of your brushstrokes." = "Задать прозрачность начал и окончаний штрихов кисти.";
 
 /* No comment provided by engineer. */
@@ -1682,6 +1772,9 @@
 "Subtracts areas from the existing selection." = "Вычитает области к имеющемуся выделению.";
 
 /* No comment provided by engineer. */
+"Subtracts areas from the mask." = "Вычесть области из маски.";
+
+/* No comment provided by engineer. */
 "The brightest areas of an image." = "Самые светлые области изображения.";
 
 /* No comment provided by engineer. */
@@ -1701,6 +1794,9 @@
 
 /* No comment provided by engineer. */
 "Turn on Extended Dynamic Range Mode to display hidden highlight detail using the maximum screen brightness of your display" = "Включите режим Extended Dynamic Range, чтобы показать скрытые выделенные детали с использованием максимальной яркости вашего экрана";
+
+/* No comment provided by engineer. */
+"Turn the mask inside out." = "Вывернуть маску наизнанку.";
 
 /* No comment provided by engineer. */
 "Turn the selection inside out." = "Вывернуть выделение наизнанку.";
