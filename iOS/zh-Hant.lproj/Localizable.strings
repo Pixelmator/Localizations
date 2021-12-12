@@ -25,8 +25,8 @@
 /* No comment provided by engineer. */
 "%i Images Selected" = "%i 張影像已選定";
 
-/* width x height */
-"%i x %i" = "%1$i x %2$i";
+/* width × height */
+"%i × %i" = "%1$i × %2$i";
 
 /* Image bits per component */
 "%i-bits" = "%i 位元";
@@ -46,9 +46,6 @@
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16位/通道";
 
-/* Color Balance */
-"3-Way Color" = "三路顏色";
-
 /* No comment provided by engineer. */
 "3D LUT" = "3D LUT";
 
@@ -59,10 +56,16 @@
 "\"%@\" Preset" = "「%@」預設";
 
 /* No comment provided by engineer. */
+"ACCENT COLOR" = "強調色";
+
+/* No comment provided by engineer. */
 "Accumulation" = "累積";
 
 /* No comment provided by engineer. */
 "Actual Size" = "實際大小";
+
+/* No comment provided by engineer. */
+"Add" = "添加";
 
 /* Edit Menu */
 "Add Group" = "新增群組";
@@ -83,6 +86,9 @@
 "Adjust Colors" = "調整顏色";
 
 /* No comment provided by engineer. */
+"Adjust Intensity" = "調整強度";
+
+/* No comment provided by engineer. */
 "Adjustment" = "調整";
 
 /* No comment provided by engineer. */
@@ -90,6 +96,9 @@
 
 /* No comment provided by engineer. */
 "Affine Tile" = "仿射並排";
+
+/* No comment provided by engineer. */
+"Albums" = "相簿";
 
 /* No comment provided by engineer. */
 "All Albums" = "所有相簿";
@@ -107,7 +116,10 @@
 "All the workflows in this group will be reset to their default settings." = "此群組所有的工作流程都將回復為預設值。";
 
 /* No comment provided by engineer. */
-"Amount" = "數量";
+"All your albums, including those in folders, will be displayed in a single alphabetical list." = "所有相簿（包含位於資料夾內的相簿）都將顯示於一個以字母順序排列的列表中。";
+
+/* No comment provided by engineer. */
+"Allow Access to Photos" = "允許照片存取權";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "發生未知的錯誤。";
@@ -120,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Angle Scatter" = "角度散射";
+
+/* No comment provided by engineer. */
+"Apple Pencil" = "Apple Pencil";
 
 /* No comment provided by engineer. */
 "Apply" = "套用";
@@ -138,6 +153,9 @@
 "Arrow from Point" = "從點發出的箭頭";
 
 /* No comment provided by engineer. */
+"Aspect" = "寬高";
+
+/* No comment provided by engineer. */
 "Aspect Ratio" = "顯示比例";
 
 /* No comment provided by engineer. */
@@ -147,13 +165,19 @@
 "Auto %@" = "自動 %@";
 
 /* No comment provided by engineer. */
-"Auto Color" = "自動顏色";
+"Auto Adjust" = "自動調整";
 
 /* No comment provided by engineer. */
-"Auto Contrast" = "自動對比度";
+"Auto Adjusting…" = "正在自動調整…";
 
 /* No comment provided by engineer. */
 "Auto Enhance" = "自動增強";
+
+/* No comment provided by engineer. */
+"Auto-Hide" = "自動隱藏";
+
+/* No comment provided by engineer. */
+"Automatically remove camera noise and image compression artifacts from photos." = "自動移除照片中的相機雜訊和影像壓縮失真。";
 
 /* No comment provided by engineer. */
 "Background Color" = "背景顏色";
@@ -192,6 +216,9 @@
 "Black Point" = "黑點";
 
 /* No comment provided by engineer. */
+"Blacks" = "黑色";
+
+/* No comment provided by engineer. */
 "Blending mode" = "混合模式";
 
 /* No comment provided by engineer. */
@@ -215,14 +242,17 @@
 /* No comment provided by engineer. */
 "Bottom" = "底";
 
-/* No comment provided by engineer. */
-"Box" = "框";
-
 /* Color adjustments */
 "Brightness" = "亮度";
 
 /* Edit Menu */
 "Bring to Front" = "移到最前";
+
+/* No comment provided by engineer. */
+"Browse and edit photos much faster with the all-new photo browser." = "使用全新的照片瀏覽器以更快的速度瀏覽並編輯照片。";
+
+/* No comment provided by engineer. */
+"BROWSER" = "瀏覽器";
 
 /* No comment provided by engineer. */
 "Brush Scatter" = "畫筆散佈";
@@ -237,7 +267,7 @@
 "Bump" = "凹凸";
 
 /* File size */
-"Calculating size..." = "正在計算大小...";
+"Calculating size…" = "正在計算大小…";
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
@@ -267,9 +297,6 @@
 "Check your internet connection, then try again." = "請檢查您的網路連線，然後再試一次。";
 
 /* No comment provided by engineer. */
-"Checkerboard" = "棋盤式";
-
-/* No comment provided by engineer. */
 "Choose Location" = "選擇位置";
 
 /* No comment provided by engineer. */
@@ -282,26 +309,26 @@
 "Chromaticity Y" = "色度 Y";
 
 /* No comment provided by engineer. */
-"Circle Splash" = "圓圈飛濺";
-
-/* No comment provided by engineer. */
 "Circle Tilt-Shift Blur" = "圓形傾斜-移位模糊";
 
 /* No comment provided by engineer. */
-"Circular Wrap" = "圓包";
+"Clarity" = "清晰度";
 
 /* No comment provided by engineer. */
-"Clarity" = "清晰度";
+"Clarity Highlights" = "清晰度突出";
+
+/* No comment provided by engineer. */
+"Clarity Midtones" = "清晰度中間調";
+
+/* No comment provided by engineer. */
+"Clarity Shadows" = "清晰度陰影";
 
 /* Retouch Tools
    Tool */
 "Clone" = "克隆";
 
 /* No comment provided by engineer. */
-"Closing..." = "正在關閉...";
-
-/* No comment provided by engineer. */
-"Clouds" = "雲";
+"Closing…" = "正在關閉…";
 
 /* Units */
 "cm" = "公分";
@@ -379,6 +406,9 @@
 /* No comment provided by engineer. */
 "Create Workflow" = "建立工作流程";
 
+/* No comment provided by engineer. */
+"Creates a Pixelmator Photo album in your Photos library and automatically adds each photo edited with the app to the album." = "在照片圖庫建立 Pixelmator Photo 相簿，並自動將使用 app 編輯的圖像加至該相簿。";
+
 /* Tool */
 "Crop" = "裁切";
 
@@ -391,6 +421,15 @@
 /* Crop preset
    Tool */
 "Custom" = "自訂";
+
+/* No comment provided by engineer. */
+"Custom LUT" = "自訂 LUT";
+
+/* No comment provided by engineer. */
+"Custom Size" = "自定大小";
+
+/* No comment provided by engineer. */
+"Customize Adjustments" = "自訂調整內容";
 
 /* No comment provided by engineer. */
 "Customize the action to be activated by the double-tap gesture of Apple Pencil." = "自訂 Apple Pencil 點擊兩次時要啟動的功能。";
@@ -407,6 +446,9 @@
 /* Color adjustments */
 "Cyan / Red" = "青色/紅色";
 
+/* No comment provided by engineer. */
+"Dark Gray" = "暗灰色";
+
 /* Retouch Tools
    Tool */
 "Darken" = "變暗";
@@ -419,6 +461,9 @@
 
 /* No comment provided by engineer. */
 "Default" = "預設值";
+
+/* No comment provided by engineer. */
+"Dehaze" = "除霾";
 
 /* Edit Menu */
 "Delete" = "刪除";
@@ -435,6 +480,15 @@
 /* No comment provided by engineer. */
 "Delete Linked File" = "刪除連結檔案";
 
+/* Edit Menu */
+"Delete Preset" = "刪除預設";
+
+/* Tool */
+"Denoise" = "去除雜訊";
+
+/* No comment provided by engineer. */
+"Denoising…" = "正在去除雜訊…";
+
 /* No comment provided by engineer. */
 "Depth Mask" = "深度蒙版";
 
@@ -444,6 +498,21 @@
 
 /* No comment provided by engineer. */
 "Deselect All" = "取消全選";
+
+/* No comment provided by engineer. */
+"Desktop-Class Adjustments" = "桌機等級調整";
+
+/* No comment provided by engineer. */
+"Destination Atop" = "舊圖僅保留重疊部分";
+
+/* No comment provided by engineer. */
+"Destination In" = "僅保留重疊部分，其餘透明";
+
+/* No comment provided by engineer. */
+"Destination Out" = "僅保留舊圖未重疊部分，其餘透明";
+
+/* No comment provided by engineer. */
+"Destination Over" = "新圖於舊圖之下";
 
 /* No comment provided by engineer. */
 "Detail" = "詳細資料";
@@ -458,10 +527,13 @@
 "Directed" = "跟隨方向";
 
 /* No comment provided by engineer. */
-"Disable %@" = "停用 %@";
+"Disable" = "關閉";
 
 /* No comment provided by engineer. */
-"Disc" = "磁碟";
+"Disable %@" = "停用 %@";
+
+/* Color Balance */
+"Disable On-Image Curves" = "關閉圖像上曲線";
 
 /* No comment provided by engineer. */
 "Discard" = "放棄";
@@ -474,9 +546,6 @@
 
 /* No comment provided by engineer. */
 "Dismiss" = "關閉";
-
-/* No comment provided by engineer. */
-"Display Style" = "顯示樣式";
 
 /* No comment provided by engineer. */
 "Distance" = "距離";
@@ -509,7 +578,10 @@
 "Downloading Image %i of %i" = "正在下載影像 - %1$i/%2$i";
 
 /* No comment provided by engineer. */
-"Downloading..." = "正在下載...";
+"Downloading…" = "正在下載…";
+
+/* No comment provided by engineer. */
+"Drag areas of the photo to adjust the relevant points in tone curve." = "拖曳照片區域以調整色調曲線上相關的點。";
 
 /* No comment provided by engineer. */
 "Drag to pick a color from your image." = "拖曳以從圖像中選取顏色。";
@@ -541,12 +613,6 @@
 /* No comment provided by engineer. */
 "Drag to set the white point on the red, green and blue levels." = "拖曳以在紅色、綠色和藍色級別設定白色點。";
 
-/* No comment provided by engineer. */
-"Drag up or down to adjust the relevant points on the tone curve." = "上下拖曳以調整色調曲線上相關的點。";
-
-/* No comment provided by engineer. */
-"Droste" = "德羅斯特效應";
-
 /* Edit Menu */
 "Duplicate" = "複製";
 
@@ -557,7 +623,7 @@
 "Duplicate Layer" = "重複圖層";
 
 /* No comment provided by engineer. */
-"Duplicating..." = "複製中...";
+"Duplicating…" = "正在複製…";
 
 /* No comment provided by engineer. */
 "Edit" = "編輯";
@@ -575,6 +641,9 @@
 "Edit 1 Photo" = "編輯 1 張照片";
 
 /* No comment provided by engineer. */
+"Edit Details" = "Edit Details";
+
+/* No comment provided by engineer. */
 "Edit in Pixelmator Photo" = "在 Pixelmator Photo 中編輯";
 
 /* No comment provided by engineer. */
@@ -587,6 +656,9 @@
 "Edit RAW" = "編輯 RAW";
 
 /* No comment provided by engineer. */
+"Edited" = "已編輯";
+
+/* No comment provided by engineer. */
 "Editing Image" = "正在編輯影像";
 
 /* Processing action
@@ -594,13 +666,13 @@
 "Editing Image %i of %i" = "正在編輯影像 %2$i 之 %1$i";
 
 /* No comment provided by engineer. */
-"Editing..." = "編輯中...";
+"Editing Image…" = "正在編輯影像…";
+
+/* No comment provided by engineer. */
+"Editing…" = "正在編輯…";
 
 /* Tool */
 "Effects" = "效果";
-
-/* No comment provided by engineer. */
-"Eightfold" = "八倍";
 
 /* Tool */
 "Ellipse" = "橢圓";
@@ -612,10 +684,22 @@
 "Elliptical Speech Bubble" = "橢圓對話泡泡";
 
 /* No comment provided by engineer. */
+"Empty" = "空";
+
+/* No comment provided by engineer. */
+"Empty Album" = "空相簿";
+
+/* No comment provided by engineer. */
+"Enable" = "啟用";
+
+/* No comment provided by engineer. */
 "Enable %@" = "啟用 %@";
 
 /* No comment provided by engineer. */
 "Enable EDR" = "啟用 EDR";
+
+/* Color Balance */
+"Enable On-Image Curves" = "啟用圖像上曲線";
 
 /* No comment provided by engineer. */
 "Enable Sharpening" = "啟用銳化";
@@ -624,7 +708,13 @@
 "End Point" = "結束點";
 
 /* No comment provided by engineer. */
+"Enhance" = "增強";
+
+/* No comment provided by engineer. */
 "Enter a new name for this preset:" = "輸入此預設的新名稱:";
+
+/* No comment provided by engineer. */
+"Enter Fullscreen" = "進入全螢幕";
 
 /* Tool */
 "Erase" = "清除";
@@ -636,10 +726,16 @@
 "Exclusion" = "排除";
 
 /* No comment provided by engineer. */
+"Exclusive OR" = "邏輯互斥或";
+
+/* No comment provided by engineer. */
 "Export" = "匯出";
 
 /* No comment provided by engineer. */
 "Exposure" = "曝光";
+
+/* No comment provided by engineer. */
+"Extended Values" = "延伸值";
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
@@ -692,21 +788,6 @@
 /* No comment provided by engineer. */
 "Flip Vertically" = "垂直翻轉";
 
-/* No comment provided by engineer. */
-"Focus" = "焦點";
-
-/* No comment provided by engineer. */
-"Foreground Color" = "前景色";
-
-/* No comment provided by engineer. */
-"Fourfold" = "四倍";
-
-/* No comment provided by engineer. */
-"Fourfold Rotated" = "四倍旋轉";
-
-/* No comment provided by engineer. */
-"Fourfold Translated" = "四倍轉換";
-
 /* Tool */
 "Free" = "可用空間";
 
@@ -725,20 +806,14 @@
 /* No comment provided by engineer. */
 "Fullscreen" = "全螢幕";
 
-/* No comment provided by engineer. */
-"Gaussian" = "高斯";
-
 /* Effects category name */
 "Generator" = "產生器";
-
-/* No comment provided by engineer. */
-"Glass Lozenge" = "玻璃菱形";
 
 /* No comment provided by engineer. */
 "Glazed" = "上釉";
 
 /* No comment provided by engineer. */
-"Glide Reflected" = "滑動反射";
+"Go to Adjustment" = "前往調整";
 
 /* No comment provided by engineer. */
 "Gradient" = "漸層";
@@ -787,13 +862,16 @@
 "Halftone" = "中間色";
 
 /* No comment provided by engineer. */
-"Halo" = "光輪效果";
-
-/* No comment provided by engineer. */
 "Hard Light" = "實光";
 
 /* No comment provided by engineer. */
 "Hard Mix" = "實色疊印混合";
+
+/* No comment provided by engineer. */
+"Height:" = "高度:";
+
+/* No comment provided by engineer. */
+"Hidden" = "隱藏";
 
 /* No comment provided by engineer. */
 "Hidden Layer" = "隱藏圖層";
@@ -801,20 +879,17 @@
 /* Edit Menu */
 "Hide" = "隱藏";
 
+/* No comment provided by engineer. */
+"Hide Histogram" = "隱藏直方圖";
+
 /* Layer */
 "Hide Layer" = "隱藏圖層";
-
-/* No comment provided by engineer. */
-"Hide Presets" = "隱藏預設";
 
 /* Color Balance */
 "Highlights" = "突出";
 
 /* No comment provided by engineer. */
 "Histogram" = "長條圖";
-
-/* No comment provided by engineer. */
-"Hole" = "孔";
 
 /* Perspective transform */
 "Horizontal Perspective" = "水平透視";
@@ -832,13 +907,22 @@
 "iCloud is turned off for Pixelmator Photo. Turn it on in Settings to save linked files in iCloud." = "iCloud 已為 Pixelmator Photo 關閉。在設置中開啟以將連結檔案儲存到 iCloud。";
 
 /* No comment provided by engineer. */
+"iCloud Photos" = "iCloud 照片";
+
+/* No comment provided by engineer. */
 "iCloud Unavailable" = "iCloud 不可用";
 
 /* Untitled document name received via Handoff */
 "Image" = "影像";
 
+/* Image save error */
+"Image could not be saved" = "未能儲存影像";
+
 /* No comment provided by engineer. */
 "Image Fill" = "影像填充";
+
+/* No comment provided by engineer. */
+"IMAGE QUALITY" = "影像畫質";
 
 /* Tool */
 "Image Size" = "影像大小";
@@ -871,6 +955,12 @@
 /* Units */
 "Inches" = "英吋";
 
+/* No comment provided by engineer. */
+"Increase Resolution" = "提升解析度";
+
+/* No comment provided by engineer. */
+"Increasing Resolution…" = "正在提升解析度…";
+
 /* Edit Menu */
 "Info" = "資訊";
 
@@ -888,6 +978,9 @@
 
 /* No comment provided by engineer. */
 "Intensity" = "強度";
+
+/* No comment provided by engineer. */
+"Intensity (%@)" = "強度（%@）";
 
 /* No comment provided by engineer. */
 "Invert" = "反相";
@@ -932,10 +1025,10 @@
 "Light Destination" = "光照終點";
 
 /* No comment provided by engineer. */
-"Light Source" = "光源";
+"Light Gray" = "亮灰色";
 
 /* No comment provided by engineer. */
-"Light Tunnel" = "光隧道";
+"Light Source" = "光源";
 
 /* Retouch Tools
    Tool */
@@ -981,7 +1074,7 @@
 "Load" = "載入";
 
 /* Document loading */
-"Loading..." = "載入中⋯";
+"Loading…" = "正在載入…";
 
 /* Edit Menu
    Layer */
@@ -1027,13 +1120,22 @@
 "Master Color Wheel" = "主色輪";
 
 /* No comment provided by engineer. */
+"Match Colors" = "匹配顏色";
+
+/* No comment provided by engineer. */
+"Matching Colors…" = "正在匹配顏色…";
+
+/* No comment provided by engineer. */
 "Maximum" = "最大值";
 
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "最大壓力大小";
 
 /* No comment provided by engineer. */
-"Merge Brush Marks" = "合併畫筆標記";
+"Medium Gray (Default)" = "中灰（預設）";
+
+/* No comment provided by engineer. */
+"Merge brush marks" = "合併畫筆標記";
 
 /* Color Balance */
 "Midtones" = "中間調";
@@ -1045,19 +1147,16 @@
 "Minimum" = "最小值";
 
 /* No comment provided by engineer. */
-"Minimum Opacity" = "最小不透明度";
+"ML Crop" = "ML 裁切";
 
 /* No comment provided by engineer. */
-"ML Crop" = "ML 裁切";
+"ML Denoise" = "ML 降噪";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML Enhance";
 
 /* No comment provided by engineer. */
 "ML Match Colors" = "ML 匹配顏色";
-
-/* Tool */
-"ML Super Resolution" = "ML 超解析度";
 
 /* No comment provided by engineer. */
 "ML Tool" = "ML 工具";
@@ -1074,11 +1173,11 @@
 /* No comment provided by engineer. */
 "More Settings" = "更多設定";
 
-/* Edit Menu */
-"More..." = "更多...";
-
 /* No comment provided by engineer. */
-"Motion" = "動態";
+"More Workflows…" = "更多工作流程…";
+
+/* Edit Menu */
+"More…" = "更多…";
 
 /* No comment provided by engineer. */
 "Move" = "移動";
@@ -1088,6 +1187,9 @@
 
 /* Edit Menu */
 "Move Right" = "右移";
+
+/* Edit Menu */
+"Move…" = "Move…";
 
 /* No comment provided by engineer. */
 "Multiply" = "疊加";
@@ -1108,6 +1210,9 @@
 "next" = "下一個";
 
 /* No comment provided by engineer. */
+"Next Image" = "下一張影像";
+
+/* No comment provided by engineer. */
 "Next Preset" = "下一個預設組";
 
 /* Document info */
@@ -1121,6 +1226,9 @@
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "雜點消除";
+
+/* No comment provided by engineer. */
+"Nondestructively preserve edits in a linked Pixelmator Photo file. " = "非破壞性的將編輯內容保存至連接的 Pixelmator Photo 檔。 ";
 
 /* Tool */
 "None" = "無";
@@ -1136,9 +1244,6 @@
 
 /* No comment provided by engineer. */
 "Only Draw with Apple Pencil is Turned On" = "只有 Apple Pencil 啟用時才繪製";
-
-/* No comment provided by engineer. */
-"Op" = "Op";
 
 /* No comment provided by engineer. */
 "Opacity" = "不透明";
@@ -1170,6 +1275,9 @@
 /* No comment provided by engineer. */
 "ORIGINAL PERSPECTIVE" = "原始視角";
 
+/* No comment provided by engineer. */
+"Original Size" = "原來大小";
+
 /* Effects category name */
 "Other" = "其他";
 
@@ -1181,6 +1289,9 @@
 
 /* No comment provided by engineer. */
 "Overwrite" = "覆蓋";
+
+/* No comment provided by engineer. */
+"Overwrite Originals" = "覆寫原件";
 
 /* Tool */
 "Paint" = "繪製";
@@ -1199,9 +1310,6 @@
 
 /* No comment provided by engineer. */
 "Path" = "路徑";
-
-/* No comment provided by engineer. */
-"Pattern" = "模式";
 
 /* No comment provided by engineer. */
 "Pattern Fill" = "圖案填充";
@@ -1225,6 +1333,12 @@
 "Photos" = "照片";
 
 /* No comment provided by engineer. */
+"Pick Grey Point" = "選擇灰色點";
+
+/* No comment provided by engineer. */
+"Pin in Menu" = "在選單中置頂";
+
+/* No comment provided by engineer. */
 "Pin Light" = "小光源";
 
 /* Tool */
@@ -1234,10 +1348,19 @@
 "Pixel Tool" = "圖元工具";
 
 /* No comment provided by engineer. */
+"Pixelmator Photo 2.0 brings the full, desktop-class photo editing experience to iPhone." = "Pixelmator Photo 2.0 為您的 iPhone 帶來完整的桌機級照片編輯體驗。";
+
+/* No comment provided by engineer. */
 "Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "Pixelmator Photo 現在可以在 iCloud 中儲存非破壞性編輯，以在裝置之間同步它們。您是否要開始將 iCloud 用於連結檔案並將所有現有檔案移動到那裡？";
 
 /* No comment provided by engineer. */
+"Pixelmator Photo for iPhone" = "iPhone 版 Pixelmator Photo";
+
+/* No comment provided by engineer. */
 "Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo 被拒絕訪問照片。請在「設定」中允許訪問。";
+
+/* No comment provided by engineer. */
+"Pixelmator Photo Help" = "Pixelmator Photo 說明";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photo 讓您能夠在照片圖庫中或在 iPad 上編輯影像，使用任一工作流程自動儲存非破壞性更改。要在瀏覽照片圖庫或 iPad 上的影像檔之間切換，請點按工具列中的「照片」或「檔案」。";
@@ -1252,13 +1375,19 @@
 "Polygon" = "多邊形";
 
 /* No comment provided by engineer. */
-"Posterize" = "海報化";
+"Powered by ML" = "由 ML 驅動";
+
+/* No comment provided by engineer. */
+"Preserve Edits" = "保留編輯";
 
 /* No comment provided by engineer. */
 "Preserve transparency" = "保留透明度";
 
 /* No comment provided by engineer. */
 "Preset Library" = "預設組資源庫";
+
+/* No comment provided by engineer. */
+"Presets" = "預設組";
 
 /* No comment provided by engineer. */
 "Presets Imported" = "匯入預設";
@@ -1270,6 +1399,9 @@
 "Previous" = "上一張";
 
 /* No comment provided by engineer. */
+"Previous Image" = "上一張影像";
+
+/* No comment provided by engineer. */
 "Previous Preset" = "上一個預設組";
 
 /* No comment provided by engineer. */
@@ -1279,7 +1411,7 @@
 "Processing Image %i of %i" = "正在處理影像 - %1$i/%2$i";
 
 /* No comment provided by engineer. */
-"Processing..." = "正在處理...";
+"Processing…" = "正在處理…";
 
 /* Raw image type identifier */
 "ProRAW" = "ProRAW";
@@ -1299,7 +1431,8 @@
 /* No comment provided by engineer. */
 "Quick Edits" = "快速編輯";
 
-/* Recents group abbreviation */
+/* Recents group abbreviation
+   Short for RAW Image format */
 "R" = "R";
 
 /* No comment provided by engineer. */
@@ -1348,13 +1481,19 @@
 "Redefine" = "重新定義";
 
 /* No comment provided by engineer. */
+"Redesigned Photo Browser" = "重新設計的照片瀏覽器";
+
+/* No comment provided by engineer. */
 "Redo" = "重作";
 
 /* No comment provided by engineer. */
 "Redo %@" = "重作 %@";
 
 /* No comment provided by engineer. */
-"Reloading..." = "正在重新載入...";
+"Reduce Noise" = "Reduce Noise";
+
+/* No comment provided by engineer. */
+"Reloading…" = "正在重新載入…";
 
 /* No comment provided by engineer. */
 "Remove" = "移除";
@@ -1379,7 +1518,10 @@
 "Repair Tool" = "修正工具";
 
 /* No comment provided by engineer. */
-"Repairing..." = "正在修復...";
+"Repair with Pencil" = "使用 Pencil 修復";
+
+/* No comment provided by engineer. */
+"Repairing…" = "正在修復⋯";
 
 /* No comment provided by engineer. */
 "Replace Color" = "替換顏色";
@@ -1394,6 +1536,9 @@
 "Reset Adjustments" = "重設調整";
 
 /* No comment provided by engineer. */
+"Reset Auto Adjust" = "重設自動調整";
+
+/* No comment provided by engineer. */
 "Reset Auto Enhance" = "重設自動增強";
 
 /* No comment provided by engineer. */
@@ -1402,29 +1547,41 @@
 /* No comment provided by engineer. */
 "Reset Crop" = "重設裁切";
 
+/* No comment provided by engineer. */
+"Reset Denoise" = "重設去除雜訊功能";
+
+/* No comment provided by engineer. */
+"Reset Denoise?" = "是否重設去除雜訊功能？";
+
+/* No comment provided by engineer. */
+"Reset Enhance" = "重設增強功能";
+
 /* Perspective transform */
 "Reset Horizontal Perspective" = "重設水平透視";
+
+/* No comment provided by engineer. */
+"Reset Library" = "重設資源庫";
 
 /* No comment provided by engineer. */
 "Reset Library?" = "重設資源庫？";
 
 /* No comment provided by engineer. */
+"Reset Match Colors" = "重設匹配顏色功能";
+
+/* No comment provided by engineer. */
 "Reset ML Crop" = "重設 ML 裁切";
-
-/* No comment provided by engineer. */
-"Reset ML Enhance" = "重設 ML 增強功能";
-
-/* No comment provided by engineer. */
-"Reset ML Match Colors" = "重設 ML 匹配顏色";
-
-/* No comment provided by engineer. */
-"Reset ML Super Resolution?" = "是否重設 ML 超解析度？";
 
 /* Perspective transform */
 "Reset Perspective" = "重設透視";
 
 /* No comment provided by engineer. */
 "Reset Repair tool edits?" = "是否重置修復工具編輯內容？";
+
+/* No comment provided by engineer. */
+"Reset Super Resolution" = "重設超解析度";
+
+/* No comment provided by engineer. */
+"Reset Super Resolution?" = "是否重設超解析度？";
 
 /* No comment provided by engineer. */
 "Reset the resolution of this photo to the original." = "將照片解析度重置回原始值。";
@@ -1442,7 +1599,10 @@
 "Restore Layer" = "還原圖層";
 
 /* No comment provided by engineer. */
-"Restoring the original resolution of this photo will also reset edits made with the Repair tool." = "回復照片原始解析度也會重置修復工具的編輯內容。";
+"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution" = "回復照片原始內容也會重置修復工具和超解析度的編輯內容";
+
+/* No comment provided by engineer. */
+"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "回復照片原始解析度也會重置修復工具和去除雜訊的編輯內容。";
 
 /* No comment provided by engineer. */
 "Revert" = "還原";
@@ -1491,7 +1651,16 @@
 "Save a Copy" = "儲存備份";
 
 /* No comment provided by engineer. */
+"Save Changes" = "儲存更改內容";
+
+/* No comment provided by engineer. */
+"Save changes to the original files you open, overwriting them." = "將更改內容儲存至所開啟的原始檔案中，覆寫原件內容。";
+
+/* No comment provided by engineer. */
 "Save Copy to Photos" = "將副本儲存到「照片」";
+
+/* No comment provided by engineer. */
+"Save linked files in iCloud to sync edits between your devices." = "將連結的檔案儲存至 iCloud 即可跨裝置同步編輯。";
 
 /* No comment provided by engineer. */
 "Save the image to your Photos library." = "將影像儲存到您的照片圖庫。";
@@ -1501,6 +1670,9 @@
 
 /* No comment provided by engineer. */
 "Save to Photos" = "儲存到「照片」";
+
+/* No comment provided by engineer. */
+"Saving…" = "正在儲存…";
 
 /* No comment provided by engineer. */
 "Scale" = "縮放";
@@ -1525,6 +1697,9 @@
 
 /* No comment provided by engineer. */
 "Screen" = "螢幕";
+
+/* No comment provided by engineer. */
+"See All" = "查看全部";
 
 /* No comment provided by engineer. */
 "Select" = "選取";
@@ -1572,7 +1747,13 @@
 "Sepia" = "深褐色";
 
 /* No comment provided by engineer. */
+"Set the image quality to use when automatically saving changes or sharing images to other apps." = "設定自動儲存變更或與其他應用程式分享照片時要使用的照片品質。";
+
+/* No comment provided by engineer. */
 "Settings" = "設定";
+
+/* No comment provided by engineer. */
+"SETTINGS" = "設定";
 
 /* No comment provided by engineer. */
 "Shadow" = "陰影";
@@ -1592,6 +1773,9 @@
 /* Edit Menu */
 "Share" = "共享";
 
+/* Edit Menu */
+"Share Preset" = "分享預設";
+
 /* No comment provided by engineer. */
 "Shared Albums" = "分享的相簿";
 
@@ -1601,28 +1785,46 @@
 "Sharpen" = "銳化";
 
 /* No comment provided by engineer. */
-"Sharpen Luminance" = "銳化亮度";
-
-/* No comment provided by engineer. */
 "Sharpness" = "清晰度";
 
 /* No comment provided by engineer. */
 "Show" = "顯示";
 
+/* Color Balance */
+"Show 3-Way Colors" = "顯示三路顏色";
+
+/* No comment provided by engineer. */
+"Show Adjustments" = "顯示調整";
+
+/* No comment provided by engineer. */
+"Show All Adjustments" = "顯示所有調整";
+
 /* No comment provided by engineer. */
 "Show All Photos" = "顯示全部照片";
+
+/* No comment provided by engineer. */
+"Show Color Wheels" = "顯示色輪";
 
 /* No comment provided by engineer. */
 "Show Comparison Slider" = "顯示比較滑桿";
 
 /* No comment provided by engineer. */
+"Show Default Adjustments" = "顯示預設調整";
+
+/* No comment provided by engineer. */
 "Show Files" = "顯示檔案";
+
+/* No comment provided by engineer. */
+"Show Filmstrip" = "顯示幻燈片";
 
 /* No comment provided by engineer. */
 "Show Info" = "顯示簡介";
 
 /* Layer */
 "Show Layer" = "顯示圖層";
+
+/* Color Balance */
+"Show Master Colors" = "顯示主色彩";
 
 /* No comment provided by engineer. */
 "Show Original" = "顯示原項目";
@@ -1637,13 +1839,10 @@
 "Show Recents" = "顯示近期照片";
 
 /* No comment provided by engineer. */
+"Show Sliders" = "顯示滑桿";
+
+/* No comment provided by engineer. */
 "Simple" = "簡易";
-
-/* No comment provided by engineer. */
-"Sixfold Reflected" = "六倍反射";
-
-/* No comment provided by engineer. */
-"Sixfold Rotated" = "六倍旋轉";
 
 /* No comment provided by engineer. */
 "Size" = "大小";
@@ -1661,10 +1860,7 @@
 "Skew" = "斜";
 
 /* No comment provided by engineer. */
-"Sliders" = "滑桿";
-
-/* No comment provided by engineer. */
-"Smooth Textures" = "平滑紋理";
+"Smooth textures" = "平滑紋理";
 
 /* Retouch Tools
    Tool */
@@ -1699,16 +1895,25 @@
 "Source Out" = "源在外部";
 
 /* No comment provided by engineer. */
+"Split Comparison" = "分割比較";
+
+/* No comment provided by engineer. */
 "Spot Light" = "探照燈";
 
 /* Tool */
 "Spray" = "噴刷";
+
+/* No comment provided by engineer. */
+"Square" = "正方形";
 
 /* Tool */
 "Star" = "星";
 
 /* No comment provided by engineer. */
 "Start Point" = "起點";
+
+/* No comment provided by engineer. */
+"Status Bar" = "狀態列";
 
 /* No comment provided by engineer. */
 "Store Edits in iCloud" = "將編輯存儲在 iCloud";
@@ -1721,9 +1926,6 @@
 
 /* No comment provided by engineer. */
 "Stretch" = "拉伸";
-
-/* No comment provided by engineer. */
-"Stripes" = "條紋";
 
 /* No comment provided by engineer. */
 "Stroke" = "線條";
@@ -1746,8 +1948,11 @@
 /* No comment provided by engineer. */
 "Subtract" = "減去";
 
+/* Tool */
+"Super Resolution" = "超級解析度";
+
 /* No comment provided by engineer. */
-"Sunbeams" = "日射";
+"Support" = "支援";
 
 /* No comment provided by engineer. */
 "Switch between Photos library and Files" = "在照片圖庫和檔案間切換";
@@ -1778,6 +1983,9 @@
 "Text" = "文字";
 
 /* No comment provided by engineer. */
+"Texture" = "材質";
+
+/* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "已成功匯入顏色調整預設。";
 
 /* No comment provided by engineer. */
@@ -1805,6 +2013,9 @@
 "The maximum number of layers for this image size is %i" = "此影像大小的最大圖層數為 %i";
 
 /* No comment provided by engineer. */
+"The most powerful photo editing app ever designed for a mobile device." = "手持裝置上最強大的照片編輯 app。";
+
+/* No comment provided by engineer. */
 "The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "預設組資源庫將會復原至初始值，並移除任何您建立的預設組或預設集合。此動作無法還原。";
 
 /* No comment provided by engineer. */
@@ -1824,6 +2035,9 @@
 
 /* Image save error */
 "There is not enough available storage to save your image to this location. Would you like to save it somewhere else?" = "空間不足，無法將圖像儲存至此。要換個地方儲存嗎？";
+
+/* No comment provided by engineer. */
+"This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "此相簿是空的。從「照片」中添加一些照片，在這裡會自動顯示出來。";
 
 /* Image open error */
 "This format isn’t currently supported." = "此格式目前不被支援。";
@@ -1871,9 +2085,6 @@
 "Tilt Shift" = "傾斜移位";
 
 /* No comment provided by engineer. */
-"Tilt-Shift" = "傾斜移位";
-
-/* No comment provided by engineer. */
 "Tint" = "色調";
 
 /* from one color 'to' other color */
@@ -1892,9 +2103,6 @@
 "Top" = "頂";
 
 /* No comment provided by engineer. */
-"Torus Lens" = "圓環透鏡";
-
-/* No comment provided by engineer. */
 "Touch Opacity" = "觸摸不透明度";
 
 /* No comment provided by engineer. */
@@ -1903,20 +2111,8 @@
 /* No comment provided by engineer. */
 "Transition" = "過渡";
 
-/* No comment provided by engineer. */
-"Triangle" = "三角形";
-
 /* Tool */
 "Trim Canvas" = "修剪畫布";
-
-/* No comment provided by engineer. */
-"Turn Off by Default" = "預設為關閉";
-
-/* No comment provided by engineer. */
-"Turn On by Default" = "預設為開啟";
-
-/* No comment provided by engineer. */
-"Twelvefold" = "12 倍";
 
 /* Tool */
 "Twirl" = "旋轉";
@@ -1974,6 +2170,9 @@
 "Unnamed" = "未命名";
 
 /* No comment provided by engineer. */
+"Unpin from Menu" = "取消選單置頂";
+
+/* No comment provided by engineer. */
 "Unsynced Changes Found" = "找到尚未同步的更改";
 
 /* No comment provided by engineer. */
@@ -2001,22 +2200,19 @@
 "Vibrance" = "自然飽和度";
 
 /* No comment provided by engineer. */
-"View" = "檢視";
-
-/* No comment provided by engineer. */
 "Vignette" = "暈邊";
 
 /* No comment provided by engineer. */
 "Vignette Softness" = "暈邊軟度";
 
 /* No comment provided by engineer. */
+"Visible" = "可見";
+
+/* No comment provided by engineer. */
 "Visible Adjustments" = "可見調整";
 
 /* No comment provided by engineer. */
 "Vivid Light" = "強烈光源";
-
-/* No comment provided by engineer. */
-"Vortex" = "旋渦";
 
 /* Tool */
 "Warp" = "彎曲";
@@ -2025,13 +2221,31 @@
 "Watercolor" = "水彩";
 
 /* No comment provided by engineer. */
+"Welcome to Pixelmator Photo" = "歡迎使用 Pixelmator Photo";
+
+/* No comment provided by engineer. */
 "Wetness" = "濕度";
+
+/* No comment provided by engineer. */
+"What's New" = "有什麼新功能";
+
+/* No comment provided by engineer. */
+"What's New in Pixelmator Photo" = "Pixelmator Photo 的新功能";
+
+/* No comment provided by engineer. */
+"When enabled, only areas your paint over with Apple Pencil will be repaired. Your fingers will be used for scrolling and zooming instead." = "開啟時，只有以 Apple Pencil 畫過的地方會被修復。手指的輸入會被視為滑動與縮放指令。";
 
 /* No comment provided by engineer. */
 "White" = "白色";
 
 /* No comment provided by engineer. */
 "White Balance" = "白平衡";
+
+/* No comment provided by engineer. */
+"Whites" = "白色";
+
+/* No comment provided by engineer. */
+"Width:" = "寬度:";
 
 /* No comment provided by engineer. */
 "With Export turned off, changes will be saved directly to your original images." = "匯出功能關閉時，更改將直接儲存在影像原件上。";
@@ -2052,6 +2266,9 @@
 "Workflow Finished" = "工作流程已完成";
 
 /* No comment provided by engineer. */
+"Workflows" = "工作流程";
+
+/* No comment provided by engineer. */
 "Yellow" = "黃色";
 
 /* Color adjustments */
@@ -2062,6 +2279,12 @@
 
 /* No comment provided by engineer. */
 "Zoom" = "縮放";
+
+/* No comment provided by engineer. */
+"Zoom In" = "放大";
+
+/* No comment provided by engineer. */
+"Zoom Out" = "縮小";
 
 /* No comment provided by engineer. */
 "Zoom to Fit" = "縮放到適當大小";
