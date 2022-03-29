@@ -50,6 +50,12 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i Layers" = "%i Layers";
+
+/* No comment provided by engineer. */
+"%i Paths" = "%i Paths";
+
+/* No comment provided by engineer. */
 "(Don't replace)" = "(Don't replace)";
 
 /* No comment provided by engineer. */
@@ -57,6 +63,9 @@
 
 /* Scale */
 "0.5x" = "0.5x";
+
+/* No comment provided by engineer. */
+"1 Layer" = "1 Layer";
 
 /* color picker sample size area */
 "1 Point" = "1 Point";
@@ -320,6 +329,9 @@
 "B:" = "B:";
 
 /* No comment provided by engineer. */
+"Background" = "Background";
+
+/* No comment provided by engineer. */
 "Background Color" = "Background Color";
 
 /* No comment provided by engineer. */
@@ -551,6 +563,9 @@
 "Clarity Shadows" = "Clarity Shadows";
 
 /* No comment provided by engineer. */
+"Clear All" = "Clear All";
+
+/* No comment provided by engineer. */
 "Clear Guides" = "Clear Guides";
 
 /* No comment provided by engineer. */
@@ -759,6 +774,9 @@
 
 /* No comment provided by engineer. */
 "Copy and Paste as Layer" = "Copy and Paste as Layer";
+
+/* No comment provided by engineer. */
+"Copy as Mask" = "Copy as Mask";
 
 /* No comment provided by engineer. */
 "Copy Effects" = "Copy Effects";
@@ -1079,6 +1097,9 @@
 "Elliptical Speech Bubble" = "Elliptical Speech Bubble";
 
 /* No comment provided by engineer. */
+"Empty Group" = "Empty Group";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "Empty Layer";
 
 /* No comment provided by engineer. */
@@ -1119,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Exclude Shapes" = "Exclude Shapes";
+
+/* Refers to two vector paths, one which has been excluded from another. */
+"Excluded" = "Excluded";
 
 /* No comment provided by engineer. */
 "Exclusion" = "Exclusion";
@@ -1600,6 +1624,9 @@
 /* No comment provided by engineer. */
 "Intersect with Shape" = "Intersect with Shape";
 
+/* Refers to two vector paths, one which has been intersected with another. */
+"Intersected" = "Intersected";
+
 /* No comment provided by engineer. */
 "Invert" = "Invert";
 
@@ -1712,7 +1739,7 @@
 "Linear Tilt-Shift Blur" = "Linear Tilt-Shift Blur";
 
 /* No comment provided by engineer. */
-"Link" = "Link";
+"Link Mask" = "Link Mask";
 
 /* No comment provided by engineer. */
 "Load" = "Load";
@@ -1885,8 +1912,20 @@
 /* No comment provided by engineer. */
 "Moved Object" = "Moved Object";
 
+/* Displayed when a text layer is styled with multiple font families. */
+"Multiple Fonts" = "Multiple Fonts";
+
 /* No comment provided by engineer. */
 "Multiple formats" = "Multiple formats";
+
+/* Displayed when a text layer is styled with multiple font sizes. */
+"Multiple Sizes" = "Multiple Sizes";
+
+/* Displayed when a single text layer is styled with various font families, typefaces, and/or sizes. */
+"Multiple Text Styles" = "Multiple Text Styles";
+
+/* Displayed when a text layer is styled with multiple font typefaces (bold, italic, etc.). */
+"Multiple Typefaces" = "Multiple Typefaces";
 
 /* No comment provided by engineer. */
 "Multiply" = "Multiply";
@@ -1902,6 +1941,12 @@
 
 /* No comment provided by engineer. */
 "New Collection" = "New Collection";
+
+/* No comment provided by engineer. */
+"New Color Adjustments Layer" = "New Color Adjustments Layer";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "New Effects Layer";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "New Ellipse Shape";
@@ -1984,14 +2029,23 @@
 /* No comment provided by engineer. */
 "No camera or scanner selected." = "No camera or scanner selected.";
 
+/* Displayed when no color adjustments are applied to a particular layer. */
+"No Color Adjustments" = "No Color Adjustments";
+
 /* No comment provided by engineer. */
 "No Color Profile" = "No Color Profile";
+
+/* Displayed when no effects are applied to a particular layer. */
+"No Effects" = "No Effects";
 
 /* No comment provided by engineer. */
 "No format" = "No format";
 
 /* No comment provided by engineer. */
 "No Horizon Detected" = "No Horizon Detected";
+
+/* No comment provided by engineer. */
+"No layers match the filter." = "No layers match the filter.";
 
 /* No comment provided by engineer. */
 "No Photos" = "No Photos";
@@ -2459,6 +2513,9 @@
 "Replace Image" = "Replace Image";
 
 /* No comment provided by engineer. */
+"Replace Image…" = "Replace Image…";
+
+/* No comment provided by engineer. */
 "Replace Mask" = "Replace Mask";
 
 /* No comment provided by engineer. */
@@ -2550,6 +2607,9 @@
 
 /* No comment provided by engineer. */
 "Reveal in Finder" = "Reveal in Finder";
+
+/* No comment provided by engineer. */
+"Reveal or hide the layer mask." = "Reveal or hide the layer mask.";
 
 /* No comment provided by engineer. */
 "Revert to Default Set" = "Revert to Default Set";
@@ -2766,6 +2826,9 @@
 
 /* No comment provided by engineer. */
 "Set alpha color component value" = "Set alpha color component value";
+
+/* No comment provided by engineer. */
+"Set as Mask" = "Set as Mask";
 
 /* No comment provided by engineer. */
 "Set blue color component value" = "Set blue color component value";
@@ -3068,6 +3131,9 @@
 "Stylize" = "Stylize";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "Subject Mask";
+
+/* No comment provided by engineer. */
 "Subtract" = "Subtract";
 
 /* No comment provided by engineer. */
@@ -3075,6 +3141,9 @@
 
 /* No comment provided by engineer. */
 "Subtract Shapes" = "Subtract Shapes";
+
+/* Refers to two vector paths, one which has been subtracted from another. */
+"Subtracted" = "Subtracted";
 
 /* No comment provided by engineer. */
 "Suggested Names" = "Suggested Names";
@@ -3280,8 +3349,11 @@
 /* No comment provided by engineer. */
 "Unite Shapes" = "Unite Shapes";
 
+/* Refers to two vector paths, one which has been united with another. */
+"United" = "United";
+
 /* No comment provided by engineer. */
-"Unlink" = "Unlink";
+"Unlink Mask" = "Unlink Mask";
 
 /* No comment provided by engineer. */
 "Unlock" = "Unlock";
