@@ -50,6 +50,12 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i Layers" = "%i Layers";
+
+/* No comment provided by engineer. */
+"%i Paths" = "%i Paths";
+
+/* No comment provided by engineer. */
 "(Don't replace)" = "(No reemplazar)";
 
 /* No comment provided by engineer. */
@@ -57,6 +63,9 @@
 
 /* Scale */
 "0.5x" = "0,5x";
+
+/* No comment provided by engineer. */
+"1 Layer" = "1 Layer";
 
 /* color picker sample size area */
 "1 Point" = "1 Punto";
@@ -320,6 +329,9 @@
 "B:" = "B:";
 
 /* No comment provided by engineer. */
+"Background" = "Background";
+
+/* No comment provided by engineer. */
 "Background Color" = "Color de fondo";
 
 /* No comment provided by engineer. */
@@ -551,6 +563,9 @@
 "Clarity Shadows" = "Claridad sombras";
 
 /* No comment provided by engineer. */
+"Clear All" = "Borrar todo";
+
+/* No comment provided by engineer. */
 "Clear Guides" = "Borrar guías";
 
 /* No comment provided by engineer. */
@@ -759,6 +774,9 @@
 
 /* No comment provided by engineer. */
 "Copy and Paste as Layer" = "Copiar y pegar como capa";
+
+/* No comment provided by engineer. */
+"Copy as Mask" = "Copy as Mask";
 
 /* No comment provided by engineer. */
 "Copy Effects" = "Copiar efectos";
@@ -1079,6 +1097,9 @@
 "Elliptical Speech Bubble" = "Bocadillo de diálogo elíptico";
 
 /* No comment provided by engineer. */
+"Empty Group" = "Empty Group";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "Capa vacía";
 
 /* No comment provided by engineer. */
@@ -1119,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Exclude Shapes" = "Excluir figuras";
+
+/* Refers to two vector paths, one which has been excluded from another. */
+"Excluded" = "Excluded";
 
 /* No comment provided by engineer. */
 "Exclusion" = "Exclusión";
@@ -1600,6 +1624,9 @@
 /* No comment provided by engineer. */
 "Intersect with Shape" = "Intersecar con forma";
 
+/* Refers to two vector paths, one which has been intersected with another. */
+"Intersected" = "Intersected";
+
 /* No comment provided by engineer. */
 "Invert" = "Invertir";
 
@@ -1712,7 +1739,7 @@
 "Linear Tilt-Shift Blur" = "Desenfoque con cambio de inclinación lineal";
 
 /* No comment provided by engineer. */
-"Link" = "Vincular";
+"Link Mask" = "Link Mask";
 
 /* No comment provided by engineer. */
 "Load" = "Cargar";
@@ -1885,8 +1912,20 @@
 /* No comment provided by engineer. */
 "Moved Object" = "Moved Object";
 
+/* Displayed when a text layer is styled with multiple font families. */
+"Multiple Fonts" = "Multiple Fonts";
+
 /* No comment provided by engineer. */
 "Multiple formats" = "Varios formatos";
+
+/* Displayed when a text layer is styled with multiple font sizes. */
+"Multiple Sizes" = "Multiple Sizes";
+
+/* Displayed when a single text layer is styled with various font families, typefaces, and/or sizes. */
+"Multiple Text Styles" = "Multiple Text Styles";
+
+/* Displayed when a text layer is styled with multiple font typefaces (bold, italic, etc.). */
+"Multiple Typefaces" = "Multiple Typefaces";
 
 /* No comment provided by engineer. */
 "Multiply" = "Multiplicar";
@@ -1902,6 +1941,12 @@
 
 /* No comment provided by engineer. */
 "New Collection" = "Nueva colección";
+
+/* No comment provided by engineer. */
+"New Color Adjustments Layer" = "New Color Adjustments Layer";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "New Effects Layer";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "Nueva figura elíptica";
@@ -1984,14 +2029,23 @@
 /* No comment provided by engineer. */
 "No camera or scanner selected." = "No hay ninguna cámara ni escáner seleccionado.";
 
+/* Displayed when no color adjustments are applied to a particular layer. */
+"No Color Adjustments" = "No Color Adjustments";
+
 /* No comment provided by engineer. */
 "No Color Profile" = "Sin perfil de color";
+
+/* Displayed when no effects are applied to a particular layer. */
+"No Effects" = "No Effects";
 
 /* No comment provided by engineer. */
 "No format" = "Sin formato";
 
 /* No comment provided by engineer. */
 "No Horizon Detected" = "No se ha detectado ningún horizonte";
+
+/* No comment provided by engineer. */
+"No layers match the filter." = "No hay ninguna capa que coincida con el filtro.";
 
 /* No comment provided by engineer. */
 "No Photos" = "No hay fotos";
@@ -2459,6 +2513,9 @@
 "Replace Image" = "Sustituir imagen";
 
 /* No comment provided by engineer. */
+"Replace Image…" = "Sustituir imagen…";
+
+/* No comment provided by engineer. */
 "Replace Mask" = "Reemplazar máscara";
 
 /* No comment provided by engineer. */
@@ -2550,6 +2607,9 @@
 
 /* No comment provided by engineer. */
 "Reveal in Finder" = "Mostrar en Finder";
+
+/* No comment provided by engineer. */
+"Reveal or hide the layer mask." = "Reveal or hide the layer mask.";
 
 /* No comment provided by engineer. */
 "Revert to Default Set" = "Revertir a los ajustes predeterminados";
@@ -2766,6 +2826,9 @@
 
 /* No comment provided by engineer. */
 "Set alpha color component value" = "Establecer el valor del componente de color alfa";
+
+/* No comment provided by engineer. */
+"Set as Mask" = "Set as Mask";
 
 /* No comment provided by engineer. */
 "Set blue color component value" = "Establecer el valor del componente de color azul";
@@ -3068,6 +3131,9 @@
 "Stylize" = "Estilizar";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "Subject Mask";
+
+/* No comment provided by engineer. */
 "Subtract" = "Sustraer";
 
 /* No comment provided by engineer. */
@@ -3075,6 +3141,9 @@
 
 /* No comment provided by engineer. */
 "Subtract Shapes" = "Sustraer figuras";
+
+/* Refers to two vector paths, one which has been subtracted from another. */
+"Subtracted" = "Subtracted";
 
 /* No comment provided by engineer. */
 "Suggested Names" = "Nombres sugeridos";
@@ -3280,8 +3349,11 @@
 /* No comment provided by engineer. */
 "Unite Shapes" = "Unir figuras";
 
+/* Refers to two vector paths, one which has been united with another. */
+"United" = "United";
+
 /* No comment provided by engineer. */
-"Unlink" = "Desvincular";
+"Unlink Mask" = "Unlink Mask";
 
 /* No comment provided by engineer. */
 "Unlock" = "Desbloquear";
