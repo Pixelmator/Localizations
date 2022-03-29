@@ -50,10 +50,10 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
-"%i Layers" = "%i Layers";
+"%i Layers" = "Слоев: %i";
 
 /* No comment provided by engineer. */
-"%i Paths" = "%i Paths";
+"%i Paths" = "Путей: %i";
 
 /* No comment provided by engineer. */
 "(Don't replace)" = "(Не заменять)";
@@ -65,7 +65,7 @@
 "0.5x" = "0,5x";
 
 /* No comment provided by engineer. */
-"1 Layer" = "1 Layer";
+"1 Layer" = "Слоев: 1";
 
 /* color picker sample size area */
 "1 Point" = "1 точка";
@@ -329,7 +329,7 @@
 "B:" = "B:";
 
 /* No comment provided by engineer. */
-"Background" = "Background";
+"Background" = "Фон";
 
 /* No comment provided by engineer. */
 "Background Color" = "Цвет фона";
@@ -776,7 +776,7 @@
 "Copy and Paste as Layer" = "Копировать и вставить как слой";
 
 /* No comment provided by engineer. */
-"Copy as Mask" = "Copy as Mask";
+"Copy as Mask" = "Скопировать как маску";
 
 /* No comment provided by engineer. */
 "Copy Effects" = "Скопировать эффекты";
@@ -1097,7 +1097,7 @@
 "Elliptical Speech Bubble" = "Эллиптический пузырь речи";
 
 /* No comment provided by engineer. */
-"Empty Group" = "Empty Group";
+"Empty Group" = "Пустая группа";
 
 /* No comment provided by engineer. */
 "Empty Layer" = "Пустой слой";
@@ -1142,7 +1142,7 @@
 "Exclude Shapes" = "Исключить фигуры";
 
 /* Refers to two vector paths, one which has been excluded from another. */
-"Excluded" = "Excluded";
+"Excluded" = "Исключенные";
 
 /* No comment provided by engineer. */
 "Exclusion" = "Исключение";
@@ -1625,7 +1625,7 @@
 "Intersect with Shape" = "Пересечься с фигурой";
 
 /* Refers to two vector paths, one which has been intersected with another. */
-"Intersected" = "Intersected";
+"Intersected" = "Пересекающиеся";
 
 /* No comment provided by engineer. */
 "Invert" = "Инвертировать";
@@ -1913,19 +1913,19 @@
 "Moved Object" = "Moved Object";
 
 /* Displayed when a text layer is styled with multiple font families. */
-"Multiple Fonts" = "Multiple Fonts";
+"Multiple Fonts" = "Несколько шрифтов";
 
 /* No comment provided by engineer. */
 "Multiple formats" = "Несколько форматов";
 
 /* Displayed when a text layer is styled with multiple font sizes. */
-"Multiple Sizes" = "Multiple Sizes";
+"Multiple Sizes" = "Несколько размеров";
 
 /* Displayed when a single text layer is styled with various font families, typefaces, and/or sizes. */
-"Multiple Text Styles" = "Multiple Text Styles";
+"Multiple Text Styles" = "Несколько стилей текста";
 
 /* Displayed when a text layer is styled with multiple font typefaces (bold, italic, etc.). */
-"Multiple Typefaces" = "Multiple Typefaces";
+"Multiple Typefaces" = "Несколько начертаний";
 
 /* No comment provided by engineer. */
 "Multiply" = "Умножить";
@@ -1943,10 +1943,10 @@
 "New Collection" = "Новая коллекция";
 
 /* No comment provided by engineer. */
-"New Color Adjustments Layer" = "New Color Adjustments Layer";
+"New Color Adjustments Layer" = "Новый слой цветокоррекции";
 
 /* No comment provided by engineer. */
-"New Effects Layer" = "New Effects Layer";
+"New Effects Layer" = "Новый слой эффектов";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "Новый эллипс";
@@ -2030,13 +2030,13 @@
 "No camera or scanner selected." = "Камера или сканер не выбраны.";
 
 /* Displayed when no color adjustments are applied to a particular layer. */
-"No Color Adjustments" = "No Color Adjustments";
+"No Color Adjustments" = "Без цветокоррекции";
 
 /* No comment provided by engineer. */
 "No Color Profile" = "Нет цветового профиля";
 
 /* Displayed when no effects are applied to a particular layer. */
-"No Effects" = "No Effects";
+"No Effects" = "Без эффектов";
 
 /* No comment provided by engineer. */
 "No format" = "Без формата";
@@ -3143,7 +3143,7 @@
 "Subtract Shapes" = "Вычесть фигуры";
 
 /* Refers to two vector paths, one which has been subtracted from another. */
-"Subtracted" = "Subtracted";
+"Subtracted" = "Вычтенные";
 
 /* No comment provided by engineer. */
 "Suggested Names" = "Предлагаемые имена";
@@ -3350,7 +3350,7 @@
 "Unite Shapes" = "Слить фигуры";
 
 /* Refers to two vector paths, one which has been united with another. */
-"United" = "United";
+"United" = "Объединенные";
 
 /* No comment provided by engineer. */
 "Unlink Mask" = "Unlink Mask";
