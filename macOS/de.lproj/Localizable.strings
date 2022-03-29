@@ -50,6 +50,12 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i Layers" = "%i Layers";
+
+/* No comment provided by engineer. */
+"%i Paths" = "%i Paths";
+
+/* No comment provided by engineer. */
 "(Don't replace)" = "(Nicht ersetzen)";
 
 /* No comment provided by engineer. */
@@ -57,6 +63,9 @@
 
 /* Scale */
 "0.5x" = "0.5x";
+
+/* No comment provided by engineer. */
+"1 Layer" = "1 Layer";
 
 /* color picker sample size area */
 "1 Point" = "1 Punkt";
@@ -320,6 +329,9 @@
 "B:" = "B:";
 
 /* No comment provided by engineer. */
+"Background" = "Background";
+
+/* No comment provided by engineer. */
 "Background Color" = "Hintergrundfarbe";
 
 /* No comment provided by engineer. */
@@ -551,6 +563,9 @@
 "Clarity Shadows" = "Klarheit Schatten";
 
 /* No comment provided by engineer. */
+"Clear All" = "Alle löschen";
+
+/* No comment provided by engineer. */
 "Clear Guides" = "Hilfslinien entfernen";
 
 /* No comment provided by engineer. */
@@ -759,6 +774,9 @@
 
 /* No comment provided by engineer. */
 "Copy and Paste as Layer" = "Als Ebene kopieren und einfügen";
+
+/* No comment provided by engineer. */
+"Copy as Mask" = "Copy as Mask";
 
 /* No comment provided by engineer. */
 "Copy Effects" = "Effekte kopieren";
@@ -1079,6 +1097,9 @@
 "Elliptical Speech Bubble" = "Elliptische Sprechblase";
 
 /* No comment provided by engineer. */
+"Empty Group" = "Empty Group";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "Leere Ebene";
 
 /* No comment provided by engineer. */
@@ -1119,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Exclude Shapes" = "Formen ausschließen";
+
+/* Refers to two vector paths, one which has been excluded from another. */
+"Excluded" = "Excluded";
 
 /* No comment provided by engineer. */
 "Exclusion" = "Ausschluss";
@@ -1600,6 +1624,9 @@
 /* No comment provided by engineer. */
 "Intersect with Shape" = "Mit Form schneiden";
 
+/* Refers to two vector paths, one which has been intersected with another. */
+"Intersected" = "Intersected";
+
 /* No comment provided by engineer. */
 "Invert" = "Negativ";
 
@@ -1712,7 +1739,7 @@
 "Linear Tilt-Shift Blur" = "Lineare Tilt/Shift-Unschärfe";
 
 /* No comment provided by engineer. */
-"Link" = "Verbindung";
+"Link Mask" = "Link Mask";
 
 /* No comment provided by engineer. */
 "Load" = "Laden";
@@ -1885,8 +1912,20 @@
 /* No comment provided by engineer. */
 "Moved Object" = "Moved Object";
 
+/* Displayed when a text layer is styled with multiple font families. */
+"Multiple Fonts" = "Multiple Fonts";
+
 /* No comment provided by engineer. */
 "Multiple formats" = "Mehrere Formate";
+
+/* Displayed when a text layer is styled with multiple font sizes. */
+"Multiple Sizes" = "Multiple Sizes";
+
+/* Displayed when a single text layer is styled with various font families, typefaces, and/or sizes. */
+"Multiple Text Styles" = "Multiple Text Styles";
+
+/* Displayed when a text layer is styled with multiple font typefaces (bold, italic, etc.). */
+"Multiple Typefaces" = "Multiple Typefaces";
 
 /* No comment provided by engineer. */
 "Multiply" = "Multiplizieren";
@@ -1902,6 +1941,12 @@
 
 /* No comment provided by engineer. */
 "New Collection" = "Neue Sammlung";
+
+/* No comment provided by engineer. */
+"New Color Adjustments Layer" = "New Color Adjustments Layer";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "New Effects Layer";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "Neue Ellipsenform";
@@ -1984,14 +2029,23 @@
 /* No comment provided by engineer. */
 "No camera or scanner selected." = "Keine Kamera oder Scanner ausgewählt.";
 
+/* Displayed when no color adjustments are applied to a particular layer. */
+"No Color Adjustments" = "No Color Adjustments";
+
 /* No comment provided by engineer. */
 "No Color Profile" = "Kein Farbprofil";
+
+/* Displayed when no effects are applied to a particular layer. */
+"No Effects" = "No Effects";
 
 /* No comment provided by engineer. */
 "No format" = "Kein Format";
 
 /* No comment provided by engineer. */
 "No Horizon Detected" = "Kein Horizont gefunden";
+
+/* No comment provided by engineer. */
+"No layers match the filter." = "Keine Ebenen passen zum Filter.";
 
 /* No comment provided by engineer. */
 "No Photos" = "Keine Fotos";
@@ -2459,6 +2513,9 @@
 "Replace Image" = "Bild ersetzen";
 
 /* No comment provided by engineer. */
+"Replace Image…" = "Bild ersetzen …";
+
+/* No comment provided by engineer. */
 "Replace Mask" = "Maske ersetzen";
 
 /* No comment provided by engineer. */
@@ -2550,6 +2607,9 @@
 
 /* No comment provided by engineer. */
 "Reveal in Finder" = "Im Finder anzeigen";
+
+/* No comment provided by engineer. */
+"Reveal or hide the layer mask." = "Reveal or hide the layer mask.";
 
 /* No comment provided by engineer. */
 "Revert to Default Set" = "Standard wiederherstellen";
@@ -2766,6 +2826,9 @@
 
 /* No comment provided by engineer. */
 "Set alpha color component value" = "Alpha-Farbkomponentenwert einstellen";
+
+/* No comment provided by engineer. */
+"Set as Mask" = "Set as Mask";
 
 /* No comment provided by engineer. */
 "Set blue color component value" = "Wert der blauen Farbkomponente einstellen";
@@ -3068,6 +3131,9 @@
 "Stylize" = "Stilisieren";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "Subject Mask";
+
+/* No comment provided by engineer. */
 "Subtract" = "Subtrahieren";
 
 /* No comment provided by engineer. */
@@ -3075,6 +3141,9 @@
 
 /* No comment provided by engineer. */
 "Subtract Shapes" = "Formen subtrahieren";
+
+/* Refers to two vector paths, one which has been subtracted from another. */
+"Subtracted" = "Subtracted";
 
 /* No comment provided by engineer. */
 "Suggested Names" = "Vorgeschlagene Namen";
@@ -3280,8 +3349,11 @@
 /* No comment provided by engineer. */
 "Unite Shapes" = "Formen vereinen";
 
+/* Refers to two vector paths, one which has been united with another. */
+"United" = "United";
+
 /* No comment provided by engineer. */
-"Unlink" = "Verbindung aufheben";
+"Unlink Mask" = "Unlink Mask";
 
 /* No comment provided by engineer. */
 "Unlock" = "Schutz aufheben";
