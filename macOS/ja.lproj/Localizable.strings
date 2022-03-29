@@ -50,6 +50,12 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i Layers" = "%i Layers";
+
+/* No comment provided by engineer. */
+"%i Paths" = "%i Paths";
+
+/* No comment provided by engineer. */
 "(Don't replace)" = "(置き換えない)";
 
 /* No comment provided by engineer. */
@@ -57,6 +63,9 @@
 
 /* Scale */
 "0.5x" = "0.5x";
+
+/* No comment provided by engineer. */
+"1 Layer" = "1 Layer";
 
 /* color picker sample size area */
 "1 Point" = "1ポイント";
@@ -320,6 +329,9 @@
 "B:" = "B:";
 
 /* No comment provided by engineer. */
+"Background" = "Background";
+
+/* No comment provided by engineer. */
 "Background Color" = "背景色";
 
 /* No comment provided by engineer. */
@@ -551,6 +563,9 @@
 "Clarity Shadows" = "シャドウを明るく";
 
 /* No comment provided by engineer. */
+"Clear All" = "すべてを消去";
+
+/* No comment provided by engineer. */
 "Clear Guides" = "ガイドを消去";
 
 /* No comment provided by engineer. */
@@ -759,6 +774,9 @@
 
 /* No comment provided by engineer. */
 "Copy and Paste as Layer" = "レイヤーとしてコピー＆ペースト";
+
+/* No comment provided by engineer. */
+"Copy as Mask" = "Copy as Mask";
 
 /* No comment provided by engineer. */
 "Copy Effects" = "エフェクトをコピー";
@@ -1079,6 +1097,9 @@
 "Elliptical Speech Bubble" = "楕円形の吹き出し";
 
 /* No comment provided by engineer. */
+"Empty Group" = "Empty Group";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "空のレイヤー";
 
 /* No comment provided by engineer. */
@@ -1119,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Exclude Shapes" = "シェイプを除外";
+
+/* Refers to two vector paths, one which has been excluded from another. */
+"Excluded" = "Excluded";
 
 /* No comment provided by engineer. */
 "Exclusion" = "除外";
@@ -1600,6 +1624,9 @@
 /* No comment provided by engineer. */
 "Intersect with Shape" = "シェイプとの交差";
 
+/* Refers to two vector paths, one which has been intersected with another. */
+"Intersected" = "Intersected";
+
 /* No comment provided by engineer. */
 "Invert" = "反転";
 
@@ -1712,7 +1739,7 @@
 "Linear Tilt-Shift Blur" = "線形傾きシフトぼかし";
 
 /* No comment provided by engineer. */
-"Link" = "リンク";
+"Link Mask" = "Link Mask";
 
 /* No comment provided by engineer. */
 "Load" = "読み込み";
@@ -1885,8 +1912,20 @@
 /* No comment provided by engineer. */
 "Moved Object" = "Moved Object";
 
+/* Displayed when a text layer is styled with multiple font families. */
+"Multiple Fonts" = "Multiple Fonts";
+
 /* No comment provided by engineer. */
 "Multiple formats" = "複数の形式";
+
+/* Displayed when a text layer is styled with multiple font sizes. */
+"Multiple Sizes" = "Multiple Sizes";
+
+/* Displayed when a single text layer is styled with various font families, typefaces, and/or sizes. */
+"Multiple Text Styles" = "Multiple Text Styles";
+
+/* Displayed when a text layer is styled with multiple font typefaces (bold, italic, etc.). */
+"Multiple Typefaces" = "Multiple Typefaces";
 
 /* No comment provided by engineer. */
 "Multiply" = "乗算";
@@ -1902,6 +1941,12 @@
 
 /* No comment provided by engineer. */
 "New Collection" = "新規コレクション";
+
+/* No comment provided by engineer. */
+"New Color Adjustments Layer" = "New Color Adjustments Layer";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "New Effects Layer";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "新規の楕円形";
@@ -1984,14 +2029,23 @@
 /* No comment provided by engineer. */
 "No camera or scanner selected." = "カメラまたはスキャナーが選択されていません。";
 
+/* Displayed when no color adjustments are applied to a particular layer. */
+"No Color Adjustments" = "No Color Adjustments";
+
 /* No comment provided by engineer. */
 "No Color Profile" = "カラープロファイルなし";
+
+/* Displayed when no effects are applied to a particular layer. */
+"No Effects" = "No Effects";
 
 /* No comment provided by engineer. */
 "No format" = "フォーマットなし";
 
 /* No comment provided by engineer. */
 "No Horizon Detected" = "水平線が検出されません";
+
+/* No comment provided by engineer. */
+"No layers match the filter." = "フィルターに一致するレイヤーがありません。";
 
 /* No comment provided by engineer. */
 "No Photos" = "写真なし";
@@ -2459,6 +2513,9 @@
 "Replace Image" = "画像を置き換え";
 
 /* No comment provided by engineer. */
+"Replace Image…" = "画像を置き換え…";
+
+/* No comment provided by engineer. */
 "Replace Mask" = "マスクを置き換え";
 
 /* No comment provided by engineer. */
@@ -2550,6 +2607,9 @@
 
 /* No comment provided by engineer. */
 "Reveal in Finder" = "Finderに表示";
+
+/* No comment provided by engineer. */
+"Reveal or hide the layer mask." = "Reveal or hide the layer mask.";
 
 /* No comment provided by engineer. */
 "Revert to Default Set" = "デフォルトのセットに戻す";
@@ -2766,6 +2826,9 @@
 
 /* No comment provided by engineer. */
 "Set alpha color component value" = "アルファカラーコンポーネント値を設定";
+
+/* No comment provided by engineer. */
+"Set as Mask" = "Set as Mask";
 
 /* No comment provided by engineer. */
 "Set blue color component value" = "ブルー成分の値を設定します";
@@ -3068,6 +3131,9 @@
 "Stylize" = "スタイル";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "Subject Mask";
+
+/* No comment provided by engineer. */
 "Subtract" = "減算";
 
 /* No comment provided by engineer. */
@@ -3075,6 +3141,9 @@
 
 /* No comment provided by engineer. */
 "Subtract Shapes" = "シェイプを取り除く";
+
+/* Refers to two vector paths, one which has been subtracted from another. */
+"Subtracted" = "Subtracted";
 
 /* No comment provided by engineer. */
 "Suggested Names" = "提案された名前";
@@ -3280,8 +3349,11 @@
 /* No comment provided by engineer. */
 "Unite Shapes" = "シェイプを結合";
 
+/* Refers to two vector paths, one which has been united with another. */
+"United" = "United";
+
 /* No comment provided by engineer. */
-"Unlink" = "リンク解除";
+"Unlink Mask" = "Unlink Mask";
 
 /* No comment provided by engineer. */
 "Unlock" = "ロックを解除";
