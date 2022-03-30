@@ -50,6 +50,12 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i Layers" = "%i livelli";
+
+/* No comment provided by engineer. */
+"%i Paths" = "%i percorsi";
+
+/* No comment provided by engineer. */
 "(Don't replace)" = "(Non sostituire)";
 
 /* No comment provided by engineer. */
@@ -57,6 +63,9 @@
 
 /* Scale */
 "0.5x" = "x0,5";
+
+/* No comment provided by engineer. */
+"1 Layer" = "1 livello";
 
 /* color picker sample size area */
 "1 Point" = "1 Punto";
@@ -320,6 +329,9 @@
 "B:" = "N:";
 
 /* No comment provided by engineer. */
+"Background" = "Sfondo";
+
+/* No comment provided by engineer. */
 "Background Color" = "Colore di sfondo";
 
 /* No comment provided by engineer. */
@@ -551,6 +563,9 @@
 "Clarity Shadows" = "Ombre chiarezza";
 
 /* No comment provided by engineer. */
+"Clear All" = "Canc. tutto";
+
+/* No comment provided by engineer. */
 "Clear Guides" = "Cancella guide";
 
 /* No comment provided by engineer. */
@@ -759,6 +774,9 @@
 
 /* No comment provided by engineer. */
 "Copy and Paste as Layer" = "Copia e incolla come livello";
+
+/* No comment provided by engineer. */
+"Copy as Mask" = "Copia come maschera";
 
 /* No comment provided by engineer. */
 "Copy Effects" = "Copia effetti";
@@ -1079,6 +1097,9 @@
 "Elliptical Speech Bubble" = "Fumetto ellittico";
 
 /* No comment provided by engineer. */
+"Empty Group" = "Gruppo vuoto";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "Livello vuoto";
 
 /* No comment provided by engineer. */
@@ -1119,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Exclude Shapes" = "Escludi forme";
+
+/* Refers to two vector paths, one which has been excluded from another. */
+"Excluded" = "Escluso";
 
 /* No comment provided by engineer. */
 "Exclusion" = "Esclusione";
@@ -1600,6 +1624,9 @@
 /* No comment provided by engineer. */
 "Intersect with Shape" = "Interseca con la forma";
 
+/* Refers to two vector paths, one which has been intersected with another. */
+"Intersected" = "Intersecato";
+
 /* No comment provided by engineer. */
 "Invert" = "Inverti";
 
@@ -1712,7 +1739,7 @@
 "Linear Tilt-Shift Blur" = "Sfocatura lineare tilt-shift";
 
 /* No comment provided by engineer. */
-"Link" = "Collega";
+"Link Mask" = "Collega maschera";
 
 /* No comment provided by engineer. */
 "Load" = "Carica";
@@ -1885,8 +1912,20 @@
 /* No comment provided by engineer. */
 "Moved Object" = "Moved Object";
 
+/* Displayed when a text layer is styled with multiple font families. */
+"Multiple Fonts" = "Font multipli";
+
 /* No comment provided by engineer. */
 "Multiple formats" = "Formati multipli";
+
+/* Displayed when a text layer is styled with multiple font sizes. */
+"Multiple Sizes" = "Dimensioni multiple";
+
+/* Displayed when a single text layer is styled with various font families, typefaces, and/or sizes. */
+"Multiple Text Styles" = "Stili di testo multipli";
+
+/* Displayed when a text layer is styled with multiple font typefaces (bold, italic, etc.). */
+"Multiple Typefaces" = "Caratteri tipografici multipli";
 
 /* No comment provided by engineer. */
 "Multiply" = "Moltiplica";
@@ -1902,6 +1941,12 @@
 
 /* No comment provided by engineer. */
 "New Collection" = "Nuova Collezione";
+
+/* No comment provided by engineer. */
+"New Color Adjustments Layer" = "Nuovo livello di regolazioni di colore";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "Nuovo livello di effetti";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "Nuova forma ellittica";
@@ -1984,14 +2029,23 @@
 /* No comment provided by engineer. */
 "No camera or scanner selected." = "Nessuna fotocamera o scanner selezionati.";
 
+/* Displayed when no color adjustments are applied to a particular layer. */
+"No Color Adjustments" = "Nessuna regolazione del colore";
+
 /* No comment provided by engineer. */
 "No Color Profile" = "Nessun profilo colore";
+
+/* Displayed when no effects are applied to a particular layer. */
+"No Effects" = "Nessun effetto";
 
 /* No comment provided by engineer. */
 "No format" = "Nessun formato";
 
 /* No comment provided by engineer. */
 "No Horizon Detected" = "Nessun orizzonte rilevato";
+
+/* No comment provided by engineer. */
+"No layers match the filter." = "Nessun livello corrispondente al filtro.";
 
 /* No comment provided by engineer. */
 "No Photos" = "Nessuna foto";
@@ -2459,6 +2513,9 @@
 "Replace Image" = "Sostituisci immagine";
 
 /* No comment provided by engineer. */
+"Replace Image…" = "Sostituisci immagine…";
+
+/* No comment provided by engineer. */
 "Replace Mask" = "Sostituisci maschera";
 
 /* No comment provided by engineer. */
@@ -2550,6 +2607,9 @@
 
 /* No comment provided by engineer. */
 "Reveal in Finder" = "Rivela nel Finder";
+
+/* No comment provided by engineer. */
+"Reveal or hide the layer mask." = "Mostra o nascondi la maschera di livello.";
 
 /* No comment provided by engineer. */
 "Revert to Default Set" = "Ripristino del set di default";
@@ -2766,6 +2826,9 @@
 
 /* No comment provided by engineer. */
 "Set alpha color component value" = "Imposta il valore del componente di colore alpha";
+
+/* No comment provided by engineer. */
+"Set as Mask" = "Imposta come maschera";
 
 /* No comment provided by engineer. */
 "Set blue color component value" = "Imposta il valore del componente di colore blu";
@@ -3068,6 +3131,9 @@
 "Stylize" = "Stilizzazione";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "Maschera soggetto";
+
+/* No comment provided by engineer. */
 "Subtract" = "Sottrai";
 
 /* No comment provided by engineer. */
@@ -3075,6 +3141,9 @@
 
 /* No comment provided by engineer. */
 "Subtract Shapes" = "Sottrai forme";
+
+/* Refers to two vector paths, one which has been subtracted from another. */
+"Subtracted" = "Sottratto";
 
 /* No comment provided by engineer. */
 "Suggested Names" = "Nomi suggeriti";
@@ -3280,8 +3349,11 @@
 /* No comment provided by engineer. */
 "Unite Shapes" = "Unisci forme";
 
+/* Refers to two vector paths, one which has been united with another. */
+"United" = "Unito";
+
 /* No comment provided by engineer. */
-"Unlink" = "Scollega";
+"Unlink Mask" = "Scollega maschera";
 
 /* No comment provided by engineer. */
 "Unlock" = "Sblocca";

@@ -92,6 +92,9 @@
 "Character Spacing" = "文字間隔";
 
 /* No comment provided by engineer. */
+"Clear All" = "すべてを消去";
+
+/* No comment provided by engineer. */
 "Clear Mask" = "マスクを消去";
 
 /* No comment provided by engineer. */
@@ -105,6 +108,15 @@
 
 /* No comment provided by engineer. */
 "Color" = "カラー";
+
+/* No comment provided by engineer. */
+"Color Adjustments" = "カラー調整";
+
+/* No comment provided by engineer. */
+"Color adjustments cannot be made to an effects layer. To create a new effects layer, click Create Layer." = "Color adjustments cannot be made to an effects layer. To create a new effects layer, click Create Layer.";
+
+/* No comment provided by engineer. */
+"Color adjustments cannot be made to an empty layer. To turn this into a color adjustments layer, click Convert Layer." = "Color adjustments cannot be made to an empty layer. To turn this into a color adjustments layer, click Convert Layer.";
 
 /* No comment provided by engineer. */
 "Color Code" = "カラーコード";
@@ -140,10 +152,16 @@
 "Convert into Shape" = "シェイプに変換";
 
 /* No comment provided by engineer. */
+"Convert Layer" = "Convert Layer";
+
+/* No comment provided by engineer. */
 "Convert RAW layers to regular image layers to edit. All additional RAW data will be discarded." = "編集のためにRAWレイヤーを通常のイメージレイヤーに変換します。追加のRAWデータはすべて破棄されます。";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "角の半径";
+
+/* No comment provided by engineer. */
+"Create Layer" = "Create Layer";
 
 /* No comment provided by engineer. */
 "Crop" = "切り抜き";
@@ -165,6 +183,18 @@
 
 /* No comment provided by engineer. */
 "Distort" = "歪み";
+
+/* No comment provided by engineer. */
+"Drag left or right on the canvas to zoom the image." = "Drag left or right on the canvas to zoom the image.";
+
+/* No comment provided by engineer. */
+"Effects" = "エフェクト";
+
+/* No comment provided by engineer. */
+"Effects cannot be applied to a color adjustments layer. To create a new effects layer, click Create Layer." = "Effects cannot be applied to a color adjustments layer. To create a new effects layer, click Create Layer.";
+
+/* No comment provided by engineer. */
+"Effects cannot be applied to an empty layer. To turn this into an effects layer, click Convert Layer." = "Effects cannot be applied to an empty layer. To turn this into an effects layer, click Convert Layer.";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "楕円で選択";
@@ -212,6 +242,9 @@
 "Group" = "グループ化";
 
 /* No comment provided by engineer. */
+"Groups" = "グループ化";
+
+/* No comment provided by engineer. */
 "H:" = "高:";
 
 /* No comment provided by engineer. */
@@ -225,6 +258,9 @@
 
 /* No comment provided by engineer. */
 "Horizontal" = "水平方向";
+
+/* No comment provided by engineer. */
+"Images" = "画像";
 
 /* No comment provided by engineer. */
 "Increase the zoom level of the image." = "画像の拡大レベルを上げます。";
@@ -248,6 +284,9 @@
 "Lanczos" = "ランチョス";
 
 /* No comment provided by engineer. */
+"Layers" = "レイヤー";
+
+/* No comment provided by engineer. */
 "Left" = "左";
 
 /* No comment provided by engineer. */
@@ -267,6 +306,9 @@
 
 /* No comment provided by engineer. */
 "Mask Subject" = "対象をマスク";
+
+/* No comment provided by engineer. */
+"Masks" = "Masks";
 
 /* No comment provided by engineer. */
 "Max Pressure Location" = "最大圧力位置";
@@ -344,6 +386,9 @@
 "Range" = "範囲";
 
 /* No comment provided by engineer. */
+"RAW" = "RAW";
+
+/* No comment provided by engineer. */
 "Rectangular Selection" = "矩形選択";
 
 /* No comment provided by engineer. */
@@ -394,6 +439,9 @@
 /* No comment provided by engineer. */
 "Saturate" = "彩度を上げる";
 
+/* A zoom mode that lets users zoom by dragging on the canvas (scrub, in this case, comes from scrubbing video, i.e. fast-forwarding or reversing.) */
+"Scrubby Zoom" = "Scrubby Zoom";
+
 /* No comment provided by engineer. */
 "Select and Mask" = "選択とマスク";
 
@@ -428,6 +476,9 @@
 "Shadows" = "シャドウ";
 
 /* No comment provided by engineer. */
+"Shapes" = "シェイプ";
+
+/* No comment provided by engineer. */
 "Sharpen" = "シャープ";
 
 /* No comment provided by engineer. */
@@ -444,6 +495,9 @@
 
 /* No comment provided by engineer. */
 "Show source marker" = "ソースマーカーを表示";
+
+/* No comment provided by engineer. */
+"Show:" = "表示:";
 
 /* No comment provided by engineer. */
 "Simulate pressure" = "圧力をシミュレート";
@@ -503,7 +557,19 @@
 "Super Resolution" = "超解像技術";
 
 /* No comment provided by engineer. */
+"Tags:" = "タグ:";
+
+/* No comment provided by engineer. */
+"Text" = "テキスト";
+
+/* No comment provided by engineer. */
 "Text Styles" = "テキストスタイル";
+
+/* No comment provided by engineer. */
+"To selectively apply effects to this RAW layer, use an effects layer with a mask. Click Create Layer to create one automatically." = "To selectively apply effects to this RAW layer, use an effects layer with a mask. Click Create Layer to create one automatically.";
+
+/* No comment provided by engineer. */
+"To selectively edit the colors of this RAW Layer, use a color adjustments layer with a mask. Click Create Layer to create one automatically." = "To selectively edit the colors of this RAW Layer, use a color adjustments layer with a mask. Click Create Layer to create one automatically.";
 
 /* No comment provided by engineer. */
 "Transform" = "変形";
@@ -551,6 +617,9 @@
 "Zoom In" = "ズームイン";
 
 /* No comment provided by engineer. */
+"Zoom Out" = "ズームアウト";
+
+/* No comment provided by engineer. */
 "Zoom the image to its actual size." = "画像を実際のサイズに調整します。";
 
 /* No comment provided by engineer. */
@@ -558,6 +627,3 @@
 
 /* No comment provided by engineer. */
 "Zoom to fit the image to the Pixelmator Pro window." = "画像の拡大率をPixelmator Proウインドウに合わせます。";
-
-/* No comment provided by engineer. */
-"ZoomOut" = "縮小";

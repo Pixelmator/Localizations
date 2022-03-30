@@ -50,6 +50,12 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i Layers" = "%i개의 레이어";
+
+/* No comment provided by engineer. */
+"%i Paths" = "%i개의 경로";
+
+/* No comment provided by engineer. */
 "(Don't replace)" = "(교체하지 않음)";
 
 /* No comment provided by engineer. */
@@ -57,6 +63,9 @@
 
 /* Scale */
 "0.5x" = "0.5x";
+
+/* No comment provided by engineer. */
+"1 Layer" = "1개의 레이어";
 
 /* color picker sample size area */
 "1 Point" = "1포인트";
@@ -320,6 +329,9 @@
 "B:" = "B:";
 
 /* No comment provided by engineer. */
+"Background" = "배경";
+
+/* No comment provided by engineer. */
 "Background Color" = "배경색";
 
 /* No comment provided by engineer. */
@@ -551,6 +563,9 @@
 "Clarity Shadows" = "명확도 그림자";
 
 /* No comment provided by engineer. */
+"Clear All" = "모두 지우기";
+
+/* No comment provided by engineer. */
 "Clear Guides" = "안내선 지우기";
 
 /* No comment provided by engineer. */
@@ -759,6 +774,9 @@
 
 /* No comment provided by engineer. */
 "Copy and Paste as Layer" = "복사 및 레이어로 붙이기";
+
+/* No comment provided by engineer. */
+"Copy as Mask" = "마스크로 복사";
 
 /* No comment provided by engineer. */
 "Copy Effects" = "효과 복사";
@@ -1079,6 +1097,9 @@
 "Elliptical Speech Bubble" = "타원형 말 풍선";
 
 /* No comment provided by engineer. */
+"Empty Group" = "빈 그룹";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "빈 레이어";
 
 /* No comment provided by engineer. */
@@ -1119,6 +1140,9 @@
 
 /* No comment provided by engineer. */
 "Exclude Shapes" = "도형 제외";
+
+/* Refers to two vector paths, one which has been excluded from another. */
+"Excluded" = "제외됨";
 
 /* No comment provided by engineer. */
 "Exclusion" = "제외";
@@ -1600,6 +1624,9 @@
 /* No comment provided by engineer. */
 "Intersect with Shape" = "도형과 교차";
 
+/* Refers to two vector paths, one which has been intersected with another. */
+"Intersected" = "교차됨";
+
 /* No comment provided by engineer. */
 "Invert" = "반전";
 
@@ -1712,7 +1739,7 @@
 "Linear Tilt-Shift Blur" = "선형 기울기-시프트 블러";
 
 /* No comment provided by engineer. */
-"Link" = "링크";
+"Link Mask" = "마스크 연결";
 
 /* No comment provided by engineer. */
 "Load" = "로드";
@@ -1885,8 +1912,20 @@
 /* No comment provided by engineer. */
 "Moved Object" = "Moved Object";
 
+/* Displayed when a text layer is styled with multiple font families. */
+"Multiple Fonts" = "다중 글꼴";
+
 /* No comment provided by engineer. */
 "Multiple formats" = "다중 형식";
+
+/* Displayed when a text layer is styled with multiple font sizes. */
+"Multiple Sizes" = "다중 크기";
+
+/* Displayed when a single text layer is styled with various font families, typefaces, and/or sizes. */
+"Multiple Text Styles" = "다중 텍스트 스타일";
+
+/* Displayed when a text layer is styled with multiple font typefaces (bold, italic, etc.). */
+"Multiple Typefaces" = "다중 글자체";
 
 /* No comment provided by engineer. */
 "Multiply" = "곱하기";
@@ -1902,6 +1941,12 @@
 
 /* No comment provided by engineer. */
 "New Collection" = "새 컬렉션";
+
+/* No comment provided by engineer. */
+"New Color Adjustments Layer" = "새 색상 조정 레이어";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "새 효과 레이어";
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "새 타원 도형";
@@ -1984,14 +2029,23 @@
 /* No comment provided by engineer. */
 "No camera or scanner selected." = "선택된 카메라 또는 스캐너가 없습니다.";
 
+/* Displayed when no color adjustments are applied to a particular layer. */
+"No Color Adjustments" = "색상 조정 없음";
+
 /* No comment provided by engineer. */
 "No Color Profile" = "색상 프로필 없음";
+
+/* Displayed when no effects are applied to a particular layer. */
+"No Effects" = "효과 없음";
 
 /* No comment provided by engineer. */
 "No format" = "포맷 없음";
 
 /* No comment provided by engineer. */
 "No Horizon Detected" = "발견된 지평선 없음";
+
+/* No comment provided by engineer. */
+"No layers match the filter." = "해당 필터와 일치하는 레이어가 없습니다.";
 
 /* No comment provided by engineer. */
 "No Photos" = "사진 없음";
@@ -2459,6 +2513,9 @@
 "Replace Image" = "이미지 교체";
 
 /* No comment provided by engineer. */
+"Replace Image…" = "이미지 교체…";
+
+/* No comment provided by engineer. */
 "Replace Mask" = "마스크 대치";
 
 /* No comment provided by engineer. */
@@ -2550,6 +2607,9 @@
 
 /* No comment provided by engineer. */
 "Reveal in Finder" = "Finder에서 나타내기";
+
+/* No comment provided by engineer. */
+"Reveal or hide the layer mask." = "레이어 마스크를 표시하거나 숨깁니다.";
 
 /* No comment provided by engineer. */
 "Revert to Default Set" = "기본 설정으로 복귀";
@@ -2766,6 +2826,9 @@
 
 /* No comment provided by engineer. */
 "Set alpha color component value" = "알파 색상 구성 요소 값 설정";
+
+/* No comment provided by engineer. */
+"Set as Mask" = "마스크로 설정";
 
 /* No comment provided by engineer. */
 "Set blue color component value" = "파란색 구성 요소 값 설정";
@@ -3068,6 +3131,9 @@
 "Stylize" = "스타일화";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "대상 마스크";
+
+/* No comment provided by engineer. */
 "Subtract" = "빼기";
 
 /* No comment provided by engineer. */
@@ -3075,6 +3141,9 @@
 
 /* No comment provided by engineer. */
 "Subtract Shapes" = "도형 빼기";
+
+/* Refers to two vector paths, one which has been subtracted from another. */
+"Subtracted" = "차감됨";
 
 /* No comment provided by engineer. */
 "Suggested Names" = "제안된 이름";
@@ -3280,8 +3349,11 @@
 /* No comment provided by engineer. */
 "Unite Shapes" = "도형 결합";
 
+/* Refers to two vector paths, one which has been united with another. */
+"United" = "결합됨";
+
 /* No comment provided by engineer. */
-"Unlink" = "링크 해제";
+"Unlink Mask" = "마스크 연결 해제";
 
 /* No comment provided by engineer. */
 "Unlock" = "잠금 해제";
