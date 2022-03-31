@@ -113,10 +113,10 @@
 "Color Adjustments" = "カラー調整";
 
 /* No comment provided by engineer. */
-"Color adjustments cannot be made to an effects layer. To create a new effects layer, click Create Layer." = "Color adjustments cannot be made to an effects layer. To create a new effects layer, click Create Layer.";
+"Color adjustments cannot be made to an effects layer. To create a new color adjustments layer, click Create Layer." = "カラー調整はエフェクトレイヤーにできません。新規にカラー調整レイヤーを作成するには [レイヤーを作成] をクリックします。";
 
 /* No comment provided by engineer. */
-"Color adjustments cannot be made to an empty layer. To turn this into a color adjustments layer, click Convert Layer." = "Color adjustments cannot be made to an empty layer. To turn this into a color adjustments layer, click Convert Layer.";
+"Color adjustments cannot be made to an empty layer. To turn this into a color adjustments layer, click Convert Layer." = "カラー調整は空のレイヤーにできません。カラー調整レイヤーにするには [レイヤーを変換] をクリックします。";
 
 /* No comment provided by engineer. */
 "Color Code" = "カラーコード";
@@ -152,7 +152,7 @@
 "Convert into Shape" = "シェイプに変換";
 
 /* No comment provided by engineer. */
-"Convert Layer" = "Convert Layer";
+"Convert Layer" = "レイヤーを変換";
 
 /* No comment provided by engineer. */
 "Convert RAW layers to regular image layers to edit. All additional RAW data will be discarded." = "編集のためにRAWレイヤーを通常のイメージレイヤーに変換します。追加のRAWデータはすべて破棄されます。";
@@ -161,7 +161,7 @@
 "Corner Radius" = "角の半径";
 
 /* No comment provided by engineer. */
-"Create Layer" = "Create Layer";
+"Create Layer" = "レイヤーを作成";
 
 /* No comment provided by engineer. */
 "Crop" = "切り抜き";
@@ -185,16 +185,16 @@
 "Distort" = "歪み";
 
 /* No comment provided by engineer. */
-"Drag left or right on the canvas to zoom the image." = "Drag left or right on the canvas to zoom the image.";
+"Drag left or right on the canvas to zoom the image." = "キャンバス上を左または右にドラッグして、画像をズームします。";
 
 /* No comment provided by engineer. */
 "Effects" = "エフェクト";
 
 /* No comment provided by engineer. */
-"Effects cannot be applied to a color adjustments layer. To create a new effects layer, click Create Layer." = "Effects cannot be applied to a color adjustments layer. To create a new effects layer, click Create Layer.";
+"Effects cannot be applied to a color adjustments layer. To create a new effects layer, click Create Layer." = "エフェクトはカラー調整レイヤーに適用できません。新規にエフェクトレイヤーを作成するには [レイヤーを作成] をクリックします。";
 
 /* No comment provided by engineer. */
-"Effects cannot be applied to an empty layer. To turn this into an effects layer, click Convert Layer." = "Effects cannot be applied to an empty layer. To turn this into an effects layer, click Convert Layer.";
+"Effects cannot be applied to an empty layer. To turn this into an effects layer, click Convert Layer." = "エフェクトは空のレイヤーに適用できません。エフェクトレイヤーにするには [レイヤーを変換] をクリックします。";
 
 /* No comment provided by engineer. */
 "Elliptical Selection" = "楕円で選択";
@@ -308,7 +308,7 @@
 "Mask Subject" = "対象をマスク";
 
 /* No comment provided by engineer. */
-"Masks" = "Masks";
+"Masks" = "マスク";
 
 /* No comment provided by engineer. */
 "Max Pressure Location" = "最大圧力位置";
@@ -440,7 +440,7 @@
 "Saturate" = "彩度を上げる";
 
 /* A zoom mode that lets users zoom by dragging on the canvas (scrub, in this case, comes from scrubbing video, i.e. fast-forwarding or reversing.) */
-"Scrubby Zoom" = "Scrubby Zoom";
+"Scrubby Zoom" = "スクラブズーム";
 
 /* No comment provided by engineer. */
 "Select and Mask" = "選択とマスク";
@@ -548,6 +548,9 @@
 "Stroke with Brush…" = "ブラシで描画…";
 
 /* No comment provided by engineer. */
+"Styles cannot be applied to an empty image layer. To turn this into a shape layer, click Convert Layer." = "スタイルは空の画像レイヤーに適用できません。シェイプレイヤーにするには [レイヤーを変換] をクリックします。";
+
+/* No comment provided by engineer. */
 "Subtract" = "減算";
 
 /* No comment provided by engineer. */
@@ -566,10 +569,10 @@
 "Text Styles" = "テキストスタイル";
 
 /* No comment provided by engineer. */
-"To selectively apply effects to this RAW layer, use an effects layer with a mask. Click Create Layer to create one automatically." = "To selectively apply effects to this RAW layer, use an effects layer with a mask. Click Create Layer to create one automatically.";
+"To selectively apply effects to this RAW layer, use an effects layer with a mask. Click Create Layer to create one automatically." = "このRAWレイヤーにエフェクトを選択的に適用するには、マスク付きのエフェクトレイヤーを使用します。[レイヤーを作成] をクリックしてレイヤーを自動的に作成します。";
 
 /* No comment provided by engineer. */
-"To selectively edit the colors of this RAW Layer, use a color adjustments layer with a mask. Click Create Layer to create one automatically." = "To selectively edit the colors of this RAW Layer, use a color adjustments layer with a mask. Click Create Layer to create one automatically.";
+"To selectively edit the colors of this RAW Layer, use a color adjustments layer with a mask. Click Create Layer to create one automatically." = "このRAWレイヤーの色を選択的に編集するには、マスク付きのカラー調整レイヤーを使用します。[レイヤーを作成] をクリックして、レイヤーを自動的に作成します。";
 
 /* No comment provided by engineer. */
 "Transform" = "変形";
