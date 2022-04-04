@@ -101,9 +101,6 @@
 "Albums" = "Album";
 
 /* No comment provided by engineer. */
-"All Albums" = "Tutti gli album";
-
-/* No comment provided by engineer. */
 "All Photos" = "Tutte le foto";
 
 /* No comment provided by engineer. */
@@ -114,9 +111,6 @@
 
 /* No comment provided by engineer. */
 "All the workflows in this group will be reset to their default settings." = "Tutti i flussi di lavoro in questo gruppo saranno reimpostati alle impostazioni di default.";
-
-/* No comment provided by engineer. */
-"All your albums, including those in folders, will be displayed in a single alphabetical list." = "Tutti i tuoi album, inclusi quelli nelle cartelle saranno mostrati in un unico elenco, in ordine alfabetico.";
 
 /* No comment provided by engineer. */
 "Allow Access to All Photos" = "Consenti l'accesso a All Photos";
@@ -551,6 +545,9 @@
 "Dismiss" = "Rifiuta";
 
 /* No comment provided by engineer. */
+"Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery.";
+
+/* No comment provided by engineer. */
 "Distance" = "Distanza";
 
 /* Effects category name */
@@ -564,6 +561,9 @@
 
 /* No comment provided by engineer. */
 "Done" = "Fatto";
+
+/* keyboard */
+"done" = "fatto";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Freccia a due punte";
@@ -684,10 +684,10 @@
 "Elliptical Speech Bubble" = "Fumetto ellittico";
 
 /* No comment provided by engineer. */
-"Empty" = "Vuoto";
+"Empty Album" = "Album vuoto";
 
 /* No comment provided by engineer. */
-"Empty Album" = "Album vuoto";
+"Empty Layer" = "Livello vuoto";
 
 /* No comment provided by engineer. */
 "Enable" = "Attiva";
@@ -925,6 +925,9 @@
 "Image Fill" = "Riempimento immagine";
 
 /* No comment provided by engineer. */
+"Image Layer" = "Livello immagine";
+
+/* No comment provided by engineer. */
 "IMAGE QUALITY" = "QUALITÀ IMMAGINE";
 
 /* Tool */
@@ -1113,8 +1116,14 @@
 /* Tool */
 "Magnetic" = "Magnetica";
 
+/* No comment provided by engineer. */
+"Makes the Hidden album from your Photos library visible in Pixelmator Photo." = "Makes the Hidden album from your Photos library visible in Pixelmator Photo.";
+
 /* Tool */
 "Marker" = "Pennarello";
+
+/* No comment provided by engineer. */
+"Mask" = "Maschera";
 
 /* Color Balance */
 "Master" = "Principale";
@@ -1209,14 +1218,23 @@
 /* No comment provided by engineer. */
 "Next" = "Successivo";
 
+/* keyboard */
+"next" = "successivo";
+
 /* No comment provided by engineer. */
 "Next Image" = "Immagine successiva";
 
 /* No comment provided by engineer. */
 "Next Preset" = "Preset successivo";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No Camera Info" = "Nessuna informazione sulla fotocamera";
+
 /* Document info */
 "No camera information" = "Nessuna informazione sulla fotocamera";
+
+/* Displayed when the model of the camera lens used to take a photo is not known. */
+"No Lens Info" = "Nessuna informazione sull'obiettivo";
 
 /* Document info */
 "No lens information" = "Nessuna informazione sulle lenti";
@@ -2110,6 +2128,9 @@
 
 /* No comment provided by engineer. */
 "Touch Size" = "Dimensione tocco";
+
+/* No comment provided by engineer. */
+"Transient" = "Transient";
 
 /* No comment provided by engineer. */
 "Transition" = "Transizione";
