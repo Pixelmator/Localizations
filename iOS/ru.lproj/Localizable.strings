@@ -101,9 +101,6 @@
 "Albums" = "Альбомы";
 
 /* No comment provided by engineer. */
-"All Albums" = "Все альбомы";
-
-/* No comment provided by engineer. */
 "All Photos" = "Все фото";
 
 /* No comment provided by engineer. */
@@ -114,9 +111,6 @@
 
 /* No comment provided by engineer. */
 "All the workflows in this group will be reset to their default settings." = "Все процессы этой группы будут сброшены к их значениям по умолчанию.";
-
-/* No comment provided by engineer. */
-"All your albums, including those in folders, will be displayed in a single alphabetical list." = "Все ваши альбомы, включая те, что внутри папок, будут показаны в алфавитном порядке.";
 
 /* No comment provided by engineer. */
 "Allow Access to All Photos" = "Открыть доступ ко всем фото";
@@ -551,6 +545,9 @@
 "Dismiss" = "Отклонить";
 
 /* No comment provided by engineer. */
+"Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery.";
+
+/* No comment provided by engineer. */
 "Distance" = "Дистанция";
 
 /* Effects category name */
@@ -564,6 +561,9 @@
 
 /* No comment provided by engineer. */
 "Done" = "Готово";
+
+/* keyboard */
+"done" = "готово";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Двусторонняя стрелка";
@@ -684,10 +684,10 @@
 "Elliptical Speech Bubble" = "Эллиптический пузырь речи";
 
 /* No comment provided by engineer. */
-"Empty" = "Пусто";
+"Empty Album" = "Пустой альбом";
 
 /* No comment provided by engineer. */
-"Empty Album" = "Пустой альбом";
+"Empty Layer" = "Пустой слой";
 
 /* No comment provided by engineer. */
 "Enable" = "Включить";
@@ -925,6 +925,9 @@
 "Image Fill" = "Заливка изображения";
 
 /* No comment provided by engineer. */
+"Image Layer" = "Слой изображения";
+
+/* No comment provided by engineer. */
 "IMAGE QUALITY" = "КАЧЕСТВО ИЗОБРАЖЕНИЯ";
 
 /* Tool */
@@ -1113,8 +1116,14 @@
 /* Tool */
 "Magnetic" = "Магнитный";
 
+/* No comment provided by engineer. */
+"Makes the Hidden album from your Photos library visible in Pixelmator Photo." = "Makes the Hidden album from your Photos library visible in Pixelmator Photo.";
+
 /* Tool */
 "Marker" = "Маркер";
+
+/* No comment provided by engineer. */
+"Mask" = "Маска";
 
 /* Color Balance */
 "Master" = "Мастер";
@@ -1209,14 +1218,23 @@
 /* No comment provided by engineer. */
 "Next" = "Далее";
 
+/* keyboard */
+"next" = "далее";
+
 /* No comment provided by engineer. */
 "Next Image" = "Следующее изображение";
 
 /* No comment provided by engineer. */
 "Next Preset" = "Следующий набор настроек";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No Camera Info" = "Нет данных камеры";
+
 /* Document info */
 "No camera information" = "Нет данных по камере";
+
+/* Displayed when the model of the camera lens used to take a photo is not known. */
+"No Lens Info" = "Нет данных об объективе";
 
 /* Document info */
 "No lens information" = "Нет данных по объективу";
@@ -2110,6 +2128,9 @@
 
 /* No comment provided by engineer. */
 "Touch Size" = "Размер касания";
+
+/* No comment provided by engineer. */
+"Transient" = "Transient";
 
 /* No comment provided by engineer. */
 "Transition" = "Переход";

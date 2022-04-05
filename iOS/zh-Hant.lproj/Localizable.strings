@@ -101,9 +101,6 @@
 "Albums" = "相簿";
 
 /* No comment provided by engineer. */
-"All Albums" = "所有相簿";
-
-/* No comment provided by engineer. */
 "All Photos" = "所有照片";
 
 /* No comment provided by engineer. */
@@ -114,9 +111,6 @@
 
 /* No comment provided by engineer. */
 "All the workflows in this group will be reset to their default settings." = "此群組所有的工作流程都將回復為預設值。";
-
-/* No comment provided by engineer. */
-"All your albums, including those in folders, will be displayed in a single alphabetical list." = "所有相簿（包含位於資料夾內的相簿）都將顯示於一個以字母順序排列的列表中。";
 
 /* No comment provided by engineer. */
 "Allow Access to All Photos" = "允許權限瀏覽所有照片";
@@ -551,6 +545,9 @@
 "Dismiss" = "關閉";
 
 /* No comment provided by engineer. */
+"Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "以字母順序顯示所有相簿，包含資料夾中的相簿。";
+
+/* No comment provided by engineer. */
 "Distance" = "距離";
 
 /* Effects category name */
@@ -564,6 +561,9 @@
 
 /* No comment provided by engineer. */
 "Done" = "完成";
+
+/* keyboard */
+"done" = "完成";
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "雙頭箭頭";
@@ -684,10 +684,10 @@
 "Elliptical Speech Bubble" = "橢圓對話泡泡";
 
 /* No comment provided by engineer. */
-"Empty" = "空";
+"Empty Album" = "空相簿";
 
 /* No comment provided by engineer. */
-"Empty Album" = "空相簿";
+"Empty Layer" = "空圖層";
 
 /* No comment provided by engineer. */
 "Enable" = "啟用";
@@ -925,6 +925,9 @@
 "Image Fill" = "影像填充";
 
 /* No comment provided by engineer. */
+"Image Layer" = "影像圖層";
+
+/* No comment provided by engineer. */
 "IMAGE QUALITY" = "影像畫質";
 
 /* Tool */
@@ -1113,8 +1116,14 @@
 /* Tool */
 "Magnetic" = "磁性";
 
+/* No comment provided by engineer. */
+"Makes the Hidden album from your Photos library visible in Pixelmator Photo." = "讓照片庫中隱藏的相簿顯示在 Pixelmator Photo 中。";
+
 /* Tool */
 "Marker" = "馬克筆";
+
+/* No comment provided by engineer. */
+"Mask" = "遮罩";
 
 /* Color Balance */
 "Master" = "主色";
@@ -1209,14 +1218,23 @@
 /* No comment provided by engineer. */
 "Next" = "下一個";
 
+/* keyboard */
+"next" = "下一個";
+
 /* No comment provided by engineer. */
 "Next Image" = "下一張影像";
 
 /* No comment provided by engineer. */
 "Next Preset" = "下一個預設組";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No Camera Info" = "無相機資訊";
+
 /* Document info */
 "No camera information" = "無相機資訊";
+
+/* Displayed when the model of the camera lens used to take a photo is not known. */
+"No Lens Info" = "無鏡頭資訊";
 
 /* Document info */
 "No lens information" = "無鏡頭資訊";
@@ -2110,6 +2128,9 @@
 
 /* No comment provided by engineer. */
 "Touch Size" = "觸摸大小";
+
+/* No comment provided by engineer. */
+"Transient" = "暫時";
 
 /* No comment provided by engineer. */
 "Transition" = "過渡";
