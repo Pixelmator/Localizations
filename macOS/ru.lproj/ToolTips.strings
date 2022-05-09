@@ -548,6 +548,9 @@
 "Angle" = "Угол";
 
 /* No comment provided by engineer. */
+"Apply a layer style to this layer." = "Применить стиль слоя к этому слою.";
+
+/* No comment provided by engineer. */
 "Apply the brush stroke to your image." = "Применить штрих кисти к изображению.";
 
 /* No comment provided by engineer. */
@@ -603,6 +606,12 @@
 
 /* No comment provided by engineer. */
 "Brush over areas to make them softer." = "Проведите кистью по участкам, чтобы сделать их мягче.";
+
+/* No comment provided by engineer. */
+"Camera lens used to take the photo." = "Объектив камеры исп. для фотосъемки.";
+
+/* No comment provided by engineer. */
+"Camera used to take the photo." = "Камера используется для съемки фото.";
 
 /* No comment provided by engineer. */
 "Center text." = "Выровнять текст по центру.";
@@ -755,6 +764,9 @@
 "Click to automatically adjust the white balance of the image." = "Нажать, чтобы автоматически отрегулировать баланс белого в изображении.";
 
 /* No comment provided by engineer. */
+"Click to automatically enhance the white balance, lightness, hue & saturation, and individual color ranges in the image." = "Нажать, чтобы автоматически улучшить баланс белого, осветление, оттенок и насыщенность, а также индивидуальные цветовые диапазоны в изображении.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "Нажать для выбора цвета.";
 
 /* No comment provided by engineer. */
@@ -806,6 +818,12 @@
 "Create a new brush preset with the current brush settings." = "Создать новый набор настроек кисти из текущих настроек кисти.";
 
 /* No comment provided by engineer. */
+"Create a new color adjustments layer." = "Создать новый слой цветокоррекции.";
+
+/* No comment provided by engineer. */
+"Create a new effects layer." = "Создать новый слой эффектов.";
+
+/* No comment provided by engineer. */
 "Create a shape from the intersection of the shape you draw and the currently selected shape." = "Создать фигуру из пересечения выбранной фигуры и фигуры, которую вы рисуете.";
 
 /* No comment provided by engineer. */
@@ -836,6 +854,9 @@
 "Customize the look of layers by applying fills, strokes, and shadows." = "Измените вид слоёв, применяя заливки, штрихи и тени.";
 
 /* No comment provided by engineer. */
+"Customize the visibility of individual color adjustments." = "Настройте видимость индивидуальной цветокоррекции.";
+
+/* No comment provided by engineer. */
 "Decrease the font size." = "Уменьшить размер шрифта.";
 
 /* No comment provided by engineer. */
@@ -843,6 +864,15 @@
 
 /* No comment provided by engineer. */
 "Destructively combine the selected objects into a single object." = "Деструктивно объединить выбранные объекты в один объект.";
+
+/* No comment provided by engineer. */
+"Destructively merge the color adjustments with the object." = "Деструктивно объединить цветокоррекцию с объектом.";
+
+/* No comment provided by engineer. */
+"Destructively merge the effects with the object." = "Деструктивно объедините эффекты с объектом.";
+
+/* No comment provided by engineer. */
+"Destructively merge the styles with the object." = "Деструктивно объединить стили с объектом.";
 
 /* No comment provided by engineer. */
 "Disable the layer mask." = "Отключить маску слоя.";
@@ -980,6 +1010,9 @@
 "Flip the object vertically." = "Переверните объект по вертикали.";
 
 /* No comment provided by engineer. */
+"Focal length (the distance from the camera lens to the camera sensor)." = "Фокусное расстояние (расстояние от объектива камеры до ее сенсора).";
+
+/* No comment provided by engineer. */
 "Freely change the size of the object." = "Свободно меняйте размер объекта.";
 
 /* No comment provided by engineer. */
@@ -1014,6 +1047,9 @@
 
 /* No comment provided by engineer. */
 "Insert an empty layer." = "Ввести пустой слой.";
+
+/* No comment provided by engineer. */
+"ISO speed setting (the overall sensitivity of the camera sensor to light)." = "Настройка скорости ISO (общей чувствительности сенсора камеры к свету).";
 
 /* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "Выровнять текст по всей ширине (от центра вправо и влево).";
@@ -1118,6 +1154,9 @@
 "Quickly make selections of objects or areas by painting over them." = "Быстро делать выделение объектов или областей, рисуя поверх их.";
 
 /* No comment provided by engineer. */
+"Relative aperture diameter setting (expressed as the ratio of focal length to effective aperture diameter)." = "Настройка диаметра относительного отверстия (выраженного как отношение фокального расстояния к диаметру относительной апертуры).";
+
+/* No comment provided by engineer. */
 "Remove any overlapping areas between the shape you draw and the currently selected shape." = "Удалить все пересекающиеся области между выбранной фигурой и фигурой, которую вы рисуете.";
 
 /* No comment provided by engineer. */
@@ -1157,10 +1196,22 @@
 "Reset any refinements to the mask." = "Сбросить любые уточнения маски.";
 
 /* No comment provided by engineer. */
+"Reset the color adjustments for the object to default." = "Сбросить цветокоррекцию объекта к значениям по умолчанию.";
+
+/* No comment provided by engineer. */
 "Reset the colors of the Color wheel" = "Сбросьте цвета в цветовом круге";
 
 /* No comment provided by engineer. */
+"Reset the effects for the object to default." = "Сбросить эффекты объекта к значениям по умолчанию.";
+
+/* No comment provided by engineer. */
+"Reset the layer style of the shape to default." = "Сбросить стиль слоя фигуры к стилю по умолчанию.";
+
+/* No comment provided by engineer. */
 "Reset the rotation of the canvas to default." = "Сбросить вращение холста на значение по умолчанию.";
+
+/* No comment provided by engineer. */
+"Reset the style to default." = "Сброс стиля на значение по умолчанию.";
 
 /* No comment provided by engineer. */
 "Restore the selected object to its original dimensions." = "Верните выбранный объект к его исходным размерам.";
@@ -1233,6 +1284,9 @@
 
 /* No comment provided by engineer. */
 "Select to maintain the aspect ratio (width to height) when resizing this object." = "Выберите сохранение пропорций (ширина к высоте) при изменении размеров этого объекта.";
+
+/* No comment provided by engineer. */
+"Select to maintain the aspect ratio (width to height) when resizing this shape." = "Выбрать сохранение пропорций (ширина к высоте) при изменении размеров этой фигуры.";
 
 /* No comment provided by engineer. */
 "Select to make the Clone tool take into account every layer in your image." = "Выбрать, чтобы инструмент «Штамп» учитывал каждый слой в изображении.";
@@ -1619,6 +1673,12 @@
 "Set the saturation of the selected color." = "Задайте насыщенность выбранного цвета.";
 
 /* No comment provided by engineer. */
+"Set the shape height." = "Задать высоту фигуры.";
+
+/* No comment provided by engineer. */
+"Set the shape width." = "Задать ширину фигуры.";
+
+/* No comment provided by engineer. */
 "Set the size of the brush texture." = "Задайте размер текстуры кисти.";
 
 /* No comment provided by engineer. */
@@ -1859,6 +1919,15 @@
 "Show what the image looked like before you warped it." = "Показать, на что похоже изображение до искажения.";
 
 /* No comment provided by engineer. */
+"Show what the object looks like without any color adjustments." = "Показать, как выглядит объект без какой-либо цветокоррекции.";
+
+/* No comment provided by engineer. */
+"Show what the objects looks like without any effects." = "Показать, как выглядят объекты без каких-либо эффектов.";
+
+/* No comment provided by engineer. */
+"Shutter speed setting (the length of time the camera sensor was exposed to light)." = "Настройка выдержки (отрезка времени, в течение которого сенсор камеры экспонируется для фото).";
+
+/* No comment provided by engineer. */
 "Slant the object vertically or horizontally." = "Наклон объекта по вертикали или по горизонтали.";
 
 /* No comment provided by engineer. */
@@ -1956,3 +2025,9 @@
 
 /* No comment provided by engineer. */
 "Zoom and navigate images." = "Масштабировать и направлять изображения.";
+
+/* No comment provided by engineer. */
+"Zoom in." = "Zoom in.";
+
+/* No comment provided by engineer. */
+"Zoom out." = "Zoom out.";
