@@ -548,6 +548,9 @@
 "Angle" = "각도";
 
 /* No comment provided by engineer. */
+"Apply a layer style to this layer." = "이 레이어에 레이어 스타일을 적용합니다.";
+
+/* No comment provided by engineer. */
 "Apply the brush stroke to your image." = "이미지에 브러시 스트로크를 적용합니다.";
 
 /* No comment provided by engineer. */
@@ -603,6 +606,12 @@
 
 /* No comment provided by engineer. */
 "Brush over areas to make them softer." = "영역을 브러시로 칠하여 더 부드럽게 만듭니다.";
+
+/* No comment provided by engineer. */
+"Camera lens used to take the photo." = "사진을 촬영하는 데 사용된 카메라 렌즈.";
+
+/* No comment provided by engineer. */
+"Camera used to take the photo." = "사진을 촬영하는 데 사용된 카메라.";
 
 /* No comment provided by engineer. */
 "Center text." = "텍스트를 가운데로 맞춥니다.";
@@ -755,6 +764,9 @@
 "Click to automatically adjust the white balance of the image." = "클릭해서 자동으로 이미지의 화이트 밸런스를 조정합니다.";
 
 /* No comment provided by engineer. */
+"Click to automatically enhance the white balance, lightness, hue & saturation, and individual color ranges in the image." = "클릭해서 자동으로 이미지 안의 화이트 밸런스, 명도, 색조, 채도 및 개별 색상 범위를 향상시킵니다.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "색상을 선택하려면 클릭합니다.";
 
 /* No comment provided by engineer. */
@@ -806,6 +818,12 @@
 "Create a new brush preset with the current brush settings." = "현재 브러시 설정을 사용하여 새로운 브러시 프리셋을 생성합니다.";
 
 /* No comment provided by engineer. */
+"Create a new color adjustments layer." = "새로운 색상 조정 레이어를 생성합니다.";
+
+/* No comment provided by engineer. */
+"Create a new effects layer." = "새로운 효과 레이어를 생성합니다.";
+
+/* No comment provided by engineer. */
 "Create a shape from the intersection of the shape you draw and the currently selected shape." = "사용자가 그린 도형과 현재 선택된 도형의 교차 부분에서 도형을 생성합니다.";
 
 /* No comment provided by engineer. */
@@ -836,6 +854,9 @@
 "Customize the look of layers by applying fills, strokes, and shadows." = "채우기, 스트로크, 그림자를 적용하여 레이어의 모양을 사용자화합니다.";
 
 /* No comment provided by engineer. */
+"Customize the visibility of individual color adjustments." = "개별 색상 조정의 가시성을 사용자화합니다.";
+
+/* No comment provided by engineer. */
 "Decrease the font size." = "글꼴 크기를 줄입니다.";
 
 /* No comment provided by engineer. */
@@ -843,6 +864,15 @@
 
 /* No comment provided by engineer. */
 "Destructively combine the selected objects into a single object." = "선택한 대상체들을 단일 대상체로 파괴적으로 결합합니다.";
+
+/* No comment provided by engineer. */
+"Destructively merge the color adjustments with the object." = "색상 조정과 대상체를 파괴적으로 병합합니다.";
+
+/* No comment provided by engineer. */
+"Destructively merge the effects with the object." = "효과와 대상체를 파괴적으로 병합합니다.";
+
+/* No comment provided by engineer. */
+"Destructively merge the styles with the object." = "스타일과 대상체를 파괴적으로 병합합니다.";
 
 /* No comment provided by engineer. */
 "Disable the layer mask." = "레이어 마스크를 비활성화합니다.";
@@ -980,6 +1010,9 @@
 "Flip the object vertically." = "대상체를 상하로 뒤집습니다.";
 
 /* No comment provided by engineer. */
+"Focal length (the distance from the camera lens to the camera sensor)." = "초점 거리(카메라 렌즈에서 카메라 센서까지의 거리).";
+
+/* No comment provided by engineer. */
 "Freely change the size of the object." = "대상체의 크기를 자유롭게 변경합니다.";
 
 /* No comment provided by engineer. */
@@ -1014,6 +1047,9 @@
 
 /* No comment provided by engineer. */
 "Insert an empty layer." = "빈 레이어를 삽입합니다.";
+
+/* No comment provided by engineer. */
+"ISO speed setting (the overall sensitivity of the camera sensor to light)." = "ISO speed setting (the overall sensitivity of the camera sensor to light).";
 
 /* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "텍스트를 양쪽으로 맞춥니다(왼쪽 및 오른쪽의 가운데).";
@@ -1118,6 +1154,9 @@
 "Quickly make selections of objects or areas by painting over them." = "페인트하여 대상체 또는 영역의 선택을 빠르게 수행합니다.";
 
 /* No comment provided by engineer. */
+"Relative aperture diameter setting (expressed as the ratio of focal length to effective aperture diameter)." = "Relative aperture diameter setting (expressed as the ratio of focal length to effective aperture diameter).";
+
+/* No comment provided by engineer. */
 "Remove any overlapping areas between the shape you draw and the currently selected shape." = "사용자가 그린 도형과 현재 선택된 도형의 겹친 영역을 제거합니다.";
 
 /* No comment provided by engineer. */
@@ -1157,10 +1196,22 @@
 "Reset any refinements to the mask." = "마스크에 대한 모든 미세 조정을 재설정합니다.";
 
 /* No comment provided by engineer. */
+"Reset the color adjustments for the object to default." = "대상체에 대한 색상 조정을 기본값으로 재설정합니다.";
+
+/* No comment provided by engineer. */
 "Reset the colors of the Color wheel" = "색상 원판의 색상을 재설정합니다";
 
 /* No comment provided by engineer. */
+"Reset the effects for the object to default." = "대상체에 대한 효과를 기본값으로 재설정합니다.";
+
+/* No comment provided by engineer. */
+"Reset the layer style of the shape to default." = "도형의 레이어 스타일을 기본값으로 재설정합니다.";
+
+/* No comment provided by engineer. */
 "Reset the rotation of the canvas to default." = "캔버스의 회전을 기본값으로 재설정합니다.";
+
+/* No comment provided by engineer. */
+"Reset the style to default." = "스타일을 기본값으로 재설정합니다.";
 
 /* No comment provided by engineer. */
 "Restore the selected object to its original dimensions." = "선택한 대상체를 원래 크기로 복원합니다.";
@@ -1233,6 +1284,9 @@
 
 /* No comment provided by engineer. */
 "Select to maintain the aspect ratio (width to height) when resizing this object." = "이 대상체의 크기를 조정할 때 가로 세로 비율(너비 대 높이)을 유지하려면 선택합니다.";
+
+/* No comment provided by engineer. */
+"Select to maintain the aspect ratio (width to height) when resizing this shape." = "이 도형의 크기를 조정할 때 가로 세로 비율(너비 대 높이)을 유지하려면 선택합니다.";
 
 /* No comment provided by engineer. */
 "Select to make the Clone tool take into account every layer in your image." = "복제 도구가 이미지 안의 모든 레이어를 대상으로 하게 하려면 선택합니다.";
@@ -1619,6 +1673,12 @@
 "Set the saturation of the selected color." = "선택된 색의 채도를 설정합니다.";
 
 /* No comment provided by engineer. */
+"Set the shape height." = "도형의 높이를 설정합니다.";
+
+/* No comment provided by engineer. */
+"Set the shape width." = "도형의 너비를 설정합니다.";
+
+/* No comment provided by engineer. */
 "Set the size of the brush texture." = "브러시 텍스처의 크기를 설정합니다.";
 
 /* No comment provided by engineer. */
@@ -1859,6 +1919,15 @@
 "Show what the image looked like before you warped it." = "휘기 전 이미지의 모습을 표시합니다.";
 
 /* No comment provided by engineer. */
+"Show what the object looks like without any color adjustments." = "색상 조정이 없는 대상체의 모습을 표시합니다.";
+
+/* No comment provided by engineer. */
+"Show what the objects looks like without any effects." = "효과가 없는 대상체의 모습을 표시합니다.";
+
+/* No comment provided by engineer. */
+"Shutter speed setting (the length of time the camera sensor was exposed to light)." = "셔터 속도 설정(카메라 센서가 빛에 노출되는 시간의 길이).";
+
+/* No comment provided by engineer. */
 "Slant the object vertically or horizontally." = "대상체를 수직 또는 수평으로 기울게 합니다.";
 
 /* No comment provided by engineer. */
@@ -1956,3 +2025,9 @@
 
 /* No comment provided by engineer. */
 "Zoom and navigate images." = "이미지를 확대/축소 및 탐색합니다.";
+
+/* No comment provided by engineer. */
+"Zoom in." = "Zoom in.";
+
+/* No comment provided by engineer. */
+"Zoom out." = "Zoom out.";
