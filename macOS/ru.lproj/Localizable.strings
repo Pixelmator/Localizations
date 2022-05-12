@@ -23,6 +23,9 @@
 "%@ Effect" = "Эффект %@";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ обнаружена критически важная ошибка, возможно, из-за недостаточного места на диске или ошибки операционной системы. Может помочь освобождение памяти или перезагрузка вашего Mac.";
+
+/* No comment provided by engineer. */
 "%@ layer" = "слоев: %@";
 
 /* No comment provided by engineer. */
@@ -227,9 +230,6 @@
 "Affine Tile" = "Аффинная мозаика";
 
 /* No comment provided by engineer. */
-"Albums" = "Альбомы";
-
-/* No comment provided by engineer. */
 "Align Bottom Edges" = "Выровнять нижние края";
 
 /* No comment provided by engineer. */
@@ -366,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Background Color" = "Цвет фона";
+
+/* No comment provided by engineer. */
+"Background Layer" = "Фоновый слой";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "Корректировки баланса";
@@ -788,6 +791,9 @@
 "Convert LUT into Adjustments" = "Конвертировать LUT в корректировки...";
 
 /* No comment provided by engineer. */
+"Convert to Color Adjustments Layer" = "Конвертировать в слой цветокоррекции";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "Конвертирование LUT в корректировки…";
 
 /* No comment provided by engineer. */
@@ -843,6 +849,9 @@
 
 /* No comment provided by engineer. */
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "Создавайте отличный дизайн и иллюстрации с помощью простых в работе смарт-форм, мощных текстовых инструментов и полного набора векторных инструментов.";
+
+/* No comment provided by engineer. */
+"Critical Resources Unavailable" = "Недоступны критически важные ресурсы";
 
 /* No comment provided by engineer. */
 "Crop" = "Обрезка";
@@ -1163,6 +1172,9 @@
 "Erase" = "Ластик";
 
 /* No comment provided by engineer. */
+"Error:" = "Ошибка:";
+
+/* No comment provided by engineer. */
 "Exclude" = "Исключить";
 
 /* No comment provided by engineer. */
@@ -1269,9 +1281,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Faces" = "Лица";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1577,9 +1586,6 @@
 "Hue Scatter" = "Разброс оттенков";
 
 /* No comment provided by engineer. */
-"iCloud" = "iCloud";
-
-/* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "Если вы так сделаете, то, когда в следующий раз вы будете редактировать с помощью расширения Pixelmator Pro, все слои и прочие недеструктивные изменения будут восстановлены.\n\nВ противном случае будет сохранено только окончательное исправленное изображение.";
 
 /* Untitled document name received via Handoff */
@@ -1602,9 +1608,6 @@
 
 /* No comment provided by engineer. */
 "Image Straightened by %@" = "Изображение выпрямлено %@";
-
-/* No comment provided by engineer. */
-"Image Unavailable" = "Изображение недоступно";
 
 /* No comment provided by engineer. */
 "Import" = "Импорт";
@@ -1697,9 +1700,6 @@
 "JPEG" = "JPEG";
 
 /* No comment provided by engineer. */
-"Keep SketchBook" = "Оставить SketchBook";
-
-/* No comment provided by engineer. */
 "Keywords Change" = "Изменение ключевых слов";
 
 /* No comment provided by engineer. */
@@ -1710,6 +1710,9 @@
 
 /* No comment provided by engineer. */
 "Layer" = "Слой";
+
+/* No comment provided by engineer. */
+"Layer Mask" = "Маска слоя";
 
 /* No comment provided by engineer. */
 "Layer Menu" = "Меню слоя";
@@ -1916,9 +1919,6 @@
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "Изменение этого документа на месте может привести к потере части его исходного форматирования. Хотите сначала создать дубликат этого документа?";
 
 /* No comment provided by engineer. */
-"Moments" = "Моменты";
-
-/* No comment provided by engineer. */
 "Move" = "Передвинуть";
 
 /* No comment provided by engineer. */
@@ -1971,12 +1971,6 @@
 
 /* No comment provided by engineer. */
 "Mustache" = "Усы";
-
-/* No comment provided by engineer. */
-"New Adjustments" = "Новые корректировки";
-
-/* No comment provided by engineer. */
-"New Adjustments Layer" = "Новый слой корректировок";
 
 /* No comment provided by engineer. */
 "New Collection" = "Новая коллекция";
@@ -2093,9 +2087,6 @@
 "No Lens Info" = "Нет данных об объективе";
 
 /* No comment provided by engineer. */
-"No Photos" = "Нет фото";
-
-/* No comment provided by engineer. */
 "No Recent Documents" = "Нет недавних документов";
 
 /* No comment provided by engineer. */
@@ -2139,9 +2130,6 @@
 
 /* No comment provided by engineer. */
 "Open and edit images saved on your Mac" = "Открывать и править сохраненные на вашем Mac изображения";
-
-/* No comment provided by engineer. */
-"Open Photos" = "Открыть Photos";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "Открыть Системные настройки";
@@ -2247,9 +2235,6 @@
 
 /* No comment provided by engineer. */
 "Perspective Transform" = "Перспективное преобразование";
-
-/* No comment provided by engineer. */
-"Photos" = "Фото";
 
 /* No comment provided by engineer. */
 "Photos Extension" = "Расширение Photos";
@@ -2370,6 +2355,9 @@
 
 /* Quit anyway button title */
 "Quit anyway" = "Все равно завершить";
+
+/* No comment provided by engineer. */
+"Quit Application" = "Завершить приложение";
 
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "Если завершить сейчас, будут потеряны все изменения с момента последнего удачного сохранения";
@@ -2498,9 +2486,6 @@
 "Remove Shape Paths" = "Удалить пути фигуры";
 
 /* No comment provided by engineer. */
-"Remove SketchBook" = "Удалить SketchBook";
-
-/* No comment provided by engineer. */
 "Remove Style" = "Удалить стиль";
 
 /* No comment provided by engineer. */
@@ -2574,6 +2559,9 @@
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "Репроцесс RAW";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "Недоступны требуемые ресурсы";
 
 /* No comment provided by engineer. */
 "Reselect" = "Выбрать заново";
@@ -2911,9 +2899,6 @@
 /* No comment provided by engineer. */
 "Share" = "Поделиться";
 
-/* No comment provided by engineer. */
-"Shared" = "Общий доступ";
-
 /* Effects category name */
 "Sharpen" = "Повышение резкости";
 
@@ -3053,9 +3038,6 @@
 "Sliders" = "Бегунки";
 
 /* No comment provided by engineer. */
-"Smart Albums" = "Смарт-альбомы";
-
-/* No comment provided by engineer. */
 "Smart Erase" = "Смарт-ластик";
 
 /* No comment provided by engineer. */
@@ -3090,6 +3072,9 @@
 
 /* No comment provided by engineer. */
 "Softness" = "Мягкость";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "Недоступны какие-то ключевые ресурсы, от которых %@ требует функционировать надежно: возможно, это из-за недостаточного места на диске или ошибки операционной системы.";
 
 /* No comment provided by engineer. */
 "Source Atop" = "Источник наверху";
@@ -3281,9 +3266,6 @@
 "This document has missing fonts." = "В этом документе пропущены шрифты.";
 
 /* No comment provided by engineer. */
-"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "Это изображение сейчас находится в iCloud. Чтобы загрузить его, откройте Фото и дважды щелкните на изображении. Не забудьте закрыть и вновь открыть после этого фотобраузер Pixelmator Pro.";
-
-/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "Это полнофункциональная демо-версия Pixelmator Pro.";
 
 /* No comment provided by engineer. */
@@ -3309,6 +3291,9 @@
 
 /* No comment provided by engineer. */
 "to" = "на";
+
+/* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "Чтобы избежать появления проблем, сохраните всю несохранённую работу, затем освободите память и попробуйте перезагрузить ваш Mac.";
 
 /* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "Чтобы перегруппировать элементы интерфейса, перетащите их на требуемые позиции.";
@@ -3512,9 +3497,6 @@
 "y:" = "y:";
 
 /* No comment provided by engineer. */
-"Years" = "Годы";
-
-/* No comment provided by engineer. */
 "Yellow / Blue" = "Желтый / синий";
 
 /* No comment provided by engineer. */
@@ -3528,9 +3510,6 @@
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "Вам ранее было отказано в доступе, так что, если хотите использовать камеру FaceTime для добавления изображений в документы, откройте доступ в Системных настройках.";
-
-/* No comment provided by engineer. */
-"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "Вам ранее было отказано в доступе, так что, если хотите использовать фотобраузер для открытия изображений из вашей Медиатеки, откройте доступ в Системных настройках.";
 
 /* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "Вам нужна более новая версия %@, чтобы открыть этот документ.";
@@ -3561,9 +3540,6 @@
 
 /* No comment provided by engineer. */
 "“%@.app” would like to access your FaceTime camera." = "Программа «%@.app» запрашивает доступ к вашей камере FaceTime.";
-
-/* No comment provided by engineer. */
-"“%@.app” would like to access your photos." = "Программа «%1$@» запрашивает доступ к вашим фото.";
 
 /* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "«%@» уже имеется. Заменить?";

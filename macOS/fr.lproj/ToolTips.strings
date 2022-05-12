@@ -548,6 +548,12 @@
 "Angle" = "Angle";
 
 /* No comment provided by engineer. */
+"Apply a layer style to this layer." = "Appliquer un style de calque à ce calque.";
+
+/* No comment provided by engineer. */
+"Apply an effect to this layer." = "Appliquer un effet à ce calque.";
+
+/* No comment provided by engineer. */
 "Apply the brush stroke to your image." = "Appliquer le trait de pinceau à votre image.";
 
 /* No comment provided by engineer. */
@@ -603,6 +609,12 @@
 
 /* No comment provided by engineer. */
 "Brush over areas to make them softer." = "Passez le pinceau sur les zones pour les adoucir.";
+
+/* No comment provided by engineer. */
+"Camera lens used to take the photo." = "Objectif utilisé pour prendre la photo.";
+
+/* No comment provided by engineer. */
+"Camera used to take the photo." = "Appareil utilisé pour prendre la photo.";
 
 /* No comment provided by engineer. */
 "Center text." = "Centrez le texte.";
@@ -755,6 +767,9 @@
 "Click to automatically adjust the white balance of the image." = "Cliquez pour ajuster automatiquement la balance des blancs de l’image.";
 
 /* No comment provided by engineer. */
+"Click to automatically enhance the white balance, lightness, hue & saturation, and individual color ranges in the image." = "Cliquez pour automatiquement améliorer la balance des blancs, la luminosité, la teinte, la saturation et les gammes de couleurs individuelles dans l’image.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "Cliquez sur cette option pour choisir une couleur.";
 
 /* No comment provided by engineer. */
@@ -806,6 +821,12 @@
 "Create a new brush preset with the current brush settings." = "Créer un nouveau préréglage de pinceau avec les paramètres de pinceau actuels.";
 
 /* No comment provided by engineer. */
+"Create a new color adjustments layer." = "Créez un nouveau calque d’ajustements de couleurs.";
+
+/* No comment provided by engineer. */
+"Create a new effects layer." = "Créez un nouveau calque d’effets.";
+
+/* No comment provided by engineer. */
 "Create a shape from the intersection of the shape you draw and the currently selected shape." = "Créez une forme à partir de l’intersection de la forme que vous dessinez et de la forme actuellement sélectionnée.";
 
 /* No comment provided by engineer. */
@@ -836,6 +857,9 @@
 "Customize the look of layers by applying fills, strokes, and shadows." = "Personnaliser le look des calques en appliquant des remplissages, des traits et des ombres.";
 
 /* No comment provided by engineer. */
+"Customize the visibility of individual color adjustments." = "Personnaliser la visibilité des réglages individuels de couleurs.";
+
+/* No comment provided by engineer. */
 "Decrease the font size." = "Diminuer la taille de la police.";
 
 /* No comment provided by engineer. */
@@ -843,6 +867,15 @@
 
 /* No comment provided by engineer. */
 "Destructively combine the selected objects into a single object." = "Fusionnez les objets sélectionnés en un seul objet de manière destructive.";
+
+/* No comment provided by engineer. */
+"Destructively merge the color adjustments with the object." = "Fusionnez les réglages des couleurs avec l’objet de manière destructive.";
+
+/* No comment provided by engineer. */
+"Destructively merge the effects with the object." = "Fusionnez les effets avec l’objet de manière destructive.";
+
+/* No comment provided by engineer. */
+"Destructively merge the styles with the object." = "Fusionnez les styles avec l’objet de manière destructive.";
 
 /* No comment provided by engineer. */
 "Disable the layer mask." = "Désactivez le masque de calque.";
@@ -980,6 +1013,9 @@
 "Flip the object vertically." = "Retournez l’objet verticalement.";
 
 /* No comment provided by engineer. */
+"Focal length (the distance from the camera lens to the camera sensor)." = "Distance focale (la distance entre l’objectif de l’appareil et le capteur photographique).";
+
+/* No comment provided by engineer. */
 "Freely change the size of the object." = "Changer librement la taille de l’objet.";
 
 /* No comment provided by engineer. */
@@ -1014,6 +1050,9 @@
 
 /* No comment provided by engineer. */
 "Insert an empty layer." = "Insérez un calque vide.";
+
+/* No comment provided by engineer. */
+"ISO speed setting (the overall sensitivity of the camera sensor to light)." = "Réglage de la sensibilité ISO (la sensibilité générale du capteur photographique à la lumière).";
 
 /* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "Justifiez le texte (centrer à gauche et à droite).";
@@ -1118,6 +1157,9 @@
 "Quickly make selections of objects or areas by painting over them." = "Faites rapidement des sélections d’objets ou de zones en peignant par-dessus.";
 
 /* No comment provided by engineer. */
+"Relative aperture diameter setting (expressed as the ratio of focal length to effective aperture diameter)." = "Réglage du diamètre de l’ouverture relative (exprimé comme le rapport entre la distance focale et le diamètre de l’ouverture utile).";
+
+/* No comment provided by engineer. */
 "Remove any overlapping areas between the shape you draw and the currently selected shape." = "Supprimez toutes les zones de chevauchement entre la forme que vous dessinez et la forme actuellement sélectionnée.";
 
 /* No comment provided by engineer. */
@@ -1157,10 +1199,22 @@
 "Reset any refinements to the mask." = "Annulez tous les ajustements apportés au masque.";
 
 /* No comment provided by engineer. */
+"Reset the color adjustments for the object to default." = "Rétablir les réglages des couleurs de l’objet par défaut.";
+
+/* No comment provided by engineer. */
 "Reset the colors of the Color wheel" = "Réinitialiser les couleurs de roue chromatique";
 
 /* No comment provided by engineer. */
+"Reset the effects for the object to default." = "Rétablir les effets de l’objet par défaut.";
+
+/* No comment provided by engineer. */
+"Reset the layer style of the shape to default." = "Revenir au style de calque de la forme par défaut.";
+
+/* No comment provided by engineer. */
 "Reset the rotation of the canvas to default." = "Réinitialiser la rotation de la zone de travail à sa valeur par défaut.";
+
+/* No comment provided by engineer. */
+"Reset the style to default." = "Revenir au style par défaut.";
 
 /* No comment provided by engineer. */
 "Restore the selected object to its original dimensions." = "Ramenez l’objet sélectionné à ses dimensions d’origine.";
@@ -1233,6 +1287,9 @@
 
 /* No comment provided by engineer. */
 "Select to maintain the aspect ratio (width to height) when resizing this object." = "Sélectionnez cette option pour conserver le rapport hauteur/largeur lorsque vous redimensionnez cet objet.";
+
+/* No comment provided by engineer. */
+"Select to maintain the aspect ratio (width to height) when resizing this shape." = "Sélectionnez cette option pour conserver le rapport hauteur/largeur lorsque vous redimensionnez cette forme.";
 
 /* No comment provided by engineer. */
 "Select to make the Clone tool take into account every layer in your image." = "Sélectionnez cette option pour que l’outil Duplication prenne tous les calques de votre image en compte.";
@@ -1619,6 +1676,12 @@
 "Set the saturation of the selected color." = "Définissez la saturation de la couleur sélectionnée.";
 
 /* No comment provided by engineer. */
+"Set the shape height." = "Définissez la hauteur de la forme.";
+
+/* No comment provided by engineer. */
+"Set the shape width." = "Définissez la largeur de la forme.";
+
+/* No comment provided by engineer. */
 "Set the size of the brush texture." = "Définissez la taille de la texture du pinceau.";
 
 /* No comment provided by engineer. */
@@ -1859,6 +1922,15 @@
 "Show what the image looked like before you warped it." = "Visualisez ce à quoi l’image ressemblait avant l’application de l’effet déformant.";
 
 /* No comment provided by engineer. */
+"Show what the object looks like without any color adjustments." = "Visualisez ce à quoi ressemble l’objet sans aucun réglage des couleurs.";
+
+/* No comment provided by engineer. */
+"Show what the objects looks like without any effects." = "Visualisez ce à quoi ressemble l’objet sans aucun effet.";
+
+/* No comment provided by engineer. */
+"Shutter speed setting (the length of time the camera sensor was exposed to light)." = "Réglage de la vitesse d’obturation (la durée au cours de laquelle le capteur de l’appareil a été exposé à la lumière).";
+
+/* No comment provided by engineer. */
 "Slant the object vertically or horizontally." = "Incliner l’objet verticalement ou horizontalement.";
 
 /* No comment provided by engineer. */
@@ -1956,3 +2028,9 @@
 
 /* No comment provided by engineer. */
 "Zoom and navigate images." = "Zoomez et naviguez sur les images.";
+
+/* No comment provided by engineer. */
+"Zoom in." = "Zoom avant.";
+
+/* No comment provided by engineer. */
+"Zoom out." = "Zoom arrière.";

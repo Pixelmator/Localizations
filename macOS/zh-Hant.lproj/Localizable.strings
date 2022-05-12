@@ -23,6 +23,9 @@
 "%@ Effect" = "%@ 效果";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ 遇到了嚴重錯誤，可能原因為硬碟空間不足或作業系統錯誤。請嘗試釋放儲存空間或將 Mac 重新開機。";
+
+/* No comment provided by engineer. */
 "%@ layer" = "%@ 圖層";
 
 /* No comment provided by engineer. */
@@ -227,9 +230,6 @@
 "Affine Tile" = "仿射並排";
 
 /* No comment provided by engineer. */
-"Albums" = "相簿";
-
-/* No comment provided by engineer. */
 "Align Bottom Edges" = "底端對齊";
 
 /* No comment provided by engineer. */
@@ -366,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Background Color" = "背景顏色";
+
+/* No comment provided by engineer. */
+"Background Layer" = "背景圖層";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "平衡調整";
@@ -788,6 +791,9 @@
 "Convert LUT into Adjustments" = "將 LUT 轉換成調整";
 
 /* No comment provided by engineer. */
+"Convert to Color Adjustments Layer" = "轉換為顏色調整圖層";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "正在將 LUT 轉換成調整⋯";
 
 /* No comment provided by engineer. */
@@ -843,6 +849,9 @@
 
 /* No comment provided by engineer. */
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "使用容易使用的智慧圖形、強大的文字工具、完整的向量圖工具製作驚人的設計和插畫。";
+
+/* No comment provided by engineer. */
+"Critical Resources Unavailable" = "無法使用重要資源";
 
 /* No comment provided by engineer. */
 "Crop" = "裁切";
@@ -1163,6 +1172,9 @@
 "Erase" = "清除";
 
 /* No comment provided by engineer. */
+"Error:" = "錯誤：";
+
+/* No comment provided by engineer. */
 "Exclude" = "排除";
 
 /* No comment provided by engineer. */
@@ -1269,9 +1281,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Faces" = "面孔";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1577,9 +1586,6 @@
 "Hue Scatter" = "色相散射";
 
 /* No comment provided by engineer. */
-"iCloud" = "iCloud";
-
-/* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "如果這樣做，下次使用 Pixelmator Pro 延伸編輯影像時，將恢復所有圖層和其他非破壞性更改。\n\n否則，僅儲存最終經過編輯的影像。";
 
 /* Untitled document name received via Handoff */
@@ -1602,9 +1608,6 @@
 
 /* No comment provided by engineer. */
 "Image Straightened by %@" = "影像拉直了 %@";
-
-/* No comment provided by engineer. */
-"Image Unavailable" = "影像不可用";
 
 /* No comment provided by engineer. */
 "Import" = "匯入";
@@ -1697,9 +1700,6 @@
 "JPEG" = "JPEG";
 
 /* No comment provided by engineer. */
-"Keep SketchBook" = "保留 SketchBook";
-
-/* No comment provided by engineer. */
 "Keywords Change" = "關鍵字更改";
 
 /* No comment provided by engineer. */
@@ -1710,6 +1710,9 @@
 
 /* No comment provided by engineer. */
 "Layer" = "圖層";
+
+/* No comment provided by engineer. */
+"Layer Mask" = "圖層遮罩";
 
 /* No comment provided by engineer. */
 "Layer Menu" = "圖層選單";
@@ -1916,9 +1919,6 @@
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "修改原本的檔案可能會遺失一些當前格式。要先複製檔案嗎？";
 
 /* No comment provided by engineer. */
-"Moments" = "時刻";
-
-/* No comment provided by engineer. */
 "Move" = "移動";
 
 /* No comment provided by engineer. */
@@ -1971,12 +1971,6 @@
 
 /* No comment provided by engineer. */
 "Mustache" = "鬍子";
-
-/* No comment provided by engineer. */
-"New Adjustments" = "新調整";
-
-/* No comment provided by engineer. */
-"New Adjustments Layer" = "新調整圖層";
 
 /* No comment provided by engineer. */
 "New Collection" = "新集合";
@@ -2093,9 +2087,6 @@
 "No Lens Info" = "無鏡頭資訊";
 
 /* No comment provided by engineer. */
-"No Photos" = "沒有照片";
-
-/* No comment provided by engineer. */
 "No Recent Documents" = "沒有最近使用過的文件";
 
 /* No comment provided by engineer. */
@@ -2139,9 +2130,6 @@
 
 /* No comment provided by engineer. */
 "Open and edit images saved on your Mac" = "開啟並編輯 Mac 上的圖像";
-
-/* No comment provided by engineer. */
-"Open Photos" = "開啟照片";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "打開系統偏好設定";
@@ -2247,9 +2235,6 @@
 
 /* No comment provided by engineer. */
 "Perspective Transform" = "透視轉換";
-
-/* No comment provided by engineer. */
-"Photos" = "照片";
 
 /* No comment provided by engineer. */
 "Photos Extension" = "照片延伸";
@@ -2370,6 +2355,9 @@
 
 /* Quit anyway button title */
 "Quit anyway" = "強制結束";
+
+/* No comment provided by engineer. */
+"Quit Application" = "結束應用程式";
 
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "現在退出將丟失自上次成功儲存以來所做的任何更改";
@@ -2498,9 +2486,6 @@
 "Remove Shape Paths" = "移除形狀路徑";
 
 /* No comment provided by engineer. */
-"Remove SketchBook" = "移除 SketchBook";
-
-/* No comment provided by engineer. */
 "Remove Style" = "移除樣式";
 
 /* No comment provided by engineer. */
@@ -2574,6 +2559,9 @@
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "重新處理 RAW";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "無法使用所需的資源";
 
 /* No comment provided by engineer. */
 "Reselect" = "重新選取";
@@ -2911,9 +2899,6 @@
 /* No comment provided by engineer. */
 "Share" = "共享";
 
-/* No comment provided by engineer. */
-"Shared" = "共享的";
-
 /* Effects category name */
 "Sharpen" = "銳化";
 
@@ -3053,9 +3038,6 @@
 "Sliders" = "滑桿";
 
 /* No comment provided by engineer. */
-"Smart Albums" = "智慧相冊";
-
-/* No comment provided by engineer. */
 "Smart Erase" = "智慧擦除";
 
 /* No comment provided by engineer. */
@@ -3090,6 +3072,9 @@
 
 /* No comment provided by engineer. */
 "Softness" = "軟度";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "無法使用 %@ 所需的某些重要資源，可能原因為硬碟空間不足或作業系統錯誤。";
 
 /* No comment provided by engineer. */
 "Source Atop" = "來源於頂端";
@@ -3281,9 +3266,6 @@
 "This document has missing fonts." = "本文件有缺漏的字體。";
 
 /* No comment provided by engineer. */
-"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "此圖片目前位於 iCloud 中。請開啟「照片」並按兩下該影像以下載。執行此操作後關閉並重新開啟 Pixelmator Pro 照片瀏覽器。";
-
-/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "這是 Pixelmator Pro 的完整功能示範版本。";
 
 /* No comment provided by engineer. */
@@ -3309,6 +3291,9 @@
 
 /* No comment provided by engineer. */
 "to" = "至";
+
+/* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "為避免發生問題，請儲存尚未儲存的編輯內容，接著釋放一些儲存空間並重新開啟 Mac。";
 
 /* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "將介面元素拖曳至希望的位置以重新排列。";
@@ -3512,9 +3497,6 @@
 "y:" = "y:";
 
 /* No comment provided by engineer. */
-"Years" = "年";
-
-/* No comment provided by engineer. */
 "Yellow / Blue" = "黃色/藍色";
 
 /* No comment provided by engineer. */
@@ -3528,9 +3510,6 @@
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "您之前曾拒絕授予許可權，如果希望使用 FaceTime 相機添加影像到文件中，請在系統首選項中允許存取權限。";
-
-/* No comment provided by engineer. */
-"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "您之前曾拒絕授予許可權，如果希望使用照片瀏覽器從圖庫中打開影像，請在系統首選項中允許存取權限。";
 
 /* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "你需要新版本 %@ 才能打開此檔案。";
@@ -3561,9 +3540,6 @@
 
 /* No comment provided by engineer. */
 "“%@.app” would like to access your FaceTime camera." = "「%@.app」希望訪問您的 FaceTime 相機。";
-
-/* No comment provided by engineer. */
-"“%@.app” would like to access your photos." = "「%@.app」希望訪問您的照片。";
 
 /* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "「%@」已存在。要取代嗎？";

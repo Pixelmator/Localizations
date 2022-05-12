@@ -23,6 +23,9 @@
 "%@ Effect" = "%@ Effekt";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "Bei %@ ist ein kritischer Fehler aufgetreten, der möglicherweise durch zu wenig Speicherplatz oder einen Fehler im Betriebssystem hervorgerufen wurde. Es könnte helfen, Speicherplatz freizugeben oder den Mac neu zu starten.";
+
+/* No comment provided by engineer. */
 "%@ layer" = "%@ Ebene";
 
 /* No comment provided by engineer. */
@@ -227,9 +230,6 @@
 "Affine Tile" = "Affin kacheln";
 
 /* No comment provided by engineer. */
-"Albums" = "Alben";
-
-/* No comment provided by engineer. */
 "Align Bottom Edges" = "Untere Kanten ausrichten";
 
 /* No comment provided by engineer. */
@@ -366,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Background Color" = "Hintergrundfarbe";
+
+/* No comment provided by engineer. */
+"Background Layer" = "Hintergrundebene";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "Balanceanpassung";
@@ -788,6 +791,9 @@
 "Convert LUT into Adjustments" = "LUT in Anpassungen umwandeln";
 
 /* No comment provided by engineer. */
+"Convert to Color Adjustments Layer" = "In Farbanpassungsebene umwandeln";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUT werden in Anpassungen umgewandelt …";
 
 /* No comment provided by engineer. */
@@ -843,6 +849,9 @@
 
 /* No comment provided by engineer. */
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "Erstellen Sie umwerfende Designs und Illustrationen mit einfach zu benutzenden, intelligenten Formen, mächtigen Text-Tools und einem vollen Arsenal von Vektor-Tools.";
+
+/* No comment provided by engineer. */
+"Critical Resources Unavailable" = "Kritische Ressourcen nicht verfügbar";
 
 /* No comment provided by engineer. */
 "Crop" = "Beschneiden";
@@ -1163,6 +1172,9 @@
 "Erase" = "Löschen";
 
 /* No comment provided by engineer. */
+"Error:" = "Fehler:";
+
+/* No comment provided by engineer. */
 "Exclude" = "Ausschl.";
 
 /* No comment provided by engineer. */
@@ -1269,9 +1281,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Faces" = "Gesichter";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1577,9 +1586,6 @@
 "Hue Scatter" = "Farbtonstreuung";
 
 /* No comment provided by engineer. */
-"iCloud" = "iCloud";
-
-/* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "Wenn Sie das tun, werden alle Ebenen und andere zerstörungsfreie Änderungen wiederhergestellt, wenn Sie dieses Bild das nächste Mal mit der Pixelmator-Pro-Erweiterung bearbeiten.\n\nAndernfalls wird nur das finale bearbeitete Bild gespeichert.";
 
 /* Untitled document name received via Handoff */
@@ -1602,9 +1608,6 @@
 
 /* No comment provided by engineer. */
 "Image Straightened by %@" = "Bild ausgerichtet mit %@";
-
-/* No comment provided by engineer. */
-"Image Unavailable" = "Bild nicht verfügbar";
 
 /* No comment provided by engineer. */
 "Import" = "Importieren";
@@ -1697,9 +1700,6 @@
 "JPEG" = "JPEG";
 
 /* No comment provided by engineer. */
-"Keep SketchBook" = "SketchBook behalten";
-
-/* No comment provided by engineer. */
 "Keywords Change" = "Schlagwortänderung";
 
 /* No comment provided by engineer. */
@@ -1710,6 +1710,9 @@
 
 /* No comment provided by engineer. */
 "Layer" = "Ebene";
+
+/* No comment provided by engineer. */
+"Layer Mask" = "Ebenenmaske";
 
 /* No comment provided by engineer. */
 "Layer Menu" = "Ebenenmenü";
@@ -1916,9 +1919,6 @@
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "Verändern des Dokuments am aktuellen Ort führt eventuell dazu, dass einige der aktuellen Formatierungsoptionen verloren gehen. Möchten Sie das Dokument zuerst duplizieren?";
 
 /* No comment provided by engineer. */
-"Moments" = "Momente";
-
-/* No comment provided by engineer. */
 "Move" = "Bewegen";
 
 /* No comment provided by engineer. */
@@ -1971,12 +1971,6 @@
 
 /* No comment provided by engineer. */
 "Mustache" = "Schnurrbart";
-
-/* No comment provided by engineer. */
-"New Adjustments" = "Neue Anpassungen";
-
-/* No comment provided by engineer. */
-"New Adjustments Layer" = "Neue Anpassungsebene";
 
 /* No comment provided by engineer. */
 "New Collection" = "Neue Sammlung";
@@ -2093,9 +2087,6 @@
 "No Lens Info" = "Keine Objektivinformationen";
 
 /* No comment provided by engineer. */
-"No Photos" = "Keine Fotos";
-
-/* No comment provided by engineer. */
 "No Recent Documents" = "Keine zuletzt verwendeten Dokumente";
 
 /* No comment provided by engineer. */
@@ -2139,9 +2130,6 @@
 
 /* No comment provided by engineer. */
 "Open and edit images saved on your Mac" = "Öffnen und bearbeiten Sie auf Ihrem Mac gespeicherte Bilder";
-
-/* No comment provided by engineer. */
-"Open Photos" = "Fotos öffnen";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "Systemeinstellungen öffnen";
@@ -2247,9 +2235,6 @@
 
 /* No comment provided by engineer. */
 "Perspective Transform" = "Perspektiv-Transformation";
-
-/* No comment provided by engineer. */
-"Photos" = "Fotos";
 
 /* No comment provided by engineer. */
 "Photos Extension" = "Fotos-Erweiterung";
@@ -2370,6 +2355,9 @@
 
 /* Quit anyway button title */
 "Quit anyway" = "Trotzdem beenden";
+
+/* No comment provided by engineer. */
+"Quit Application" = "Anwendung beenden";
 
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "Durch das Beenden zu diesem Zeitpunkt gehen alle Änderungen seit dem letzten erfolgreichen Speichervorgang verloren";
@@ -2498,9 +2486,6 @@
 "Remove Shape Paths" = "Formpfade entfernen";
 
 /* No comment provided by engineer. */
-"Remove SketchBook" = "SketchBook entfernen";
-
-/* No comment provided by engineer. */
 "Remove Style" = "Stil entfernen";
 
 /* No comment provided by engineer. */
@@ -2574,6 +2559,9 @@
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "RAW wiederaufbereiten";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "Erforderliche Ressourcen nicht verfügbar";
 
 /* No comment provided by engineer. */
 "Reselect" = "Erneut auswählen";
@@ -2911,9 +2899,6 @@
 /* No comment provided by engineer. */
 "Share" = "Teilen";
 
-/* No comment provided by engineer. */
-"Shared" = "Geteilt";
-
 /* Effects category name */
 "Sharpen" = "Schärfen";
 
@@ -3053,9 +3038,6 @@
 "Sliders" = "Schieberegler";
 
 /* No comment provided by engineer. */
-"Smart Albums" = "Intelligente Alben";
-
-/* No comment provided by engineer. */
 "Smart Erase" = "Intelligent Löschen";
 
 /* No comment provided by engineer. */
@@ -3090,6 +3072,9 @@
 
 /* No comment provided by engineer. */
 "Softness" = "Weichheit";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "Einige für die Funktionsfähigkeit von %@ unerlässliche Schlüsselressourcen sind nicht verfügbar. Die Gründe könnten zu wenig Speicherplatz oder ein Fehler im Betriebssystem sein.";
 
 /* No comment provided by engineer. */
 "Source Atop" = "Quelle oben";
@@ -3281,9 +3266,6 @@
 "This document has missing fonts." = "Dieses Dokument enthält fehlende Schriftarten.";
 
 /* No comment provided by engineer. */
-"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "Dieses Bild ist momentan in iCloud. Um es herunterzuladen, öffnen Sie Fotos und doppelklicken Sie auf das Bild. Stellen Sie sicher, dass Sie die Pixelmator-Pro-Bildübersicht danach schließen und erneut öffnen.";
-
-/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "Hierbei handelt es sich um eine Demoversionen mit allen Funktionen von Pixelmator Pro.";
 
 /* No comment provided by engineer. */
@@ -3309,6 +3291,9 @@
 
 /* No comment provided by engineer. */
 "to" = "zu";
+
+/* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "Speichern Sie nicht gespeicherte Vorgänge, geben Sie Speicherplatz frei und starten Sie den Mac neu, um Problemen vorzubeugen.";
 
 /* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "Um die Interface-Elemente umzugruppieren, ziehen Sie sie in die gewünschte Position.";
@@ -3512,9 +3497,6 @@
 "y:" = "y:";
 
 /* No comment provided by engineer. */
-"Years" = "Jahre";
-
-/* No comment provided by engineer. */
 "Yellow / Blue" = "Gelb / Blau";
 
 /* No comment provided by engineer. */
@@ -3528,9 +3510,6 @@
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "Sie haben der FaceTime-Kamera zuvor den Zugriff verweigert. Wenn Sie Ihren Dokumenten Bilder hinzufügen möchten, dann erlauben sie ihr bitte über die Systemeinstellungen den Zugriff.";
-
-/* No comment provided by engineer. */
-"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "Sie haben der Fotoübersicht zuvor den Zugriff verweigert. Wenn Sie über die Fotoübersicht Bilder aus Ihrer Fotomediathek öffnen möchten, dann erlauben sie ihr bitte über die Systemeinstellungen den Zugriff.";
 
 /* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "Sie benötigen eine neuere Version von %@, um dieses Dokument zu öffnen.";
@@ -3561,9 +3540,6 @@
 
 /* No comment provided by engineer. */
 "“%@.app” would like to access your FaceTime camera." = "„%@.app“ möchte auf Ihre FaceTime-Kamera zugreifen.";
-
-/* No comment provided by engineer. */
-"“%@.app” would like to access your photos." = "„%@.app“ möchte auf Ihre Fotos zugreifen.";
 
 /* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "“%@” existiert bereits. Möchten Sie es ersetzen?";
