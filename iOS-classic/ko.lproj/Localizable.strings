@@ -23,13 +23,28 @@
 "(empty)" = "(비어 있음)";
 
 /* No comment provided by engineer. */
+"0,75" = "0,75";
+
+/* No comment provided by engineer. */
 "1 Image Selected" = "1개의 이미지가 선택됨";
+
+/* No comment provided by engineer. */
+"16 Bits/Channel" = "16비트/채널";
+
+/* No comment provided by engineer. */
+"16-bit color depth is not supported. The image was converted to 8-bit color." = "16-bit color depth is not supported. The image was converted to 8-bit color.";
+
+/* No comment provided by engineer. */
+"3D LUT" = "3D LUT";
+
+/* No comment provided by engineer. */
+"8 Bits/Channel" = "8비트/채널";
 
 /* No comment provided by engineer. */
 "\"%@\" Preset" = "\"%@\" 프리셋";
 
 /* No comment provided by engineer. */
-"A flattened copy of your image will be created." = "이미지의 병합된 사본이 생성됩니다.";
+"A flattened copy of your image was created." = "A flattened copy of your image was created.";
 
 /* No comment provided by engineer. */
 "Accumulation" = "누적";
@@ -65,9 +80,6 @@
 "Add Text" = "텍스트 추가";
 
 /* No comment provided by engineer. */
-"Add to" = "추가";
-
-/* No comment provided by engineer. */
 "Add to Selection" = "선택에 추가";
 
 /* Tool */
@@ -80,10 +92,10 @@
 "Adjustments" = "조정";
 
 /* No comment provided by engineer. */
-"Adonit Jot Stylus" = "Adonit Jot 스타일러스";
+"Affine Tile" = "어파인 타일";
 
 /* No comment provided by engineer. */
-"Affine Tile" = "어파인 타일";
+"Albums" = "앨범";
 
 /* No comment provided by engineer. */
 "All" = "모두";
@@ -93,6 +105,9 @@
 
 /* No comment provided by engineer. */
 "All Photos" = "모든 사진";
+
+/* No comment provided by engineer. */
+"Allow Access to All Photos" = "모든 사진에 대한 접근 허용";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "황색";
@@ -150,10 +165,10 @@
 "Aspect" = "모양";
 
 /* No comment provided by engineer. */
-"Auto" = "자동";
+"Auto Enhance" = "자동 향상";
 
 /* No comment provided by engineer. */
-"Auto Enhance" = "자동 향상";
+"Auto Straighten" = "자동 수평 조절";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "B&W" = "흑백";
@@ -186,10 +201,19 @@
 "Bias" = "바이어스";
 
 /* No comment provided by engineer. */
+"Black" = "검정";
+
+/* No comment provided by engineer. */
 "Black & White" = "흑백";
 
 /* No comment provided by engineer. */
+"Black - Gray" = "검은색 - 회색";
+
+/* No comment provided by engineer. */
 "Black Point" = "검정 포인트";
+
+/* No comment provided by engineer. */
+"Blacks" = "검은색";
 
 /* No comment provided by engineer. */
 "Blending" = "혼합";
@@ -233,9 +257,6 @@
 /* No comment provided by engineer. */
 "Bottom" = "아래";
 
-/* No comment provided by engineer. */
-"Box" = "상자";
-
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Bright" = "밝음";
 
@@ -247,9 +268,6 @@
 
 /* No comment provided by engineer. */
 "Bring to Front" = "맨 앞으로 가져오기";
-
-/* No comment provided by engineer. */
-"Brush" = "브러시";
 
 /* No comment provided by engineer. */
 "Brush Scatter" = "브러시 분산";
@@ -268,6 +286,9 @@
 
 /* No comment provided by engineer. */
 "Bump Settings" = "범프 설정";
+
+/* File size */
+"Calculating size…" = "크기 계산 중…";
 
 /* No comment provided by engineer. */
 "Can't Access Photos" = "사진에 액세스할 수 없습니다";
@@ -293,6 +314,9 @@
 /* No comment provided by engineer. */
 "Center" = "가운데";
 
+/* No comment provided by engineer. */
+"Center Guides" = "가운데 안내선";
+
 /* Units */
 "Centimeters" = "센티미터";
 
@@ -309,13 +333,7 @@
 "Check your network connection and try again." = "네트워크 연결 상태를 확인하신 후 다시 시도하세요.";
 
 /* No comment provided by engineer. */
-"Checkerboard" = "체커판";
-
-/* No comment provided by engineer. */
-"Choose App" = "응용 프로그램 선택";
-
-/* No comment provided by engineer. */
-"Choose Neutral Color" = "무채색 선택";
+"Choose Color" = "색 선택";
 
 /* No comment provided by engineer. */
 "Chromatic Noise Tracking" = "색도 노이즈 추적";
@@ -327,22 +345,25 @@
 "Chromaticity Y" = "색도 Y";
 
 /* No comment provided by engineer. */
-"Circle Splash" = "원형 스플래시";
-
-/* No comment provided by engineer. */
 "Circle Tilt-Shift Blur" = "원형 기울기-시프트 블러";
-
-/* No comment provided by engineer. */
-"Circular Wrap" = "원형 래핑";
 
 /* No comment provided by engineer. */
 "Clarity" = "명확도";
 
 /* No comment provided by engineer. */
+"Clarity Highlights" = "명확도 하이라이트";
+
+/* No comment provided by engineer. */
+"Clarity Midtones" = "명확도 중간 색조";
+
+/* No comment provided by engineer. */
+"Clarity Shadows" = "명확도 그림자";
+
+/* No comment provided by engineer. */
 "Clipboard" = "클립보드";
 
 /* No comment provided by engineer. */
-"Clipping Mask is not supported. Your image might look different." = "클립보드 마스크는 지원되지 않습니다. 이미지가 다르게 보일 수 있습니다.";
+"Clipping masks are not supported. Your image might look different." = "Clipping masks are not supported. Your image might look different.";
 
 /* Retouch Tools
    Tool */
@@ -353,9 +374,6 @@
 
 /* Selection Undo */
 "Close Selection" = "선택 닫기";
-
-/* No comment provided by engineer. */
-"Clouds" = "구름";
 
 /* Units */
 "cm" = "cm";
@@ -385,9 +403,6 @@
 /* No comment provided by engineer. */
 "Color Noise Reduction" = "색상 노이즈 감소";
 
-/* No comment provided by engineer. */
-"Color Picker" = "색 선택 도구";
-
 /* Selection */
 "Color Selection" = "색상 선택";
 
@@ -398,22 +413,16 @@
 "Colors" = "색상";
 
 /* No comment provided by engineer. */
+"Completely transform the look of images using a wide range of beautiful effects." = "Completely transform the look of images using a wide range of beautiful effects.";
+
+/* No comment provided by engineer. */
 "Concentration" = "농도";
 
 /* No comment provided by engineer. */
-"Connect" = "연결";
-
-/* No comment provided by engineer. */
-"Connect to iTunes, select your device, then find your image in Apps." = "iTunes에 연결해서 기기를 선택한 후 Apps에서 이미지를 찾습니다.";
-
-/* No comment provided by engineer. */
-"Connected" = "연결됨";
-
-/* No comment provided by engineer. */
-"Connecting..." = "연결 중...";
-
-/* No comment provided by engineer. */
 "Constant" = "상수";
+
+/* No comment provided by engineer. */
+"Constrain proportions" = "비율 제한";
 
 /* No comment provided by engineer. */
 "Continue" = "계속";
@@ -433,14 +442,14 @@
 /* No comment provided by engineer. */
 "Copy Adjustments" = "조정 복사";
 
+/* No comment provided by engineer. */
+"Copy Image" = "이미지 복사하기";
+
 /* Layer Management */
 "Copy Layer" = "레이어 복사";
 
 /* No comment provided by engineer. */
 "Corner Radius" = "모퉁이 반경";
-
-/* Could not find salt */
-"Could not find salt" = "소금을 찾지 못했습니다";
 
 /* No comment provided by engineer. */
 "Could not insert image." = "이미지를 삽입하지 못했습니다.";
@@ -452,10 +461,10 @@
 "Create" = "생성";
 
 /* No comment provided by engineer. */
-"Create Image" = "이미지 생성";
+"Create Designs" = "Create Designs";
 
 /* No comment provided by engineer. */
-"Create New" = "신규 생성";
+"Create Image" = "이미지 생성";
 
 /* No comment provided by engineer. */
 "Create New Selection" = "새 선택 만들기";
@@ -467,7 +476,7 @@
 "Create smeared paint" = "얼룩진 페인트 만들기";
 
 /* No comment provided by engineer. */
-"Creative Tools" = "창의적인 도구";
+"Create stunning designs with easy-to-use smart shapes and advanced text tools." = "Create stunning designs with easy-to-use smart shapes and advanced text tools.";
 
 /* Tool */
 "Crop" = "자르기";
@@ -476,16 +485,20 @@
 "Current" = "현재";
 
 /* No comment provided by engineer. */
-"Current color profile is not supported. It will be converted to sRGB." = "현재 색 프로필은 지원되지 않습니다. sRGB로 변환됩니다.";
-
-/* No comment provided by engineer. */
 "Currently unable to establish an Internet connection." = "현재 인터넷에 연결할 수 없습니다";
 
 /* No comment provided by engineer. */
 "Curves" = "곡선";
 
-/* Tool */
+/* Crop preset
+   Tool */
 "Custom" = "사용자 정의";
+
+/* No comment provided by engineer. */
+"Custom LUT" = "사용자 정의 LUT";
+
+/* No comment provided by engineer. */
+"Custom Size" = "사용자 지정 크기";
 
 /* No comment provided by engineer. */
 "Custom Size Image" = "사용자 지정 크기 이미지";
@@ -495,6 +508,9 @@
 
 /* Layer Management */
 "Cut Layer" = "레이어 자르기";
+
+/* No comment provided by engineer. */
+"Cyan" = "사이안색";
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Dark" = "어둡게";
@@ -510,16 +526,10 @@
 "Darken Settings" = "어둡게 만들기 설정";
 
 /* No comment provided by engineer. */
-"Darken Strength" = "어둡게 만들기 강도";
-
-/* No comment provided by engineer. */
 "Darker Color" = "더 어두운 색";
 
 /* No comment provided by engineer. */
-"Decrease Brush Size" = "브러시 크기 감소";
-
-/* No comment provided by engineer. */
-"Decrease Opacity" = "불투명도 감소";
+"Darks" = "어두운 색상";
 
 /* No comment provided by engineer. */
 "Decrease the strength of colors" = "색 강도 감소";
@@ -527,17 +537,26 @@
 /* No comment provided by engineer. */
 "Default" = "기본";
 
+/* No comment provided by engineer. */
+"Dehaze" = "안개 제거";
+
 /* Edit Menu */
 "Delete" = "삭제";
 
 /* No comment provided by engineer. */
 "Delete " = "삭제 ";
 
+/* No comment provided by engineer. */
+"Delete \"%@\"?" = "\"%@\"을(를) 삭제할까요?";
+
 /* Layer Management */
 "Delete Layer" = "레이어 삭제";
 
 /* No comment provided by engineer. */
 "Delete Linked File" = "링크된 파일 삭제";
+
+/* Tool */
+"Denoise" = "노이즈 제거";
 
 /* No comment provided by engineer. */
 "Depth Mask" = "심도 마스크";
@@ -550,22 +569,25 @@
 "Desaturation Settings" = "흐리기 설정";
 
 /* No comment provided by engineer. */
-"Desaturation Strength" = "흐리기 강도";
-
-/* No comment provided by engineer. */
 "Deselect" = "선택 취소";
 
 /* No comment provided by engineer. */
 "Deselect All" = "모두 삭제 취소";
 
 /* No comment provided by engineer. */
+"Destination Atop" = "대상 꼭대기";
+
+/* No comment provided by engineer. */
+"Destination In" = "대상 인";
+
+/* No comment provided by engineer. */
+"Destination Out" = "대상 아웃";
+
+/* No comment provided by engineer. */
+"Destination Over" = "대상 오버";
+
+/* No comment provided by engineer. */
 "Detail" = "세부 사항";
-
-/* No comment provided by engineer. */
-"Device Settings" = "장치 설정";
-
-/* No comment provided by engineer. */
-"Devices" = "장비";
 
 /* No comment provided by engineer. */
 "Difference" = "차이";
@@ -574,13 +596,10 @@
 "Directed" = "방향성";
 
 /* No comment provided by engineer. */
-"Disc" = "디스크";
+"Disable %@" = "%@ 비활성화";
 
 /* No comment provided by engineer. */
 "Dismiss" = "해제";
-
-/* No comment provided by engineer. */
-"Display Style" = "디스플레이 스타일";
 
 /* No comment provided by engineer. */
 "Distance" = "거리";
@@ -621,9 +640,6 @@
 /* Selection Undo */
 "Draw Selection" = "선택 그리기";
 
-/* No comment provided by engineer. */
-"Droste" = "드로스테";
-
 /* Edit Menu */
 "Duplicate" = "복제";
 
@@ -637,19 +653,37 @@
 "Duplicating..." = "복제 중...";
 
 /* No comment provided by engineer. */
+"Duplicating…" = "복제 중…";
+
+/* No comment provided by engineer. */
+"Edge Guides" = "가장자리 안내선";
+
+/* No comment provided by engineer. */
 "Edit" = "편집";
+
+/* No comment provided by engineer. */
+"Edit %i Images" = "%i개의 이미지 편집";
+
+/* No comment provided by engineer. */
+"Edit 1 Image" = "1개의 이미지 편집";
+
+/* No comment provided by engineer. */
+"Edit and enhance photos using powerful color adjustments and retouching tools." = "Edit and enhance photos using powerful color adjustments and retouching tools.";
 
 /* No comment provided by engineer. */
 "Edit JPEG" = "JPEG 편집";
 
 /* No comment provided by engineer. */
+"Edit Photos" = "사진 편집";
+
+/* No comment provided by engineer. */
 "Edit RAW" = "RAW 편집";
+
+/* No comment provided by engineer. */
+"Edited" = "편집됨";
 
 /* Tool */
 "Effects" = "효과";
-
-/* No comment provided by engineer. */
-"Eightfold" = "8배";
 
 /* Tool */
 "Ellipse" = "타원";
@@ -667,22 +701,34 @@
 "Emerald" = "에메랄드";
 
 /* No comment provided by engineer. */
+"Empty Album" = "비어 있는 앨범";
+
+/* No comment provided by engineer. */
+"Empty Layer" = "빈 레이어";
+
+/* No comment provided by engineer. */
+"Enable EDR" = "EDR 활성화";
+
+/* No comment provided by engineer. */
 "Enable Sharpening" = "선명 효과 활성화";
 
 /* No comment provided by engineer. */
 "End Point" = "끝점";
+
+/* No comment provided by engineer. */
+"Enhance" = "향상";
+
+/* No comment provided by engineer. */
+"Enjoy support for opening and exporting Pixelmator Pro documents." = "Enjoy support for opening and exporting Pixelmator Pro documents.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this preset:" = "이 프리셋에 대한 새로운 이름을 입력하세요:";
 
 /* Tool */
 "Erase" = "지우기";
 
 /* No comment provided by engineer. */
 "Eraser Settings" = "지우개 설정";
-
-/* No comment provided by engineer. */
-"Eraser Size" = "지우개 크기";
-
-/* No comment provided by engineer. */
-"Eraser Strength" = "지우개 강도";
 
 /* No comment provided by engineer. */
 "Error" = "오류";
@@ -692,6 +738,9 @@
 
 /* No comment provided by engineer. */
 "Exclusion" = "제외";
+
+/* No comment provided by engineer. */
+"Exclusive OR" = "배타적 논리합";
 
 /* No comment provided by engineer. */
 "Export" = "내보내기";
@@ -710,6 +759,9 @@
 
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Faded" = "흐리게 표시";
+
+/* File size */
+"Failed to calculate size." = "크기를 계산하지 못했습니다.";
 
 /* No comment provided by engineer. */
 "Failed to create image for sharing." = "공유용 이미지를 만들지 못했습니다.";
@@ -778,22 +830,10 @@
 "Focus" = "초점";
 
 /* No comment provided by engineer. */
+"Font" = "글꼴";
+
+/* No comment provided by engineer. */
 "Fonts" = "글꼴";
-
-/* No comment provided by engineer. */
-"Foreground Color" = "전경색";
-
-/* No comment provided by engineer. */
-"Format" = "포맷";
-
-/* No comment provided by engineer. */
-"Fourfold" = "4배";
-
-/* No comment provided by engineer. */
-"Fourfold Rotated" = "4방향으로 회전";
-
-/* No comment provided by engineer. */
-"Fourfold Translated" = "4방향으로 변환";
 
 /* Tool */
 "Free" = "여유 공간";
@@ -813,9 +853,6 @@
 /* No comment provided by engineer. */
 "Fullscreen" = "전체 화면";
 
-/* No comment provided by engineer. */
-"Gaussian" = "가우스";
-
 /* Effects category name */
 "Generator" = "생성자";
 
@@ -826,13 +863,7 @@
 "Get Started" = "시작하기";
 
 /* No comment provided by engineer. */
-"Glass Lozenge" = "유리 마름모꼴";
-
-/* No comment provided by engineer. */
 "Glazed" = "글레이즈드";
-
-/* No comment provided by engineer. */
-"Glide Reflected" = "글라이드 반사";
 
 /* No comment provided by engineer. */
 "Gradient" = "그라디언트";
@@ -862,6 +893,12 @@
 "Grainy" = "거침";
 
 /* No comment provided by engineer. */
+"Gray" = "회색";
+
+/* No comment provided by engineer. */
+"Gray - White" = "회색 - 흰색";
+
+/* No comment provided by engineer. */
 "Green" = "녹색";
 
 /* No comment provided by engineer. */
@@ -883,20 +920,20 @@
 /* No comment provided by engineer. */
 "Guides" = "안내선";
 
+/* No comment provided by engineer. */
+"H:" = "H:";
+
 /* Effects category name */
 "Halftone" = "하프톤";
-
-/* No comment provided by engineer. */
-"Halo" = "할로";
-
-/* Used to describe brush strength */
-"Hard" = "강함";
 
 /* No comment provided by engineer. */
 "Hard Light" = "하드 라이트";
 
 /* No comment provided by engineer. */
 "Hard Mix" = "하드 믹스";
+
+/* No comment provided by engineer. */
+"Height:" = "높이:";
 
 /* No comment provided by engineer. */
 "Hidden Layer" = "숨은 레이어";
@@ -912,9 +949,6 @@
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Hippie" = "히피";
-
-/* No comment provided by engineer. */
-"Hole" = "구멍";
 
 /* Perspective transform */
 "Horizontal Perspective" = "수평 투시도";
@@ -934,14 +968,15 @@
 /* No comment provided by engineer. */
 "iCloud keeps your images up to date on all your devices" = "iCloud를 통해 모든 장치에서 이미지들을 최신 상태로 유지합니다";
 
-/* Untitled document name received via Handoff */
+/* Default document name
+   Untitled document name received via Handoff */
 "Image" = "이미지";
 
 /* No comment provided by engineer. */
-"Image Enhancements" = "이미지 향상";
+"Image Fill" = "이미지 채우기";
 
 /* No comment provided by engineer. */
-"Image Fill" = "이미지 채우기";
+"Image Layer" = "이미지 레이어";
 
 /* No comment provided by engineer. */
 "Image Setup" = "이미지 설정";
@@ -950,10 +985,19 @@
 "Image Size" = "이미지 크기";
 
 /* No comment provided by engineer. */
+"Images" = "이미지";
+
+/* No comment provided by engineer. */
 "Import" = "가져오기";
 
 /* No comment provided by engineer. */
+"Import to Files" = "파일로 가져오기";
+
+/* No comment provided by engineer. */
 "Import to Photos" = "사진으로 가져오기";
+
+/* No comment provided by engineer. */
+"Improved Performance" = "Improved Performance";
 
 /* short for inches
    Units */
@@ -963,12 +1007,6 @@
 "Inches" = "인치";
 
 /* No comment provided by engineer. */
-"Increase Brush Size" = "브러시 크기 증가";
-
-/* No comment provided by engineer. */
-"Increase Opacity" = "불투명도 증가";
-
-/* No comment provided by engineer. */
 "Increase the strength of colors" = "새 강도 증가";
 
 /* No comment provided by engineer. */
@@ -976,6 +1014,9 @@
 
 /* No comment provided by engineer. */
 "Initial Direction" = "최초 방향";
+
+/* No comment provided by engineer. */
+"Initial Support for Pixelmator Pro Documents" = "Initial Support for Pixelmator Pro Documents";
 
 /* Tool */
 "Ink" = "잉크";
@@ -1007,14 +1048,8 @@
 /* No comment provided by engineer. */
 "It was not possible to automatically move your files from the Pixelmator gallery to the new Files browser. Move them manually by tapping Move or relaunch Pixelmator to try again." = "Pixelmator 갤러리에서 새로운 파일 브라우저로 파일을 자동으로 이동하지 못했습니다. 이동을 탭하여 직접 이동하거나 Pixelmator를 재시작하여 다시 시도하세요.";
 
-/* No comment provided by engineer. */
-"iTunes" = "iTunes";
-
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Ivory" = "상아";
-
-/* No comment provided by engineer. */
-"JPEG" = "JPEG";
 
 /* No comment provided by engineer. */
 "Kaleidoscope" = "만화경";
@@ -1029,12 +1064,6 @@
 "Keep One" = "하나 유지";
 
 /* No comment provided by engineer. */
-"Keyboard Support" = "키보드 지원";
-
-/* No comment provided by engineer. */
-"Large" = "크게";
-
-/* No comment provided by engineer. */
 "Last Adjustments" = "마지막 조정";
 
 /* Default new layer name */
@@ -1047,6 +1076,9 @@
 "Layer Locked" = "잠긴 레이어";
 
 /* No comment provided by engineer. */
+"Layer Mask" = "레이어 마스크";
+
+/* No comment provided by engineer. */
 "Layer was flattened" = "레이어가 병합되었습니다";
 
 /* No comment provided by engineer. */
@@ -1054,24 +1086,6 @@
 
 /* No comment provided by engineer. */
 "Left" = "왼쪽";
-
-/* No comment provided by engineer. */
-"Left-handed" = "왼손";
-
-/* No comment provided by engineer. */
-"Left-handed average" = "왼손 평균";
-
-/* No comment provided by engineer. */
-"Left-handed downward" = "왼손 아래로";
-
-/* No comment provided by engineer. */
-"Left-handed horizontal" = "왼손 수평";
-
-/* No comment provided by engineer. */
-"Left-handed upward" = "왼손 위로";
-
-/* No comment provided by engineer. */
-"Left-handed vertical" = "왼손 수직";
 
 /* No comment provided by engineer. */
 "Lens Correction" = "렌즈 보정";
@@ -1094,9 +1108,6 @@
 /* No comment provided by engineer. */
 "Light Source" = "라이트 소스";
 
-/* No comment provided by engineer. */
-"Light Tunnel" = "라이트 터널";
-
 /* Retouch Tools
    Tool */
 "Lighten" = "연하게 만들기";
@@ -1108,9 +1119,6 @@
 "Lighten Settings" = "연하게 만들기 설정";
 
 /* No comment provided by engineer. */
-"Lighten Strength" = "연하게 만들기 강도";
-
-/* No comment provided by engineer. */
 "Lighter Color" = "더 밝은 색";
 
 /* No comment provided by engineer. */
@@ -1119,8 +1127,14 @@
 /* No comment provided by engineer. */
 "Lightness Scatter" = "명도 분산";
 
+/* No comment provided by engineer. */
+"Lights" = "밝은 색상";
+
 /* Tool */
 "Line" = "선";
+
+/* No comment provided by engineer. */
+"Line Spacing" = "줄 간격";
 
 /* No comment provided by engineer. */
 "Linear Burn" = "선형 번";
@@ -1146,6 +1160,9 @@
 /* No comment provided by engineer. */
 "Loading..." = "로드 중...";
 
+/* No comment provided by engineer. */
+"Loading…" = "로드 중…";
+
 /* Layer */
 "Lock" = "잠금";
 
@@ -1170,6 +1187,9 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "거문고";
 
+/* No comment provided by engineer. */
+"Magenta" = "마젠타색";
+
 /* Tool */
 "Magnetic" = "자석";
 
@@ -1179,17 +1199,20 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Magnolia" = "목련";
 
-/* No comment provided by engineer. */
-"Make your images look great with effects, color adjustments, and retouching tools." = "다양한 효과, 색 조정, 리터치 도구로 이미지를 멋지게 만드세요.";
-
 /* Tool */
 "Marker" = "마커";
+
+/* No comment provided by engineer. */
+"Mask" = "마스크";
 
 /* Color Balance */
 "Master" = "마스터";
 
 /* No comment provided by engineer. */
 "Master Color Wheel" = "마스터 색상 원판";
+
+/* No comment provided by engineer. */
+"Match Colors" = "색상 일치";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Matte" = "매트";
@@ -1200,9 +1223,6 @@
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "최대 압력 크기";
 
-/* No comment provided by engineer. */
-"Medium" = "중간";
-
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Mellow" = "멜로";
 
@@ -1210,7 +1230,7 @@
 "Merge" = "병합";
 
 /* No comment provided by engineer. */
-"Merge Brush Marks" = "브러시 마크 병합";
+"Merge brush marks" = "브러시 마크 병합";
 
 /* Color Balance */
 "Midtones" = "중간 색조";
@@ -1225,19 +1245,7 @@
 "Minimum" = "최소";
 
 /* No comment provided by engineer. */
-"Minimum Opacity" = "최소 불투명도";
-
-/* No comment provided by engineer. */
 "ML Crop" = "ML 자르기";
-
-/* No comment provided by engineer. */
-"ML Enhance" = "ML 향상";
-
-/* No comment provided by engineer. */
-"ML Match Colors" = "ML 색상 일치";
-
-/* Tool */
-"ML Super Resolution" = "ML 초해상도";
 
 /* Units */
 "mm" = "mm";
@@ -1245,17 +1253,23 @@
 /* Used to describe on which device document were modified */
 "Modified on %@" = "%@에서 수정됨";
 
-/* Edit Menu */
-"More..." = "더 보기...";
+/* No comment provided by engineer. */
+"Modify Original" = "Modify Original";
 
 /* No comment provided by engineer. */
-"Motion" = "동작";
+"More" = "더 보기";
+
+/* Edit Menu */
+"More…" = "더 보기…";
 
 /* No comment provided by engineer. */
 "Move" = "이동";
 
 /* No comment provided by engineer. */
 "Move Selection" = "선택 항목 이동";
+
+/* No comment provided by engineer. */
+"MOVE TO BACK/FRONT" = "MOVE TO BACK/FRONT";
 
 /* No comment provided by engineer. */
 "Multiply" = "곱하기";
@@ -1284,6 +1298,12 @@
 /* No comment provided by engineer. */
 "No Camera Access" = "카메라 접근 권한 없음";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No Camera Info" = "카메라 정보 없음";
+
+/* Displayed when the model of the camera lens used to take a photo is not known. */
+"No Lens Info" = "렌즈 정보 없음";
+
 /* No comment provided by engineer. */
 "No Photos" = "사진 없음";
 
@@ -1299,20 +1319,20 @@
 /* Tool */
 "None" = "없음";
 
-/* Used to describe brush strength */
+/* No comment provided by engineer. */
 "Normal" = "일반";
 
 /* No comment provided by engineer. */
 "Nothing Selected" = "선택되지 않음";
 
 /* No comment provided by engineer. */
+"Offset" = "오프셋";
+
+/* No comment provided by engineer. */
 "OK" = "확인";
 
 /* No comment provided by engineer. */
 "Only Draw with Apple Pencil is Turned On" = "'Apple Pencil로만 그리기'가 켜져 있습니다";
-
-/* No comment provided by engineer. */
-"Op" = "오프";
 
 /* No comment provided by engineer. */
 "Opacity" = "불투명도";
@@ -1327,7 +1347,7 @@
 "Opacity Scatter" = "불투명도 분산";
 
 /* No comment provided by engineer. */
-"Open In Another App" = "다른 앱에서 열기";
+"Orange" = "주황";
 
 /* No comment provided by engineer. */
 "Orientation" = "방향";
@@ -1340,6 +1360,9 @@
 
 /* No comment provided by engineer. */
 "ORIGINAL PERSPECTIVE" = "원본 투시도";
+
+/* No comment provided by engineer. */
+"Original Size" = "원래 크기";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Orion" = "오리온";
@@ -1355,6 +1378,15 @@
 
 /* Tool */
 "Paint" = "페인트";
+
+/* No comment provided by engineer. */
+"Paint and Erase" = "페인트 및 지우기";
+
+/* No comment provided by engineer. */
+"Paint and Sketch" = "페인트 및 스케치";
+
+/* No comment provided by engineer. */
+"Paint digital or traditional paintings with a collection of over 100 handcrafted dual-texture brushes." = "Paint digital or traditional paintings with a collection of over 100 handcrafted dual-texture brushes.";
 
 /* No comment provided by engineer. */
 "Paint with a sample of an area" = "샘플 영역에 페인트";
@@ -1373,9 +1405,6 @@
 
 /* No comment provided by engineer. */
 "Path" = "경로";
-
-/* No comment provided by engineer. */
-"Pattern" = "패턴";
 
 /* No comment provided by engineer. */
 "Pattern Fill" = "패턴 채우기";
@@ -1399,7 +1428,7 @@
 "Photos" = "사진";
 
 /* No comment provided by engineer. */
-"Photoshop" = "Photoshop";
+"Pick Grey Point" = "회색 포인트 선택";
 
 /* No comment provided by engineer. */
 "Pin Light" = "핀 라이트";
@@ -1414,7 +1443,7 @@
 "Pixel Tool" = "픽셀 도구";
 
 /* No comment provided by engineer. */
-"Pixelmator" = "Pixelmator";
+"Pixelmator 2.7 for iOS brings a more modern and refined design." = "Pixelmator 2.7 for iOS brings a more modern and refined design.";
 
 /* No comment provided by engineer. */
 "Pixelmator has been denied access to Photos. Please allow access in Settings." = "Pixelmator에 대해 사진 접근이 거부되었습니다. 설정에서 접근을 허용하세요.";
@@ -1423,16 +1452,13 @@
 "Pixelmator has been denied access to the Camera. Please allow access in Settings." = "Pixelmator에 대해 카메라 접근이 거부되었습니다. 설정에서 접근을 허용하세요.";
 
 /* No comment provided by engineer. */
-"Pixelmator is now fully compatible with iOS 14." = "Pixelmator는 이제 iOS 14와 완벽히 호환됩니다.";
+"Pixelmator Help" = "Pixelmator Help";
 
 /* Units */
 "Pixels" = "픽셀";
 
 /* No comment provided by engineer. */
 "Please try again later." = "나중에 다시 시도하십시오.";
-
-/* No comment provided by engineer. */
-"PNG" = "PNG";
 
 /* Units */
 "Points" = "포인트";
@@ -1444,16 +1470,13 @@
 "Polygon" = "다각형";
 
 /* No comment provided by engineer. */
-"Posterize" = "포스터라이즈";
-
-/* No comment provided by engineer. */
 "Preserve transparency" = "투명도 유지";
 
 /* No comment provided by engineer. */
 "Presets" = "프리셋";
 
 /* No comment provided by engineer. */
-"Press and Hold to Connect" = "길게 눌러서 연결";
+"Preview" = "미리보기";
 
 /* No comment provided by engineer. */
 "Previous" = "이전";
@@ -1461,11 +1484,17 @@
 /* No comment provided by engineer. */
 "Processing..." = "처리 중...";
 
+/* No comment provided by engineer. */
+"Processing…" = "처리 중…";
+
 /* Units */
 "pt" = "pt";
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Punk" = "펑크";
+
+/* No comment provided by engineer. */
+"Purple" = "보라색";
 
 /* Units */
 "px" = "px";
@@ -1477,12 +1506,10 @@
 "Quick Selection" = "빠른 선택";
 
 /* No comment provided by engineer. */
-"Quickly and easily share your masterpieces with the whole world." = "귀하의 작품을 전 세계와 빠르고 쉽게 공유하세요.";
-
-/* No comment provided by engineer. */
 "Quickly select detailed objects" = "세부 개체를 빠르게 선택";
 
-/* Recents group abbreviation */
+/* Recents group abbreviation
+   Short for RAW Image format */
 "R" = "R";
 
 /* No comment provided by engineer. */
@@ -1508,9 +1535,6 @@
 
 /* No comment provided by engineer. */
 "RAW+JPEG" = "RAW+JPEG";
-
-/* No comment provided by engineer. */
-"Ready for iOS 14" = "iOS 14 지원 준비 완료";
 
 /* No comment provided by engineer. */
 "Recent" = "최근";
@@ -1540,9 +1564,6 @@
 "Red Color Balance" = "빨간색 균형";
 
 /* No comment provided by engineer. */
-"Red-Eye Fix" = "적목 수정";
-
-/* No comment provided by engineer. */
 "Redo" = "다시 실행";
 
 /* No comment provided by engineer. */
@@ -1552,16 +1573,22 @@
 "Refine Selection" = "선택 미세 조정";
 
 /* No comment provided by engineer. */
+"Reflection" = "반사";
+
+/* No comment provided by engineer. */
 "Reflection Off" = "반사 해제";
 
 /* No comment provided by engineer. */
 "Reflection On" = "반사 설정";
 
 /* No comment provided by engineer. */
+"Reflection Opacity" = "Reflection Opacity";
+
+/* No comment provided by engineer. */
 "Reflection Strength" = "반사 강도";
 
 /* No comment provided by engineer. */
-"Reload from Photos" = "사진에서 다시 불러오기";
+"Refreshed Design" = "Refreshed Design";
 
 /* No comment provided by engineer. */
 "Remove" = "제거";
@@ -1578,6 +1605,9 @@
 /* No comment provided by engineer. */
 "Remove unwanted elements" = "원하지 않는 요소 제거";
 
+/* Edit Menu */
+"Rename" = "이름 변경";
+
 /* Retouch Tools
    Tool */
 "Repair" = "복구";
@@ -1589,10 +1619,10 @@
 "Repair Tool" = "복원 도구";
 
 /* No comment provided by engineer. */
-"Repairing..." = "복구 중...";
+"Repairing…" = "복구 중…";
 
 /* No comment provided by engineer. */
-"Repairing... %@" = "복구 중... %@";
+"Repairing… %@" = "Repairing… %@";
 
 /* No comment provided by engineer. */
 "Replace Color" = "색상 대치";
@@ -1615,17 +1645,17 @@
 /* No comment provided by engineer. */
 "Reset Crop" = "자르기 재설정";
 
+/* No comment provided by engineer. */
+"Reset Enhance" = "향상 재설정";
+
 /* Perspective transform */
 "Reset Horizontal Perspective" = "수평 투시도 재설정";
 
 /* No comment provided by engineer. */
+"Reset Match Colors" = "색상 일치 재설정";
+
+/* No comment provided by engineer. */
 "Reset ML Crop" = "ML 자르기 재설정";
-
-/* No comment provided by engineer. */
-"Reset ML Enhance" = "ML 향상 재설정";
-
-/* No comment provided by engineer. */
-"Reset ML Match Colors" = "ML 색상 일치 재설정";
 
 /* Perspective transform */
 "Reset Perspective" = "투시도 재설정";
@@ -1669,24 +1699,6 @@
 /* No comment provided by engineer. */
 "Right" = "오른쪽";
 
-/* No comment provided by engineer. */
-"Right-handed" = "오른손";
-
-/* No comment provided by engineer. */
-"Right-handed average" = "오른손 평균";
-
-/* No comment provided by engineer. */
-"Right-handed downward" = "오른손 아래로";
-
-/* No comment provided by engineer. */
-"Right-handed horizontal" = "오른손 수평";
-
-/* No comment provided by engineer. */
-"Right-handed upward" = "오른손 위로";
-
-/* No comment provided by engineer. */
-"Right-handed vertical" = "오른손 수직";
-
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Romantic" = "로맨틱";
 
@@ -1714,6 +1726,9 @@
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Ruby" = "루비";
 
+/* No comment provided by engineer. */
+"Rulers" = "눈금자";
+
 /* Retouch Tools
    Tool */
 "Saturate" = "범위 제한";
@@ -1728,13 +1743,10 @@
 "Saturation Settings" = "채도 설정";
 
 /* No comment provided by engineer. */
-"Saturation Strength" = "채도 강도";
-
-/* No comment provided by engineer. */
 "Save" = "저장";
 
 /* No comment provided by engineer. */
-"Save to iCloud Drive" = "iCloud Drive에 저장";
+"Save to Photos" = "사진에 저장";
 
 /* No comment provided by engineer. */
 "Scale" = "크기 조절";
@@ -1761,6 +1773,9 @@
 "Screen" = "화면";
 
 /* No comment provided by engineer. */
+"See All" = "모두 보기";
+
+/* No comment provided by engineer. */
 "Select" = "선택";
 
 /* No comment provided by engineer. */
@@ -1774,6 +1789,9 @@
 
 /* No comment provided by engineer. */
 "Select Images" = "이미지 선택";
+
+/* No comment provided by engineer. */
+"Select More Photos..." = "사진 추가 선택...";
 
 /* No comment provided by engineer. */
 "Select Next Layer" = "다음 레이어 선택";
@@ -1809,22 +1827,16 @@
 "Selection" = "선택";
 
 /* No comment provided by engineer. */
-"Selection Mode" = "선택 모드";
+"SELECTION MODE" = "SELECTION MODE";
 
 /* No comment provided by engineer. */
 "Selective Color" = "선택적 색상";
-
-/* No comment provided by engineer. */
-"Send a Copy" = "사본 보내기";
 
 /* No comment provided by engineer. */
 "Send Backward" = "뒤로 보내기";
 
 /* No comment provided by engineer. */
 "Send to Back" = "맨 뒤로 보내기";
-
-/* No comment provided by engineer. */
-"Send to iTunes" = "iTunes에 보내기";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Sepia" = "세피아";
@@ -1871,22 +1883,13 @@
 /* No comment provided by engineer. */
 "Shared Albums" = "공유 앨범";
 
-/* No comment provided by engineer. */
-"Sharing" = "공유";
-
 /* Effects category name
    Retouch Tools
    Tool */
 "Sharpen" = "선명 효과";
 
 /* No comment provided by engineer. */
-"Sharpen Luminance" = "휘도를 선명하게 함";
-
-/* No comment provided by engineer. */
 "Sharpen Settings" = "선명하게 만들기 설정";
-
-/* No comment provided by engineer. */
-"Sharpen Strength" = "선명하게 만들기 강도";
 
 /* No comment provided by engineer. */
 "Sharpen the focus" = "포커스 선명하게 만들기";
@@ -1900,9 +1903,6 @@
 /* No comment provided by engineer. */
 "Show All Photos" = "모든 사진 보기";
 
-/* No comment provided by engineer. */
-"Show Colors" = "색상 보기";
-
 /* Layer */
 "Show Layer" = "레이어 표시";
 
@@ -1913,10 +1913,7 @@
 "Simple" = "단순";
 
 /* No comment provided by engineer. */
-"Sixfold Reflected" = "6방향으로 반사";
-
-/* No comment provided by engineer. */
-"Sixfold Rotated" = "6방향으로 회전";
+"SIZE" = "SIZE";
 
 /* No comment provided by engineer. */
 "Size" = "크기";
@@ -1934,10 +1931,7 @@
 "Skew" = "기울이기";
 
 /* No comment provided by engineer. */
-"Small" = "작게";
-
-/* No comment provided by engineer. */
-"Smooth Textures" = "부드러운 텍스처";
+"Smooth textures" = "부드러운 텍스처";
 
 /* Retouch Tools
    Tool */
@@ -1947,16 +1941,10 @@
 "Smudge Settings" = "스머지 설정";
 
 /* No comment provided by engineer. */
-"Smudge Size" = "스머지 크기";
-
-/* No comment provided by engineer. */
 "Smudge Strength" = "스머지 강도";
 
 /* No comment provided by engineer. */
 "Snapping" = "맞추기";
-
-/* Used to describe brush strength */
-"Soft" = "작게";
 
 /* No comment provided by engineer. */
 "Soft Light" = "소프트 라이트";
@@ -1969,16 +1957,13 @@
 "Soften Settings" = "부드럽게 만들기 설정";
 
 /* No comment provided by engineer. */
-"Soften Strength" = "부드럽게 만들기 강도";
-
-/* No comment provided by engineer. */
 "Softness" = "부드러움";
 
 /* No comment provided by engineer. */
-"Some changes were made to your presentation" = "프레젠테이션이 일부 변경되었습니다";
+"Some changes were made to your document" = "Some changes were made to your document";
 
 /* No comment provided by engineer. */
-"Some Layer Group settings are not supported. Your image might look different." = "일부 레이어 그룹 설정이 지원되지 않습니다. 이미지가 다르게 보일 수 있습니다.";
+"Some layer group settings are not supported. Your image might look different." = "Some layer group settings are not supported. Your image might look different.";
 
 /* No comment provided by engineer. */
 "Source Atop" = "원본 꼭대기";
@@ -1993,7 +1978,7 @@
 "Source Out" = "원본 밖";
 
 /* No comment provided by engineer. */
-"Speed up your edits with keyboard support and over 70 new keyboard shortcuts." = "키보드 지원과 70개 이상의 새로운 키보드 단축키를 사용해 편집 속도를 향상시키세요.";
+"Spacing Guides" = "간격 안내선";
 
 /* No comment provided by engineer. */
 "Spin area of an image to the left" = "이미지 영역 왼쪽으로 회전";
@@ -2029,9 +2014,6 @@
 "Stretch" = "늘이기";
 
 /* No comment provided by engineer. */
-"Stripes" = "스트라이프";
-
-/* No comment provided by engineer. */
 "Stroke" = "스트로크";
 
 /* No comment provided by engineer. */
@@ -2065,13 +2047,13 @@
 "Subtract" = "빼기";
 
 /* No comment provided by engineer. */
-"Subtract from" = "제거 위치";
-
-/* No comment provided by engineer. */
 "Subtract from Selection" = "선택에서 제외";
 
+/* Tool */
+"Super Resolution" = "초해상도";
+
 /* No comment provided by engineer. */
-"Sunbeams" = "태양광";
+"Support" = "지원";
 
 /* No comment provided by engineer. */
 "Tail End Dynamics" = "테일 엔드 다이내믹스";
@@ -2135,31 +2117,79 @@
 "Text Color" = "텍스트 색상";
 
 /* No comment provided by engineer. */
-"The 16-bits per channel color depth is not supported. It will be converted to 8-bits per channel." = "채널 당 16비트 색 농도는 지원되지 않습니다. 채널 당 6비트로 변환됩니다.";
+"Texture" = "텍스처";
 
 /* No comment provided by engineer. */
-"The file format version is not supported. " = "파일 형식 버전이 지원되지 않습니다.";
+"Thanks to a new Metal-powered graphics pipeline, Pixelmator for iOS is now even faster." = "Thanks to a new Metal-powered graphics pipeline, Pixelmator for iOS is now even faster.";
 
 /* No comment provided by engineer. */
-"The font %@ is missing. Your text might look different." = "%@ 글꼴이 누락되었습니다. 텍스트가 다르게 보일 수 있습니다.";
+"The document contains %@ layers, which are not supported. Your image might look different." = "The document contains %@ layers, which are not supported. Your image might look different.";
+
+/* No comment provided by engineer. */
+"The document contains clipping masks which are not supported. Your image might look different." = "The document contains clipping masks which are not supported. Your image might look different.";
+
+/* No comment provided by engineer. */
+"The document contains color adjustments which are not supported. These have been merged with image layers and removed from vector layers." = "The document contains color adjustments which are not supported. These have been merged with image layers and removed from vector layers.";
+
+/* No comment provided by engineer. */
+"The document contains color adjustments which are not supported. They have been merged with image layers and removed from vector layers." = "The document contains color adjustments which are not supported. They have been merged with image layers and removed from vector layers.";
+
+/* No comment provided by engineer. */
+"The document contains curved text. These layers have been removed." = "The document contains curved text. These layers have been removed.";
+
+/* No comment provided by engineer. */
+"The document contains effects which are not supported. These have been merged with image layers and removed from vector layers." = "The document contains effects which are not supported. These have been merged with image layers and removed from vector layers.";
+
+/* No comment provided by engineer. */
+"The document contains effects which are not supported. They have been merged with image layers and removed from vector layers." = "The document contains effects which are not supported. They have been merged with image layers and removed from vector layers.";
+
+/* No comment provided by engineer. */
+"The document contains layer masks. These have been merged with image layers and removed from vector layers." = "The document contains layer masks. These have been merged with image layers and removed from vector layers.";
+
+/* No comment provided by engineer. */
+"The document contains layer masks. They have been merged with image layers and removed from vector layers." = "The document contains layer masks. They have been merged with image layers and removed from vector layers.";
+
+/* No comment provided by engineer. */
+"The document contains layer styles which are not supported." = "The document contains layer styles which are not supported.";
+
+/* No comment provided by engineer. */
+"The document contains layer styles which are not supported. Your image might look different." = "The document contains layer styles which are not supported. Your image might look different.";
+
+/* No comment provided by engineer. */
+"The document contains layers that are too large." = "The document contains layers that are too large.";
+
+/* No comment provided by engineer. */
+"The document contains unsupported shape layers." = "The document contains unsupported shape layers.";
+
+/* No comment provided by engineer. */
+"The document contains unsupported smart shape layers." = "The document contains unsupported smart shape layers.";
+
+/* No comment provided by engineer. */
+"The document was opened in Pixelmator file format." = "The document was opened in Pixelmator file format.";
+
+/* No comment provided by engineer. */
+"The document's color profile is not supported. It was converted to sRGB." = "The document's color profile is not supported. It was converted to sRGB.";
+
+/* No comment provided by engineer. */
+"The document’s color profile is not supported. It was converted to sRGB." = "The document’s color profile is not supported. It was converted to sRGB.";
+
+/* No comment provided by engineer. */
+"The font \"%@\" is missing. Your text might look different." = "The font \"%@\" is missing. Your text might look different.";
+
+/* No comment provided by engineer. */
+"The font “%@“ is missing. Your text might look different." = "The font “%@“ is missing. Your text might look different.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "이미지가 %@개의 레이어를 포함하고 있습니다. 더 생성하려면 이미지 크기를 줄이세요.";
 
 /* No comment provided by engineer. */
-"The image has too large layers." = "이미지에 너무 큰 레이어가 있습니다.";
-
-/* No comment provided by engineer. */
-"The image has unsupported layer styles." = "이미지에 지원되지 않는 레이어 스타일이 있습니다.";
-
-/* No comment provided by engineer. */
-"The image has unsupported shape layers." = "이미지에 지원되지 않는 모양 레이어가 있습니다.";
-
-/* No comment provided by engineer. */
-"The image has unsupported smart shape layers." = "이미지에 지원되지 앟는 스마트 모양 레이어가 있습니다.";
+"The image could not be exported." = "이미지를 내보내지 못했습니다.";
 
 /* No comment provided by engineer. */
 "The image is too large." = "이미지가 너무 큽니다.";
+
+/* No comment provided by engineer. */
+"The image is too large. Its size has been reduced." = "The image is too large. Its size has been reduced.";
 
 /* No comment provided by engineer. */
 "The image is too large. You can open and edit images of up to %@ megapixels." = "이미지가 너무 큽니다. 열고 편집할 수 있는 이미지의 최대 크기는 %@ 메가 픽셀입니다.";
@@ -2168,19 +2198,19 @@
 "The image is too large. You can share images of up to %@ megapixels." = "이미지가 너무 큽니다. 공유할 수 있는 이미지의 최대 크기는 %@ 메가 픽셀입니다.";
 
 /* No comment provided by engineer. */
-"The image size is too large. It will be reduced." = "이미지 크기가 너무 큽니다. 이미지가 줄여집니다.";
-
-/* No comment provided by engineer. */
-"The image will be opened in Pixelmator file format." = "이미지가 Pixelmator 파일 형식으로 열립니다.";
-
-/* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "이 이미지 크기에 대한 최대 레이어 수는 %i입니다";
+
+/* No comment provided by engineer. */
+"The preset will be permanently deleted from the app." = "해당 프리셋은 앱에서 영구적으로 삭제됩니다.";
 
 /* No comment provided by engineer. */
 "The size is too large." = "크기가 너무 큽니다.";
 
 /* No comment provided by engineer. */
 "The type of %@ layer is unsupported. Your image might look different." = "%@ 레이어 유형은 지원되지 않습니다. 이미지가 다르게 보일 수 있습니다.";
+
+/* No comment provided by engineer. */
+"This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "이 앨범은 비어 있습니다. 사진 앱에서 사진을 추가하면 여기에 자동으로 표시됩니다.";
 
 /* No comment provided by engineer. */
 "This cloud storage provider does not support Pixelmator files." = "이 클라우드 스토리지 제공업체는 Pixelmator 파일을 지원하지 않습니다.";
@@ -2193,6 +2223,9 @@
 
 /* No comment provided by engineer. */
 "This version of Pixelmator has been created specifically for demonstration purposes" = "이 Pixelmator 버전은 특히 메모 목적으로 제작되었습니다";
+
+/* No comment provided by engineer. */
+"This version of the file format is not supported." = "This version of the file format is not supported.";
 
 /* Effects category name */
 "Tile" = "타일";
@@ -2207,19 +2240,16 @@
 "Tilt Shift" = "기울기 시프트";
 
 /* No comment provided by engineer. */
-"Tilt-Shift" = "기울기-시프트";
-
-/* No comment provided by engineer. */
 "Tint" = "농담";
 
 /* No comment provided by engineer. */
 "To access your media, go to Settings > Privacy > Photos, and set the Pixelmator switch to On." = "미디어에 액세스하려면 설정 > 개인 정보 보호 > 사진에서 Pixelmator를 켬으로 합니다.";
 
 /* No comment provided by engineer. */
-"Toggle Eraser" = "지우개 토글";
+"Tone" = "톤";
 
 /* No comment provided by engineer. */
-"Tone" = "톤";
+"Tone Map" = "색조 맵";
 
 /* No comment provided by engineer. */
 "Tool" = "도구";
@@ -2231,19 +2261,10 @@
 "Top" = "위";
 
 /* No comment provided by engineer. */
-"Torus Lens" = "원환체 렌즈";
-
-/* No comment provided by engineer. */
 "Touch Opacity" = "터치 불투명도";
 
 /* No comment provided by engineer. */
 "Touch Size" = "터치 크기";
-
-/* No comment provided by engineer. */
-"Trackpad and Mouse Support" = "트랙패드 및 마우스 지원";
-
-/* No comment provided by engineer. */
-"Trackpad and mouse support brings an all new way to edit images." = "트랙패드 및 마우스 지원을 통해 새로운 방식의 이미지 편집이 가능합니다.";
 
 /* No comment provided by engineer. */
 "Transform" = "변형";
@@ -2252,16 +2273,13 @@
 "Transform Selection" = "선택 변형";
 
 /* No comment provided by engineer. */
-"Transition" = "전환";
+"Transient" = "임시";
 
 /* No comment provided by engineer. */
-"Triangle" = "삼각형";
+"Transition" = "전환";
 
 /* Tool */
 "Trim Canvas" = "캔버스 트리밍";
-
-/* No comment provided by engineer. */
-"Twelvefold" = "12배";
 
 /* Tool */
 "Twirl" = "휘감기";
@@ -2291,6 +2309,9 @@
 "Unable to Download Template" = "템플릿을 다운로드할 수 없습니다";
 
 /* No comment provided by engineer. */
+"Unable to Export" = "내보낼 수 없습니다";
+
+/* No comment provided by engineer. */
 "Unable to Open Image" = "이미지를 열 수 없음";
 
 /* No comment provided by engineer. */
@@ -2314,9 +2335,6 @@
 /* Layer Arrange */
 "Ungroup" = "그룹해제";
 
-/* No comment provided by engineer. */
-"Unknown" = "알 수 없음";
-
 /* Layer */
 "Unlock" = "잠금 해제";
 
@@ -2325,6 +2343,9 @@
 
 /* No comment provided by engineer. */
 "Unlock Alpha" = "알파 잠금 해제";
+
+/* No comment provided by engineer. */
+"Unnamed" = "이름 없음";
 
 /* Document conflict error title */
 "Unresolved Conflicts" = "해결되지 않은 충돌";
@@ -2344,26 +2365,11 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "도시";
 
-/* No comment provided by engineer. */
-"Use any of the inspiring drawing or painting tools to create stunning artwork." = "놀라운 그리기 도구 및 페인팅 도구를 이용해 멋진 아트워크를 만드세요.";
-
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "베가";
 
 /* Perspective transform */
 "Vertical Perspective" = "수직 투시도";
-
-/* Used to describe brush strength */
-"Very Hard" = "굉장히 강하게";
-
-/* No comment provided by engineer. */
-"Very Large" = "굉장히 큼";
-
-/* No comment provided by engineer. */
-"Very Small" = "굉장히 작음";
-
-/* Used to describe brush strength */
-"Very Soft" = "굉장히 부드럽게";
 
 /* No comment provided by engineer. */
 "Vibrance" = "바이브런스";
@@ -2387,10 +2393,7 @@
 "Vivid Light" = "선명한 라이트";
 
 /* No comment provided by engineer. */
-"Vortex" = "소용돌이";
-
-/* No comment provided by engineer. */
-"Wacom Stylus" = "와콤 스타일러스";
+"W:" = "W:";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Warm" = "온화";
@@ -2404,23 +2407,38 @@
 /* Used in Black & White effect as preset name, not much space here–keep it short! */
 "Washed" = "워시트";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Watercolor" = "수채화";
 
 /* No comment provided by engineer. */
 "Wetness" = "습도";
 
 /* No comment provided by engineer. */
+"What's New" = "새로운 기능";
+
+/* No comment provided by engineer. */
 "What's New in Pixelmator" = "Pixelmator의 새로운 점";
+
+/* No comment provided by engineer. */
+"White" = "흰색";
 
 /* No comment provided by engineer. */
 "White Balance" = "흰색 균형";
 
 /* No comment provided by engineer. */
+"Whites" = "흰색";
+
+/* No comment provided by engineer. */
+"Width" = "너비";
+
+/* No comment provided by engineer. */
+"Width:" = "너비:";
+
+/* No comment provided by engineer. */
 "Workflow %i" = "작업 흐름 %i";
 
 /* No comment provided by engineer. */
-"Writing Style" = "필체";
+"Yellow" = "노란색";
 
 /* Template download error message when host is down or no internet connection */
 "You are not connected to the internet. Please connect and try again later." = "인터넷에 연결되지 않았습니다. 연결 후 나중에 다시 시도해주십시오.";
@@ -2442,15 +2460,6 @@
 
 /* No comment provided by engineer. */
 "You need a newer version of Pixelmator to open this image" = "이 이미지를 열려면 Pixelmator 새 버전이 필요합니다.";
-
-/* No comment provided by engineer. */
-"You'll choose a location in the next step." = "다음 단계에서 위치를 선택합니다.";
-
-/* No comment provided by engineer. */
-"You'll choose a service in the next step." = "다음 단계에서 서비스를 선택합니다.";
-
-/* No comment provided by engineer. */
-"You'll choose an app in the next step." = "다음 단계에서 앱을 선택합니다.";
 
 /* No comment provided by engineer. */
 "Zoom" = "확대/축소";
