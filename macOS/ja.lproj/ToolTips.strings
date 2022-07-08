@@ -548,6 +548,12 @@
 "Angle" = "角度";
 
 /* No comment provided by engineer. */
+"Apply a layer style to this layer." = "このレイヤーにレイヤースタイルを適用。";
+
+/* No comment provided by engineer. */
+"Apply an effect to this layer." = "このレイヤーにエフェクトを適用。";
+
+/* No comment provided by engineer. */
 "Apply the brush stroke to your image." = "画像にブラシストロークを適用します。";
 
 /* No comment provided by engineer. */
@@ -603,6 +609,12 @@
 
 /* No comment provided by engineer. */
 "Brush over areas to make them softer." = "領域をブラシで塗りつぶしてソフトにします。";
+
+/* No comment provided by engineer. */
+"Camera lens used to take the photo." = "写真撮影に使用したカメラのレンズ。";
+
+/* No comment provided by engineer. */
+"Camera used to take the photo." = "写真撮影に使用したカメラ。";
 
 /* No comment provided by engineer. */
 "Center text." = "テキストを中央揃えします。";
@@ -755,6 +767,9 @@
 "Click to automatically adjust the white balance of the image." = "クリックして画像のホワイトバランスを自動調整します。";
 
 /* No comment provided by engineer. */
+"Click to automatically enhance the white balance, lightness, hue & saturation, and individual color ranges in the image." = "クリックすると、画像のホワイトバランス、明度、色相＆彩度、および個々のカラー範囲が自動的に調整されます。";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "クリックして色を選択します。";
 
 /* No comment provided by engineer. */
@@ -762,6 +777,9 @@
 
 /* No comment provided by engineer. */
 "Click to choose a new color for this color stop." = "クリックして、このカラーストップの新しい色を選択します。";
+
+/* No comment provided by engineer. */
+"Click to choose a shape to add to the document." = "クリックして書類に追加するシェイプを選択します。";
 
 /* No comment provided by engineer. */
 "Click to enlarge or reduce the view of the image." = "クリックすると画像が拡大または縮小されます。";
@@ -806,6 +824,15 @@
 "Create a new brush preset with the current brush settings." = "現在のブラシ設定で新しいブラシプリセットを作成します。";
 
 /* No comment provided by engineer. */
+"Create a new color adjustments layer." = "新規のカラー調整レイヤーを作成。";
+
+/* No comment provided by engineer. */
+"Create a new effects layer." = "新規のエフェクトレイヤーを作成。";
+
+/* No comment provided by engineer. */
+"Create a new shape preset with the current shape settings." = "現在のシェイプ設定で新しいシェイププリセットを作成します。";
+
+/* No comment provided by engineer. */
 "Create a shape from the intersection of the shape you draw and the currently selected shape." = "描画したシェイプと現在選択されているシェイプの交点からシェイプを作成します。";
 
 /* No comment provided by engineer. */
@@ -836,6 +863,9 @@
 "Customize the look of layers by applying fills, strokes, and shadows." = "塗りつぶし、線、シャドウを適用して、レイヤーの外観をカスタマイズします。";
 
 /* No comment provided by engineer. */
+"Customize the visibility of individual color adjustments." = "個々の色調整の可視性をカスタマイズします。";
+
+/* No comment provided by engineer. */
 "Decrease the font size." = "フォントサイズを小さくします。";
 
 /* No comment provided by engineer. */
@@ -843,6 +873,15 @@
 
 /* No comment provided by engineer. */
 "Destructively combine the selected objects into a single object." = "選択したオブジェクトを破壊的に1つのオブジェクトに結合します。";
+
+/* No comment provided by engineer. */
+"Destructively merge the color adjustments with the object." = "元画像を直接変更してカラー調整をオブジェクトに結合";
+
+/* No comment provided by engineer. */
+"Destructively merge the effects with the object." = "元画像を直接変更してエフェクトをオブジェクトに結合";
+
+/* No comment provided by engineer. */
+"Destructively merge the styles with the object." = "元画像を直接変更してスタイルをオブジェクトに結合";
 
 /* No comment provided by engineer. */
 "Disable the layer mask." = "レイヤーマスクを無効にします。";
@@ -858,6 +897,9 @@
 
 /* No comment provided by engineer. */
 "Distance" = "距離";
+
+/* No comment provided by engineer. */
+"Document Colors" = "書類のカラー";
 
 /* No comment provided by engineer. */
 "Draw circular and elliptical shapes." = "円形と楕円形を描きます。";
@@ -980,6 +1022,9 @@
 "Flip the object vertically." = "垂直方向に反転します。";
 
 /* No comment provided by engineer. */
+"Focal length (the distance from the camera lens to the camera sensor)." = "焦点距離 (カメラレンズからカメラセンサーまでの距離)。";
+
+/* No comment provided by engineer. */
 "Freely change the size of the object." = "オブジェクトのサイズを自由に変更します。";
 
 /* No comment provided by engineer. */
@@ -1014,6 +1059,9 @@
 
 /* No comment provided by engineer. */
 "Insert an empty layer." = "空のレイヤーを挿入します。";
+
+/* No comment provided by engineer. */
+"ISO speed setting (the overall sensitivity of the camera sensor to light)." = "ISO感度設定 (カメラセンサーの全光感度)。";
 
 /* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "両端揃え";
@@ -1118,6 +1166,9 @@
 "Quickly make selections of objects or areas by painting over them." = "オブジェクトまたは領域をペイントしてそれらをすばやく選択します。";
 
 /* No comment provided by engineer. */
+"Relative aperture diameter setting (expressed as the ratio of focal length to effective aperture diameter)." = "相対的な開口径の設定 (焦点距離と有効絞り径の比率として表されます)。";
+
+/* No comment provided by engineer. */
 "Remove any overlapping areas between the shape you draw and the currently selected shape." = "描画したシェイプと現在選択されているシェイプの重複する領域を削除します。";
 
 /* No comment provided by engineer. */
@@ -1157,10 +1208,22 @@
 "Reset any refinements to the mask." = "マスクの調整内容をリセットします。";
 
 /* No comment provided by engineer. */
+"Reset the color adjustments for the object to default." = "オブジェクトのカラー調整をデフォルトにリセット。";
+
+/* No comment provided by engineer. */
 "Reset the colors of the Color wheel" = "カラーホイールの色をリセット";
 
 /* No comment provided by engineer. */
+"Reset the effects for the object to default." = "オブジェクトのエフェクトをデフォルトにリセットします。";
+
+/* No comment provided by engineer. */
+"Reset the layer style of the shape to default." = "シェイプのレイヤースタイルをデフォルトにリセットします。";
+
+/* No comment provided by engineer. */
 "Reset the rotation of the canvas to default." = "キャンバスの回転をデフォルトにリセットします。";
+
+/* No comment provided by engineer. */
+"Reset the style to default." = "スタイルをデフォルトにリセットします。";
 
 /* No comment provided by engineer. */
 "Restore the selected object to its original dimensions." = "選択したオブジェクトを元のサイズに復元します。";
@@ -1233,6 +1296,9 @@
 
 /* No comment provided by engineer. */
 "Select to maintain the aspect ratio (width to height) when resizing this object." = "このオブジェクトのサイズ変更時に縦横比(幅と高さ)を維持する場合に選択します。";
+
+/* No comment provided by engineer. */
+"Select to maintain the aspect ratio (width to height) when resizing this shape." = "シェイプのサイズ変更時に縦横比 (幅と高さ) を維持する場合に選択します。";
 
 /* No comment provided by engineer. */
 "Select to make the Clone tool take into account every layer in your image." = "クローンツールが画像内のすべてのレイヤーを対象とする場合に選択します。";
@@ -1619,6 +1685,12 @@
 "Set the saturation of the selected color." = "選択した色の彩度を設定します。";
 
 /* No comment provided by engineer. */
+"Set the shape height." = "シェイプの高さを設定します。";
+
+/* No comment provided by engineer. */
+"Set the shape width." = "シェイプの幅を設定します。";
+
+/* No comment provided by engineer. */
 "Set the size of the brush texture." = "ブラシのテクスチャのサイズを設定します。";
 
 /* No comment provided by engineer. */
@@ -1857,6 +1929,15 @@
 
 /* No comment provided by engineer. */
 "Show what the image looked like before you warped it." = "画像にワープを適用する前にそのイメージがどのように見えるかを表示します。";
+
+/* No comment provided by engineer. */
+"Show what the object looks like without any color adjustments." = "カラー調整なしの状態でそのオブジェクトがどのように見えるかを表示します。";
+
+/* No comment provided by engineer. */
+"Show what the objects looks like without any effects." = "エフェクトなしの状態でそのオブジェクトがどのように見えるかを表示します。";
+
+/* No comment provided by engineer. */
+"Shutter speed setting (the length of time the camera sensor was exposed to light)." = "シャッタースピードの設定 (カメラセンサーが光にさらされた時間の長さ)。";
 
 /* No comment provided by engineer. */
 "Slant the object vertically or horizontally." = "垂直方向または水平方向にオブジェクトを傾けます。";

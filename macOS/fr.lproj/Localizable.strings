@@ -23,6 +23,9 @@
 "%@ Effect" = "Effet %@";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ a rencontré une erreur critique, probablement due à un espace disque insuffisant ou à une erreur du système d'exploitation. Essayez de libérer de l'espace disque ou de redémarrer votre Mac.";
+
+/* No comment provided by engineer. */
 "%@ layer" = "%@ calque";
 
 /* No comment provided by engineer. */
@@ -227,9 +230,6 @@
 "Affine Tile" = "Affiner la mosaïque";
 
 /* No comment provided by engineer. */
-"Albums" = "Albums";
-
-/* No comment provided by engineer. */
 "Align Bottom Edges" = "Aligner les bords inférieurs";
 
 /* No comment provided by engineer. */
@@ -366,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Background Color" = "Couleur d’arrière-plan";
+
+/* No comment provided by engineer. */
+"Background Layer" = "Calque d’arrière plan";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "Réglage de l’équilibre";
@@ -545,9 +548,6 @@
 "Choose a gradients collection." = "Choisir une collection de dégradés.";
 
 /* No comment provided by engineer. */
-"Choose a shapes collection." = "Choisir une collection de formes.";
-
-/* No comment provided by engineer. */
 "Choose a styles collection." = "Choisir une collection de styles.";
 
 /* No comment provided by engineer. */
@@ -624,9 +624,6 @@
 
 /* No comment provided by engineer. */
 "Click to hide or show the effect presets." = "Cliquer pour masquer ou afficher les préréglages d’effet.";
-
-/* No comment provided by engineer. */
-"Click to hide or show the shape presets." = "Cliquer pour masquer ou afficher les préréglages de forme.";
 
 /* No comment provided by engineer. */
 "Click to hide or show the style presets." = "Cliquer pour masquer ou afficher les préréglages de style.";
@@ -788,6 +785,9 @@
 "Convert LUT into Adjustments" = "Convertir LUT en Réglages";
 
 /* No comment provided by engineer. */
+"Convert to Color Adjustments Layer" = "Convertir en Calque d’ajustements de couleurs";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "Conversion de LUT en Réglages…";
 
 /* No comment provided by engineer. */
@@ -845,6 +845,9 @@
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "Créer de superbes designs et illustrations à l’aide de formes intelligentes faciles à utiliser, d’outils de texte puissants et d’un ensemble complet d’outils vectoriels.";
 
 /* No comment provided by engineer. */
+"Critical Resources Unavailable" = "Ressources critiques indisponibles";
+
+/* No comment provided by engineer. */
 "Crop" = "Recadrer";
 
 /* No comment provided by engineer. */
@@ -867,9 +870,6 @@
 
 /* No comment provided by engineer. */
 "Custom LUT" = "LUT personnalisée";
-
-/* No comment provided by engineer. */
-"Custom Shapes" = "Formes personnalisées";
 
 /* No comment provided by engineer. */
 "Customize Layout…" = "Personnaliser la présentation…";
@@ -980,9 +980,6 @@
 "Detecting Subject…" = "Détection de sujet…";
 
 /* No comment provided by engineer. */
-"Developer" = "Développeur";
-
-/* No comment provided by engineer. */
 "Difference" = "Différence";
 
 /* No comment provided by engineer. */
@@ -1044,6 +1041,9 @@
 
 /* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "Souhaitez-vous enregistrer les modifications apportées au document « %@ »";
+
+/* No comment provided by engineer. */
+"Document Colors" = "Couleurs du document";
 
 /* No comment provided by engineer. */
 "Document Info Change" = "Modification des infos du document";
@@ -1163,6 +1163,9 @@
 "Erase" = "Effacer";
 
 /* No comment provided by engineer. */
+"Error:" = "Erreur :";
+
+/* No comment provided by engineer. */
 "Exclude" = "Exclure";
 
 /* No comment provided by engineer. */
@@ -1209,9 +1212,6 @@
 
 /* No comment provided by engineer. */
 "Export Color Palettes" = "Exporter les palettes de couleurs";
-
-/* No comment provided by engineer. */
-"Export Custom Shapes" = "Exporter les formes personnalisées";
 
 /* No comment provided by engineer. */
 "Export Document as Images" = "Exporter le document en tant qu’images";
@@ -1269,9 +1269,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Faces" = "Visages";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1398,12 +1395,6 @@
 
 /* Format */
 "GIF" = "GIF";
-
-/* No comment provided by engineer. */
-"Gilbert Color" = "Gilbert Color";
-
-/* No comment provided by engineer. */
-"Gilbert Color is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." = "Gilbert couleur est soumis à licence de Creative Commons Attribution-ShareAlike 4.0 International Licence.";
 
 /* No comment provided by engineer. */
 "Glazed" = "Vitré";
@@ -1577,9 +1568,6 @@
 "Hue Scatter" = "Dispersion de la teinte";
 
 /* No comment provided by engineer. */
-"iCloud" = "iCloud";
-
-/* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "Si vous le faites, la prochaine fois que vous modifiez cette image avec l’extension Pixelmator Pro, tout calque et autre modification non-destructive sera restauré.\n\nSinon, seule l’image finale modifiée sera enregistrée.";
 
 /* Untitled document name received via Handoff */
@@ -1602,9 +1590,6 @@
 
 /* No comment provided by engineer. */
 "Image Straightened by %@" = "Image redressée par %@";
-
-/* No comment provided by engineer. */
-"Image Unavailable" = "Image indisponible";
 
 /* No comment provided by engineer. */
 "Import" = "Importer";
@@ -1697,9 +1682,6 @@
 "JPEG" = "JPEG";
 
 /* No comment provided by engineer. */
-"Keep SketchBook" = "Garder SketchBook";
-
-/* No comment provided by engineer. */
 "Keywords Change" = "Modification des mots-clés";
 
 /* No comment provided by engineer. */
@@ -1710,6 +1692,9 @@
 
 /* No comment provided by engineer. */
 "Layer" = "Calque";
+
+/* No comment provided by engineer. */
+"Layer Mask" = "Masque de fusion";
 
 /* No comment provided by engineer. */
 "Layer Menu" = "Menu des calques";
@@ -1731,6 +1716,9 @@
 
 /* No comment provided by engineer. */
 "Levels" = "Niveaux";
+
+/* No comment provided by engineer. */
+"Library" = "Bibliothèque";
 
 /* No comment provided by engineer. */
 "Ligature" = "Ligature";
@@ -1916,9 +1904,6 @@
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "La modification du document en place risque de causer la perte d’une partie de la mise en page actuelle. Souhaitez-vous d’abord dupliquer le document ?";
 
 /* No comment provided by engineer. */
-"Moments" = "Moments";
-
-/* No comment provided by engineer. */
 "Move" = "Déplacer";
 
 /* No comment provided by engineer. */
@@ -1973,12 +1958,6 @@
 "Mustache" = "Moustache";
 
 /* No comment provided by engineer. */
-"New Adjustments" = "Nouveaux réglages";
-
-/* No comment provided by engineer. */
-"New Adjustments Layer" = "Nouveau calque de réglages";
-
-/* No comment provided by engineer. */
 "New Collection" = "Nouvelle collection";
 
 /* No comment provided by engineer. */
@@ -2030,10 +2009,7 @@
 "New name for layout preset:" = "Nouveau nom des préréglages de calques :";
 
 /* No comment provided by engineer. */
-"New name for shape collection:" = "Nouveau nom de la collection de formes :";
-
-/* No comment provided by engineer. */
-"New name for shape preset:" = "Nouveau nom des préréglages de formes :";
+"New name for shapes preset:" = "Nouveau nom du préréglage de formes :";
 
 /* No comment provided by engineer. */
 "New name for style preset:" = "Nouveau nom des préréglages de styles :";
@@ -2093,9 +2069,6 @@
 "No Lens Info" = "Aucune info d’objectif";
 
 /* No comment provided by engineer. */
-"No Photos" = "Aucune photo";
-
-/* No comment provided by engineer. */
 "No Recent Documents" = "Aucun document récent";
 
 /* No comment provided by engineer. */
@@ -2139,9 +2112,6 @@
 
 /* No comment provided by engineer. */
 "Open and edit images saved on your Mac" = "Ouvrez et modifiez des images enregistrées sur votre Mac";
-
-/* No comment provided by engineer. */
-"Open Photos" = "Ouvrir Photos";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "Ouvrir les Préférences Système";
@@ -2247,9 +2217,6 @@
 
 /* No comment provided by engineer. */
 "Perspective Transform" = "Transformation de la perspective";
-
-/* No comment provided by engineer. */
-"Photos" = "Photos";
 
 /* No comment provided by engineer. */
 "Photos Extension" = "Extension Photos";
@@ -2371,6 +2338,9 @@
 /* Quit anyway button title */
 "Quit anyway" = "Quitter quand même";
 
+/* No comment provided by engineer. */
+"Quit Application" = "Quitter l'application";
+
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "Quitter maintenant vous fera perdre toute modification faite depuis la dernière sauvegarde réussie";
 
@@ -2427,6 +2397,9 @@
 
 /* No comment provided by engineer. */
 "Refine Edge" = "Affiner les bords";
+
+/* No comment provided by engineer. */
+"Refine Mask" = "Affiner le masque";
 
 /* No comment provided by engineer. */
 "Refine Mask…" = "Affiner le masque…";
@@ -2496,9 +2469,6 @@
 
 /* No comment provided by engineer. */
 "Remove Shape Paths" = "Supprimer les tracés de la forme";
-
-/* No comment provided by engineer. */
-"Remove SketchBook" = "Supprimer SketchBook";
 
 /* No comment provided by engineer. */
 "Remove Style" = "Supprimer le style";
@@ -2574,6 +2544,9 @@
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "Retraiter RAW";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "Ressources requises indisponibles";
 
 /* No comment provided by engineer. */
 "Reselect" = "Resélectionner";
@@ -2909,10 +2882,10 @@
 "Shape Direction" = "Direction de la forme";
 
 /* No comment provided by engineer. */
-"Share" = "Partager";
+"Shapes" = "Formes";
 
 /* No comment provided by engineer. */
-"Shared" = "Partagé";
+"Share" = "Partager";
 
 /* Effects category name */
 "Sharpen" = "Netteté";
@@ -3017,6 +2990,9 @@
 "Show Tools" = "Afficher les outils";
 
 /* No comment provided by engineer. */
+"Shrink text to fit" = "Réduire le texte pour ajuster à l'écran";
+
+/* No comment provided by engineer. */
 "Sides: %d" = "Côtés : %d";
 
 /* No comment provided by engineer. */
@@ -3053,9 +3029,6 @@
 "Sliders" = "Curseurs";
 
 /* No comment provided by engineer. */
-"Smart Albums" = "Albums intelligents";
-
-/* No comment provided by engineer. */
 "Smart Erase" = "Gomme magique";
 
 /* No comment provided by engineer. */
@@ -3090,6 +3063,9 @@
 
 /* No comment provided by engineer. */
 "Softness" = "Douceur";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "Certaines ressources clés dont %@ a besoin pour fonctionner de manière fiable ne sont pas disponibles, peut-être en raison d'un espace disque insuffisant ou d'une erreur du système d'exploitation.";
 
 /* No comment provided by engineer. */
 "Source Atop" = "Source au dessus";
@@ -3281,9 +3257,6 @@
 "This document has missing fonts." = "Il manque des polices à ce document.";
 
 /* No comment provided by engineer. */
-"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "Cette image est actuellement dans iCloud. Pour la télécharger, ouvrez Photos et double-cliquez sur l’image. Assurez-vous de fermer et rouvrir le navigateur photo de Pixelmator Pro après avoir fait cela.";
-
-/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "Il s’agit d’une démo de la version complète de Pixelmator Pro.";
 
 /* No comment provided by engineer. */
@@ -3309,6 +3282,9 @@
 
 /* No comment provided by engineer. */
 "to" = "à ";
+
+/* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "Pour éviter tout problème, sauvegardez tout travail non sauvegardé, puis libérez de l'espace disque et essayez de redémarrer votre Mac.";
 
 /* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "Pour réordonner les éléments d’interface, les faire glisser jusqu’à la position souhaitée.";
@@ -3512,9 +3488,6 @@
 "y:" = "y :";
 
 /* No comment provided by engineer. */
-"Years" = "Années";
-
-/* No comment provided by engineer. */
 "Yellow / Blue" = "Jaune / bleu";
 
 /* No comment provided by engineer. */
@@ -3528,9 +3501,6 @@
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "Vous avez précédemment refusé l’accès, donc si vous souhaitez utiliser la caméra FaceTime pour ajouter des images à vos documents, veuillez autoriser l’accès dans les Préférences Système.";
-
-/* No comment provided by engineer. */
-"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "Vous avez précédemment refusé l’accès, donc si vous souhaitez utiliser le navigateur photo pour ouvrir des images de votre bibliothèque photo, veuillez autoriser l’accès dans les Préférences Système.";
 
 /* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "Vous avez besoin d’une version plus récente de %@ pour ouvrir de document.";
@@ -3561,9 +3531,6 @@
 
 /* No comment provided by engineer. */
 "“%@.app” would like to access your FaceTime camera." = "\"%@.app\" souhaite accéder à votre caméra FaceTime.";
-
-/* No comment provided by engineer. */
-"“%@.app” would like to access your photos." = "\"%@.app\" souhaite accéder à vos photos.";
 
 /* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "« %@ » existe déjà. Souhaitez-vous le remplacer?";

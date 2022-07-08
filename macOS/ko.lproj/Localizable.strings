@@ -23,6 +23,9 @@
 "%@ Effect" = "%@ 효과";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "디스크 공간 부족 또는 운영 체제 오류로 인하여 %@에 치명적인 오류가 발생했습니다. 저장 공간을 확보하거나 Mac을 다시 시작하면 도움이 될 수 있습니다.";
+
+/* No comment provided by engineer. */
 "%@ layer" = "%@개의 레이어";
 
 /* No comment provided by engineer. */
@@ -227,9 +230,6 @@
 "Affine Tile" = "어파인 타일";
 
 /* No comment provided by engineer. */
-"Albums" = "앨범";
-
-/* No comment provided by engineer. */
 "Align Bottom Edges" = "아래 가장자리 맞춤";
 
 /* No comment provided by engineer. */
@@ -366,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Background Color" = "배경색";
+
+/* No comment provided by engineer. */
+"Background Layer" = "배경 레이어";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "균형 조정";
@@ -545,9 +548,6 @@
 "Choose a gradients collection." = "그라디언트 컬렉션을 선택합니다.";
 
 /* No comment provided by engineer. */
-"Choose a shapes collection." = "도형 컬렉션을 선택합니다.";
-
-/* No comment provided by engineer. */
 "Choose a styles collection." = "스타일 컬렉션을 선택합니다.";
 
 /* No comment provided by engineer. */
@@ -624,9 +624,6 @@
 
 /* No comment provided by engineer. */
 "Click to hide or show the effect presets." = "클릭하여 효과 프리셋을 숨기거나 표시합니다.";
-
-/* No comment provided by engineer. */
-"Click to hide or show the shape presets." = "클릭하여 도형 프리셋을 숨기거나 표시합니다.";
 
 /* No comment provided by engineer. */
 "Click to hide or show the style presets." = "클릭하여 스타일 프리셋을 숨기거나 표시합니다.";
@@ -788,6 +785,9 @@
 "Convert LUT into Adjustments" = "LUT를 조정으로 변환";
 
 /* No comment provided by engineer. */
+"Convert to Color Adjustments Layer" = "색상 조정 레이어로 변환";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUT를 조정으로 변환 중…";
 
 /* No comment provided by engineer. */
@@ -845,6 +845,9 @@
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "사용하기 쉬운 스마트 도형, 강력한 텍스트 도구, 완전한 벡터 도구 모음을 사용해 멋진 디자인과 일러스트레이션을 만드세요.";
 
 /* No comment provided by engineer. */
+"Critical Resources Unavailable" = "중요한 리소스를 사용할 수 없음";
+
+/* No comment provided by engineer. */
 "Crop" = "자르기";
 
 /* No comment provided by engineer. */
@@ -867,9 +870,6 @@
 
 /* No comment provided by engineer. */
 "Custom LUT" = "사용자 정의 LUT";
-
-/* No comment provided by engineer. */
-"Custom Shapes" = "사용자 지정 도형";
 
 /* No comment provided by engineer. */
 "Customize Layout…" = "레이아웃 사용자화…";
@@ -980,9 +980,6 @@
 "Detecting Subject…" = "대상 감지 중…";
 
 /* No comment provided by engineer. */
-"Developer" = "개발자";
-
-/* No comment provided by engineer. */
 "Difference" = "차이";
 
 /* No comment provided by engineer. */
@@ -1044,6 +1041,9 @@
 
 /* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "\"%@” 도큐멘트의 변경 사항을 저장하겠습니까?";
+
+/* No comment provided by engineer. */
+"Document Colors" = "도큐멘트 색상";
 
 /* No comment provided by engineer. */
 "Document Info Change" = "도큐멘트 정보 변경";
@@ -1163,6 +1163,9 @@
 "Erase" = "지우기";
 
 /* No comment provided by engineer. */
+"Error:" = "오류:";
+
+/* No comment provided by engineer. */
 "Exclude" = "제외";
 
 /* No comment provided by engineer. */
@@ -1209,9 +1212,6 @@
 
 /* No comment provided by engineer. */
 "Export Color Palettes" = "색상 팔레트 내보내기";
-
-/* No comment provided by engineer. */
-"Export Custom Shapes" = "사용자 지정 도형 내보내기";
 
 /* No comment provided by engineer. */
 "Export Document as Images" = "이미지로 문서 내보내기";
@@ -1269,9 +1269,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Faces" = "얼굴";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1398,12 +1395,6 @@
 
 /* Format */
 "GIF" = "GIF";
-
-/* No comment provided by engineer. */
-"Gilbert Color" = "길버트 색상";
-
-/* No comment provided by engineer. */
-"Gilbert Color is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." = "길버트 색상은 Creative Commons Attribution-ShareAlike 4.0 국제 라이선스에 따라 라이선스를 받았습니다.";
 
 /* No comment provided by engineer. */
 "Glazed" = "글레이즈드";
@@ -1577,9 +1568,6 @@
 "Hue Scatter" = "색조 분산";
 
 /* No comment provided by engineer. */
-"iCloud" = "iCloud";
-
-/* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "그럴 경우, 다음 번에 Pixelmator Pro 확장을 사용해 이 이미지를 열 때 모든 레이어 및 기타 비파괴적 변경 내용이 복원됩니다.\n\n그렇지 않을 경우, 오직 편집된 마지막 이미지만 저장됩니다.";
 
 /* Untitled document name received via Handoff */
@@ -1602,9 +1590,6 @@
 
 /* No comment provided by engineer. */
 "Image Straightened by %@" = "%@에 의해 수평 조절된 이미지";
-
-/* No comment provided by engineer. */
-"Image Unavailable" = "이미지를 사용할 수 없습니다";
 
 /* No comment provided by engineer. */
 "Import" = "가져오기";
@@ -1697,9 +1682,6 @@
 "JPEG" = "JPEG";
 
 /* No comment provided by engineer. */
-"Keep SketchBook" = "SketchBook 유지";
-
-/* No comment provided by engineer. */
 "Keywords Change" = "키워드 변경";
 
 /* No comment provided by engineer. */
@@ -1710,6 +1692,9 @@
 
 /* No comment provided by engineer. */
 "Layer" = "레이어";
+
+/* No comment provided by engineer. */
+"Layer Mask" = "레이어 마스크";
 
 /* No comment provided by engineer. */
 "Layer Menu" = "레이어 메뉴";
@@ -1731,6 +1716,9 @@
 
 /* No comment provided by engineer. */
 "Levels" = "레벨";
+
+/* No comment provided by engineer. */
+"Library" = "도서관";
 
 /* No comment provided by engineer. */
 "Ligature" = "합자";
@@ -1916,9 +1904,6 @@
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "해당 도큐멘트를 적절하게 수정하면 현재 포맷의 일부가 유실될 수 있습니다. 먼저 도큐멘트를 복제하시겠습니까?";
 
 /* No comment provided by engineer. */
-"Moments" = "순간";
-
-/* No comment provided by engineer. */
 "Move" = "이동";
 
 /* No comment provided by engineer. */
@@ -1973,12 +1958,6 @@
 "Mustache" = "콧수염";
 
 /* No comment provided by engineer. */
-"New Adjustments" = "새 조정";
-
-/* No comment provided by engineer. */
-"New Adjustments Layer" = "새 조정 레이어";
-
-/* No comment provided by engineer. */
 "New Collection" = "새 컬렉션";
 
 /* No comment provided by engineer. */
@@ -2030,10 +2009,7 @@
 "New name for layout preset:" = "새로운 레이아웃 프리셋 이름:";
 
 /* No comment provided by engineer. */
-"New name for shape collection:" = "새로운 도형 컬렉션 이름:";
-
-/* No comment provided by engineer. */
-"New name for shape preset:" = "새로운 도형 프리셋 이름:";
+"New name for shapes preset:" = "새로운 도형 프리셋 이름:";
 
 /* No comment provided by engineer. */
 "New name for style preset:" = "새로운 스타일 프리셋 이름:";
@@ -2093,9 +2069,6 @@
 "No Lens Info" = "렌즈 정보 없음";
 
 /* No comment provided by engineer. */
-"No Photos" = "사진 없음";
-
-/* No comment provided by engineer. */
 "No Recent Documents" = "최근 사용 도큐멘트 없음";
 
 /* No comment provided by engineer. */
@@ -2139,9 +2112,6 @@
 
 /* No comment provided by engineer. */
 "Open and edit images saved on your Mac" = "Mac에 저장된 이미지를 열고 편집하기";
-
-/* No comment provided by engineer. */
-"Open Photos" = "사진 열기";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "시스템 환경 설정 열기";
@@ -2247,9 +2217,6 @@
 
 /* No comment provided by engineer. */
 "Perspective Transform" = "원근법 변형";
-
-/* No comment provided by engineer. */
-"Photos" = "사진";
 
 /* No comment provided by engineer. */
 "Photos Extension" = "사진 확장";
@@ -2371,6 +2338,9 @@
 /* Quit anyway button title */
 "Quit anyway" = "무조건 종료";
 
+/* No comment provided by engineer. */
+"Quit Application" = "애플리케이션 종료";
+
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "지금 종료하면 마지막 저장 이후 발생한 모든 변경 사항을 잃게 됩니다";
 
@@ -2427,6 +2397,9 @@
 
 /* No comment provided by engineer. */
 "Refine Edge" = "가장자리 조정";
+
+/* No comment provided by engineer. */
+"Refine Mask" = "마스크 조정";
 
 /* No comment provided by engineer. */
 "Refine Mask…" = "마스크 조정…";
@@ -2496,9 +2469,6 @@
 
 /* No comment provided by engineer. */
 "Remove Shape Paths" = "도형 경로 제거";
-
-/* No comment provided by engineer. */
-"Remove SketchBook" = "SketchBook 제거";
 
 /* No comment provided by engineer. */
 "Remove Style" = "스타일 제거";
@@ -2574,6 +2544,9 @@
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "RAW 다시 처리";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "필요한 리소스를 사용할 수 없음";
 
 /* No comment provided by engineer. */
 "Reselect" = "다시 선택";
@@ -2909,10 +2882,10 @@
 "Shape Direction" = "그림자 방향";
 
 /* No comment provided by engineer. */
-"Share" = "공유";
+"Shapes" = "도형";
 
 /* No comment provided by engineer. */
-"Shared" = "공유됨";
+"Share" = "공유";
 
 /* Effects category name */
 "Sharpen" = "선명하게 만들기";
@@ -3017,6 +2990,9 @@
 "Show Tools" = "도구 보기";
 
 /* No comment provided by engineer. */
+"Shrink text to fit" = "텍스트를 축소하여 맞추기";
+
+/* No comment provided by engineer. */
 "Sides: %d" = "면: %d";
 
 /* No comment provided by engineer. */
@@ -3053,9 +3029,6 @@
 "Sliders" = "슬라이더";
 
 /* No comment provided by engineer. */
-"Smart Albums" = "스마트 앨범";
-
-/* No comment provided by engineer. */
 "Smart Erase" = "스마트 지우기";
 
 /* No comment provided by engineer. */
@@ -3090,6 +3063,9 @@
 
 /* No comment provided by engineer. */
 "Softness" = "부드러움";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "디스크 공간 부족 또는 운영 체제 오류로 인하여 %@이(가) 안정적으로 작동하는 데 필요한 일부 핵심 리소스를 사용할 수 없습니다.";
 
 /* No comment provided by engineer. */
 "Source Atop" = "원본 꼭대기";
@@ -3281,9 +3257,6 @@
 "This document has missing fonts." = "이 문서에 누락된 글꼴이 있습니다.";
 
 /* No comment provided by engineer. */
-"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "이 이미지는 현재 iCloud에 있습니다. 다운로드하려면 사진을 열고 이미지를 두 번 클릭하세요. 이 작업을 수행한 후 Pixelmator Pro 사진 브라우저를 닫고 다시 여셔야 합니다.";
-
-/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "이것은 Pixelmator Pro의 모든 기능을 갖춘 데모 버전입니다.";
 
 /* No comment provided by engineer. */
@@ -3309,6 +3282,9 @@
 
 /* No comment provided by engineer. */
 "to" = "대상";
+
+/* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "문제를 피하려면 저장하지 않은 작업을 저장한 다음, 저장 공간을 확보하고 Mac을 다시 시작해 보세요.";
 
 /* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "인터페이스 요소를 다시 정렬하려면 원하는 위치로 드래그합니다.";
@@ -3512,9 +3488,6 @@
 "y:" = "y:";
 
 /* No comment provided by engineer. */
-"Years" = "년";
-
-/* No comment provided by engineer. */
 "Yellow / Blue" = "노랑 / 파랑";
 
 /* No comment provided by engineer. */
@@ -3528,9 +3501,6 @@
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "전에 접근 권한을 거부하셨습니다. FaceTime 카메라를 사용해서 문서에 이미지를 추가하려면 시스템 환경 설정에서 접근 권한을 허용하세요.";
-
-/* No comment provided by engineer. */
-"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "전에 접근 권한을 거부하셨습니다. 사진 브라우저를 사용해서 사진 보관함에서 이미지를 열려면 시스템 환경 설정에서 접근 권한을 허용하세요.";
 
 /* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "이 도큐멘트를 열려면 %@ 새 버전이 필요합니다.";
@@ -3561,9 +3531,6 @@
 
 /* No comment provided by engineer. */
 "“%@.app” would like to access your FaceTime camera." = "“%@.app”이 FaceTime 카메라에 접근하려고 합니다.";
-
-/* No comment provided by engineer. */
-"“%@.app” would like to access your photos." = "“%@.app”이(가) 사진에 접근하려고 합니다.";
 
 /* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "“%@” 파일이 이미 존재합니다. 대치하시겠습니까?";

@@ -23,6 +23,9 @@
 "%@ Effect" = "%@エフェクト";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "％@で重大なエラーが発生しました。これは、ディスク容量が少ないか、オペレーティングシステムのエラーが原因である可能性があります。一部のストレージを解放したり、Macを再起動したりすると問題が解決する場合があります。";
+
+/* No comment provided by engineer. */
 "%@ layer" = "%@レイヤー";
 
 /* No comment provided by engineer. */
@@ -227,9 +230,6 @@
 "Affine Tile" = "アフィンタイル";
 
 /* No comment provided by engineer. */
-"Albums" = "アルバム";
-
-/* No comment provided by engineer. */
 "Align Bottom Edges" = "下端";
 
 /* No comment provided by engineer. */
@@ -366,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Background Color" = "背景色";
+
+/* No comment provided by engineer. */
+"Background Layer" = "背景のレイヤー";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "バランス調整";
@@ -545,9 +548,6 @@
 "Choose a gradients collection." = "グラデーションコレクションを選択。";
 
 /* No comment provided by engineer. */
-"Choose a shapes collection." = "シェイプコレクションを選択。";
-
-/* No comment provided by engineer. */
 "Choose a styles collection." = "スタイルコレクションを選択。";
 
 /* No comment provided by engineer. */
@@ -624,9 +624,6 @@
 
 /* No comment provided by engineer. */
 "Click to hide or show the effect presets." = "クリックしてエフェクトプリセットを表示 / 非表示。";
-
-/* No comment provided by engineer. */
-"Click to hide or show the shape presets." = "クリックしてシェイププリセットを表示 / 非表示。";
 
 /* No comment provided by engineer. */
 "Click to hide or show the style presets." = "クリックしてスタイルプリセットを表示 / 非表示。";
@@ -788,6 +785,9 @@
 "Convert LUT into Adjustments" = "LUTを調整に変換する";
 
 /* No comment provided by engineer. */
+"Convert to Color Adjustments Layer" = "カラー調整レイヤーに変換";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUTを調整に変換しています…";
 
 /* No comment provided by engineer. */
@@ -845,6 +845,9 @@
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "使いやすいスマートシェイプ、強力なテキストツール、フルセットのベクターツールを使用して、魅力的なデザインやイラストを作成します。";
 
 /* No comment provided by engineer. */
+"Critical Resources Unavailable" = "重要なリソースは利用できません";
+
+/* No comment provided by engineer. */
 "Crop" = "切り抜き";
 
 /* No comment provided by engineer. */
@@ -867,9 +870,6 @@
 
 /* No comment provided by engineer. */
 "Custom LUT" = "カスタムLUT";
-
-/* No comment provided by engineer. */
-"Custom Shapes" = "カスタムシェイプ";
 
 /* No comment provided by engineer. */
 "Customize Layout…" = "レイアウトをカスタマイズ…";
@@ -980,9 +980,6 @@
 "Detecting Subject…" = "対象を検出しています…";
 
 /* No comment provided by engineer. */
-"Developer" = "開発者";
-
-/* No comment provided by engineer. */
 "Difference" = "差の絶対値";
 
 /* No comment provided by engineer. */
@@ -1044,6 +1041,9 @@
 
 /* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "書類“%@”への変更を保存しますか？";
+
+/* No comment provided by engineer. */
+"Document Colors" = "書類のカラー";
 
 /* No comment provided by engineer. */
 "Document Info Change" = "書類の情報を変更";
@@ -1163,6 +1163,9 @@
 "Erase" = "消去";
 
 /* No comment provided by engineer. */
+"Error:" = "エラー：";
+
+/* No comment provided by engineer. */
 "Exclude" = "除外";
 
 /* No comment provided by engineer. */
@@ -1209,9 +1212,6 @@
 
 /* No comment provided by engineer. */
 "Export Color Palettes" = "カラーパレットを書き出す";
-
-/* No comment provided by engineer. */
-"Export Custom Shapes" = "カスタムシェイプを書き出す";
 
 /* No comment provided by engineer. */
 "Export Document as Images" = "書類を画像として書き出す";
@@ -1269,9 +1269,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Faces" = "顔";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1398,12 +1395,6 @@
 
 /* Format */
 "GIF" = "GIF";
-
-/* No comment provided by engineer. */
-"Gilbert Color" = "Gilbert Color";
-
-/* No comment provided by engineer. */
-"Gilbert Color is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." = "Gilbert Color は、Creative Commons Attribution-ShareAlike 4.0 国際ライセンスの下でライセンスされています。";
 
 /* No comment provided by engineer. */
 "Glazed" = "グレーズ";
@@ -1577,9 +1568,6 @@
 "Hue Scatter" = "色相散布";
 
 /* No comment provided by engineer. */
-"iCloud" = "iCloud";
-
-/* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "編集を保存する場合、次回Pixelmator Pro拡張機能を使用してこの画像を編集すると、レイヤーやその他の非破壊的な変更が復元されます。\n\nそれ以外の場合は、最後の編集済み画像のみが保存されます。";
 
 /* Untitled document name received via Handoff */
@@ -1602,9 +1590,6 @@
 
 /* No comment provided by engineer. */
 "Image Straightened by %@" = "%@ で正された画像";
-
-/* No comment provided by engineer. */
-"Image Unavailable" = "画像が利用できません";
 
 /* No comment provided by engineer. */
 "Import" = "読み込み";
@@ -1697,9 +1682,6 @@
 "JPEG" = "JPEG";
 
 /* No comment provided by engineer. */
-"Keep SketchBook" = "SketchBook を残す";
-
-/* No comment provided by engineer. */
 "Keywords Change" = "キーワードの変更";
 
 /* No comment provided by engineer. */
@@ -1710,6 +1692,9 @@
 
 /* No comment provided by engineer. */
 "Layer" = "レイヤー";
+
+/* No comment provided by engineer. */
+"Layer Mask" = "レイヤーマスク";
 
 /* No comment provided by engineer. */
 "Layer Menu" = "レイヤーメニュー";
@@ -1731,6 +1716,9 @@
 
 /* No comment provided by engineer. */
 "Levels" = "レベル補正";
+
+/* No comment provided by engineer. */
+"Library" = "ライブラリ";
 
 /* No comment provided by engineer. */
 "Ligature" = "リガチャ";
@@ -1916,9 +1904,6 @@
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "その場所で書類を変更すると現在の書式の一部が失われる可能性があります。最初に書類を複製しますか？";
 
 /* No comment provided by engineer. */
-"Moments" = "モーメント";
-
-/* No comment provided by engineer. */
 "Move" = "移動";
 
 /* No comment provided by engineer. */
@@ -1973,12 +1958,6 @@
 "Mustache" = "口ひげ";
 
 /* No comment provided by engineer. */
-"New Adjustments" = "新規調整";
-
-/* No comment provided by engineer. */
-"New Adjustments Layer" = "新規調整レイヤー";
-
-/* No comment provided by engineer. */
 "New Collection" = "新規コレクション";
 
 /* No comment provided by engineer. */
@@ -2030,10 +2009,7 @@
 "New name for layout preset:" = "新しいレイヤープリセット名:";
 
 /* No comment provided by engineer. */
-"New name for shape collection:" = "新しいシェイプコレクション名:";
-
-/* No comment provided by engineer. */
-"New name for shape preset:" = "新しいシェイププリセット名:";
+"New name for shapes preset:" = "新しいシェイププリセット名:";
 
 /* No comment provided by engineer. */
 "New name for style preset:" = "新しいスタイルプリセット名:";
@@ -2093,9 +2069,6 @@
 "No Lens Info" = "レンズ情報なし";
 
 /* No comment provided by engineer. */
-"No Photos" = "写真なし";
-
-/* No comment provided by engineer. */
 "No Recent Documents" = "最近使った書類なし";
 
 /* No comment provided by engineer. */
@@ -2139,9 +2112,6 @@
 
 /* No comment provided by engineer. */
 "Open and edit images saved on your Mac" = "Macに保存された画像を開いて編集します";
-
-/* No comment provided by engineer. */
-"Open Photos" = "写真を開く";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "システム環境設定を開く";
@@ -2247,9 +2217,6 @@
 
 /* No comment provided by engineer. */
 "Perspective Transform" = "遠近法変換";
-
-/* No comment provided by engineer. */
-"Photos" = "写真";
 
 /* No comment provided by engineer. */
 "Photos Extension" = "写真の拡張機能";
@@ -2371,6 +2338,9 @@
 /* Quit anyway button title */
 "Quit anyway" = "終了する";
 
+/* No comment provided by engineer. */
+"Quit Application" = "アプリケーションを終了";
+
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "終了すると、前回の保存以降の変更内容はすべて失われます。";
 
@@ -2427,6 +2397,9 @@
 
 /* No comment provided by engineer. */
 "Refine Edge" = "エッジを調整";
+
+/* No comment provided by engineer. */
+"Refine Mask" = "マスクを調整";
 
 /* No comment provided by engineer. */
 "Refine Mask…" = "マスクを調整...";
@@ -2496,9 +2469,6 @@
 
 /* No comment provided by engineer. */
 "Remove Shape Paths" = "シェイプのパスを削除";
-
-/* No comment provided by engineer. */
-"Remove SketchBook" = "SketchBook を削除";
 
 /* No comment provided by engineer. */
 "Remove Style" = "スタイルを削除";
@@ -2574,6 +2544,9 @@
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "RAWを再処理";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "必要なリソースが利用できません";
 
 /* No comment provided by engineer. */
 "Reselect" = "再選択";
@@ -2909,10 +2882,10 @@
 "Shape Direction" = "シェイプの方向";
 
 /* No comment provided by engineer. */
-"Share" = "共有";
+"Shapes" = "シェイプ";
 
 /* No comment provided by engineer. */
-"Shared" = "共有";
+"Share" = "共有";
 
 /* Effects category name */
 "Sharpen" = "シャープ";
@@ -3017,6 +2990,9 @@
 "Show Tools" = "ツールを表示";
 
 /* No comment provided by engineer. */
+"Shrink text to fit" = "縮小して全体を表示";
+
+/* No comment provided by engineer. */
 "Sides: %d" = "サイド: %d";
 
 /* No comment provided by engineer. */
@@ -3053,9 +3029,6 @@
 "Sliders" = "スライダ";
 
 /* No comment provided by engineer. */
-"Smart Albums" = "スマートアルバム";
-
-/* No comment provided by engineer. */
 "Smart Erase" = "スマート消去";
 
 /* No comment provided by engineer. */
@@ -3090,6 +3063,9 @@
 
 /* No comment provided by engineer. */
 "Softness" = "柔らかさ";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "％@が確実に機能するために必要なリソースは、ディスク容量の不足またはオペレーティングシステムのエラーが原因で利用できません。";
 
 /* No comment provided by engineer. */
 "Source Atop" = "ソーストップ";
@@ -3281,9 +3257,6 @@
 "This document has missing fonts." = "このドキュメントにはフォントがありません。";
 
 /* No comment provided by engineer. */
-"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "この画像は現在iCloudにあります。 ダウンロードするには写真を開いて画像をダブルクリックします。終了したらPixelmator Proフォトブラウザを閉じて再度開きます。";
-
-/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "これはフル機能を搭載したPixelmator Proのデモバージョンです。";
 
 /* No comment provided by engineer. */
@@ -3309,6 +3282,9 @@
 
 /* No comment provided by engineer. */
 "to" = "から";
+
+/* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "問題を回避するには、保存されていない作業を保存してから、ストレージを解放してMacを再起動してください。";
 
 /* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "インターフェイス要素を再配置するには、それらを目的の位置にドラッグします。";
@@ -3512,9 +3488,6 @@
 "y:" = "y:";
 
 /* No comment provided by engineer. */
-"Years" = "年";
-
-/* No comment provided by engineer. */
 "Yellow / Blue" = "イエロー/ブルー";
 
 /* No comment provided by engineer. */
@@ -3528,9 +3501,6 @@
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "以前にアクセスを拒否したため、FaceTimeカメラを使用して画像を書類に追加する場合は、システム環境設定でアクセスを許可してください。";
-
-/* No comment provided by engineer. */
-"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "以前にアクセスを拒否しました。フォトブラウザを使用して写真ライブラリから画像を開く場合は、システム環境設定でアクセスを許可してください。";
 
 /* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "この書類を開くには新しいバージョンの%@が必要です。";
@@ -3561,9 +3531,6 @@
 
 /* No comment provided by engineer. */
 "“%@.app” would like to access your FaceTime camera." = "“%@.app”がFaceTimeカメラにアクセスしようとしています。";
-
-/* No comment provided by engineer. */
-"“%@.app” would like to access your photos." = "“%@.app”が写真にアクセスしようとしています。";
 
 /* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "“%@”はすでに存在します。置き換えますか？";

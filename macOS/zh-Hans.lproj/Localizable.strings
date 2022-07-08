@@ -23,6 +23,9 @@
 "%@ Effect" = "%@ 效果";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ 遇到了致命错误，可能是由于磁盘可用空间不足或操作系统错误引起的。请尝试释放部分存储空间或重新启动 Mac。";
+
+/* No comment provided by engineer. */
 "%@ layer" = "%@ 图层";
 
 /* No comment provided by engineer. */
@@ -227,9 +230,6 @@
 "Affine Tile" = "仿射拼贴";
 
 /* No comment provided by engineer. */
-"Albums" = "相簿";
-
-/* No comment provided by engineer. */
 "Align Bottom Edges" = "底端对齐";
 
 /* No comment provided by engineer. */
@@ -366,6 +366,9 @@
 
 /* No comment provided by engineer. */
 "Background Color" = "背景颜色";
+
+/* No comment provided by engineer. */
+"Background Layer" = "背景图层";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "平衡调整";
@@ -545,9 +548,6 @@
 "Choose a gradients collection." = "选择渐变集合。";
 
 /* No comment provided by engineer. */
-"Choose a shapes collection." = "选择形状集合。";
-
-/* No comment provided by engineer. */
 "Choose a styles collection." = "选择样式集合。";
 
 /* No comment provided by engineer. */
@@ -624,9 +624,6 @@
 
 /* No comment provided by engineer. */
 "Click to hide or show the effect presets." = "点击以隐藏或显示效果预置。";
-
-/* No comment provided by engineer. */
-"Click to hide or show the shape presets." = "点击以隐藏或显示形状预置。";
 
 /* No comment provided by engineer. */
 "Click to hide or show the style presets." = "点击以隐藏或显示样式预置。";
@@ -788,6 +785,9 @@
 "Convert LUT into Adjustments" = "将 LUT 转换成调整";
 
 /* No comment provided by engineer. */
+"Convert to Color Adjustments Layer" = "转换为颜色调整图层";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "正在将 LUT 转换成调整…";
 
 /* No comment provided by engineer. */
@@ -845,6 +845,9 @@
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "使用易于使用的智能形状、功能强大的文本工具以及全套矢量工具，创建精美的设计和插图。";
 
 /* No comment provided by engineer. */
+"Critical Resources Unavailable" = "重要资源不可用";
+
+/* No comment provided by engineer. */
 "Crop" = "裁剪";
 
 /* No comment provided by engineer. */
@@ -867,9 +870,6 @@
 
 /* No comment provided by engineer. */
 "Custom LUT" = "自定义 LUT";
-
-/* No comment provided by engineer. */
-"Custom Shapes" = "自定义形状";
 
 /* No comment provided by engineer. */
 "Customize Layout…" = "自定义布局";
@@ -980,9 +980,6 @@
 "Detecting Subject…" = "正在检测主体…";
 
 /* No comment provided by engineer. */
-"Developer" = "开发者";
-
-/* No comment provided by engineer. */
 "Difference" = "差值";
 
 /* No comment provided by engineer. */
@@ -1044,6 +1041,9 @@
 
 /* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "您要存储对文稿“%@”所做的更改吗”";
+
+/* No comment provided by engineer. */
+"Document Colors" = "文稿颜色";
 
 /* No comment provided by engineer. */
 "Document Info Change" = "文档信息变更";
@@ -1163,6 +1163,9 @@
 "Erase" = "擦除";
 
 /* No comment provided by engineer. */
+"Error:" = "错误：";
+
+/* No comment provided by engineer. */
 "Exclude" = "排除";
 
 /* No comment provided by engineer. */
@@ -1209,9 +1212,6 @@
 
 /* No comment provided by engineer. */
 "Export Color Palettes" = "导出颜色调板";
-
-/* No comment provided by engineer. */
-"Export Custom Shapes" = "导出自定义形状";
 
 /* No comment provided by engineer. */
 "Export Document as Images" = "将文稿导出为图像";
@@ -1269,9 +1269,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Faces" = "面孔";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1398,12 +1395,6 @@
 
 /* Format */
 "GIF" = "GIF";
-
-/* No comment provided by engineer. */
-"Gilbert Color" = "Gilbert Color";
-
-/* No comment provided by engineer. */
-"Gilbert Color is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License." = "Gilbert Color 基于 Creative Commons 署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) 许可。";
 
 /* No comment provided by engineer. */
 "Glazed" = "上釉";
@@ -1577,9 +1568,6 @@
 "Hue Scatter" = "色相散射";
 
 /* No comment provided by engineer. */
-"iCloud" = "iCloud";
-
-/* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "如果这样做，下次使用 Pixelmator Pro 扩展编辑图像时，将恢复所有图层和其他非破坏性更改。\n\n否则，仅保存最终经过编辑的图像。";
 
 /* Untitled document name received via Handoff */
@@ -1598,13 +1586,10 @@
 "Image Settings" = "图像设置";
 
 /* No comment provided by engineer. */
-"Image Size" = "图像大小";
+"Image Size" = "图像尺寸";
 
 /* No comment provided by engineer. */
 "Image Straightened by %@" = "通过 %@ 拉直图像";
-
-/* No comment provided by engineer. */
-"Image Unavailable" = "图像不可用";
 
 /* No comment provided by engineer. */
 "Import" = "导入";
@@ -1697,9 +1682,6 @@
 "JPEG" = "JPEG";
 
 /* No comment provided by engineer. */
-"Keep SketchBook" = "保留 SketchBook";
-
-/* No comment provided by engineer. */
 "Keywords Change" = "关键字更改";
 
 /* No comment provided by engineer. */
@@ -1710,6 +1692,9 @@
 
 /* No comment provided by engineer. */
 "Layer" = "图层";
+
+/* No comment provided by engineer. */
+"Layer Mask" = "图层蒙版";
 
 /* No comment provided by engineer. */
 "Layer Menu" = "图层菜单";
@@ -1731,6 +1716,9 @@
 
 /* No comment provided by engineer. */
 "Levels" = "色阶";
+
+/* No comment provided by engineer. */
+"Library" = "图书馆";
 
 /* No comment provided by engineer. */
 "Ligature" = "连字";
@@ -1916,9 +1904,6 @@
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "修改现有文稿可能导致丢失部分现有格式。您要先复制此文稿吗？";
 
 /* No comment provided by engineer. */
-"Moments" = "时刻";
-
-/* No comment provided by engineer. */
 "Move" = "移动";
 
 /* No comment provided by engineer. */
@@ -1973,12 +1958,6 @@
 "Mustache" = "胡子";
 
 /* No comment provided by engineer. */
-"New Adjustments" = "新调整";
-
-/* No comment provided by engineer. */
-"New Adjustments Layer" = "新调整图层";
-
-/* No comment provided by engineer. */
 "New Collection" = "新集合";
 
 /* No comment provided by engineer. */
@@ -2030,10 +2009,7 @@
 "New name for layout preset:" = "图层预置的新名称:";
 
 /* No comment provided by engineer. */
-"New name for shape collection:" = "形状集合的新名称:";
-
-/* No comment provided by engineer. */
-"New name for shape preset:" = "形状预置的新名称:";
+"New name for shapes preset:" = "形状预设的新名称：";
 
 /* No comment provided by engineer. */
 "New name for style preset:" = "样式预置的新名称:";
@@ -2093,9 +2069,6 @@
 "No Lens Info" = "无镜头信息";
 
 /* No comment provided by engineer. */
-"No Photos" = "无照片";
-
-/* No comment provided by engineer. */
 "No Recent Documents" = "无最近使用的文档";
 
 /* No comment provided by engineer. */
@@ -2139,9 +2112,6 @@
 
 /* No comment provided by engineer. */
 "Open and edit images saved on your Mac" = "打开并编辑保存在 Mac 上的图像";
-
-/* No comment provided by engineer. */
-"Open Photos" = "打开照片";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "打开系统偏好设置";
@@ -2249,9 +2219,6 @@
 "Perspective Transform" = "透视变换";
 
 /* No comment provided by engineer. */
-"Photos" = "照片";
-
-/* No comment provided by engineer. */
 "Photos Extension" = "照片扩展";
 
 /* No comment provided by engineer. */
@@ -2342,7 +2309,7 @@
 "Preset" = "预设";
 
 /* DocumentInspector */
-"Presets" = "预置";
+"Presets" = "预设";
 
 /* No comment provided by engineer. */
 "Pressure" = "压力";
@@ -2370,6 +2337,9 @@
 
 /* Quit anyway button title */
 "Quit anyway" = "仍要退出";
+
+/* No comment provided by engineer. */
+"Quit Application" = "退出应用程序";
 
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "现在退出将丢失自上次成功保存以来所做的任何更改";
@@ -2427,6 +2397,9 @@
 
 /* No comment provided by engineer. */
 "Refine Edge" = "调整边缘";
+
+/* No comment provided by engineer. */
+"Refine Mask" = "调整蒙版";
 
 /* No comment provided by engineer. */
 "Refine Mask…" = "调整蒙版…";
@@ -2496,9 +2469,6 @@
 
 /* No comment provided by engineer. */
 "Remove Shape Paths" = "移除形状路径";
-
-/* No comment provided by engineer. */
-"Remove SketchBook" = "移除 SketchBook";
 
 /* No comment provided by engineer. */
 "Remove Style" = "移除样式";
@@ -2574,6 +2544,9 @@
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "重新处理 RAW";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "必需资源不可用";
 
 /* No comment provided by engineer. */
 "Reselect" = "重新选择";
@@ -2909,10 +2882,10 @@
 "Shape Direction" = "形状方向";
 
 /* No comment provided by engineer. */
-"Share" = "共享";
+"Shapes" = "形状";
 
 /* No comment provided by engineer. */
-"Shared" = "共有的";
+"Share" = "共享";
 
 /* Effects category name */
 "Sharpen" = "锐化";
@@ -3017,6 +2990,9 @@
 "Show Tools" = "显示工具";
 
 /* No comment provided by engineer. */
+"Shrink text to fit" = "缩小文本以适应";
+
+/* No comment provided by engineer. */
 "Sides: %d" = "边: %d";
 
 /* No comment provided by engineer. */
@@ -3053,9 +3029,6 @@
 "Sliders" = "滑块";
 
 /* No comment provided by engineer. */
-"Smart Albums" = "智能相簿";
-
-/* No comment provided by engineer. */
 "Smart Erase" = "智能擦除";
 
 /* No comment provided by engineer. */
@@ -3090,6 +3063,9 @@
 
 /* No comment provided by engineer. */
 "Softness" = "软度";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "%@ 需要的一些关键资源无法使用，可能是由于磁盘可用空间不足或操作系统错误引起的。";
 
 /* No comment provided by engineer. */
 "Source Atop" = "源在顶端";
@@ -3281,9 +3257,6 @@
 "This document has missing fonts." = "此文档有字体缺失。";
 
 /* No comment provided by engineer. */
-"This image is currently in iCloud. To download it, open Photos and double-click the image. Make sure to close and reopen the Pixelmator Pro Photo Browser after doing so." = "此图片目前位于 iCloud 中。请打开“照片”并双击该图像以下载。执行此操作后关闭并重新打开 Pixelmator Pro 照片浏览器。";
-
-/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "这是 Pixelmator Pro 的完整功能演示版本。";
 
 /* No comment provided by engineer. */
@@ -3309,6 +3282,9 @@
 
 /* No comment provided by engineer. */
 "to" = "到";
+
+/* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "为避免发生问题，请保存任何尚未保存的内容，然后尝试释放部分存储空间或重新启动 Mac。";
 
 /* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "要重新排列界面元素，请将它们拖移到所需位置。";
@@ -3512,9 +3488,6 @@
 "y:" = "y:";
 
 /* No comment provided by engineer. */
-"Years" = "年";
-
-/* No comment provided by engineer. */
 "Yellow / Blue" = "黄色/蓝色";
 
 /* No comment provided by engineer. */
@@ -3528,9 +3501,6 @@
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "您之前曾拒绝授予权限，如果希望使用 FaceTime 相机添加图像到文稿中，请在系统首选项中允许访问权限。";
-
-/* No comment provided by engineer. */
-"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "您之前曾拒绝授予权限，如果希望使用照片浏览器从照片图库中打开图像，请在系统首选项中允许访问权限。";
 
 /* No comment provided by engineer. */
 "You need a newer version of %@ to open this document." = "你需要新版本 %@ 才能打开此文稿。";
@@ -3561,9 +3531,6 @@
 
 /* No comment provided by engineer. */
 "“%@.app” would like to access your FaceTime camera." = "“%@.app”希望访问您的 FaceTime 相机。";
-
-/* No comment provided by engineer. */
-"“%@.app” would like to access your photos." = "“%@.app”希望访问您的照片。";
 
 /* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "“%@”已存在。您要替换它吗？";

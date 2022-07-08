@@ -548,6 +548,12 @@
 "Angle" = "角度";
 
 /* No comment provided by engineer. */
+"Apply a layer style to this layer." = "应用图层样式至该图层。";
+
+/* No comment provided by engineer. */
+"Apply an effect to this layer." = "应用效果至该图层。";
+
+/* No comment provided by engineer. */
 "Apply the brush stroke to your image." = "将笔刷描边应用到图像。";
 
 /* No comment provided by engineer. */
@@ -603,6 +609,12 @@
 
 /* No comment provided by engineer. */
 "Brush over areas to make them softer." = "刷过区域使其更柔和。";
+
+/* No comment provided by engineer. */
+"Camera lens used to take the photo." = "用于拍照的相机镜头。";
+
+/* No comment provided by engineer. */
+"Camera used to take the photo." = "用于拍照的相机。";
 
 /* No comment provided by engineer. */
 "Center text." = "文本居中。";
@@ -755,6 +767,9 @@
 "Click to automatically adjust the white balance of the image." = "单击以自动调整图像的白平衡。";
 
 /* No comment provided by engineer. */
+"Click to automatically enhance the white balance, lightness, hue & saturation, and individual color ranges in the image." = "点击即可自动增强图像中的白平衡、亮度、色调和饱和度以及各颜色范围。";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "单击以选择一种颜色。";
 
 /* No comment provided by engineer. */
@@ -762,6 +777,9 @@
 
 /* No comment provided by engineer. */
 "Click to choose a new color for this color stop." = "点击为此色标选择一个新的颜色。";
+
+/* No comment provided by engineer. */
+"Click to choose a shape to add to the document." = "点击以选择要加入文稿的形状。";
 
 /* No comment provided by engineer. */
 "Click to enlarge or reduce the view of the image." = "单击放大或缩小图像的视图。";
@@ -806,6 +824,15 @@
 "Create a new brush preset with the current brush settings." = "使用当前笔刷设置创建新的笔刷预设。";
 
 /* No comment provided by engineer. */
+"Create a new color adjustments layer." = "新建颜色调整图层。";
+
+/* No comment provided by engineer. */
+"Create a new effects layer." = "新建效果图层。";
+
+/* No comment provided by engineer. */
+"Create a new shape preset with the current shape settings." = "使用当前形状设置创建新的形状预设。";
+
+/* No comment provided by engineer. */
 "Create a shape from the intersection of the shape you draw and the currently selected shape." = "从绘制的形状与当前所选形状的相交处创建一个形状。";
 
 /* No comment provided by engineer. */
@@ -836,6 +863,9 @@
 "Customize the look of layers by applying fills, strokes, and shadows." = "通过应用填充、描边和阴影自定义图层的外观。";
 
 /* No comment provided by engineer. */
+"Customize the visibility of individual color adjustments." = "自定各个颜色调整的可见性。";
+
+/* No comment provided by engineer. */
 "Decrease the font size." = "缩小字体。";
 
 /* No comment provided by engineer. */
@@ -843,6 +873,15 @@
 
 /* No comment provided by engineer. */
 "Destructively combine the selected objects into a single object." = "破坏性地将所选对象合并到单个对象中。";
+
+/* No comment provided by engineer. */
+"Destructively merge the color adjustments with the object." = "将颜色调整与对象进行破坏性合并。";
+
+/* No comment provided by engineer. */
+"Destructively merge the effects with the object." = "破坏性地将效果与对象合并。";
+
+/* No comment provided by engineer. */
+"Destructively merge the styles with the object." = "将样式与对象进行破坏性合并。";
 
 /* No comment provided by engineer. */
 "Disable the layer mask." = "禁用图层蒙版。";
@@ -858,6 +897,9 @@
 
 /* No comment provided by engineer. */
 "Distance" = "距离";
+
+/* No comment provided by engineer. */
+"Document Colors" = "文稿颜色";
 
 /* No comment provided by engineer. */
 "Draw circular and elliptical shapes." = "绘制圆形和椭圆形。";
@@ -980,6 +1022,9 @@
 "Flip the object vertically." = "垂直翻转对象。";
 
 /* No comment provided by engineer. */
+"Focal length (the distance from the camera lens to the camera sensor)." = "焦距（从相机镜头到相机传感器的距离）。";
+
+/* No comment provided by engineer. */
 "Freely change the size of the object." = "自由地更改对象的大小。";
 
 /* No comment provided by engineer. */
@@ -1014,6 +1059,9 @@
 
 /* No comment provided by engineer. */
 "Insert an empty layer." = "插入空图层。";
+
+/* No comment provided by engineer. */
+"ISO speed setting (the overall sensitivity of the camera sensor to light)." = "ISO 速度设定（相机传感器对光的整体灵敏度）。";
 
 /* No comment provided by engineer. */
 "Justify text (center to the left and right)." = "两端对齐（中间向两边）。";
@@ -1118,6 +1166,9 @@
 "Quickly make selections of objects or areas by painting over them." = "通过绘画快速制作对象或区域选区。";
 
 /* No comment provided by engineer. */
+"Relative aperture diameter setting (expressed as the ratio of focal length to effective aperture diameter)." = "相对孔径设置（以焦距与有效孔径之比表示）。";
+
+/* No comment provided by engineer. */
 "Remove any overlapping areas between the shape you draw and the currently selected shape." = "移除绘制的形状与当前所选形状之间的所有重叠区域。";
 
 /* No comment provided by engineer. */
@@ -1157,10 +1208,22 @@
 "Reset any refinements to the mask." = "重置蒙版的任何调整。";
 
 /* No comment provided by engineer. */
+"Reset the color adjustments for the object to default." = "将对象的颜色调整重置为默认值。";
+
+/* No comment provided by engineer. */
 "Reset the colors of the Color wheel" = "重置色轮的颜色";
 
 /* No comment provided by engineer. */
+"Reset the effects for the object to default." = "将对象的效果重置为默认值。";
+
+/* No comment provided by engineer. */
+"Reset the layer style of the shape to default." = "将形状的图层样式重置为默认值。";
+
+/* No comment provided by engineer. */
 "Reset the rotation of the canvas to default." = "将画布的旋转重置为默认。";
+
+/* No comment provided by engineer. */
+"Reset the style to default." = "将样式重置为默认值。";
 
 /* No comment provided by engineer. */
 "Restore the selected object to its original dimensions." = "将所选对象还原为其原始尺寸。";
@@ -1233,6 +1296,9 @@
 
 /* No comment provided by engineer. */
 "Select to maintain the aspect ratio (width to height) when resizing this object." = "选择此选项可在调整此对象的大小时保持纵横比（宽高比）。";
+
+/* No comment provided by engineer. */
+"Select to maintain the aspect ratio (width to height) when resizing this shape." = "选择此选项可在调整此形状的大小时保持纵横比（宽高比）。";
 
 /* No comment provided by engineer. */
 "Select to make the Clone tool take into account every layer in your image." = "选择以使克隆工具考虑到图像中的每个图层。";
@@ -1619,6 +1685,12 @@
 "Set the saturation of the selected color." = "设置所选颜色的饱和度。";
 
 /* No comment provided by engineer. */
+"Set the shape height." = "设置形状高度。";
+
+/* No comment provided by engineer. */
+"Set the shape width." = "设置形状宽度。";
+
+/* No comment provided by engineer. */
 "Set the size of the brush texture." = "设置画笔纹理的大小。";
 
 /* No comment provided by engineer. */
@@ -1857,6 +1929,15 @@
 
 /* No comment provided by engineer. */
 "Show what the image looked like before you warped it." = "显示图像在使用变形工具之前的样子。";
+
+/* No comment provided by engineer. */
+"Show what the object looks like without any color adjustments." = "显示不进行任何颜色调整的对象外观。";
+
+/* No comment provided by engineer. */
+"Show what the objects looks like without any effects." = "显示不带任何效果的对象外观。";
+
+/* No comment provided by engineer. */
+"Shutter speed setting (the length of time the camera sensor was exposed to light)." = "快门速度设置（相机传感器暴露在光线下的时间长度）。";
 
 /* No comment provided by engineer. */
 "Slant the object vertically or horizontally." = "垂直或水平倾斜对象。";
