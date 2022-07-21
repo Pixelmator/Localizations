@@ -4,6 +4,12 @@
 /* crop aspect ratio */
 "%.2f:%d" = "%1$.2f:%2$d";
 
+/* No comment provided by engineer. */
+"%@/month" = "%@/month";
+
+/* No comment provided by engineer. */
+"%@/year" = "%@/year";
+
 /* seconds */
 "%@s" = "%@초";
 
@@ -25,11 +31,20 @@
 /* No comment provided by engineer. */
 "%i Images Selected" = "%i개의 이미지가 선택됨";
 
+/* No comment provided by engineer. */
+"%i tips" = "%i tips";
+
 /* width × height */
 "%i × %i" = "%1$i × %2$i";
 
 /* Image bits per component */
 "%i-bits" = "%i비트";
+
+/* No comment provided by engineer. */
+", %i days free" = ", %i days free";
+
+/* No comment provided by engineer. */
+", %i week free" = ", %i week free";
 
 /* Actions count */
 "1 action" = "1개의 작업";
@@ -42,6 +57,9 @@
 
 /* No comment provided by engineer. */
 "1 Image Selected" = "1개의 이미지가 선택됨";
+
+/* No comment provided by engineer. */
+"1 tip" = "1 tip";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16비트/채널";
@@ -86,10 +104,16 @@
 "Adjust Colors" = "색상 조정";
 
 /* No comment provided by engineer. */
+"Adjust colors and lighting" = "Adjust colors and lighting";
+
+/* No comment provided by engineer. */
 "Adjust Intensity" = "강도 조정";
 
 /* No comment provided by engineer. */
 "Adjustment" = "조정";
+
+/* No comment provided by engineer. */
+"Adjustment presets" = "Adjustment presets";
 
 /* No comment provided by engineer. */
 "Adjustments" = "조정";
@@ -99,9 +123,6 @@
 
 /* No comment provided by engineer. */
 "Albums" = "앨범";
-
-/* No comment provided by engineer. */
-"All Photos" = "모든 사진";
 
 /* No comment provided by engineer. */
 "All presets in group will be reset to the initial color adjustments." = "그룹 안의 모든 프리셋이 원래 색상 조정으로 재설정됩니다.";
@@ -117,6 +138,9 @@
 
 /* No comment provided by engineer. */
 "Allow Access to Photos" = "사진 접근 권한 허용";
+
+/* No comment provided by engineer. */
+"An Error Occurred" = "An Error Occurred";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "알 수 없는 오류가 발생했습니다.";
@@ -172,6 +196,12 @@
 
 /* No comment provided by engineer. */
 "Auto-Hide" = "자동 숨기기";
+
+/* No comment provided by engineer. */
+"Automatically enhance photos" = "Automatically enhance photos";
+
+/* No comment provided by engineer. */
+"Automatically improve the lighting and colors of a photo using AI by simply tapping\u{00a0}[WAND]." = "Automatically improve the lighting and colors of a photo using AI by simply tapping\u{00a0}[WAND].";
 
 /* No comment provided by engineer. */
 "Automatically remove camera noise and image compression artifacts from photos." = "사진에서 카메라 노이즈 및 이미지 압축 아티팩트를 자동으로 제거합니다.";
@@ -368,6 +398,9 @@
 "Constant" = "상수";
 
 /* No comment provided by engineer. */
+"Contact Us" = "Contact Us";
+
+/* No comment provided by engineer. */
 "Continue" = "계속";
 
 /* No comment provided by engineer. */
@@ -554,6 +587,9 @@
 "Divide" = "나누기";
 
 /* No comment provided by engineer. */
+"Don't limit yourself" = "Don't limit yourself";
+
+/* No comment provided by engineer. */
 "Don't Move" = "이동하지 않음";
 
 /* No comment provided by engineer. */
@@ -650,9 +686,6 @@
 "Edit RAW" = "RAW 편집";
 
 /* No comment provided by engineer. */
-"Edited" = "편집됨";
-
-/* No comment provided by engineer. */
 "Editing Image" = "이미지 편집 중";
 
 /* Processing action
@@ -705,6 +738,9 @@
 "Enhance" = "향상";
 
 /* No comment provided by engineer. */
+"Enjoy unlimited access to Pixelmator Photo!" = "Enjoy unlimited access to Pixelmator Photo!";
+
+/* No comment provided by engineer. */
 "Enter a new name for this preset:" = "이 프리셋에 대한 새로운 이름을 입력하세요:";
 
 /* No comment provided by engineer. */
@@ -712,9 +748,6 @@
 
 /* Tool */
 "Erase" = "지우기";
-
-/* No comment provided by engineer. */
-"Events From My Mac" = "나의 Mac의 이벤트";
 
 /* No comment provided by engineer. */
 "Exclusion" = "제외";
@@ -733,9 +766,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "크기";
-
-/* No comment provided by engineer. */
-"Faces From My Mac" = "나의 Mac의 얼굴";
 
 /* No comment provided by engineer. */
 "Fade" = "페이드";
@@ -760,6 +790,12 @@
 
 /* No comment provided by engineer. */
 "Feature not enabled for this demo" = "이 데모 버전은 지원하지 않는 기능입니다";
+
+/* No comment provided by engineer. */
+"Feature Unavailable" = "Feature Unavailable";
+
+/* No comment provided by engineer. */
+"Files Browser" = "Files Browser";
 
 /* Effects category name */
 "Fill" = "채우기";
@@ -788,11 +824,11 @@
 /* Tool */
 "Free" = "여유 공간";
 
+/* No comment provided by engineer. */
+"Free Trial Ends in 2 Days" = "Free Trial Ends in 2 Days";
+
 /* Tool */
 "Freeform" = "자유형";
-
-/* No comment provided by engineer. */
-"From My Mac" = "나의 Mac에서";
 
 /* No comment provided by engineer. */
 "From now on, linked files will be saved to iCloud. Would you like to also move all existing linked files to iCloud?" = "지금부터 링크된 파일은 iCloud에 저장됩니다. 기존의 모든 링크된 파일도 iCloud로 이동하시겠습니까?";
@@ -805,6 +841,24 @@
 
 /* Effects category name */
 "Generator" = "생성자";
+
+/* No comment provided by engineer. */
+"Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos.";
+
+/* No comment provided by engineer. */
+"Get unlimited access" = "Get unlimited access";
+
+/* No comment provided by engineer. */
+"Get unlimited access." = "Get unlimited access.";
+
+/* No comment provided by engineer. */
+"Getting started" = "Getting started";
+
+/* No comment provided by engineer. */
+"Getting Started" = "Getting Started";
+
+/* No comment provided by engineer. */
+"Getting Started with Pixelmator Photo" = "Getting Started with Pixelmator Photo";
 
 /* No comment provided by engineer. */
 "Glazed" = "글레이즈드";
@@ -912,6 +966,9 @@
 /* No comment provided by engineer. */
 "iCloud Unavailable" = "iCloud 사용 불가";
 
+/* No comment provided by engineer. */
+"If you think you should have an active subscription, get in touch with us and we’ll help out." = "If you think you should have an active subscription, get in touch with us and we’ll help out.";
+
 /* Untitled document name received via Handoff */
 "Image" = "이미지";
 
@@ -988,8 +1045,14 @@
 /* No comment provided by engineer. */
 "Invert" = "반전";
 
+/* No comment provided by engineer. */
+"It doesn’t look like you have an active subscription to Pixelmator Photo. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this in the Settings app, then try again." = "It doesn’t look like you have an active subscription to Pixelmator Photo. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this in the Settings app, then try again.";
+
 /* Image save error */
 "It is not possible to save your image to this location. Would you like to save it somewhere else?" = "이미지를 이 위치에 저장할 수 없습니다. 다른 곳에 저장하시겠습니까?";
+
+/* No comment provided by engineer. */
+"It looks you already have unlimited access to Pixelmator Photo, so you have not been charged. Enjoy using the app!" = "It looks you already have unlimited access to Pixelmator Photo, so you have not been charged. Enjoy using the app!";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "원본 사진이 더 이상 그곳에 없는 것 같습니다.";
@@ -1019,7 +1082,7 @@
 "Levels" = "레벨";
 
 /* No comment provided by engineer. */
-"Library" = "도서관";
+"Lifetime" = "Lifetime";
 
 /* No comment provided by engineer. */
 "Light Color" = "라이트 색상";
@@ -1068,12 +1131,6 @@
 "Linked File Location Changed" = "링크된 파일 위치가 변경되었습니다";
 
 /* No comment provided by engineer. */
-"Linked Files" = "링크된 파일";
-
-/* No comment provided by engineer. */
-"Linked Pixelmator Photo Files" = "연결된 Pixelmator Photo 파일";
-
-/* No comment provided by engineer. */
 "Load" = "로드";
 
 /* Document loading */
@@ -1110,11 +1167,20 @@
 /* Color adjustments */
 "Magenta / Green" = "자홍 / 녹색";
 
+/* No comment provided by engineer. */
+"Magically increase resolution" = "Magically increase resolution";
+
+/* No comment provided by engineer. */
+"Magically remove anything from small blemishes to entire objects from photos. Tap\u{00a0}[REPAIR], then paint over an object to remove it." = "Magically remove anything from small blemishes to entire objects from photos. Tap\u{00a0}[REPAIR], then paint over an object to remove it.";
+
 /* Tool */
 "Magnetic" = "자석";
 
 /* No comment provided by engineer. */
 "Makes the Hidden album from your Photos library visible in Pixelmator Photo." = "사진 보관함에서 숨겨진 앨범을 Pixelmator Photo에서 표시합니다.";
+
+/* No comment provided by engineer. */
+"Manage Subscription" = "Manage Subscription";
 
 /* Tool */
 "Marker" = "마커";
@@ -1207,9 +1273,6 @@
 "Mustache" = "콧수염";
 
 /* No comment provided by engineer. */
-"My Albums" = "내 앨범";
-
-/* No comment provided by engineer. */
 "New Layer" = "새 레이어";
 
 /* No comment provided by engineer. */
@@ -1227,6 +1290,9 @@
 /* Document info */
 "No camera information" = "카메라 정보가 없습니다";
 
+/* No comment provided by engineer. */
+"No commitment, cancel anytime." = "No commitment, cancel anytime.";
+
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "렌즈 정보 없음";
 
@@ -1235,6 +1301,12 @@
 
 /* No comment provided by engineer. */
 "No Photos Access" = "사진 액세스 권한이 없습니다";
+
+/* No comment provided by engineer. */
+"No Subscription Found" = "No Subscription Found";
+
+/* No comment provided by engineer. */
+"No thanks" = "No thanks";
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "노이즈 감소";
@@ -1273,6 +1345,9 @@
 "Open" = "열기";
 
 /* No comment provided by engineer. */
+"Open Settings" = "Open Settings";
+
+/* No comment provided by engineer. */
 "Orange" = "주황";
 
 /* No comment provided by engineer. */
@@ -1294,7 +1369,7 @@
 "Other" = "기타";
 
 /* No comment provided by engineer. */
-"Other Albums" = "기타 앨범";
+"OTHER" = "OTHER";
 
 /* No comment provided by engineer. */
 "Overlay" = "오버레이";
@@ -1366,6 +1441,9 @@
 "Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "Pixelmator Photo는 이제 iCloud에 비파괴적 편집본을 저장하여 장치 간에 동기화할 수 있습니다. 링크된 파일에 대해 iCloud를 사용하고 기존의 모든 파일을 그곳으로 이동하시겠습니까?";
 
 /* No comment provided by engineer. */
+"Pixelmator Photo features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Pixelmator Photo features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images.";
+
+/* No comment provided by engineer. */
 "Pixelmator Photo for iPhone" = "iPhone용 Pixelmator Photo";
 
 /* No comment provided by engineer. */
@@ -1388,6 +1466,9 @@
 
 /* No comment provided by engineer. */
 "Powered by ML" = "ML 기술 사용";
+
+/* No comment provided by engineer. */
+"Powerful Photo Browser" = "Powerful Photo Browser";
 
 /* No comment provided by engineer. */
 "Preserve Edits" = "편집본 보존";
@@ -1417,6 +1498,9 @@
 "Previous Preset" = "이전 프리셋";
 
 /* No comment provided by engineer. */
+"Previous Purchase Found" = "Previous Purchase Found";
+
+/* No comment provided by engineer. */
 "Processing Image" = "이미지 처리 중";
 
 /* Processing count */
@@ -1432,6 +1516,9 @@
 "pt" = "pt";
 
 /* No comment provided by engineer. */
+"Purchase Restored Successfully" = "Purchase Restored Successfully";
+
+/* No comment provided by engineer. */
 "Purple" = "보라색";
 
 /* Units */
@@ -1442,6 +1529,9 @@
 
 /* No comment provided by engineer. */
 "Quick Edits" = "빠른 편집";
+
+/* No comment provided by engineer. */
+"Quickly change the look and feel of photo using color adjustment presets." = "Quickly change the look and feel of photo using color adjustment presets.";
 
 /* Recents group abbreviation
    Short for RAW Image format */
@@ -1470,9 +1560,6 @@
 
 /* No comment provided by engineer. */
 "Recent" = "최근";
-
-/* No comment provided by engineer. */
-"Recents" = "최근 사용";
 
 /* Tool */
 "Rectangle" = "사각형";
@@ -1508,6 +1595,9 @@
 "Reloading…" = "다시 로드 중…";
 
 /* No comment provided by engineer. */
+"Remind me" = "Remind me";
+
+/* No comment provided by engineer. */
 "Remove" = "제거";
 
 /* No comment provided by engineer. */
@@ -1515,6 +1605,9 @@
 
 /* No comment provided by engineer. */
 "Remove Mask" = "마스크 제거";
+
+/* No comment provided by engineer. */
+"Remove objects" = "Remove objects";
 
 /* Edit Menu */
 "Rename" = "이름 변경";
@@ -1611,6 +1704,9 @@
 "Restore Layer" = "레이어 복원";
 
 /* No comment provided by engineer. */
+"Restore Purchase" = "Restore Purchase";
+
+/* No comment provided by engineer. */
 "Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution" = "이 사진의 원래 콘텐츠를 복원하면 복구 도구 및 초해상도로 수행한 편집 내용도 재설정됩니다.";
 
 /* No comment provided by engineer. */
@@ -1670,6 +1766,18 @@
 
 /* No comment provided by engineer. */
 "Save Copy to Photos" = "사진에 복사본 저장";
+
+/* No comment provided by engineer. */
+"Save image" = "Save image";
+
+/* No comment provided by engineer. */
+"Save image (1 remaining)" = "Save image (1 remaining)";
+
+/* No comment provided by engineer. */
+"Save image (2 remaining)" = "Save image (2 remaining)";
+
+/* No comment provided by engineer. */
+"Save image (3 remaining)" = "Save image (3 remaining)";
 
 /* No comment provided by engineer. */
 "Save linked files in iCloud to sync edits between your devices." = "링크된 파일을 iCloud에 저장하여 여러 장치 간에 편집 내용을 동기화합니다.";
@@ -1747,9 +1855,6 @@
 "Selected layer is locked, unlock it to edit." = "선택된 레이어가 잠겨 있습니다. 편집하려면 잠금 해제하세요.";
 
 /* No comment provided by engineer. */
-"Selected Photos" = "선택한 사진";
-
-/* No comment provided by engineer. */
 "Selective Color" = "선택적 색상";
 
 /* No comment provided by engineer. */
@@ -1766,9 +1871,6 @@
 
 /* No comment provided by engineer. */
 "Settings" = "설정";
-
-/* No comment provided by engineer. */
-"SETTINGS" = "설정";
 
 /* No comment provided by engineer. */
 "Shadow" = "그림자";
@@ -1790,9 +1892,6 @@
 
 /* Edit Menu */
 "Share Preset" = "프리셋 공유";
-
-/* No comment provided by engineer. */
-"Shared Albums" = "공유 앨범";
 
 /* Effects category name
    Retouch Tools
@@ -1842,6 +1941,9 @@
 "Show Master Colors" = "마스터 색상 표시";
 
 /* No comment provided by engineer. */
+"Show me around" = "Show me around";
+
+/* No comment provided by engineer. */
 "Show Original" = "원본 보기";
 
 /* No comment provided by engineer. */
@@ -1875,6 +1977,9 @@
 "Skew" = "기울이기";
 
 /* No comment provided by engineer. */
+"Skip overview" = "Skip overview";
+
+/* No comment provided by engineer. */
 "Smooth textures" = "부드러운 텍스처";
 
 /* Retouch Tools
@@ -1896,6 +2001,15 @@
 
 /* No comment provided by engineer. */
 "Some of the selected images could not be processed." = "선택된 이미지 중 일부를 처리할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Something went wrong and Pixelmator Photo didn’t get access to show your notifications, so you won’t be notified about the end of your free trial." = "Something went wrong and Pixelmator Photo didn’t get access to show your notifications, so you won’t be notified about the end of your free trial.";
+
+/* No comment provided by engineer. */
+"Something went wrong while checking your previous purchases. Make sure you have an active internet connection, then try again. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Something went wrong while checking your previous purchases. Make sure you have an active internet connection, then try again. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)";
+
+/* No comment provided by engineer. */
+"Something went wrong while showing the purchase view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Something went wrong while showing the purchase view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)";
 
 /* No comment provided by engineer. */
 "Source Atop" = "원본 꼭대기";
@@ -1923,6 +2037,9 @@
 
 /* Tool */
 "Star" = "별";
+
+/* No comment provided by engineer. */
+"Start editing" = "Start editing";
 
 /* No comment provided by engineer. */
 "Start Point" = "시작 포인트";
@@ -1961,6 +2078,9 @@
 "Stylize" = "스타일화";
 
 /* No comment provided by engineer. */
+"Subscribe to\nPixelmator Photo" = "Subscribe to\nPixelmator Photo";
+
+/* No comment provided by engineer. */
 "Subtract" = "빼기";
 
 /* Tool */
@@ -1988,6 +2108,18 @@
 "Take Photo" = "사진 찍기";
 
 /* No comment provided by engineer. */
+"Tap to get started" = "Tap to get started";
+
+/* No comment provided by engineer. */
+"Tap\u{00a0}[ADJUSTMENTS] to change the colors and lighting of photos in just about any way you can imagine." = "Tap\u{00a0}[ADJUSTMENTS] to change the colors and lighting of photos in just about any way you can imagine.";
+
+/* No comment provided by engineer. */
+"Tap\u{00a0}[MORE], then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "Tap\u{00a0}[MORE], then choose Super Resolution to increase the resolution of photos with no unwanted blurring.";
+
+/* No comment provided by engineer. */
+"Tap\u{00a0}[SUPER RESOLUTION] to increase the resolution of photos with no unwanted blurring." = "Tap\u{00a0}[SUPER RESOLUTION] to increase the resolution of photos with no unwanted blurring.";
+
+/* No comment provided by engineer. */
 "Target Color" = "대상 색상";
 
 /* No comment provided by engineer. */
@@ -2001,7 +2133,13 @@
 "Texture" = "텍스처";
 
 /* No comment provided by engineer. */
+"That covers the basics – you’re ready to start editing your photos!" = "That covers the basics – you’re ready to start editing your photos!";
+
+/* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "색상 조정 프리셋을 가져왔습니다.";
+
+/* No comment provided by engineer. */
+"The Files browser lets you open images saved on your device or other storage locations. To switch to the Photos browser, tap\u{00a0}[GEAR] and choose Photos." = "The Files browser lets you open images saved on your device or other storage locations. To switch to the Photos browser, tap\u{00a0}[GEAR] and choose Photos.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "이미지가 %@개의 레이어를 포함하고 있습니다. 더 생성하려면 이미지 크기를 줄이세요.";
@@ -2102,11 +2240,23 @@
 /* No comment provided by engineer. */
 "Tint" = "색조";
 
+/* No comment provided by engineer. */
+"Tips" = "Tips";
+
 /* from one color 'to' other color */
 "to" = "대상";
 
 /* No comment provided by engineer. */
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "사진 일괄 편집을 시작하려면 먼저 우측 상단 모서리에 있는 선택을 탭합니다. 그런 다음, 여러 장의 사진을 선택하고 도구 모음에서 일괄 처리를 탭합니다. 마지막으로, 포함된 일괄 처리 작업 흐름 중 하나를 선택하거나 사용자 지정 작업 흐름을 생성하고 적용을 탭합니다.";
+
+/* No comment provided by engineer. */
+"To purchase Pixelmator Photo, you need to be connected to the internet. You can check this in the Settings app, then try again." = "To purchase Pixelmator Photo, you need to be connected to the internet. You can check this in the Settings app, then try again.";
+
+/* No comment provided by engineer. */
+"To use this feature, you’ll need to buy or subscribe to Pixelmator Photo, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "To use this feature, you’ll need to buy or subscribe to Pixelmator Photo, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)";
+
+/* No comment provided by engineer. */
+"To use this feature, you’ll need to purchase unlimited access to Pixelmator Photo, but it looks like you’re offline. To purchase, you’ll need to go online." = "To use this feature, you’ll need to purchase unlimited access to Pixelmator Photo, but it looks like you’re offline. To purchase, you’ll need to go online.";
 
 /* No comment provided by engineer. */
 "Tone" = "톤";
@@ -2124,19 +2274,22 @@
 "Touch Size" = "터치 크기";
 
 /* No comment provided by engineer. */
-"Transient" = "임시";
-
-/* No comment provided by engineer. */
 "Transition" = "전환";
 
 /* Tool */
 "Trim Canvas" = "캔버스 트리밍";
+
+/* No comment provided by engineer. */
+"Try Again" = "Try Again";
 
 /* Tool */
 "Twirl" = "휘감기";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "도움말에 액세스할 수 없습니다";
+
+/* No comment provided by engineer. */
+"Unable to Check Purchases" = "Unable to Check Purchases";
 
 /* No comment provided by engineer. */
 "Unable to Export" = "내보낼 수 없습니다";
@@ -2152,6 +2305,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Process" = "처리할 수 없습니다";
+
+/* No comment provided by engineer. */
+"Unable to Register for Notifications" = "Unable to Register for Notifications";
 
 /* No comment provided by engineer. */
 "Unable to Save" = "저장할 수 없습니다";
@@ -2204,6 +2360,9 @@
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "제목 없는 레이어 마스크";
+
+/* No comment provided by engineer. */
+"Upgrade to access the full image editing experience in Pixelmator Photo." = "Upgrade to access the full image editing experience in Pixelmator Photo.";
 
 /* No comment provided by engineer. */
 "Use Apple Pencil to make edits using the Curves adjustment or the Repair tool even when no tool is selected." = "선택된 도구가 없는 경우에도 Apple Pencil을 사용하여 '곡선' 조정 또는 '복구' 도구를 사용한 편집을 수행합니다.";
@@ -2290,6 +2449,9 @@
 "Workflows" = "작업 흐름";
 
 /* No comment provided by engineer. */
+"Would you like to be notified before your free trial is about to end?" = "Would you like to be notified before your free trial is about to end?";
+
+/* No comment provided by engineer. */
 "Yellow" = "노란색";
 
 /* Color adjustments */
@@ -2297,6 +2459,18 @@
 
 /* No comment provided by engineer. */
 "You're Offline" = "현재 오프라인 상태입니다";
+
+/* No comment provided by engineer. */
+"Your 7-day trial has started!" = "Your 7-day trial has started!";
+
+/* No comment provided by engineer. */
+"Your free trial will end in 2 days. Explore Pixelmator Photo by editing a few of your photos!" = "Your free trial will end in 2 days. Explore Pixelmator Photo by editing a few of your photos!";
+
+/* No comment provided by engineer. */
+"You’re good to go" = "You’re good to go";
+
+/* No comment provided by engineer. */
+"You’re Offline" = "You’re Offline";
 
 /* No comment provided by engineer. */
 "Zoom" = "확대/축소";
