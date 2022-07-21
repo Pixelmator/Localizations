@@ -4,6 +4,12 @@
 /* crop aspect ratio */
 "%.2f:%d" = "%1$.2f:%2$d";
 
+/* No comment provided by engineer. */
+"%@/month" = "%@/month";
+
+/* No comment provided by engineer. */
+"%@/year" = "%@/year";
+
 /* seconds */
 "%@s" = "%@s";
 
@@ -25,11 +31,20 @@
 /* No comment provided by engineer. */
 "%i Images Selected" = "%i 張影像已選定";
 
+/* No comment provided by engineer. */
+"%i tips" = "%i tips";
+
 /* width × height */
 "%i × %i" = "%1$i × %2$i";
 
 /* Image bits per component */
 "%i-bits" = "%i 位元";
+
+/* No comment provided by engineer. */
+", %i days free" = ", %i days free";
+
+/* No comment provided by engineer. */
+", %i week free" = ", %i week free";
 
 /* Actions count */
 "1 action" = "1 個操作";
@@ -42,6 +57,9 @@
 
 /* No comment provided by engineer. */
 "1 Image Selected" = "選定 1 張影像";
+
+/* No comment provided by engineer. */
+"1 tip" = "1 tip";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16位/通道";
@@ -86,10 +104,16 @@
 "Adjust Colors" = "調整顏色";
 
 /* No comment provided by engineer. */
+"Adjust colors and lighting" = "Adjust colors and lighting";
+
+/* No comment provided by engineer. */
 "Adjust Intensity" = "調整強度";
 
 /* No comment provided by engineer. */
 "Adjustment" = "調整";
+
+/* No comment provided by engineer. */
+"Adjustment presets" = "Adjustment presets";
 
 /* No comment provided by engineer. */
 "Adjustments" = "調整";
@@ -99,9 +123,6 @@
 
 /* No comment provided by engineer. */
 "Albums" = "相簿";
-
-/* No comment provided by engineer. */
-"All Photos" = "所有照片";
 
 /* No comment provided by engineer. */
 "All presets in group will be reset to the initial color adjustments." = "群組內所有的預設組將會重置為初始的顏色調整設定。";
@@ -117,6 +138,9 @@
 
 /* No comment provided by engineer. */
 "Allow Access to Photos" = "允許照片存取權";
+
+/* No comment provided by engineer. */
+"An Error Occurred" = "An Error Occurred";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "發生未知的錯誤。";
@@ -172,6 +196,12 @@
 
 /* No comment provided by engineer. */
 "Auto-Hide" = "自動隱藏";
+
+/* No comment provided by engineer. */
+"Automatically enhance photos" = "Automatically enhance photos";
+
+/* No comment provided by engineer. */
+"Automatically improve the lighting and colors of a photo using AI by simply tapping\u{00a0}[WAND]." = "Automatically improve the lighting and colors of a photo using AI by simply tapping\u{00a0}[WAND].";
 
 /* No comment provided by engineer. */
 "Automatically remove camera noise and image compression artifacts from photos." = "自動移除照片中的相機雜訊和影像壓縮失真。";
@@ -368,6 +398,9 @@
 "Constant" = "常數";
 
 /* No comment provided by engineer. */
+"Contact Us" = "Contact Us";
+
+/* No comment provided by engineer. */
 "Continue" = "繼續";
 
 /* No comment provided by engineer. */
@@ -554,6 +587,9 @@
 "Divide" = "分割";
 
 /* No comment provided by engineer. */
+"Don't limit yourself" = "Don't limit yourself";
+
+/* No comment provided by engineer. */
 "Don't Move" = "不移動";
 
 /* No comment provided by engineer. */
@@ -650,9 +686,6 @@
 "Edit RAW" = "編輯 RAW";
 
 /* No comment provided by engineer. */
-"Edited" = "已編輯";
-
-/* No comment provided by engineer. */
 "Editing Image" = "正在編輯影像";
 
 /* Processing action
@@ -705,6 +738,9 @@
 "Enhance" = "增強";
 
 /* No comment provided by engineer. */
+"Enjoy unlimited access to Pixelmator Photo!" = "Enjoy unlimited access to Pixelmator Photo!";
+
+/* No comment provided by engineer. */
 "Enter a new name for this preset:" = "輸入此預設的新名稱:";
 
 /* No comment provided by engineer. */
@@ -712,9 +748,6 @@
 
 /* Tool */
 "Erase" = "清除";
-
-/* No comment provided by engineer. */
-"Events From My Mac" = "來自我的 Mac 的事件";
 
 /* No comment provided by engineer. */
 "Exclusion" = "排除";
@@ -733,9 +766,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Faces From My Mac" = "來自我的 Mac 的面孔";
 
 /* No comment provided by engineer. */
 "Fade" = "褪色";
@@ -760,6 +790,12 @@
 
 /* No comment provided by engineer. */
 "Feature not enabled for this demo" = "當前演示版未啟用這個功能";
+
+/* No comment provided by engineer. */
+"Feature Unavailable" = "Feature Unavailable";
+
+/* No comment provided by engineer. */
+"Files Browser" = "Files Browser";
 
 /* Effects category name */
 "Fill" = "填充";
@@ -788,11 +824,11 @@
 /* Tool */
 "Free" = "可用空間";
 
+/* No comment provided by engineer. */
+"Free Trial Ends in 2 Days" = "Free Trial Ends in 2 Days";
+
 /* Tool */
 "Freeform" = "多邊形";
-
-/* No comment provided by engineer. */
-"From My Mac" = "來自我的 Mac";
 
 /* No comment provided by engineer. */
 "From now on, linked files will be saved to iCloud. Would you like to also move all existing linked files to iCloud?" = "從現在開始，連結的檔案將儲存到 iCloud。是否想要將已存在的連結檔案也移動到 iCloud？";
@@ -805,6 +841,24 @@
 
 /* Effects category name */
 "Generator" = "產生器";
+
+/* No comment provided by engineer. */
+"Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos.";
+
+/* No comment provided by engineer. */
+"Get unlimited access" = "Get unlimited access";
+
+/* No comment provided by engineer. */
+"Get unlimited access." = "Get unlimited access.";
+
+/* No comment provided by engineer. */
+"Getting started" = "Getting started";
+
+/* No comment provided by engineer. */
+"Getting Started" = "Getting Started";
+
+/* No comment provided by engineer. */
+"Getting Started with Pixelmator Photo" = "Getting Started with Pixelmator Photo";
 
 /* No comment provided by engineer. */
 "Glazed" = "上釉";
@@ -912,6 +966,9 @@
 /* No comment provided by engineer. */
 "iCloud Unavailable" = "iCloud 不可用";
 
+/* No comment provided by engineer. */
+"If you think you should have an active subscription, get in touch with us and we’ll help out." = "If you think you should have an active subscription, get in touch with us and we’ll help out.";
+
 /* Untitled document name received via Handoff */
 "Image" = "影像";
 
@@ -988,8 +1045,14 @@
 /* No comment provided by engineer. */
 "Invert" = "反相";
 
+/* No comment provided by engineer. */
+"It doesn’t look like you have an active subscription to Pixelmator Photo. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this in the Settings app, then try again." = "It doesn’t look like you have an active subscription to Pixelmator Photo. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this in the Settings app, then try again.";
+
 /* Image save error */
 "It is not possible to save your image to this location. Would you like to save it somewhere else?" = "無法將圖像儲存至此。要換個地方儲存嗎？";
+
+/* No comment provided by engineer. */
+"It looks you already have unlimited access to Pixelmator Photo, so you have not been charged. Enjoy using the app!" = "It looks you already have unlimited access to Pixelmator Photo, so you have not been charged. Enjoy using the app!";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "原始照片似乎已不在那裡了。";
@@ -1019,7 +1082,7 @@
 "Levels" = "位準";
 
 /* No comment provided by engineer. */
-"Library" = "圖書館";
+"Lifetime" = "Lifetime";
 
 /* No comment provided by engineer. */
 "Light Color" = "淺色";
@@ -1068,12 +1131,6 @@
 "Linked File Location Changed" = "連結檔案位置變更";
 
 /* No comment provided by engineer. */
-"Linked Files" = "連結的檔案";
-
-/* No comment provided by engineer. */
-"Linked Pixelmator Photo Files" = "已連結的 Pixelmator Photo 檔案";
-
-/* No comment provided by engineer. */
 "Load" = "載入";
 
 /* Document loading */
@@ -1110,11 +1167,20 @@
 /* Color adjustments */
 "Magenta / Green" = "洋紅色/綠色";
 
+/* No comment provided by engineer. */
+"Magically increase resolution" = "Magically increase resolution";
+
+/* No comment provided by engineer. */
+"Magically remove anything from small blemishes to entire objects from photos. Tap\u{00a0}[REPAIR], then paint over an object to remove it." = "Magically remove anything from small blemishes to entire objects from photos. Tap\u{00a0}[REPAIR], then paint over an object to remove it.";
+
 /* Tool */
 "Magnetic" = "磁性";
 
 /* No comment provided by engineer. */
 "Makes the Hidden album from your Photos library visible in Pixelmator Photo." = "讓照片庫中隱藏的相簿顯示在 Pixelmator Photo 中。";
+
+/* No comment provided by engineer. */
+"Manage Subscription" = "Manage Subscription";
 
 /* Tool */
 "Marker" = "馬克筆";
@@ -1207,9 +1273,6 @@
 "Mustache" = "鬍子";
 
 /* No comment provided by engineer. */
-"My Albums" = "我的相簿";
-
-/* No comment provided by engineer. */
 "New Layer" = "新建圖層";
 
 /* No comment provided by engineer. */
@@ -1227,6 +1290,9 @@
 /* Document info */
 "No camera information" = "無相機資訊";
 
+/* No comment provided by engineer. */
+"No commitment, cancel anytime." = "No commitment, cancel anytime.";
+
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "無鏡頭資訊";
 
@@ -1235,6 +1301,12 @@
 
 /* No comment provided by engineer. */
 "No Photos Access" = "無照片存取權限";
+
+/* No comment provided by engineer. */
+"No Subscription Found" = "No Subscription Found";
+
+/* No comment provided by engineer. */
+"No thanks" = "No thanks";
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "雜點消除";
@@ -1273,6 +1345,9 @@
 "Open" = "開啟";
 
 /* No comment provided by engineer. */
+"Open Settings" = "Open Settings";
+
+/* No comment provided by engineer. */
 "Orange" = "橘子";
 
 /* No comment provided by engineer. */
@@ -1294,7 +1369,7 @@
 "Other" = "其他";
 
 /* No comment provided by engineer. */
-"Other Albums" = "其他相簿";
+"OTHER" = "OTHER";
 
 /* No comment provided by engineer. */
 "Overlay" = "覆疊";
@@ -1366,6 +1441,9 @@
 "Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "Pixelmator Photo 現在可以在 iCloud 中儲存非破壞性編輯，以在裝置之間同步它們。您是否要開始將 iCloud 用於連結檔案並將所有現有檔案移動到那裡？";
 
 /* No comment provided by engineer. */
+"Pixelmator Photo features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Pixelmator Photo features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images.";
+
+/* No comment provided by engineer. */
 "Pixelmator Photo for iPhone" = "iPhone 版 Pixelmator Photo";
 
 /* No comment provided by engineer. */
@@ -1388,6 +1466,9 @@
 
 /* No comment provided by engineer. */
 "Powered by ML" = "由 ML 驅動";
+
+/* No comment provided by engineer. */
+"Powerful Photo Browser" = "Powerful Photo Browser";
 
 /* No comment provided by engineer. */
 "Preserve Edits" = "保留編輯";
@@ -1417,6 +1498,9 @@
 "Previous Preset" = "上一個預設組";
 
 /* No comment provided by engineer. */
+"Previous Purchase Found" = "Previous Purchase Found";
+
+/* No comment provided by engineer. */
 "Processing Image" = "正在處理影像";
 
 /* Processing count */
@@ -1432,6 +1516,9 @@
 "pt" = "點";
 
 /* No comment provided by engineer. */
+"Purchase Restored Successfully" = "Purchase Restored Successfully";
+
+/* No comment provided by engineer. */
 "Purple" = "紫色";
 
 /* Units */
@@ -1442,6 +1529,9 @@
 
 /* No comment provided by engineer. */
 "Quick Edits" = "快速編輯";
+
+/* No comment provided by engineer. */
+"Quickly change the look and feel of photo using color adjustment presets." = "Quickly change the look and feel of photo using color adjustment presets.";
 
 /* Recents group abbreviation
    Short for RAW Image format */
@@ -1470,9 +1560,6 @@
 
 /* No comment provided by engineer. */
 "Recent" = "最近";
-
-/* No comment provided by engineer. */
-"Recents" = "最近項目";
 
 /* Tool */
 "Rectangle" = "矩形";
@@ -1508,6 +1595,9 @@
 "Reloading…" = "正在重新載入…";
 
 /* No comment provided by engineer. */
+"Remind me" = "Remind me";
+
+/* No comment provided by engineer. */
 "Remove" = "移除";
 
 /* No comment provided by engineer. */
@@ -1515,6 +1605,9 @@
 
 /* No comment provided by engineer. */
 "Remove Mask" = "移除蒙版";
+
+/* No comment provided by engineer. */
+"Remove objects" = "Remove objects";
 
 /* Edit Menu */
 "Rename" = "重新命名";
@@ -1611,6 +1704,9 @@
 "Restore Layer" = "還原圖層";
 
 /* No comment provided by engineer. */
+"Restore Purchase" = "Restore Purchase";
+
+/* No comment provided by engineer. */
 "Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution" = "回復照片原始內容也會重置修復工具和超解析度的編輯內容";
 
 /* No comment provided by engineer. */
@@ -1670,6 +1766,18 @@
 
 /* No comment provided by engineer. */
 "Save Copy to Photos" = "將副本儲存到「照片」";
+
+/* No comment provided by engineer. */
+"Save image" = "Save image";
+
+/* No comment provided by engineer. */
+"Save image (1 remaining)" = "Save image (1 remaining)";
+
+/* No comment provided by engineer. */
+"Save image (2 remaining)" = "Save image (2 remaining)";
+
+/* No comment provided by engineer. */
+"Save image (3 remaining)" = "Save image (3 remaining)";
 
 /* No comment provided by engineer. */
 "Save linked files in iCloud to sync edits between your devices." = "將連結的檔案儲存至 iCloud 即可跨裝置同步編輯。";
@@ -1747,9 +1855,6 @@
 "Selected layer is locked, unlock it to edit." = "選定的圖層被鎖定，解鎖圖層才可編輯。";
 
 /* No comment provided by engineer. */
-"Selected Photos" = "選擇的照片";
-
-/* No comment provided by engineer. */
 "Selective Color" = "選擇性顏色";
 
 /* No comment provided by engineer. */
@@ -1766,9 +1871,6 @@
 
 /* No comment provided by engineer. */
 "Settings" = "設定";
-
-/* No comment provided by engineer. */
-"SETTINGS" = "設定";
 
 /* No comment provided by engineer. */
 "Shadow" = "陰影";
@@ -1790,9 +1892,6 @@
 
 /* Edit Menu */
 "Share Preset" = "分享預設";
-
-/* No comment provided by engineer. */
-"Shared Albums" = "分享的相簿";
 
 /* Effects category name
    Retouch Tools
@@ -1842,6 +1941,9 @@
 "Show Master Colors" = "顯示主色彩";
 
 /* No comment provided by engineer. */
+"Show me around" = "Show me around";
+
+/* No comment provided by engineer. */
 "Show Original" = "顯示原項目";
 
 /* No comment provided by engineer. */
@@ -1875,6 +1977,9 @@
 "Skew" = "斜";
 
 /* No comment provided by engineer. */
+"Skip overview" = "Skip overview";
+
+/* No comment provided by engineer. */
 "Smooth textures" = "平滑紋理";
 
 /* Retouch Tools
@@ -1896,6 +2001,15 @@
 
 /* No comment provided by engineer. */
 "Some of the selected images could not be processed." = "未能處理某些選定的影像。";
+
+/* No comment provided by engineer. */
+"Something went wrong and Pixelmator Photo didn’t get access to show your notifications, so you won’t be notified about the end of your free trial." = "Something went wrong and Pixelmator Photo didn’t get access to show your notifications, so you won’t be notified about the end of your free trial.";
+
+/* No comment provided by engineer. */
+"Something went wrong while checking your previous purchases. Make sure you have an active internet connection, then try again. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Something went wrong while checking your previous purchases. Make sure you have an active internet connection, then try again. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)";
+
+/* No comment provided by engineer. */
+"Something went wrong while showing the purchase view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Something went wrong while showing the purchase view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)";
 
 /* No comment provided by engineer. */
 "Source Atop" = "來源於頂端";
@@ -1923,6 +2037,9 @@
 
 /* Tool */
 "Star" = "星";
+
+/* No comment provided by engineer. */
+"Start editing" = "Start editing";
 
 /* No comment provided by engineer. */
 "Start Point" = "起點";
@@ -1961,6 +2078,9 @@
 "Stylize" = "風格化";
 
 /* No comment provided by engineer. */
+"Subscribe to\nPixelmator Photo" = "Subscribe to\nPixelmator Photo";
+
+/* No comment provided by engineer. */
 "Subtract" = "減去";
 
 /* Tool */
@@ -1988,6 +2108,18 @@
 "Take Photo" = "拍照";
 
 /* No comment provided by engineer. */
+"Tap to get started" = "Tap to get started";
+
+/* No comment provided by engineer. */
+"Tap\u{00a0}[ADJUSTMENTS] to change the colors and lighting of photos in just about any way you can imagine." = "Tap\u{00a0}[ADJUSTMENTS] to change the colors and lighting of photos in just about any way you can imagine.";
+
+/* No comment provided by engineer. */
+"Tap\u{00a0}[MORE], then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "Tap\u{00a0}[MORE], then choose Super Resolution to increase the resolution of photos with no unwanted blurring.";
+
+/* No comment provided by engineer. */
+"Tap\u{00a0}[SUPER RESOLUTION] to increase the resolution of photos with no unwanted blurring." = "Tap\u{00a0}[SUPER RESOLUTION] to increase the resolution of photos with no unwanted blurring.";
+
+/* No comment provided by engineer. */
 "Target Color" = "目標顏色";
 
 /* No comment provided by engineer. */
@@ -2001,7 +2133,13 @@
 "Texture" = "材質";
 
 /* No comment provided by engineer. */
+"That covers the basics – you’re ready to start editing your photos!" = "That covers the basics – you’re ready to start editing your photos!";
+
+/* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "已成功匯入顏色調整預設。";
+
+/* No comment provided by engineer. */
+"The Files browser lets you open images saved on your device or other storage locations. To switch to the Photos browser, tap\u{00a0}[GEAR] and choose Photos." = "The Files browser lets you open images saved on your device or other storage locations. To switch to the Photos browser, tap\u{00a0}[GEAR] and choose Photos.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "影像包含 %@ 個圖層。必須降低影像大小才可以建立更多圖層。";
@@ -2102,11 +2240,23 @@
 /* No comment provided by engineer. */
 "Tint" = "色調";
 
+/* No comment provided by engineer. */
+"Tips" = "Tips";
+
 /* from one color 'to' other color */
 "to" = "至";
 
 /* No comment provided by engineer. */
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "要開始批量編輯照片，請先輕按右上角的「選擇」。 然後，選擇多張照片並輕按工具列中的「批量」。 最後，選擇已存在的批量工作流程或創建自己的工作流程，然後輕按「套用」。";
+
+/* No comment provided by engineer. */
+"To purchase Pixelmator Photo, you need to be connected to the internet. You can check this in the Settings app, then try again." = "To purchase Pixelmator Photo, you need to be connected to the internet. You can check this in the Settings app, then try again.";
+
+/* No comment provided by engineer. */
+"To use this feature, you’ll need to buy or subscribe to Pixelmator Photo, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "To use this feature, you’ll need to buy or subscribe to Pixelmator Photo, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)";
+
+/* No comment provided by engineer. */
+"To use this feature, you’ll need to purchase unlimited access to Pixelmator Photo, but it looks like you’re offline. To purchase, you’ll need to go online." = "To use this feature, you’ll need to purchase unlimited access to Pixelmator Photo, but it looks like you’re offline. To purchase, you’ll need to go online.";
 
 /* No comment provided by engineer. */
 "Tone" = "調";
@@ -2124,19 +2274,22 @@
 "Touch Size" = "觸摸大小";
 
 /* No comment provided by engineer. */
-"Transient" = "暫時";
-
-/* No comment provided by engineer. */
 "Transition" = "過渡";
 
 /* Tool */
 "Trim Canvas" = "修剪畫布";
+
+/* No comment provided by engineer. */
+"Try Again" = "Try Again";
 
 /* Tool */
 "Twirl" = "旋轉";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "無法訪問輔助說明";
+
+/* No comment provided by engineer. */
+"Unable to Check Purchases" = "Unable to Check Purchases";
 
 /* No comment provided by engineer. */
 "Unable to Export" = "無法匯出";
@@ -2152,6 +2305,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Process" = "無法處理";
+
+/* No comment provided by engineer. */
+"Unable to Register for Notifications" = "Unable to Register for Notifications";
 
 /* No comment provided by engineer. */
 "Unable to Save" = "無法儲存";
@@ -2204,6 +2360,9 @@
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "未命名圖層遮罩";
+
+/* No comment provided by engineer. */
+"Upgrade to access the full image editing experience in Pixelmator Photo." = "Upgrade to access the full image editing experience in Pixelmator Photo.";
 
 /* No comment provided by engineer. */
 "Use Apple Pencil to make edits using the Curves adjustment or the Repair tool even when no tool is selected." = "使用 Apple Pencil 透過曲線調整功能或修復工具編輯，即使沒有選擇工具亦可使用此功能。";
@@ -2290,6 +2449,9 @@
 "Workflows" = "工作流程";
 
 /* No comment provided by engineer. */
+"Would you like to be notified before your free trial is about to end?" = "Would you like to be notified before your free trial is about to end?";
+
+/* No comment provided by engineer. */
 "Yellow" = "黃色";
 
 /* Color adjustments */
@@ -2297,6 +2459,18 @@
 
 /* No comment provided by engineer. */
 "You're Offline" = "您處於離線狀態";
+
+/* No comment provided by engineer. */
+"Your 7-day trial has started!" = "Your 7-day trial has started!";
+
+/* No comment provided by engineer. */
+"Your free trial will end in 2 days. Explore Pixelmator Photo by editing a few of your photos!" = "Your free trial will end in 2 days. Explore Pixelmator Photo by editing a few of your photos!";
+
+/* No comment provided by engineer. */
+"You’re good to go" = "You’re good to go";
+
+/* No comment provided by engineer. */
+"You’re Offline" = "You’re Offline";
 
 /* No comment provided by engineer. */
 "Zoom" = "縮放";
