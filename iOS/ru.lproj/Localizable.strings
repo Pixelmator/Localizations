@@ -4,6 +4,12 @@
 /* crop aspect ratio */
 "%.2f:%d" = "%1$.2f:%2$d";
 
+/* No comment provided by engineer. */
+"%@/month" = "%@/мес.";
+
+/* No comment provided by engineer. */
+"%@/year" = "%@/год";
+
 /* seconds */
 "%@s" = "%@с";
 
@@ -25,11 +31,20 @@
 /* No comment provided by engineer. */
 "%i Images Selected" = "Выбрано изображений: %i";
 
+/* No comment provided by engineer. */
+"%i tips" = "Подсказки: %i";
+
 /* width × height */
 "%i × %i" = "%1$i × %2$i";
 
 /* Image bits per component */
 "%i-bits" = "%i бит";
+
+/* No comment provided by engineer. */
+", %i days free" = ", %i дн. беспл.";
+
+/* No comment provided by engineer. */
+", %i week free" = ", %i нед. беспл.";
 
 /* Actions count */
 "1 action" = "Действий: 1";
@@ -42,6 +57,9 @@
 
 /* No comment provided by engineer. */
 "1 Image Selected" = "Выбрано 1 изображение";
+
+/* No comment provided by engineer. */
+"1 tip" = "Подсказки: 1";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16 бит/канал";
@@ -86,10 +104,16 @@
 "Adjust Colors" = "Настроить цвета";
 
 /* No comment provided by engineer. */
+"Adjust colors and lighting" = "Настроить размер и освещение";
+
+/* No comment provided by engineer. */
 "Adjust Intensity" = "Настроить интенсивность";
 
 /* No comment provided by engineer. */
 "Adjustment" = "Корректировка";
+
+/* No comment provided by engineer. */
+"Adjustment presets" = "Наборы корректировок";
 
 /* No comment provided by engineer. */
 "Adjustments" = "Изменения";
@@ -99,9 +123,6 @@
 
 /* No comment provided by engineer. */
 "Albums" = "Альбомы";
-
-/* No comment provided by engineer. */
-"All Photos" = "Все фото";
 
 /* No comment provided by engineer. */
 "All presets in group will be reset to the initial color adjustments." = "Все наборы в группе будут сброшены на исходные корректировки цвета.";
@@ -117,6 +138,9 @@
 
 /* No comment provided by engineer. */
 "Allow Access to Photos" = "Открыть доступ к Фото";
+
+/* No comment provided by engineer. */
+"An Error Occurred" = "Произошла ошибка";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "Неизвестная ошибка.";
@@ -172,6 +196,12 @@
 
 /* No comment provided by engineer. */
 "Auto-Hide" = "Скрыть автоматически";
+
+/* No comment provided by engineer. */
+"Automatically enhance photos" = "Автоматически улучшайте фотографии";
+
+/* No comment provided by engineer. */
+"Automatically improve the lighting and colors of a photo using AI by simply tapping\u{00a0}[WAND]." = "Автоматически улучшайте освещение и цвета фото, используя искусственный интеллект простым касанием\u{00a0}[WAND].";
 
 /* No comment provided by engineer. */
 "Automatically remove camera noise and image compression artifacts from photos." = "Автоматически удаляйте с фотографий цифровой шум и нежелательные артефакты сжатия изображений.";
@@ -368,6 +398,9 @@
 "Constant" = "Постоянный";
 
 /* No comment provided by engineer. */
+"Contact Us" = "Свяжитесь с нами";
+
+/* No comment provided by engineer. */
 "Continue" = "Продолжить";
 
 /* No comment provided by engineer. */
@@ -554,6 +587,9 @@
 "Divide" = "Разделить";
 
 /* No comment provided by engineer. */
+"Don't limit yourself" = "Не ограничивайте себя";
+
+/* No comment provided by engineer. */
 "Don't Move" = "Не двигать";
 
 /* No comment provided by engineer. */
@@ -650,9 +686,6 @@
 "Edit RAW" = "Править RAW";
 
 /* No comment provided by engineer. */
-"Edited" = "Изменено";
-
-/* No comment provided by engineer. */
 "Editing Image" = "Правка изображения";
 
 /* Processing action
@@ -705,6 +738,9 @@
 "Enhance" = "Улучшить";
 
 /* No comment provided by engineer. */
+"Enjoy unlimited access to Pixelmator Photo!" = "Насладитесь неограниченным доступом к Pixelmator Photo!";
+
+/* No comment provided by engineer. */
 "Enter a new name for this preset:" = "Введите новое имя этого набора:";
 
 /* No comment provided by engineer. */
@@ -712,9 +748,6 @@
 
 /* Tool */
 "Erase" = "Ластик";
-
-/* No comment provided by engineer. */
-"Events From My Mac" = "События из моего Mac";
 
 /* No comment provided by engineer. */
 "Exclusion" = "Исключение";
@@ -733,9 +766,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Faces From My Mac" = "Лица из моего Mac";
 
 /* No comment provided by engineer. */
 "Fade" = "Затухание";
@@ -760,6 +790,12 @@
 
 /* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Эта функция недоступна в демо-версии";
+
+/* No comment provided by engineer. */
+"Feature Unavailable" = "Функция недоступна";
+
+/* No comment provided by engineer. */
+"Files Browser" = "Файловый браузер";
 
 /* Effects category name */
 "Fill" = "Заливка";
@@ -788,11 +824,11 @@
 /* Tool */
 "Free" = "Свободно";
 
+/* No comment provided by engineer. */
+"Free Trial Ends in 2 Days" = "Конец беспл. пробы через 2 дн.";
+
 /* Tool */
 "Freeform" = "Свободная форма";
-
-/* No comment provided by engineer. */
-"From My Mac" = "Из моего Mac";
 
 /* No comment provided by engineer. */
 "From now on, linked files will be saved to iCloud. Would you like to also move all existing linked files to iCloud?" = "С этого момента связанные файлы будут сохраняться в iCloud. Не хотите ли вы также переместить все имеющиеся связанные файлы в iCloud?";
@@ -805,6 +841,24 @@
 
 /* Effects category name */
 "Generator" = "Генератор";
+
+/* No comment provided by engineer. */
+"Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Получите краткий обзор инструментов, которые можно использовать для ретуши, улучшения или полной трансформации фото.";
+
+/* No comment provided by engineer. */
+"Get unlimited access" = "Получить неограниченный доступ";
+
+/* No comment provided by engineer. */
+"Get unlimited access." = "Получить неограниченный доступ.";
+
+/* No comment provided by engineer. */
+"Getting started" = "Начало работы";
+
+/* No comment provided by engineer. */
+"Getting Started" = "Начало работы";
+
+/* No comment provided by engineer. */
+"Getting Started with Pixelmator Photo" = "Начало работы с Pixelmator Photo";
 
 /* No comment provided by engineer. */
 "Glazed" = "Глянцевый";
@@ -912,6 +966,9 @@
 /* No comment provided by engineer. */
 "iCloud Unavailable" = "iCloud недоступно";
 
+/* No comment provided by engineer. */
+"If you think you should have an active subscription, get in touch with us and we’ll help out." = "Если вы думаете, что у вас должна быть активная подписка, свяжитесь с нами и мы поможем.";
+
 /* Untitled document name received via Handoff */
 "Image" = "Изображение";
 
@@ -988,8 +1045,14 @@
 /* No comment provided by engineer. */
 "Invert" = "Инвертировать";
 
+/* No comment provided by engineer. */
+"It doesn’t look like you have an active subscription to Pixelmator Photo. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this in the Settings app, then try again." = "Похоже, у вас нет активной подписки на Pixelmator Photo. Это могло произойти в следующих случаях:\n\n1. Вы вошли в App Store с другим Apple ID.\n2. Ваша подписка истекла.\n\n Вы можете проверить это в приложении Настроек, затем попробовать еще раз.";
+
 /* Image save error */
 "It is not possible to save your image to this location. Would you like to save it somewhere else?" = "Невозможно сохранить ваше изображение в это место. Не хотите ли указать другое место?";
+
+/* No comment provided by engineer. */
+"It looks you already have unlimited access to Pixelmator Photo, so you have not been charged. Enjoy using the app!" = "Похоже, у вас уже есть неограниченный доступ к Pixelmator Photo, поэтому мы не выставили вам счет. Наслаждайтесь нашим приложением!";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "Похоже, исходное фото больше там не находится.";
@@ -1019,7 +1082,7 @@
 "Levels" = "Уровни";
 
 /* No comment provided by engineer. */
-"Library" = "Медиатека";
+"Lifetime" = "Пожизненно";
 
 /* No comment provided by engineer. */
 "Light Color" = "Осветлить цвет";
@@ -1068,12 +1131,6 @@
 "Linked File Location Changed" = "Изменилось расположение связанного файла";
 
 /* No comment provided by engineer. */
-"Linked Files" = "Связанные файлы";
-
-/* No comment provided by engineer. */
-"Linked Pixelmator Photo Files" = "Связанные файлы Pixelmator Photo";
-
-/* No comment provided by engineer. */
 "Load" = "Загрузить";
 
 /* Document loading */
@@ -1110,11 +1167,20 @@
 /* Color adjustments */
 "Magenta / Green" = "Пурпурный/Зеленый";
 
+/* No comment provided by engineer. */
+"Magically increase resolution" = "Словно по волшебству увеличивайте разрешение";
+
+/* No comment provided by engineer. */
+"Magically remove anything from small blemishes to entire objects from photos. Tap\u{00a0}[REPAIR], then paint over an object to remove it." = "Словно по волшебству удаляйте с фотографий все что угодно, от небольших пятен до целых объектов. Коснитесь\u{00a0}[REPAIR], а затем рисуйте поверх объекта, чтобы удалить его.";
+
 /* Tool */
 "Magnetic" = "Магнитный";
 
 /* No comment provided by engineer. */
 "Makes the Hidden album from your Photos library visible in Pixelmator Photo." = "Создает скрытый альбом из вашей медиатеки Фото, видимый в Pixelmator Photo.";
+
+/* No comment provided by engineer. */
+"Manage Subscription" = "Управлять подпиской";
 
 /* Tool */
 "Marker" = "Маркер";
@@ -1207,9 +1273,6 @@
 "Mustache" = "Усы";
 
 /* No comment provided by engineer. */
-"My Albums" = "Мои альбомы";
-
-/* No comment provided by engineer. */
 "New Layer" = "Новый слой";
 
 /* No comment provided by engineer. */
@@ -1227,6 +1290,9 @@
 /* Document info */
 "No camera information" = "Нет данных по камере";
 
+/* No comment provided by engineer. */
+"No commitment, cancel anytime." = "Без обязательств, отмена в любой момент.";
+
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "Нет данных об объективе";
 
@@ -1235,6 +1301,12 @@
 
 /* No comment provided by engineer. */
 "No Photos Access" = "Нет доступа к Фото";
+
+/* No comment provided by engineer. */
+"No Subscription Found" = "Подписки не найдены";
+
+/* No comment provided by engineer. */
+"No thanks" = "Нет, спасибо";
 
 /* No comment provided by engineer. */
 "Noise Reduction" = "Уменьшение шума";
@@ -1273,6 +1345,9 @@
 "Open" = "Открыть";
 
 /* No comment provided by engineer. */
+"Open Settings" = "Открыть Настройки";
+
+/* No comment provided by engineer. */
 "Orange" = "Апельсин";
 
 /* No comment provided by engineer. */
@@ -1294,7 +1369,7 @@
 "Other" = "Другое";
 
 /* No comment provided by engineer. */
-"Other Albums" = "Другие альбомы";
+"OTHER" = "ДРУГОЕ";
 
 /* No comment provided by engineer. */
 "Overlay" = "Перекрытие";
@@ -1366,6 +1441,9 @@
 "Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "В Pixelmator Photo появились недеструктивные правки в iCloud, чтобы синхронизировать их между устройствами. Не хотите ли начать использование iCloud для связанных файлов и переместить все ваши файлы туда?";
 
 /* No comment provided by engineer. */
+"Pixelmator Photo features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Pixelmator Photo располагает невероятно мощным браузером, который приводится в действие приложением Фото и нуждается в доступе к библиотекам, чтобы осуществлять поиск и редактирование изображений.";
+
+/* No comment provided by engineer. */
 "Pixelmator Photo for iPhone" = "Pixelmator Photo для iPhone";
 
 /* No comment provided by engineer. */
@@ -1388,6 +1466,9 @@
 
 /* No comment provided by engineer. */
 "Powered by ML" = "Использовано ML";
+
+/* No comment provided by engineer. */
+"Powerful Photo Browser" = "Мощный фотобраузер";
 
 /* No comment provided by engineer. */
 "Preserve Edits" = "Сохранить правки";
@@ -1417,6 +1498,9 @@
 "Previous Preset" = "Предыдущий набор настроек";
 
 /* No comment provided by engineer. */
+"Previous Purchase Found" = "Обнаружена прежняя покупка";
+
+/* No comment provided by engineer. */
 "Processing Image" = "Обработка изображения";
 
 /* Processing count */
@@ -1432,6 +1516,9 @@
 "pt" = "пт";
 
 /* No comment provided by engineer. */
+"Purchase Restored Successfully" = "Покупка успешно восстановлена";
+
+/* No comment provided by engineer. */
 "Purple" = "Пурпурный";
 
 /* Units */
@@ -1442,6 +1529,9 @@
 
 /* No comment provided by engineer. */
 "Quick Edits" = "Быстрая правка";
+
+/* No comment provided by engineer. */
+"Quickly change the look and feel of photo using color adjustment presets." = "Быстро меняйте вид и стиль фотографий, используя наборы цветокоррекции.";
 
 /* Recents group abbreviation
    Short for RAW Image format */
@@ -1470,9 +1560,6 @@
 
 /* No comment provided by engineer. */
 "Recent" = "Недавние";
-
-/* No comment provided by engineer. */
-"Recents" = "Недавние";
 
 /* Tool */
 "Rectangle" = "Прямоугольник";
@@ -1508,6 +1595,9 @@
 "Reloading…" = "Перезагрузка…";
 
 /* No comment provided by engineer. */
+"Remind me" = "Напомнить мне";
+
+/* No comment provided by engineer. */
 "Remove" = "Удалить";
 
 /* No comment provided by engineer. */
@@ -1515,6 +1605,9 @@
 
 /* No comment provided by engineer. */
 "Remove Mask" = "Удалить маску";
+
+/* No comment provided by engineer. */
+"Remove objects" = "Удалить объекты";
 
 /* Edit Menu */
 "Rename" = "Переименовать";
@@ -1611,6 +1704,9 @@
 "Restore Layer" = "Восстановить слой";
 
 /* No comment provided by engineer. */
+"Restore Purchase" = "Восстановить покупки";
+
+/* No comment provided by engineer. */
 "Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution" = "Возвращение к исходному разрешению этого фото также приведёт к сбросу правок, сделанных инструментом исправления суперразрешения";
 
 /* No comment provided by engineer. */
@@ -1670,6 +1766,18 @@
 
 /* No comment provided by engineer. */
 "Save Copy to Photos" = "Сохранить копию в Фото";
+
+/* No comment provided by engineer. */
+"Save image" = "Сохранить изображение";
+
+/* No comment provided by engineer. */
+"Save image (1 remaining)" = "Сохранить изображение (остался 1)";
+
+/* No comment provided by engineer. */
+"Save image (2 remaining)" = "Сохранить изображение (осталось 2)";
+
+/* No comment provided by engineer. */
+"Save image (3 remaining)" = "Сохранить изображение (осталось 3)";
 
 /* No comment provided by engineer. */
 "Save linked files in iCloud to sync edits between your devices." = "Сохраняйте связанные файлы в iCloud, чтобы синхронизировать правки по всем вашим устройствам.";
@@ -1747,9 +1855,6 @@
 "Selected layer is locked, unlock it to edit." = "Выбранный слой заблокирован, для изменений разблокируйте его.";
 
 /* No comment provided by engineer. */
-"Selected Photos" = "Выбранные фото";
-
-/* No comment provided by engineer. */
 "Selective Color" = "Выбирающий цвет";
 
 /* No comment provided by engineer. */
@@ -1766,9 +1871,6 @@
 
 /* No comment provided by engineer. */
 "Settings" = "Настройки";
-
-/* No comment provided by engineer. */
-"SETTINGS" = "НАСТРОЙКИ";
 
 /* No comment provided by engineer. */
 "Shadow" = "Тень";
@@ -1790,9 +1892,6 @@
 
 /* Edit Menu */
 "Share Preset" = "Поделиться наборами настроек";
-
-/* No comment provided by engineer. */
-"Shared Albums" = "Общие альбомы";
 
 /* Effects category name
    Retouch Tools
@@ -1842,6 +1941,9 @@
 "Show Master Colors" = "Показать мастер-цвета";
 
 /* No comment provided by engineer. */
+"Show me around" = "Познакомьте меня";
+
+/* No comment provided by engineer. */
 "Show Original" = "Показать оригинал";
 
 /* No comment provided by engineer. */
@@ -1875,6 +1977,9 @@
 "Skew" = "Наклон";
 
 /* No comment provided by engineer. */
+"Skip overview" = "Пропустить обзор";
+
+/* No comment provided by engineer. */
 "Smooth textures" = "Сглаженные текстуры";
 
 /* Retouch Tools
@@ -1896,6 +2001,15 @@
 
 /* No comment provided by engineer. */
 "Some of the selected images could not be processed." = "Часть выбранных изображений не удалось обработать.";
+
+/* No comment provided by engineer. */
+"Something went wrong and Pixelmator Photo didn’t get access to show your notifications, so you won’t be notified about the end of your free trial." = "Что-то пошло не так: у Pixelmator Photo нет доступа, чтобы показать ваши уведомления, вы не будете уведомлены об окончании вашей бесплатной пробы.";
+
+/* No comment provided by engineer. */
+"Something went wrong while checking your previous purchases. Make sure you have an active internet connection, then try again. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Что-то пошло не так при проверке ваших прошлых покупок. Проверьте, что ваше интернет-соединение активно, затем попробуйте еще раз. Если эта ошибка повторяется, свяжитесь с нами и мы поможем вам. (Код ошибки: %i)";
+
+/* No comment provided by engineer. */
+"Something went wrong while showing the purchase view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Что-то пошло не так при отображении экрана покупки. Если эта ошибка повторяется, свяжитесь с нами и мы поможем вам. (Код ошибки: %i)";
 
 /* No comment provided by engineer. */
 "Source Atop" = "Источник наверху";
@@ -1923,6 +2037,9 @@
 
 /* Tool */
 "Star" = "Звезда";
+
+/* No comment provided by engineer. */
+"Start editing" = "Начать правку";
 
 /* No comment provided by engineer. */
 "Start Point" = "Начальная точка";
@@ -1961,6 +2078,9 @@
 "Stylize" = "Стилизовать";
 
 /* No comment provided by engineer. */
+"Subscribe to\nPixelmator Photo" = "Подписаться на\nPixelmator Photo";
+
+/* No comment provided by engineer. */
 "Subtract" = "Вычесть";
 
 /* Tool */
@@ -1988,6 +2108,18 @@
 "Take Photo" = "Сделать фото";
 
 /* No comment provided by engineer. */
+"Tap to get started" = "Коснитесь, чтобы начать";
+
+/* No comment provided by engineer. */
+"Tap\u{00a0}[ADJUSTMENTS] to change the colors and lighting of photos in just about any way you can imagine." = "Коснитесь\u{00a0}[ADJUSTMENTS], чтобы изменить цвета и освещение фотографий практически любым образом, который вы можете вообразить.";
+
+/* No comment provided by engineer. */
+"Tap\u{00a0}[MORE], then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "Коснитесь\u{00a0}[MORE], затем выберите Супер-разрешение, чтобы увеличить разрешение фото без нежелательного размытия.";
+
+/* No comment provided by engineer. */
+"Tap\u{00a0}[SUPER RESOLUTION] to increase the resolution of photos with no unwanted blurring." = "Коснитесь\u{00a0}[SUPER RESOLUTION], чтобы увеличить разрешение фото без нежелательного размытия.";
+
+/* No comment provided by engineer. */
 "Target Color" = "Целевой цвет";
 
 /* No comment provided by engineer. */
@@ -2001,7 +2133,13 @@
 "Texture" = "Текстура";
 
 /* No comment provided by engineer. */
+"That covers the basics – you’re ready to start editing your photos!" = "Это охватывает основы — вы готовы приступить к редактированию своих фото!";
+
+/* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "Наборы корректировок цвета были успешно импортированы.";
+
+/* No comment provided by engineer. */
+"The Files browser lets you open images saved on your device or other storage locations. To switch to the Photos browser, tap\u{00a0}[GEAR] and choose Photos." = "Файловый браузер позволяет вам открывать изображения, сохраненные на вашем устройстве, или в других местах хранения. Чтобы переключиться на браузер Фото, коснитесь\u{00a0}[GEAR] и выберите Фото.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "Изображение содержит несколько слоев (%@). Чтобы создать еще, уменьшите размер изображения.";
@@ -2102,11 +2240,23 @@
 /* No comment provided by engineer. */
 "Tint" = "Тон";
 
+/* No comment provided by engineer. */
+"Tips" = "Подсказки";
+
 /* from one color 'to' other color */
 "to" = "на";
 
 /* No comment provided by engineer. */
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "Чтобы начать пакетную правку фото, нажмите «Выбрать» в верхнем правом углу. Затем выберите фотографии и нажмите «Пакет» в панели инструментов. Наконец, просто выберите один из имеющихся пакетных процессов или создайте ваш собственный пакетный процесс и нажмите «Применить».";
+
+/* No comment provided by engineer. */
+"To purchase Pixelmator Photo, you need to be connected to the internet. You can check this in the Settings app, then try again." = "Для приобретения Pixelmator Photo необходимо наличие подключения к интернету. Вы можете проверить это в приложении Настроек, затем попробовать еще раз.";
+
+/* No comment provided by engineer. */
+"To use this feature, you’ll need to buy or subscribe to Pixelmator Photo, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Чтобы использовать эту функцию, вам необходимо купить Pixelmator Photo или подписаться на него, но при попытке показать экран покупок произошла ошибка. Если эта ошибка повторяется, свяжитесь с нами и мы поможем вам. (Код ошибки: %i)";
+
+/* No comment provided by engineer. */
+"To use this feature, you’ll need to purchase unlimited access to Pixelmator Photo, but it looks like you’re offline. To purchase, you’ll need to go online." = "Чтобы использовать эту функцию, вам необходимо приобрести неограниченный доступ к Pixelmator Photo, но кажется, что вы сейчас офлайн. Для покупки вам необходимо перейти в онлайн.";
 
 /* No comment provided by engineer. */
 "Tone" = "Тоновый";
@@ -2124,19 +2274,22 @@
 "Touch Size" = "Размер касания";
 
 /* No comment provided by engineer. */
-"Transient" = "Transient";
-
-/* No comment provided by engineer. */
 "Transition" = "Переход";
 
 /* Tool */
 "Trim Canvas" = "Подрезать холст";
+
+/* No comment provided by engineer. */
+"Try Again" = "Попробовать еще";
 
 /* Tool */
 "Twirl" = "Закручивание";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "Не удается получить доступ к справке";
+
+/* No comment provided by engineer. */
+"Unable to Check Purchases" = "Не удается проверить покупки";
 
 /* No comment provided by engineer. */
 "Unable to Export" = "Не удалось экспортировать";
@@ -2152,6 +2305,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Process" = "Не удается обработать";
+
+/* No comment provided by engineer. */
+"Unable to Register for Notifications" = "Не удается зарегистрироваться для уведомлений";
 
 /* No comment provided by engineer. */
 "Unable to Save" = "Не удается сохранить";
@@ -2204,6 +2360,9 @@
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "Маска слоя без названия";
+
+/* No comment provided by engineer. */
+"Upgrade to access the full image editing experience in Pixelmator Photo." = "Обновитесь, чтобы открыть доступ к полным возможностям редактирования изображения в Pixelmator Photo.";
 
 /* No comment provided by engineer. */
 "Use Apple Pencil to make edits using the Curves adjustment or the Repair tool even when no tool is selected." = "Используйте Apple Pencil, чтобы делать правки с помощью Curves adjustment или инструмента Repair, даже когда ни один инструмент не выбран.";
@@ -2290,6 +2449,9 @@
 "Workflows" = "Процессы";
 
 /* No comment provided by engineer. */
+"Would you like to be notified before your free trial is about to end?" = "Хотите получить уведомление до истечения вашей бесплатной пробы?";
+
+/* No comment provided by engineer. */
 "Yellow" = "Желтый";
 
 /* Color adjustments */
@@ -2297,6 +2459,18 @@
 
 /* No comment provided by engineer. */
 "You're Offline" = "Вы офлайн";
+
+/* No comment provided by engineer. */
+"Your 7-day trial has started!" = "Ваша 7-дн. проба началась!";
+
+/* No comment provided by engineer. */
+"Your free trial will end in 2 days. Explore Pixelmator Photo by editing a few of your photos!" = "Ваша беспл. проба закончится через 2 дня. Исследуйте возможности Pixelmator Photo, редактируя ваши фото!";
+
+/* No comment provided by engineer. */
+"You’re good to go" = "Вы готовы идти";
+
+/* No comment provided by engineer. */
+"You’re Offline" = "Вы офлайн";
 
 /* No comment provided by engineer. */
 "Zoom" = "Масштабирование";
