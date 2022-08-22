@@ -53,6 +53,9 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i Alternative Elements" = "%i Alternative Elements";
+
+/* No comment provided by engineer. */
 "%i Layers" = "%i 個圖層";
 
 /* No comment provided by engineer. */
@@ -66,6 +69,9 @@
 
 /* Scale */
 "0.5x" = "0.5x";
+
+/* No comment provided by engineer. */
+"1 Alternative Element" = "1 Alternative Element";
 
 /* No comment provided by engineer. */
 "1 Layer" = "1 個圖層";
@@ -212,6 +218,9 @@
 "Add to Shape" = "添加到形狀";
 
 /* No comment provided by engineer. */
+"Adjust Light Position" = "Adjust Light Position";
+
+/* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "調整顏色的亮度與飽和度。";
 
 /* No comment provided by engineer. */
@@ -225,6 +234,9 @@
 
 /* No comment provided by engineer. */
 "Adjustments" = "調整";
+
+/* No comment provided by engineer. */
+"Advance Video" = "Advance Video";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "仿射並排";
@@ -258,6 +270,12 @@
 
 /* No comment provided by engineer. */
 "Allow Access" = "允許存取";
+
+/* No comment provided by engineer. */
+"Alternative Element Setting" = "Alternative Element Setting";
+
+/* No comment provided by engineer. */
+"Ambient Light" = "Ambient Light";
 
 /* No comment provided by engineer. */
 "An unexpected error occurred." = "發生無法預期的錯誤。";
@@ -357,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "Autodesk SketchBook App Detected" = "偵測到 Autodesk SketchBook App";
+
+/* No comment provided by engineer. */
+"azimuth: %@, elevation: %@" = "azimuth: %1$@, elevation: %2$@";
 
 /* RGB blue component */
 "B" = "B";
@@ -485,7 +506,7 @@
 "Canvas Size" = "畫布大小";
 
 /* No comment provided by engineer. */
-"Capitalize" = "大寫字母";
+"Capitalization" = "大寫";
 
 /* No comment provided by engineer. */
 "Center" = "中央";
@@ -500,7 +521,13 @@
 "Change Blending Mode" = "更改混合模式";
 
 /* No comment provided by engineer. */
+"Change Capitalization" = "Change Capitalization";
+
+/* No comment provided by engineer. */
 "Change Color Adjustments" = "更改顏色調整";
+
+/* No comment provided by engineer. */
+"Change Document Colors" = "Change Document Colors";
 
 /* No comment provided by engineer. */
 "Change Effect" = "更改效果";
@@ -920,6 +947,12 @@
 "Default Effects" = "預設效果";
 
 /* No comment provided by engineer. */
+"Define as Alternative Element Group" = "Define as Alternative Element Group";
+
+/* No comment provided by engineer. */
+"Define as Placeholder" = "Define as Placeholder";
+
+/* No comment provided by engineer. */
 "Dehaze" = "除霾";
 
 /* No comment provided by engineer. */
@@ -1041,9 +1074,6 @@
 
 /* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "您要儲存對檔案「%@」所作的更動嗎」";
-
-/* No comment provided by engineer. */
-"Document Colors" = "文件顏色";
 
 /* No comment provided by engineer. */
 "Document Info Change" = "更改文字簡介";
@@ -1724,10 +1754,16 @@
 "Ligature" = "連字";
 
 /* No comment provided by engineer. */
+"Light" = "亮";
+
+/* No comment provided by engineer. */
 "Light Color" = "淺色";
 
 /* No comment provided by engineer. */
 "Light Destination" = "光照終點";
+
+/* No comment provided by engineer. */
+"Light Position" = "Light Position";
 
 /* No comment provided by engineer. */
 "Light Source" = "光源";
@@ -1811,9 +1847,6 @@
 "Make Editable" = "使可編輯";
 
 /* No comment provided by engineer. */
-"Make Lower Case" = "變為小寫";
-
-/* No comment provided by engineer. */
 "Make Path Editable" = "讓路徑可編輯";
 
 /* No comment provided by engineer. */
@@ -1821,9 +1854,6 @@
 
 /* No comment provided by engineer. */
 "Make Smooth Point" = "製作平滑點";
-
-/* No comment provided by engineer. */
-"Make Upper Case" = "變為大寫";
 
 /* No comment provided by engineer. */
 "Mask" = "遮罩";
@@ -1895,6 +1925,9 @@
 "ML Super Resolution Split Comparison" = "ML 超解析度分割比較";
 
 /* No comment provided by engineer. */
+"ML Super Resolution…" = "ML Super Resolution…";
+
+/* No comment provided by engineer. */
 "ML Unshake" = "ML 防手震";
 
 /* No comment provided by engineer. */
@@ -1956,6 +1989,9 @@
 
 /* No comment provided by engineer. */
 "Mustache" = "鬍子";
+
+/* No comment provided by engineer. */
+"My Shapes" = "My Shapes";
 
 /* No comment provided by engineer. */
 "New Collection" = "新集合";
@@ -2117,6 +2153,9 @@
 "Open System Preferences" = "打開系統偏好設定";
 
 /* No comment provided by engineer. */
+"Optimize & Export" = "Optimize & Export";
+
+/* No comment provided by engineer. */
 "Orientation" = "方向";
 
 /* No comment provided by engineer. */
@@ -2162,10 +2201,10 @@
 "Paste and ML Match Colors" = "貼上並使用 ML 匹配顏色";
 
 /* No comment provided by engineer. */
-"Paste Effects" = "貼上效果";
+"Paste Document Colors" = "貼上文件顏色";
 
 /* No comment provided by engineer. */
-"Paste Style" = "貼上樣式";
+"Paste Effects" = "貼上效果";
 
 /* No comment provided by engineer. */
 "Paste Styles" = "貼上樣式";
@@ -2262,6 +2301,12 @@
 
 /* No comment provided by engineer. */
 "pixels/inch" = "圖元∕英吋";
+
+/* No comment provided by engineer. */
+"Placeholder Layer" = "Placeholder Layer";
+
+/* No comment provided by engineer. */
+"Placeholder Setting" = "Placeholder Setting";
 
 /* No comment provided by engineer. */
 "Please try relaunching Pixelmator Pro." = "請試著重新啟動 Pixelmator Pro。";
@@ -2522,16 +2567,28 @@
 "Replace Fonts" = "取代字體";
 
 /* No comment provided by engineer. */
-"Replace Image" = "取代影像";
+"Replace from Files…" = "Replace from Files…";
 
 /* No comment provided by engineer. */
-"Replace Image…" = "取代影像⋯";
+"Replace from Photos…" = "Replace from Photos…";
+
+/* No comment provided by engineer. */
+"Replace Layer" = "Replace Layer";
 
 /* No comment provided by engineer. */
 "Replace Mask" = "取代遮罩";
 
 /* No comment provided by engineer. */
 "Replace Mask…" = "取代遮罩⋯";
+
+/* No comment provided by engineer. */
+"Replace Media" = "Replace Media";
+
+/* No comment provided by engineer. */
+"Replace Shape" = "Replace Shape";
+
+/* No comment provided by engineer. */
+"Replace Shape…" = "Replace Shape…";
 
 /* No comment provided by engineer. */
 "Replace Text" = "取代文字";
@@ -2666,6 +2723,12 @@
 "Rotate Image 90° Right" = "向右旋轉影像 90°";
 
 /* No comment provided by engineer. */
+"Rotate Scene" = "Rotate Scene";
+
+/* No comment provided by engineer. */
+"Round Text Font Sizes" = "Round Text Font Sizes";
+
+/* No comment provided by engineer. */
 "Rounded Rectangle" = "圓角矩形";
 
 /* No comment provided by engineer. */
@@ -2709,6 +2772,9 @@
 
 /* No comment provided by engineer. */
 "Save Flattened" = "儲存平坦";
+
+/* No comment provided by engineer. */
+"Save to My Shapes" = "Save to My Shapes";
 
 /* No comment provided by engineer. */
 "Save…" = "儲存⋯";
@@ -3087,6 +3153,12 @@
 
 /* No comment provided by engineer. */
 "Spacing Before" = "前端間距";
+
+/* No comment provided by engineer. */
+"Specular" = "Specular";
+
+/* No comment provided by engineer. */
+"Sphere" = "Sphere";
 
 /* No comment provided by engineer. */
 "Split Comparison" = "分割比較";
@@ -3470,7 +3542,7 @@
 "Workspace Layout" = "工作區布局";
 
 /* No comment provided by engineer. */
-"Workspace Preferences…" = "工作區偏好設定…";
+"Workspace Settings…" = "Workspace Settings…";
 
 /* No comment provided by engineer. */
 "Would you like to preserve these edits in your Photos library?" = "您想要在照片圖庫中保留這些編輯嗎？";
@@ -3482,10 +3554,16 @@
 "Would you like to upgrade this document?" = "您要升級此檔案嗎？";
 
 /* No comment provided by engineer. */
+"x: %@ y: %@, z: %@" = "x: %1$@ y: %2$@, z: %3$@";
+
+/* No comment provided by engineer. */
 "x: %@, y: %@" = "x: %1$@, y: %2$@";
 
 /* No comment provided by engineer. */
 "y:" = "y:";
+
+/* No comment provided by engineer. */
+"yaw: %@ pitch: %@, roll: %@" = "yaw: %1$@ pitch: %2$@, roll: %3$@";
 
 /* No comment provided by engineer. */
 "Yellow / Blue" = "黃色/藍色";
@@ -3513,6 +3591,9 @@
 
 /* No comment provided by engineer. */
 "Your trial period has now expired." = "您的試用版現已過期。";
+
+/* No comment provided by engineer. */
+"Zero Alternative Elements" = "Zero Alternative Elements";
 
 /* No comment provided by engineer. */
 "Zoom" = "縮放";
