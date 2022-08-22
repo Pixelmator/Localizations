@@ -53,6 +53,9 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i Alternative Elements" = "%i Alternative Elements";
+
+/* No comment provided by engineer. */
 "%i Layers" = "%i Layers";
 
 /* No comment provided by engineer. */
@@ -66,6 +69,9 @@
 
 /* Scale */
 "0.5x" = "0.5x";
+
+/* No comment provided by engineer. */
+"1 Alternative Element" = "1 Alternative Element";
 
 /* No comment provided by engineer. */
 "1 Layer" = "1 Layer";
@@ -212,6 +218,9 @@
 "Add to Shape" = "Add to Shape";
 
 /* No comment provided by engineer. */
+"Adjust Light Position" = "Adjust Light Position";
+
+/* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "Adjust the brightness and saturation of the color.";
 
 /* No comment provided by engineer. */
@@ -225,6 +234,9 @@
 
 /* No comment provided by engineer. */
 "Adjustments" = "Adjustments";
+
+/* No comment provided by engineer. */
+"Advance Video" = "Advance Video";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "Affine Tile";
@@ -258,6 +270,12 @@
 
 /* No comment provided by engineer. */
 "Allow Access" = "Allow Access";
+
+/* No comment provided by engineer. */
+"Alternative Element Setting" = "Alternative Element Setting";
+
+/* No comment provided by engineer. */
+"Ambient Light" = "Ambient Light";
 
 /* No comment provided by engineer. */
 "An unexpected error occurred." = "An unexpected error occurred.";
@@ -357,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "Autodesk SketchBook App Detected" = "Autodesk SketchBook App Detected";
+
+/* No comment provided by engineer. */
+"azimuth: %@, elevation: %@" = "azimuth: %1$@, elevation: %2$@";
 
 /* RGB blue component */
 "B" = "B";
@@ -485,7 +506,7 @@
 "Canvas Size" = "Canvas Size";
 
 /* No comment provided by engineer. */
-"Capitalize" = "Capitalize";
+"Capitalization" = "Capitalization";
 
 /* No comment provided by engineer. */
 "Center" = "Center";
@@ -500,7 +521,13 @@
 "Change Blending Mode" = "Change Blending Mode";
 
 /* No comment provided by engineer. */
+"Change Capitalization" = "Change Capitalization";
+
+/* No comment provided by engineer. */
 "Change Color Adjustments" = "Change Color Adjustments";
+
+/* No comment provided by engineer. */
+"Change Document Colors" = "Change Document Colors";
 
 /* No comment provided by engineer. */
 "Change Effect" = "Change Effect";
@@ -920,6 +947,12 @@
 "Default Effects" = "Default Effects";
 
 /* No comment provided by engineer. */
+"Define as Alternative Element Group" = "Define as Alternative Element Group";
+
+/* No comment provided by engineer. */
+"Define as Placeholder" = "Define as Placeholder";
+
+/* No comment provided by engineer. */
 "Dehaze" = "Dehaze";
 
 /* No comment provided by engineer. */
@@ -1041,9 +1074,6 @@
 
 /* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "Do you want to save the changes made to the document “%@”";
-
-/* No comment provided by engineer. */
-"Document Colors" = "Document Colors";
 
 /* No comment provided by engineer. */
 "Document Info Change" = "Document Info Change";
@@ -1724,10 +1754,16 @@
 "Ligature" = "Ligature";
 
 /* No comment provided by engineer. */
+"Light" = "Light";
+
+/* No comment provided by engineer. */
 "Light Color" = "Light Color";
 
 /* No comment provided by engineer. */
 "Light Destination" = "Light Destination";
+
+/* No comment provided by engineer. */
+"Light Position" = "Light Position";
 
 /* No comment provided by engineer. */
 "Light Source" = "Light Source";
@@ -1811,9 +1847,6 @@
 "Make Editable" = "Make Editable";
 
 /* No comment provided by engineer. */
-"Make Lower Case" = "Make Lower Case";
-
-/* No comment provided by engineer. */
 "Make Path Editable" = "Make Path Editable";
 
 /* No comment provided by engineer. */
@@ -1821,9 +1854,6 @@
 
 /* No comment provided by engineer. */
 "Make Smooth Point" = "Make Smooth Point";
-
-/* No comment provided by engineer. */
-"Make Upper Case" = "Make Upper Case";
 
 /* No comment provided by engineer. */
 "Mask" = "Mask";
@@ -1895,6 +1925,9 @@
 "ML Super Resolution Split Comparison" = "ML Super Resolution Split Comparison";
 
 /* No comment provided by engineer. */
+"ML Super Resolution…" = "ML Super Resolution…";
+
+/* No comment provided by engineer. */
 "ML Unshake" = "ML Unshake";
 
 /* No comment provided by engineer. */
@@ -1956,6 +1989,9 @@
 
 /* No comment provided by engineer. */
 "Mustache" = "Mustache";
+
+/* No comment provided by engineer. */
+"My Shapes" = "My Shapes";
 
 /* No comment provided by engineer. */
 "New Collection" = "New Collection";
@@ -2117,6 +2153,9 @@
 "Open System Preferences" = "Open System Preferences";
 
 /* No comment provided by engineer. */
+"Optimize & Export" = "Optimize & Export";
+
+/* No comment provided by engineer. */
 "Orientation" = "Orientation";
 
 /* No comment provided by engineer. */
@@ -2162,10 +2201,10 @@
 "Paste and ML Match Colors" = "Paste and ML Match Colors";
 
 /* No comment provided by engineer. */
-"Paste Effects" = "Paste Effects";
+"Paste Document Colors" = "Paste Document Colors";
 
 /* No comment provided by engineer. */
-"Paste Style" = "Paste Style";
+"Paste Effects" = "Paste Effects";
 
 /* No comment provided by engineer. */
 "Paste Styles" = "Paste Styles";
@@ -2262,6 +2301,12 @@
 
 /* No comment provided by engineer. */
 "pixels/inch" = "pixels/inch";
+
+/* No comment provided by engineer. */
+"Placeholder Layer" = "Placeholder Layer";
+
+/* No comment provided by engineer. */
+"Placeholder Setting" = "Placeholder Setting";
 
 /* No comment provided by engineer. */
 "Please try relaunching Pixelmator Pro." = "Please try relaunching Pixelmator Pro.";
@@ -2522,16 +2567,28 @@
 "Replace Fonts" = "Replace Fonts";
 
 /* No comment provided by engineer. */
-"Replace Image" = "Replace Image";
+"Replace from Files…" = "Replace from Files…";
 
 /* No comment provided by engineer. */
-"Replace Image…" = "Replace Image…";
+"Replace from Photos…" = "Replace from Photos…";
+
+/* No comment provided by engineer. */
+"Replace Layer" = "Replace Layer";
 
 /* No comment provided by engineer. */
 "Replace Mask" = "Replace Mask";
 
 /* No comment provided by engineer. */
 "Replace Mask…" = "Replace Mask…";
+
+/* No comment provided by engineer. */
+"Replace Media" = "Replace Media";
+
+/* No comment provided by engineer. */
+"Replace Shape" = "Replace Shape";
+
+/* No comment provided by engineer. */
+"Replace Shape…" = "Replace Shape…";
 
 /* No comment provided by engineer. */
 "Replace Text" = "Replace Text";
@@ -2666,6 +2723,12 @@
 "Rotate Image 90° Right" = "Rotate Image 90° Right";
 
 /* No comment provided by engineer. */
+"Rotate Scene" = "Rotate Scene";
+
+/* No comment provided by engineer. */
+"Round Text Font Sizes" = "Round Text Font Sizes";
+
+/* No comment provided by engineer. */
 "Rounded Rectangle" = "Rounded Rectangle";
 
 /* No comment provided by engineer. */
@@ -2709,6 +2772,9 @@
 
 /* No comment provided by engineer. */
 "Save Flattened" = "Save Flattened";
+
+/* No comment provided by engineer. */
+"Save to My Shapes" = "Save to My Shapes";
 
 /* No comment provided by engineer. */
 "Save…" = "Save…";
@@ -3087,6 +3153,12 @@
 
 /* No comment provided by engineer. */
 "Spacing Before" = "Spacing Before";
+
+/* No comment provided by engineer. */
+"Specular" = "Specular";
+
+/* No comment provided by engineer. */
+"Sphere" = "Sphere";
 
 /* No comment provided by engineer. */
 "Split Comparison" = "Split Comparison";
@@ -3470,7 +3542,7 @@
 "Workspace Layout" = "Workspace Layout";
 
 /* No comment provided by engineer. */
-"Workspace Preferences…" = "Workspace Preferences…";
+"Workspace Settings…" = "Workspace Settings…";
 
 /* No comment provided by engineer. */
 "Would you like to preserve these edits in your Photos library?" = "Would you like to preserve these edits in your Photos library?";
@@ -3482,10 +3554,16 @@
 "Would you like to upgrade this document?" = "Would you like to upgrade this document?";
 
 /* No comment provided by engineer. */
+"x: %@ y: %@, z: %@" = "x: %1$@ y: %2$@, z: %3$@";
+
+/* No comment provided by engineer. */
 "x: %@, y: %@" = "x: %1$@, y: %2$@";
 
 /* No comment provided by engineer. */
 "y:" = "y:";
+
+/* No comment provided by engineer. */
+"yaw: %@ pitch: %@, roll: %@" = "yaw: %1$@ pitch: %2$@, roll: %3$@";
 
 /* No comment provided by engineer. */
 "Yellow / Blue" = "Yellow / Blue";
@@ -3513,6 +3591,9 @@
 
 /* No comment provided by engineer. */
 "Your trial period has now expired." = "Your trial period has now expired.";
+
+/* No comment provided by engineer. */
+"Zero Alternative Elements" = "Zero Alternative Elements";
 
 /* No comment provided by engineer. */
 "Zoom" = "Zoom";
