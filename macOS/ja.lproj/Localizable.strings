@@ -53,6 +53,9 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i Alternative Elements" = "%i 代替要素";
+
+/* No comment provided by engineer. */
 "%i Layers" = "%iレイヤー";
 
 /* No comment provided by engineer. */
@@ -66,6 +69,9 @@
 
 /* Scale */
 "0.5x" = "0.5x";
+
+/* No comment provided by engineer. */
+"1 Alternative Element" = "1 代替要素";
 
 /* No comment provided by engineer. */
 "1 Layer" = "1レイヤー";
@@ -212,6 +218,9 @@
 "Add to Shape" = "シェイプに追加";
 
 /* No comment provided by engineer. */
+"Adjust Light Position" = "ライトの位置を調整";
+
+/* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "色の明るさと彩度を調整します。";
 
 /* No comment provided by engineer. */
@@ -225,6 +234,9 @@
 
 /* No comment provided by engineer. */
 "Adjustments" = "調整";
+
+/* No comment provided by engineer. */
+"Advance Video" = "アドバンスビデオ";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "アフィンタイル";
@@ -258,6 +270,12 @@
 
 /* No comment provided by engineer. */
 "Allow Access" = "アクセルを許可";
+
+/* No comment provided by engineer. */
+"Alternative Element Setting" = "代替要素の設定";
+
+/* No comment provided by engineer. */
+"Ambient Light" = "環境光";
 
 /* No comment provided by engineer. */
 "An unexpected error occurred." = "予期しないエラーが起きました。";
@@ -357,6 +375,9 @@
 
 /* No comment provided by engineer. */
 "Autodesk SketchBook App Detected" = "Autodesk SketchBook アプリが見つかりました";
+
+/* No comment provided by engineer. */
+"azimuth: %@, elevation: %@" = "方位: %1$@, 仰角: %2$@";
 
 /* RGB blue component */
 "B" = "B";
@@ -485,7 +506,7 @@
 "Canvas Size" = "キャンバスサイズ";
 
 /* No comment provided by engineer. */
-"Capitalize" = "後頭を大文字";
+"Capitalization" = "大文字の設定";
 
 /* No comment provided by engineer. */
 "Center" = "中央";
@@ -500,7 +521,13 @@
 "Change Blending Mode" = "ブレンドモードを変更";
 
 /* No comment provided by engineer. */
+"Change Capitalization" = "大文字の変更";
+
+/* No comment provided by engineer. */
 "Change Color Adjustments" = "カラー調整を変更";
+
+/* No comment provided by engineer. */
+"Change Document Colors" = "ドキュメントの色を変更";
 
 /* No comment provided by engineer. */
 "Change Effect" = "エフェクトを変更";
@@ -920,6 +947,12 @@
 "Default Effects" = "デフォルトエフェクト";
 
 /* No comment provided by engineer. */
+"Define as Alternative Element Group" = "代替要素グループとして定義";
+
+/* No comment provided by engineer. */
+"Define as Placeholder" = "プレースホルダーとして定義";
+
+/* No comment provided by engineer. */
 "Dehaze" = "かすみの除去";
 
 /* No comment provided by engineer. */
@@ -1041,9 +1074,6 @@
 
 /* No comment provided by engineer. */
 "Do you want to save the changes made to the document “%@”" = "書類“%@”への変更を保存しますか？";
-
-/* No comment provided by engineer. */
-"Document Colors" = "書類のカラー";
 
 /* No comment provided by engineer. */
 "Document Info Change" = "書類の情報を変更";
@@ -1724,10 +1754,16 @@
 "Ligature" = "リガチャ";
 
 /* No comment provided by engineer. */
+"Light" = "明るい";
+
+/* No comment provided by engineer. */
 "Light Color" = "ライトカラー";
 
 /* No comment provided by engineer. */
 "Light Destination" = "ライトの先";
+
+/* No comment provided by engineer. */
+"Light Position" = "ライトの位置";
 
 /* No comment provided by engineer. */
 "Light Source" = "ライトの元";
@@ -1811,9 +1847,6 @@
 "Make Editable" = "編集可能にする";
 
 /* No comment provided by engineer. */
-"Make Lower Case" = "すべて小文字";
-
-/* No comment provided by engineer. */
 "Make Path Editable" = "パスを編集可能にする";
 
 /* No comment provided by engineer. */
@@ -1821,9 +1854,6 @@
 
 /* No comment provided by engineer. */
 "Make Smooth Point" = "ポイントを滑らかにする";
-
-/* No comment provided by engineer. */
-"Make Upper Case" = "すべて大文字";
 
 /* No comment provided by engineer. */
 "Mask" = "マスク";
@@ -1895,6 +1925,9 @@
 "ML Super Resolution Split Comparison" = "ML 超解像分割比較";
 
 /* No comment provided by engineer. */
+"ML Super Resolution…" = "ML 超解像...";
+
+/* No comment provided by engineer. */
 "ML Unshake" = "ML 手ぶれ補正";
 
 /* No comment provided by engineer. */
@@ -1956,6 +1989,9 @@
 
 /* No comment provided by engineer. */
 "Mustache" = "口ひげ";
+
+/* No comment provided by engineer. */
+"My Shapes" = "マイシェイプ";
 
 /* No comment provided by engineer. */
 "New Collection" = "新規コレクション";
@@ -2117,6 +2153,9 @@
 "Open System Preferences" = "システム環境設定を開く";
 
 /* No comment provided by engineer. */
+"Optimize & Export" = "最適化 & 書き出し";
+
+/* No comment provided by engineer. */
 "Orientation" = "向き";
 
 /* No comment provided by engineer. */
@@ -2162,10 +2201,10 @@
 "Paste and ML Match Colors" = "ペーストしてML カラーマッチを適用";
 
 /* No comment provided by engineer. */
-"Paste Effects" = "エフェクトをペースト";
+"Paste Document Colors" = "書類のカラーをペースト";
 
 /* No comment provided by engineer. */
-"Paste Style" = "シェイプのスタイルをペースト";
+"Paste Effects" = "エフェクトをペースト";
 
 /* No comment provided by engineer. */
 "Paste Styles" = "スタイルをペースト";
@@ -2262,6 +2301,12 @@
 
 /* No comment provided by engineer. */
 "pixels/inch" = "ピクセル／インチ";
+
+/* No comment provided by engineer. */
+"Placeholder Layer" = "プレースホルダーレイヤー";
+
+/* No comment provided by engineer. */
+"Placeholder Setting" = "プレースホルダー設定";
 
 /* No comment provided by engineer. */
 "Please try relaunching Pixelmator Pro." = "Pixelmator Proを再起動してみてください。";
@@ -2522,16 +2567,28 @@
 "Replace Fonts" = "フォントを置き換え";
 
 /* No comment provided by engineer. */
-"Replace Image" = "画像を置き換え";
+"Replace from Files…" = "ファイルから置換…";
 
 /* No comment provided by engineer. */
-"Replace Image…" = "画像を置き換え…";
+"Replace from Photos…" = "写真から置き換え...";
+
+/* No comment provided by engineer. */
+"Replace Layer" = "レイヤーを置き換え";
 
 /* No comment provided by engineer. */
 "Replace Mask" = "マスクを置き換え";
 
 /* No comment provided by engineer. */
 "Replace Mask…" = "マスクを置き換え…";
+
+/* No comment provided by engineer. */
+"Replace Media" = "メディアを置き換え";
+
+/* No comment provided by engineer. */
+"Replace Shape" = "シェイプを置き換え";
+
+/* No comment provided by engineer. */
+"Replace Shape…" = "シェイプを置き換え...";
 
 /* No comment provided by engineer. */
 "Replace Text" = "テキストを置き換える";
@@ -2666,6 +2723,12 @@
 "Rotate Image 90° Right" = "画像を90°右に回転";
 
 /* No comment provided by engineer. */
+"Rotate Scene" = "シーンを回転";
+
+/* No comment provided by engineer. */
+"Round Text Font Sizes" = "テキストフォントのサイズを丸める";
+
+/* No comment provided by engineer. */
 "Rounded Rectangle" = "角丸長方形";
 
 /* No comment provided by engineer. */
@@ -2709,6 +2772,9 @@
 
 /* No comment provided by engineer. */
 "Save Flattened" = "最終画像で保存";
+
+/* No comment provided by engineer. */
+"Save to My Shapes" = "マイシェイプに保存";
 
 /* No comment provided by engineer. */
 "Save…" = "保存…";
@@ -3087,6 +3153,12 @@
 
 /* No comment provided by engineer. */
 "Spacing Before" = "前の間隔";
+
+/* No comment provided by engineer. */
+"Specular" = "鏡面反射";
+
+/* No comment provided by engineer. */
+"Sphere" = "球体";
 
 /* No comment provided by engineer. */
 "Split Comparison" = "分割比較";
@@ -3470,7 +3542,7 @@
 "Workspace Layout" = "ワークスペースのレイアウト";
 
 /* No comment provided by engineer. */
-"Workspace Preferences…" = "ワークスペース設定…";
+"Workspace Settings…" = "ワークスペース設定…";
 
 /* No comment provided by engineer. */
 "Would you like to preserve these edits in your Photos library?" = "これらの変更を写真ライブラリに保存しますか？";
@@ -3482,10 +3554,16 @@
 "Would you like to upgrade this document?" = "この書類をアップグレードしますか？";
 
 /* No comment provided by engineer. */
+"x: %@ y: %@, z: %@" = "x: %1$@ y: %2$@, z: %3$@";
+
+/* No comment provided by engineer. */
 "x: %@, y: %@" = "x: %1$@, y: %2$@";
 
 /* No comment provided by engineer. */
 "y:" = "y:";
+
+/* No comment provided by engineer. */
+"yaw: %@ pitch: %@, roll: %@" = "ヨー: %1$@ ピッチ: %2$@, ロール: %3$@";
 
 /* No comment provided by engineer. */
 "Yellow / Blue" = "イエロー/ブルー";
@@ -3513,6 +3591,9 @@
 
 /* No comment provided by engineer. */
 "Your trial period has now expired." = "試用期間は終了しました。";
+
+/* No comment provided by engineer. */
+"Zero Alternative Elements" = "代替要素なし";
 
 /* No comment provided by engineer. */
 "Zoom" = "拡大／縮小";
