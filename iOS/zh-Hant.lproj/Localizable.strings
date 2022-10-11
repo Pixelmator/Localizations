@@ -140,6 +140,9 @@
 "Allow Access to Photos" = "允許照片存取權";
 
 /* No comment provided by engineer. */
+"Ambient Light" = "環境燈";
+
+/* No comment provided by engineer. */
 "An Error Occurred" = "發生錯誤";
 
 /* No comment provided by engineer. */
@@ -159,6 +162,9 @@
 
 /* No comment provided by engineer. */
 "Apply" = "套用";
+
+/* No comment provided by engineer. */
+"Apply Custom LUT" = "套用自訂 LUT";
 
 /* No comment provided by engineer. */
 "Applying %@" = "套用 %@";
@@ -202,9 +208,6 @@
 
 /* No comment provided by engineer. */
 "Automatically improve the lighting and colors of a photo using AI by simply tapping [WAND]." = "點擊[WAND]，使用 AI 自動改善照片的光線和顏色。";
-
-/* No comment provided by engineer. */
-"Automatically remove camera noise and image compression artifacts from photos." = "自動移除照片中的相機雜訊和影像壓縮失真。";
 
 /* No comment provided by engineer. */
 "Background Color" = "背景顏色";
@@ -276,9 +279,6 @@
 "Bring to Front" = "移到最前";
 
 /* No comment provided by engineer. */
-"Browse and edit photos much faster with the all-new photo browser." = "使用全新的照片瀏覽器以更快的速度瀏覽並編輯照片。";
-
-/* No comment provided by engineer. */
 "BROWSER" = "瀏覽器";
 
 /* No comment provided by engineer. */
@@ -322,6 +322,9 @@
 
 /* Image open error */
 "Check your internet connection, then try again." = "請檢查您的網路連線，然後再試一次。";
+
+/* No comment provided by engineer. */
+"Choose Custom LUT..." = "Choose Custom LUT...";
 
 /* No comment provided by engineer. */
 "Choose Location" = "選擇位置";
@@ -406,6 +409,12 @@
 /* No comment provided by engineer. */
 "Contrast" = "對比度";
 
+/* No comment provided by engineer. */
+"Convert into Adjustments" = "Convert into Adjustments";
+
+/* No comment provided by engineer. */
+"Converting LUT into Adjustments…" = "正在將 LUT 轉換成調整⋯";
+
 /* Used in gallery document duplicate. */
 "copy" = "拷貝";
 
@@ -485,6 +494,9 @@
 
 /* No comment provided by engineer. */
 "Darks" = "深色";
+
+/* Edit Menu */
+"Decrease Size" = "縮小大小";
 
 /* No comment provided by engineer. */
 "Default" = "預設值";
@@ -698,6 +710,12 @@
 /* No comment provided by engineer. */
 "Editing…" = "正在編輯…";
 
+/* Raw image type identifier */
+"EDR" = "EDR";
+
+/* No comment provided by engineer. */
+"EDR Mode" = "EDR 模式";
+
 /* Tool */
 "Effects" = "效果";
 
@@ -757,6 +775,9 @@
 
 /* No comment provided by engineer. */
 "Export" = "匯出";
+
+/* No comment provided by engineer. */
+"Export as LUT" = "Export as LUT";
 
 /* No comment provided by engineer. */
 "Exposure" = "曝光";
@@ -1018,6 +1039,9 @@
 /* No comment provided by engineer. */
 "Increase Resolution" = "提升解析度";
 
+/* Edit Menu */
+"Increase Size" = "增加大小";
+
 /* No comment provided by engineer. */
 "Increasing Resolution…" = "正在提升解析度…";
 
@@ -1035,6 +1059,9 @@
 
 /* No comment provided by engineer. */
 "Insert from..." = "插入…";
+
+/* No comment provided by engineer. */
+"Instantly change the colors of images using color presets created in other apps." = "Instantly change the colors of images using color presets created in other apps.";
 
 /* No comment provided by engineer. */
 "Intensity" = "強度";
@@ -1082,6 +1109,9 @@
 "Levels" = "位準";
 
 /* No comment provided by engineer. */
+"Light" = "亮";
+
+/* No comment provided by engineer. */
 "Light Color" = "淺色";
 
 /* No comment provided by engineer. */
@@ -1089,6 +1119,9 @@
 
 /* No comment provided by engineer. */
 "Light Gray" = "亮灰色";
+
+/* No comment provided by engineer. */
+"Light Position" = "亮光位置";
 
 /* No comment provided by engineer. */
 "Light Source" = "光源";
@@ -1156,7 +1189,13 @@
 "Luminosity" = "明度";
 
 /* No comment provided by engineer. */
-"LUT" = "LUT";
+"LUT could not be exported." = "LUT could not be exported.";
+
+/* No comment provided by engineer. */
+"LUT into Adjustments" = "LUT into Adjustments";
+
+/* No comment provided by engineer. */
+"LUT support" = "LUT support";
 
 /* No comment provided by engineer. */
 "Magenta" = "洋紅";
@@ -1220,9 +1259,6 @@
 
 /* No comment provided by engineer. */
 "ML Crop" = "ML 裁切";
-
-/* No comment provided by engineer. */
-"ML Denoise" = "ML 降噪";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML 增強";
@@ -1322,6 +1358,9 @@
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "圖像上曲線";
+
+/* No comment provided by engineer. */
+"One or more LUTs may be damaged or not supported." = "One or more LUTs may be damaged or not supported.";
 
 /* No comment provided by engineer. */
 "Only Draw with Apple Pencil is Turned On" = "只有 Apple Pencil 啟用時才繪製";
@@ -1432,16 +1471,13 @@
 "Pixel Tool" = "圖元工具";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo 2.0 brings the full, desktop-class photo editing experience to iPhone." = "Pixelmator Photo 2.0 為您的 iPhone 帶來完整的桌機級照片編輯體驗。";
+"Pixelmator Photo 2.1 is now fully compatible with iOS 16." = "Pixelmator Photo 2.1 is now fully compatible with iOS 16.";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "Pixelmator Photo 現在可以在 iCloud 中儲存非破壞性編輯，以在裝置之間同步它們。您是否要開始將 iCloud 用於連結檔案並將所有現有檔案移動到那裡？";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Pixelmator Photo 使用照片 app 提供您強大的照片瀏覽器，因此需要照片庫的存取權限才能讓您瀏覽並編輯圖像。";
-
-/* No comment provided by engineer. */
-"Pixelmator Photo for iPhone" = "iPhone 版 Pixelmator Photo";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo 被拒絕訪問照片。請在「設定」中允許訪問。";
@@ -1460,6 +1496,9 @@
 
 /* Tool */
 "Polygon" = "多邊形";
+
+/* No comment provided by engineer. */
+"Position" = "位置";
 
 /* No comment provided by engineer. */
 "Powered by ML" = "由 ML 驅動";
@@ -1578,9 +1617,6 @@
 
 /* Edit Menu */
 "Redefine" = "重新定義";
-
-/* No comment provided by engineer. */
-"Redesigned Photo Browser" = "重新設計的照片瀏覽器";
 
 /* No comment provided by engineer. */
 "Redo" = "重作";
@@ -1713,6 +1749,9 @@
 "Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "回復照片原始解析度也會重置修復工具和去除雜訊的編輯內容。";
 
 /* No comment provided by engineer. */
+"Reveal in Files" = "Reveal in Files";
+
+/* No comment provided by engineer. */
 "Revert" = "還原";
 
 /* No comment provided by engineer. */
@@ -1843,9 +1882,6 @@
 "Select Row" = "選取行";
 
 /* No comment provided by engineer. */
-"Selected Adjustment" = "選擇的調整";
-
-/* No comment provided by engineer. */
 "Selected Color" = "選取顏色";
 
 /* No comment provided by engineer. */
@@ -1956,6 +1992,9 @@
 "Show Recents" = "顯示近期照片";
 
 /* No comment provided by engineer. */
+"Show Repair Size Slider" = "Show Repair Size Slider";
+
+/* No comment provided by engineer. */
 "Show Sliders" = "顯示滑桿";
 
 /* No comment provided by engineer. */
@@ -2024,6 +2063,12 @@
 "Source Out" = "源在外部";
 
 /* No comment provided by engineer. */
+"Specular" = "反射";
+
+/* No comment provided by engineer. */
+"Sphere" = "球形";
+
+/* No comment provided by engineer. */
 "Split Comparison" = "分割比較";
 
 /* No comment provided by engineer. */
@@ -2088,6 +2133,9 @@
 
 /* No comment provided by engineer. */
 "Support" = "支援";
+
+/* No comment provided by engineer. */
+"Support for iOS 16" = "支援 iOS 16";
 
 /* No comment provided by engineer. */
 "Switch between Photos library and Files" = "在照片圖庫和檔案間切換";
@@ -2282,6 +2330,12 @@
 /* No comment provided by engineer. */
 "Try Again" = "再試一次";
 
+/* No comment provided by engineer. */
+"Turn off EDR" = "Turn off EDR";
+
+/* No comment provided by engineer. */
+"Turn on EDR" = "Turn on EDR";
+
 /* Tool */
 "Twirl" = "旋轉";
 
@@ -2293,6 +2347,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Export" = "無法匯出";
+
+/* No comment provided by engineer. */
+"Unable to import as LUT" = "Unable to import as LUT";
 
 /* No comment provided by engineer. */
 "Unable to Match Colors" = "無法匹配顏色";
@@ -2339,6 +2396,9 @@
 
 /* No comment provided by engineer. */
 "Unlock %@" = "解鎖 %@";
+
+/* No comment provided by engineer. */
+"Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode.";
 
 /* No comment provided by engineer. */
 "Unnamed" = "未命名";
