@@ -324,7 +324,7 @@
 "Check your internet connection, then try again." = "インターネット接続を確認してやり直してください。";
 
 /* No comment provided by engineer. */
-"Choose Custom LUT..." = "Choose Custom LUT...";
+"Choose Custom LUT..." = "カスタムLUTを選択...";
 
 /* No comment provided by engineer. */
 "Choose Location" = "場所を選択";
@@ -410,7 +410,10 @@
 "Contrast" = "コントラスト";
 
 /* No comment provided by engineer. */
-"Convert into Adjustments" = "Convert into Adjustments";
+"Convert into Adjustments" = "調整に変換";
+
+/* No comment provided by engineer. */
+"Convert LUT into Adjustments" = "LUTを調整に変換する";
 
 /* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUTを調整に変換しています…";
@@ -777,7 +780,7 @@
 "Export" = "書き出す";
 
 /* No comment provided by engineer. */
-"Export as LUT" = "Export as LUT";
+"Export as LUT" = "LUTで書き出す";
 
 /* No comment provided by engineer. */
 "Exposure" = "露光量";
@@ -1061,7 +1064,7 @@
 "Insert from..." = "次から挿入…";
 
 /* No comment provided by engineer. */
-"Instantly change the colors of images using color presets created in other apps." = "Instantly change the colors of images using color presets created in other apps.";
+"Instantly change the colors of images using color presets created in other apps." = "他のアプリで作成されたカラープリセットを使用して、画像の色を即座に変更します。";
 
 /* No comment provided by engineer. */
 "Intensity" = "強度";
@@ -1189,13 +1192,10 @@
 "Luminosity" = "輝度";
 
 /* No comment provided by engineer. */
-"LUT could not be exported." = "LUT could not be exported.";
+"LUT could not be exported." = "LUTを書き出せません。";
 
 /* No comment provided by engineer. */
-"LUT into Adjustments" = "LUT into Adjustments";
-
-/* No comment provided by engineer. */
-"LUT support" = "LUT support";
+"LUT support" = "LUTサポート";
 
 /* No comment provided by engineer. */
 "Magenta" = "マゼンタ";
@@ -1360,7 +1360,7 @@
 "On-Image Curves" = "画像上の曲線";
 
 /* No comment provided by engineer. */
-"One or more LUTs may be damaged or not supported." = "One or more LUTs may be damaged or not supported.";
+"One or more LUTs may be damaged or not supported." = "1つ以上のLUTが破損しているか、サポートされていない可能性があります。";
 
 /* No comment provided by engineer. */
 "Only Draw with Apple Pencil is Turned On" = "Apple Pencilでの描画のみがオン";
@@ -1471,7 +1471,7 @@
 "Pixel Tool" = "ピクセルツール";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo 2.1 is now fully compatible with iOS 16." = "Pixelmator Photo 2.1 is now fully compatible with iOS 16.";
+"Pixelmator Photo 2.1 is now fully compatible with iOS 16." = "Pixelmator 2.1はiOS 16と完全な互換性があります。";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "Pixelmator Photoは、オリジナル画像を破壊しない編集内容をiCloudに保存して、デバイス間で同期できるようになりました。リンクされたファイルに対してiCloudの使用を開始して、既存のファイルすべてをそこに移動しますか？";
@@ -1749,7 +1749,7 @@
 "Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "この写真の元の解像度を復元すると、修復ツールとノイズ除去で行われた編集もリセットされます。";
 
 /* No comment provided by engineer. */
-"Reveal in Files" = "Reveal in Files";
+"Reveal in Files" = "ファイルに表示";
 
 /* No comment provided by engineer. */
 "Revert" = "元に戻す";
@@ -1992,7 +1992,7 @@
 "Show Recents" = "最近を表示";
 
 /* No comment provided by engineer. */
-"Show Repair Size Slider" = "Show Repair Size Slider";
+"Show Repair Size Slider" = "修復サイズスライダーを表示";
 
 /* No comment provided by engineer. */
 "Show Sliders" = "スライダーを表示";
@@ -2331,10 +2331,10 @@
 "Try Again" = "再試行する";
 
 /* No comment provided by engineer. */
-"Turn off EDR" = "Turn off EDR";
+"Turn off EDR" = "EDRをオフ";
 
 /* No comment provided by engineer. */
-"Turn on EDR" = "Turn on EDR";
+"Turn on EDR" = "EDRをオン";
 
 /* Tool */
 "Twirl" = "回転";
@@ -2349,7 +2349,7 @@
 "Unable to Export" = "書き出せません";
 
 /* No comment provided by engineer. */
-"Unable to import as LUT" = "Unable to import as LUT";
+"Unable to import as LUT" = "LUTとして読み込めません";
 
 /* No comment provided by engineer. */
 "Unable to Match Colors" = "色を一致させることができません";
@@ -2398,7 +2398,7 @@
 "Unlock %@" = "%@のロックを解除";
 
 /* No comment provided by engineer. */
-"Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode.";
+"Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "新しい拡張ダイナミックレンジモードで新しいRAW編集ワークフローのロックを解除";
 
 /* No comment provided by engineer. */
 "Unnamed" = "名称未設定";
