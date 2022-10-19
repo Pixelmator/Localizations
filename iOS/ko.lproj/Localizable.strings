@@ -140,6 +140,9 @@
 "Allow Access to Photos" = "사진 접근 권한 허용";
 
 /* No comment provided by engineer. */
+"Ambient Light" = "주변 광원";
+
+/* No comment provided by engineer. */
 "An Error Occurred" = "오류가 발생했습니다";
 
 /* No comment provided by engineer. */
@@ -159,6 +162,9 @@
 
 /* No comment provided by engineer. */
 "Apply" = "적용";
+
+/* No comment provided by engineer. */
+"Apply Custom LUT" = "사용자 정의 LUT 적용";
 
 /* No comment provided by engineer. */
 "Applying %@" = "%@ 적용 중";
@@ -202,9 +208,6 @@
 
 /* No comment provided by engineer. */
 "Automatically improve the lighting and colors of a photo using AI by simply tapping [WAND]." = "[WAND]를 탭하기만 하면 인공 지능을 사용해 사진의 밝기와 색상을 자동으로 향상시킵니다.";
-
-/* No comment provided by engineer. */
-"Automatically remove camera noise and image compression artifacts from photos." = "사진에서 카메라 노이즈 및 이미지 압축 아티팩트를 자동으로 제거합니다.";
 
 /* No comment provided by engineer. */
 "Background Color" = "배경색";
@@ -276,9 +279,6 @@
 "Bring to Front" = "맨 앞으로 가져오기";
 
 /* No comment provided by engineer. */
-"Browse and edit photos much faster with the all-new photo browser." = "새로운 사진 브라우저로 더 빠르게 사진을 탐색하고 편집하세요.";
-
-/* No comment provided by engineer. */
 "BROWSER" = "브라우저";
 
 /* No comment provided by engineer. */
@@ -322,6 +322,9 @@
 
 /* Image open error */
 "Check your internet connection, then try again." = "인터넷 연결 상태를 확인하신 후 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Choose Custom LUT..." = "사용자 정의 LUT 선택...";
 
 /* No comment provided by engineer. */
 "Choose Location" = "위치 선택";
@@ -406,6 +409,15 @@
 /* No comment provided by engineer. */
 "Contrast" = "대비";
 
+/* No comment provided by engineer. */
+"Convert into Adjustments" = "조정으로 변환";
+
+/* No comment provided by engineer. */
+"Convert LUT into Adjustments" = "LUT를 조정으로 변환";
+
+/* No comment provided by engineer. */
+"Converting LUT into Adjustments…" = "LUT를 조정으로 변환 중…";
+
 /* Used in gallery document duplicate. */
 "copy" = "복사본";
 
@@ -485,6 +497,9 @@
 
 /* No comment provided by engineer. */
 "Darks" = "어두운 색상";
+
+/* Edit Menu */
+"Decrease Size" = "크기 줄이기";
 
 /* No comment provided by engineer. */
 "Default" = "기본";
@@ -698,6 +713,12 @@
 /* No comment provided by engineer. */
 "Editing…" = "편집 중…";
 
+/* Raw image type identifier */
+"EDR" = "EDR";
+
+/* No comment provided by engineer. */
+"EDR Mode" = "EDR 모드";
+
 /* Tool */
 "Effects" = "효과";
 
@@ -757,6 +778,9 @@
 
 /* No comment provided by engineer. */
 "Export" = "내보내기";
+
+/* No comment provided by engineer. */
+"Export as LUT" = "LUT로 내보내기";
 
 /* No comment provided by engineer. */
 "Exposure" = "노출";
@@ -1018,6 +1042,9 @@
 /* No comment provided by engineer. */
 "Increase Resolution" = "해상도 올리기";
 
+/* Edit Menu */
+"Increase Size" = "크기 늘리기";
+
 /* No comment provided by engineer. */
 "Increasing Resolution…" = "해상도를 늘리는 중…";
 
@@ -1035,6 +1062,9 @@
 
 /* No comment provided by engineer. */
 "Insert from..." = "다음에서 삽입…";
+
+/* No comment provided by engineer. */
+"Instantly change the colors of images using color presets created in other apps." = "다른 앱에서 생성된 색상 프리셋을 사용하여 이미지의 색상을 즉시 변경합니다.";
 
 /* No comment provided by engineer. */
 "Intensity" = "강도";
@@ -1082,6 +1112,9 @@
 "Levels" = "레벨";
 
 /* No comment provided by engineer. */
+"Light" = "밝음";
+
+/* No comment provided by engineer. */
 "Light Color" = "라이트 색상";
 
 /* No comment provided by engineer. */
@@ -1089,6 +1122,9 @@
 
 /* No comment provided by engineer. */
 "Light Gray" = "연한 회색";
+
+/* No comment provided by engineer. */
+"Light Position" = "라이트 위치";
 
 /* No comment provided by engineer. */
 "Light Source" = "라이트 소스";
@@ -1156,7 +1192,10 @@
 "Luminosity" = "광도";
 
 /* No comment provided by engineer. */
-"LUT" = "LUT";
+"LUT could not be exported." = "LUT를 내보내지 못했습니다.";
+
+/* No comment provided by engineer. */
+"LUT support" = "LUT 지원";
 
 /* No comment provided by engineer. */
 "Magenta" = "마젠타색";
@@ -1220,9 +1259,6 @@
 
 /* No comment provided by engineer. */
 "ML Crop" = "ML 자르기";
-
-/* No comment provided by engineer. */
-"ML Denoise" = "ML 노이즈 제거";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML 향상";
@@ -1322,6 +1358,9 @@
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "이미지상 곡선";
+
+/* No comment provided by engineer. */
+"One or more LUTs may be damaged or not supported." = "하나 이상의 LUT가 손상되었거나 지원되지 않습니다.";
 
 /* No comment provided by engineer. */
 "Only Draw with Apple Pencil is Turned On" = "'Apple Pencil로만 그리기'가 켜져 있습니다";
@@ -1432,16 +1471,13 @@
 "Pixel Tool" = "픽셀 도구";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo 2.0 brings the full, desktop-class photo editing experience to iPhone." = "Pixelmator Photo 2.0은 iPhone에 완전한 데스크톱 수준 사진 편집 경험을 도입합니다.";
+"Pixelmator Photo 2.1 is now fully compatible with iOS 16." = "Pixelmator Photo 2.1은 이제 iOS 16과 완벽히 호환됩니다.";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "Pixelmator Photo는 이제 iCloud에 비파괴적 편집본을 저장하여 장치 간에 동기화할 수 있습니다. 링크된 파일에 대해 iCloud를 사용하고 기존의 모든 파일을 그곳으로 이동하시겠습니까?";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Pixelmator Photo는 '사진'에 기반하여 믿기 어려울 정도로 강력한 브라우저를 제공하며, 이미지를 탐색하고 편집하려면 보관함 액세스 권한이 필요합니다.";
-
-/* No comment provided by engineer. */
-"Pixelmator Photo for iPhone" = "iPhone용 Pixelmator Photo";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo에 대해 사진 접근이 거부되었습니다. 설정에서 접근을 허용하세요.";
@@ -1460,6 +1496,9 @@
 
 /* Tool */
 "Polygon" = "다각형";
+
+/* No comment provided by engineer. */
+"Position" = "위치";
 
 /* No comment provided by engineer. */
 "Powered by ML" = "ML 기술 사용";
@@ -1578,9 +1617,6 @@
 
 /* Edit Menu */
 "Redefine" = "재정의";
-
-/* No comment provided by engineer. */
-"Redesigned Photo Browser" = "새롭게 개편된 사진 브라우저";
 
 /* No comment provided by engineer. */
 "Redo" = "다시 실행";
@@ -1713,6 +1749,9 @@
 "Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "이 사진의 원래 해상도를 복원하면 복구 도구 및 노이즈 제거로 수행한 편집 내용도 재설정됩니다.";
 
 /* No comment provided by engineer. */
+"Reveal in Files" = "파일에서 나타내기";
+
+/* No comment provided by engineer. */
 "Revert" = "복귀";
 
 /* No comment provided by engineer. */
@@ -1843,9 +1882,6 @@
 "Select Row" = "행 선택";
 
 /* No comment provided by engineer. */
-"Selected Adjustment" = "선택한 조정";
-
-/* No comment provided by engineer. */
 "Selected Color" = "선택된 색";
 
 /* No comment provided by engineer. */
@@ -1956,6 +1992,9 @@
 "Show Recents" = "최근 사용 보기";
 
 /* No comment provided by engineer. */
+"Show Repair Size Slider" = "복구 크기 슬라이더 표시";
+
+/* No comment provided by engineer. */
 "Show Sliders" = "슬라이더 표시";
 
 /* No comment provided by engineer. */
@@ -2024,6 +2063,12 @@
 "Source Out" = "원본 밖";
 
 /* No comment provided by engineer. */
+"Specular" = "반사";
+
+/* No comment provided by engineer. */
+"Sphere" = "구";
+
+/* No comment provided by engineer. */
 "Split Comparison" = "분할 비교";
 
 /* No comment provided by engineer. */
@@ -2088,6 +2133,9 @@
 
 /* No comment provided by engineer. */
 "Support" = "지원";
+
+/* No comment provided by engineer. */
+"Support for iOS 16" = "iOS 16 지원";
 
 /* No comment provided by engineer. */
 "Switch between Photos library and Files" = "사진 보관함 및 파일 간 전환";
@@ -2282,6 +2330,12 @@
 /* No comment provided by engineer. */
 "Try Again" = "다시 시도";
 
+/* No comment provided by engineer. */
+"Turn off EDR" = "EDR 비활성화";
+
+/* No comment provided by engineer. */
+"Turn on EDR" = "EDR 활성화";
+
 /* Tool */
 "Twirl" = "휘감기";
 
@@ -2293,6 +2347,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Export" = "내보낼 수 없습니다";
+
+/* No comment provided by engineer. */
+"Unable to import as LUT" = "LUT로 가져올 수 없습니다.";
 
 /* No comment provided by engineer. */
 "Unable to Match Colors" = "색상을 일치시킬 수 없습니다";
@@ -2339,6 +2396,9 @@
 
 /* No comment provided by engineer. */
 "Unlock %@" = "%@ 잠금 해제";
+
+/* No comment provided by engineer. */
+"Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "새로운 확장 동적 범위 모드를 사용해 새로운 RAW 편집 워크플로를 잠금 해제합니다.";
 
 /* No comment provided by engineer. */
 "Unnamed" = "이름 없음";

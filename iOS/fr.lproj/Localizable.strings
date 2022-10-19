@@ -140,6 +140,9 @@
 "Allow Access to Photos" = "Autoriser l’accès aux photos";
 
 /* No comment provided by engineer. */
+"Ambient Light" = "Lumière ambiante";
+
+/* No comment provided by engineer. */
 "An Error Occurred" = "Une erreur s’est produite";
 
 /* No comment provided by engineer. */
@@ -159,6 +162,9 @@
 
 /* No comment provided by engineer. */
 "Apply" = "Appliquer";
+
+/* No comment provided by engineer. */
+"Apply Custom LUT" = "Appliquer une LUT personnalisée";
 
 /* No comment provided by engineer. */
 "Applying %@" = "Application de %@";
@@ -202,9 +208,6 @@
 
 /* No comment provided by engineer. */
 "Automatically improve the lighting and colors of a photo using AI by simply tapping [WAND]." = "Améliorez automatiquement l'éclairage et les couleurs d'une photo grâce à l'IA en appuyant simplement sur [WAND].";
-
-/* No comment provided by engineer. */
-"Automatically remove camera noise and image compression artifacts from photos." = "Supprimez automatiquement le bruit de l'appareil et les autres artefacts non désirés de vos photos.";
 
 /* No comment provided by engineer. */
 "Background Color" = "Couleur d’arrière-plan";
@@ -276,9 +279,6 @@
 "Bring to Front" = "Placer au premier plan";
 
 /* No comment provided by engineer. */
-"Browse and edit photos much faster with the all-new photo browser." = "Parcourez et modifiez vos photos beaucoup plus rapidement grâce au tout nouveau navigateur photo.";
-
-/* No comment provided by engineer. */
 "BROWSER" = "NAVIGATEUR";
 
 /* No comment provided by engineer. */
@@ -322,6 +322,9 @@
 
 /* Image open error */
 "Check your internet connection, then try again." = "Vérifiez votre connexion internet, puis réessayez.";
+
+/* No comment provided by engineer. */
+"Choose Custom LUT..." = "Choisissez une LUT personnalisée...";
 
 /* No comment provided by engineer. */
 "Choose Location" = "Choisir un emplacement";
@@ -406,6 +409,15 @@
 /* No comment provided by engineer. */
 "Contrast" = "Contraste";
 
+/* No comment provided by engineer. */
+"Convert into Adjustments" = "Convertir en ajustements";
+
+/* No comment provided by engineer. */
+"Convert LUT into Adjustments" = "Convertir LUT en Réglages";
+
+/* No comment provided by engineer. */
+"Converting LUT into Adjustments…" = "Conversion de LUT en Réglages…";
+
 /* Used in gallery document duplicate. */
 "copy" = "copie";
 
@@ -485,6 +497,9 @@
 
 /* No comment provided by engineer. */
 "Darks" = "Sombres";
+
+/* Edit Menu */
+"Decrease Size" = "Diminuer la taille";
 
 /* No comment provided by engineer. */
 "Default" = "Par défaut";
@@ -698,6 +713,12 @@
 /* No comment provided by engineer. */
 "Editing…" = "Modification…";
 
+/* Raw image type identifier */
+"EDR" = "EDR";
+
+/* No comment provided by engineer. */
+"EDR Mode" = "Mode GDE";
+
 /* Tool */
 "Effects" = "Effets";
 
@@ -757,6 +778,9 @@
 
 /* No comment provided by engineer. */
 "Export" = "Exporter";
+
+/* No comment provided by engineer. */
+"Export as LUT" = "Exporter au format LUT";
 
 /* No comment provided by engineer. */
 "Exposure" = "Exposition";
@@ -1018,6 +1042,9 @@
 /* No comment provided by engineer. */
 "Increase Resolution" = "Améliorer la résolution";
 
+/* Edit Menu */
+"Increase Size" = "Augmenter la taille";
+
 /* No comment provided by engineer. */
 "Increasing Resolution…" = "Amélioration de la résolution…";
 
@@ -1035,6 +1062,9 @@
 
 /* No comment provided by engineer. */
 "Insert from..." = "Insérer depuis…";
+
+/* No comment provided by engineer. */
+"Instantly change the colors of images using color presets created in other apps." = "Modifiez instantanément les couleurs des images en utilisant des préréglages de couleurs créés dans d'autres applications.";
 
 /* No comment provided by engineer. */
 "Intensity" = "Intensité";
@@ -1082,6 +1112,9 @@
 "Levels" = "Niveaux";
 
 /* No comment provided by engineer. */
+"Light" = "Clair";
+
+/* No comment provided by engineer. */
 "Light Color" = "Couleur claire";
 
 /* No comment provided by engineer. */
@@ -1089,6 +1122,9 @@
 
 /* No comment provided by engineer. */
 "Light Gray" = "Gris clair";
+
+/* No comment provided by engineer. */
+"Light Position" = "Position de la lumière";
 
 /* No comment provided by engineer. */
 "Light Source" = "Source de lumière";
@@ -1156,7 +1192,10 @@
 "Luminosity" = "Luminosité";
 
 /* No comment provided by engineer. */
-"LUT" = "LUT";
+"LUT could not be exported." = "La LUT n'a pas pu être exportée.";
+
+/* No comment provided by engineer. */
+"LUT support" = "Prise en charge de LUT";
 
 /* No comment provided by engineer. */
 "Magenta" = "Magenta";
@@ -1220,9 +1259,6 @@
 
 /* No comment provided by engineer. */
 "ML Crop" = "Rognage ML";
-
-/* No comment provided by engineer. */
-"ML Denoise" = "Suppression du bruit ML";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "Amélioration ML";
@@ -1322,6 +1358,9 @@
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "Courbes sur l’image";
+
+/* No comment provided by engineer. */
+"One or more LUTs may be damaged or not supported." = "Une ou plusieurs LUT peuvent être endommagées ou non prises en charge.";
 
 /* No comment provided by engineer. */
 "Only Draw with Apple Pencil is Turned On" = "Seul Dessiner avec Apple Pencil est activé";
@@ -1432,16 +1471,13 @@
 "Pixel Tool" = "Outil pixel";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo 2.0 brings the full, desktop-class photo editing experience to iPhone." = "Pixelmator Photo 2.0 offre une expérience complète d’édition de photos comme sur ordinateur, mais sur iPhone.";
+"Pixelmator Photo 2.1 is now fully compatible with iOS 16." = "Pixelmator Photo 2.1 est désormais entièrement compatible avec iOS 16.";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "Pixelmator Photo peut maintenant enregistrer les modifications non-destructives dans iCloud pour les synchroniser entre appareils. Voulez-vous commencer à utiliser iCloud pour les fichiers liés et y déplacer tous vos fichiers existants ?";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Pixelmator Photo dispose d'un navigateur incroyablement puissant alimenté par Photos et a besoin d'un accès à la bibliothèque pour vous permettre de parcourir et de modifier les images.";
-
-/* No comment provided by engineer. */
-"Pixelmator Photo for iPhone" = "Pixelmator Photo pour iPhone";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo n’a pas obtenu l’accès aux Photos. Veuillez autoriser l’accès dans les Paramètres.";
@@ -1460,6 +1496,9 @@
 
 /* Tool */
 "Polygon" = "Polygone";
+
+/* No comment provided by engineer. */
+"Position" = "Position";
 
 /* No comment provided by engineer. */
 "Powered by ML" = "Fonctionne avec ML";
@@ -1578,9 +1617,6 @@
 
 /* Edit Menu */
 "Redefine" = "Redéfinir";
-
-/* No comment provided by engineer. */
-"Redesigned Photo Browser" = "Navigateur photo retravaillé";
 
 /* No comment provided by engineer. */
 "Redo" = "Rétablir";
@@ -1713,6 +1749,9 @@
 "Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "Restaurer la résolution originale de cette photo va également réinitialiser les modifications faites avec l’outil de Réparation et la suppression du bruit.";
 
 /* No comment provided by engineer. */
+"Reveal in Files" = "Révéler dans les fichiers";
+
+/* No comment provided by engineer. */
 "Revert" = "Revenir";
 
 /* No comment provided by engineer. */
@@ -1843,9 +1882,6 @@
 "Select Row" = "Sélectionner la ligne";
 
 /* No comment provided by engineer. */
-"Selected Adjustment" = "Ajustement sélectionné";
-
-/* No comment provided by engineer. */
 "Selected Color" = "Sélectionner la couleur";
 
 /* No comment provided by engineer. */
@@ -1956,6 +1992,9 @@
 "Show Recents" = "Afficher les photos récentes";
 
 /* No comment provided by engineer. */
+"Show Repair Size Slider" = "Afficher le curseur de taille de réparation";
+
+/* No comment provided by engineer. */
 "Show Sliders" = "Afficher les curseurs";
 
 /* No comment provided by engineer. */
@@ -2024,6 +2063,12 @@
 "Source Out" = "Source à l’extérieur";
 
 /* No comment provided by engineer. */
+"Specular" = "Spéculaire";
+
+/* No comment provided by engineer. */
+"Sphere" = "Sphère";
+
+/* No comment provided by engineer. */
 "Split Comparison" = "Comparaison en vue partagée";
 
 /* No comment provided by engineer. */
@@ -2088,6 +2133,9 @@
 
 /* No comment provided by engineer. */
 "Support" = "Assistance";
+
+/* No comment provided by engineer. */
+"Support for iOS 16" = "Prise en charge d'iOS 16";
 
 /* No comment provided by engineer. */
 "Switch between Photos library and Files" = "Alterner entre bibliothèque Photos et Fichiers";
@@ -2282,6 +2330,12 @@
 /* No comment provided by engineer. */
 "Try Again" = "Réessayer";
 
+/* No comment provided by engineer. */
+"Turn off EDR" = "Désactiver l'EDR";
+
+/* No comment provided by engineer. */
+"Turn on EDR" = "Activer l'EDR";
+
 /* Tool */
 "Twirl" = "Tourbillon";
 
@@ -2293,6 +2347,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Export" = "Impossible d’exporter";
+
+/* No comment provided by engineer. */
+"Unable to import as LUT" = "Impossible d'importer en tant que LUT";
 
 /* No comment provided by engineer. */
 "Unable to Match Colors" = "Impossible de faire correspondre les couleurs";
@@ -2339,6 +2396,9 @@
 
 /* No comment provided by engineer. */
 "Unlock %@" = "Déverrouiller %@";
+
+/* No comment provided by engineer. */
+"Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "Débloquez de nouveaux flux de travail de modification RAW avec le nouveau mode de plage dynamique étendue.";
 
 /* No comment provided by engineer. */
 "Unnamed" = "Sans nom";
