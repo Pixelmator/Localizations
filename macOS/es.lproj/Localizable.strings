@@ -26,6 +26,9 @@
 "%@ layers" = "%@ capas";
 
 /* No comment provided by engineer. */
+"%@ Live Photo" = "%@ Live Photo";
+
+/* No comment provided by engineer. */
 "%@ mm" = "%@ mm";
 
 /* Exposure time in seconds */
@@ -164,6 +167,9 @@
 "Add a Keyword" = "Añadir una palabra clave";
 
 /* No comment provided by engineer. */
+"Add and edit video layers just like you edit images using all the familiar image editing tools in Pixelmator Pro. " = "Add and edit video layers just like you edit images using all the familiar image editing tools in Pixelmator Pro. ";
+
+/* No comment provided by engineer. */
 "Add Color" = "Añadir color";
 
 /* No comment provided by engineer. */
@@ -221,13 +227,13 @@
 "Adjust the overall balance of colors in the image." = "Ajusta el balance general de colores de la imagen.";
 
 /* No comment provided by engineer. */
-"Adjust the radius of individual corners and use the new smooth corner style." = "Ajusta el radio de cada esquina y usa el nuevo estilo de esquina suavizada.";
-
-/* No comment provided by engineer. */
 "Adjust the transparency of the color." = "Ajusta la transparencia del color.";
 
 /* No comment provided by engineer. */
 "Adjustments" = "Ajustes";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Ajustes avanzados";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "Mosaico afín";
@@ -254,13 +260,7 @@
 "Align Vertical Centers" = "Alinear los centros verticales";
 
 /* No comment provided by engineer. */
-"All" = "Todo";
-
-/* No comment provided by engineer. */
 "All rights reserved." = "Todos los derechos reservados.";
-
-/* No comment provided by engineer. */
-"All Templates" = "Todas las plantillas";
 
 /* No comment provided by engineer. */
 "Allow Access" = "Permitir acceso";
@@ -288,6 +288,9 @@
 
 /* No comment provided by engineer. */
 "Angle: %@" = "Ángulo: %@";
+
+/* Refers to the appearance (dark or light) of the app. */
+"Appearance" = "Appearance";
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
@@ -332,10 +335,16 @@
 "Arrow from Point" = "Flecha desde el punto";
 
 /* No comment provided by engineer. */
+"Aspect Ratio Grid" = "Aspect Ratio Grid";
+
+/* No comment provided by engineer. */
 "Aspect Ratio Presets:" = "Preajustes de relación de aspecto:";
 
 /* No comment provided by engineer. */
 "Assign Profile" = "Asignar perfil";
+
+/* Refers to the automatic setting used for application appearance. */
+"Auto" = "Auto";
 
 /* No comment provided by engineer. */
 "AUTO" = "AUTO";
@@ -389,7 +398,10 @@
 "Automatic" = "Automático";
 
 /* No comment provided by engineer. */
-"AVIF Support" = "Compatibilidad con AVIF";
+"Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac.";
+
+/* No comment provided by engineer. */
+"Automatically preserves nondestructive edits in a sidecar file linked to the original photo in your library." = "Automatically preserves nondestructive edits in a sidecar file linked to the original photo in your library.";
 
 /* No comment provided by engineer. */
 "azimuth: %@, elevation: %@" = "acimut: %1$@, elevación: %2$@";
@@ -464,9 +476,6 @@
 "Boost Shadow" = "Aumentar sombra";
 
 /* No comment provided by engineer. */
-"Brand Templates" = "Plantillas de marcas";
-
-/* No comment provided by engineer. */
 "Brightness" = "Brillo";
 
 /* No comment provided by engineer. */
@@ -482,10 +491,7 @@
 "Bring to Front" = "Colocar en primer plano";
 
 /* No comment provided by engineer. */
-"Browse and edit images in your Photos library" = "Examina y edita las imágenes en tu fototeca de Fotos";
-
-/* No comment provided by engineer. */
-"Browse images on your Mac" = "Examina tus imágenes en tu Mac";
+"Browse files on your Mac" = "Browse files on your Mac";
 
 /* No comment provided by engineer. */
 "Brush" = "Pincel";
@@ -566,28 +572,13 @@
 "Change Perspective" = "Cambiar la perspectiva";
 
 /* No comment provided by engineer. */
-"Change Playback Delay Time" = "Cambiar el tiempo de retardo de la reproducción";
-
-/* No comment provided by engineer. */
-"Change Playback Finish Time" = "Cambiar la hora de finalización de la reproducción";
-
-/* No comment provided by engineer. */
-"Change Playback Start Time" = "Cambiar la hora de inicio de la reproducción";
+"Change Repeat" = "Change Repeat";
 
 /* No comment provided by engineer. */
 "Change Shape" = "Cambiar figura";
 
 /* No comment provided by engineer. */
 "Change Style" = "Cambiar estilo";
-
-/* No comment provided by engineer. */
-"Change Video Playback Finish Mode" = "Cambiar el modo de finalización de la reproducción del vídeo";
-
-/* No comment provided by engineer. */
-"Change Video Playback Start Mode" = "Cambiar el modo de inicio de la reproducción del vídeo";
-
-/* No comment provided by engineer. */
-"Change Video Poster Frame" = "Cambiar el marco del póster del vídeo";
 
 /* No comment provided by engineer. */
 "Channel" = "Canales";
@@ -618,9 +609,6 @@
 
 /* No comment provided by engineer. */
 "Choose a styles collection." = "Elige una colección de estilos.";
-
-/* No comment provided by engineer. */
-"Choose a Template" = "Elige una plantilla";
 
 /* No comment provided by engineer. */
 "Choose an image to use for color matching." = "Seleccionar una imagen para combinar colores.";
@@ -740,7 +728,13 @@
 "Click to show or hide the Colors window." = "Haz clic para mostrar u ocultar la ventana de colores.";
 
 /* No comment provided by engineer. */
+"Clipboard" = "Portapapeles";
+
+/* No comment provided by engineer. */
 "Clone" = "Clonar";
+
+/* No comment provided by engineer. */
+"Close Edit Tools" = "Close Edit Tools";
 
 /* No comment provided by engineer. */
 "Close Path" = "Cerrar trazado";
@@ -774,9 +768,6 @@
 
 /* No comment provided by engineer. */
 "Color Depth" = "Profundidad de color";
-
-/* No comment provided by engineer. */
-"Color Depth:" = "Profundidad de color:";
 
 /* No comment provided by engineer. */
 "Color Dodge" = "Sobreexponer color";
@@ -905,9 +896,6 @@
 "Corner Radius" = "Radio de esquina";
 
 /* No comment provided by engineer. */
-"Corner Radius Improvements" = "Mejoras en el radio de la esquina";
-
-/* No comment provided by engineer. */
 "Corner Radius Setting" = "Ajuste en el radio de la esquina";
 
 /* Quit without saves error question message */
@@ -923,7 +911,13 @@
 "Create Clipping Mask" = "Crear máscara de recorte";
 
 /* No comment provided by engineer. */
+"Create Photomator album in Photos" = "Create Photomator album in Photos";
+
+/* No comment provided by engineer. */
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "Crea diseños e ilustraciones sorprendentes con formas inteligentes fáciles de usar, potentes herramientas de texto y un completo conjunto de herramientas vectoriales.";
+
+/* No comment provided by engineer. */
+"Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album.";
 
 /* No comment provided by engineer. */
 "Critical Resources Unavailable" = "Recursos críticos no disponibles";
@@ -967,6 +961,9 @@
 /* No comment provided by engineer. */
 "Cyan / Red" = "Cian/Rojo";
 
+/* Refers to the dark setting used for application appearance. */
+"Dark" = "Oscuro";
+
 /* No comment provided by engineer. */
 "Darken" = "Oscurecer";
 
@@ -1005,6 +1002,12 @@
 
 /* No comment provided by engineer. */
 "Delete" = "Eliminar";
+
+/* No comment provided by engineer. */
+"Delete %i Items" = "Delete %i Items";
+
+/* No comment provided by engineer. */
+"Delete 1 Item" = "Delete 1 Item";
 
 /* No comment provided by engineer. */
 "Delete Layer" = "Eliminar capa";
@@ -1080,6 +1083,15 @@
 
 /* No comment provided by engineer. */
 "Disable Mask" = "Desactivar máscaras";
+
+/* No comment provided by engineer. */
+"Disable Texture-Aware Algorithm" = "Disable Texture-Aware Algorithm";
+
+/* No comment provided by engineer. */
+"Display albums without nesting" = "Display albums without nesting";
+
+/* No comment provided by engineer. */
+"Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery.";
 
 /* No comment provided by engineer. */
 "Distance" = "Distancia";
@@ -1172,6 +1184,12 @@
 "Duplicate" = "Duplicar";
 
 /* No comment provided by engineer. */
+"Duplicate %i Items" = "Duplicate %i Items";
+
+/* No comment provided by engineer. */
+"Duplicate 1 Item" = "Duplicate 1 Item";
+
+/* No comment provided by engineer. */
 "Duplicate Palette" = "Duplicar la paleta";
 
 /* No comment provided by engineer. */
@@ -1190,10 +1208,22 @@
 "Edit a Copy" = "Editar una copia";
 
 /* No comment provided by engineer. */
+"Edit images and videos in your library" = "Edit images and videos in your library";
+
+/* No comment provided by engineer. */
+"Edit images and videos saved on your Mac" = "Edit images and videos saved on your Mac";
+
+/* No comment provided by engineer. */
 "Edit Photos" = "Editar fotos";
 
 /* No comment provided by engineer. */
 "Edit Slice" = "Editar sector";
+
+/* No comment provided by engineer. */
+"Edit Video…" = "Edit Video…";
+
+/* Refers to application settings that affect editing. */
+"Editing" = "Edición";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "Modo EDR";
@@ -1213,7 +1243,6 @@
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "Bocadillo de diálogo elíptico";
 
-/* No comment provided by engineer. */
 /* Empty is an adjective here. It means this group layer is empty. */
 "Empty Group" = "Vaciar grupo";
 
@@ -1233,13 +1262,13 @@
 "Enable Mask" = "Activar máscara";
 
 /* No comment provided by engineer. */
-"Enable Multi-Scale Adjustments" = "Enable Multi-Scale Adjustments";
-
-/* No comment provided by engineer. */
 "Enable Sharpening" = "Permitir enfoque";
 
 /* No comment provided by engineer. */
 "Enable Soft Proof Colors" = "Habilitar colores de revisión";
+
+/* No comment provided by engineer. */
+"Enable Texture-Aware Algorithm" = "Enable Texture-Aware Algorithm";
 
 /* No comment provided by engineer. */
 "End Point" = "Punto final";
@@ -1248,7 +1277,7 @@
 "Enhance your photos with a collection of machine learning-powered color adjustments and perfect every detail with the magical retouching tools." = "Mejora tus fotos con una colección de ajustes de color basados en el aprendizaje automático y perfecciona cada detalle con las mágicas herramientas de retoque.";
 
 /* No comment provided by engineer. */
-"Enjoy instant Pixelmator Pro document opening thanks to document loading performance improvements." = "Disfruta de la apertura instantánea de documentos en Pixelmator Pro gracias a las mejoras realizadas en la carga de documentos.";
+"Enjoy many improvements to Motion file support including video layers, nondestructive color adjustments and effects, and more." = "Enjoy many improvements to Motion file support including video layers, nondestructive color adjustments and effects, and more.";
 
 /* No comment provided by engineer. */
 "Erase" = "Borrar";
@@ -1415,6 +1444,9 @@
 /* No comment provided by engineer. */
 "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "Ya existen archivos o carpetas con el mismo nombre en el directorio %@. Si los reemplazas, se sobrescribirán sus contenidos actuales.";
 
+/* No comment provided by engineer. */
+"Files…" = "Archivos...";
+
 /* Effects category name */
 "Fill" = "Rellenar";
 
@@ -1476,6 +1508,12 @@
 "Font Change" = "Cambiar fuente";
 
 /* No comment provided by engineer. */
+"For images opened from Finder" = "For images opened from Finder";
+
+/* No comment provided by engineer. */
+"For images opened from Photos" = "For images opened from Photos";
+
+/* No comment provided by engineer. */
 "Free Selection" = "Selección libre";
 
 /* No comment provided by engineer. */
@@ -1490,7 +1528,7 @@
 /* No comment provided by engineer. */
 "G:" = "G:";
 
-/* No comment provided by engineer. */
+/* Refers to general application settings. */
 "General" = "General";
 
 /* Effects category name */
@@ -1590,7 +1628,7 @@
 "HEVC" = "HEVC";
 
 /* No comment provided by engineer. */
-"HEVC with Transparency" = "HEVC con transparencia";
+"HEVC with Alpha" = "HEVC with Alpha";
 
 /* color picker color value display type */
 "HEX" = "HEX";
@@ -1609,6 +1647,9 @@
 
 /* No comment provided by engineer. */
 "Hide Document Info" = "Ocultar información del documento";
+
+/* No comment provided by engineer. */
+"Hide Filmstrip" = "Hide Filmstrip";
 
 /* No comment provided by engineer. */
 "Hide Fonts" = "Ocultar fuentes";
@@ -1645,9 +1686,6 @@
 
 /* No comment provided by engineer. */
 "Hide Rulers" = "Ocultar reglas";
-
-/* No comment provided by engineer. */
-"Hide Selection Handles" = "Ocultar marcadores de selección";
 
 /* No comment provided by engineer. */
 "Hide Shape Outline" = "Ocultar el contorno de la figura";
@@ -1709,11 +1747,17 @@
 /* No comment provided by engineer. */
 "Image Layer" = "Capa de imagen";
 
+/* Refers to image export quality. */
+"Image Quality" = "Image Quality";
+
 /* No comment provided by engineer. */
 "Image Settings" = "Ajustes de imagen";
 
 /* No comment provided by engineer. */
 "Image Size" = "Tamaño de imagen";
+
+/* No comment provided by engineer. */
+"Image Size:" = "Image Size:";
 
 /* No comment provided by engineer. */
 "Image Straightened by %@" = "Imagen corregida por %@";
@@ -1821,9 +1865,6 @@
 "Lasso Selection" = "Selección de lazo";
 
 /* No comment provided by engineer. */
-"Last Used" = "Último utilizado";
-
-/* No comment provided by engineer. */
 "Layer" = "Capa";
 
 /* No comment provided by engineer. */
@@ -1853,7 +1894,7 @@
 /* No comment provided by engineer. */
 "Ligature" = "Ligadura";
 
-/* No comment provided by engineer. */
+/* Refers to the light setting used for application appearance. */
 "Light" = "Luz";
 
 /* No comment provided by engineer. */
@@ -1906,6 +1947,9 @@
 
 /* No comment provided by engineer. */
 "Link Mask" = "Vincular máscara";
+
+/* No comment provided by engineer. */
+"Live Photo" = "Live Photo";
 
 /* No comment provided by engineer. */
 "Load" = "Cargar";
@@ -1963,6 +2007,9 @@
 
 /* No comment provided by engineer. */
 "Make Smooth Point" = "Crear punto suavizado";
+
+/* No comment provided by engineer. */
+"Makes the Hidden album from your Photos library visible in Photomator." = "Makes the Hidden album from your Photos library visible in Photomator.";
 
 /* No comment provided by engineer. */
 "Manual" = "Manual";
@@ -2061,6 +2108,9 @@
 "More Workflows…" = "Más flujos de trabajo…";
 
 /* No comment provided by engineer. */
+"Motion Support Improvements" = "Motion Support Improvements";
+
+/* No comment provided by engineer. */
 "Move" = "Mover";
 
 /* No comment provided by engineer. */
@@ -2093,6 +2143,12 @@
 /* No comment provided by engineer. */
 "Moved Object" = "Moved Object";
 
+/* No comment provided by engineer. */
+"Movie Title" = "Movie Title";
+
+/* Format */
+"MP4" = "MP4";
+
 /* Displayed when a text layer is styled with multiple font families. */
 "Multiple Fonts" = "Varios tipos de letra";
 
@@ -2115,6 +2171,12 @@
 "Mustache" = "Bigote";
 
 /* No comment provided by engineer. */
+"Mute" = "Mute";
+
+/* No comment provided by engineer. */
+"Mute Audio" = "Mute Audio";
+
+/* No comment provided by engineer. */
 "My Shapes" = "Mis formas";
 
 /* No comment provided by engineer. */
@@ -2128,6 +2190,9 @@
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "Nueva figura elíptica";
+
+/* No comment provided by engineer. */
+"New File Formats" = "New File Formats";
 
 /* No comment provided by engineer. */
 "New from Clipboard" = "Nuevo desde portapapeles";
@@ -2271,13 +2336,13 @@
 "Opacity Scatter" = "Dispersión de opacidad";
 
 /* No comment provided by engineer. */
-"Open an image from Photos" = "Abrir una imagen de Fotos";
-
-/* No comment provided by engineer. */
-"Open and edit images saved on your Mac" = "Abrir y editar imágenes guardadas en tu Mac";
+"Open Edit Tools" = "Open Edit Tools";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "Abrir preferencias del sistema";
+
+/* No comment provided by engineer. */
+"Open the Photos browser" = "Open the Photos browser";
 
 /* No comment provided by engineer. */
 "Optimize & Export" = "Optimizar y exportar";
@@ -2387,6 +2452,9 @@
 /* No comment provided by engineer. */
 "Perspective Transform" = "Transformación en perspectiva";
 
+/* Refers to application settings that affect interactions with the Apple Photos app. */
+"Photos" = "Fotos";
+
 /* No comment provided by engineer. */
 "Photos Extension" = "Extensión de fotos";
 
@@ -2395,6 +2463,9 @@
 
 /* No comment provided by engineer. */
 "Photoshop Large" = "Photoshop grande";
+
+/* No comment provided by engineer. */
+"Photos…" = "Fotos…";
 
 /* No comment provided by engineer. */
 "Pin Histogram" = "Anclar el histograma";
@@ -2413,9 +2484,6 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro is built exclusively for macOS. So it’s easy to use by design and takes full advantage of the power of your Mac." = "Pixelmator Pro se ha desarrollado exclusivamente para MacOS. Por ello, es fácil de usar y te permite sacar el máximo provecho de tu Mac.";
-
-/* No comment provided by engineer. */
-"Pixelmator Pro is now fully compatible with macOS 13." = "Pixelmator Pro es totalmente compatible con macOS 13.";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Prueba de Pixelmator Pro";
@@ -2443,6 +2511,12 @@
 
 /* No comment provided by engineer. */
 "Placeholder Setting" = "Ajuste del marcador de posición";
+
+/* No comment provided by engineer. */
+"Play All" = "Play All";
+
+/* No comment provided by engineer. */
+"Play Selected" = "Play Selected";
 
 /* No comment provided by engineer. */
 "Please try relaunching Pixelmator Pro." = "Pruebe a reiniciar Pixelmator Pro.";
@@ -2483,7 +2557,7 @@
 /* No comment provided by engineer. */
 "Poster" = "Póster";
 
-/* No comment provided by engineer. */
+/* Refers to a setting that allows users to preserve edits in a linked document. */
 "Preserve Edits" = "Conservar ediciones";
 
 /* No comment provided by engineer. */
@@ -2515,9 +2589,6 @@
 
 /* No comment provided by engineer. */
 "Quality" = "Calidad";
-
-/* No comment provided by engineer. */
-"Quick Document Opening" = "Apertura rápida de documentos";
 
 /* No comment provided by engineer. */
 "Quick Export" = "Exportación rápida";
@@ -2563,15 +2634,6 @@
 
 /* No comment provided by engineer. */
 "RAW Layer" = "Capa RAW";
-
-/* No comment provided by engineer. */
-"Recent Blank Documents" = "Documentos en blanco recientes";
-
-/* No comment provided by engineer. */
-"Recent Templates" = "Plantillas recientes";
-
-/* No comment provided by engineer. */
-"Recents" = "Recientes";
 
 /* No comment provided by engineer. */
 "Rectangle" = "Rectángulo";
@@ -2949,6 +3011,9 @@
 "Save LUT" = "Guardar LUT";
 
 /* No comment provided by engineer. */
+"Save Sidecar Files In" = "Save Sidecar Files In";
+
+/* No comment provided by engineer. */
 "Save to My Shapes" = "Guardar en Mis Formas";
 
 /* No comment provided by engineer. */
@@ -3063,6 +3128,9 @@
 "Selection Rotate" = "Giro de la selección";
 
 /* No comment provided by engineer. */
+"Selective Clarity" = "Selective Clarity";
+
+/* No comment provided by engineer. */
 "Selective Color" = "Color selectivo";
 
 /* No comment provided by engineer. */
@@ -3093,6 +3161,12 @@
 "Set green color component value" = "Establecer el valor del componente de color verde";
 
 /* No comment provided by engineer. */
+"Set Playback Delay" = "Set Playback Delay";
+
+/* No comment provided by engineer. */
+"Set Poster Frame" = "Set Poster Frame";
+
+/* No comment provided by engineer. */
 "Set red color component value" = "Establecer el valor del componente de color rojo";
 
 /* No comment provided by engineer. */
@@ -3100,6 +3174,9 @@
 
 /* No comment provided by engineer. */
 "Set the color using a Hex color code." = "Ajusta el color usando un código de color hexadecimal.";
+
+/* No comment provided by engineer. */
+"Set the image quality to use when automatically saving changes or sharing images to other apps." = "Ajusta la calidad de imagen que se usará al guardar automáticamente los cambios o al compartir imágenes en otras aplicaciones.";
 
 /* No comment provided by engineer. */
 "Set the transparency of the color." = "Establece la transparencia del color.";
@@ -3159,6 +3236,9 @@
 "Show Document Info" = "Mostrar información del documento";
 
 /* No comment provided by engineer. */
+"Show Filmstrip" = "Mostrar el rollo de película";
+
+/* No comment provided by engineer. */
 "Show Fonts" = "Mostrar tipos";
 
 /* No comment provided by engineer. */
@@ -3169,6 +3249,9 @@
 
 /* No comment provided by engineer. */
 "Show Handles" = "Mostrar marcadores";
+
+/* No comment provided by engineer. */
+"Show Hidden album" = "Show Hidden album";
 
 /* No comment provided by engineer. */
 "Show hidden tools or customize the list of tools." = "Muestra las herramientas ocultas o personaliza la lista de herramientas.";
@@ -3207,9 +3290,6 @@
 "Show Rulers" = "Mostrar reglas";
 
 /* No comment provided by engineer. */
-"Show Selection Handles" = "Mostrar marcadores de selección";
-
-/* No comment provided by engineer. */
 "Show Shape Outline" = "Mostrar el contorno de la figura";
 
 /* No comment provided by engineer. */
@@ -3240,6 +3320,9 @@
 "Shrink Text to Fit Setting" = "Reducir texto para ajustarlo a la configuración";
 
 /* No comment provided by engineer. */
+"Sidecar Disk Usage" = "Sidecar Disk Usage";
+
+/* No comment provided by engineer. */
 "Sides: %d" = "Lados: %d";
 
 /* No comment provided by engineer. */
@@ -3262,9 +3345,6 @@
 
 /* No comment provided by engineer. */
 "Size:" = "Tamaño:";
-
-/* No comment provided by engineer. */
-"Sizes" = "Tamaños";
 
 /* No comment provided by engineer. */
 "Skew" = "Sesgar";
@@ -3363,6 +3443,9 @@
 "Spot Light" = "Foco";
 
 /* No comment provided by engineer. */
+"Square Photo Grid" = "Square Photo Grid";
+
+/* No comment provided by engineer. */
 "Star" = "Estrella";
 
 /* No comment provided by engineer. */
@@ -3378,13 +3461,19 @@
 "Start Point" = "Punto de inicio";
 
 /* No comment provided by engineer. */
-"Start with a template or an empty image" = "Comenzar con una plantilla o una imagen vacía";
+"Start with a template or an empty document" = "Start with a template or an empty document";
 
 /* No comment provided by engineer. */
 "Starting Position" = "Posición inicial";
 
 /* No comment provided by engineer. */
 "Starting Position x:" = "Posición inicial x:";
+
+/* No comment provided by engineer. */
+"Stop Playing All" = "Stop Playing All";
+
+/* No comment provided by engineer. */
+"Stop Playing Selected" = "Stop Playing Selected";
 
 /* No comment provided by engineer. */
 "Story" = "Historia";
@@ -3443,9 +3532,6 @@
 /* No comment provided by engineer. */
 "Super Resolution" = "Súper resolución";
 
-/* No comment provided by engineer. */
-"Support for macOS 13" = "Soporte para macOS 13";
-
 /* Format */
 "SVG" = "SVG";
 
@@ -3475,12 +3561,6 @@
 
 /* No comment provided by engineer. */
 "Temperature" = "Temperatura";
-
-/* No comment provided by engineer. */
-"Templates" = "Plantillas";
-
-/* No comment provided by engineer. */
-"templates" = "plantillas";
 
 /* No comment provided by engineer. */
 "Text" = "Texto";
@@ -3621,6 +3701,9 @@
 "Triangle" = "Triángulo";
 
 /* No comment provided by engineer. */
+"Trim" = "Trim";
+
+/* No comment provided by engineer. */
 "Trim Canvas" = "Cortar lienzo";
 
 /* No comment provided by engineer. */
@@ -3675,6 +3758,12 @@
 "Unlock Guides" = "Desbloquear guías";
 
 /* No comment provided by engineer. */
+"Unmute" = "Unmute";
+
+/* No comment provided by engineer. */
+"Unmute Audio" = "Unmute Audio";
+
+/* No comment provided by engineer. */
 "Unnamed" = "Sin nombre";
 
 /* No comment provided by engineer. */
@@ -3696,6 +3785,12 @@
 "Upgrade" = "Actualizar";
 
 /* No comment provided by engineer. */
+"Use gorgeous new templates to quickly place your videos in cinematic movie covers and social media posts." = "Use gorgeous new templates to quickly place your videos in cinematic movie covers and social media posts.";
+
+/* No comment provided by engineer. */
+"Use Texture-Aware Algorithm" = "Use Texture-Aware Algorithm";
+
+/* No comment provided by engineer. */
 "Useful Resources" = "Recursos útiles";
 
 /* No comment provided by engineer. */
@@ -3714,7 +3809,13 @@
 "Video" = "Vídeo";
 
 /* No comment provided by engineer. */
+"Video Editing" = "Video Editing";
+
+/* No comment provided by engineer. */
 "Video Layer" = "Capa de vídeo";
+
+/* No comment provided by engineer. */
+"Video Templates" = "Video Templates";
 
 /* No comment provided by engineer. */
 "View" = "Visualización";
@@ -3758,8 +3859,11 @@
 /* No comment provided by engineer. */
 "Width:" = "Anchura:";
 
+/* Refers to the color of the application window background. */
+"Window Background" = "Fondo de la ventana";
+
 /* No comment provided by engineer. */
-"With initial support for AVIF, you can now open images in this format." = "Cuentas con soporte inicial para AVIF, así que ya puedes abrir imágenes en este formato.";
+"Work with videos in MP4, QuickTime Movie, or other popular video formats, and even edit animated GIFs." = "Work with videos in MP4, QuickTime Movie, or other popular video formats, and even edit animated GIFs.";
 
 /* No comment provided by engineer. */
 "Workflows" = "Flujos de trabajo";
