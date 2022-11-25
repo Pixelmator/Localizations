@@ -26,6 +26,9 @@
 "%@ layers" = "слоев: %@";
 
 /* No comment provided by engineer. */
+"%@ Live Photo" = "%@ Live Photo";
+
+/* No comment provided by engineer. */
 "%@ mm" = "%@ мм";
 
 /* Exposure time in seconds */
@@ -164,6 +167,9 @@
 "Add a Keyword" = "Добавить ключевое слово";
 
 /* No comment provided by engineer. */
+"Add and edit video layers just like you edit images using all the familiar image editing tools in Pixelmator Pro. " = "Добавляйте и редактируйте слои видео точно так же, как вы редактируете изображения, используя все знакомые инструменты редактирования изображений в Pixelmator Pro.";
+
+/* No comment provided by engineer. */
 "Add Color" = "Добавить цвет";
 
 /* No comment provided by engineer. */
@@ -221,13 +227,13 @@
 "Adjust the overall balance of colors in the image." = "Отрегулируйте общий баланс цветов на изображении.";
 
 /* No comment provided by engineer. */
-"Adjust the radius of individual corners and use the new smooth corner style." = "Отрегулируйте радиус индивидуальных углов и используйте новый сглаженный стиль угла.";
-
-/* No comment provided by engineer. */
 "Adjust the transparency of the color." = "Отрегулируйте прозрачность цвета.";
 
 /* No comment provided by engineer. */
 "Adjustments" = "Изменения";
+
+/* No comment provided by engineer. */
+"Advanced Settings" = "Дополнительные настройки";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "Аффинная мозаика";
@@ -254,13 +260,7 @@
 "Align Vertical Centers" = "Выровнять центры по вертикали";
 
 /* No comment provided by engineer. */
-"All" = "Все";
-
-/* No comment provided by engineer. */
 "All rights reserved." = "Все права защищены.";
-
-/* No comment provided by engineer. */
-"All Templates" = "Все шаблоны";
 
 /* No comment provided by engineer. */
 "Allow Access" = "Открыть доступ";
@@ -288,6 +288,9 @@
 
 /* No comment provided by engineer. */
 "Angle: %@" = "Угол: %@";
+
+/* Refers to the appearance (dark or light) of the app. */
+"Appearance" = "Оформление";
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
@@ -332,10 +335,16 @@
 "Arrow from Point" = "Стрелка с точкой";
 
 /* No comment provided by engineer. */
+"Aspect Ratio Grid" = "Сетка формата кадра";
+
+/* No comment provided by engineer. */
 "Aspect Ratio Presets:" = "Наборы формата кадра:";
 
 /* No comment provided by engineer. */
 "Assign Profile" = "Присвоить профиль";
+
+/* Refers to the automatic setting used for application appearance. */
+"Auto" = "Авто";
 
 /* No comment provided by engineer. */
 "AUTO" = "АВТО";
@@ -389,7 +398,10 @@
 "Automatic" = "Авто";
 
 /* No comment provided by engineer. */
-"AVIF Support" = "Поддержка AVIF";
+"Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Автоматически сохраняет неразрушающие изменения в файле sidecar, связанном с исходным файлом изображения на вашем Mac.";
+
+/* No comment provided by engineer. */
+"Automatically preserves nondestructive edits in a sidecar file linked to the original photo in your library." = "Автоматически сохраняет неразрушающие изменения в файле sidecar, связанном с исходной фотографией в вашей медиатеке.";
 
 /* No comment provided by engineer. */
 "azimuth: %@, elevation: %@" = "азимут: %1$@, возвышение: %2$@";
@@ -464,9 +476,6 @@
 "Boost Shadow" = "Усиление тени";
 
 /* No comment provided by engineer. */
-"Brand Templates" = "Шаблоны брендов";
-
-/* No comment provided by engineer. */
 "Brightness" = "Яркость";
 
 /* No comment provided by engineer. */
@@ -482,10 +491,7 @@
 "Bring to Front" = "На передний план";
 
 /* No comment provided by engineer. */
-"Browse and edit images in your Photos library" = "Поиск и правка изображений в вашей медиатеке Фото";
-
-/* No comment provided by engineer. */
-"Browse images on your Mac" = "Поиск изображений на вашем Mac";
+"Browse files on your Mac" = "Поиск файлов на вашем Mac";
 
 /* No comment provided by engineer. */
 "Brush" = "Кисть";
@@ -566,28 +572,13 @@
 "Change Perspective" = "Изменить перспективу";
 
 /* No comment provided by engineer. */
-"Change Playback Delay Time" = "Изменить время задержки воспроизведения";
-
-/* No comment provided by engineer. */
-"Change Playback Finish Time" = "Изменить время конца воспроизведения";
-
-/* No comment provided by engineer. */
-"Change Playback Start Time" = "Изменить время начала воспроизведения";
+"Change Repeat" = "Поменять повтор";
 
 /* No comment provided by engineer. */
 "Change Shape" = "Изменить фигуру";
 
 /* No comment provided by engineer. */
 "Change Style" = "Изменить стиль";
-
-/* No comment provided by engineer. */
-"Change Video Playback Finish Mode" = "Изменить режим конца воспроизведения видео";
-
-/* No comment provided by engineer. */
-"Change Video Playback Start Mode" = "Изменить режим начала воспроизведения видео";
-
-/* No comment provided by engineer. */
-"Change Video Poster Frame" = "Изменить кадр постера видео";
 
 /* No comment provided by engineer. */
 "Channel" = "Канал";
@@ -618,9 +609,6 @@
 
 /* No comment provided by engineer. */
 "Choose a styles collection." = "Выбрать коллекцию стилей.";
-
-/* No comment provided by engineer. */
-"Choose a Template" = "Выбор шаблона";
 
 /* No comment provided by engineer. */
 "Choose an image to use for color matching." = "Выберите изображение для полного соответствия цвета.";
@@ -740,7 +728,13 @@
 "Click to show or hide the Colors window." = "Нажать, чтобы скрыть или показать панель цветов.";
 
 /* No comment provided by engineer. */
+"Clipboard" = "Буфер обмена";
+
+/* No comment provided by engineer. */
 "Clone" = "Штамп";
+
+/* No comment provided by engineer. */
+"Close Edit Tools" = "Закрыть инструменты правки";
 
 /* No comment provided by engineer. */
 "Close Path" = "Закрыть путь";
@@ -774,9 +768,6 @@
 
 /* No comment provided by engineer. */
 "Color Depth" = "Глубина цвета";
-
-/* No comment provided by engineer. */
-"Color Depth:" = "Глубина цвета:";
 
 /* No comment provided by engineer. */
 "Color Dodge" = "Осветление основы";
@@ -905,9 +896,6 @@
 "Corner Radius" = "Радиус угла";
 
 /* No comment provided by engineer. */
-"Corner Radius Improvements" = "Улучшение радиуса углов";
-
-/* No comment provided by engineer. */
 "Corner Radius Setting" = "Настройка радиуса углов";
 
 /* Quit without saves error question message */
@@ -923,7 +911,13 @@
 "Create Clipping Mask" = "Создать обтравочную маску";
 
 /* No comment provided by engineer. */
+"Create Photomator album in Photos" = "Создать альбом Photomator в Фото";
+
+/* No comment provided by engineer. */
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "Создавайте отличный дизайн и иллюстрации с помощью простых в работе смарт-форм, мощных текстовых инструментов и полного набора векторных инструментов.";
+
+/* No comment provided by engineer. */
+"Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "Создает альбом Photomator в вашей медиатеке Фото и автоматически добавляет каждое фото, измененное в этом приложении в этот альбом.";
 
 /* No comment provided by engineer. */
 "Critical Resources Unavailable" = "Недоступны критически важные ресурсы";
@@ -967,6 +961,9 @@
 /* No comment provided by engineer. */
 "Cyan / Red" = "Бирюзовый/красный";
 
+/* Refers to the dark setting used for application appearance. */
+"Dark" = "Темное";
+
 /* No comment provided by engineer. */
 "Darken" = "Затемнить";
 
@@ -1005,6 +1002,12 @@
 
 /* No comment provided by engineer. */
 "Delete" = "Удалить";
+
+/* No comment provided by engineer. */
+"Delete %i Items" = "Удалить объектов: %i";
+
+/* No comment provided by engineer. */
+"Delete 1 Item" = "Удалить объектов: 1";
 
 /* No comment provided by engineer. */
 "Delete Layer" = "Удалить слой";
@@ -1080,6 +1083,15 @@
 
 /* No comment provided by engineer. */
 "Disable Mask" = "Отключить маску";
+
+/* No comment provided by engineer. */
+"Disable Texture-Aware Algorithm" = "Отключить алгоритм учёта текстуры";
+
+/* No comment provided by engineer. */
+"Display albums without nesting" = "Показать альбомы без вложенных";
+
+/* No comment provided by engineer. */
+"Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "Отображает все альбомы, включая любые альбомы внутри папок, в единой галерее, расположенной по алфавиту.";
 
 /* No comment provided by engineer. */
 "Distance" = "Дистанция";
@@ -1172,6 +1184,12 @@
 "Duplicate" = "Дублировать";
 
 /* No comment provided by engineer. */
+"Duplicate %i Items" = "Дублировать объекты: %i";
+
+/* No comment provided by engineer. */
+"Duplicate 1 Item" = "Дублировать объекты: 1";
+
+/* No comment provided by engineer. */
 "Duplicate Palette" = "Дублировать палитру";
 
 /* No comment provided by engineer. */
@@ -1190,10 +1208,22 @@
 "Edit a Copy" = "Редактировать копию";
 
 /* No comment provided by engineer. */
+"Edit images and videos in your library" = "Править изображения и видео в вашей медиатеке";
+
+/* No comment provided by engineer. */
+"Edit images and videos saved on your Mac" = "Править изображения и видео, сохраненные на вашем Mac";
+
+/* No comment provided by engineer. */
 "Edit Photos" = "Править фото";
 
 /* No comment provided by engineer. */
 "Edit Slice" = "Править ломтик";
+
+/* No comment provided by engineer. */
+"Edit Video…" = "Править видео…";
+
+/* Refers to application settings that affect editing. */
+"Editing" = "Правка";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "EDR-режим";
@@ -1213,7 +1243,6 @@
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "Эллиптический пузырь речи";
 
-/* No comment provided by engineer. */
 /* Empty is an adjective here. It means this group layer is empty. */
 "Empty Group" = "Пустая группа";
 
@@ -1233,13 +1262,13 @@
 "Enable Mask" = "Включить маску";
 
 /* No comment provided by engineer. */
-"Enable Multi-Scale Adjustments" = "Enable Multi-Scale Adjustments";
-
-/* No comment provided by engineer. */
 "Enable Sharpening" = "Включить резкость";
 
 /* No comment provided by engineer. */
 "Enable Soft Proof Colors" = "Включить цвета цветопробы";
+
+/* No comment provided by engineer. */
+"Enable Texture-Aware Algorithm" = "Включить алгоритм учёта текстуры";
 
 /* No comment provided by engineer. */
 "End Point" = "Конечная точка";
@@ -1248,7 +1277,7 @@
 "Enhance your photos with a collection of machine learning-powered color adjustments and perfect every detail with the magical retouching tools." = "Улучшайте фотографии с помощью коллекции машинно-обучаемых цветокорректировок и совершенствуйте каждую деталь волшебными ретуширующими инструментами.";
 
 /* No comment provided by engineer. */
-"Enjoy instant Pixelmator Pro document opening thanks to document loading performance improvements." = "Наслаждайтесь мгновенным открытием документов Pixelmator Pro благодаря улучшению производительности загрузки документов.";
+"Enjoy many improvements to Motion file support including video layers, nondestructive color adjustments and effects, and more." = "Наслаждайтесь множеством улучшений в поддержке файлов Motion, включая слои видео, неразрушающие настройки и эффекты цвета и многое другое.";
 
 /* No comment provided by engineer. */
 "Erase" = "Ластик";
@@ -1415,6 +1444,9 @@
 /* No comment provided by engineer. */
 "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "Файлы или папки с таким именем уже имеются в папке «%@». Замена приведет к перезаписи текущего содержимого этих файлов или папок.";
 
+/* No comment provided by engineer. */
+"Files…" = "Файлы…";
+
 /* Effects category name */
 "Fill" = "Заливка";
 
@@ -1476,6 +1508,12 @@
 "Font Change" = "Смена шрифта";
 
 /* No comment provided by engineer. */
+"For images opened from Finder" = "Для изображений, открытых из Finder";
+
+/* No comment provided by engineer. */
+"For images opened from Photos" = "Для изображений, открытых из Фото";
+
+/* No comment provided by engineer. */
 "Free Selection" = "Свободный выбор";
 
 /* No comment provided by engineer. */
@@ -1490,7 +1528,7 @@
 /* No comment provided by engineer. */
 "G:" = "G:";
 
-/* No comment provided by engineer. */
+/* Refers to general application settings. */
 "General" = "Основные";
 
 /* Effects category name */
@@ -1590,7 +1628,7 @@
 "HEVC" = "HEVC";
 
 /* No comment provided by engineer. */
-"HEVC with Transparency" = "HEVC с Прозрачностью";
+"HEVC with Alpha" = "HEVC с Альфа";
 
 /* color picker color value display type */
 "HEX" = "HEX";
@@ -1609,6 +1647,9 @@
 
 /* No comment provided by engineer. */
 "Hide Document Info" = "Скрыть сведения о документе";
+
+/* No comment provided by engineer. */
+"Hide Filmstrip" = "Скрыть диафильм";
 
 /* No comment provided by engineer. */
 "Hide Fonts" = "Скрыть фигуры";
@@ -1645,9 +1686,6 @@
 
 /* No comment provided by engineer. */
 "Hide Rulers" = "Убрать линейки";
-
-/* No comment provided by engineer. */
-"Hide Selection Handles" = "Скрыть маркеры выделения";
 
 /* No comment provided by engineer. */
 "Hide Shape Outline" = "Скрыть контур фигуры";
@@ -1709,11 +1747,17 @@
 /* No comment provided by engineer. */
 "Image Layer" = "Слой изображения";
 
+/* Refers to image export quality. */
+"Image Quality" = "Качество изображения";
+
 /* No comment provided by engineer. */
 "Image Settings" = "Настройки изображения";
 
 /* No comment provided by engineer. */
 "Image Size" = "Размер изображения";
+
+/* No comment provided by engineer. */
+"Image Size:" = "Размер изображения:";
 
 /* No comment provided by engineer. */
 "Image Straightened by %@" = "Изображение выпрямлено %@";
@@ -1821,9 +1865,6 @@
 "Lasso Selection" = "Выбор лассо";
 
 /* No comment provided by engineer. */
-"Last Used" = "Последнее использ.";
-
-/* No comment provided by engineer. */
 "Layer" = "Слой";
 
 /* No comment provided by engineer. */
@@ -1853,7 +1894,7 @@
 /* No comment provided by engineer. */
 "Ligature" = "Лигатура";
 
-/* No comment provided by engineer. */
+/* Refers to the light setting used for application appearance. */
 "Light" = "Светлый";
 
 /* No comment provided by engineer. */
@@ -1906,6 +1947,9 @@
 
 /* No comment provided by engineer. */
 "Link Mask" = "Соединить маску";
+
+/* No comment provided by engineer. */
+"Live Photo" = "Live Photo";
 
 /* No comment provided by engineer. */
 "Load" = "Загрузить";
@@ -1963,6 +2007,9 @@
 
 /* No comment provided by engineer. */
 "Make Smooth Point" = "Сделать мягкую точку";
+
+/* No comment provided by engineer. */
+"Makes the Hidden album from your Photos library visible in Photomator." = "Создает скрытый альбом из вашей медиатеки Фото, видимый в Photomator.";
 
 /* No comment provided by engineer. */
 "Manual" = "Вручную";
@@ -2061,6 +2108,9 @@
 "More Workflows…" = "Еще процессы…";
 
 /* No comment provided by engineer. */
+"Motion Support Improvements" = "Улучшения поддержки Motion";
+
+/* No comment provided by engineer. */
 "Move" = "Передвинуть";
 
 /* No comment provided by engineer. */
@@ -2093,6 +2143,12 @@
 /* No comment provided by engineer. */
 "Moved Object" = "Moved Object";
 
+/* No comment provided by engineer. */
+"Movie Title" = "Название фильма";
+
+/* Format */
+"MP4" = "MP4";
+
 /* Displayed when a text layer is styled with multiple font families. */
 "Multiple Fonts" = "Несколько шрифтов";
 
@@ -2115,6 +2171,12 @@
 "Mustache" = "Усы";
 
 /* No comment provided by engineer. */
+"Mute" = "Выкл. звук";
+
+/* No comment provided by engineer. */
+"Mute Audio" = "Выкл. аудио";
+
+/* No comment provided by engineer. */
 "My Shapes" = "Мои фигуры";
 
 /* No comment provided by engineer. */
@@ -2128,6 +2190,9 @@
 
 /* No comment provided by engineer. */
 "New Ellipse Shape" = "Новый эллипс";
+
+/* No comment provided by engineer. */
+"New File Formats" = "Новые форматы файлов";
 
 /* No comment provided by engineer. */
 "New from Clipboard" = "Новое из буфера обмена";
@@ -2271,13 +2336,13 @@
 "Opacity Scatter" = "Разброс непрозрачности";
 
 /* No comment provided by engineer. */
-"Open an image from Photos" = "Открыть изображение из Фото";
-
-/* No comment provided by engineer. */
-"Open and edit images saved on your Mac" = "Открывать и править сохраненные на вашем Mac изображения";
+"Open Edit Tools" = "Открыть инструменты правки";
 
 /* No comment provided by engineer. */
 "Open System Preferences" = "Открыть Системные настройки";
+
+/* No comment provided by engineer. */
+"Open the Photos browser" = "Открыть фотобраузер";
 
 /* No comment provided by engineer. */
 "Optimize & Export" = "Оптимизация и экспорт";
@@ -2387,6 +2452,9 @@
 /* No comment provided by engineer. */
 "Perspective Transform" = "Перспективное преобразование";
 
+/* Refers to application settings that affect interactions with the Apple Photos app. */
+"Photos" = "Фото";
+
 /* No comment provided by engineer. */
 "Photos Extension" = "Расширение Photos";
 
@@ -2395,6 +2463,9 @@
 
 /* No comment provided by engineer. */
 "Photoshop Large" = "Photoshop Large";
+
+/* No comment provided by engineer. */
+"Photos…" = "Фото…";
 
 /* No comment provided by engineer. */
 "Pin Histogram" = "Столбчатая гистограмма";
@@ -2413,9 +2484,6 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Pro is built exclusively for macOS. So it’s easy to use by design and takes full advantage of the power of your Mac." = "Pixelmator Pro создан исключительно для macOS. Поэтому он удобен для работы и полностью использует мощь вашего Mac.";
-
-/* No comment provided by engineer. */
-"Pixelmator Pro is now fully compatible with macOS 13." = "Pixelmator Photo теперь полностью совместимо с macOS 13.";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Пробная версия Pixelmator Pro";
@@ -2443,6 +2511,12 @@
 
 /* No comment provided by engineer. */
 "Placeholder Setting" = "Настройка заполнителя";
+
+/* No comment provided by engineer. */
+"Play All" = "Воспр. все";
+
+/* No comment provided by engineer. */
+"Play Selected" = "Воспр. выбранные";
 
 /* No comment provided by engineer. */
 "Please try relaunching Pixelmator Pro." = "Попытайтесь перезапустить Pixelmator Pro.";
@@ -2483,7 +2557,7 @@
 /* No comment provided by engineer. */
 "Poster" = "Плакат";
 
-/* No comment provided by engineer. */
+/* Refers to a setting that allows users to preserve edits in a linked document. */
 "Preserve Edits" = "Сохранить правки";
 
 /* No comment provided by engineer. */
@@ -2515,9 +2589,6 @@
 
 /* No comment provided by engineer. */
 "Quality" = "Качество";
-
-/* No comment provided by engineer. */
-"Quick Document Opening" = "Быстрое открытие документов";
 
 /* No comment provided by engineer. */
 "Quick Export" = "Быстрый экспорт";
@@ -2563,15 +2634,6 @@
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW-слой";
-
-/* No comment provided by engineer. */
-"Recent Blank Documents" = "Недавние пустые документы";
-
-/* No comment provided by engineer. */
-"Recent Templates" = "Недавние шаблоны";
-
-/* No comment provided by engineer. */
-"Recents" = "Недавние";
 
 /* No comment provided by engineer. */
 "Rectangle" = "Прямоугольник";
@@ -2949,6 +3011,9 @@
 "Save LUT" = "Сохранить LUT";
 
 /* No comment provided by engineer. */
+"Save Sidecar Files In" = "Сохранить Sidecar-файлы в";
+
+/* No comment provided by engineer. */
 "Save to My Shapes" = "Сохранить в Мои фигуры";
 
 /* No comment provided by engineer. */
@@ -3063,6 +3128,9 @@
 "Selection Rotate" = "Поворот выбора";
 
 /* No comment provided by engineer. */
+"Selective Clarity" = "Выборочная ясность";
+
+/* No comment provided by engineer. */
 "Selective Color" = "Выбирающий цвет";
 
 /* No comment provided by engineer. */
@@ -3093,6 +3161,12 @@
 "Set green color component value" = "Задать значение компоненты зеленого цвета";
 
 /* No comment provided by engineer. */
+"Set Playback Delay" = "Задать время задержки воспроизведения";
+
+/* No comment provided by engineer. */
+"Set Poster Frame" = "Задать кадр постера";
+
+/* No comment provided by engineer. */
 "Set red color component value" = "Задать значение компоненты красного цвета";
 
 /* No comment provided by engineer. */
@@ -3100,6 +3174,9 @@
 
 /* No comment provided by engineer. */
 "Set the color using a Hex color code." = "Задать цвет, используя цветовой Hex-код.";
+
+/* No comment provided by engineer. */
+"Set the image quality to use when automatically saving changes or sharing images to other apps." = "Задать качество изображения, чтобы использовать при автоматическом сохранении изменений или общем с другими приложениями доступе к изображениям.";
 
 /* No comment provided by engineer. */
 "Set the transparency of the color." = "Задать прозрачность цвета.";
@@ -3159,6 +3236,9 @@
 "Show Document Info" = "Показать сведения о документе";
 
 /* No comment provided by engineer. */
+"Show Filmstrip" = "Показать диафильм";
+
+/* No comment provided by engineer. */
 "Show Fonts" = "Показать шрифты";
 
 /* No comment provided by engineer. */
@@ -3169,6 +3249,9 @@
 
 /* No comment provided by engineer. */
 "Show Handles" = "Показать маркеры";
+
+/* No comment provided by engineer. */
+"Show Hidden album" = "Показать скрытый альбом";
 
 /* No comment provided by engineer. */
 "Show hidden tools or customize the list of tools." = "Показать скрытые инструменты или настроить список инструментов.";
@@ -3207,9 +3290,6 @@
 "Show Rulers" = "Показать линейки";
 
 /* No comment provided by engineer. */
-"Show Selection Handles" = "Показать маркеры выделения";
-
-/* No comment provided by engineer. */
 "Show Shape Outline" = "Показать контур фигуры";
 
 /* No comment provided by engineer. */
@@ -3240,6 +3320,9 @@
 "Shrink Text to Fit Setting" = "Сжать текст под размер настройки";
 
 /* No comment provided by engineer. */
+"Sidecar Disk Usage" = "Использ. Sidecar-диска";
+
+/* No comment provided by engineer. */
 "Sides: %d" = "Стороны: %d";
 
 /* No comment provided by engineer. */
@@ -3262,9 +3345,6 @@
 
 /* No comment provided by engineer. */
 "Size:" = "Размер:";
-
-/* No comment provided by engineer. */
-"Sizes" = "Размеры";
 
 /* No comment provided by engineer. */
 "Skew" = "Наклон";
@@ -3363,6 +3443,9 @@
 "Spot Light" = "Прожектор";
 
 /* No comment provided by engineer. */
+"Square Photo Grid" = "Квадратная фотосетка";
+
+/* No comment provided by engineer. */
 "Star" = "Звезда";
 
 /* No comment provided by engineer. */
@@ -3378,13 +3461,19 @@
 "Start Point" = "Начальная точка";
 
 /* No comment provided by engineer. */
-"Start with a template or an empty image" = "Начать с шаблона или пустого изображения";
+"Start with a template or an empty document" = "Начать с шаблона или пустого документа";
 
 /* No comment provided by engineer. */
 "Starting Position" = "Начальная позиция";
 
 /* No comment provided by engineer. */
 "Starting Position x:" = "Начальная позиция x:";
+
+/* No comment provided by engineer. */
+"Stop Playing All" = "Остановить всё воспр.";
+
+/* No comment provided by engineer. */
+"Stop Playing Selected" = "Остановить воспр. выбранного";
 
 /* No comment provided by engineer. */
 "Story" = "Сюжет";
@@ -3443,9 +3532,6 @@
 /* No comment provided by engineer. */
 "Super Resolution" = "Cупер-разрешение";
 
-/* No comment provided by engineer. */
-"Support for macOS 13" = "Поддержка macOS 13";
-
 /* Format */
 "SVG" = "SVG";
 
@@ -3475,12 +3561,6 @@
 
 /* No comment provided by engineer. */
 "Temperature" = "Температура";
-
-/* No comment provided by engineer. */
-"Templates" = "Шаблоны";
-
-/* No comment provided by engineer. */
-"templates" = "шаблоны";
 
 /* No comment provided by engineer. */
 "Text" = "Текст";
@@ -3621,6 +3701,9 @@
 "Triangle" = "Треугольник";
 
 /* No comment provided by engineer. */
+"Trim" = "Обрезка";
+
+/* No comment provided by engineer. */
 "Trim Canvas" = "Подрезать холст";
 
 /* No comment provided by engineer. */
@@ -3675,6 +3758,12 @@
 "Unlock Guides" = "Разблокировать направляющие";
 
 /* No comment provided by engineer. */
+"Unmute" = "Вкл. звук";
+
+/* No comment provided by engineer. */
+"Unmute Audio" = "Вкл. аудио";
+
+/* No comment provided by engineer. */
 "Unnamed" = "Без имени";
 
 /* No comment provided by engineer. */
@@ -3696,6 +3785,12 @@
 "Upgrade" = "Обновить";
 
 /* No comment provided by engineer. */
+"Use gorgeous new templates to quickly place your videos in cinematic movie covers and social media posts." = "Используйте великолепные новые шаблоны, чтобы быстро размещать свои видео в кинематографических обложках фильмов и постах в соцсетях.";
+
+/* No comment provided by engineer. */
+"Use Texture-Aware Algorithm" = "Использовать алгоритм учёта текстуры";
+
+/* No comment provided by engineer. */
 "Useful Resources" = "Полезные ресурсы";
 
 /* No comment provided by engineer. */
@@ -3714,7 +3809,13 @@
 "Video" = "Видео";
 
 /* No comment provided by engineer. */
+"Video Editing" = "Видеоредактирование";
+
+/* No comment provided by engineer. */
 "Video Layer" = "Слой видео";
+
+/* No comment provided by engineer. */
+"Video Templates" = "Шаблоны видео";
 
 /* No comment provided by engineer. */
 "View" = "Вид";
@@ -3758,8 +3859,11 @@
 /* No comment provided by engineer. */
 "Width:" = "Ширина:";
 
+/* Refers to the color of the application window background. */
+"Window Background" = "Фон окна";
+
 /* No comment provided by engineer. */
-"With initial support for AVIF, you can now open images in this format." = "Располагая теперь исходной поддержкой AVIF, вы можете открывать изображения в этом формате.";
+"Work with videos in MP4, QuickTime Movie, or other popular video formats, and even edit animated GIFs." = "Работайте с видео в формате MP4, QuickTime Movie и других популярных видеоформатах и даже редактируйте анимированные GIF-файлы.";
 
 /* No comment provided by engineer. */
 "Workflows" = "Процессы";
