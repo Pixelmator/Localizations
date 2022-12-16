@@ -40,6 +40,9 @@
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d개의 파일이 이미 존재합니다. 대치하시겠습니까?";
 
+/* No comment provided by engineer. */
+"%d Photos" = "%d Photos";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
@@ -78,6 +81,9 @@
 
 /* No comment provided by engineer. */
 "15 fps" = "15 fps";
+
+/* No comment provided by engineer. */
+"16 Bits/Channel" = "16비트/채널";
 
 /* No comment provided by engineer. */
 "16-bits per channel" = "채널당 16비트";
@@ -137,6 +143,9 @@
 "60 fps" = "60 fps";
 
 /* No comment provided by engineer. */
+"8 Bits/Channel" = "8비트/채널";
+
+/* No comment provided by engineer. */
 "8-bits per channel" = "채널당 8비트";
 
 /* No comment provided by engineer. */
@@ -165,9 +174,6 @@
 
 /* No comment provided by engineer. */
 "Add a Keyword" = "키워드 추가";
-
-/* No comment provided by engineer. */
-"Add and edit video layers just like you edit images using all the familiar image editing tools in Pixelmator Pro. " = "Pixelmator Pro의 익숙한 이미지 편집 도구를 사용해 이미지를 편집하는 것처럼 비디오 레이어를 추가하고 편집하세요. ";
 
 /* No comment provided by engineer. */
 "Add Color" = "색상 추가";
@@ -214,6 +220,9 @@
 /* No comment provided by engineer. */
 "Add to Shape" = "도형에 추가";
 
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users apply color adjustment presets and adjust the colors of photos in other ways. */
+"Adjust Colors" = "색상 조정";
+
 /* No comment provided by engineer. */
 "Adjust Light Position" = "광원 위치 조정";
 
@@ -258,6 +267,9 @@
 
 /* No comment provided by engineer. */
 "Align Vertical Centers" = "세로 가운데 맞춤";
+
+/* No comment provided by engineer. */
+"All edits will be saved nondestructively, so you can fine-tune them later." = "모든 편집본은 비파괴적으로 저장되므로 나중에 미세 조정할 수 있습니다.";
 
 /* No comment provided by engineer. */
 "All rights reserved." = "모든 권리 보유.";
@@ -311,6 +323,9 @@
 "Apple ProRes 4444" = "Apple ProRes 4444";
 
 /* No comment provided by engineer. */
+"Apply" = "적용";
+
+/* No comment provided by engineer. */
 "Apply LUT" = "LUT 적용";
 
 /* No comment provided by engineer. */
@@ -361,7 +376,7 @@
 /* No comment provided by engineer. */
 "Auto Contrast" = "자동 대비";
 
-/* No comment provided by engineer. */
+/* Appears as the title of a button that automatically enhances photos as part of a batch photo editing workflow. */
 "Auto Enhance" = "자동 향상";
 
 /* No comment provided by engineer. */
@@ -582,6 +597,9 @@
 
 /* No comment provided by engineer. */
 "Change Style" = "스타일 변경";
+
+/* No comment provided by engineer. */
+"Changing image size…" = "Changing image size…";
 
 /* No comment provided by engineer. */
 "Channel" = "채널";
@@ -925,7 +943,7 @@
 /* No comment provided by engineer. */
 "Critical Resources Unavailable" = "중요한 리소스를 사용할 수 없음";
 
-/* No comment provided by engineer. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users crop photos. */
 "Crop" = "자르기";
 
 /* No comment provided by engineer. */
@@ -943,7 +961,7 @@
 /* No comment provided by engineer. */
 "Curves" = "곡선";
 
-/* No comment provided by engineer. */
+/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset lets users set a custom size. */
 "Custom" = "사용자 정의";
 
 /* No comment provided by engineer. */
@@ -1029,6 +1047,12 @@
 
 /* No comment provided by engineer. */
 "Denoise" = "노이즈 제거";
+
+/* No comment provided by engineer. */
+"Denoise Split Comparison" = "Denoise Split Comparison";
+
+/* No comment provided by engineer. */
+"Denoise…" = "Denoise…";
 
 /* No comment provided by engineer. */
 "Denoising…" = "노이즈 제거 중…";
@@ -1280,9 +1304,6 @@
 "Enhance your photos with a collection of machine learning-powered color adjustments and perfect every detail with the magical retouching tools." = "머신 러닝 기반 색상 조정 컬렉션을 사용해 사진을 향상시키고 마법 같은 보정 도구로 세부적인 곳까지 전부 완벽하게 만드세요.";
 
 /* No comment provided by engineer. */
-"Enjoy many improvements to Motion file support including video layers, nondestructive color adjustments and effects, and more." = "비디오 레이어, 비파괴적 색상 조정 및 효과 등 모션 파일 지원을 위한 수많은 개선 사항을 이용하세요.";
-
-/* No comment provided by engineer. */
 "Erase" = "지우기";
 
 /* No comment provided by engineer. */
@@ -1321,7 +1342,7 @@
 /* No comment provided by engineer. */
 "Expand" = "확장";
 
-/* No comment provided by engineer. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users customize how photos are exported. */
 "Export" = "내보내기";
 
 /* No comment provided by engineer. */
@@ -1539,9 +1560,6 @@
 
 /* Effects category name */
 "Generator" = "생성자";
-
-/* No comment provided by engineer. */
-"Get Info" = "정보 가져오기";
 
 /* No comment provided by engineer. */
 "Get Started" = "시작하기";
@@ -1786,8 +1804,17 @@
 /* No comment provided by engineer. */
 "inches" = "인치";
 
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users increase the resolution of photos using an AI-powered algorithm. */
+"Increase Resolution" = "해상도 올리기";
+
+/* No comment provided by engineer. */
+"Increase the resolution of photos using a machine learning-powered algorithm." = "머신 러닝 기반 알고리즘을 사용하여 사진의 해상도를 올립니다.";
+
 /* No comment provided by engineer. */
 "Increasing resolution…" = "해상도를 늘리는 중…";
+
+/* No comment provided by engineer. */
+"Info" = "정보";
 
 /* No comment provided by engineer. */
 "Information" = "정보";
@@ -2032,11 +2059,17 @@
 /* No comment provided by engineer. */
 "Master Color Wheel" = "마스터 색상 원판";
 
+/* Appears as the title of a button that enables automatic color matching of the styles of an input photo. */
+"Match Colors" = "색상 일치";
+
 /* No comment provided by engineer. */
 "Match Colors…" = "색상 일치…";
 
 /* No comment provided by engineer. */
 "Match Profile" = "프로필 일치시키기";
+
+/* No comment provided by engineer. */
+"Matching colors…" = "Matching colors…";
 
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "최대 압력 크기";
@@ -2065,38 +2098,20 @@
 /* No comment provided by engineer. */
 "Millimeters" = "밀리미터";
 
-/* No comment provided by engineer. */
+/* Appears as the title of a button that uses machine learning (ML) to crop photos as part of a batch photo editing workflow */
 "ML Crop" = "ML 자르기";
 
 /* No comment provided by engineer. */
 "ML Decontaminate Selection" = "ML Decontaminate Selection";
 
-/* No comment provided by engineer. */
-"ML Denoise" = "ML 노이즈 제거";
-
-/* No comment provided by engineer. */
-"ML Denoise Split Comparison" = "ML 노이즈 제거 분할 비교";
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize machine learning. */
+"ML Edits" = "ML Edits";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML 향상";
 
 /* No comment provided by engineer. */
-"ML Match Colors" = "ML 색상 일치";
-
-/* No comment provided by engineer. */
-"ML Match Colors…" = "ML 색상 일치…";
-
-/* No comment provided by engineer. */
 "ML Refine Mask" = "ML Refine Mask";
-
-/* No comment provided by engineer. */
-"ML Super Resolution" = "ML 초해상도";
-
-/* No comment provided by engineer. */
-"ML Super Resolution Split Comparison" = "ML 초해상도 분할 비교";
-
-/* No comment provided by engineer. */
-"ML Super Resolution…" = "ML 초해상도…";
 
 /* No comment provided by engineer. */
 "ML Unshake" = "ML 흔들림 보정";
@@ -2112,9 +2127,6 @@
 
 /* No comment provided by engineer. */
 "More Workflows…" = "작업 흐름 더 보기…";
-
-/* No comment provided by engineer. */
-"Motion Support Improvements" = "모션 지원 개선";
 
 /* No comment provided by engineer. */
 "Move" = "이동";
@@ -2186,6 +2198,15 @@
 "My Shapes" = "나의 도형";
 
 /* No comment provided by engineer. */
+"New Album" = "New Album";
+
+/* No comment provided by engineer. */
+"New Album with Selection (%i Photo)" = "New Album with Selection (%i Photo)";
+
+/* No comment provided by engineer. */
+"New Album with Selection (%i Photos)" = "New Album with Selection (%i Photos)";
+
+/* No comment provided by engineer. */
 "New Collection" = "새 컬렉션";
 
 /* No comment provided by engineer. */
@@ -2198,9 +2219,6 @@
 "New Ellipse Shape" = "새 타원 도형";
 
 /* No comment provided by engineer. */
-"New File Formats" = "새 파일 형식:";
-
-/* No comment provided by engineer. */
 "New from Clipboard" = "클립보드에서 새로 만들기";
 
 /* No comment provided by engineer. */
@@ -2211,6 +2229,9 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "새 선 도형";
+
+/* No comment provided by engineer. */
+"New name for batch preset:" = "New name for batch preset:";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "새로운 색상 조정 컬렉션 이름:";
@@ -2272,6 +2293,9 @@
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "카메라 정보 없음";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No camera information" = "카메라 정보가 없습니다";
+
 /* No comment provided by engineer. */
 "No camera or scanner connected." = "연결된 카메라 또는 스캐너가 없습니다.";
 
@@ -2299,6 +2323,9 @@
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "렌즈 정보 없음";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No lens information" = "렌즈 정보가 없습니다";
+
 /* No comment provided by engineer. */
 "No Recent Documents" = "최근 사용 문서 없음";
 
@@ -2311,7 +2338,8 @@
 /* No comment provided by engineer. */
 "Noise Reduction" = "노이즈 감소";
 
-/* No comment provided by engineer. */
+/* Refers to a photo cropping preset that does not crop the photo in any way.
+   Refers to an image cropping preset that does not alter the aspect ratio of an image in any way and does not crop it. */
 "None" = "없음";
 
 /* No comment provided by engineer. */
@@ -2359,6 +2387,10 @@
 /* No comment provided by engineer. */
 "Oriented" = "방향성";
 
+/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset keeps the original size.
+   Refers to a photo cropping preset that crops the photo auotmatically, maintaining its original aspect ratio. */
+"Original" = "원본";
+
 /* No comment provided by engineer. */
 "Original Size" = "원래 크기";
 
@@ -2399,7 +2431,7 @@
 "Paste All Palettes" = "모든 팔레트 붙여넣기";
 
 /* No comment provided by engineer. */
-"Paste and ML Match Colors" = "붙여넣기 및 ML 색상 일치";
+"Paste and Match Colors" = "Paste and Match Colors";
 
 /* No comment provided by engineer. */
 "Paste Document Colors" = "문서 색상 붙여넣기";
@@ -2411,7 +2443,7 @@
 "Paste Styles" = "스타일 붙이기";
 
 /* No comment provided by engineer. */
-"Pasting and ML Match Colors…" = "붙여넣기 및 ML 색상 일치…";
+"Pasting and matching colors…" = "Pasting and matching colors…";
 
 /* No comment provided by engineer. */
 "Path" = "경로";
@@ -2475,6 +2507,9 @@
 
 /* No comment provided by engineer. */
 "Pin Histogram" = "히스토그램 고정";
+
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users make a preset appear in a shortcut menu. */
+"Pin in Menu" = "메뉴에 고정";
 
 /* No comment provided by engineer. */
 "Pin Light" = "핀 라이트";
@@ -2563,7 +2598,8 @@
 /* No comment provided by engineer. */
 "Poster" = "포스터";
 
-/* Refers to a setting that allows users to preserve edits in a linked document. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users choose whether nondestructive edits will be preserved for each batch edited photo.
+   Refers to a setting that allows users to preserve edits in a linked document. */
 "Preserve Edits" = "편집본 보존";
 
 /* No comment provided by engineer. */
@@ -2575,7 +2611,8 @@
 /* No comment provided by engineer. */
 "Preset" = "프리셋";
 
-/* DocumentInspector */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize color adjustment filters (a.k.a. presets).
+   DocumentInspector */
 "Presets" = "프리셋";
 
 /* No comment provided by engineer. */
@@ -2668,6 +2705,9 @@
 /* No comment provided by engineer. */
 "Redo %@" = "%@ 다시 실행";
 
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users remove noise from photos using an AI-powered algorithm. */
+"Reduce Noise" = "노이즈 줄이기";
+
 /* No comment provided by engineer. */
 "Refine Edge" = "가장자리 조정";
 
@@ -2709,6 +2749,9 @@
 
 /* No comment provided by engineer. */
 "Remove Background" = " 배경 제거";
+
+/* No comment provided by engineer. */
+"Remove camera noise and image compression artifacts." = "카메라 노이즈 및 이미지 압축 아티팩트를 제거합니다.";
 
 /* No comment provided by engineer. */
 "Remove Collection" = "컬렉션 제거";
@@ -2941,7 +2984,7 @@
 /* No comment provided by engineer. */
 "Right Indent" = "오른쪽 들여쓰기";
 
-/* No comment provided by engineer. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users rotate, straighten, and flip photos. */
 "Rotate" = "회전";
 
 /* No comment provided by engineer. */
@@ -3448,6 +3491,9 @@
 /* No comment provided by engineer. */
 "Spot Light" = "스팟 라이트";
 
+/* Refers to a photo cropping preset that crops the photo auotmatically to a square aspect ratio. */
+"Square" = "정사각형";
+
 /* No comment provided by engineer. */
 "Square Photo Grid" = "정사각형 사진 그리드";
 
@@ -3483,6 +3529,9 @@
 
 /* No comment provided by engineer. */
 "Story" = "스토리";
+
+/* Appears as the title of a button that automatically straightens photos as part of a batch photo editing workflow */
+"Straighten" = "수평 조절";
 
 /* No comment provided by engineer. */
 "Stretch" = "늘이기";
@@ -3537,6 +3586,9 @@
 
 /* No comment provided by engineer. */
 "Super Resolution" = "초해상도";
+
+/* No comment provided by engineer. */
+"Super Resolution Split Comparison" = "Super Resolution Split Comparison";
 
 /* Format */
 "SVG" = "SVG";
@@ -3773,7 +3825,16 @@
 "Unnamed" = "이름 없음";
 
 /* No comment provided by engineer. */
+"Unnamed Collection" = "Unnamed Collection";
+
+/* No comment provided by engineer. */
 "Untitled" = "제목 없음";
+
+/* No comment provided by engineer. */
+"Untitled Album" = "Untitled Album";
+
+/* No comment provided by engineer. */
+"Untitled Folder" = "Untitled Folder";
 
 /* No comment provided by engineer. */
 "Untitled Layer" = "제목 없는 레이어";
@@ -3789,9 +3850,6 @@
 
 /* No comment provided by engineer. */
 "Upgrade" = "업그레이드";
-
-/* No comment provided by engineer. */
-"Use gorgeous new templates to quickly place your videos in cinematic movie covers and social media posts." = "멋지고 새로운 템플릿을 사용해 시네마틱 영화 커버와 소셜 미디어 게시물에 빠르게 비디오를 배치하세요.";
 
 /* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "텍스처 인식 알고리즘 사용";
@@ -3815,13 +3873,7 @@
 "Video" = "비디오";
 
 /* No comment provided by engineer. */
-"Video Editing" = "비디오 편집";
-
-/* No comment provided by engineer. */
 "Video Layer" = "비디오 레이어";
-
-/* No comment provided by engineer. */
-"Video Templates" = "비디오 템플릿";
 
 /* No comment provided by engineer. */
 "View" = "보기";
@@ -3868,10 +3920,7 @@
 /* Refers to the color of the application window background. */
 "Window Background" = "윈도우 배경";
 
-/* No comment provided by engineer. */
-"Work with videos in MP4, QuickTime Movie, or other popular video formats, and even edit animated GIFs." = "MP4, QuickTime Movie, 또는 다른 인기 비디오 형식을 사용해 작업하고 움직이는 GIF를 편집하세요.";
-
-/* No comment provided by engineer. */
+/* Refers to photo batch editing workflows (that let you edit a number of photos at once) and appears as a title in a toolbar. */
 "Workflows" = "작업 흐름";
 
 /* No comment provided by engineer. */
