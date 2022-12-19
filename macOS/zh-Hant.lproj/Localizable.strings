@@ -40,6 +40,9 @@
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d 個檔案已經存在。是否要替換它們？";
 
+/* No comment provided by engineer. */
+"%d Photos" = "%d 張照片";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
@@ -78,6 +81,9 @@
 
 /* No comment provided by engineer. */
 "15 fps" = "15 fps";
+
+/* No comment provided by engineer. */
+"16 Bits/Channel" = "16位/通道";
 
 /* No comment provided by engineer. */
 "16-bits per channel" = "每通道 16 位";
@@ -137,6 +143,9 @@
 "60 fps" = "60 fps";
 
 /* No comment provided by engineer. */
+"8 Bits/Channel" = "8位/通道";
+
+/* No comment provided by engineer. */
 "8-bits per channel" = "每通道 8 位";
 
 /* No comment provided by engineer. */
@@ -165,9 +174,6 @@
 
 /* No comment provided by engineer. */
 "Add a Keyword" = "添加關鍵字";
-
-/* No comment provided by engineer. */
-"Add and edit video layers just like you edit images using all the familiar image editing tools in Pixelmator Pro. " = "使用你熟悉的 Pixelmator Pro 工具新增並編輯影片圖層，就像是在編輯照片一樣。";
 
 /* No comment provided by engineer. */
 "Add Color" = "新增顏色";
@@ -214,6 +220,9 @@
 /* No comment provided by engineer. */
 "Add to Shape" = "添加到形狀";
 
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users apply color adjustment presets and adjust the colors of photos in other ways. */
+"Adjust Colors" = "調整顏色";
+
 /* No comment provided by engineer. */
 "Adjust Light Position" = "調整亮光位置";
 
@@ -258,6 +267,9 @@
 
 /* No comment provided by engineer. */
 "Align Vertical Centers" = "垂直置中對齊";
+
+/* No comment provided by engineer. */
+"All edits will be saved nondestructively, so you can fine-tune them later." = "所有編輯內容都將以無損格式儲存，以便您之後對其微調。";
 
 /* No comment provided by engineer. */
 "All rights reserved." = "保留一切權利.";
@@ -311,6 +323,9 @@
 "Apple ProRes 4444" = "Apple ProRes 4444";
 
 /* No comment provided by engineer. */
+"Apply" = "套用";
+
+/* No comment provided by engineer. */
 "Apply LUT" = "套用 LUT";
 
 /* No comment provided by engineer. */
@@ -361,7 +376,7 @@
 /* No comment provided by engineer. */
 "Auto Contrast" = "自動對比度";
 
-/* No comment provided by engineer. */
+/* Appears as the title of a button that automatically enhances photos as part of a batch photo editing workflow. */
 "Auto Enhance" = "自動增強";
 
 /* No comment provided by engineer. */
@@ -582,6 +597,9 @@
 
 /* No comment provided by engineer. */
 "Change Style" = "更改樣式";
+
+/* No comment provided by engineer. */
+"Changing image size…" = "正在更改影像大小…";
 
 /* No comment provided by engineer. */
 "Channel" = "通道";
@@ -925,7 +943,7 @@
 /* No comment provided by engineer. */
 "Critical Resources Unavailable" = "無法使用重要資源";
 
-/* No comment provided by engineer. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users crop photos. */
 "Crop" = "裁切";
 
 /* No comment provided by engineer. */
@@ -943,7 +961,7 @@
 /* No comment provided by engineer. */
 "Curves" = "曲線";
 
-/* No comment provided by engineer. */
+/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset lets users set a custom size. */
 "Custom" = "自訂";
 
 /* No comment provided by engineer. */
@@ -1029,6 +1047,12 @@
 
 /* No comment provided by engineer. */
 "Denoise" = "去除雜訊";
+
+/* No comment provided by engineer. */
+"Denoise Split Comparison" = "去雜訊分割比較";
+
+/* No comment provided by engineer. */
+"Denoise…" = "去除雜訊…";
 
 /* No comment provided by engineer. */
 "Denoising…" = "正在去除雜訊…";
@@ -1280,9 +1304,6 @@
 "Enhance your photos with a collection of machine learning-powered color adjustments and perfect every detail with the magical retouching tools." = "使用機器學習幫忙調整色彩，輔以潤飾工具修飾每一個細節，讓照片更臻完美。";
 
 /* No comment provided by engineer. */
-"Enjoy many improvements to Motion file support including video layers, nondestructive color adjustments and effects, and more." = "享受眾多動態檔案的改善功能，包含影片圖層、可還原的色彩調整和效果等等。";
-
-/* No comment provided by engineer. */
 "Erase" = "清除";
 
 /* No comment provided by engineer. */
@@ -1321,7 +1342,7 @@
 /* No comment provided by engineer. */
 "Expand" = "展開";
 
-/* No comment provided by engineer. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users customize how photos are exported. */
 "Export" = "匯出";
 
 /* No comment provided by engineer. */
@@ -1539,9 +1560,6 @@
 
 /* Effects category name */
 "Generator" = "產生器";
-
-/* No comment provided by engineer. */
-"Get Info" = "了解資訊";
 
 /* No comment provided by engineer. */
 "Get Started" = "開始";
@@ -1786,8 +1804,17 @@
 /* No comment provided by engineer. */
 "inches" = "英吋";
 
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users increase the resolution of photos using an AI-powered algorithm. */
+"Increase Resolution" = "提升解析度";
+
+/* No comment provided by engineer. */
+"Increase the resolution of photos using a machine learning-powered algorithm." = "使用機器學習演算法增加照片的解析度。";
+
 /* No comment provided by engineer. */
 "Increasing resolution…" = "正在提升解析度…";
+
+/* No comment provided by engineer. */
+"Info" = "資訊";
 
 /* No comment provided by engineer. */
 "Information" = "資訊";
@@ -2032,11 +2059,17 @@
 /* No comment provided by engineer. */
 "Master Color Wheel" = "主色輪";
 
+/* Appears as the title of a button that enables automatic color matching of the styles of an input photo. */
+"Match Colors" = "匹配顏色";
+
 /* No comment provided by engineer. */
 "Match Colors…" = "匹配顏色…";
 
 /* No comment provided by engineer. */
 "Match Profile" = "匹配描述檔";
+
+/* No comment provided by engineer. */
+"Matching colors…" = "正在匹配顏色…";
 
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "最大壓力大小";
@@ -2065,38 +2098,20 @@
 /* No comment provided by engineer. */
 "Millimeters" = "公釐";
 
-/* No comment provided by engineer. */
+/* Appears as the title of a button that uses machine learning (ML) to crop photos as part of a batch photo editing workflow */
 "ML Crop" = "ML 裁切";
 
 /* No comment provided by engineer. */
 "ML Decontaminate Selection" = "ML Decontaminate Selection";
 
-/* No comment provided by engineer. */
-"ML Denoise" = "ML 降噪";
-
-/* No comment provided by engineer. */
-"ML Denoise Split Comparison" = "ML 去雜訊分割比較";
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize machine learning. */
+"ML Edits" = "ML 編輯";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML 增強";
 
 /* No comment provided by engineer. */
-"ML Match Colors" = "ML 匹配顏色";
-
-/* No comment provided by engineer. */
-"ML Match Colors…" = "ML 匹配顏色⋯";
-
-/* No comment provided by engineer. */
 "ML Refine Mask" = "ML Refine Mask";
-
-/* No comment provided by engineer. */
-"ML Super Resolution" = "ML 超解析度";
-
-/* No comment provided by engineer. */
-"ML Super Resolution Split Comparison" = "ML 超解析度分割比較";
-
-/* No comment provided by engineer. */
-"ML Super Resolution…" = "ML 超解析度…";
 
 /* No comment provided by engineer. */
 "ML Unshake" = "ML 防手震";
@@ -2112,9 +2127,6 @@
 
 /* No comment provided by engineer. */
 "More Workflows…" = "更多工作流程…";
-
-/* No comment provided by engineer. */
-"Motion Support Improvements" = "改善動態支援";
 
 /* No comment provided by engineer. */
 "Move" = "移動";
@@ -2186,6 +2198,15 @@
 "My Shapes" = "我的形狀";
 
 /* No comment provided by engineer. */
+"New Album" = "新增相簿";
+
+/* No comment provided by engineer. */
+"New Album with Selection (%i Photo)" = "為所選項目新增相簿（%i 張照片）";
+
+/* No comment provided by engineer. */
+"New Album with Selection (%i Photos)" = "為所選項目新增相簿（%i 張照片）";
+
+/* No comment provided by engineer. */
 "New Collection" = "新集合";
 
 /* No comment provided by engineer. */
@@ -2198,9 +2219,6 @@
 "New Ellipse Shape" = "新建橢圓形狀";
 
 /* No comment provided by engineer. */
-"New File Formats" = "新的檔案格式";
-
-/* No comment provided by engineer. */
 "New from Clipboard" = "使用剪貼板的內容新增檔案";
 
 /* No comment provided by engineer. */
@@ -2211,6 +2229,9 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "新建線條形狀";
+
+/* No comment provided by engineer. */
+"New name for batch preset:" = "批次預設組的新名稱：";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "顏色調整集合的新名稱:";
@@ -2272,6 +2293,9 @@
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "無相機資訊";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No camera information" = "無相機資訊";
+
 /* No comment provided by engineer. */
 "No camera or scanner connected." = "尚未連接相機或掃描器。";
 
@@ -2299,6 +2323,9 @@
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "無鏡頭資訊";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No lens information" = "無鏡頭資訊";
+
 /* No comment provided by engineer. */
 "No Recent Documents" = "沒有最近使用過的文件";
 
@@ -2311,7 +2338,8 @@
 /* No comment provided by engineer. */
 "Noise Reduction" = "雜點消除";
 
-/* No comment provided by engineer. */
+/* Refers to a photo cropping preset that does not crop the photo in any way.
+   Refers to an image cropping preset that does not alter the aspect ratio of an image in any way and does not crop it. */
 "None" = "無";
 
 /* No comment provided by engineer. */
@@ -2359,6 +2387,10 @@
 /* No comment provided by engineer. */
 "Oriented" = "追隨方向";
 
+/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset keeps the original size.
+   Refers to a photo cropping preset that crops the photo auotmatically, maintaining its original aspect ratio. */
+"Original" = "原件";
+
 /* No comment provided by engineer. */
 "Original Size" = "原來大小";
 
@@ -2399,7 +2431,7 @@
 "Paste All Palettes" = "貼上所有調色盤";
 
 /* No comment provided by engineer. */
-"Paste and ML Match Colors" = "貼上並使用 ML 匹配顏色";
+"Paste and Match Colors" = "貼上並匹配顏色";
 
 /* No comment provided by engineer. */
 "Paste Document Colors" = "貼上文件顏色";
@@ -2411,7 +2443,7 @@
 "Paste Styles" = "貼上樣式";
 
 /* No comment provided by engineer. */
-"Pasting and ML Match Colors…" = "正在貼上並使用 ML 匹配顏色⋯";
+"Pasting and matching colors…" = "正在貼上並匹配顏色…";
 
 /* No comment provided by engineer. */
 "Path" = "路徑";
@@ -2475,6 +2507,9 @@
 
 /* No comment provided by engineer. */
 "Pin Histogram" = "固定直方圖";
+
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users make a preset appear in a shortcut menu. */
+"Pin in Menu" = "在選單中置頂";
 
 /* No comment provided by engineer. */
 "Pin Light" = "小光源";
@@ -2563,7 +2598,8 @@
 /* No comment provided by engineer. */
 "Poster" = "海報";
 
-/* Refers to a setting that allows users to preserve edits in a linked document. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users choose whether nondestructive edits will be preserved for each batch edited photo.
+   Refers to a setting that allows users to preserve edits in a linked document. */
 "Preserve Edits" = "保留編輯";
 
 /* No comment provided by engineer. */
@@ -2575,7 +2611,8 @@
 /* No comment provided by engineer. */
 "Preset" = "預設組";
 
-/* DocumentInspector */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize color adjustment filters (a.k.a. presets).
+   DocumentInspector */
 "Presets" = "預設組";
 
 /* No comment provided by engineer. */
@@ -2668,6 +2705,9 @@
 /* No comment provided by engineer. */
 "Redo %@" = "重作 %@";
 
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users remove noise from photos using an AI-powered algorithm. */
+"Reduce Noise" = "減少雜訊";
+
 /* No comment provided by engineer. */
 "Refine Edge" = "調整邊緣";
 
@@ -2709,6 +2749,9 @@
 
 /* No comment provided by engineer. */
 "Remove Background" = "移除背景";
+
+/* No comment provided by engineer. */
+"Remove camera noise and image compression artifacts." = "移除相機雜訊和影像壓縮失真。";
 
 /* No comment provided by engineer. */
 "Remove Collection" = "移除集合";
@@ -2941,7 +2984,7 @@
 /* No comment provided by engineer. */
 "Right Indent" = "右端縮排";
 
-/* No comment provided by engineer. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users rotate, straighten, and flip photos. */
 "Rotate" = "旋轉";
 
 /* No comment provided by engineer. */
@@ -3448,6 +3491,9 @@
 /* No comment provided by engineer. */
 "Spot Light" = "探照燈";
 
+/* Refers to a photo cropping preset that crops the photo auotmatically to a square aspect ratio. */
+"Square" = "正方形";
+
 /* No comment provided by engineer. */
 "Square Photo Grid" = "方形照片網格";
 
@@ -3483,6 +3529,9 @@
 
 /* No comment provided by engineer. */
 "Story" = "故事";
+
+/* Appears as the title of a button that automatically straightens photos as part of a batch photo editing workflow */
+"Straighten" = "拉直";
 
 /* No comment provided by engineer. */
 "Stretch" = "拉伸";
@@ -3537,6 +3586,9 @@
 
 /* No comment provided by engineer. */
 "Super Resolution" = "超級解析度";
+
+/* No comment provided by engineer. */
+"Super Resolution Split Comparison" = "超解析度分割比較";
 
 /* Format */
 "SVG" = "SVG";
@@ -3773,7 +3825,16 @@
 "Unnamed" = "未命名";
 
 /* No comment provided by engineer. */
+"Unnamed Collection" = "未命名的收藏集";
+
+/* No comment provided by engineer. */
 "Untitled" = "未命名";
+
+/* No comment provided by engineer. */
+"Untitled Album" = "未命名的相簿";
+
+/* No comment provided by engineer. */
+"Untitled Folder" = "未命名的資料夾";
 
 /* No comment provided by engineer. */
 "Untitled Layer" = "未命名圖層";
@@ -3789,9 +3850,6 @@
 
 /* No comment provided by engineer. */
 "Upgrade" = "升級";
-
-/* No comment provided by engineer. */
-"Use gorgeous new templates to quickly place your videos in cinematic movie covers and social media posts." = "使用華麗的新模板，快速將影片放進電影海報和社群媒體的貼文中。";
 
 /* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "使用考慮紋理特徵的演算法";
@@ -3815,13 +3873,7 @@
 "Video" = "影片";
 
 /* No comment provided by engineer. */
-"Video Editing" = "正在編輯影片";
-
-/* No comment provided by engineer. */
 "Video Layer" = "影片圖層";
-
-/* No comment provided by engineer. */
-"Video Templates" = "影片模板";
 
 /* No comment provided by engineer. */
 "View" = "檢視";
@@ -3868,10 +3920,7 @@
 /* Refers to the color of the application window background. */
 "Window Background" = "視窗背景顏色：";
 
-/* No comment provided by engineer. */
-"Work with videos in MP4, QuickTime Movie, or other popular video formats, and even edit animated GIFs." = "可搭配 MP4、QuickTime 影片及其他常見影片格式，連 GIF 動畫都可以。";
-
-/* No comment provided by engineer. */
+/* Refers to photo batch editing workflows (that let you edit a number of photos at once) and appears as a title in a toolbar. */
 "Workflows" = "工作流程";
 
 /* No comment provided by engineer. */

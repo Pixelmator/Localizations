@@ -40,6 +40,9 @@
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "Уже имеется %d файлов. Хотите заменить их?";
 
+/* No comment provided by engineer. */
+"%d Photos" = "%d фото";
+
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
 
@@ -78,6 +81,9 @@
 
 /* No comment provided by engineer. */
 "15 fps" = "15 кадр/с";
+
+/* No comment provided by engineer. */
+"16 Bits/Channel" = "16 бит/канал";
 
 /* No comment provided by engineer. */
 "16-bits per channel" = "16 бит/канал";
@@ -137,6 +143,9 @@
 "60 fps" = "60 кадр/с";
 
 /* No comment provided by engineer. */
+"8 Bits/Channel" = "8 бит/канал";
+
+/* No comment provided by engineer. */
 "8-bits per channel" = "8 бит/канал";
 
 /* No comment provided by engineer. */
@@ -165,9 +174,6 @@
 
 /* No comment provided by engineer. */
 "Add a Keyword" = "Добавить ключевое слово";
-
-/* No comment provided by engineer. */
-"Add and edit video layers just like you edit images using all the familiar image editing tools in Pixelmator Pro. " = "Добавляйте и редактируйте слои видео точно так же, как вы редактируете изображения, используя все знакомые инструменты редактирования изображений в Pixelmator Pro.";
 
 /* No comment provided by engineer. */
 "Add Color" = "Добавить цвет";
@@ -214,6 +220,9 @@
 /* No comment provided by engineer. */
 "Add to Shape" = "Добавить фигуру";
 
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users apply color adjustment presets and adjust the colors of photos in other ways. */
+"Adjust Colors" = "Настроить цвета";
+
 /* No comment provided by engineer. */
 "Adjust Light Position" = "Настроить положение света";
 
@@ -258,6 +267,9 @@
 
 /* No comment provided by engineer. */
 "Align Vertical Centers" = "Выровнять центры по вертикали";
+
+/* No comment provided by engineer. */
+"All edits will be saved nondestructively, so you can fine-tune them later." = "Все правки будут сохранены недеструктивно, так что вы сможете сделать их тонкую правку позже.";
 
 /* No comment provided by engineer. */
 "All rights reserved." = "Все права защищены.";
@@ -311,6 +323,9 @@
 "Apple ProRes 4444" = "Apple ProRes 4444";
 
 /* No comment provided by engineer. */
+"Apply" = "Применить";
+
+/* No comment provided by engineer. */
 "Apply LUT" = "Применить LUT";
 
 /* No comment provided by engineer. */
@@ -361,7 +376,7 @@
 /* No comment provided by engineer. */
 "Auto Contrast" = "Автоподбор контраста";
 
-/* No comment provided by engineer. */
+/* Appears as the title of a button that automatically enhances photos as part of a batch photo editing workflow. */
 "Auto Enhance" = "Автоулучшение";
 
 /* No comment provided by engineer. */
@@ -582,6 +597,9 @@
 
 /* No comment provided by engineer. */
 "Change Style" = "Изменить стиль";
+
+/* No comment provided by engineer. */
+"Changing image size…" = "Изменение размера изображения…";
 
 /* No comment provided by engineer. */
 "Channel" = "Канал";
@@ -925,7 +943,7 @@
 /* No comment provided by engineer. */
 "Critical Resources Unavailable" = "Недоступны критически важные ресурсы";
 
-/* No comment provided by engineer. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users crop photos. */
 "Crop" = "Обрезка";
 
 /* No comment provided by engineer. */
@@ -943,7 +961,7 @@
 /* No comment provided by engineer. */
 "Curves" = "Кривые";
 
-/* No comment provided by engineer. */
+/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset lets users set a custom size. */
 "Custom" = "Пользовательский";
 
 /* No comment provided by engineer. */
@@ -1029,6 +1047,12 @@
 
 /* No comment provided by engineer. */
 "Denoise" = "Denoise";
+
+/* No comment provided by engineer. */
+"Denoise Split Comparison" = "Разделенный экран с Denoise";
+
+/* No comment provided by engineer. */
+"Denoise…" = "Снижение шума…";
 
 /* No comment provided by engineer. */
 "Denoising…" = "Снижение шума…";
@@ -1280,9 +1304,6 @@
 "Enhance your photos with a collection of machine learning-powered color adjustments and perfect every detail with the magical retouching tools." = "Улучшайте фотографии с помощью коллекции машинно-обучаемых цветокорректировок и совершенствуйте каждую деталь волшебными ретуширующими инструментами.";
 
 /* No comment provided by engineer. */
-"Enjoy many improvements to Motion file support including video layers, nondestructive color adjustments and effects, and more." = "Наслаждайтесь множеством улучшений в поддержке файлов Motion, включая слои видео, неразрушающие настройки и эффекты цвета и многое другое.";
-
-/* No comment provided by engineer. */
 "Erase" = "Ластик";
 
 /* No comment provided by engineer. */
@@ -1321,7 +1342,7 @@
 /* No comment provided by engineer. */
 "Expand" = "Развернуть";
 
-/* No comment provided by engineer. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users customize how photos are exported. */
 "Export" = "Экспорт";
 
 /* No comment provided by engineer. */
@@ -1539,9 +1560,6 @@
 
 /* Effects category name */
 "Generator" = "Генератор";
-
-/* No comment provided by engineer. */
-"Get Info" = "Информация";
 
 /* No comment provided by engineer. */
 "Get Started" = "Начинаем!";
@@ -1786,8 +1804,17 @@
 /* No comment provided by engineer. */
 "inches" = "дюймы";
 
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users increase the resolution of photos using an AI-powered algorithm. */
+"Increase Resolution" = "Улучшить разрешение";
+
+/* No comment provided by engineer. */
+"Increase the resolution of photos using a machine learning-powered algorithm." = "Увеличить разрешение фото с помощью алгоритма машинного обучения (ML).";
+
 /* No comment provided by engineer. */
 "Increasing resolution…" = "Улучшение разрешения…";
+
+/* No comment provided by engineer. */
+"Info" = "Свойства";
 
 /* No comment provided by engineer. */
 "Information" = "Информация";
@@ -2032,11 +2059,17 @@
 /* No comment provided by engineer. */
 "Master Color Wheel" = "Цветовой мастер-круг";
 
+/* Appears as the title of a button that enables automatic color matching of the styles of an input photo. */
+"Match Colors" = "Подобрать цвета";
+
 /* No comment provided by engineer. */
 "Match Colors…" = "Подобрать цвета…";
 
 /* No comment provided by engineer. */
 "Match Profile" = "Подогнать к профилю";
+
+/* No comment provided by engineer. */
+"Matching colors…" = "Подгонка цветов…";
 
 /* No comment provided by engineer. */
 "Maximum Pressure Size" = "Размер макс. давления";
@@ -2065,38 +2098,20 @@
 /* No comment provided by engineer. */
 "Millimeters" = "Миллиметры";
 
-/* No comment provided by engineer. */
+/* Appears as the title of a button that uses machine learning (ML) to crop photos as part of a batch photo editing workflow */
 "ML Crop" = "ML-обрезка";
 
 /* No comment provided by engineer. */
 "ML Decontaminate Selection" = "ML Decontaminate Selection";
 
-/* No comment provided by engineer. */
-"ML Denoise" = "ML Denoise";
-
-/* No comment provided by engineer. */
-"ML Denoise Split Comparison" = "Разделенный экран с ML Denoise";
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize machine learning. */
+"ML Edits" = "ML-правки";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML Enhance";
 
 /* No comment provided by engineer. */
-"ML Match Colors" = "Машинно-обучаемая подгонка цветов";
-
-/* No comment provided by engineer. */
-"ML Match Colors…" = "Машинно-обучаемая подгонка цветов…";
-
-/* No comment provided by engineer. */
 "ML Refine Mask" = "ML Refine Mask";
-
-/* No comment provided by engineer. */
-"ML Super Resolution" = "ML Super Resolution";
-
-/* No comment provided by engineer. */
-"ML Super Resolution Split Comparison" = "Разделенный экран с ML Super Resolution";
-
-/* No comment provided by engineer. */
-"ML Super Resolution…" = "ML Super Resolution…";
 
 /* No comment provided by engineer. */
 "ML Unshake" = "ML Unshake";
@@ -2112,9 +2127,6 @@
 
 /* No comment provided by engineer. */
 "More Workflows…" = "Еще процессы…";
-
-/* No comment provided by engineer. */
-"Motion Support Improvements" = "Улучшения поддержки Motion";
 
 /* No comment provided by engineer. */
 "Move" = "Передвинуть";
@@ -2186,6 +2198,15 @@
 "My Shapes" = "Мои фигуры";
 
 /* No comment provided by engineer. */
+"New Album" = "Новый альбом";
+
+/* No comment provided by engineer. */
+"New Album with Selection (%i Photo)" = "Новый альбом из выбранного (%i фото)";
+
+/* No comment provided by engineer. */
+"New Album with Selection (%i Photos)" = "Новый альбом из выбранного (%i фото)";
+
+/* No comment provided by engineer. */
 "New Collection" = "Новая коллекция";
 
 /* No comment provided by engineer. */
@@ -2198,9 +2219,6 @@
 "New Ellipse Shape" = "Новый эллипс";
 
 /* No comment provided by engineer. */
-"New File Formats" = "Новые форматы файлов";
-
-/* No comment provided by engineer. */
 "New from Clipboard" = "Новое из буфера обмена";
 
 /* No comment provided by engineer. */
@@ -2211,6 +2229,9 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "Новая линия";
+
+/* No comment provided by engineer. */
+"New name for batch preset:" = "Новое имя для пакетного набора:";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "Новое имя для коллекции цветокоррекции:";
@@ -2272,6 +2293,9 @@
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "Нет данных камеры";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No camera information" = "Нет данных по камере";
+
 /* No comment provided by engineer. */
 "No camera or scanner connected." = "Камера или сканер не подключены.";
 
@@ -2299,6 +2323,9 @@
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "Нет данных об объективе";
 
+/* Displayed when the information about the camera used to take a photo is not known. */
+"No lens information" = "Нет данных по объективу";
+
 /* No comment provided by engineer. */
 "No Recent Documents" = "Нет недавних документов";
 
@@ -2311,7 +2338,8 @@
 /* No comment provided by engineer. */
 "Noise Reduction" = "Уменьшение шума";
 
-/* No comment provided by engineer. */
+/* Refers to a photo cropping preset that does not crop the photo in any way.
+   Refers to an image cropping preset that does not alter the aspect ratio of an image in any way and does not crop it. */
 "None" = "Нет";
 
 /* No comment provided by engineer. */
@@ -2359,6 +2387,10 @@
 /* No comment provided by engineer. */
 "Oriented" = "Ориентированный";
 
+/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset keeps the original size.
+   Refers to a photo cropping preset that crops the photo auotmatically, maintaining its original aspect ratio. */
+"Original" = "Исходный";
+
 /* No comment provided by engineer. */
 "Original Size" = "Исходный размер";
 
@@ -2399,7 +2431,7 @@
 "Paste All Palettes" = "Вставить все палитры";
 
 /* No comment provided by engineer. */
-"Paste and ML Match Colors" = "Вставка и машинно-обучаемая подгонка цветов";
+"Paste and Match Colors" = "Вставить и согласовать цвета";
 
 /* No comment provided by engineer. */
 "Paste Document Colors" = "Вставить цвета документа";
@@ -2411,7 +2443,7 @@
 "Paste Styles" = "Вставить стили";
 
 /* No comment provided by engineer. */
-"Pasting and ML Match Colors…" = "Вставка и машинно-обучаемая подгонка цветов…";
+"Pasting and matching colors…" = "Вставка и согласование цветов…";
 
 /* No comment provided by engineer. */
 "Path" = "Путь";
@@ -2475,6 +2507,9 @@
 
 /* No comment provided by engineer. */
 "Pin Histogram" = "Столбчатая гистограмма";
+
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users make a preset appear in a shortcut menu. */
+"Pin in Menu" = "Вставить в меню";
 
 /* No comment provided by engineer. */
 "Pin Light" = "Точечный свет";
@@ -2563,7 +2598,8 @@
 /* No comment provided by engineer. */
 "Poster" = "Плакат";
 
-/* Refers to a setting that allows users to preserve edits in a linked document. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users choose whether nondestructive edits will be preserved for each batch edited photo.
+   Refers to a setting that allows users to preserve edits in a linked document. */
 "Preserve Edits" = "Сохранить правки";
 
 /* No comment provided by engineer. */
@@ -2575,7 +2611,8 @@
 /* No comment provided by engineer. */
 "Preset" = "Preset";
 
-/* DocumentInspector */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize color adjustment filters (a.k.a. presets).
+   DocumentInspector */
 "Presets" = "Наборы";
 
 /* No comment provided by engineer. */
@@ -2668,6 +2705,9 @@
 /* No comment provided by engineer. */
 "Redo %@" = "Повторить «%@»";
 
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users remove noise from photos using an AI-powered algorithm. */
+"Reduce Noise" = "Уменьшить шум";
+
 /* No comment provided by engineer. */
 "Refine Edge" = "Уточнить границы";
 
@@ -2709,6 +2749,9 @@
 
 /* No comment provided by engineer. */
 "Remove Background" = "Удалить фон";
+
+/* No comment provided by engineer. */
+"Remove camera noise and image compression artifacts." = "Удаляйте с фотографий цифровой шум и нежелательные артефакты.";
 
 /* No comment provided by engineer. */
 "Remove Collection" = "Удалить коллекцию";
@@ -2941,7 +2984,7 @@
 /* No comment provided by engineer. */
 "Right Indent" = "Правый отступ";
 
-/* No comment provided by engineer. */
+/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users rotate, straighten, and flip photos. */
 "Rotate" = "Повернуть";
 
 /* No comment provided by engineer. */
@@ -3448,6 +3491,9 @@
 /* No comment provided by engineer. */
 "Spot Light" = "Прожектор";
 
+/* Refers to a photo cropping preset that crops the photo auotmatically to a square aspect ratio. */
+"Square" = "Квадрат";
+
 /* No comment provided by engineer. */
 "Square Photo Grid" = "Квадратная фотосетка";
 
@@ -3483,6 +3529,9 @@
 
 /* No comment provided by engineer. */
 "Story" = "Сюжет";
+
+/* Appears as the title of a button that automatically straightens photos as part of a batch photo editing workflow */
+"Straighten" = "Выпрямить";
 
 /* No comment provided by engineer. */
 "Stretch" = "Растяжение";
@@ -3537,6 +3586,9 @@
 
 /* No comment provided by engineer. */
 "Super Resolution" = "Cупер-разрешение";
+
+/* No comment provided by engineer. */
+"Super Resolution Split Comparison" = "Разделенный экран супер-разрешения";
 
 /* Format */
 "SVG" = "SVG";
@@ -3773,7 +3825,16 @@
 "Unnamed" = "Без имени";
 
 /* No comment provided by engineer. */
+"Unnamed Collection" = "Коллекция без имени";
+
+/* No comment provided by engineer. */
 "Untitled" = "Без названия";
+
+/* No comment provided by engineer. */
+"Untitled Album" = "Альбом без названия";
+
+/* No comment provided by engineer. */
+"Untitled Folder" = "Папка без названия";
 
 /* No comment provided by engineer. */
 "Untitled Layer" = "Слой без названия";
@@ -3789,9 +3850,6 @@
 
 /* No comment provided by engineer. */
 "Upgrade" = "Обновить";
-
-/* No comment provided by engineer. */
-"Use gorgeous new templates to quickly place your videos in cinematic movie covers and social media posts." = "Используйте великолепные новые шаблоны, чтобы быстро размещать свои видео в кинематографических обложках фильмов и постах в соцсетях.";
 
 /* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "Использовать алгоритм учёта текстуры";
@@ -3815,13 +3873,7 @@
 "Video" = "Видео";
 
 /* No comment provided by engineer. */
-"Video Editing" = "Видеоредактирование";
-
-/* No comment provided by engineer. */
 "Video Layer" = "Слой видео";
-
-/* No comment provided by engineer. */
-"Video Templates" = "Шаблоны видео";
 
 /* No comment provided by engineer. */
 "View" = "Вид";
@@ -3868,10 +3920,7 @@
 /* Refers to the color of the application window background. */
 "Window Background" = "Фон окна";
 
-/* No comment provided by engineer. */
-"Work with videos in MP4, QuickTime Movie, or other popular video formats, and even edit animated GIFs." = "Работайте с видео в формате MP4, QuickTime Movie и других популярных видеоформатах и даже редактируйте анимированные GIF-файлы.";
-
-/* No comment provided by engineer. */
+/* Refers to photo batch editing workflows (that let you edit a number of photos at once) and appears as a title in a toolbar. */
 "Workflows" = "Процессы";
 
 /* No comment provided by engineer. */
