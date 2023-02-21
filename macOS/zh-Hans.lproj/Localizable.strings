@@ -14,10 +14,16 @@
 "%@ bits per channel" = "每通道%@位";
 
 /* No comment provided by engineer. */
+"%@ Bytes" = "%@ Bytes";
+
+/* No comment provided by engineer. */
 "%@ Effect" = "%@ 效果";
 
 /* No comment provided by engineer. */
 "%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ 遇到了致命错误，可能是由于磁盘可用空间不足或操作系统错误引起的。请尝试释放部分存储空间或重新启动 Mac。";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ items";
 
 /* No comment provided by engineer. */
 "%@ layer" = "%@ 图层";
@@ -220,14 +226,14 @@
 /* No comment provided by engineer. */
 "Add to Shape" = "添加到形状";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users apply color adjustment presets and adjust the colors of photos in other ways. */
-"Adjust Colors" = "调整颜色";
-
 /* No comment provided by engineer. */
 "Adjust Light Position" = "调整灯光位置";
 
 /* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "调整颜色的亮度和饱和度。";
+
+/* Shape line start or end */
+"Adjust the endpoint size." = "Adjust the endpoint size.";
 
 /* No comment provided by engineer. */
 "Adjust the hue of the color." = "调整颜色的色调。";
@@ -246,6 +252,9 @@
 
 /* No comment provided by engineer. */
 "Affine Tile" = "仿射拼贴";
+
+/* stroke options - stroke position */
+"Align" = "Align";
 
 /* No comment provided by engineer. */
 "Align Bottom Edges" = "底端对齐";
@@ -269,9 +278,6 @@
 "Align Vertical Centers" = "垂直居中对齐";
 
 /* No comment provided by engineer. */
-"All edits will be saved nondestructively, so you can fine-tune them later." = "所有编辑内容都将以无损格式保存，以便您之后对其微调。";
-
-/* No comment provided by engineer. */
 "All rights reserved." = "保留所有权利。";
 
 /* No comment provided by engineer. */
@@ -282,6 +288,12 @@
 
 /* No comment provided by engineer. */
 "Ambient Light" = "环境光";
+
+/* No comment provided by engineer. */
+"An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format.";
+
+/* No comment provided by engineer. */
+"An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out.";
 
 /* No comment provided by engineer. */
 "An unexpected error occurred." = "发生意外错误。";
@@ -328,6 +340,9 @@
 /* No comment provided by engineer. */
 "Apply LUT" = "应用 LUT";
 
+/* Refers to an associated file to which data is saved that accompanies a source file. Named after a motorbike sidecar. */
+"Are you sure you want to delete the sidecar file for this image?" = "Are you sure you want to delete the sidecar file for this image?";
+
 /* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "您确定要修改现有文稿吗？";
 
@@ -339,6 +354,18 @@
 
 /* No comment provided by engineer. */
 "Are you sure you want to remove the “%@” preset?" = "您确定要移除“%@”预置吗？";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Photomator sidecar files older than 30 days?" = "Are you sure you'd like to delete all Photomator sidecar files older than 30 days?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Photomator sidecar files?" = "Are you sure you'd like to delete all Photomator sidecar files?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Pixelmator Pro sidecar files older than 30 days?" = "Are you sure you'd like to delete all Pixelmator Pro sidecar files older than 30 days?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Pixelmator Pro sidecar files?" = "Are you sure you'd like to delete all Pixelmator Pro sidecar files?";
 
 /* No comment provided by engineer. */
 "Arrange" = "排列";
@@ -358,6 +385,9 @@
 /* No comment provided by engineer. */
 "Assign Profile" = "指定描述文件";
 
+/* No comment provided by engineer. */
+"Attempting to Open %@ Sidecar Document" = "Attempting to Open %@ Sidecar Document";
+
 /* Refers to the automatic setting used for application appearance. */
 "Auto" = "自动";
 
@@ -376,7 +406,7 @@
 /* No comment provided by engineer. */
 "Auto Contrast" = "自动对比度";
 
-/* Appears as the title of a button that automatically enhances photos as part of a batch photo editing workflow. */
+/* No comment provided by engineer. */
 "Auto Enhance" = "自动增强";
 
 /* No comment provided by engineer. */
@@ -451,6 +481,9 @@
 /* No comment provided by engineer. */
 "Behind" = "后面";
 
+/* Bezier path corner type */
+"Bevel" = "Bevel";
+
 /* No comment provided by engineer. */
 "Bias" = "偏移";
 
@@ -480,6 +513,9 @@
 
 /* Effects category name */
 "Blur" = "模糊";
+
+/* The name of an image file format. */
+"BMP" = "BMP";
 
 /* No comment provided by engineer. */
 "Bold" = "粗体";
@@ -527,6 +563,9 @@
 "Bump" = "凹凸";
 
 /* No comment provided by engineer. */
+"Butt" = "Butt";
+
+/* No comment provided by engineer. */
 "Buy Now" = "立即购买";
 
 /* No comment provided by engineer. */
@@ -534,6 +573,9 @@
 
 /* No comment provided by engineer. */
 "Calculating Size…" = "正在计算大小…";
+
+/* No comment provided by engineer. */
+"Calculating…" = "Calculating…";
 
 /* Cancel button title */
 "Cancel" = "取消";
@@ -547,11 +589,17 @@
 /* No comment provided by engineer. */
 "Capitalization" = "大写";
 
+/* stroke options - line caps */
+"Caps" = "Caps";
+
 /* No comment provided by engineer. */
 "Card" = "名片";
 
 /* No comment provided by engineer. */
 "Center" = "中央";
+
+/* No comment provided by engineer. */
+"Center." = "Center.";
 
 /* No comment provided by engineer. */
 "Centimeters" = "厘米";
@@ -597,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Change Style" = "更改样式";
+
+/* Shown as a subtitle when an image has an associated sidecar document, in which layers and other nondestructive edits are saved and tracked. */
+"Changes Tracked in Sidecar" = "Changes Tracked in Sidecar";
 
 /* No comment provided by engineer. */
 "Changing image size…" = "正在更改图片大小...";
@@ -716,6 +767,9 @@
 "Click to pick a color from your image." = "单击以从图像中选取颜色。";
 
 /* No comment provided by engineer. */
+"Click to pick a color to remove from your image" = "Click to pick a color to remove from your image";
+
+/* No comment provided by engineer. */
 "Click to pick a source color from your image" = "点击以从图像中选取来源颜色";
 
 /* No comment provided by engineer. */
@@ -753,6 +807,9 @@
 
 /* No comment provided by engineer. */
 "Clone" = "克隆";
+
+/* No comment provided by engineer. */
+"Clone Settings" = "克隆设置";
 
 /* No comment provided by engineer. */
 "Close Edit Tools" = "关闭编辑工具";
@@ -819,6 +876,9 @@
 
 /* No comment provided by engineer. */
 "Color Profiles" = "颜色描述文件";
+
+/* No comment provided by engineer. */
+"Color Range" = "Color Range";
 
 /* No comment provided by engineer. */
 "Color Selection" = "颜色选区";
@@ -913,6 +973,9 @@
 /* No comment provided by engineer. */
 "Copyright © %@ Pixelmator Team." = "Copyright © %@ Pixelmator Team.";
 
+/* stroke options - line join style */
+"Corner" = "Corner";
+
 /* No comment provided by engineer. */
 "Corner Radius" = "边角半径";
 
@@ -943,7 +1006,7 @@
 /* No comment provided by engineer. */
 "Critical Resources Unavailable" = "重要资源不可用";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users crop photos. */
+/* No comment provided by engineer. */
 "Crop" = "裁剪";
 
 /* No comment provided by engineer. */
@@ -961,7 +1024,7 @@
 /* No comment provided by engineer. */
 "Curves" = "曲线";
 
-/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset lets users set a custom size. */
+/* No comment provided by engineer. */
 "Custom" = "自定义";
 
 /* No comment provided by engineer. */
@@ -989,10 +1052,19 @@
 "Darken" = "变暗";
 
 /* No comment provided by engineer. */
+"Darken Settings" = "变暗设置";
+
+/* No comment provided by engineer. */
 "Darker Color" = "深色";
 
 /* No comment provided by engineer. */
 "Darks" = "深色";
+
+/* stroke options */
+"Dash" = "Dash";
+
+/* stroke options */
+"Dashed Line" = "Dashed Line";
 
 /* No comment provided by engineer. */
 "Deband" = "解绑";
@@ -1037,10 +1109,22 @@
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
-"Delete %i Items" = "删除 %i 项";
+"Delete %i Photos" = "Delete %i Photos";
 
 /* No comment provided by engineer. */
-"Delete 1 Item" = "删除 1 项";
+"Delete 1 Photo" = "Delete 1 Photo";
+
+/* No comment provided by engineer. */
+"Delete Album" = "Delete Album";
+
+/* No comment provided by engineer. */
+"Delete All Sidecar Files" = "Delete All Sidecar Files";
+
+/* No comment provided by engineer. */
+"Delete All Sidecar Files Older Than 30 Days" = "Delete All Sidecar Files Older Than 30 Days";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Delete Folder";
 
 /* No comment provided by engineer. */
 "Delete Layer" = "删除图层";
@@ -1074,6 +1158,9 @@
 
 /* No comment provided by engineer. */
 "Desaturate" = "去色";
+
+/* No comment provided by engineer. */
+"Desaturate Settings" = "Desaturate Settings";
 
 /* No comment provided by engineer. */
 "Description Change" = "描述更改";
@@ -1223,10 +1310,13 @@
 "Duplicate" = "复制";
 
 /* No comment provided by engineer. */
-"Duplicate %i Items" = "重复 %i 项";
+"Duplicate %i Photos" = "Duplicate %i Photos";
 
 /* No comment provided by engineer. */
-"Duplicate 1 Item" = "重复 1 项";
+"Duplicate 1 Photo" = "Duplicate 1 Photo";
+
+/* No comment provided by engineer. */
+"Duplicate Album" = "Duplicate Album";
 
 /* No comment provided by engineer. */
 "Duplicate Palette" = "复制调板";
@@ -1253,6 +1343,9 @@
 "Edit images and videos saved on your Mac" = "编辑保存在 Mac 上的图像和视频";
 
 /* No comment provided by engineer. */
+"Edit Photo" = "Edit Photo";
+
+/* No comment provided by engineer. */
 "Edit Photos" = "编辑图片";
 
 /* No comment provided by engineer. */
@@ -1263,6 +1356,9 @@
 
 /* Refers to application settings that affect editing. */
 "Editing" = "编辑";
+
+/* No comment provided by engineer. */
+"Editing Settings…" = "Editing Settings…";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "EDR 模式";
@@ -1309,11 +1405,17 @@
 /* No comment provided by engineer. */
 "Enable Texture-Aware Algorithm" = "启用纹理感知算法";
 
+/* Shape stroke end */
+"End" = "End";
+
 /* No comment provided by engineer. */
 "End Point" = "结束点";
 
 /* No comment provided by engineer. */
 "Enhance your photos with a collection of machine learning-powered color adjustments and perfect every detail with the magical retouching tools." = "通过一系列由机器学习支持的颜色调整来增强您的照片，使用神奇的修饰工具完善每个细节。";
+
+/* The name of an image file format. */
+"EPS" = "EPS";
 
 /* No comment provided by engineer. */
 "Erase" = "擦除";
@@ -1354,7 +1456,7 @@
 /* No comment provided by engineer. */
 "Expand" = "展开";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users customize how photos are exported. */
+/* No comment provided by engineer. */
 "Export" = "导出";
 
 /* No comment provided by engineer. */
@@ -1365,6 +1467,9 @@
 
 /* No comment provided by engineer. */
 "Export All…" = "导出所有…";
+
+/* No comment provided by engineer. */
+"Export Anyway" = "无论如何都导出";
 
 /* No comment provided by engineer. */
 "Export Color Adjustments" = "导出颜色调整";
@@ -1430,9 +1535,6 @@
 "Exposure" = "曝光";
 
 /* No comment provided by engineer. */
-"Extension" = "扩展";
-
-/* No comment provided by engineer. */
 "Extent" = "程度";
 
 /* No comment provided by engineer. */
@@ -1467,6 +1569,12 @@
 
 /* No comment provided by engineer. */
 "Failed to save LUT." = "LUT 保存失败。";
+
+/* No comment provided by engineer. */
+"Failed to Save Sidecar File" = "Failed to Save Sidecar File";
+
+/* No comment provided by engineer. */
+"Failed to Save to Photos" = "Failed to Save to Photos";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "未能获取一个或多个扩展属性。";
@@ -1552,6 +1660,9 @@
 /* No comment provided by engineer. */
 "For images opened from Photos" = "用于从照片中打开的图像";
 
+/* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
+"Format:" = "格式:";
+
 /* No comment provided by engineer. */
 "Free Selection" = "自由选区";
 
@@ -1567,6 +1678,9 @@
 /* No comment provided by engineer. */
 "G:" = "G:";
 
+/* stroke options */
+"Gap" = "Gap";
+
 /* Refers to general application settings. */
 "General" = "常规";
 
@@ -1576,7 +1690,7 @@
 /* No comment provided by engineer. */
 "Get Started" = "入门指南";
 
-/* Format */
+/* The name of an image file format. */
 "GIF" = "GIF";
 
 /* No comment provided by engineer. */
@@ -1653,6 +1767,9 @@
 
 /* No comment provided by engineer. */
 "Hard Mix" = "实色混合";
+
+/* The name of an image file format. */
+"HEIC" = "HEIC";
 
 /* No comment provided by engineer. */
 "Height:" = "高度:";
@@ -1771,6 +1888,12 @@
 /* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "如果这样做，下次使用 Pixelmator Pro 扩展编辑图像时，将恢复所有图层和其他非破坏性更改。\n\n否则，仅保存最终经过编辑的图像。";
 
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator" = "Illustrator";
+
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator Document" = "Illustrator Document";
+
 /* Untitled document name received via Handoff */
 "Image" = "图像";
 
@@ -1805,6 +1928,9 @@
 "Import All" = "全部导入";
 
 /* No comment provided by engineer. */
+"Import as New Document" = "Import as New Document";
+
+/* No comment provided by engineer. */
 "Import…" = "导入…";
 
 /* short for inches */
@@ -1815,12 +1941,6 @@
 
 /* No comment provided by engineer. */
 "inches" = "英寸";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users increase the resolution of photos using an AI-powered algorithm. */
-"Increase Resolution" = "提高分辨率";
-
-/* No comment provided by engineer. */
-"Increase the resolution of photos using a machine learning-powered algorithm." = "使用由机器学习驱动的算法提高照片的分辨率。";
 
 /* No comment provided by engineer. */
 "Increasing resolution…" = "正在提高分辨率…";
@@ -1868,6 +1988,9 @@
 "Intersected" = "相交";
 
 /* No comment provided by engineer. */
+"Introducing Sidecar Files" = "Introducing Sidecar Files";
+
+/* No comment provided by engineer. */
 "Invert" = "反转";
 
 /* No comment provided by engineer. */
@@ -1900,14 +2023,20 @@
 /* Command name to join two different shape paths. */
 "Join" = "加入";
 
-/* Format */
+/* The name of an image file format. */
 "JPEG" = "JPEG";
+
+/* The name of an image file format. */
+"JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
 "Keywords Change" = "关键字更改";
 
 /* No comment provided by engineer. */
 "Lasso Selection" = "套索选择";
+
+/* No comment provided by engineer. */
+"Later" = "Later";
 
 /* No comment provided by engineer. */
 "Layer" = "图层";
@@ -1919,10 +2048,19 @@
 "Layer Menu" = "图层菜单";
 
 /* No comment provided by engineer. */
+"Layer Selection" = "Layer Selection";
+
+/* No comment provided by engineer. */
 "Layer Styles" = "图层样式";
 
 /* No comment provided by engineer. */
+"Layers and other nondestructive edits will no longer be preserved for this image unless you re-enable this option from the Sidecar menu." = "Layers and other nondestructive edits will no longer be preserved for this image unless you re-enable this option from the Sidecar menu.";
+
+/* No comment provided by engineer. */
 "Learn more" = "了解更多";
+
+/* No comment provided by engineer. */
+"Learn more about the update" = "Learn more about the update";
 
 /* No comment provided by engineer. */
 "Left Indent" = "左缩进";
@@ -1958,6 +2096,9 @@
 "Lighten" = "变亮";
 
 /* No comment provided by engineer. */
+"Lighten Settings" = "变亮设置";
+
+/* No comment provided by engineer. */
 "Lighter Color" = "浅色";
 
 /* No comment provided by engineer. */
@@ -1989,6 +2130,9 @@
 
 /* No comment provided by engineer. */
 "Linear Tilt-Shift Blur" = "线性倾斜-移位模糊";
+
+/* Shape line start and end */
+"Link endpoints to resize them simultaneously or unlink to resize each endpoint separately." = "Link endpoints to resize them simultaneously or unlink to resize each endpoint separately.";
 
 /* No comment provided by engineer. */
 "Link Mask" = "链接蒙版";
@@ -2030,6 +2174,9 @@
 "Luminance Noise Reduction" = "亮度噪音降低";
 
 /* No comment provided by engineer. */
+"Luminance Range" = "Luminance Range";
+
+/* No comment provided by engineer. */
 "Luminosity" = "明度";
 
 /* No comment provided by engineer. */
@@ -2057,6 +2204,12 @@
 "Makes the Hidden album from your Photos library visible in Photomator." = "让照片图库中隐藏的相簿显示在 Photomato 中。";
 
 /* No comment provided by engineer. */
+"Manage Files…" = "Manage Files…";
+
+/* No comment provided by engineer. */
+"Manage Sidecar Files" = "Manage Sidecar Files";
+
+/* No comment provided by engineer. */
 "Manual" = "手动";
 
 /* No comment provided by engineer. */
@@ -2071,7 +2224,7 @@
 /* No comment provided by engineer. */
 "Master Color Wheel" = "主色轮";
 
-/* Appears as the title of a button that enables automatic color matching of the styles of an input photo. */
+/* No comment provided by engineer. */
 "Match Colors" = "匹配颜色";
 
 /* No comment provided by engineer. */
@@ -2110,14 +2263,11 @@
 /* No comment provided by engineer. */
 "Millimeters" = "毫米";
 
-/* Appears as the title of a button that uses machine learning (ML) to crop photos as part of a batch photo editing workflow */
+/* No comment provided by engineer. */
 "ML Crop" = "ML 裁剪";
 
 /* No comment provided by engineer. */
 "ML Decontaminate Selection" = "ML Decontaminate Selection";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize machine learning. */
-"ML Edits" = "ML 编辑器";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML 增强";
@@ -2139,6 +2289,9 @@
 
 /* No comment provided by engineer. */
 "More Workflows…" = "更多工作流程…";
+
+/* The name of a file format – specifically, a project file used by Apple's motion graphics app Motion. */
+"Motion Project" = "动作项目";
 
 /* No comment provided by engineer. */
 "Move" = "移动";
@@ -2174,9 +2327,12 @@
 "Moved Object" = "Moved Object";
 
 /* No comment provided by engineer. */
+"Movie" = "Movie";
+
+/* No comment provided by engineer. */
 "Movie Title" = "影片标题";
 
-/* Format */
+/* The name of a video file format. */
 "MP4" = "MP4";
 
 /* Displayed when a text layer is styled with multiple font families. */
@@ -2231,6 +2387,9 @@
 "New Ellipse Shape" = "新建椭圆形状";
 
 /* No comment provided by engineer. */
+"New Folder" = "New Folder";
+
+/* No comment provided by engineer. */
 "New from Clipboard" = "从剪贴板新建";
 
 /* No comment provided by engineer. */
@@ -2241,9 +2400,6 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "新建线条形状";
-
-/* No comment provided by engineer. */
-"New name for batch preset:" = "批量预设的新名称：";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "颜色调整集合的新名称:";
@@ -2302,6 +2458,9 @@
 /* No comment provided by engineer. */
 "New…" = "新建…";
 
+/* No comment provided by engineer. */
+"Next…" = "Next…";
+
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "无相机信息";
 
@@ -2330,6 +2489,9 @@
 "No Horizon Detected" = "未检测到水平线";
 
 /* No comment provided by engineer. */
+"No Layer Selected" = "No Layer Selected";
+
+/* No comment provided by engineer. */
 "No layers match the filter." = "没有匹配筛选条件的图层。";
 
 /* Displayed when the model of the camera lens used to take a photo is not known. */
@@ -2350,8 +2512,7 @@
 /* No comment provided by engineer. */
 "Noise Reduction" = "降噪";
 
-/* Refers to a photo cropping preset that does not crop the photo in any way.
-   Refers to an image cropping preset that does not alter the aspect ratio of an image in any way and does not crop it. */
+/* No comment provided by engineer. */
 "None" = "无";
 
 /* No comment provided by engineer. */
@@ -2385,6 +2546,15 @@
 "Open Edit Tools" = "打开编辑工具";
 
 /* No comment provided by engineer. */
+"Open Image" = "Open Image";
+
+/* No comment provided by engineer. */
+"Open Original Image" = "Open Original Image";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "Open Sidecar";
+
+/* No comment provided by engineer. */
 "Open System Preferences" = "打开系统偏好设置";
 
 /* No comment provided by engineer. */
@@ -2399,8 +2569,7 @@
 /* No comment provided by engineer. */
 "Oriented" = "追随方向";
 
-/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset keeps the original size.
-   Refers to a photo cropping preset that crops the photo auotmatically, maintaining its original aspect ratio. */
+/* No comment provided by engineer. */
 "Original" = "原件";
 
 /* No comment provided by engineer. */
@@ -2476,9 +2645,15 @@
 "Path Union" = "路径结合";
 
 /* No comment provided by engineer. */
+"Pattern Angle" = "Pattern Angle";
+
+/* No comment provided by engineer. */
 "Pattern Fill" = "图案填充";
 
 /* No comment provided by engineer. */
+"Pattern Scale" = "Pattern Scale";
+
+/* The name of an image file format. */
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
@@ -2502,26 +2677,44 @@
 /* No comment provided by engineer. */
 "Perspective Transform" = "透视变换";
 
+/* No comment provided by engineer. */
+"Photomator" = "Photomator";
+
+/* No comment provided by engineer. */
+"Photomator Document" = "Photomator Document";
+
+/* The name of file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits" = "Photomator Edits";
+
+/* The name of a file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits Document" = "Photomator Edits Document";
+
+/* No comment provided by engineer. */
+"Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images.";
+
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "照片";
 
-/* No comment provided by engineer. */
-"Photos Extension" = "照片扩展";
-
-/* No comment provided by engineer. */
+/* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop" = "Photoshop";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop (Large)" = "Photoshop (Large)";
+
+/* Refers to the Adobe Photoshop layered image file format. */
+"Photoshop Document" = "Photoshop 文稿";
 
 /* No comment provided by engineer. */
 "Photoshop Large" = "Photoshop 大型";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop Large Document" = "Photoshop Large Document";
 
 /* No comment provided by engineer. */
 "Photos…" = "照片…";
 
 /* No comment provided by engineer. */
 "Pin Histogram" = "固定直方图";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users make a preset appear in a shortcut menu. */
-"Pin in Menu" = "在菜单中置顶";
 
 /* No comment provided by engineer. */
 "Pin Light" = "点光";
@@ -2533,10 +2726,22 @@
 "Pixel Paint" = "像素漆";
 
 /* No comment provided by engineer. */
+"Pixelmator Classic" = "Pixelmator Classic";
+
+/* No comment provided by engineer. */
+"Pixelmator Classic Document" = "Pixelmator Classic Document";
+
+/* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
 
 /* No comment provided by engineer. */
+"Pixelmator Pro Document" = "Pixelmator Pro 文稿";
+
+/* No comment provided by engineer. */
 "Pixelmator Pro is built exclusively for macOS. So it’s easy to use by design and takes full advantage of the power of your Mac." = "Pixelmator Pro 专为 macOS 打造。因此设计上易于使用，可以充分利用 Mac 的强大性能。";
+
+/* The name of a file format containing nondestructive edits created by the Pixelmator Pro app. */
+"Pixelmator Pro Sidecar Document" = "Pixelmator Pro Sidecar Document";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Pixelmator Pro 试用";
@@ -2574,7 +2779,7 @@
 /* No comment provided by engineer. */
 "Please try relaunching Pixelmator Pro." = "请尝试重新启动 Pixelmator Pro。";
 
-/* Format */
+/* The name of an image file format. */
 "PNG" = "PNG";
 
 /* No comment provided by engineer. */
@@ -2610,8 +2815,10 @@
 /* No comment provided by engineer. */
 "Poster" = "海报";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users choose whether nondestructive edits will be preserved for each batch edited photo.
-   Refers to a setting that allows users to preserve edits in a linked document. */
+/* Appears as a headline introducing the app's photo browser. */
+"Powerful photo browser" = "Powerful photo browser";
+
+/* Refers to a setting that allows users to preserve edits in a linked document. */
 "Preserve Edits" = "保留编辑";
 
 /* No comment provided by engineer. */
@@ -2623,8 +2830,7 @@
 /* No comment provided by engineer. */
 "Preset" = "预设";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize color adjustment filters (a.k.a. presets).
-   DocumentInspector */
+/* DocumentInspector */
 "Presets" = "预设";
 
 /* No comment provided by engineer. */
@@ -2645,6 +2851,9 @@
 /* No comment provided by engineer. */
 "Quality" = "质量";
 
+/* Refers to image export quality. */
+"Quality:" = "质量:";
+
 /* No comment provided by engineer. */
 "Quick Export" = "快速导出";
 
@@ -2657,8 +2866,17 @@
 /* No comment provided by engineer. */
 "Quick Start Guide" = "快速入门指南";
 
+/* The name of a video file format. */
+"QuickTime" = "QuickTime";
+
+/* The name of a video file format. */
+"QuickTime Movie" = "QuickTime 影片";
+
 /* No comment provided by engineer. */
 "Quit" = "退出";
+
+/* No comment provided by engineer. */
+"Quit & Reopen" = "Quit & Reopen";
 
 /* Quit anyway button title */
 "Quit anyway" = "仍要退出";
@@ -2686,6 +2904,9 @@
 
 /* No comment provided by engineer. */
 "Range" = "范围";
+
+/* The name of an image file format. */
+"RAW" = "RAW";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW 图层";
@@ -2716,9 +2937,6 @@
 
 /* No comment provided by engineer. */
 "Redo %@" = "重做 %@";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users remove noise from photos using an AI-powered algorithm. */
-"Reduce Noise" = "消除杂点";
 
 /* No comment provided by engineer. */
 "Refine Edge" = "调整边缘";
@@ -2761,9 +2979,6 @@
 
 /* No comment provided by engineer. */
 "Remove Background" = "移除背景";
-
-/* No comment provided by engineer. */
-"Remove camera noise and image compression artifacts." = "移除相机噪音和图像压缩伪影。";
 
 /* No comment provided by engineer. */
 "Remove Collection" = "移除集合";
@@ -2830,6 +3045,12 @@
 
 /* No comment provided by engineer. */
 "Rename \"%@\"…" = "重命名 \"%@\"…";
+
+/* No comment provided by engineer. */
+"Rename Album" = "Rename Album";
+
+/* No comment provided by engineer. */
+"Rename Folder" = "Rename Folder";
 
 /* No comment provided by engineer. */
 "Rename…" = "重命名…";
@@ -2958,9 +3179,6 @@
 "Restore" = "恢复";
 
 /* No comment provided by engineer. */
-"Resume" = "继续";
-
-/* No comment provided by engineer. */
 "Retouch" = "润饰";
 
 /* No comment provided by engineer. */
@@ -2974,6 +3192,12 @@
 
 /* No comment provided by engineer. */
 "Reveal or hide the layer mask." = "显示或隐藏图层蒙版。";
+
+/* No comment provided by engineer. */
+"Reveal Sidecar File" = "Reveal Sidecar File";
+
+/* No comment provided by engineer. */
+"Reveal Sidecar Folder" = "Reveal Sidecar Folder";
 
 /* No comment provided by engineer. */
 "Revert to Default Set" = "还原为默认设置";
@@ -2996,7 +3220,7 @@
 /* No comment provided by engineer. */
 "Right Indent" = "右缩进";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users rotate, straighten, and flip photos. */
+/* No comment provided by engineer. */
 "Rotate" = "旋转";
 
 /* No comment provided by engineer. */
@@ -3019,6 +3243,9 @@
 
 /* No comment provided by engineer. */
 "Rotate Scene" = "旋转场景";
+
+/* Bezier path corner type */
+"Round" = "Round";
 
 /* No comment provided by engineer. */
 "Round Text Font Sizes" = "调整字体大小";
@@ -3045,6 +3272,9 @@
 "Saturate" = "饱和";
 
 /* No comment provided by engineer. */
+"Saturate Settings" = "Saturate Settings";
+
+/* No comment provided by engineer. */
 "Saturation" = "饱和度";
 
 /* No comment provided by engineer. */
@@ -3054,12 +3284,6 @@
 "Save" = "存储";
 
 /* No comment provided by engineer. */
-"Save as Default" = "存储为默认";
-
-/* No comment provided by engineer. */
-"Save as Preset" = "存储为预设";
-
-/* No comment provided by engineer. */
 "Save As:" = "存储为:";
 
 /* No comment provided by engineer. */
@@ -3067,6 +3291,9 @@
 
 /* No comment provided by engineer. */
 "Save Flattened" = "保存扁平化";
+
+/* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
+"Save layers and edits to a sidecar file" = "Save layers and edits to a sidecar file";
 
 /* No comment provided by engineer. */
 "Save LUT" = "存储 LUT";
@@ -3148,6 +3375,12 @@
 
 /* No comment provided by engineer. */
 "Select Column" = "选择列";
+
+/* No comment provided by engineer. */
+"Select Groups" = "Select Groups";
+
+/* No comment provided by engineer. */
+"Select Layers" = "Select Layers";
 
 /* No comment provided by engineer. */
 "Select multiple shape layers" = "选择多个形状图层";
@@ -3236,6 +3469,9 @@
 /* No comment provided by engineer. */
 "Set the color using a Hex color code." = "使用十六进制颜色代码设置颜色。";
 
+/* Shape line start or end */
+"Set the endpoint size." = "Set the endpoint size.";
+
 /* No comment provided by engineer. */
 "Set the image quality to use when automatically saving changes or sharing images to other apps." = "设置自动保存更改或与其他应用共享图像时使用的图像质量。";
 
@@ -3271,6 +3507,9 @@
 
 /* No comment provided by engineer. */
 "Sharpen Point" = "锐化点";
+
+/* No comment provided by engineer. */
+"Sharpen Settings" = "锐化图像";
 
 /* No comment provided by engineer. */
 "Sharpness" = "锐度";
@@ -3335,6 +3574,9 @@
 /* No comment provided by engineer. */
 "Show Layers" = "显示图层";
 
+/* Appears in a button prompting users to take a quick tour of the app's features. */
+"Show me around" = "带我看看";
+
 /* No comment provided by engineer. */
 "Show Optimized Preview" = "显示优化预览";
 
@@ -3360,6 +3602,9 @@
 "Show the effect rope on canvas." = "在画布上显示效果绳。";
 
 /* No comment provided by engineer. */
+"Show the pattern rope on canvas." = "Show the pattern rope on canvas.";
+
+/* No comment provided by engineer. */
 "Show this window when Pixelmator Pro launches" = "Pixelmator Pro 启动时显示此窗口";
 
 /* No comment provided by engineer. */
@@ -3381,7 +3626,16 @@
 "Shrink Text to Fit Setting" = "缩小文字以符合设置";
 
 /* No comment provided by engineer. */
+"Side by Side" = "Side by Side";
+
+/* No comment provided by engineer. */
 "Sidecar Disk Usage" = "Sidecar 磁盘使用情况";
+
+/* No comment provided by engineer. */
+"Sidecar File Not Found" = "Sidecar File Not Found";
+
+/* Refers to a linked file (sidecar file) that is linked to another image file. */
+"Sidecar:" = "Sidecar:";
 
 /* No comment provided by engineer. */
 "Sides: %d" = "边: %d";
@@ -3444,6 +3698,9 @@
 "Smudge" = "涂抹";
 
 /* No comment provided by engineer. */
+"Smudge Settings" = "涂抹设置";
+
+/* No comment provided by engineer. */
 "Snapping" = "捕捉";
 
 /* No comment provided by engineer. */
@@ -3463,6 +3720,9 @@
 
 /* No comment provided by engineer. */
 "Soften" = "柔化";
+
+/* No comment provided by engineer. */
+"Soften Settings" = "软化设置";
 
 /* No comment provided by engineer. */
 "Softness" = "软度";
@@ -3503,7 +3763,7 @@
 /* No comment provided by engineer. */
 "Spot Light" = "聚光灯光";
 
-/* Refers to a photo cropping preset that crops the photo auotmatically to a square aspect ratio. */
+/* Bezier path corner type */
 "Square" = "正方形";
 
 /* No comment provided by engineer. */
@@ -3514,6 +3774,9 @@
 
 /* No comment provided by engineer. */
 "Star Shape" = "星形";
+
+/* Shape stroke start */
+"Start" = "Start";
 
 /* No comment provided by engineer. */
 "Start Drawing" = "开始绘图";
@@ -3542,16 +3805,13 @@
 /* No comment provided by engineer. */
 "Story" = "故事";
 
-/* Appears as the title of a button that automatically straightens photos as part of a batch photo editing workflow */
-"Straighten" = "校正";
-
 /* No comment provided by engineer. */
 "Stretch" = "伸缩";
 
 /* No comment provided by engineer. */
 "Strikethrough" = "删除线";
 
-/* No comment provided by engineer. */
+/* DocumentInspector */
 "Stroke" = "描边";
 
 /* No comment provided by engineer. */
@@ -3602,7 +3862,7 @@
 /* No comment provided by engineer. */
 "Super Resolution Split Comparison" = "超分辨率分割比较";
 
-/* Format */
+/* The name of an image file format. */
 "SVG" = "SVG";
 
 /* No comment provided by engineer. */
@@ -3648,7 +3908,13 @@
 "Texture" = "纹理";
 
 /* No comment provided by engineer. */
+"Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "纹理感知调整不能使用 LUT 重新创建，因此导出的 LUT 看起来会不同。";
+
+/* No comment provided by engineer. */
 "Textures" = "纹理";
+
+/* No comment provided by engineer. */
+"Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image." = "Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image.";
 
 /* No comment provided by engineer. */
 "The document couldn’t be opened." = "未能打开文稿。";
@@ -3664,6 +3930,12 @@
 
 /* No comment provided by engineer. */
 "The document “%@” couldn’t be opened." = "未能打开文稿“%@”。";
+
+/* No comment provided by engineer. */
+"The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied.";
+
+/* No comment provided by engineer. */
+"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?";
 
 /* No comment provided by engineer. */
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF 格式不支持多个图层和其他附加格式信息。要保存该信息, 请将图像储存为 Pixelmator Pro 文稿。";
@@ -3699,12 +3971,21 @@
 "This document has missing fonts." = "此文档有字体缺失。";
 
 /* No comment provided by engineer. */
+"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead.";
+
+/* No comment provided by engineer. */
+"This image has been modified by another application." = "This image has been modified by another application.";
+
+/* No comment provided by engineer. */
+"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead.";
+
+/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "这是 Pixelmator Pro 的完整功能演示版本。";
 
 /* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "不支持这种变换。";
 
-/* No comment provided by engineer. */
+/* The name of an image file format. */
 "TIFF" = "TIFF";
 
 /* Effects category name */
@@ -3801,6 +4082,9 @@
 "Type" = "输入";
 
 /* No comment provided by engineer. */
+"Unable to Open Sidecar File" = "Unable to Open Sidecar File";
+
+/* No comment provided by engineer. */
 "Underline" = "下划线";
 
 /* No comment provided by engineer. */
@@ -3840,6 +4124,9 @@
 "Unnamed Collection" = "未命名的字体集";
 
 /* No comment provided by engineer. */
+"Unsupported Adjustments" = "不支持调整";
+
+/* No comment provided by engineer. */
 "Untitled" = "未命名";
 
 /* No comment provided by engineer. */
@@ -3863,6 +4150,12 @@
 /* No comment provided by engineer. */
 "Upgrade" = "升级";
 
+/* The name of a 3D file format. */
+"USD" = "USD";
+
+/* The name of a 3D file format. */
+"USDZ" = "USDZ";
+
 /* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "使用纹理感知算法";
 
@@ -3874,6 +4167,9 @@
 
 /* No comment provided by engineer. */
 "Version %@ (%@)" = "版本 %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"Version history is not fully supported for images with sidecar files." = "Version history is not fully supported for images with sidecar files.";
 
 /* No comment provided by engineer. */
 "Vertical Alignment" = "垂直对齐";
@@ -3908,7 +4204,7 @@
 /* No comment provided by engineer. */
 "Watercolor" = "水彩";
 
-/* Format */
+/* The name of an image file format. */
 "WebP" = "WebP";
 
 /* No comment provided by engineer. */
@@ -3932,7 +4228,7 @@
 /* Refers to the color of the application window background. */
 "Window Background" = "窗口背景：";
 
-/* Refers to photo batch editing workflows (that let you edit a number of photos at once) and appears as a title in a toolbar. */
+/* No comment provided by engineer. */
 "Workflows" = "工作流程";
 
 /* No comment provided by engineer. */
@@ -3969,6 +4265,9 @@
 "Yellow / Blue" = "黄色/蓝色";
 
 /* No comment provided by engineer. */
+"You can choose to quit and reopen %@ now or do it yourself later." = "You can choose to quit and reopen %@ now or do it yourself later.";
+
+/* No comment provided by engineer. */
 "You can discard the edits to keep your original file unmodified." = "您可以放弃编辑以保留原件不被修改。";
 
 /* No comment provided by engineer. */
@@ -3978,6 +4277,9 @@
 "You can download the latest version of %@ from the Mac App Store." = "您可以从 Mac App Store 下载最新版本 %@。";
 
 /* No comment provided by engineer. */
+"You can revert to a previous version of your document, however, it will not contain any nondestructive edits." = "You can revert to a previous version of your document, however, it will not contain any nondestructive edits.";
+
+/* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "您之前曾拒绝授予权限，如果希望使用 FaceTime 相机添加图像到文稿中，请在系统首选项中允许访问权限。";
 
 /* No comment provided by engineer. */
@@ -3985,6 +4287,12 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "您需要新版本才能打开此文稿。";
+
+/* No comment provided by engineer. */
+"You're attempting to open a %@ sidecar document which cannot be edited directly." = "You're attempting to open a %@ sidecar document which cannot be edited directly.";
+
+/* No comment provided by engineer. */
+"Your new autosave settings will not take effect until you quit %@." = "Your new autosave settings will not take effect until you quit %@.";
 
 /* No comment provided by engineer. */
 "Your trial has now expired. To enjoy the benefits of editing your images with both Pixelmator Pro and its Photos extension as well as easily downloading, redownloading, and automatically updating Pixelmator Pro on all your computers purchase the app from the Mac App Store." = "您的试用版已过期。要继续受使用 Pixelmator Pro 及其照片扩展程序的强大功能编辑图像，并在所有计算机上轻松下载，重新下载和自动更新 Pixelmator Pro，请从 Mac App Store 购买应用。";
