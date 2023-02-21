@@ -1,3 +1,6 @@
+/* Class = "NSMenuItem"; title = "Select Layers"; ObjectID = "02c-cI-laT"; */
+"02c-cI-laT.title" = "Select Layers";
+
 /* Class = "NSMenuItem"; title = "Scale"; ObjectID = "0AN-rc-H9C"; */
 "0AN-rc-H9C.title" = "Echelle";
 
@@ -127,8 +130,8 @@
 /* Class = "NSMenuItem"; title = "Paint"; ObjectID = "3Bq-pf-FwJ"; */
 "3Bq-pf-FwJ.title" = "Dessin";
 
-/* Class = "NSMenu"; title = "Distribute Objects"; ObjectID = "3GB-rV-UNH"; */
-"3GB-rV-UNH.title" = "Répartir les objets";
+/* Class = "NSMenu"; title = "Distribute Layers"; ObjectID = "3GB-rV-UNH"; */
+"3GB-rV-UNH.title" = "Distribute Layers";
 
 /* Class = "NSMenuItem"; title = "Link Mask"; ObjectID = "3dZ-Q6-Spa"; */
 "3dZ-Q6-Spa.title" = "Lier le masque";
@@ -151,14 +154,11 @@
 /* Class = "NSMenuItem"; title = "Distort…"; ObjectID = "4L7-eX-ueT"; */
 "4L7-eX-ueT.title" = "Distorsion…";
 
-/* Class = "NSMenuItem"; title = "Copy Document Colors"; ObjectID = "4Mh-0s-Rc1"; */
-"4Mh-0s-Rc1.title" = "Copier les couleurs du document";
-
 /* Class = "NSMenuItem"; title = "Bottom Edges"; ObjectID = "4Tq-r1-CaM"; */
 "4Tq-r1-CaM.title" = "Bords inférieurs";
 
-/* Class = "NSMenu"; title = "Align Objects"; ObjectID = "4cc-rw-ncG"; */
-"4cc-rw-ncG.title" = "Aligner les objets";
+/* Class = "NSMenu"; title = "Align Layers"; ObjectID = "4cc-rw-ncG"; */
+"4cc-rw-ncG.title" = "Align Layers";
 
 /* Class = "NSMenu"; title = "Shape"; ObjectID = "4fQ-d8-DSe"; */
 "4fQ-d8-DSe.title" = "Forme";
@@ -216,9 +216,6 @@
 
 /* Class = "NSMenuItem"; title = "Deselect"; ObjectID = "6UP-vV-ppP"; */
 "6UP-vV-ppP.title" = "Désélectionner ";
-
-/* Class = "NSMenuItem"; title = "PSDEngine Version"; ObjectID = "6Xm-Qd-c2z"; */
-"6Xm-Qd-c2z.title" = "PSDEngine Version";
 
 /* Class = "NSMenuItem"; title = "Show Tab Bar"; ObjectID = "6aM-1G-LeE"; */
 "6aM-1G-LeE.title" = "Afficher la barre d’onglets";
@@ -298,6 +295,12 @@
 /* Class = "NSMenu"; title = "Soft Proof Colors"; ObjectID = "9Lg-dT-WtH"; */
 "9Lg-dT-WtH.title" = "Correction de couleurs douces";
 
+/* Class = "NSMenuItem"; title = "Enable Sidecar File"; ObjectID = "9XG-Do-T1W"; */
+"9XG-Do-T1W.title" = "Enable Sidecar File";
+
+/* Class = "NSMenuItem"; title = "Delete Sidecar File"; ObjectID = "9at-iH-Xzw"; */
+"9at-iH-Xzw.title" = "Delete Sidecar File";
+
 /* Class = "NSMenuItem"; title = "Overlays"; ObjectID = "9jA-kG-WDH"; */
 "9jA-kG-WDH.title" = "Superpositions";
 
@@ -330,6 +333,9 @@
 
 /* Class = "NSMenuItem"; title = "Enable CI Image Cache"; ObjectID = "AyY-JH-cWm"; */
 "AyY-JH-cWm.title" = "Enable CI Image Cache";
+
+/* Class = "NSMenuItem"; title = "Enable Sidecar File"; ObjectID = "BMg-Lt-vDx"; */
+"BMg-Lt-vDx.title" = "Enable Sidecar File";
 
 /* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "Réglages…";
@@ -394,8 +400,8 @@
 /* Class = "NSMenu"; title = "Arrange"; ObjectID = "D2d-g4-MTd"; */
 "D2d-g4-MTd.title" = "Organiser";
 
-/* Class = "NSMenuItem"; title = "ML Refine Selection"; ObjectID = "D8b-1G-9Xz"; */
-"D8b-1G-9Xz.title" = "Affiner la sélection ML";
+/* Class = "NSMenuItem"; title = "Reveal Sidecar File in Finder"; ObjectID = "D8b-1G-9Xz"; */
+"D8b-1G-9Xz.title" = "Reveal Sidecar File in Finder";
 
 /* Class = "NSMenuItem"; title = "Elliptical Selection"; ObjectID = "DH5-N4-poC"; */
 "DH5-N4-poC.title" = "Sélection elliptique";
@@ -406,6 +412,9 @@
 /* Class = "NSMenu"; title = "Retouch"; ObjectID = "DRM-j2-Eu6"; */
 "DRM-j2-Eu6.title" = "Retoucher";
 
+/* Class = "NSMenuItem"; title = "Modify Orginal in Photos"; ObjectID = "DV2-rc-09O"; */
+"DV2-rc-09O.title" = "Modify Orginal in Photos";
+
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "Fermer";
 
@@ -414,9 +423,6 @@
 
 /* Class = "NSMenuItem"; title = "Paste and Match Colors"; ObjectID = "DpW-e9-fxW"; */
 "DpW-e9-fxW.title" = "Coller et adapter les couleurs";
-
-/* Class = "NSMenuItem"; title = "Paste Document Colors"; ObjectID = "Dwe-kD-A33"; */
-"Dwe-kD-A33.title" = "Coller les couleurs du document";
 
 /* Class = "NSMenuItem"; title = "Install UI Tests"; ObjectID = "E2l-Cj-kkL"; */
 "E2l-Cj-kkL.title" = "Install UI Tests";
@@ -457,8 +463,8 @@
 /* Class = "NSMenuItem"; title = "Convert to Color Adjustments Layer"; ObjectID = "FWc-KV-ayK"; */
 "FWc-KV-ayK.title" = "Convertir en Calque d’ajustements de couleurs";
 
-/* Class = "NSMenu"; title = "Pre-production Features"; ObjectID = "Faj-dX-fRy"; */
-"Faj-dX-fRy.title" = "Pre-production Features";
+/* Class = "NSMenu"; title = "Sidecar"; ObjectID = "Faj-dX-fRy"; */
+"Faj-dX-fRy.title" = "Sidecar";
 
 /* Class = "NSMenuItem"; title = "Print Memory Usage"; ObjectID = "FiT-dj-jtL"; */
 "FiT-dj-jtL.title" = "Imprimer l’utilisation mémoire";
@@ -501,6 +507,9 @@
 
 /* Class = "NSMenuItem"; title = "Refine Mask…"; ObjectID = "Gzq-HF-BvQ"; */
 "Gzq-HF-BvQ.title" = "Affiner le masque…";
+
+/* Class = "NSMenuItem"; title = "Reveal Sidecar File"; ObjectID = "H19-Gq-P9t"; */
+"H19-Gq-P9t.title" = "Reveal Sidecar File";
 
 /* Class = "NSMenu"; title = "Character Spacing"; ObjectID = "H3R-mM-cg6"; */
 "H3R-mM-cg6.title" = "Espacement des caractères";
@@ -568,6 +577,9 @@
 /* Class = "NSMenuItem"; title = "Select and Mask…"; ObjectID = "KLa-fZ-e1y"; */
 "KLa-fZ-e1y.title" = "Sélectionner et masquer…";
 
+/* Class = "NSMenuItem"; title = "Select Groups"; ObjectID = "KYK-hM-iFi"; */
+"KYK-hM-iFi.title" = "Select Groups";
+
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
 "KaW-ft-85H.title" = "Revenir à la version enregistrée";
 
@@ -603,9 +615,6 @@
 
 /* Class = "NSMenuItem"; title = "Preserve Transparency"; ObjectID = "Ler-0C-0Pw"; */
 "Ler-0C-0Pw.title" = "Conserver les zones transparentes";
-
-/* Class = "NSMenuItem"; title = "ML Refine Selection (Disabled Multiscale)"; ObjectID = "Ly8-Oy-gXe"; */
-"Ly8-Oy-gXe.title" = "ML Refine Selection (Disabled Multiscale)";
 
 /* Class = "NSMenuItem"; title = "Warp"; ObjectID = "MBm-1I-giF"; */
 "MBm-1I-giF.title" = "Déformation";
@@ -715,6 +724,9 @@
 /* Class = "NSMenuItem"; title = "Color Selection"; ObjectID = "QQt-yr-6na"; */
 "QQt-yr-6na.title" = "Sélection de couleur";
 
+/* Class = "NSMenuItem"; title = "iCloud:"; ObjectID = "QRB-Zh-JFg"; */
+"QRB-Zh-JFg.title" = "iCloud:";
+
 /* Class = "NSMenuItem"; title = "Quick Canvas Controls"; ObjectID = "QS7-ig-gPj"; */
 "QS7-ig-gPj.title" = "Contrôles rapides de la zone de travail";
 
@@ -772,6 +784,9 @@
 /* Class = "NSMenuItem"; title = "Load Selection"; ObjectID = "Sui-s2-jDR"; */
 "Sui-s2-jDR.title" = "Charger la sélection";
 
+/* Class = "NSMenu"; title = "Select Layers"; ObjectID = "TI2-hQ-n1a"; */
+"TI2-hQ-n1a.title" = "Select Layers";
+
 /* Class = "NSMenuItem"; title = "Always Show Controls"; ObjectID = "TPZ-ZJ-dL3"; */
 "TPZ-ZJ-dL3.title" = "Toujours afficher les commandes";
 
@@ -790,6 +805,9 @@
 /* Class = "NSMenuItem"; title = "Remove Background"; ObjectID = "U6l-WU-Khs"; */
 "U6l-WU-Khs.title" = "Supprimer l’arrière-plan";
 
+/* Class = "NSMenuItem"; title = "Force Delete Sidecar File"; ObjectID = "UCr-ES-4bp"; */
+"UCr-ES-4bp.title" = "Force Delete Sidecar File";
+
 /* Class = "NSMenuItem"; title = "Paste Mask"; ObjectID = "ULX-lw-dTg"; */
 "ULX-lw-dTg.title" = "Coller le masque";
 
@@ -807,6 +825,9 @@
 
 /* Class = "NSMenuItem"; title = "Retouch"; ObjectID = "Uj1-6l-JJy"; */
 "Uj1-6l-JJy.title" = "Retoucher";
+
+/* Class = "NSMenuItem"; title = "Auto Select"; ObjectID = "Unu-t5-xxf"; */
+"Unu-t5-xxf.title" = "Sélection automatique";
 
 /* Class = "NSMenuItem"; title = "Toggle Shape Tools"; ObjectID = "UuV-u0-WQN"; */
 "UuV-u0-WQN.title" = "Toggle Shape Tools";
@@ -874,8 +895,8 @@
 /* Class = "NSMenuItem"; title = "Merge Shape Components"; ObjectID = "XVv-gn-hXN"; */
 "XVv-gn-hXN.title" = "Fusionner les éléments de la forme";
 
-/* Class = "NSMenuItem"; title = "Align Objects"; ObjectID = "XZa-T0-Plf"; */
-"XZa-T0-Plf.title" = "Aligner les objets";
+/* Class = "NSMenuItem"; title = "Align Layers"; ObjectID = "XZa-T0-Plf"; */
+"XZa-T0-Plf.title" = "Align Layers";
 
 /* Class = "NSMenuItem"; title = "Toggle Effect Browser Editing"; ObjectID = "Xes-lu-XqL"; */
 "Xes-lu-XqL.title" = "Toggle Effect Browser Editing";
@@ -895,6 +916,9 @@
 /* Class = "NSMenuItem"; title = "Invert Selection"; ObjectID = "YLS-v4-OxS"; */
 "YLS-v4-OxS.title" = "Inverser la sélection";
 
+/* Class = "NSMenu"; title = "Sidecar"; ObjectID = "YNz-0y-zFf"; */
+"YNz-0y-zFf.title" = "Sidecar";
+
 /* Class = "NSMenuItem"; title = "New from Photos…"; ObjectID = "YRe-o2-QVy"; */
 "YRe-o2-QVy.title" = "Nouveau dans les photos…";
 
@@ -912,6 +936,9 @@
 
 /* Class = "NSMenuItem"; title = "Smart Guides"; ObjectID = "Yev-Wy-K5f"; */
 "Yev-Wy-K5f.title" = "Repères intelligents";
+
+/* Class = "NSMenuItem"; title = "Sidecar"; ObjectID = "YfF-zS-KE2"; */
+"YfF-zS-KE2.title" = "Sidecar";
 
 /* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "Yje-j6-ioi"; */
 "Yje-j6-ioi.title" = "Aligner à droite";
@@ -997,9 +1024,6 @@
 /* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "bj0-wj-vJE"; */
 "bj0-wj-vJE.title" = "Afficher les polices";
 
-/* Class = "NSMenuItem"; title = "ML Refine Mask"; ObjectID = "bj3-UV-kIH"; */
-"bj3-UV-kIH.title" = "ML Refine Mask";
-
 /* Class = "NSMenuItem"; title = "Last Used Type Tool"; ObjectID = "bjK-YJ-QOb"; */
 "bjK-YJ-QOb.title" = "Last Used Type Tool";
 
@@ -1009,11 +1033,11 @@
 /* Class = "NSMenuItem"; title = "Color Profile…"; ObjectID = "byQ-Tm-lkj"; */
 "byQ-Tm-lkj.title" = "Profil de couleur…";
 
-/* Class = "NSMenuItem"; title = "ML Decontaminate Colors"; ObjectID = "bzA-6m-tAm"; */
-"bzA-6m-tAm.title" = "Décontaminer les couleurs ML";
-
 /* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "cAm-KJ-Rjx"; */
 "cAm-KJ-Rjx.title" = "Taille réelle";
+
+/* Class = "NSMenuItem"; title = "Select Layers"; ObjectID = "cHD-c8-MP1"; */
+"cHD-c8-MP1.title" = "Select Layers";
 
 /* Class = "NSMenu"; title = "Advanced"; ObjectID = "cHY-ga-gKk"; */
 "cHY-ga-gKk.title" = "Avancé";
@@ -1057,6 +1081,9 @@
 /* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "dWq-1S-UlG"; */
 "dWq-1S-UlG.title" = "Rectangle";
 
+/* Class = "NSMenuItem"; title = "Delete Sidecar File"; ObjectID = "djd-Ue-fOc"; */
+"djd-Ue-fOc.title" = "Delete Sidecar File";
+
 /* Class = "NSMenuItem"; title = "Mute Audio"; ObjectID = "dnV-ZU-K1S"; */
 "dnV-ZU-K1S.title" = "Désactiver le son";
 
@@ -1084,6 +1111,9 @@
 /* Class = "NSMenuItem"; title = "Style"; ObjectID = "f1w-iV-KDN"; */
 "f1w-iV-KDN.title" = "Style";
 
+/* Class = "NSMenuItem"; title = "Sidecar Disk Usage"; ObjectID = "f9u-G5-CxV"; */
+"f9u-G5-CxV.title" = "Utilisation disque de Sidecar";
+
 /* Class = "NSMenuItem"; title = "Automatically Show Controls"; ObjectID = "fFE-hf-XTc"; */
 "fFE-hf-XTc.title" = "Afficher automatiquement les commandes";
 
@@ -1105,8 +1135,8 @@
 /* Class = "NSMenuItem"; title = "Select"; ObjectID = "fZZ-Gf-srs"; */
 "fZZ-Gf-srs.title" = "Sélectionner";
 
-/* Class = "NSMenuItem"; title = "Distribute Objects"; ObjectID = "fjp-Sg-CYK"; */
-"fjp-Sg-CYK.title" = "Répartir les objets";
+/* Class = "NSMenuItem"; title = "Distribute Layers"; ObjectID = "fjp-Sg-CYK"; */
+"fjp-Sg-CYK.title" = "Distribute Layers";
 
 /* Class = "NSMenuItem"; title = "Color Depth…"; ObjectID = "fjz-RR-1Vv"; */
 "fjz-RR-1Vv.title" = "Profondeur de couleur…";
@@ -1327,6 +1357,9 @@
 /* Class = "NSMenuItem"; title = "IOSurface"; ObjectID = "p6B-5r-NyR"; */
 "p6B-5r-NyR.title" = "IOSurface";
 
+/* Class = "NSMenuItem"; title = "Force Sidecar File writing failure"; ObjectID = "pM2-bF-YCj"; */
+"pM2-bF-YCj.title" = "Force Sidecar File writing failure";
+
 /* Class = "NSMenuItem"; title = "Enable Mask"; ObjectID = "pV5-7U-ftF"; */
 "pV5-7U-ftF.title" = "Activer le masque";
 
@@ -1384,8 +1417,8 @@
 /* Class = "NSMenuItem"; title = "Hide Tools"; ObjectID = "sfv-qk-fgU"; */
 "sfv-qk-fgU.title" = "Masquer les outils";
 
-/* Class = "NSMenuItem"; title = "Pre-production Features"; ObjectID = "sml-yf-evR"; */
-"sml-yf-evR.title" = "Pre-production Features";
+/* Class = "NSMenuItem"; title = "Sidecar"; ObjectID = "sml-yf-evR"; */
+"sml-yf-evR.title" = "Sidecar";
 
 /* Class = "NSMenuItem"; title = "Other…"; ObjectID = "spb-SQ-OzZ"; */
 "spb-SQ-OzZ.title" = "Autre…";
@@ -1471,6 +1504,9 @@
 /* Class = "NSMenuItem"; title = "Default Document Content Loading Behaviour"; ObjectID = "vY4-SA-XXP"; */
 "vY4-SA-XXP.title" = "Default Document Content Loading Behaviour";
 
+/* Class = "NSMenuItem"; title = "Force Reveal Sidecar File in Finder"; ObjectID = "vZ3-XC-uhP"; */
+"vZ3-XC-uhP.title" = "Force Reveal Sidecar File in Finder";
+
 /* Class = "NSMenuItem"; title = "Free Selection"; ObjectID = "vf7-kS-8wW"; */
 "vf7-kS-8wW.title" = "Sélection libre";
 
@@ -1537,6 +1573,9 @@
 /* Class = "NSMenuItem"; title = "Convert into Shape"; ObjectID = "yGD-AP-7LL"; */
 "yGD-AP-7LL.title" = "Convertir en forme";
 
+/* Class = "NSMenuItem"; title = "Delete All Sidecar Files"; ObjectID = "yhG-kN-ASA"; */
+"yhG-kN-ASA.title" = "Delete All Sidecar Files";
+
 /* Class = "NSMenuItem"; title = "Get Started (Internal Only)"; ObjectID = "yiV-aK-2TQ"; */
 "yiV-aK-2TQ.title" = "Démarrer (à usage interne uniquement)";
 
@@ -1555,11 +1594,11 @@
 /* Class = "NSMenuItem"; title = "Define as Placeholder"; ObjectID = "zJI-Wz-5D8"; */
 "zJI-Wz-5D8.title" = "Définir en tant qu'espace réservé";
 
+/* Class = "NSMenuItem"; title = "Pictures Folder:"; ObjectID = "zcF-si-IsB"; */
+"zcF-si-IsB.title" = "Pictures Folder:";
+
 /* Class = "NSMenuItem"; title = "Horizontal Centers"; ObjectID = "zcw-iN-Hhd"; */
 "zcw-iN-Hhd.title" = "Centres, dans le sens horizontal";
-
-/* Class = "NSMenuItem"; title = "ML Remove Background"; ObjectID = "zmC-zA-ugC"; */
-"zmC-zA-ugC.title" = "ML Remove Background";
 
 /* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "zqV-g2-2Qp"; */
 "zqV-g2-2Qp.title" = "Agrandir";
