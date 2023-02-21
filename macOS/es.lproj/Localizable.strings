@@ -14,10 +14,16 @@
 "%@ bits per channel" = "%@ bits por canal";
 
 /* No comment provided by engineer. */
+"%@ Bytes" = "%@ Bytes";
+
+/* No comment provided by engineer. */
 "%@ Effect" = "Efecto %@";
 
 /* No comment provided by engineer. */
 "%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ ha encontrado un error crítico, posiblemente debido al poco espacio en disco o a un error del sistema operativo. Puede ser útil liberar algo de almacenamiento o reiniciar tu Mac.";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ items";
 
 /* No comment provided by engineer. */
 "%@ layer" = "%@ capa";
@@ -220,14 +226,14 @@
 /* No comment provided by engineer. */
 "Add to Shape" = "Agregar a figura";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users apply color adjustment presets and adjust the colors of photos in other ways. */
-"Adjust Colors" = "Ajustar colores";
-
 /* No comment provided by engineer. */
 "Adjust Light Position" = "Ajustar la posición de la luz";
 
 /* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "Ajusta el brillo y la saturación del color.";
+
+/* Shape line start or end */
+"Adjust the endpoint size." = "Adjust the endpoint size.";
 
 /* No comment provided by engineer. */
 "Adjust the hue of the color." = "Ajusta el tono del color.";
@@ -246,6 +252,9 @@
 
 /* No comment provided by engineer. */
 "Affine Tile" = "Mosaico afín";
+
+/* stroke options - stroke position */
+"Align" = "Align";
 
 /* No comment provided by engineer. */
 "Align Bottom Edges" = "Alinear los bordes inferiores";
@@ -269,9 +278,6 @@
 "Align Vertical Centers" = "Alinear los centros verticales";
 
 /* No comment provided by engineer. */
-"All edits will be saved nondestructively, so you can fine-tune them later." = "Todas las modificaciones se guardarán de forma no destructiva, por lo que podrás volver a retocarlas más adelante.";
-
-/* No comment provided by engineer. */
 "All rights reserved." = "Todos los derechos reservados.";
 
 /* No comment provided by engineer. */
@@ -282,6 +288,12 @@
 
 /* No comment provided by engineer. */
 "Ambient Light" = "Luz ambiental";
+
+/* No comment provided by engineer. */
+"An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format.";
+
+/* No comment provided by engineer. */
+"An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out.";
 
 /* No comment provided by engineer. */
 "An unexpected error occurred." = "Ha ocurrido un error inesperado.";
@@ -328,6 +340,9 @@
 /* No comment provided by engineer. */
 "Apply LUT" = "Aplicar LUT";
 
+/* Refers to an associated file to which data is saved that accompanies a source file. Named after a motorbike sidecar. */
+"Are you sure you want to delete the sidecar file for this image?" = "Are you sure you want to delete the sidecar file for this image?";
+
 /* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "¿Seguro que quieres modificar el documento en ese sitio?";
 
@@ -339,6 +354,18 @@
 
 /* No comment provided by engineer. */
 "Are you sure you want to remove the “%@” preset?" = "¿Seguro que quieres eliminar el preajuste “%@”?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Photomator sidecar files older than 30 days?" = "Are you sure you'd like to delete all Photomator sidecar files older than 30 days?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Photomator sidecar files?" = "Are you sure you'd like to delete all Photomator sidecar files?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Pixelmator Pro sidecar files older than 30 days?" = "Are you sure you'd like to delete all Pixelmator Pro sidecar files older than 30 days?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Pixelmator Pro sidecar files?" = "Are you sure you'd like to delete all Pixelmator Pro sidecar files?";
 
 /* No comment provided by engineer. */
 "Arrange" = "Organizar";
@@ -358,6 +385,9 @@
 /* No comment provided by engineer. */
 "Assign Profile" = "Asignar perfil";
 
+/* No comment provided by engineer. */
+"Attempting to Open %@ Sidecar Document" = "Attempting to Open %@ Sidecar Document";
+
 /* Refers to the automatic setting used for application appearance. */
 "Auto" = "Auto";
 
@@ -376,7 +406,7 @@
 /* No comment provided by engineer. */
 "Auto Contrast" = "Contraste automático";
 
-/* Appears as the title of a button that automatically enhances photos as part of a batch photo editing workflow. */
+/* No comment provided by engineer. */
 "Auto Enhance" = "Automejora";
 
 /* No comment provided by engineer. */
@@ -451,6 +481,9 @@
 /* No comment provided by engineer. */
 "Behind" = "Detrás";
 
+/* Bezier path corner type */
+"Bevel" = "Bevel";
+
 /* No comment provided by engineer. */
 "Bias" = "Sesgo";
 
@@ -480,6 +513,9 @@
 
 /* Effects category name */
 "Blur" = "Difuminado";
+
+/* The name of an image file format. */
+"BMP" = "BMP";
 
 /* No comment provided by engineer. */
 "Bold" = "Negrita";
@@ -527,6 +563,9 @@
 "Bump" = "Rugoso";
 
 /* No comment provided by engineer. */
+"Butt" = "Butt";
+
+/* No comment provided by engineer. */
 "Buy Now" = "Comprar ahora";
 
 /* No comment provided by engineer. */
@@ -534,6 +573,9 @@
 
 /* No comment provided by engineer. */
 "Calculating Size…" = "Calculando tamaño…";
+
+/* No comment provided by engineer. */
+"Calculating…" = "Calculating…";
 
 /* Cancel button title */
 "Cancel" = "Cancelar";
@@ -547,11 +589,17 @@
 /* No comment provided by engineer. */
 "Capitalization" = "Mayúsculas";
 
+/* stroke options - line caps */
+"Caps" = "Caps";
+
 /* No comment provided by engineer. */
 "Card" = "Tarjeta";
 
 /* No comment provided by engineer. */
 "Center" = "Centrar";
+
+/* No comment provided by engineer. */
+"Center." = "Center.";
 
 /* No comment provided by engineer. */
 "Centimeters" = "Centímetros";
@@ -597,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Change Style" = "Cambiar estilo";
+
+/* Shown as a subtitle when an image has an associated sidecar document, in which layers and other nondestructive edits are saved and tracked. */
+"Changes Tracked in Sidecar" = "Changes Tracked in Sidecar";
 
 /* No comment provided by engineer. */
 "Changing image size…" = "Cambiando el tamaño de la imagen…";
@@ -716,6 +767,9 @@
 "Click to pick a color from your image." = "Haz clic para elegir un color en la imagen.";
 
 /* No comment provided by engineer. */
+"Click to pick a color to remove from your image" = "Click to pick a color to remove from your image";
+
+/* No comment provided by engineer. */
 "Click to pick a source color from your image" = "Haz clic para elegir un color de origen de la imagen";
 
 /* No comment provided by engineer. */
@@ -753,6 +807,9 @@
 
 /* No comment provided by engineer. */
 "Clone" = "Clonar";
+
+/* No comment provided by engineer. */
+"Clone Settings" = "Ajustes de clonación";
 
 /* No comment provided by engineer. */
 "Close Edit Tools" = "Cerrar herramientas de edición";
@@ -819,6 +876,9 @@
 
 /* No comment provided by engineer. */
 "Color Profiles" = "Perfiles de color";
+
+/* No comment provided by engineer. */
+"Color Range" = "Color Range";
 
 /* No comment provided by engineer. */
 "Color Selection" = "Selección de color";
@@ -913,6 +973,9 @@
 /* No comment provided by engineer. */
 "Copyright © %@ Pixelmator Team." = "Copyright © %@ Pixelmator Team.";
 
+/* stroke options - line join style */
+"Corner" = "Corner";
+
 /* No comment provided by engineer. */
 "Corner Radius" = "Radio de esquina";
 
@@ -943,7 +1006,7 @@
 /* No comment provided by engineer. */
 "Critical Resources Unavailable" = "Recursos críticos no disponibles";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users crop photos. */
+/* No comment provided by engineer. */
 "Crop" = "Recortar";
 
 /* No comment provided by engineer. */
@@ -961,7 +1024,7 @@
 /* No comment provided by engineer. */
 "Curves" = "Curvas";
 
-/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset lets users set a custom size. */
+/* No comment provided by engineer. */
 "Custom" = "Personalizado";
 
 /* No comment provided by engineer. */
@@ -989,10 +1052,19 @@
 "Darken" = "Oscurecer";
 
 /* No comment provided by engineer. */
+"Darken Settings" = "Ajustes de sombreado";
+
+/* No comment provided by engineer. */
 "Darker Color" = "Color más oscuro";
 
 /* No comment provided by engineer. */
 "Darks" = "Oscuros";
+
+/* stroke options */
+"Dash" = "Dash";
+
+/* stroke options */
+"Dashed Line" = "Dashed Line";
 
 /* No comment provided by engineer. */
 "Deband" = "Eliminar bandas";
@@ -1037,10 +1109,22 @@
 "Delete" = "Eliminar";
 
 /* No comment provided by engineer. */
-"Delete %i Items" = "Eliminar %i ítems";
+"Delete %i Photos" = "Delete %i Photos";
 
 /* No comment provided by engineer. */
-"Delete 1 Item" = "Eliminar 1 ítem";
+"Delete 1 Photo" = "Delete 1 Photo";
+
+/* No comment provided by engineer. */
+"Delete Album" = "Delete Album";
+
+/* No comment provided by engineer. */
+"Delete All Sidecar Files" = "Delete All Sidecar Files";
+
+/* No comment provided by engineer. */
+"Delete All Sidecar Files Older Than 30 Days" = "Delete All Sidecar Files Older Than 30 Days";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Delete Folder";
 
 /* No comment provided by engineer. */
 "Delete Layer" = "Eliminar capa";
@@ -1074,6 +1158,9 @@
 
 /* No comment provided by engineer. */
 "Desaturate" = "Desaturar";
+
+/* No comment provided by engineer. */
+"Desaturate Settings" = "Desaturate Settings";
 
 /* No comment provided by engineer. */
 "Description Change" = "Cambio de descripción";
@@ -1223,10 +1310,13 @@
 "Duplicate" = "Duplicar";
 
 /* No comment provided by engineer. */
-"Duplicate %i Items" = "Duplicar %i ítems";
+"Duplicate %i Photos" = "Duplicate %i Photos";
 
 /* No comment provided by engineer. */
-"Duplicate 1 Item" = "Duplicar 1 ítem";
+"Duplicate 1 Photo" = "Duplicate 1 Photo";
+
+/* No comment provided by engineer. */
+"Duplicate Album" = "Duplicate Album";
 
 /* No comment provided by engineer. */
 "Duplicate Palette" = "Duplicar la paleta";
@@ -1253,6 +1343,9 @@
 "Edit images and videos saved on your Mac" = "Edite imágenes y vídeos guardados en su Mac";
 
 /* No comment provided by engineer. */
+"Edit Photo" = "Edit Photo";
+
+/* No comment provided by engineer. */
 "Edit Photos" = "Editar fotos";
 
 /* No comment provided by engineer. */
@@ -1263,6 +1356,9 @@
 
 /* Refers to application settings that affect editing. */
 "Editing" = "Edición";
+
+/* No comment provided by engineer. */
+"Editing Settings…" = "Editing Settings…";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "Modo EDR";
@@ -1309,11 +1405,17 @@
 /* No comment provided by engineer. */
 "Enable Texture-Aware Algorithm" = "Activar algoritmo de reconocimiento de texturas";
 
+/* Shape stroke end */
+"End" = "End";
+
 /* No comment provided by engineer. */
 "End Point" = "Punto final";
 
 /* No comment provided by engineer. */
 "Enhance your photos with a collection of machine learning-powered color adjustments and perfect every detail with the magical retouching tools." = "Mejora tus fotos con una colección de ajustes de color basados en el aprendizaje automático y perfecciona cada detalle con las mágicas herramientas de retoque.";
+
+/* The name of an image file format. */
+"EPS" = "EPS";
 
 /* No comment provided by engineer. */
 "Erase" = "Borrar";
@@ -1354,7 +1456,7 @@
 /* No comment provided by engineer. */
 "Expand" = "Expandir";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users customize how photos are exported. */
+/* No comment provided by engineer. */
 "Export" = "Exportar";
 
 /* No comment provided by engineer. */
@@ -1365,6 +1467,9 @@
 
 /* No comment provided by engineer. */
 "Export All…" = "Exportar todos…";
+
+/* No comment provided by engineer. */
+"Export Anyway" = "Exportar de todos modos";
 
 /* No comment provided by engineer. */
 "Export Color Adjustments" = "Exportar los ajustes de color";
@@ -1430,9 +1535,6 @@
 "Exposure" = "Exposición";
 
 /* No comment provided by engineer. */
-"Extension" = "Extensión";
-
-/* No comment provided by engineer. */
 "Extent" = "Extent";
 
 /* No comment provided by engineer. */
@@ -1467,6 +1569,12 @@
 
 /* No comment provided by engineer. */
 "Failed to save LUT." = "Error al guardar el LUT.";
+
+/* No comment provided by engineer. */
+"Failed to Save Sidecar File" = "Failed to Save Sidecar File";
+
+/* No comment provided by engineer. */
+"Failed to Save to Photos" = "Failed to Save to Photos";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "Error al definir uno o más atributos ampliados.";
@@ -1552,6 +1660,9 @@
 /* No comment provided by engineer. */
 "For images opened from Photos" = "Para imágenes abiertas desde Fotos";
 
+/* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
+"Format:" = "Formato:";
+
 /* No comment provided by engineer. */
 "Free Selection" = "Selección libre";
 
@@ -1567,6 +1678,9 @@
 /* No comment provided by engineer. */
 "G:" = "G:";
 
+/* stroke options */
+"Gap" = "Gap";
+
 /* Refers to general application settings. */
 "General" = "General";
 
@@ -1576,7 +1690,7 @@
 /* No comment provided by engineer. */
 "Get Started" = "Empezar";
 
-/* Format */
+/* The name of an image file format. */
 "GIF" = "GIF";
 
 /* No comment provided by engineer. */
@@ -1653,6 +1767,9 @@
 
 /* No comment provided by engineer. */
 "Hard Mix" = "Mezcla fuerte";
+
+/* The name of an image file format. */
+"HEIC" = "HEIC";
 
 /* No comment provided by engineer. */
 "Height:" = "Altura:";
@@ -1771,6 +1888,12 @@
 /* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "Si lo haces, la próxima vez que edites esta imagen con la extensión de Pixelmator Pro, cualquier capa y otros cambios no destructivos se restablecerán.\n\nDe lo contrario, solo se guardará la imagen final editada.";
 
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator" = "Illustrator";
+
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator Document" = "Illustrator Document";
+
 /* Untitled document name received via Handoff */
 "Image" = "Imagen";
 
@@ -1805,6 +1928,9 @@
 "Import All" = "Importar todo";
 
 /* No comment provided by engineer. */
+"Import as New Document" = "Import as New Document";
+
+/* No comment provided by engineer. */
 "Import…" = "Importar…";
 
 /* short for inches */
@@ -1815,12 +1941,6 @@
 
 /* No comment provided by engineer. */
 "inches" = "pulgadas";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users increase the resolution of photos using an AI-powered algorithm. */
-"Increase Resolution" = "Aumentar la resolución";
-
-/* No comment provided by engineer. */
-"Increase the resolution of photos using a machine learning-powered algorithm." = "Aumenta la resolución de las fotos mediante un algoritmo basado en el aprendizaje automático.";
 
 /* No comment provided by engineer. */
 "Increasing resolution…" = "Aumentando la resolución...";
@@ -1868,6 +1988,9 @@
 "Intersected" = "Interseccionadas";
 
 /* No comment provided by engineer. */
+"Introducing Sidecar Files" = "Introducing Sidecar Files";
+
+/* No comment provided by engineer. */
 "Invert" = "Invertir";
 
 /* No comment provided by engineer. */
@@ -1900,14 +2023,20 @@
 /* Command name to join two different shape paths. */
 "Join" = "Acceder";
 
-/* Format */
+/* The name of an image file format. */
 "JPEG" = "JPEG";
+
+/* The name of an image file format. */
+"JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
 "Keywords Change" = "Cambio de palabras clave";
 
 /* No comment provided by engineer. */
 "Lasso Selection" = "Selección de lazo";
+
+/* No comment provided by engineer. */
+"Later" = "Later";
 
 /* No comment provided by engineer. */
 "Layer" = "Capa";
@@ -1919,10 +2048,19 @@
 "Layer Menu" = "Menú de capa";
 
 /* No comment provided by engineer. */
+"Layer Selection" = "Layer Selection";
+
+/* No comment provided by engineer. */
 "Layer Styles" = "Estilos de capas";
 
 /* No comment provided by engineer. */
+"Layers and other nondestructive edits will no longer be preserved for this image unless you re-enable this option from the Sidecar menu." = "Layers and other nondestructive edits will no longer be preserved for this image unless you re-enable this option from the Sidecar menu.";
+
+/* No comment provided by engineer. */
 "Learn more" = "Saber más";
+
+/* No comment provided by engineer. */
+"Learn more about the update" = "Learn more about the update";
 
 /* No comment provided by engineer. */
 "Left Indent" = "Sangría izquierda";
@@ -1958,6 +2096,9 @@
 "Lighten" = "Iluminar";
 
 /* No comment provided by engineer. */
+"Lighten Settings" = "Ajustes de luminosidad";
+
+/* No comment provided by engineer. */
 "Lighter Color" = "Color más claro";
 
 /* No comment provided by engineer. */
@@ -1989,6 +2130,9 @@
 
 /* No comment provided by engineer. */
 "Linear Tilt-Shift Blur" = "Desenfoque con cambio de inclinación lineal";
+
+/* Shape line start and end */
+"Link endpoints to resize them simultaneously or unlink to resize each endpoint separately." = "Link endpoints to resize them simultaneously or unlink to resize each endpoint separately.";
 
 /* No comment provided by engineer. */
 "Link Mask" = "Vincular máscara";
@@ -2030,6 +2174,9 @@
 "Luminance Noise Reduction" = "Luminosidad con reducción de ruido";
 
 /* No comment provided by engineer. */
+"Luminance Range" = "Luminance Range";
+
+/* No comment provided by engineer. */
 "Luminosity" = "Luminosidad";
 
 /* No comment provided by engineer. */
@@ -2057,6 +2204,12 @@
 "Makes the Hidden album from your Photos library visible in Photomator." = "Hace que el álbum oculto de su fototeca sea visible en Photomator.";
 
 /* No comment provided by engineer. */
+"Manage Files…" = "Manage Files…";
+
+/* No comment provided by engineer. */
+"Manage Sidecar Files" = "Manage Sidecar Files";
+
+/* No comment provided by engineer. */
 "Manual" = "Manual";
 
 /* No comment provided by engineer. */
@@ -2071,7 +2224,7 @@
 /* No comment provided by engineer. */
 "Master Color Wheel" = "Rueda principal de color";
 
-/* Appears as the title of a button that enables automatic color matching of the styles of an input photo. */
+/* No comment provided by engineer. */
 "Match Colors" = "Coincidencia de colores";
 
 /* No comment provided by engineer. */
@@ -2110,14 +2263,11 @@
 /* No comment provided by engineer. */
 "Millimeters" = "Milímetros";
 
-/* Appears as the title of a button that uses machine learning (ML) to crop photos as part of a batch photo editing workflow */
+/* No comment provided by engineer. */
 "ML Crop" = "Recorte con ML";
 
 /* No comment provided by engineer. */
 "ML Decontaminate Selection" = "ML Decontaminate Selection";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize machine learning. */
-"ML Edits" = "Edición con ML";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "Mejora con ML";
@@ -2139,6 +2289,9 @@
 
 /* No comment provided by engineer. */
 "More Workflows…" = "Más flujos de trabajo…";
+
+/* The name of a file format – specifically, a project file used by Apple's motion graphics app Motion. */
+"Motion Project" = "Proyecto de movimiento";
 
 /* No comment provided by engineer. */
 "Move" = "Mover";
@@ -2174,9 +2327,12 @@
 "Moved Object" = "Moved Object";
 
 /* No comment provided by engineer. */
+"Movie" = "Movie";
+
+/* No comment provided by engineer. */
 "Movie Title" = "Título de la película";
 
-/* Format */
+/* The name of a video file format. */
 "MP4" = "MP4";
 
 /* Displayed when a text layer is styled with multiple font families. */
@@ -2231,6 +2387,9 @@
 "New Ellipse Shape" = "Nueva figura elíptica";
 
 /* No comment provided by engineer. */
+"New Folder" = "New Folder";
+
+/* No comment provided by engineer. */
 "New from Clipboard" = "Nuevo desde portapapeles";
 
 /* No comment provided by engineer. */
@@ -2241,9 +2400,6 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "Nueva figura lineal";
-
-/* No comment provided by engineer. */
-"New name for batch preset:" = "Nuevo nombre para el preajuste de lote:";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "Nuevo nombre para la colección de ajustes de color:";
@@ -2302,6 +2458,9 @@
 /* No comment provided by engineer. */
 "New…" = "Nuevo…";
 
+/* No comment provided by engineer. */
+"Next…" = "Next…";
+
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "No hay información de la cámara";
 
@@ -2330,6 +2489,9 @@
 "No Horizon Detected" = "No se ha detectado ningún horizonte";
 
 /* No comment provided by engineer. */
+"No Layer Selected" = "No Layer Selected";
+
+/* No comment provided by engineer. */
 "No layers match the filter." = "No hay ninguna capa que coincida con el filtro.";
 
 /* Displayed when the model of the camera lens used to take a photo is not known. */
@@ -2350,8 +2512,7 @@
 /* No comment provided by engineer. */
 "Noise Reduction" = "Reducción de ruido";
 
-/* Refers to a photo cropping preset that does not crop the photo in any way.
-   Refers to an image cropping preset that does not alter the aspect ratio of an image in any way and does not crop it. */
+/* No comment provided by engineer. */
 "None" = "Ninguno";
 
 /* No comment provided by engineer. */
@@ -2385,6 +2546,15 @@
 "Open Edit Tools" = "Abrir herramientas de edición";
 
 /* No comment provided by engineer. */
+"Open Image" = "Open Image";
+
+/* No comment provided by engineer. */
+"Open Original Image" = "Open Original Image";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "Open Sidecar";
+
+/* No comment provided by engineer. */
 "Open System Preferences" = "Abrir preferencias del sistema";
 
 /* No comment provided by engineer. */
@@ -2399,8 +2569,7 @@
 /* No comment provided by engineer. */
 "Oriented" = "Orientado";
 
-/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset keeps the original size.
-   Refers to a photo cropping preset that crops the photo auotmatically, maintaining its original aspect ratio. */
+/* No comment provided by engineer. */
 "Original" = "Original";
 
 /* No comment provided by engineer. */
@@ -2476,9 +2645,15 @@
 "Path Union" = "Unión de trazado";
 
 /* No comment provided by engineer. */
+"Pattern Angle" = "Pattern Angle";
+
+/* No comment provided by engineer. */
 "Pattern Fill" = "Relleno de modelo";
 
 /* No comment provided by engineer. */
+"Pattern Scale" = "Pattern Scale";
+
+/* The name of an image file format. */
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
@@ -2502,26 +2677,44 @@
 /* No comment provided by engineer. */
 "Perspective Transform" = "Transformación en perspectiva";
 
+/* No comment provided by engineer. */
+"Photomator" = "Photomator";
+
+/* No comment provided by engineer. */
+"Photomator Document" = "Photomator Document";
+
+/* The name of file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits" = "Photomator Edits";
+
+/* The name of a file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits Document" = "Photomator Edits Document";
+
+/* No comment provided by engineer. */
+"Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images.";
+
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "Fotos";
 
-/* No comment provided by engineer. */
-"Photos Extension" = "Extensión de fotos";
-
-/* No comment provided by engineer. */
+/* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop" = "Photoshop";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop (Large)" = "Photoshop (Large)";
+
+/* Refers to the Adobe Photoshop layered image file format. */
+"Photoshop Document" = "Documento Photoshop";
 
 /* No comment provided by engineer. */
 "Photoshop Large" = "Photoshop grande";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop Large Document" = "Photoshop Large Document";
 
 /* No comment provided by engineer. */
 "Photos…" = "Fotos…";
 
 /* No comment provided by engineer. */
 "Pin Histogram" = "Anclar el histograma";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users make a preset appear in a shortcut menu. */
-"Pin in Menu" = "Anclar en el Menú";
 
 /* No comment provided by engineer. */
 "Pin Light" = "Luz focal";
@@ -2533,10 +2726,22 @@
 "Pixel Paint" = "Pintura de píxels";
 
 /* No comment provided by engineer. */
+"Pixelmator Classic" = "Pixelmator Classic";
+
+/* No comment provided by engineer. */
+"Pixelmator Classic Document" = "Pixelmator Classic Document";
+
+/* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
 
 /* No comment provided by engineer. */
+"Pixelmator Pro Document" = "Documento Pixelmator Pro";
+
+/* No comment provided by engineer. */
 "Pixelmator Pro is built exclusively for macOS. So it’s easy to use by design and takes full advantage of the power of your Mac." = "Pixelmator Pro se ha desarrollado exclusivamente para MacOS. Por ello, es fácil de usar y te permite sacar el máximo provecho de tu Mac.";
+
+/* The name of a file format containing nondestructive edits created by the Pixelmator Pro app. */
+"Pixelmator Pro Sidecar Document" = "Pixelmator Pro Sidecar Document";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Prueba de Pixelmator Pro";
@@ -2574,7 +2779,7 @@
 /* No comment provided by engineer. */
 "Please try relaunching Pixelmator Pro." = "Pruebe a reiniciar Pixelmator Pro.";
 
-/* Format */
+/* The name of an image file format. */
 "PNG" = "PNG";
 
 /* No comment provided by engineer. */
@@ -2610,8 +2815,10 @@
 /* No comment provided by engineer. */
 "Poster" = "Póster";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users choose whether nondestructive edits will be preserved for each batch edited photo.
-   Refers to a setting that allows users to preserve edits in a linked document. */
+/* Appears as a headline introducing the app's photo browser. */
+"Powerful photo browser" = "Powerful photo browser";
+
+/* Refers to a setting that allows users to preserve edits in a linked document. */
 "Preserve Edits" = "Conservar ediciones";
 
 /* No comment provided by engineer. */
@@ -2623,8 +2830,7 @@
 /* No comment provided by engineer. */
 "Preset" = "Preajuste";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize color adjustment filters (a.k.a. presets).
-   DocumentInspector */
+/* DocumentInspector */
 "Presets" = "Preajustes";
 
 /* No comment provided by engineer. */
@@ -2645,6 +2851,9 @@
 /* No comment provided by engineer. */
 "Quality" = "Calidad";
 
+/* Refers to image export quality. */
+"Quality:" = "Calidad:";
+
 /* No comment provided by engineer. */
 "Quick Export" = "Exportación rápida";
 
@@ -2657,8 +2866,17 @@
 /* No comment provided by engineer. */
 "Quick Start Guide" = "Guía de inicio rápido";
 
+/* The name of a video file format. */
+"QuickTime" = "QuickTime";
+
+/* The name of a video file format. */
+"QuickTime Movie" = "QuickTime Movie";
+
 /* No comment provided by engineer. */
 "Quit" = "Salir";
+
+/* No comment provided by engineer. */
+"Quit & Reopen" = "Quit & Reopen";
 
 /* Quit anyway button title */
 "Quit anyway" = "Salir de todos modos";
@@ -2686,6 +2904,9 @@
 
 /* No comment provided by engineer. */
 "Range" = "Rango";
+
+/* The name of an image file format. */
+"RAW" = "RAW";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "Capa RAW";
@@ -2716,9 +2937,6 @@
 
 /* No comment provided by engineer. */
 "Redo %@" = "Rehacer %@";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users remove noise from photos using an AI-powered algorithm. */
-"Reduce Noise" = "Reducir ruido";
 
 /* No comment provided by engineer. */
 "Refine Edge" = "Perfeccionar bordes";
@@ -2761,9 +2979,6 @@
 
 /* No comment provided by engineer. */
 "Remove Background" = "Eliminar fondo";
-
-/* No comment provided by engineer. */
-"Remove camera noise and image compression artifacts." = "Elimina el ruido de la cámara y los objetos de compresión de la imagen.";
 
 /* No comment provided by engineer. */
 "Remove Collection" = "Eliminar colección";
@@ -2830,6 +3045,12 @@
 
 /* No comment provided by engineer. */
 "Rename \"%@\"…" = "Renombrar \"%@\"…";
+
+/* No comment provided by engineer. */
+"Rename Album" = "Rename Album";
+
+/* No comment provided by engineer. */
+"Rename Folder" = "Rename Folder";
 
 /* No comment provided by engineer. */
 "Rename…" = "Renombrar…";
@@ -2958,9 +3179,6 @@
 "Restore" = "Restaurar";
 
 /* No comment provided by engineer. */
-"Resume" = "Reanudar";
-
-/* No comment provided by engineer. */
 "Retouch" = "Retocar";
 
 /* No comment provided by engineer. */
@@ -2974,6 +3192,12 @@
 
 /* No comment provided by engineer. */
 "Reveal or hide the layer mask." = "Muestra u oculta la máscara de capa.";
+
+/* No comment provided by engineer. */
+"Reveal Sidecar File" = "Reveal Sidecar File";
+
+/* No comment provided by engineer. */
+"Reveal Sidecar Folder" = "Reveal Sidecar Folder";
 
 /* No comment provided by engineer. */
 "Revert to Default Set" = "Revertir a los ajustes predeterminados";
@@ -2996,7 +3220,7 @@
 /* No comment provided by engineer. */
 "Right Indent" = "Sangría derecha";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users rotate, straighten, and flip photos. */
+/* No comment provided by engineer. */
 "Rotate" = "Rotar";
 
 /* No comment provided by engineer. */
@@ -3019,6 +3243,9 @@
 
 /* No comment provided by engineer. */
 "Rotate Scene" = "Girar escena";
+
+/* Bezier path corner type */
+"Round" = "Round";
 
 /* No comment provided by engineer. */
 "Round Text Font Sizes" = "Tamaños de letra de texto redondo";
@@ -3045,6 +3272,9 @@
 "Saturate" = "Saturar";
 
 /* No comment provided by engineer. */
+"Saturate Settings" = "Saturate Settings";
+
+/* No comment provided by engineer. */
 "Saturation" = "Saturación";
 
 /* No comment provided by engineer. */
@@ -3054,12 +3284,6 @@
 "Save" = "Guardar";
 
 /* No comment provided by engineer. */
-"Save as Default" = "Guardar como predeterminado";
-
-/* No comment provided by engineer. */
-"Save as Preset" = "Guardar como preajuste";
-
-/* No comment provided by engineer. */
 "Save As:" = "Guardar como:";
 
 /* No comment provided by engineer. */
@@ -3067,6 +3291,9 @@
 
 /* No comment provided by engineer. */
 "Save Flattened" = "Guardar imagen compactada";
+
+/* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
+"Save layers and edits to a sidecar file" = "Save layers and edits to a sidecar file";
 
 /* No comment provided by engineer. */
 "Save LUT" = "Guardar LUT";
@@ -3148,6 +3375,12 @@
 
 /* No comment provided by engineer. */
 "Select Column" = "Seleccionar columna";
+
+/* No comment provided by engineer. */
+"Select Groups" = "Select Groups";
+
+/* No comment provided by engineer. */
+"Select Layers" = "Select Layers";
 
 /* No comment provided by engineer. */
 "Select multiple shape layers" = "Seleccionar capas de formas múltiples";
@@ -3236,6 +3469,9 @@
 /* No comment provided by engineer. */
 "Set the color using a Hex color code." = "Ajusta el color usando un código de color hexadecimal.";
 
+/* Shape line start or end */
+"Set the endpoint size." = "Set the endpoint size.";
+
 /* No comment provided by engineer. */
 "Set the image quality to use when automatically saving changes or sharing images to other apps." = "Ajusta la calidad de imagen que se usará al guardar automáticamente los cambios o al compartir imágenes en otras aplicaciones.";
 
@@ -3271,6 +3507,9 @@
 
 /* No comment provided by engineer. */
 "Sharpen Point" = "Enfocar punto";
+
+/* No comment provided by engineer. */
+"Sharpen Settings" = "Ajustes de nitidez";
 
 /* No comment provided by engineer. */
 "Sharpness" = "Nitidez";
@@ -3335,6 +3574,9 @@
 /* No comment provided by engineer. */
 "Show Layers" = "Mostrar capas";
 
+/* Appears in a button prompting users to take a quick tour of the app's features. */
+"Show me around" = "Muéstramelo todo";
+
 /* No comment provided by engineer. */
 "Show Optimized Preview" = "Mostrar vista previa optimizada";
 
@@ -3360,6 +3602,9 @@
 "Show the effect rope on canvas." = "Muestra el efecto de cuerda en el lienzo.";
 
 /* No comment provided by engineer. */
+"Show the pattern rope on canvas." = "Show the pattern rope on canvas.";
+
+/* No comment provided by engineer. */
 "Show this window when Pixelmator Pro launches" = "Mostrar esta ventana al iniciar Pixelmator Pro";
 
 /* No comment provided by engineer. */
@@ -3381,7 +3626,16 @@
 "Shrink Text to Fit Setting" = "Reducir texto para ajustarlo a la configuración";
 
 /* No comment provided by engineer. */
+"Side by Side" = "Side by Side";
+
+/* No comment provided by engineer. */
 "Sidecar Disk Usage" = "Uso del disco de Sidecar";
+
+/* No comment provided by engineer. */
+"Sidecar File Not Found" = "Sidecar File Not Found";
+
+/* Refers to a linked file (sidecar file) that is linked to another image file. */
+"Sidecar:" = "Sidecar:";
 
 /* No comment provided by engineer. */
 "Sides: %d" = "Lados: %d";
@@ -3444,6 +3698,9 @@
 "Smudge" = "Dedo";
 
 /* No comment provided by engineer. */
+"Smudge Settings" = "Ajustes de manchado";
+
+/* No comment provided by engineer. */
 "Snapping" = "Ajuste";
 
 /* No comment provided by engineer. */
@@ -3463,6 +3720,9 @@
 
 /* No comment provided by engineer. */
 "Soften" = "Suavizar";
+
+/* No comment provided by engineer. */
+"Soften Settings" = "Ajustes de suavizado";
 
 /* No comment provided by engineer. */
 "Softness" = "Suavidad";
@@ -3503,7 +3763,7 @@
 /* No comment provided by engineer. */
 "Spot Light" = "Foco";
 
-/* Refers to a photo cropping preset that crops the photo auotmatically to a square aspect ratio. */
+/* Bezier path corner type */
 "Square" = "Cuadrado";
 
 /* No comment provided by engineer. */
@@ -3514,6 +3774,9 @@
 
 /* No comment provided by engineer. */
 "Star Shape" = "Forma de estrella";
+
+/* Shape stroke start */
+"Start" = "Start";
 
 /* No comment provided by engineer. */
 "Start Drawing" = "Comenzar a dibujar";
@@ -3542,16 +3805,13 @@
 /* No comment provided by engineer. */
 "Story" = "Historia";
 
-/* Appears as the title of a button that automatically straightens photos as part of a batch photo editing workflow */
-"Straighten" = "Enderezar";
-
 /* No comment provided by engineer. */
 "Stretch" = "Estirar";
 
 /* No comment provided by engineer. */
 "Strikethrough" = "Tachado";
 
-/* No comment provided by engineer. */
+/* DocumentInspector */
 "Stroke" = "Trazo";
 
 /* No comment provided by engineer. */
@@ -3602,7 +3862,7 @@
 /* No comment provided by engineer. */
 "Super Resolution Split Comparison" = "Comparación de la división de Superresolución";
 
-/* Format */
+/* The name of an image file format. */
 "SVG" = "SVG";
 
 /* No comment provided by engineer. */
@@ -3648,7 +3908,13 @@
 "Texture" = "Textura";
 
 /* No comment provided by engineer. */
+"Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "No es posible recrear los ajustes de reconocimiento de texturas mediante LUT, por lo que el LUT exportado tendrá un aspecto diferente.";
+
+/* No comment provided by engineer. */
 "Textures" = "Texturas";
+
+/* No comment provided by engineer. */
+"Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image." = "Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image.";
 
 /* No comment provided by engineer. */
 "The document couldn’t be opened." = "No se ha podido abrir el documento.";
@@ -3664,6 +3930,12 @@
 
 /* No comment provided by engineer. */
 "The document “%@” couldn’t be opened." = "No se ha podido abrir el documento “%@”.";
+
+/* No comment provided by engineer. */
+"The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied.";
+
+/* No comment provided by engineer. */
+"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?";
 
 /* No comment provided by engineer. */
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "El formato JPEG/PNG/TIFF no admite varias capas y más información de formato. Para conservar esa información, guarda la imagen como un documento de Pixelmator Pro.";
@@ -3699,12 +3971,21 @@
 "This document has missing fonts." = "A este documento le faltan fuentes.";
 
 /* No comment provided by engineer. */
+"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead.";
+
+/* No comment provided by engineer. */
+"This image has been modified by another application." = "This image has been modified by another application.";
+
+/* No comment provided by engineer. */
+"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead.";
+
+/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "Esta es una versión demo con todas las funcionalidades de Pixelmator Pro.";
 
 /* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "Este tipo de transformación no es compatible.";
 
-/* No comment provided by engineer. */
+/* The name of an image file format. */
 "TIFF" = "TIFF";
 
 /* Effects category name */
@@ -3801,6 +4082,9 @@
 "Type" = "Texto";
 
 /* No comment provided by engineer. */
+"Unable to Open Sidecar File" = "Unable to Open Sidecar File";
+
+/* No comment provided by engineer. */
 "Underline" = "Subrayar";
 
 /* No comment provided by engineer. */
@@ -3840,6 +4124,9 @@
 "Unnamed Collection" = "Colección sin nombre";
 
 /* No comment provided by engineer. */
+"Unsupported Adjustments" = "Ajustes no compatibles";
+
+/* No comment provided by engineer. */
 "Untitled" = "Sin título";
 
 /* No comment provided by engineer. */
@@ -3863,6 +4150,12 @@
 /* No comment provided by engineer. */
 "Upgrade" = "Actualizar";
 
+/* The name of a 3D file format. */
+"USD" = "USD";
+
+/* The name of a 3D file format. */
+"USDZ" = "USDZ";
+
 /* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "Usar algoritmo de reconocimiento de texturas";
 
@@ -3874,6 +4167,9 @@
 
 /* No comment provided by engineer. */
 "Version %@ (%@)" = "Versión %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"Version history is not fully supported for images with sidecar files." = "Version history is not fully supported for images with sidecar files.";
 
 /* No comment provided by engineer. */
 "Vertical Alignment" = "Alineación vertical";
@@ -3908,7 +4204,7 @@
 /* No comment provided by engineer. */
 "Watercolor" = "Acuarela";
 
-/* Format */
+/* The name of an image file format. */
 "WebP" = "WebP";
 
 /* No comment provided by engineer. */
@@ -3932,7 +4228,7 @@
 /* Refers to the color of the application window background. */
 "Window Background" = "Fondo de la ventana";
 
-/* Refers to photo batch editing workflows (that let you edit a number of photos at once) and appears as a title in a toolbar. */
+/* No comment provided by engineer. */
 "Workflows" = "Flujos de trabajo";
 
 /* No comment provided by engineer. */
@@ -3969,6 +4265,9 @@
 "Yellow / Blue" = "Amarillo/Azul";
 
 /* No comment provided by engineer. */
+"You can choose to quit and reopen %@ now or do it yourself later." = "You can choose to quit and reopen %@ now or do it yourself later.";
+
+/* No comment provided by engineer. */
 "You can discard the edits to keep your original file unmodified." = "Puedes descartar las ediciones para mantener el archivo original sin modificar.";
 
 /* No comment provided by engineer. */
@@ -3978,6 +4277,9 @@
 "You can download the latest version of %@ from the Mac App Store." = "Puedes descargar la última versión de %@ en el Mac App Store.";
 
 /* No comment provided by engineer. */
+"You can revert to a previous version of your document, however, it will not contain any nondestructive edits." = "You can revert to a previous version of your document, however, it will not contain any nondestructive edits.";
+
+/* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "Has denegado el acceso con anterioridad. Por tanto, si quieres usar la cámara FaceTime para añadir imágenes en los documentos, permite el acceso en las preferencias del sistema.";
 
 /* No comment provided by engineer. */
@@ -3985,6 +4287,12 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "Necesitas una nueva versión para abrir este documento.";
+
+/* No comment provided by engineer. */
+"You're attempting to open a %@ sidecar document which cannot be edited directly." = "You're attempting to open a %@ sidecar document which cannot be edited directly.";
+
+/* No comment provided by engineer. */
+"Your new autosave settings will not take effect until you quit %@." = "Your new autosave settings will not take effect until you quit %@.";
 
 /* No comment provided by engineer. */
 "Your trial has now expired. To enjoy the benefits of editing your images with both Pixelmator Pro and its Photos extension as well as easily downloading, redownloading, and automatically updating Pixelmator Pro on all your computers purchase the app from the Mac App Store." = "Tu periodo de prueba ha caducado. Para disfrutar de los beneficios de editar tus imágenes con Pixelmator Pro y su extensión de Fotos, al igual que de descargar, volver a descargar y actualizar automáticamente Pixelmator Pro en todos tus ordenadores, compra la aplicación en la App Store de Mac.";
