@@ -14,10 +14,16 @@
 "%@ bits per channel" = "채널당 %@비트";
 
 /* No comment provided by engineer. */
+"%@ Bytes" = "%@ Bytes";
+
+/* No comment provided by engineer. */
 "%@ Effect" = "%@ 효과";
 
 /* No comment provided by engineer. */
 "%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "디스크 공간 부족 또는 운영 체제 오류로 인하여 %@에 치명적인 오류가 발생했습니다. 저장 공간을 확보하거나 Mac을 다시 시작하면 도움이 될 수 있습니다.";
+
+/* No comment provided by engineer. */
+"%@ items" = "%@ items";
 
 /* No comment provided by engineer. */
 "%@ layer" = "%@개의 레이어";
@@ -220,14 +226,14 @@
 /* No comment provided by engineer. */
 "Add to Shape" = "도형에 추가";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users apply color adjustment presets and adjust the colors of photos in other ways. */
-"Adjust Colors" = "색상 조정";
-
 /* No comment provided by engineer. */
 "Adjust Light Position" = "광원 위치 조정";
 
 /* No comment provided by engineer. */
 "Adjust the brightness and saturation of the color." = "색상의 밝기 및 채도를 조정합니다.";
+
+/* Shape line start or end */
+"Adjust the endpoint size." = "Adjust the endpoint size.";
 
 /* No comment provided by engineer. */
 "Adjust the hue of the color." = "색상의 색조를 조정합니다.";
@@ -246,6 +252,9 @@
 
 /* No comment provided by engineer. */
 "Affine Tile" = "어파인 타일";
+
+/* stroke options - stroke position */
+"Align" = "Align";
 
 /* No comment provided by engineer. */
 "Align Bottom Edges" = "아래 가장자리 맞춤";
@@ -269,9 +278,6 @@
 "Align Vertical Centers" = "세로 가운데 맞춤";
 
 /* No comment provided by engineer. */
-"All edits will be saved nondestructively, so you can fine-tune them later." = "모든 편집본은 비파괴적으로 저장되므로 나중에 미세 조정할 수 있습니다.";
-
-/* No comment provided by engineer. */
 "All rights reserved." = "모든 권리 보유.";
 
 /* No comment provided by engineer. */
@@ -282,6 +288,12 @@
 
 /* No comment provided by engineer. */
 "Ambient Light" = "주변 광원";
+
+/* No comment provided by engineer. */
+"An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format.";
+
+/* No comment provided by engineer. */
+"An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out.";
 
 /* No comment provided by engineer. */
 "An unexpected error occurred." = "예기치 않은 오류가 발생했습니다.";
@@ -328,6 +340,9 @@
 /* No comment provided by engineer. */
 "Apply LUT" = "LUT 적용";
 
+/* Refers to an associated file to which data is saved that accompanies a source file. Named after a motorbike sidecar. */
+"Are you sure you want to delete the sidecar file for this image?" = "Are you sure you want to delete the sidecar file for this image?";
+
 /* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "해당 문서를 적절하게 수정하시겠습니까?";
 
@@ -339,6 +354,18 @@
 
 /* No comment provided by engineer. */
 "Are you sure you want to remove the “%@” preset?" = "“%@” 프리셋을 제거하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Photomator sidecar files older than 30 days?" = "Are you sure you'd like to delete all Photomator sidecar files older than 30 days?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Photomator sidecar files?" = "Are you sure you'd like to delete all Photomator sidecar files?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Pixelmator Pro sidecar files older than 30 days?" = "Are you sure you'd like to delete all Pixelmator Pro sidecar files older than 30 days?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to delete all Pixelmator Pro sidecar files?" = "Are you sure you'd like to delete all Pixelmator Pro sidecar files?";
 
 /* No comment provided by engineer. */
 "Arrange" = "정렬";
@@ -358,6 +385,9 @@
 /* No comment provided by engineer. */
 "Assign Profile" = "프로필 할당";
 
+/* No comment provided by engineer. */
+"Attempting to Open %@ Sidecar Document" = "Attempting to Open %@ Sidecar Document";
+
 /* Refers to the automatic setting used for application appearance. */
 "Auto" = "자동";
 
@@ -376,7 +406,7 @@
 /* No comment provided by engineer. */
 "Auto Contrast" = "자동 대비";
 
-/* Appears as the title of a button that automatically enhances photos as part of a batch photo editing workflow. */
+/* No comment provided by engineer. */
 "Auto Enhance" = "자동 향상";
 
 /* No comment provided by engineer. */
@@ -451,6 +481,9 @@
 /* No comment provided by engineer. */
 "Behind" = "뒤";
 
+/* Bezier path corner type */
+"Bevel" = "Bevel";
+
 /* No comment provided by engineer. */
 "Bias" = "바이어스";
 
@@ -480,6 +513,9 @@
 
 /* Effects category name */
 "Blur" = "흐림 효과";
+
+/* The name of an image file format. */
+"BMP" = "BMP";
 
 /* No comment provided by engineer. */
 "Bold" = "볼드체";
@@ -527,6 +563,9 @@
 "Bump" = "범프";
 
 /* No comment provided by engineer. */
+"Butt" = "Butt";
+
+/* No comment provided by engineer. */
 "Buy Now" = "지금 구입";
 
 /* No comment provided by engineer. */
@@ -534,6 +573,9 @@
 
 /* No comment provided by engineer. */
 "Calculating Size…" = "크기 계산 중…";
+
+/* No comment provided by engineer. */
+"Calculating…" = "Calculating…";
 
 /* Cancel button title */
 "Cancel" = "취소";
@@ -547,11 +589,17 @@
 /* No comment provided by engineer. */
 "Capitalization" = "대문자로 문장 시작";
 
+/* stroke options - line caps */
+"Caps" = "Caps";
+
 /* No comment provided by engineer. */
 "Card" = "카드";
 
 /* No comment provided by engineer. */
 "Center" = "가운데";
+
+/* No comment provided by engineer. */
+"Center." = "Center.";
 
 /* No comment provided by engineer. */
 "Centimeters" = "센티미터";
@@ -597,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Change Style" = "스타일 변경";
+
+/* Shown as a subtitle when an image has an associated sidecar document, in which layers and other nondestructive edits are saved and tracked. */
+"Changes Tracked in Sidecar" = "Changes Tracked in Sidecar";
 
 /* No comment provided by engineer. */
 "Changing image size…" = "이미지 크기를 변경하는 중…";
@@ -716,6 +767,9 @@
 "Click to pick a color from your image." = "이미지에서 색상을 선택하려면 클릭합니다.";
 
 /* No comment provided by engineer. */
+"Click to pick a color to remove from your image" = "Click to pick a color to remove from your image";
+
+/* No comment provided by engineer. */
 "Click to pick a source color from your image" = "클릭하여 이미지에서 원본 색상을 선택합니다";
 
 /* No comment provided by engineer. */
@@ -753,6 +807,9 @@
 
 /* No comment provided by engineer. */
 "Clone" = "복제";
+
+/* No comment provided by engineer. */
+"Clone Settings" = "복제 설정";
 
 /* No comment provided by engineer. */
 "Close Edit Tools" = "편집 도구 닫기";
@@ -819,6 +876,9 @@
 
 /* No comment provided by engineer. */
 "Color Profiles" = "색상 프로필";
+
+/* No comment provided by engineer. */
+"Color Range" = "Color Range";
 
 /* No comment provided by engineer. */
 "Color Selection" = "색상 선택";
@@ -913,6 +973,9 @@
 /* No comment provided by engineer. */
 "Copyright © %@ Pixelmator Team." = "Copyright © %@ Pixelmator Team.";
 
+/* stroke options - line join style */
+"Corner" = "Corner";
+
 /* No comment provided by engineer. */
 "Corner Radius" = "모퉁이 반경";
 
@@ -943,7 +1006,7 @@
 /* No comment provided by engineer. */
 "Critical Resources Unavailable" = "중요한 리소스를 사용할 수 없음";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users crop photos. */
+/* No comment provided by engineer. */
 "Crop" = "자르기";
 
 /* No comment provided by engineer. */
@@ -961,7 +1024,7 @@
 /* No comment provided by engineer. */
 "Curves" = "곡선";
 
-/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset lets users set a custom size. */
+/* No comment provided by engineer. */
 "Custom" = "사용자 정의";
 
 /* No comment provided by engineer. */
@@ -989,10 +1052,19 @@
 "Darken" = "어둡게 만들기";
 
 /* No comment provided by engineer. */
+"Darken Settings" = "어둡게 만들기 설정";
+
+/* No comment provided by engineer. */
 "Darker Color" = "더 어두운 색";
 
 /* No comment provided by engineer. */
 "Darks" = "어두운 색상";
+
+/* stroke options */
+"Dash" = "Dash";
+
+/* stroke options */
+"Dashed Line" = "Dashed Line";
 
 /* No comment provided by engineer. */
 "Deband" = "밴드 제거";
@@ -1037,10 +1109,22 @@
 "Delete" = "삭제";
 
 /* No comment provided by engineer. */
-"Delete %i Items" = "%i개 항목 삭제";
+"Delete %i Photos" = "Delete %i Photos";
 
 /* No comment provided by engineer. */
-"Delete 1 Item" = "1개 항목 삭제";
+"Delete 1 Photo" = "Delete 1 Photo";
+
+/* No comment provided by engineer. */
+"Delete Album" = "Delete Album";
+
+/* No comment provided by engineer. */
+"Delete All Sidecar Files" = "Delete All Sidecar Files";
+
+/* No comment provided by engineer. */
+"Delete All Sidecar Files Older Than 30 Days" = "Delete All Sidecar Files Older Than 30 Days";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Delete Folder";
 
 /* No comment provided by engineer. */
 "Delete Layer" = "레이어 삭제";
@@ -1074,6 +1158,9 @@
 
 /* No comment provided by engineer. */
 "Desaturate" = "흐리기";
+
+/* No comment provided by engineer. */
+"Desaturate Settings" = "Desaturate Settings";
 
 /* No comment provided by engineer. */
 "Description Change" = "설명 변경";
@@ -1223,10 +1310,13 @@
 "Duplicate" = "복제";
 
 /* No comment provided by engineer. */
-"Duplicate %i Items" = "%i개의 항목 복제";
+"Duplicate %i Photos" = "Duplicate %i Photos";
 
 /* No comment provided by engineer. */
-"Duplicate 1 Item" = "1개의 항목 복제";
+"Duplicate 1 Photo" = "Duplicate 1 Photo";
+
+/* No comment provided by engineer. */
+"Duplicate Album" = "Duplicate Album";
 
 /* No comment provided by engineer. */
 "Duplicate Palette" = "팔레트 복제";
@@ -1253,6 +1343,9 @@
 "Edit images and videos saved on your Mac" = "Mac에 저장된 이미지 및 비디오 편집";
 
 /* No comment provided by engineer. */
+"Edit Photo" = "Edit Photo";
+
+/* No comment provided by engineer. */
 "Edit Photos" = "사진 편집";
 
 /* No comment provided by engineer. */
@@ -1263,6 +1356,9 @@
 
 /* Refers to application settings that affect editing. */
 "Editing" = "편집";
+
+/* No comment provided by engineer. */
+"Editing Settings…" = "Editing Settings…";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "EDR 모드";
@@ -1309,11 +1405,17 @@
 /* No comment provided by engineer. */
 "Enable Texture-Aware Algorithm" = "텍스처 인식 알고리즘 활성화";
 
+/* Shape stroke end */
+"End" = "End";
+
 /* No comment provided by engineer. */
 "End Point" = "끝점";
 
 /* No comment provided by engineer. */
 "Enhance your photos with a collection of machine learning-powered color adjustments and perfect every detail with the magical retouching tools." = "머신 러닝 기반 색상 조정 컬렉션을 사용해 사진을 향상시키고 마법 같은 보정 도구로 세부적인 곳까지 전부 완벽하게 만드세요.";
+
+/* The name of an image file format. */
+"EPS" = "EPS";
 
 /* No comment provided by engineer. */
 "Erase" = "지우기";
@@ -1354,7 +1456,7 @@
 /* No comment provided by engineer. */
 "Expand" = "확장";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users customize how photos are exported. */
+/* No comment provided by engineer. */
 "Export" = "내보내기";
 
 /* No comment provided by engineer. */
@@ -1365,6 +1467,9 @@
 
 /* No comment provided by engineer. */
 "Export All…" = "모두 내보내기…";
+
+/* No comment provided by engineer. */
+"Export Anyway" = "그래도 내보내기";
 
 /* No comment provided by engineer. */
 "Export Color Adjustments" = "색상 조정 내보내기";
@@ -1430,9 +1535,6 @@
 "Exposure" = "노출";
 
 /* No comment provided by engineer. */
-"Extension" = "확장";
-
-/* No comment provided by engineer. */
 "Extent" = "Extent";
 
 /* No comment provided by engineer. */
@@ -1467,6 +1569,12 @@
 
 /* No comment provided by engineer. */
 "Failed to save LUT." = "LUT를 저장하지 못했습니다.";
+
+/* No comment provided by engineer. */
+"Failed to Save Sidecar File" = "Failed to Save Sidecar File";
+
+/* No comment provided by engineer. */
+"Failed to Save to Photos" = "Failed to Save to Photos";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "한 개 이상의 확장 속성을 설정하는 데 실패했습니다";
@@ -1552,6 +1660,9 @@
 /* No comment provided by engineer. */
 "For images opened from Photos" = "'사진'에서 연 이미지 전용";
 
+/* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
+"Format:" = "포맷:";
+
 /* No comment provided by engineer. */
 "Free Selection" = "자유 선택";
 
@@ -1567,6 +1678,9 @@
 /* No comment provided by engineer. */
 "G:" = "G:";
 
+/* stroke options */
+"Gap" = "Gap";
+
 /* Refers to general application settings. */
 "General" = "일반";
 
@@ -1576,7 +1690,7 @@
 /* No comment provided by engineer. */
 "Get Started" = "시작하기";
 
-/* Format */
+/* The name of an image file format. */
 "GIF" = "GIF";
 
 /* No comment provided by engineer. */
@@ -1653,6 +1767,9 @@
 
 /* No comment provided by engineer. */
 "Hard Mix" = "하드 믹스";
+
+/* The name of an image file format. */
+"HEIC" = "HEIC";
 
 /* No comment provided by engineer. */
 "Height:" = "높이:";
@@ -1771,6 +1888,12 @@
 /* No comment provided by engineer. */
 "If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "그럴 경우, 다음 번에 Pixelmator Pro 확장을 사용해 이 이미지를 열 때 모든 레이어 및 기타 비파괴적 변경 내용이 복원됩니다.\n\n그렇지 않을 경우, 오직 편집된 마지막 이미지만 저장됩니다.";
 
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator" = "Illustrator";
+
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator Document" = "Illustrator Document";
+
 /* Untitled document name received via Handoff */
 "Image" = "이미지";
 
@@ -1805,6 +1928,9 @@
 "Import All" = "모두 가져오기";
 
 /* No comment provided by engineer. */
+"Import as New Document" = "Import as New Document";
+
+/* No comment provided by engineer. */
 "Import…" = "가져오기…";
 
 /* short for inches */
@@ -1815,12 +1941,6 @@
 
 /* No comment provided by engineer. */
 "inches" = "인치";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users increase the resolution of photos using an AI-powered algorithm. */
-"Increase Resolution" = "해상도 올리기";
-
-/* No comment provided by engineer. */
-"Increase the resolution of photos using a machine learning-powered algorithm." = "머신 러닝 기반 알고리즘을 사용하여 사진의 해상도를 올립니다.";
 
 /* No comment provided by engineer. */
 "Increasing resolution…" = "해상도를 늘리는 중…";
@@ -1868,6 +1988,9 @@
 "Intersected" = "교차됨";
 
 /* No comment provided by engineer. */
+"Introducing Sidecar Files" = "Introducing Sidecar Files";
+
+/* No comment provided by engineer. */
 "Invert" = "반전";
 
 /* No comment provided by engineer. */
@@ -1900,14 +2023,20 @@
 /* Command name to join two different shape paths. */
 "Join" = "연결";
 
-/* Format */
+/* The name of an image file format. */
 "JPEG" = "JPEG";
+
+/* The name of an image file format. */
+"JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
 "Keywords Change" = "키워드 변경";
 
 /* No comment provided by engineer. */
 "Lasso Selection" = "올가미 선택";
+
+/* No comment provided by engineer. */
+"Later" = "Later";
 
 /* No comment provided by engineer. */
 "Layer" = "레이어";
@@ -1919,10 +2048,19 @@
 "Layer Menu" = "레이어 메뉴";
 
 /* No comment provided by engineer. */
+"Layer Selection" = "Layer Selection";
+
+/* No comment provided by engineer. */
 "Layer Styles" = "레이어 스타일";
 
 /* No comment provided by engineer. */
+"Layers and other nondestructive edits will no longer be preserved for this image unless you re-enable this option from the Sidecar menu." = "Layers and other nondestructive edits will no longer be preserved for this image unless you re-enable this option from the Sidecar menu.";
+
+/* No comment provided by engineer. */
 "Learn more" = "더 알아보기";
+
+/* No comment provided by engineer. */
+"Learn more about the update" = "Learn more about the update";
 
 /* No comment provided by engineer. */
 "Left Indent" = "왼쪽 들여쓰기";
@@ -1958,6 +2096,9 @@
 "Lighten" = "밝게 만들기";
 
 /* No comment provided by engineer. */
+"Lighten Settings" = "연하게 만들기 설정";
+
+/* No comment provided by engineer. */
 "Lighter Color" = "더 밝은 색";
 
 /* No comment provided by engineer. */
@@ -1989,6 +2130,9 @@
 
 /* No comment provided by engineer. */
 "Linear Tilt-Shift Blur" = "선형 기울기-시프트 블러";
+
+/* Shape line start and end */
+"Link endpoints to resize them simultaneously or unlink to resize each endpoint separately." = "Link endpoints to resize them simultaneously or unlink to resize each endpoint separately.";
 
 /* No comment provided by engineer. */
 "Link Mask" = "마스크 연결";
@@ -2030,6 +2174,9 @@
 "Luminance Noise Reduction" = "휘도 노이즈 감소";
 
 /* No comment provided by engineer. */
+"Luminance Range" = "Luminance Range";
+
+/* No comment provided by engineer. */
 "Luminosity" = "광도";
 
 /* No comment provided by engineer. */
@@ -2057,6 +2204,12 @@
 "Makes the Hidden album from your Photos library visible in Photomator." = "사진 보관함에서 숨겨진 앨범을 Photomator에서 표시합니다.";
 
 /* No comment provided by engineer. */
+"Manage Files…" = "Manage Files…";
+
+/* No comment provided by engineer. */
+"Manage Sidecar Files" = "Manage Sidecar Files";
+
+/* No comment provided by engineer. */
 "Manual" = "수동";
 
 /* No comment provided by engineer. */
@@ -2071,7 +2224,7 @@
 /* No comment provided by engineer. */
 "Master Color Wheel" = "마스터 색상 원판";
 
-/* Appears as the title of a button that enables automatic color matching of the styles of an input photo. */
+/* No comment provided by engineer. */
 "Match Colors" = "색상 일치";
 
 /* No comment provided by engineer. */
@@ -2110,14 +2263,11 @@
 /* No comment provided by engineer. */
 "Millimeters" = "밀리미터";
 
-/* Appears as the title of a button that uses machine learning (ML) to crop photos as part of a batch photo editing workflow */
+/* No comment provided by engineer. */
 "ML Crop" = "ML 자르기";
 
 /* No comment provided by engineer. */
 "ML Decontaminate Selection" = "ML Decontaminate Selection";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize machine learning. */
-"ML Edits" = "ML 편집";
 
 /* No comment provided by engineer. */
 "ML Enhance" = "ML 향상";
@@ -2139,6 +2289,9 @@
 
 /* No comment provided by engineer. */
 "More Workflows…" = "작업 흐름 더 보기…";
+
+/* The name of a file format – specifically, a project file used by Apple's motion graphics app Motion. */
+"Motion Project" = "모션 프로젝트";
 
 /* No comment provided by engineer. */
 "Move" = "이동";
@@ -2174,9 +2327,12 @@
 "Moved Object" = "Moved Object";
 
 /* No comment provided by engineer. */
+"Movie" = "Movie";
+
+/* No comment provided by engineer. */
 "Movie Title" = "영화 제목";
 
-/* Format */
+/* The name of a video file format. */
 "MP4" = "MP4";
 
 /* Displayed when a text layer is styled with multiple font families. */
@@ -2231,6 +2387,9 @@
 "New Ellipse Shape" = "새 타원 도형";
 
 /* No comment provided by engineer. */
+"New Folder" = "New Folder";
+
+/* No comment provided by engineer. */
 "New from Clipboard" = "클립보드에서 새로 만들기";
 
 /* No comment provided by engineer. */
@@ -2241,9 +2400,6 @@
 
 /* No comment provided by engineer. */
 "New Line Shape" = "새 선 도형";
-
-/* No comment provided by engineer. */
-"New name for batch preset:" = "새로운 배치 프리셋 이름:";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "새로운 색상 조정 컬렉션 이름:";
@@ -2302,6 +2458,9 @@
 /* No comment provided by engineer. */
 "New…" = "신규…";
 
+/* No comment provided by engineer. */
+"Next…" = "Next…";
+
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "카메라 정보 없음";
 
@@ -2330,6 +2489,9 @@
 "No Horizon Detected" = "발견된 지평선 없음";
 
 /* No comment provided by engineer. */
+"No Layer Selected" = "No Layer Selected";
+
+/* No comment provided by engineer. */
 "No layers match the filter." = "해당 필터와 일치하는 레이어가 없습니다.";
 
 /* Displayed when the model of the camera lens used to take a photo is not known. */
@@ -2350,8 +2512,7 @@
 /* No comment provided by engineer. */
 "Noise Reduction" = "노이즈 감소";
 
-/* Refers to a photo cropping preset that does not crop the photo in any way.
-   Refers to an image cropping preset that does not alter the aspect ratio of an image in any way and does not crop it. */
+/* No comment provided by engineer. */
 "None" = "없음";
 
 /* No comment provided by engineer. */
@@ -2385,6 +2546,15 @@
 "Open Edit Tools" = "편집 도구 열기";
 
 /* No comment provided by engineer. */
+"Open Image" = "Open Image";
+
+/* No comment provided by engineer. */
+"Open Original Image" = "Open Original Image";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "Open Sidecar";
+
+/* No comment provided by engineer. */
 "Open System Preferences" = "시스템 환경 설정 열기";
 
 /* No comment provided by engineer. */
@@ -2399,8 +2569,7 @@
 /* No comment provided by engineer. */
 "Oriented" = "방향성";
 
-/* Appears in a menu that allows users to optionally change the size of images when exporting them. The preset keeps the original size.
-   Refers to a photo cropping preset that crops the photo auotmatically, maintaining its original aspect ratio. */
+/* No comment provided by engineer. */
 "Original" = "원본";
 
 /* No comment provided by engineer. */
@@ -2476,9 +2645,15 @@
 "Path Union" = "경로 결합";
 
 /* No comment provided by engineer. */
+"Pattern Angle" = "Pattern Angle";
+
+/* No comment provided by engineer. */
 "Pattern Fill" = "패턴 채우기";
 
 /* No comment provided by engineer. */
+"Pattern Scale" = "Pattern Scale";
+
+/* The name of an image file format. */
 "PDF" = "PDF";
 
 /* No comment provided by engineer. */
@@ -2502,26 +2677,44 @@
 /* No comment provided by engineer. */
 "Perspective Transform" = "원근법 변형";
 
+/* No comment provided by engineer. */
+"Photomator" = "Photomator";
+
+/* No comment provided by engineer. */
+"Photomator Document" = "Photomator Document";
+
+/* The name of file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits" = "Photomator Edits";
+
+/* The name of a file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits Document" = "Photomator Edits Document";
+
+/* No comment provided by engineer. */
+"Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images.";
+
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "사진";
 
-/* No comment provided by engineer. */
-"Photos Extension" = "사진 확장";
-
-/* No comment provided by engineer. */
+/* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop" = "Photoshop";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop (Large)" = "Photoshop (Large)";
+
+/* Refers to the Adobe Photoshop layered image file format. */
+"Photoshop Document" = "Photoshop 문서";
 
 /* No comment provided by engineer. */
 "Photoshop Large" = "Photoshop 큰 문서";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop Large Document" = "Photoshop Large Document";
 
 /* No comment provided by engineer. */
 "Photos…" = "사진…";
 
 /* No comment provided by engineer. */
 "Pin Histogram" = "히스토그램 고정";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users make a preset appear in a shortcut menu. */
-"Pin in Menu" = "메뉴에 고정";
 
 /* No comment provided by engineer. */
 "Pin Light" = "핀 라이트";
@@ -2533,10 +2726,22 @@
 "Pixel Paint" = "픽셀 페인트";
 
 /* No comment provided by engineer. */
+"Pixelmator Classic" = "Pixelmator Classic";
+
+/* No comment provided by engineer. */
+"Pixelmator Classic Document" = "Pixelmator Classic Document";
+
+/* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
 
 /* No comment provided by engineer. */
+"Pixelmator Pro Document" = "Pixelmator Pro 문서";
+
+/* No comment provided by engineer. */
 "Pixelmator Pro is built exclusively for macOS. So it’s easy to use by design and takes full advantage of the power of your Mac." = "Pixelmator Pro는 macOS 전용으로 제작되었습니다. 간편하게 사용할 수 있도록 디자인되었으며, Mac의 기능을 최대한 활용할 수 있습니다.";
+
+/* The name of a file format containing nondestructive edits created by the Pixelmator Pro app. */
+"Pixelmator Pro Sidecar Document" = "Pixelmator Pro Sidecar Document";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro Trial" = "Pixelmator Pro 평가판";
@@ -2574,7 +2779,7 @@
 /* No comment provided by engineer. */
 "Please try relaunching Pixelmator Pro." = "Pixelmator Pro를 다시 시작해 보세요.";
 
-/* Format */
+/* The name of an image file format. */
 "PNG" = "PNG";
 
 /* No comment provided by engineer. */
@@ -2610,8 +2815,10 @@
 /* No comment provided by engineer. */
 "Poster" = "포스터";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users choose whether nondestructive edits will be preserved for each batch edited photo.
-   Refers to a setting that allows users to preserve edits in a linked document. */
+/* Appears as a headline introducing the app's photo browser. */
+"Powerful photo browser" = "Powerful photo browser";
+
+/* Refers to a setting that allows users to preserve edits in a linked document. */
 "Preserve Edits" = "편집본 보존";
 
 /* No comment provided by engineer. */
@@ -2623,8 +2830,7 @@
 /* No comment provided by engineer. */
 "Preset" = "프리셋";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a category of built-in presets that utilize color adjustment filters (a.k.a. presets).
-   DocumentInspector */
+/* DocumentInspector */
 "Presets" = "프리셋";
 
 /* No comment provided by engineer. */
@@ -2645,6 +2851,9 @@
 /* No comment provided by engineer. */
 "Quality" = "품질";
 
+/* Refers to image export quality. */
+"Quality:" = "품질:";
+
 /* No comment provided by engineer. */
 "Quick Export" = "빠른 내보내기";
 
@@ -2657,8 +2866,17 @@
 /* No comment provided by engineer. */
 "Quick Start Guide" = "빠른 시작 가이드";
 
+/* The name of a video file format. */
+"QuickTime" = "QuickTime";
+
+/* The name of a video file format. */
+"QuickTime Movie" = "QuickTime 영화";
+
 /* No comment provided by engineer. */
 "Quit" = "종료";
+
+/* No comment provided by engineer. */
+"Quit & Reopen" = "Quit & Reopen";
 
 /* Quit anyway button title */
 "Quit anyway" = "무조건 종료";
@@ -2686,6 +2904,9 @@
 
 /* No comment provided by engineer. */
 "Range" = "범위";
+
+/* The name of an image file format. */
+"RAW" = "RAW";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW 레이어";
@@ -2716,9 +2937,6 @@
 
 /* No comment provided by engineer. */
 "Redo %@" = "%@ 다시 실행";
-
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users remove noise from photos using an AI-powered algorithm. */
-"Reduce Noise" = "노이즈 줄이기";
 
 /* No comment provided by engineer. */
 "Refine Edge" = "가장자리 조정";
@@ -2761,9 +2979,6 @@
 
 /* No comment provided by engineer. */
 "Remove Background" = " 배경 제거";
-
-/* No comment provided by engineer. */
-"Remove camera noise and image compression artifacts." = "카메라 노이즈 및 이미지 압축 아티팩트를 제거합니다.";
 
 /* No comment provided by engineer. */
 "Remove Collection" = "컬렉션 제거";
@@ -2830,6 +3045,12 @@
 
 /* No comment provided by engineer. */
 "Rename \"%@\"…" = "\"%@\" 이름 변경…";
+
+/* No comment provided by engineer. */
+"Rename Album" = "Rename Album";
+
+/* No comment provided by engineer. */
+"Rename Folder" = "Rename Folder";
 
 /* No comment provided by engineer. */
 "Rename…" = "이름 변경…";
@@ -2958,9 +3179,6 @@
 "Restore" = "복원";
 
 /* No comment provided by engineer. */
-"Resume" = "재개";
-
-/* No comment provided by engineer. */
 "Retouch" = "리터치";
 
 /* No comment provided by engineer. */
@@ -2974,6 +3192,12 @@
 
 /* No comment provided by engineer. */
 "Reveal or hide the layer mask." = "레이어 마스크를 표시하거나 숨깁니다.";
+
+/* No comment provided by engineer. */
+"Reveal Sidecar File" = "Reveal Sidecar File";
+
+/* No comment provided by engineer. */
+"Reveal Sidecar Folder" = "Reveal Sidecar Folder";
 
 /* No comment provided by engineer. */
 "Revert to Default Set" = "기본 설정으로 복귀";
@@ -2996,7 +3220,7 @@
 /* No comment provided by engineer. */
 "Right Indent" = "오른쪽 들여쓰기";
 
-/* Appears in an interface that lets users create and edit batch photo editing presets. This is the title of a list item that lets users rotate, straighten, and flip photos. */
+/* No comment provided by engineer. */
 "Rotate" = "회전";
 
 /* No comment provided by engineer. */
@@ -3019,6 +3243,9 @@
 
 /* No comment provided by engineer. */
 "Rotate Scene" = "장면 회전";
+
+/* Bezier path corner type */
+"Round" = "Round";
 
 /* No comment provided by engineer. */
 "Round Text Font Sizes" = "둥근 텍스트 글꼴 크기";
@@ -3045,6 +3272,9 @@
 "Saturate" = "범위 제한";
 
 /* No comment provided by engineer. */
+"Saturate Settings" = "Saturate Settings";
+
+/* No comment provided by engineer. */
 "Saturation" = "채도";
 
 /* No comment provided by engineer. */
@@ -3054,12 +3284,6 @@
 "Save" = "저장";
 
 /* No comment provided by engineer. */
-"Save as Default" = "기본값으로 저장";
-
-/* No comment provided by engineer. */
-"Save as Preset" = "프리셋으로 저장";
-
-/* No comment provided by engineer. */
 "Save As:" = "별도 저장:";
 
 /* No comment provided by engineer. */
@@ -3067,6 +3291,9 @@
 
 /* No comment provided by engineer. */
 "Save Flattened" = "병합 저장";
+
+/* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
+"Save layers and edits to a sidecar file" = "Save layers and edits to a sidecar file";
 
 /* No comment provided by engineer. */
 "Save LUT" = "LUT 저장";
@@ -3148,6 +3375,12 @@
 
 /* No comment provided by engineer. */
 "Select Column" = "열 선택";
+
+/* No comment provided by engineer. */
+"Select Groups" = "Select Groups";
+
+/* No comment provided by engineer. */
+"Select Layers" = "Select Layers";
 
 /* No comment provided by engineer. */
 "Select multiple shape layers" = "여러 개의 도형 레이어를 선택합니다";
@@ -3236,6 +3469,9 @@
 /* No comment provided by engineer. */
 "Set the color using a Hex color code." = "16진수 색상 코드를 사용해 색상을 설정합니다.";
 
+/* Shape line start or end */
+"Set the endpoint size." = "Set the endpoint size.";
+
 /* No comment provided by engineer. */
 "Set the image quality to use when automatically saving changes or sharing images to other apps." = "자동으로 변경 사항을 저장하거나 다른 앱에 이미지를 공유할 때 사용할 이미지 품질을 설정합니다.";
 
@@ -3271,6 +3507,9 @@
 
 /* No comment provided by engineer. */
 "Sharpen Point" = "포인트를 선명하게 만듬";
+
+/* No comment provided by engineer. */
+"Sharpen Settings" = "선명하게 만들기 설정";
 
 /* No comment provided by engineer. */
 "Sharpness" = "선명도";
@@ -3335,6 +3574,9 @@
 /* No comment provided by engineer. */
 "Show Layers" = "레이어 보기";
 
+/* Appears in a button prompting users to take a quick tour of the app's features. */
+"Show me around" = "둘러보기";
+
 /* No comment provided by engineer. */
 "Show Optimized Preview" = "최적화된 미리 보기 표시";
 
@@ -3360,6 +3602,9 @@
 "Show the effect rope on canvas." = "캔버스에 효과 로프를 표시합니다.";
 
 /* No comment provided by engineer. */
+"Show the pattern rope on canvas." = "Show the pattern rope on canvas.";
+
+/* No comment provided by engineer. */
 "Show this window when Pixelmator Pro launches" = "Pixelmator Pro가 시작될 때 이 창 표시";
 
 /* No comment provided by engineer. */
@@ -3381,7 +3626,16 @@
 "Shrink Text to Fit Setting" = "설정에 맞춰 텍스트 축소";
 
 /* No comment provided by engineer. */
+"Side by Side" = "Side by Side";
+
+/* No comment provided by engineer. */
 "Sidecar Disk Usage" = "사이드카 디스크 사용 현황";
+
+/* No comment provided by engineer. */
+"Sidecar File Not Found" = "Sidecar File Not Found";
+
+/* Refers to a linked file (sidecar file) that is linked to another image file. */
+"Sidecar:" = "Sidecar:";
 
 /* No comment provided by engineer. */
 "Sides: %d" = "면: %d";
@@ -3444,6 +3698,9 @@
 "Smudge" = "문지르기";
 
 /* No comment provided by engineer. */
+"Smudge Settings" = "스머지 설정";
+
+/* No comment provided by engineer. */
 "Snapping" = "맞추기";
 
 /* No comment provided by engineer. */
@@ -3463,6 +3720,9 @@
 
 /* No comment provided by engineer. */
 "Soften" = "부드럽게 만들기";
+
+/* No comment provided by engineer. */
+"Soften Settings" = "부드럽게 만들기 설정";
 
 /* No comment provided by engineer. */
 "Softness" = "부드러움";
@@ -3503,7 +3763,7 @@
 /* No comment provided by engineer. */
 "Spot Light" = "스팟 라이트";
 
-/* Refers to a photo cropping preset that crops the photo auotmatically to a square aspect ratio. */
+/* Bezier path corner type */
 "Square" = "정사각형";
 
 /* No comment provided by engineer. */
@@ -3514,6 +3774,9 @@
 
 /* No comment provided by engineer. */
 "Star Shape" = "별 도형";
+
+/* Shape stroke start */
+"Start" = "Start";
 
 /* No comment provided by engineer. */
 "Start Drawing" = "그리기 시작";
@@ -3542,16 +3805,13 @@
 /* No comment provided by engineer. */
 "Story" = "스토리";
 
-/* Appears as the title of a button that automatically straightens photos as part of a batch photo editing workflow */
-"Straighten" = "수평 조절";
-
 /* No comment provided by engineer. */
 "Stretch" = "늘이기";
 
 /* No comment provided by engineer. */
 "Strikethrough" = "취소선";
 
-/* No comment provided by engineer. */
+/* DocumentInspector */
 "Stroke" = "스트로크";
 
 /* No comment provided by engineer. */
@@ -3602,7 +3862,7 @@
 /* No comment provided by engineer. */
 "Super Resolution Split Comparison" = "초해상도 분할 비교";
 
-/* Format */
+/* The name of an image file format. */
 "SVG" = "SVG";
 
 /* No comment provided by engineer. */
@@ -3648,7 +3908,13 @@
 "Texture" = "텍스처";
 
 /* No comment provided by engineer. */
+"Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "텍스처 인식 조정은 LUT를 사용해 다시 생성할 수 없으므로 내보낸 LUT는 다르게 보입니다.";
+
+/* No comment provided by engineer. */
 "Textures" = "텍스처";
+
+/* No comment provided by engineer. */
+"Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image." = "Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image.";
 
 /* No comment provided by engineer. */
 "The document couldn’t be opened." = "문서를 열 수 없습니다.";
@@ -3664,6 +3930,12 @@
 
 /* No comment provided by engineer. */
 "The document “%@” couldn’t be opened." = "“%@” 문서를 열 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied.";
+
+/* No comment provided by engineer. */
+"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?";
 
 /* No comment provided by engineer. */
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF 포맷은 다중 레이어 및 기타 추가 포맷 정보를 지원하지 않습니다. 해당 정보를 유지하려면 대신 Pixelmator Pro 문서로 이미지를 저장하세요.";
@@ -3699,12 +3971,21 @@
 "This document has missing fonts." = "이 문서에 누락된 글꼴이 있습니다.";
 
 /* No comment provided by engineer. */
+"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead.";
+
+/* No comment provided by engineer. */
+"This image has been modified by another application." = "This image has been modified by another application.";
+
+/* No comment provided by engineer. */
+"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead.";
+
+/* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "이것은 Pixelmator Pro의 모든 기능을 갖춘 데모 버전입니다.";
 
 /* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "이 유형의 변형은 지원되지 않습니다.";
 
-/* No comment provided by engineer. */
+/* The name of an image file format. */
 "TIFF" = "TIFF";
 
 /* Effects category name */
@@ -3801,6 +4082,9 @@
 "Type" = "입력";
 
 /* No comment provided by engineer. */
+"Unable to Open Sidecar File" = "Unable to Open Sidecar File";
+
+/* No comment provided by engineer. */
 "Underline" = "밑줄";
 
 /* No comment provided by engineer. */
@@ -3840,6 +4124,9 @@
 "Unnamed Collection" = "이름 없는 컬렉션";
 
 /* No comment provided by engineer. */
+"Unsupported Adjustments" = "지원되지 않는 조정";
+
+/* No comment provided by engineer. */
 "Untitled" = "제목 없음";
 
 /* No comment provided by engineer. */
@@ -3863,6 +4150,12 @@
 /* No comment provided by engineer. */
 "Upgrade" = "업그레이드";
 
+/* The name of a 3D file format. */
+"USD" = "USD";
+
+/* The name of a 3D file format. */
+"USDZ" = "USDZ";
+
 /* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "텍스처 인식 알고리즘 사용";
 
@@ -3874,6 +4167,9 @@
 
 /* No comment provided by engineer. */
 "Version %@ (%@)" = "버전 %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"Version history is not fully supported for images with sidecar files." = "Version history is not fully supported for images with sidecar files.";
 
 /* No comment provided by engineer. */
 "Vertical Alignment" = "세로 맞춤";
@@ -3908,7 +4204,7 @@
 /* No comment provided by engineer. */
 "Watercolor" = "수채화";
 
-/* Format */
+/* The name of an image file format. */
 "WebP" = "WebP";
 
 /* No comment provided by engineer. */
@@ -3932,7 +4228,7 @@
 /* Refers to the color of the application window background. */
 "Window Background" = "윈도우 배경";
 
-/* Refers to photo batch editing workflows (that let you edit a number of photos at once) and appears as a title in a toolbar. */
+/* No comment provided by engineer. */
 "Workflows" = "작업 흐름";
 
 /* No comment provided by engineer. */
@@ -3969,6 +4265,9 @@
 "Yellow / Blue" = "노랑 / 파랑";
 
 /* No comment provided by engineer. */
+"You can choose to quit and reopen %@ now or do it yourself later." = "You can choose to quit and reopen %@ now or do it yourself later.";
+
+/* No comment provided by engineer. */
 "You can discard the edits to keep your original file unmodified." = "편집 내용을 버리고 원본 파일을 수정 없이 유지할 수 있습니다.";
 
 /* No comment provided by engineer. */
@@ -3978,6 +4277,9 @@
 "You can download the latest version of %@ from the Mac App Store." = "Mac App Store에서 %@의 최신 버전을 다운로드할 수 있습니다.";
 
 /* No comment provided by engineer. */
+"You can revert to a previous version of your document, however, it will not contain any nondestructive edits." = "You can revert to a previous version of your document, however, it will not contain any nondestructive edits.";
+
+/* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "전에 접근 권한을 거부하셨습니다. FaceTime 카메라를 사용해서 문서에 이미지를 추가하려면 시스템 환경 설정에서 접근 권한을 허용하세요.";
 
 /* No comment provided by engineer. */
@@ -3985,6 +4287,12 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "이 문서를 열려면 새 버전이 필요합니다.";
+
+/* No comment provided by engineer. */
+"You're attempting to open a %@ sidecar document which cannot be edited directly." = "You're attempting to open a %@ sidecar document which cannot be edited directly.";
+
+/* No comment provided by engineer. */
+"Your new autosave settings will not take effect until you quit %@." = "Your new autosave settings will not take effect until you quit %@.";
 
 /* No comment provided by engineer. */
 "Your trial has now expired. To enjoy the benefits of editing your images with both Pixelmator Pro and its Photos extension as well as easily downloading, redownloading, and automatically updating Pixelmator Pro on all your computers purchase the app from the Mac App Store." = "회원님의 평가판이 이제 만료되었습니다. Pixelmator Pro와 사진 확장을 사용해 계속해서 이미지를 편집하고 모든 컴퓨터에서 Pixelmator Pro를 편하게 다운로드, 다시 다운로드, 자동 업데이트하려면 Mac App Store에서 해당 앱을 구입하시기 바랍니다.";
