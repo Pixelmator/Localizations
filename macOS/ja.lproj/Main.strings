@@ -1,3 +1,6 @@
+/* Class = "NSMenuItem"; title = "Select Layers"; ObjectID = "02c-cI-laT"; */
+"02c-cI-laT.title" = "レイヤーを選択";
+
 /* Class = "NSMenuItem"; title = "Scale"; ObjectID = "0AN-rc-H9C"; */
 "0AN-rc-H9C.title" = "縮小・拡大";
 
@@ -127,8 +130,8 @@
 /* Class = "NSMenuItem"; title = "Paint"; ObjectID = "3Bq-pf-FwJ"; */
 "3Bq-pf-FwJ.title" = "ペイント";
 
-/* Class = "NSMenu"; title = "Distribute Objects"; ObjectID = "3GB-rV-UNH"; */
-"3GB-rV-UNH.title" = "オブジェクトを均等に配置";
+/* Class = "NSMenu"; title = "Distribute Layers"; ObjectID = "3GB-rV-UNH"; */
+"3GB-rV-UNH.title" = "レイヤーを均等に配置";
 
 /* Class = "NSMenuItem"; title = "Link Mask"; ObjectID = "3dZ-Q6-Spa"; */
 "3dZ-Q6-Spa.title" = "マスクをリンク";
@@ -151,14 +154,11 @@
 /* Class = "NSMenuItem"; title = "Distort…"; ObjectID = "4L7-eX-ueT"; */
 "4L7-eX-ueT.title" = "歪み…";
 
-/* Class = "NSMenuItem"; title = "Copy Document Colors"; ObjectID = "4Mh-0s-Rc1"; */
-"4Mh-0s-Rc1.title" = "書類のカラーをコピー";
-
 /* Class = "NSMenuItem"; title = "Bottom Edges"; ObjectID = "4Tq-r1-CaM"; */
 "4Tq-r1-CaM.title" = "下揃え";
 
-/* Class = "NSMenu"; title = "Align Objects"; ObjectID = "4cc-rw-ncG"; */
-"4cc-rw-ncG.title" = "オブジェクトを整列";
+/* Class = "NSMenu"; title = "Align Layers"; ObjectID = "4cc-rw-ncG"; */
+"4cc-rw-ncG.title" = "レイヤーを揃える";
 
 /* Class = "NSMenu"; title = "Shape"; ObjectID = "4fQ-d8-DSe"; */
 "4fQ-d8-DSe.title" = "シェイプ";
@@ -216,9 +216,6 @@
 
 /* Class = "NSMenuItem"; title = "Deselect"; ObjectID = "6UP-vV-ppP"; */
 "6UP-vV-ppP.title" = "選択を解除";
-
-/* Class = "NSMenuItem"; title = "PSDEngine Version"; ObjectID = "6Xm-Qd-c2z"; */
-"6Xm-Qd-c2z.title" = "PSDEngine Version";
 
 /* Class = "NSMenuItem"; title = "Show Tab Bar"; ObjectID = "6aM-1G-LeE"; */
 "6aM-1G-LeE.title" = "タブバーを表示";
@@ -298,6 +295,12 @@
 /* Class = "NSMenu"; title = "Soft Proof Colors"; ObjectID = "9Lg-dT-WtH"; */
 "9Lg-dT-WtH.title" = "ソフトプルーフカラー";
 
+/* Class = "NSMenuItem"; title = "Enable Sidecar File"; ObjectID = "9XG-Do-T1W"; */
+"9XG-Do-T1W.title" = "Sidecarファイルを有効";
+
+/* Class = "NSMenuItem"; title = "Delete Sidecar File"; ObjectID = "9at-iH-Xzw"; */
+"9at-iH-Xzw.title" = "Sidecarファイルを削除";
+
 /* Class = "NSMenuItem"; title = "Overlays"; ObjectID = "9jA-kG-WDH"; */
 "9jA-kG-WDH.title" = "オーバーレイ";
 
@@ -330,6 +333,9 @@
 
 /* Class = "NSMenuItem"; title = "Enable CI Image Cache"; ObjectID = "AyY-JH-cWm"; */
 "AyY-JH-cWm.title" = "Enable CI Image Cache";
+
+/* Class = "NSMenuItem"; title = "Enable Sidecar File"; ObjectID = "BMg-Lt-vDx"; */
+"BMg-Lt-vDx.title" = "Sidecarファイルを有効";
 
 /* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "設定…";
@@ -394,8 +400,8 @@
 /* Class = "NSMenu"; title = "Arrange"; ObjectID = "D2d-g4-MTd"; */
 "D2d-g4-MTd.title" = "配置";
 
-/* Class = "NSMenuItem"; title = "ML Refine Selection"; ObjectID = "D8b-1G-9Xz"; */
-"D8b-1G-9Xz.title" = "ML 選択調整";
+/* Class = "NSMenuItem"; title = "Reveal Sidecar File in Finder"; ObjectID = "D8b-1G-9Xz"; */
+"D8b-1G-9Xz.title" = "SidecarファイルをFinderに表示";
 
 /* Class = "NSMenuItem"; title = "Elliptical Selection"; ObjectID = "DH5-N4-poC"; */
 "DH5-N4-poC.title" = "楕円で選択";
@@ -406,6 +412,9 @@
 /* Class = "NSMenu"; title = "Retouch"; ObjectID = "DRM-j2-Eu6"; */
 "DRM-j2-Eu6.title" = "レタッチ";
 
+/* Class = "NSMenuItem"; title = "Modify Orginal in Photos"; ObjectID = "DV2-rc-09O"; */
+"DV2-rc-09O.title" = "オリジナルを写真で編集";
+
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
 "DVo-aG-piG.title" = "閉じる";
 
@@ -414,9 +423,6 @@
 
 /* Class = "NSMenuItem"; title = "Paste and Match Colors"; ObjectID = "DpW-e9-fxW"; */
 "DpW-e9-fxW.title" = "ペーストして色を合わせる";
-
-/* Class = "NSMenuItem"; title = "Paste Document Colors"; ObjectID = "Dwe-kD-A33"; */
-"Dwe-kD-A33.title" = "書類のカラーをペースト";
 
 /* Class = "NSMenuItem"; title = "Install UI Tests"; ObjectID = "E2l-Cj-kkL"; */
 "E2l-Cj-kkL.title" = "Install UI Tests";
@@ -457,8 +463,8 @@
 /* Class = "NSMenuItem"; title = "Convert to Color Adjustments Layer"; ObjectID = "FWc-KV-ayK"; */
 "FWc-KV-ayK.title" = "カラー調整レイヤーに変換";
 
-/* Class = "NSMenu"; title = "Pre-production Features"; ObjectID = "Faj-dX-fRy"; */
-"Faj-dX-fRy.title" = "Pre-production Features";
+/* Class = "NSMenu"; title = "Sidecar"; ObjectID = "Faj-dX-fRy"; */
+"Faj-dX-fRy.title" = "Sidecar";
 
 /* Class = "NSMenuItem"; title = "Print Memory Usage"; ObjectID = "FiT-dj-jtL"; */
 "FiT-dj-jtL.title" = "メモリの使用状況をプリント";
@@ -501,6 +507,9 @@
 
 /* Class = "NSMenuItem"; title = "Refine Mask…"; ObjectID = "Gzq-HF-BvQ"; */
 "Gzq-HF-BvQ.title" = "マスクを調整...";
+
+/* Class = "NSMenuItem"; title = "Reveal Sidecar File"; ObjectID = "H19-Gq-P9t"; */
+"H19-Gq-P9t.title" = "Sidecarファイルを表示";
 
 /* Class = "NSMenu"; title = "Character Spacing"; ObjectID = "H3R-mM-cg6"; */
 "H3R-mM-cg6.title" = "文字間隔";
@@ -568,6 +577,9 @@
 /* Class = "NSMenuItem"; title = "Select and Mask…"; ObjectID = "KLa-fZ-e1y"; */
 "KLa-fZ-e1y.title" = "選択とマスク...";
 
+/* Class = "NSMenuItem"; title = "Select Groups"; ObjectID = "KYK-hM-iFi"; */
+"KYK-hM-iFi.title" = "グループを選択";
+
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
 "KaW-ft-85H.title" = "保存時に戻す";
 
@@ -603,9 +615,6 @@
 
 /* Class = "NSMenuItem"; title = "Preserve Transparency"; ObjectID = "Ler-0C-0Pw"; */
 "Ler-0C-0Pw.title" = "透明部分を保護";
-
-/* Class = "NSMenuItem"; title = "ML Refine Selection (Disabled Multiscale)"; ObjectID = "Ly8-Oy-gXe"; */
-"Ly8-Oy-gXe.title" = "ML Refine Selection (Disabled Multiscale)";
 
 /* Class = "NSMenuItem"; title = "Warp"; ObjectID = "MBm-1I-giF"; */
 "MBm-1I-giF.title" = "ワープ";
@@ -715,6 +724,9 @@
 /* Class = "NSMenuItem"; title = "Color Selection"; ObjectID = "QQt-yr-6na"; */
 "QQt-yr-6na.title" = "色選択";
 
+/* Class = "NSMenuItem"; title = "iCloud:"; ObjectID = "QRB-Zh-JFg"; */
+"QRB-Zh-JFg.title" = "iCloud:";
+
 /* Class = "NSMenuItem"; title = "Quick Canvas Controls"; ObjectID = "QS7-ig-gPj"; */
 "QS7-ig-gPj.title" = "クイック キャンバス コントロール";
 
@@ -772,6 +784,9 @@
 /* Class = "NSMenuItem"; title = "Load Selection"; ObjectID = "Sui-s2-jDR"; */
 "Sui-s2-jDR.title" = "選択範囲の読み込み";
 
+/* Class = "NSMenu"; title = "Select Layers"; ObjectID = "TI2-hQ-n1a"; */
+"TI2-hQ-n1a.title" = "レイヤーを選択";
+
 /* Class = "NSMenuItem"; title = "Always Show Controls"; ObjectID = "TPZ-ZJ-dL3"; */
 "TPZ-ZJ-dL3.title" = "常にコントロールを表示";
 
@@ -790,6 +805,9 @@
 /* Class = "NSMenuItem"; title = "Remove Background"; ObjectID = "U6l-WU-Khs"; */
 "U6l-WU-Khs.title" = "背景を削除";
 
+/* Class = "NSMenuItem"; title = "Force Delete Sidecar File"; ObjectID = "UCr-ES-4bp"; */
+"UCr-ES-4bp.title" = "Sidecarファイルの強制削除";
+
 /* Class = "NSMenuItem"; title = "Paste Mask"; ObjectID = "ULX-lw-dTg"; */
 "ULX-lw-dTg.title" = "マスクをペースト";
 
@@ -807,6 +825,9 @@
 
 /* Class = "NSMenuItem"; title = "Retouch"; ObjectID = "Uj1-6l-JJy"; */
 "Uj1-6l-JJy.title" = "レタッチ";
+
+/* Class = "NSMenuItem"; title = "Auto Select"; ObjectID = "Unu-t5-xxf"; */
+"Unu-t5-xxf.title" = "自動選択";
 
 /* Class = "NSMenuItem"; title = "Toggle Shape Tools"; ObjectID = "UuV-u0-WQN"; */
 "UuV-u0-WQN.title" = "Toggle Shape Tools";
@@ -874,8 +895,8 @@
 /* Class = "NSMenuItem"; title = "Merge Shape Components"; ObjectID = "XVv-gn-hXN"; */
 "XVv-gn-hXN.title" = "シェイプの部品を結合";
 
-/* Class = "NSMenuItem"; title = "Align Objects"; ObjectID = "XZa-T0-Plf"; */
-"XZa-T0-Plf.title" = "オブジェクトを整列";
+/* Class = "NSMenuItem"; title = "Align Layers"; ObjectID = "XZa-T0-Plf"; */
+"XZa-T0-Plf.title" = "レイヤーを揃える";
 
 /* Class = "NSMenuItem"; title = "Toggle Effect Browser Editing"; ObjectID = "Xes-lu-XqL"; */
 "Xes-lu-XqL.title" = "エフェクトブラウザー編集の切り替え";
@@ -895,6 +916,9 @@
 /* Class = "NSMenuItem"; title = "Invert Selection"; ObjectID = "YLS-v4-OxS"; */
 "YLS-v4-OxS.title" = "選択範囲を反転";
 
+/* Class = "NSMenu"; title = "Sidecar"; ObjectID = "YNz-0y-zFf"; */
+"YNz-0y-zFf.title" = "Sidecar";
+
 /* Class = "NSMenuItem"; title = "New from Photos…"; ObjectID = "YRe-o2-QVy"; */
 "YRe-o2-QVy.title" = "写真から開く…";
 
@@ -912,6 +936,9 @@
 
 /* Class = "NSMenuItem"; title = "Smart Guides"; ObjectID = "Yev-Wy-K5f"; */
 "Yev-Wy-K5f.title" = "スマートガイド";
+
+/* Class = "NSMenuItem"; title = "Sidecar"; ObjectID = "YfF-zS-KE2"; */
+"YfF-zS-KE2.title" = "Sidecar";
 
 /* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "Yje-j6-ioi"; */
 "Yje-j6-ioi.title" = "右揃え";
@@ -997,9 +1024,6 @@
 /* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "bj0-wj-vJE"; */
 "bj0-wj-vJE.title" = "フォントを表示";
 
-/* Class = "NSMenuItem"; title = "ML Refine Mask"; ObjectID = "bj3-UV-kIH"; */
-"bj3-UV-kIH.title" = "ML Refine Mask";
-
 /* Class = "NSMenuItem"; title = "Last Used Type Tool"; ObjectID = "bjK-YJ-QOb"; */
 "bjK-YJ-QOb.title" = "Last Used Type Tool";
 
@@ -1009,11 +1033,11 @@
 /* Class = "NSMenuItem"; title = "Color Profile…"; ObjectID = "byQ-Tm-lkj"; */
 "byQ-Tm-lkj.title" = "カラープロファイル…";
 
-/* Class = "NSMenuItem"; title = "ML Decontaminate Colors"; ObjectID = "bzA-6m-tAm"; */
-"bzA-6m-tAm.title" = "ML カラー除去";
-
 /* Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "cAm-KJ-Rjx"; */
 "cAm-KJ-Rjx.title" = "実際のサイズ";
+
+/* Class = "NSMenuItem"; title = "Select Layers"; ObjectID = "cHD-c8-MP1"; */
+"cHD-c8-MP1.title" = "レイヤーを選択";
 
 /* Class = "NSMenu"; title = "Advanced"; ObjectID = "cHY-ga-gKk"; */
 "cHY-ga-gKk.title" = "詳細設定";
@@ -1057,6 +1081,9 @@
 /* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "dWq-1S-UlG"; */
 "dWq-1S-UlG.title" = "長方形";
 
+/* Class = "NSMenuItem"; title = "Delete Sidecar File"; ObjectID = "djd-Ue-fOc"; */
+"djd-Ue-fOc.title" = "Sidecarファイルを削除";
+
 /* Class = "NSMenuItem"; title = "Mute Audio"; ObjectID = "dnV-ZU-K1S"; */
 "dnV-ZU-K1S.title" = "音声をミュート";
 
@@ -1084,6 +1111,9 @@
 /* Class = "NSMenuItem"; title = "Style"; ObjectID = "f1w-iV-KDN"; */
 "f1w-iV-KDN.title" = "スタイル";
 
+/* Class = "NSMenuItem"; title = "Sidecar Disk Usage"; ObjectID = "f9u-G5-CxV"; */
+"f9u-G5-CxV.title" = "Sidecarディスクの使用量";
+
 /* Class = "NSMenuItem"; title = "Automatically Show Controls"; ObjectID = "fFE-hf-XTc"; */
 "fFE-hf-XTc.title" = "コントローラーを自動で表示";
 
@@ -1105,8 +1135,8 @@
 /* Class = "NSMenuItem"; title = "Select"; ObjectID = "fZZ-Gf-srs"; */
 "fZZ-Gf-srs.title" = "選択";
 
-/* Class = "NSMenuItem"; title = "Distribute Objects"; ObjectID = "fjp-Sg-CYK"; */
-"fjp-Sg-CYK.title" = "オブジェクトを均等に配置";
+/* Class = "NSMenuItem"; title = "Distribute Layers"; ObjectID = "fjp-Sg-CYK"; */
+"fjp-Sg-CYK.title" = "レイヤーを均等に配置";
 
 /* Class = "NSMenuItem"; title = "Color Depth…"; ObjectID = "fjz-RR-1Vv"; */
 "fjz-RR-1Vv.title" = "色深度…";
@@ -1280,7 +1310,7 @@
 "mQO-S1-Uki.title" = "描画";
 
 /* Class = "NSMenuItem"; title = "ML Remove Background"; ObjectID = "mbf-30-MCg"; */
-"mbf-30-MCg.title" = "ML Remove Background";
+"mbf-30-MCg.title" = "ML 背景除去";
 
 /* Class = "NSMenuItem"; title = "Check for Updates"; ObjectID = "mhD-Ri-m6z"; */
 "mhD-Ri-m6z.title" = "アップデートを確認";
@@ -1326,6 +1356,9 @@
 
 /* Class = "NSMenuItem"; title = "IOSurface"; ObjectID = "p6B-5r-NyR"; */
 "p6B-5r-NyR.title" = "IOSurface";
+
+/* Class = "NSMenuItem"; title = "Force Sidecar File writing failure"; ObjectID = "pM2-bF-YCj"; */
+"pM2-bF-YCj.title" = "Sidecarファイルの書き込み失敗を強制";
 
 /* Class = "NSMenuItem"; title = "Enable Mask"; ObjectID = "pV5-7U-ftF"; */
 "pV5-7U-ftF.title" = "マスクを有効";
@@ -1384,8 +1417,8 @@
 /* Class = "NSMenuItem"; title = "Hide Tools"; ObjectID = "sfv-qk-fgU"; */
 "sfv-qk-fgU.title" = "ツールを隠す";
 
-/* Class = "NSMenuItem"; title = "Pre-production Features"; ObjectID = "sml-yf-evR"; */
-"sml-yf-evR.title" = "Pre-production Features";
+/* Class = "NSMenuItem"; title = "Sidecar"; ObjectID = "sml-yf-evR"; */
+"sml-yf-evR.title" = "Sidecar";
 
 /* Class = "NSMenuItem"; title = "Other…"; ObjectID = "spb-SQ-OzZ"; */
 "spb-SQ-OzZ.title" = "その他…";
@@ -1471,6 +1504,9 @@
 /* Class = "NSMenuItem"; title = "Default Document Content Loading Behaviour"; ObjectID = "vY4-SA-XXP"; */
 "vY4-SA-XXP.title" = "Default Document Content Loading Behaviour";
 
+/* Class = "NSMenuItem"; title = "Force Reveal Sidecar File in Finder"; ObjectID = "vZ3-XC-uhP"; */
+"vZ3-XC-uhP.title" = "FinderでSidecarファイルを強制的に表示";
+
 /* Class = "NSMenuItem"; title = "Free Selection"; ObjectID = "vf7-kS-8wW"; */
 "vf7-kS-8wW.title" = "フリー選択";
 
@@ -1537,6 +1573,9 @@
 /* Class = "NSMenuItem"; title = "Convert into Shape"; ObjectID = "yGD-AP-7LL"; */
 "yGD-AP-7LL.title" = "シェイプに変換";
 
+/* Class = "NSMenuItem"; title = "Delete All Sidecar Files"; ObjectID = "yhG-kN-ASA"; */
+"yhG-kN-ASA.title" = "すべてのSidecarファイルを削除";
+
 /* Class = "NSMenuItem"; title = "Get Started (Internal Only)"; ObjectID = "yiV-aK-2TQ"; */
 "yiV-aK-2TQ.title" = "はじめに (内部のみ)";
 
@@ -1555,11 +1594,11 @@
 /* Class = "NSMenuItem"; title = "Define as Placeholder"; ObjectID = "zJI-Wz-5D8"; */
 "zJI-Wz-5D8.title" = "プレースホルダーとして定義";
 
+/* Class = "NSMenuItem"; title = "Pictures Folder:"; ObjectID = "zcF-si-IsB"; */
+"zcF-si-IsB.title" = "写真フォルダ：";
+
 /* Class = "NSMenuItem"; title = "Horizontal Centers"; ObjectID = "zcw-iN-Hhd"; */
 "zcw-iN-Hhd.title" = "中央揃え";
-
-/* Class = "NSMenuItem"; title = "ML Remove Background"; ObjectID = "zmC-zA-ugC"; */
-"zmC-zA-ugC.title" = "ML Remove Background";
 
 /* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "zqV-g2-2Qp"; */
 "zqV-g2-2Qp.title" = "大きく";
