@@ -5,6 +5,9 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* No comment provided by engineer. */
+"%@ Bytes" = "%@ Bytes";
+
+/* No comment provided by engineer. */
 "%@/month" = "%@/mes";
 
 /* No comment provided by engineer. */
@@ -112,6 +115,9 @@
 /* No comment provided by engineer. */
 "Adjust Intensity" = "Ajustar intensidad";
 
+/* Shape line start or end */
+"Adjust the endpoint size." = "Adjust the endpoint size.";
+
 /* No comment provided by engineer. */
 "Adjustment" = "Ajuste";
 
@@ -122,10 +128,16 @@
 "Adjustments" = "Ajustes";
 
 /* No comment provided by engineer. */
+"Adjustments Layer" = "Adjustments Layer";
+
+/* No comment provided by engineer. */
 "Affine Tile" = "Mosaico afín";
 
 /* No comment provided by engineer. */
 "Albums" = "Álbumes";
+
+/* stroke options - stroke position */
+"Align" = "Align";
 
 /* No comment provided by engineer. */
 "All presets in group will be reset to the initial color adjustments." = "Todos los preajustes del grupo se restablecerán a los ajustes de color iniciales.";
@@ -159,6 +171,9 @@
 
 /* No comment provided by engineer. */
 "Angle Scatter" = "Dispersión de ángulo";
+
+/* No comment provided by engineer. */
+"App Settings" = "App Settings";
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
@@ -211,6 +226,15 @@
 
 /* No comment provided by engineer. */
 "Automatically improve the lighting and colors of a photo using AI by simply tapping [WAND]." = "Mejora automáticamente la iluminación y los colores de una foto con IA, simplemente toca [WAND].";
+
+/* No comment provided by engineer. */
+"Automatically select the sky in any photo with just a tap." = "Automatically select the sky in any photo with just a tap.";
+
+/* No comment provided by engineer. */
+"Automatically select the subject in any photo using AI." = "Automatically select the subject in any photo using AI.";
+
+/* No comment provided by engineer. */
+"Background" = "Background";
 
 /* No comment provided by engineer. */
 "Background Color" = "Color de fondo";
@@ -266,6 +290,9 @@
 /* Effects category name */
 "Blur" = "Difuminado";
 
+/* The name of an image file format. */
+"BMP" = "BMP";
+
 /* No comment provided by engineer. */
 "Boost" = "Aumentar";
 
@@ -283,6 +310,12 @@
 
 /* No comment provided by engineer. */
 "BROWSER" = "NAVEGADOR";
+
+/* No comment provided by engineer. */
+"Brush" = "Brush";
+
+/* No comment provided by engineer. */
+"Brush Layer" = "Brush Layer";
 
 /* No comment provided by engineer. */
 "Brush Scatter" = "Dispersión de pincel";
@@ -308,11 +341,20 @@
 /* Tool */
 "Canvas Size" = "Tamaño del lienzo";
 
+/* stroke options - line caps */
+"Caps" = "Caps";
+
 /* No comment provided by engineer. */
 "Center" = "Centrar";
 
+/* No comment provided by engineer. */
+"Center." = "Center.";
+
 /* Units */
 "Centimeters" = "Centímetros";
+
+/* No comment provided by engineer. */
+"Change Blending Mode" = "Change Blending Mode";
 
 /* No comment provided by engineer. */
 "Change Color..." = "Cambiar color...";
@@ -346,9 +388,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "Claridad";
-
-/* No comment provided by engineer. */
-"Clarity & Texture" = "Claridad y textura";
 
 /* No comment provided by engineer. */
 "Clarity Highlights" = "Claridad luces";
@@ -389,10 +428,19 @@
 "Color Fill" = "Relleno de color";
 
 /* No comment provided by engineer. */
+"Color Mask" = "Color Mask";
+
+/* No comment provided by engineer. */
 "Color Monochrome" = "Color monocromo";
 
 /* No comment provided by engineer. */
 "Color Noise Reduction" = "Reducción de ruido de color";
+
+/* No comment provided by engineer. */
+"Color Range" = "Color Range";
+
+/* No comment provided by engineer. */
+"Color Range Layer" = "Color Range Layer";
 
 /* No comment provided by engineer. */
 "Color Wheels" = "Ruedas de colores";
@@ -445,6 +493,9 @@
 /* No comment provided by engineer. */
 "Copying Adjustments" = "Copiando ajustes";
 
+/* stroke options - line join style */
+"Corner" = "Corner";
+
 /* Tool */
 "Crayon" = "Crayón";
 
@@ -455,7 +506,7 @@
 "Create Workflow" = "Crear flujo de trabajo";
 
 /* No comment provided by engineer. */
-"Creates a Pixelmator Photo album in your Photos library and automatically adds each photo edited with the app to the album." = "Crea un álbum de fotos de Pixelmator en tu Fototeca y añade automáticamente al álbum cada foto editada con la aplicación.";
+"Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album.";
 
 /* Tool */
 "Crop" = "Recortar";
@@ -507,8 +558,17 @@
 /* No comment provided by engineer. */
 "Darks" = "Oscuros";
 
-/* Edit Menu */
-"Decrease Size" = "Reducir tamaño";
+/* stroke options */
+"Dash" = "Dash";
+
+/* stroke options */
+"Dashed Line" = "Dashed Line";
+
+/* Tool */
+"Deband" = "Deband";
+
+/* No comment provided by engineer. */
+"Debanding…" = "Debanding…";
 
 /* No comment provided by engineer. */
 "Default" = "Predeterminado";
@@ -541,7 +601,13 @@
 "Denoising…" = "Eliminando ruido...";
 
 /* No comment provided by engineer. */
+"Depth" = "Depth";
+
+/* No comment provided by engineer. */
 "Depth Mask" = "Máscara de profundidad";
+
+/* No comment provided by engineer. */
+"Depth Range" = "Depth Range";
 
 /* Retouch Tools
    Tool */
@@ -600,6 +666,9 @@
 
 /* No comment provided by engineer. */
 "Dismiss" = "Descartar";
+
+/* No comment provided by engineer. */
+"Display Albums Without Nesting" = "Display Albums Without Nesting";
 
 /* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "Muestra todos los álbumes, incluidos los que están dentro de las carpetas, en una única galería ordenada alfabéticamente.";
@@ -673,6 +742,15 @@
 /* No comment provided by engineer. */
 "Drag to set the white point on the red, green and blue levels." = "Arrastra para establecer el punto blanco en los niveles rojo, verde y azul.";
 
+/* No comment provided by engineer. */
+"Draw on canvas to add a brush mask." = "Draw on canvas to add a brush mask.";
+
+/* No comment provided by engineer. */
+"Draw on canvas to add to a mask." = "Draw on canvas to add to a mask.";
+
+/* No comment provided by engineer. */
+"Draw on canvas to subtract from a mask." = "Draw on canvas to subtract from a mask.";
+
 /* Edit Menu */
 "Duplicate" = "Duplicar";
 
@@ -704,7 +782,7 @@
 "Edit Details" = "Editar detalles";
 
 /* No comment provided by engineer. */
-"Edit in Pixelmator Photo" = "Editar en Pixelmator Photo";
+"Edit in Photomator" = "Edit in Photomator";
 
 /* No comment provided by engineer. */
 "Edit JPEG" = "Editar JPEG";
@@ -714,6 +792,9 @@
 
 /* No comment provided by engineer. */
 "Edit RAW" = "Editar RAW";
+
+/* No comment provided by engineer. */
+"Editing" = "Editing";
 
 /* No comment provided by engineer. */
 "Editing Image" = "Editando imagen";
@@ -736,6 +817,9 @@
 
 /* Tool */
 "Effects" = "Efectos";
+
+/* No comment provided by engineer. */
+"Effortlessly remove anything from small blemishes to entire objects from photos." = "Effortlessly remove anything from small blemishes to entire objects from photos.";
 
 /* Tool */
 "Ellipse" = "Elipse";
@@ -770,6 +854,9 @@
 /* No comment provided by engineer. */
 "Enable Sharpening" = "Permitir enfoque";
 
+/* Shape stroke end */
+"End" = "End";
+
 /* No comment provided by engineer. */
 "End Point" = "Punto final";
 
@@ -777,22 +864,31 @@
 "Enhance" = "Mejorar";
 
 /* No comment provided by engineer. */
-"Enhance the finest details in your photos using the powerful new Texture and Clarity adjustments." = "Mejora hasta los detalles más insignificantes de tus fotos con los nuevos y potentes ajustes de Textura y claridad.";
-
-/* No comment provided by engineer. */
 "Enjoy support for the new iPad Pro and the next-level Apple Pencil hover experience." = "Disfruta de la compatibilidad con el nuevo iPad Pro y de la experiencia de deslizamiento del Apple Pencil de nuevo nivel.";
 
 /* No comment provided by engineer. */
-"Enjoy unlimited access to Pixelmator Photo!" = "¡Disfruta de acceso ilimitado a Pixelmator Photo!";
+"Enjoy unlimited access to Photomator!" = "Enjoy unlimited access to Photomator!";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset:" = "Introduzca un nombre nuevo para este preajuste:";
+"Enter a new name for this layer." = "Enter a new name for this layer.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this preset" = "Enter a new name for this preset";
+
+/* No comment provided by engineer. */
+"Enter a new name for this preset." = "Enter a new name for this preset.";
 
 /* No comment provided by engineer. */
 "Enter Fullscreen" = "Ver a pantalla completa";
 
+/* The name of an image file format. */
+"EPS" = "EPS";
+
 /* Tool */
 "Erase" = "Borrar";
+
+/* No comment provided by engineer. */
+"Everything you need to make your photos stand out." = "Everything you need to make your photos stand out.";
 
 /* No comment provided by engineer. */
 "Exclusion" = "Exclusión";
@@ -843,13 +939,19 @@
 "Favorites" = "Favoritos";
 
 /* No comment provided by engineer. */
+"Feather" = "Feather";
+
+/* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Función no disponible en esta demostración";
 
 /* No comment provided by engineer. */
 "Feature Unavailable" = "Función no disponible";
 
 /* No comment provided by engineer. */
-"Files Browser" = "Navegador de archivos";
+"Files" = "Files";
+
+/* No comment provided by engineer. */
+"Files browser" = "Files browser";
 
 /* Effects category name */
 "Fill" = "Rellenar";
@@ -893,6 +995,9 @@
 /* No comment provided by engineer. */
 "Fullscreen" = "Pantalla completa";
 
+/* stroke options */
+"Gap" = "Gap";
+
 /* Effects category name */
 "Generator" = "Generador";
 
@@ -915,7 +1020,10 @@
 "Getting Started" = "Cómo empezar";
 
 /* No comment provided by engineer. */
-"Getting Started with Pixelmator Photo" = "Cómo empezar con Pixelmator Photo";
+"Getting Started with Photomator" = "Getting Started with Photomator";
+
+/* The name of an image file format. */
+"GIF" = "GIF";
 
 /* No comment provided by engineer. */
 "Glazed" = "Esmaltado";
@@ -978,11 +1086,17 @@
 /* No comment provided by engineer. */
 "Hard Mix" = "Mezcla fuerte";
 
+/* The name of an image file format. */
+"HEIC" = "HEIC";
+
 /* No comment provided by engineer. */
 "Height:" = "Altura:";
 
 /* No comment provided by engineer. */
 "Hidden" = "Oculto";
+
+/* No comment provided by engineer. */
+"Hidden Album" = "Hidden Album";
 
 /* No comment provided by engineer. */
 "Hidden Layer" = "Capa oculta";
@@ -998,9 +1112,6 @@
 
 /* Color Balance */
 "Highlights" = "Iluminaciones";
-
-/* No comment provided by engineer. */
-"Highlights & Shadows" = "Luces y sombras";
 
 /* No comment provided by engineer. */
 "Histogram" = "Histograma";
@@ -1021,7 +1132,7 @@
 "Hue Scatter" = "Dispersión de tono";
 
 /* No comment provided by engineer. */
-"iCloud is turned off for Pixelmator Photo. Turn it on in Settings to save linked files in iCloud." = "iCloud está desactivado para Pixelmator Photo. Actívalo en Ajustes para guardar los archivos vinculados en iCloud.";
+"iCloud is turned off for Photomator. Turn it on in Settings to save linked files in iCloud." = "iCloud is turned off for Photomator. Turn it on in Settings to save linked files in iCloud.";
 
 /* No comment provided by engineer. */
 "iCloud Photos" = "Fotos de iCloud";
@@ -1031,6 +1142,12 @@
 
 /* No comment provided by engineer. */
 "If you think you should have an active subscription, get in touch with us and we’ll help out." = "Si crees que deberías tener una suscripción activa, ponte en contacto con nosotros y te ayudaremos.";
+
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator" = "Illustrator";
+
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator Document" = "Illustrator Document";
 
 /* Untitled document name received via Handoff */
 "Image" = "Imagen";
@@ -1057,7 +1174,7 @@
 "Import Photo" = "Importar foto";
 
 /* No comment provided by engineer. */
-"Import this image into Pixelmator Photo and open it for editing." = "Importar esta imagen a Pixelmator Photo y abrirla para editarla.";
+"Import this image into Photomator and open it for editing." = "Import this image into Photomator and open it for editing.";
 
 /* No comment provided by engineer. */
 "Import to Files" = "Importar a Archivos";
@@ -1081,8 +1198,8 @@
 /* No comment provided by engineer. */
 "Increase Resolution" = "Aumentar la resolución";
 
-/* Edit Menu */
-"Increase Size" = "Aumentar tamaño";
+/* No comment provided by engineer. */
+"Increase the resolution of photos while preserving sharpness and details." = "Increase the resolution of photos while preserving sharpness and details.";
 
 /* No comment provided by engineer. */
 "Increasing Resolution…" = "Aumentando resolución...";
@@ -1106,25 +1223,40 @@
 "Instantly adjust the colors of images using color presets created in other apps." = "Ajusta instantáneamente los colores de las imágenes utilizando preajustes de color creados en otras aplicaciones.";
 
 /* No comment provided by engineer. */
+"Instantly select the background in any photo with just a tap." = "Instantly select the background in any photo with just a tap.";
+
+/* No comment provided by engineer. */
 "Intensity" = "Intensidad";
 
 /* No comment provided by engineer. */
 "Intensity (%@)" = "Intensidad (%@)";
 
 /* No comment provided by engineer. */
+"Intersect" = "Intersect";
+
+/* No comment provided by engineer. */
+"Introducing Photomator" = "Introducing Photomator";
+
+/* No comment provided by engineer. */
 "Invert" = "Invertir";
 
 /* No comment provided by engineer. */
-"It doesn’t look like you have an active subscription to Pixelmator Photo. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "Parece que no tienes una suscripción activa a Pixelmator Photo. Esto es posible si:\n\n1. Has iniciado sesión en la App Store con un ID de Apple diferente.\n2. Tu suscripción ha caducado.\n\n Puedes comprobarlo en la App Store y volver a intentarlo.";
+"It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again.";
 
 /* Image save error */
 "It is not possible to save your image to this location. Would you like to save it somewhere else?" = "No es posible guardar tus imágenes en esta ubicación. ¿Quieres guardarlas en otra ubicación?";
 
 /* No comment provided by engineer. */
-"It looks you already have unlimited access to Pixelmator Photo, so you have not been charged. Enjoy using the app!" = "Parece que ya tienes acceso ilimitado a Pixelmator Photo, por lo que no se te ha cobrado. Disfruta de la aplicación.";
+"It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "Parece que la foto original ya no se encuentra ahí.";
+
+/* The name of an image file format. */
+"JPEG" = "JPEG";
+
+/* The name of an image file format. */
+"JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
 "Last Adjustments" = "Últimos ajustes";
@@ -1137,6 +1269,9 @@
 
 /* No comment provided by engineer. */
 "Layer was flattened" = "La capa se ha compactado";
+
+/* No comment provided by engineer. */
+"Layers" = "Layers";
 
 /* No comment provided by engineer. */
 "Learn More" = "Más información";
@@ -1188,16 +1323,25 @@
 "Line" = "Línea";
 
 /* No comment provided by engineer. */
+"Linear" = "Linear";
+
+/* No comment provided by engineer. */
 "Linear Burn" = "Subexposición lineal";
 
 /* No comment provided by engineer. */
 "Linear Dodge" = "Sobreexposición lineal";
 
 /* No comment provided by engineer. */
+"Linear Gradient" = "Linear Gradient";
+
+/* No comment provided by engineer. */
 "Linear Light" = "Luz lineal";
 
 /* No comment provided by engineer. */
 "Linear Tilt-Shift Blur" = "Desenfoque con cambio de inclinación lineal";
+
+/* Shape line start and end */
+"Link endpoints to resize them simultaneously or unlink to resize each endpoint separately." = "Link endpoints to resize them simultaneously or unlink to resize each endpoint separately.";
 
 /* No comment provided by engineer. */
 "Linked File Location Changed" = "Se ha cambiado la ubicación de los archivos vinculados";
@@ -1228,6 +1372,9 @@
 "Luminance Noise Reduction" = "Luminosidad con reducción de ruido";
 
 /* No comment provided by engineer. */
+"Luminance Range" = "Luminance Range";
+
+/* No comment provided by engineer. */
 "Luminosity" = "Luminosidad";
 
 /* No comment provided by engineer. */
@@ -1249,16 +1396,16 @@
 "Magically increase resolution" = "Aumenta mágicamente la resolución";
 
 /* No comment provided by engineer. */
-"Magically recover highlight and shadow detail in your photos with rebuilt Highlights and Shadows adjustments." = "Recupera como por arte de magia los detalles de luces y sombras de tus fotos con los ajustes reconstruidos de Luces y sombras.";
-
-/* No comment provided by engineer. */
 "Magically remove anything from small blemishes to entire objects from photos. Tap [REPAIR], then paint over an object to remove it." = "Elimina mágicamente cualquier cosa, desde pequeñas manchas hasta objetos enteros de las fotos. Toca [REPAIR] y luego pinta sobre un objeto para eliminarlo.";
 
 /* Tool */
 "Magnetic" = "Magnética";
 
 /* No comment provided by engineer. */
-"Makes the Hidden album from your Photos library visible in Pixelmator Photo." = "Hace que el álbum oculto de tu fototeca sea visible en Pixelmator Photo.";
+"Make your shots stand out with over 30 powerful, nondestructive color adjustments." = "Make your shots stand out with over 30 powerful, nondestructive color adjustments.";
+
+/* No comment provided by engineer. */
+"Makes the Hidden album from your Photos library visible in Photomator." = "Makes the Hidden album from your Photos library visible in Photomator.";
 
 /* No comment provided by engineer. */
 "Manage Subscription" = "Gestionar la suscripción";
@@ -1266,7 +1413,7 @@
 /* Tool */
 "Marker" = "Rotulador";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Mask" = "Máscara";
 
 /* Color Balance */
@@ -1332,8 +1479,17 @@
 /* Edit Menu */
 "More…" = "Más…";
 
+/* The name of a file format – specifically, a project file used by Apple's motion graphics app Motion. */
+"Motion Project" = "Motion Project";
+
 /* No comment provided by engineer. */
 "Move" = "Mover";
+
+/* No comment provided by engineer. */
+"Move Down" = "Move Down";
+
+/* No comment provided by engineer. */
+"Move Gradient" = "Move Gradient";
 
 /* Edit Menu */
 "Move Left" = "Mover a la izquierda";
@@ -1341,8 +1497,17 @@
 /* Edit Menu */
 "Move Right" = "Mover a la derecha";
 
+/* No comment provided by engineer. */
+"Move Up" = "Move Up";
+
 /* Edit Menu */
 "Move…" = "Mover…";
+
+/* No comment provided by engineer. */
+"Movie" = "Movie";
+
+/* The name of a video file format. */
+"MP4" = "MP4";
 
 /* No comment provided by engineer. */
 "Multiply" = "Multiplicar";
@@ -1390,7 +1555,7 @@
 "Noise Reduction" = "Reducción de ruido";
 
 /* No comment provided by engineer. */
-"Nondestructively preserve edits in a linked Pixelmator Photo file. " = "Conserva de forma no destructiva las modificaciones en un archivo de Pixelmator Photo. ";
+"Nondestructively preserve edits in a linked Photomator file. " = "Nondestructively preserve edits in a linked Photomator file. ";
 
 /* Tool */
 "None" = "Ninguno";
@@ -1406,9 +1571,6 @@
 
 /* No comment provided by engineer. */
 "One or more LUTs may be damaged or not supported." = "Una o más LUT pueden estar dañadas o no ser compatibles.";
-
-/* No comment provided by engineer. */
-"Only Draw with Apple Pencil is Turned On" = "Solo se activa el dibujo con lápiz de Apple";
 
 /* No comment provided by engineer. */
 "Opacity" = "Opacidad";
@@ -1480,7 +1642,16 @@
 "Path" = "Trazado";
 
 /* No comment provided by engineer. */
+"Pattern Angle" = "Pattern Angle";
+
+/* No comment provided by engineer. */
 "Pattern Fill" = "Relleno de modelo";
+
+/* No comment provided by engineer. */
+"Pattern Scale" = "Pattern Scale";
+
+/* The name of an image file format. */
+"PDF" = "PDF";
 
 /* Tool */
 "Pen" = "Bolígrafo";
@@ -1497,8 +1668,44 @@
 /* Tool */
 "Perspective Transform" = "Transformación en perspectiva";
 
+/* No comment provided by engineer. */
+"Photomator" = "Photomator";
+
+/* No comment provided by engineer. */
+"Photomator Album" = "Photomator Album";
+
+/* No comment provided by engineer. */
+"Photomator Document" = "Photomator Document";
+
+/* The name of file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits" = "Photomator Edits";
+
+/* The name of a file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits Document" = "Photomator Edits Document";
+
+/* No comment provided by engineer. */
+"Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images.";
+
+/* No comment provided by engineer. */
+"Photomator has been denied access to Photos. Please allow access in Settings." = "Photomator has been denied access to Photos. Please allow access in Settings.";
+
+/* No comment provided by engineer. */
+"Photomator Help" = "Photomator Help";
+
 /* Native iOS Photos app name */
 "Photos" = "Fotos";
+
+/* Refers to the Adobe Photoshop layered image file format. */
+"Photoshop" = "Photoshop";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop (Large)" = "Photoshop (Large)";
+
+/* Refers to the Adobe Photoshop layered image file format. */
+"Photoshop Document" = "Photoshop Document";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop Large Document" = "Photoshop Large Document";
 
 /* No comment provided by engineer. */
 "Pick Grey Point" = "Elegir punto gris";
@@ -1516,13 +1723,13 @@
 "Pixel Tool" = "Herramienta de píxel";
 
 /* No comment provided by engineer. */
+"Pixelmator Classic" = "Pixelmator Classic";
+
+/* No comment provided by engineer. */
+"Pixelmator Classic Document" = "Pixelmator Classic Document";
+
+/* No comment provided by engineer. */
 "Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "Pixelmator Photo ahora puede guardar modificaciones no destructivas en iCloud para sincronizarlas entre dispositivos. ¿Te gustaría empezar a usar iCloud para archivos vinculados y mover todos tus archivos existente a iCloud?";
-
-/* No comment provided by engineer. */
-"Pixelmator Photo features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Pixelmator Photo cuenta con un navegador increíblemente potente impulsado por Fotos y necesita acceso a la biblioteca para permitirte navegar y editar imágenes.";
-
-/* No comment provided by engineer. */
-"Pixelmator Photo has been denied access to Photos. Please allow access in Settings." = "Pixelmator Photo no ha podido acceder a las fotos. Autoriza el acceso en ajustes.";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo Help" = "Ayuda de Pixelmator Photo";
@@ -1536,8 +1743,23 @@
 /* No comment provided by engineer. */
 "Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photo te permite editar imágenes desde tu fototeca de Fotos o en tu iPad, guardando automáticamente cambios no destructivos con cada flujo de trabajo. Para cambiar entre la búsqueda en tu fototeca de Fotos o los archivos de imágenes en tu iPad, pulsa Fotos o Archivos en la barra de herramientas.";
 
+/* No comment provided by engineer. */
+"Pixelmator Photo now has a simpler name – say hello to Photomator." = "Pixelmator Photo now has a simpler name – say hello to Photomator.";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro" = "Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Document" = "Pixelmator Pro Document";
+
+/* The name of a file format containing nondestructive edits created by the Pixelmator Pro app. */
+"Pixelmator Pro Sidecar Document" = "Pixelmator Pro Sidecar Document";
+
 /* Units */
 "Pixels" = "Píxeles";
+
+/* The name of an image file format. */
+"PNG" = "PNG";
 
 /* Units */
 "Points" = "Puntos";
@@ -1552,7 +1774,7 @@
 "Powered by ML" = "Desarrollado por ML";
 
 /* No comment provided by engineer. */
-"Powerful Photo Browser" = "Potente navegador de fotos";
+"Powerful photo browser" = "Powerful photo browser";
 
 /* No comment provided by engineer. */
 "Preserve Edits" = "Conservar ediciones";
@@ -1620,9 +1842,24 @@
 /* No comment provided by engineer. */
 "Quickly change the look and feel of photo using color adjustment presets." = "Cambia rápidamente el aspecto de la foto con los ajustes de color preestablecidos.";
 
+/* No comment provided by engineer. */
+"Quickly make precise selections in photos using AI, use linear and radial masks, or simply paint over the areas you want to adjust with a brush." = "Quickly make precise selections in photos using AI, use linear and radial masks, or simply paint over the areas you want to adjust with a brush.";
+
+/* The name of a video file format. */
+"QuickTime" = "QuickTime";
+
+/* The name of a video file format. */
+"QuickTime Movie" = "QuickTime Movie";
+
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
+
+/* No comment provided by engineer. */
+"Radial" = "Radial";
+
+/* No comment provided by engineer. */
+"Radial Gradient" = "Radial Gradient";
 
 /* No comment provided by engineer. */
 "Radius" = "Radio";
@@ -1633,7 +1870,8 @@
 /* No comment provided by engineer. */
 "Range" = "Rango";
 
-/* Raw image type identifier */
+/* Raw image type identifier
+   The name of an image file format. */
 "RAW" = "RAW";
 
 /* No comment provided by engineer. */
@@ -1679,6 +1917,9 @@
 "Reduce Noise" = "Reducir ruido";
 
 /* No comment provided by engineer. */
+"Refine" = "Refine";
+
+/* No comment provided by engineer. */
 "Reloading…" = "Volviendo a cargar…";
 
 /* No comment provided by engineer. */
@@ -1698,6 +1939,12 @@
 
 /* Edit Menu */
 "Rename" = "Renombrar";
+
+/* No comment provided by engineer. */
+"Rename Layer" = "Rename Layer";
+
+/* No comment provided by engineer. */
+"Rename Preset" = "Rename Preset";
 
 /* Retouch Tools
    Tool */
@@ -1738,6 +1985,9 @@
 
 /* No comment provided by engineer. */
 "Reset Crop" = "Restablecer el recorte";
+
+/* No comment provided by engineer. */
+"Reset Deband" = "Reset Deband";
 
 /* No comment provided by engineer. */
 "Reset Denoise" = "Restablecer eliminación ruido";
@@ -1784,6 +2034,9 @@
 /* No comment provided by engineer. */
 "Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "Al restablecer los cambios realizados con la herramienta Reparar también se restablecerá la resolución original de esta foto.";
 
+/* No comment provided by engineer. */
+"Resize Gradient" = "Resize Gradient";
+
 /* Tool */
 "Restore" = "Restaurar";
 
@@ -1794,7 +2047,7 @@
 "Restore Purchase" = "Restablecer la compra";
 
 /* No comment provided by engineer. */
-"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution" = "Al restaurar el contenido original de esta foto también se restablecerán las ediciones realizadas con la herramienta de Reparación y con Superresolución";
+"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution." = "Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution.";
 
 /* No comment provided by engineer. */
 "Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "Al restablecer la resolución original de esta foto también se restablecerán los cambios realizados con la herramienta Reparar y con la Eliminación de ruidos.";
@@ -1819,6 +2072,9 @@
 
 /* No comment provided by engineer. */
 "Rotate 180°" = "Rotar 180°";
+
+/* No comment provided by engineer. */
+"Rotate Gradient" = "Rotate Gradient";
 
 /* No comment provided by engineer. */
 "Rotate Left" = "Giro a la izquierda";
@@ -1920,6 +2176,9 @@
 /* No comment provided by engineer. */
 "Select All" = "Seleccionar todo";
 
+/* No comment provided by engineer. */
+"Select Background" = "Select Background";
+
 /* Tool */
 "Select Column" = "Seleccionar columna";
 
@@ -1939,6 +2198,12 @@
 "Select Row" = "Seleccionar fila";
 
 /* No comment provided by engineer. */
+"Select Sky" = "Select Sky";
+
+/* No comment provided by engineer. */
+"Select Subject" = "Select Subject";
+
+/* No comment provided by engineer. */
 "Selected Color" = "Color seleccionado";
 
 /* No comment provided by engineer. */
@@ -1946,6 +2211,9 @@
 
 /* No comment provided by engineer. */
 "Selected layer is locked, unlock it to edit." = "La capa seleccionadas está bloqueada, desbloquéala para editarla.";
+
+/* No comment provided by engineer. */
+"Selective Adjustments" = "Selective Adjustments";
 
 /* No comment provided by engineer. */
 "Selective Clarity" = "Claridad selectiva";
@@ -1961,6 +2229,9 @@
 
 /* No comment provided by engineer. */
 "Sepia" = "Sepia";
+
+/* Shape line start or end */
+"Set the endpoint size." = "Set the endpoint size.";
 
 /* No comment provided by engineer. */
 "Set the image quality to use when automatically saving changes or sharing images to other apps." = "Ajusta la calidad de imagen que se usará al guardar automáticamente los cambios o al compartir imágenes en otras aplicaciones.";
@@ -2033,6 +2304,9 @@
 /* Layer */
 "Show Layer" = "Mostrar capa";
 
+/* No comment provided by engineer. */
+"Show Mask Overlay" = "Show Mask Overlay";
+
 /* Color Balance */
 "Show Master Colors" = "Mostrar colores principales";
 
@@ -2079,7 +2353,13 @@
 "Skip overview" = "Omitir la visión general";
 
 /* No comment provided by engineer. */
+"Sky" = "Sky";
+
+/* No comment provided by engineer. */
 "Smooth textures" = "Texturas lisas";
+
+/* No comment provided by engineer. */
+"Smoothness" = "Smoothness";
 
 /* Retouch Tools
    Tool */
@@ -2102,7 +2382,7 @@
 "Some of the selected images could not be processed." = "Algunas de las imágenes seleccionadas no se han podido procesar.";
 
 /* No comment provided by engineer. */
-"Something went wrong and Pixelmator Photo didn’t get access to show your notifications, so you won’t be notified about the end of your free trial." = "Algo salió mal y Pixelmator Photo no tuvo acceso a mostrar tus notificaciones, por lo que no serás notificado sobre el final de tu prueba gratuita.";
+"Something went wrong and Photomator didn’t get access to show your notifications, so you won’t be notified about the end of your free trial." = "Something went wrong and Photomator didn’t get access to show your notifications, so you won’t be notified about the end of your free trial.";
 
 /* No comment provided by engineer. */
 "Something went wrong while checking your previous purchases. Make sure you have an active internet connection, then try again. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Algo ha ido mal al comprobar tus compras anteriores. Asegúrate de que tienes una conexión a Internet activa y vuelve a intentarlo. Si esto ocurre repetidamente, ponte en contacto con nosotros y te ayudaremos. (Código de error: %i)";
@@ -2142,6 +2422,9 @@
 
 /* Tool */
 "Star" = "Estrella";
+
+/* Shape stroke start */
+"Start" = "Start";
 
 /* No comment provided by engineer. */
 "Start editing" = "Iniciar edición";
@@ -2183,6 +2466,12 @@
 "Stylize" = "Estilizar";
 
 /* No comment provided by engineer. */
+"Subject" = "Subject";
+
+/* No comment provided by engineer. */
+"Subscribe to Photomator" = "Subscribe to Photomator";
+
+/* No comment provided by engineer. */
 "Subscribe to Pixelmator Photo" = "Suscríbete a Pixelmator Photo";
 
 /* No comment provided by engineer. */
@@ -2199,6 +2488,9 @@
 
 /* No comment provided by engineer. */
 "Support for iPadOS 16" = "Soporte para iPadOS 16";
+
+/* The name of an image file format. */
+"SVG" = "SVG";
 
 /* No comment provided by engineer. */
 "Switch between Photos library and Files" = "Cambiar entre fototeca de Fotos y archivos";
@@ -2253,7 +2545,7 @@
 "The color adjustment presets were imported successfully." = "Los preajustes de ajustes del color se han importado correctamente.";
 
 /* No comment provided by engineer. */
-"The Files browser lets you open images saved on your device or other storage locations. To switch to the Photos browser, tap [GEAR] and choose Photos." = "El navegador de Archivos te permite abrir las imágenes guardadas en tu dispositivo o en otras ubicaciones de almacenamiento. Para cambiar al navegador de Fotos, pulsa [GEAR] y selecciona Fotos.";
+"The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the [GEAR] icon and, in the Browser menu, select Photos." = "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the [GEAR] icon and, in the Browser menu, select Photos.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "La imagen contiene %@ capas. Para crear más, reduce el tamaño de la imagen.";
@@ -2274,7 +2566,7 @@
 "The image could not be saved." = "No se ha podido guardar la imagen.";
 
 /* No comment provided by engineer. */
-"The image could not be shared to Pixelmator Photo." = "No se ha podido compartir la imagen con Pixelmator Photo.";
+"The image could not be shared to Photomator." = "The image could not be shared to Photomator.";
 
 /* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "El número máximo de capas para este tamaño de imagen es %i";
@@ -2337,10 +2629,13 @@
 "This RAW format isn’t currently supported." = "Este formato RAW no es compatible en estos momentos.";
 
 /* Demo App Description */
-"This version of Pixelmator Photo has been created specifically for demonstration purposes" = "Esta versión de Pixelmator Photo se ha creado exclusivamente como demostración";
+"This version of Photomator has been created specifically for demonstration purposes" = "This version of Photomator has been created specifically for demonstration purposes";
 
 /* No comment provided by engineer. */
 "This workflow will be permanently deleted from this device." = "Este flujo de trabajo se eliminará permanentemente de este dispositivo.";
+
+/* The name of an image file format. */
+"TIFF" = "TIFF";
 
 /* Effects category name */
 "Tile" = "Mosaico";
@@ -2367,13 +2662,16 @@
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "Para comenzar a editar fotos en lote, primero pulsa Seleccionar en la esquina superior derecha. Después, selecciona múltiples fotos y pulsa Lote en la barra de herramientas. Por último, simplemente elige uno de los flujos de trabajo de lote incluidos o crea el tuyo propio y pulsa Aplicar.";
 
 /* No comment provided by engineer. */
-"To purchase Pixelmator Photo, you need to be connected to the internet. You can check this in the Settings app, then try again." = "Para comprar Pixelmator Photo, necesitas estar conectado a Internet. Puedes comprobarlo en la aplicación de Ajustes y volver a intentarlo.";
+"To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again.";
 
 /* No comment provided by engineer. */
-"To use this feature, you’ll need to buy or subscribe to Pixelmator Photo, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Para utilizar esta función, tendrás que comprar o suscribirte a Pixelmator Photo, pero se ha producido un error al intentar mostrar la vista de compras. Si esto ocurre repetidamente, ponte en contacto con nosotros y te ayudaremos. (Código de error: %i)";
+"To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)";
 
 /* No comment provided by engineer. */
-"To use this feature, you’ll need to purchase unlimited access to Pixelmator Photo, but it looks like you’re offline. To purchase, you’ll need to go online." = "Para utilizar esta función, tendrás que comprar el acceso ilimitado a Pixelmator Photo, pero parece que estás desconectado. Para comprarlo, tendrás que conectarte.";
+"To use this feature, you’ll need to purchase unlimited access to Photomator, but it looks like you’re offline. To purchase, you’ll need to go online." = "To use this feature, you’ll need to purchase unlimited access to Photomator, but it looks like you’re offline. To purchase, you’ll need to go online.";
+
+/* No comment provided by engineer. */
+"Tolerance" = "Tolerance";
 
 /* No comment provided by engineer. */
 "Tone" = "Tono";
@@ -2488,6 +2786,9 @@
 "Untitled" = "Sin título";
 
 /* No comment provided by engineer. */
+"Untitled Album" = "Untitled Album";
+
+/* No comment provided by engineer. */
 "Untitled layer" = "Capa sin título";
 
 /* No comment provided by engineer. */
@@ -2497,7 +2798,13 @@
 "Untitled layer mask" = "Máscara de capa sin título";
 
 /* No comment provided by engineer. */
-"Upgrade to access the full image editing experience in Pixelmator Photo." = "Actualiza la versión para acceder a la experiencia completa de edición de imágenes en Pixelmator Photo.";
+"Upgrade to access the full image editing experience in Photomator." = "Upgrade to access the full image editing experience in Photomator.";
+
+/* The name of a 3D file format. */
+"USD" = "USD";
+
+/* The name of a 3D file format. */
+"USDZ" = "USDZ";
 
 /* No comment provided by engineer. */
 "Use Apple Pencil to make edits using the Curves adjustment or the Repair tool even when no tool is selected." = "Utiliza el Lápiz de Apple para hacer ediciones usando el ajuste de Curvas o la herramienta Reparar, incluso cuando no hay ninguna herramienta seleccionada.";
@@ -2507,9 +2814,6 @@
 
 /* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "Usar algoritmo de reconocimiento de texturas";
-
-/* No comment provided by engineer. */
-"Use the incredible new Selective Clarity adjustment to enhance details in photos with even more precision." = "Usa el nuevo e increíble ajuste de Claridad selectiva para mejorar los detalles de las fotos con una precisión aún mayor.";
 
 /* Perspective transform */
 "Vertical Perspective" = "Perspectiva vertical";
@@ -2533,9 +2837,6 @@
 "Visible" = "Visible";
 
 /* No comment provided by engineer. */
-"Visible Adjustments" = "Ajustes visibles";
-
-/* No comment provided by engineer. */
 "Vivid Light" = "Luz intensa";
 
 /* Stands for Width, up to 3 characters */
@@ -2546,6 +2847,12 @@
 
 /* No comment provided by engineer. */
 "Watercolor" = "Acuarela";
+
+/* The name of an image file format. */
+"WebP" = "WebP";
+
+/* No comment provided by engineer. */
+"Welcome to Photomator" = "Welcome to Photomator";
 
 /* No comment provided by engineer. */
 "Welcome to Pixelmator Photo" = "Te damos la bienvenida a Pixelmator Photo";
@@ -2611,7 +2918,7 @@
 "Your 7-day trial has started!" = "¡Tu prueba de 7 días ha comenzado!";
 
 /* No comment provided by engineer. */
-"Your free trial will end in 2 days. Explore Pixelmator Photo by editing a few of your photos!" = "Tu prueba gratuita terminará en 2 días. ¡Prueba Pixelmator Photo editando algunas de tus fotos!";
+"Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!" = "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!";
 
 /* No comment provided by engineer. */
 "You’re good to go" = "Ya puedes empezar";
