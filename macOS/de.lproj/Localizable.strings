@@ -41,10 +41,10 @@
 "%@ s" = "%@ s";
 
 /* No comment provided by engineer. */
-"%@/month" = "%@/month";
+"%@/month" = "%@/Monat";
 
 /* No comment provided by engineer. */
-"%@/year" = "%@/year";
+"%@/year" = "%@/Jahr";
 
 /* seconds */
 "%@s" = "%@ s";
@@ -53,19 +53,19 @@
 "%d files already exists. Do you want to replace them?" = "%d Dateien existieren bereits. Möchten Sie sie ersetzen?";
 
 /* No comment provided by engineer. */
-"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "%1$d of %2$d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out.";
+"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "%1$d von %2$d Fotos konnten aufgrund eines Fehlers nicht exportiert werden. Wenn dies wiederholt auftritt, melden Sie sich bitte bei uns. Wir versuchen, dieses Problem für Sie zu beheben.";
 
 /* No comment provided by engineer. */
-"%d Photo Selected" = "%d Photo Selected";
+"%d Photo Selected" = "%d Foto ausgewählt";
 
 /* No comment provided by engineer. */
 "%d Photos" = "%d Fotos";
 
 /* No comment provided by engineer. */
-"%d Photos Selected" = "%d Photos Selected";
+"%d Photos Selected" = "%d Fotos ausgewählt";
 
 /* No comment provided by engineer. */
-"%d photos successfully imported." = "%d photos successfully imported.";
+"%d photos successfully imported." = "%d Fotos erfolgreich importiert.";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -95,13 +95,13 @@
 "1 Alternative Element" = "1 alternatives Element";
 
 /* No comment provided by engineer. */
-"1 Image" = "1 Image";
+"1 Image" = "1 Bild";
 
 /* No comment provided by engineer. */
 "1 Layer" = "1 Ebene";
 
 /* No comment provided by engineer. */
-"1 photo successfully imported." = "1 photo successfully imported.";
+"1 photo successfully imported." = "1 Foto erfolgreich importiert.";
 
 /* color picker sample size area */
 "1 Point" = "1 Punkt";
@@ -197,7 +197,7 @@
 "Actual Size" = "Originalgröße";
 
 /* No comment provided by engineer. */
-"Add" = "Add";
+"Add" = "Hinzufügen";
 
 /* No comment provided by engineer. */
 "Add %@" = "%@ hinzufügen";
@@ -251,7 +251,7 @@
 "Add Slices" = "Slices hinzufügen";
 
 /* No comment provided by engineer. */
-"Add to Favorites" = "Add to Favorites";
+"Add to Favorites" = "Zu Favoriten hinzufügen";
 
 /* No comment provided by engineer. */
 "Add to Shape" = "Zur Form hinzufügen";
@@ -287,7 +287,7 @@
 "Album" = "Album";
 
 /* PhotoKit */
-"Albums" = "Albums";
+"Albums" = "Alben";
 
 /* stroke options - stroke position */
 "Align" = "Ausrichten";
@@ -332,16 +332,16 @@
 "An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "Beim Versuch, Ihre Änderungen in der Fotobibliothek zu sichern, ist ein Fehler aufgetreten. Wenn dieses Problem wiederholt auftritt, wenden Sie sich an uns. Wir helfen Ihnen gerne weiter.";
 
 /* No comment provided by engineer. */
-"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out.";
+"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "Beim Vorbereiten der Fotos zum Teilen ist ein Fehler aufgetreten. Melden Sie sich bei uns, wenn dies wiederholt auftritt. Wir helfen Ihnen gerne weiter.";
 
 /* No comment provided by engineer. */
-"An error occurred while saving the sidecar file for this asset." = "An error occurred while saving the sidecar file for this asset.";
+"An error occurred while saving the sidecar file for this asset." = "Fehler beim Sichern der Sidecar-Datei für dieses Dokument.";
 
 /* No comment provided by engineer. */
 "An unexpected error occurred." = "Es ist ein unerwarteter Fehler aufgetreten.";
 
 /* No comment provided by engineer. */
-"An unknown error occurred." = "An unknown error occurred.";
+"An unknown error occurred." = "Ein unbekannter Fehler ist aufgetreten.";
 
 /* No comment provided by engineer. */
 "Angle" = "Winkel";
@@ -359,7 +359,7 @@
 "Angle: %@" = "Winkel: %@";
 
 /* Refers to the appearance (dark or light) of the app. */
-"Appearance:" = "Appearance:";
+"Appearance:" = "Erscheinungsbild:";
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
@@ -500,7 +500,7 @@
 "B:" = "B:";
 
 /* No comment provided by engineer. */
-"Background" = "Background";
+"Background" = "Hintergrund";
 
 /* No comment provided by engineer. */
 "Background Color" = "Hintergrundfarbe";
@@ -524,7 +524,7 @@
 "Basic" = "Standard";
 
 /* ToolbarItems */
-"Batch Editing" = "Batch Editing";
+"Batch Editing" = "Stapel-Bearbeitung";
 
 /* No comment provided by engineer. */
 "Behind" = "Dahinter";
@@ -743,7 +743,7 @@
 "Choose Mask…" = "Maske auswählen …";
 
 /* No comment provided by engineer. */
-"Choose where to save the exported images." = "Choose where to save the exported images.";
+"Choose where to save the exported images." = "Speicherort für exportierte Bilder wählen.";
 
 /* No comment provided by engineer. */
 "Choose…" = "Auswählen …";
@@ -1190,7 +1190,7 @@
 "Delete Path" = "Pfad löschen";
 
 /* No comment provided by engineer. */
-"Delete Photo" = "Delete Photo";
+"Delete Photo" = "Foto löschen";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "Slice löschen";
@@ -1208,13 +1208,13 @@
 "Denoising…" = "Entrauschen…";
 
 /* No comment provided by engineer. */
-"Depth" = "Depth";
+"Depth" = "Tiefe";
 
 /* No comment provided by engineer. */
 "Depth Mask" = "Tiefenmaske";
 
 /* No comment provided by engineer. */
-"Depth Range" = "Depth Range";
+"Depth Range" = "Tiefenbereich";
 
 /* No comment provided by engineer. */
 "Desaturate" = "Entsättigen";
@@ -1277,7 +1277,7 @@
 "Disable Texture-Aware Algorithm" = "Texturerkennungs-Algorithmus deaktivieren";
 
 /* No comment provided by engineer. */
-"Discard Changes" = "Discard Changes";
+"Discard Changes" = "Änderungen verwerfen";
 
 /* No comment provided by engineer. */
 "Display albums without nesting" = "Alben ungeschachtelt anzeigen";
@@ -1334,7 +1334,7 @@
 "Do you want to save the changes made to the document “%@”" = "Möchten Sie die vorgenommenen Änderungen im Dokument \"%@\" sichern";
 
 /* No comment provided by engineer. */
-"Do you want to save the changes made to this photo?" = "Do you want to save the changes made to this photo?";
+"Do you want to save the changes made to this photo?" = "Möchten Sie die Änderungen an diesem Foto sichern?";
 
 /* No comment provided by engineer. */
 "Document Info Change" = "Veränderung der Dokumentendaten";
@@ -1355,7 +1355,7 @@
 "Double-Headed Arrow" = "Doppelpfeil";
 
 /* No comment provided by engineer. */
-"Downloading %d of %d photos for sharing…" = "Downloading %1$d of %2$d photos for sharing…";
+"Downloading %d of %d photos for sharing…" = "%1$d von %2$d Fotos zum Teilen herunterladen …";
 
 /* No comment provided by engineer. */
 "dpi" = "dpi";
@@ -1394,7 +1394,7 @@
 "Duplicate Palette" = "Palette duplizieren";
 
 /* No comment provided by engineer. */
-"Duplicate Photo" = "Duplicate Photo";
+"Duplicate Photo" = "Foto duplizieren";
 
 /* No comment provided by engineer. */
 "Dynamics" = "Dynamik";
@@ -1412,7 +1412,7 @@
 "Edit a Copy" = "Eine Kopie bearbeiten";
 
 /* No comment provided by engineer. */
-"Edit Gradient" = "Edit Gradient";
+"Edit Gradient" = "Verlauf bearbeiten";
 
 /* No comment provided by engineer. */
 "Edit images and videos in your library" = "Bilder und Videos in Ihrer Bibliothek bearbeiten";
@@ -1436,7 +1436,7 @@
 "Editing" = "Bearbeitung";
 
 /* No comment provided by engineer. */
-"Editing photo %d of %d…" = "Editing photo %1$d of %2$d…";
+"Editing photo %d of %d…" = "Foto %1$d von %2$d bearbeiten …";
 
 /* No comment provided by engineer. */
 "Editing Settings…" = "Einstellungen werden bearbeitet …";
