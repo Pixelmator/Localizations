@@ -40,6 +40,12 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ 秒";
 
+/* No comment provided by engineer. */
+"%@/month" = "%@/month";
+
+/* No comment provided by engineer. */
+"%@/year" = "%@/year";
+
 /* seconds */
 "%@s" = "%@s";
 
@@ -47,7 +53,19 @@
 "%d files already exists. Do you want to replace them?" = "%d 個檔案已經存在。是否要替換它們？";
 
 /* No comment provided by engineer. */
+"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "%1$d of %2$d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out.";
+
+/* No comment provided by engineer. */
+"%d Photo Selected" = "%d Photo Selected";
+
+/* No comment provided by engineer. */
 "%d Photos" = "%d 張照片";
+
+/* No comment provided by engineer. */
+"%d Photos Selected" = "%d Photos Selected";
+
+/* No comment provided by engineer. */
+"%d photos successfully imported." = "%d photos successfully imported.";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -77,7 +95,13 @@
 "1 Alternative Element" = "1 個替代元件";
 
 /* No comment provided by engineer. */
+"1 Image" = "1 Image";
+
+/* No comment provided by engineer. */
 "1 Layer" = "1 個圖層";
+
+/* No comment provided by engineer. */
+"1 photo successfully imported." = "1 photo successfully imported.";
 
 /* color picker sample size area */
 "1 Point" = "1 個點";
@@ -173,6 +197,9 @@
 "Actual Size" = "實際大小";
 
 /* No comment provided by engineer. */
+"Add" = "Add";
+
+/* No comment provided by engineer. */
 "Add %@" = "添加 %@";
 
 /* No comment provided by engineer. */
@@ -224,6 +251,9 @@
 "Add Slices" = "添加切片";
 
 /* No comment provided by engineer. */
+"Add to Favorites" = "Add to Favorites";
+
+/* No comment provided by engineer. */
 "Add to Shape" = "添加到形狀";
 
 /* No comment provided by engineer. */
@@ -252,6 +282,12 @@
 
 /* No comment provided by engineer. */
 "Affine Tile" = "仿射並排";
+
+/* PhotoKit */
+"Album" = "Album";
+
+/* PhotoKit */
+"Albums" = "Albums";
 
 /* stroke options - stroke position */
 "Align" = "對齊";
@@ -296,7 +332,16 @@
 "An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "將更改內容儲存至照片庫時發生錯誤。如果問題持續發生，請聯絡我們，我們會竭力幫忙。";
 
 /* No comment provided by engineer. */
+"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out.";
+
+/* No comment provided by engineer. */
+"An error occurred while saving the sidecar file for this asset." = "An error occurred while saving the sidecar file for this asset.";
+
+/* No comment provided by engineer. */
 "An unexpected error occurred." = "發生無法預期的錯誤。";
+
+/* No comment provided by engineer. */
+"An unknown error occurred." = "An unknown error occurred.";
 
 /* No comment provided by engineer. */
 "Angle" = "角度";
@@ -314,7 +359,7 @@
 "Angle: %@" = "角度: %@";
 
 /* Refers to the appearance (dark or light) of the app. */
-"Appearance" = "外觀";
+"Appearance:" = "Appearance:";
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
@@ -375,9 +420,6 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "從點發出的箭頭";
-
-/* No comment provided by engineer. */
-"Aspect Ratio Grid" = "長寬比網格";
 
 /* No comment provided by engineer. */
 "Aspect Ratio Presets:" = "顯示比例預設：";
@@ -458,6 +500,9 @@
 "B:" = "B:";
 
 /* No comment provided by engineer. */
+"Background" = "Background";
+
+/* No comment provided by engineer. */
 "Background Color" = "背景顏色";
 
 /* No comment provided by engineer. */
@@ -477,6 +522,9 @@
 
 /* No comment provided by engineer. */
 "Basic" = "基本";
+
+/* ToolbarItems */
+"Batch Editing" = "Batch Editing";
 
 /* No comment provided by engineer. */
 "Behind" = "後面";
@@ -543,6 +591,9 @@
 
 /* No comment provided by engineer. */
 "Browse files on your Mac" = "在 Mac 上瀏覽檔案";
+
+/* Appears in a button prompting users to take a quick tour of the app's features. */
+"Browse Tips" = "Browse Tips";
 
 /* No comment provided by engineer. */
 "Brush" = "散景";
@@ -690,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "Choose Mask…" = "選擇遮罩⋯";
+
+/* No comment provided by engineer. */
+"Choose where to save the exported images." = "Choose where to save the exported images.";
 
 /* No comment provided by engineer. */
 "Choose…" = "選取⋯";
@@ -881,6 +935,9 @@
 "Color Range" = "顏色範圍";
 
 /* No comment provided by engineer. */
+"Color Range Color" = "Color Range Color";
+
+/* No comment provided by engineer. */
 "Color Selection" = "顏色選取範圍";
 
 /* No comment provided by engineer. */
@@ -927,9 +984,6 @@
 
 /* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "將 LUT 轉換成調整";
-
-/* No comment provided by engineer. */
-"Convert to Color Adjustments Layer" = "轉換為顏色調整圖層";
 
 /* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "正在將 LUT 轉換成調整⋯";
@@ -1076,9 +1130,6 @@
 "Debanding…" = "正在去色帶…";
 
 /* No comment provided by engineer. */
-"Deband…" = "去色帶…";
-
-/* No comment provided by engineer. */
 "Decontaminate Colors" = "顏色除汙";
 
 /* No comment provided by engineer. */
@@ -1139,6 +1190,9 @@
 "Delete Path" = "刪除路徑";
 
 /* No comment provided by engineer. */
+"Delete Photo" = "Delete Photo";
+
+/* No comment provided by engineer. */
 "Delete Slice" = "刪除切片";
 
 /* No comment provided by engineer. */
@@ -1151,13 +1205,16 @@
 "Denoise Split Comparison" = "去雜訊分割比較";
 
 /* No comment provided by engineer. */
-"Denoise…" = "去除雜訊…";
-
-/* No comment provided by engineer. */
 "Denoising…" = "正在去除雜訊…";
 
 /* No comment provided by engineer. */
+"Depth" = "Depth";
+
+/* No comment provided by engineer. */
 "Depth Mask" = "深度蒙版";
+
+/* No comment provided by engineer. */
+"Depth Range" = "Depth Range";
 
 /* No comment provided by engineer. */
 "Desaturate" = "去色";
@@ -1220,6 +1277,9 @@
 "Disable Texture-Aware Algorithm" = "關閉考慮紋理特徵的演算法";
 
 /* No comment provided by engineer. */
+"Discard Changes" = "Discard Changes";
+
+/* No comment provided by engineer. */
 "Display albums without nesting" = "不巢狀顯示相簿";
 
 /* No comment provided by engineer. */
@@ -1274,6 +1334,9 @@
 "Do you want to save the changes made to the document “%@”" = "您要儲存對檔案「%@」所作的更動嗎」";
 
 /* No comment provided by engineer. */
+"Do you want to save the changes made to this photo?" = "Do you want to save the changes made to this photo?";
+
+/* No comment provided by engineer. */
 "Document Info Change" = "更改文字簡介";
 
 /* No comment provided by engineer. */
@@ -1290,6 +1353,9 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "雙頭箭頭";
+
+/* No comment provided by engineer. */
+"Downloading %d of %d photos for sharing…" = "Downloading %1$d of %2$d photos for sharing…";
 
 /* No comment provided by engineer. */
 "dpi" = "dpi";
@@ -1328,6 +1394,9 @@
 "Duplicate Palette" = "複製調色盤";
 
 /* No comment provided by engineer. */
+"Duplicate Photo" = "Duplicate Photo";
+
+/* No comment provided by engineer. */
 "Dynamics" = "動態";
 
 /* No comment provided by engineer. */
@@ -1341,6 +1410,9 @@
 
 /* No comment provided by engineer. */
 "Edit a Copy" = "編輯拷貝";
+
+/* No comment provided by engineer. */
+"Edit Gradient" = "Edit Gradient";
 
 /* No comment provided by engineer. */
 "Edit images and videos in your library" = "編輯圖庫中的照片和影片";
@@ -1362,6 +1434,9 @@
 
 /* Refers to application settings that affect editing. */
 "Editing" = "編輯中";
+
+/* No comment provided by engineer. */
+"Editing photo %d of %d…" = "Editing photo %1$d of %2$d…";
 
 /* No comment provided by engineer. */
 "Editing Settings…" = "編輯設定…";
@@ -1389,9 +1464,6 @@
 
 /* No comment provided by engineer. */
 "Empty Layer" = "空圖層";
-
-/* No comment provided by engineer. */
-"Enable %@" = "啟用 %@";
 
 /* No comment provided by engineer. */
 "Enable Auto-Center" = "啟用自動置中";
@@ -1425,6 +1497,9 @@
 
 /* No comment provided by engineer. */
 "Erase" = "清除";
+
+/* No comment provided by engineer. */
+"Error Calculating Size…" = "Error Calculating Size…";
 
 /* No comment provided by engineer. */
 "Error:" = "錯誤：";
@@ -1469,6 +1544,12 @@
 "Export" = "匯出";
 
 /* No comment provided by engineer. */
+"Export %d Photos…" = "Export %d Photos…";
+
+/* No comment provided by engineer. */
+"Export %d Photo…" = "Export %d Photo…";
+
+/* No comment provided by engineer. */
 "Export Adjustments as LUT…" = "匯出調整為 LUT⋯";
 
 /* No comment provided by engineer. */
@@ -1511,6 +1592,9 @@
 "export mask as png" = "匯出遮罩為 png";
 
 /* No comment provided by engineer. */
+"Export Photo…" = "Export Photo…";
+
+/* No comment provided by engineer. */
 "Export RAW…" = "輸出 RAW⋯";
 
 /* No comment provided by engineer. */
@@ -1526,10 +1610,28 @@
 "Export Slice…" = "匯出切片⋯";
 
 /* No comment provided by engineer. */
+"Exporting %i photos…" = "Exporting %i photos…";
+
+/* No comment provided by engineer. */
+"Exporting 1 photo…" = "Exporting 1 photo…";
+
+/* No comment provided by engineer. */
+"Exporting album…" = "Exporting album…";
+
+/* No comment provided by engineer. */
 "Exporting Animated Image…" = "匯出動畫式圖片…";
 
 /* No comment provided by engineer. */
+"Exporting collections…" = "Exporting collections…";
+
+/* No comment provided by engineer. */
 "Exporting Document" = "匯出檔案";
+
+/* No comment provided by engineer. */
+"Exporting folder…" = "Exporting folder…";
+
+/* No comment provided by engineer. */
+"Exporting photo %d of %d…" = "Exporting photo %1$d of %2$d…";
 
 /* No comment provided by engineer. */
 "Exporting Video…" = "匯出影片…";
@@ -1545,9 +1647,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Facebook Cover" = "Facebook 封面";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1590,6 +1689,9 @@
 
 /* No comment provided by engineer. */
 "Favorites" = "最愛";
+
+/* No comment provided by engineer. */
+"Feather" = "Feather";
 
 /* No comment provided by engineer. */
 "File Size:" = "檔案大小:";
@@ -1657,14 +1759,17 @@
 /* No comment provided by engineer. */
 "Flood Fill" = "區域填滿";
 
+/* PhotoKit */
+"Folder" = "Folder";
+
+/* PhotoKit */
+"Folders" = "Folders";
+
 /* No comment provided by engineer. */
 "Font Change" = "字體更改";
 
 /* No comment provided by engineer. */
 "For images opened from Finder" = "用於從 Finder 開啟的圖像";
-
-/* No comment provided by engineer. */
-"For images opened from Photos" = "用於從照片開啟的圖像";
 
 /* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
 "Format:" = "格式:";
@@ -1709,16 +1814,13 @@
 "Gradient Angle" = "漸變角度";
 
 /* No comment provided by engineer. */
+"Gradient Change" = "Gradient Change";
+
+/* No comment provided by engineer. */
 "Gradient Collection" = "漸變集合";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "漸變填充";
-
-/* No comment provided by engineer. */
-"Gradient Transform" = "漸變轉換";
-
-/* No comment provided by engineer. */
-"Gradient Well Menu" = "Gradient Well Menu";
 
 /* No comment provided by engineer. */
 "Gradients" = "梯度";
@@ -1755,9 +1857,6 @@
 
 /* No comment provided by engineer. */
 "Group" = "群組";
-
-/* No comment provided by engineer. */
-"Guide Menu" = "指南選單";
 
 /* No comment provided by engineer. */
 "H.264" = "H.264";
@@ -1913,7 +2012,7 @@
 "Image Layer" = "影像圖層";
 
 /* Refers to image export quality. */
-"Image Quality" = "影像品質";
+"Image Quality:" = "Image Quality:";
 
 /* No comment provided by engineer. */
 "Image Settings" = "影像設定";
@@ -2012,6 +2111,9 @@
 "Invert Mask Colors" = "反相遮罩顏色";
 
 /* No comment provided by engineer. */
+"Invert Masks" = "Invert Masks";
+
+/* No comment provided by engineer. */
 "Invert Selection" = "將所選範圍反向";
 
 /* ISO sensitivity value */
@@ -2052,9 +2154,6 @@
 
 /* No comment provided by engineer. */
 "Layer Mask" = "圖層遮罩";
-
-/* No comment provided by engineer. */
-"Layer Menu" = "圖層選單";
 
 /* No comment provided by engineer. */
 "Layer Selection" = "圖層選擇";
@@ -2129,10 +2228,16 @@
 "Line Shape" = "線條形狀";
 
 /* No comment provided by engineer. */
+"Linear" = "Linear";
+
+/* No comment provided by engineer. */
 "Linear Burn" = "線性加深";
 
 /* No comment provided by engineer. */
 "Linear Dodge" = "線性加亮";
+
+/* No comment provided by engineer. */
+"Linear Gradient" = "Linear Gradient";
 
 /* No comment provided by engineer. */
 "Linear Light" = "線性光源";
@@ -2497,6 +2602,9 @@
 /* No comment provided by engineer. */
 "No Horizon Detected" = "未偵測到水平線";
 
+/* PhotoKit */
+"No Items" = "No Items";
+
 /* No comment provided by engineer. */
 "No Layer Selected" = "未選擇圖層";
 
@@ -2701,11 +2809,11 @@
 /* The name of a file format containing nondestructive edits created by the Photomator app. */
 "Photomator Edits Document" = "Photomator 編輯文件";
 
-/* No comment provided by engineer. */
-"Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Photomator 使用照片 app 提供您強大的照片瀏覽器，因此需要照片庫的存取權限才能讓您瀏覽並編輯圖像。";
-
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "照片";
+
+/* Refers to application settings that affect interactions with the Apple Photos app. */
+"Photos:" = "Photos:";
 
 /* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop" = "Photoshop";
@@ -2827,11 +2935,14 @@
 /* No comment provided by engineer. */
 "Poster" = "海報";
 
-/* Appears as a headline introducing the app's photo browser. */
-"Powerful photo browser" = "強大的照片瀏覽器";
+/* No comment provided by engineer. */
+"Preparing %d of %d photos for sharing…" = "Preparing %1$d of %2$d photos for sharing…";
 
-/* Refers to a setting that allows users to preserve edits in a linked document. */
+/* No comment provided by engineer. */
 "Preserve Edits" = "保留編輯";
+
+/* No comment provided by engineer. */
+"Preserve nondestructive edits" = "Preserve nondestructive edits";
 
 /* No comment provided by engineer. */
 "Preserve transparency" = "保留透明度";
@@ -2906,6 +3017,12 @@
 "R:" = "R:";
 
 /* No comment provided by engineer. */
+"Radial" = "Radial";
+
+/* No comment provided by engineer. */
+"Radial Gradient" = "Radial Gradient";
+
+/* No comment provided by engineer. */
 "Radius" = "半徑";
 
 /* No comment provided by engineer. */
@@ -2922,6 +3039,9 @@
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW 圖層";
+
+/* No comment provided by engineer. */
+"RAW Photo" = "RAW Photo";
 
 /* No comment provided by engineer. */
 "Rectangle" = "矩形";
@@ -2982,6 +3102,9 @@
 
 /* No comment provided by engineer. */
 "Remove %@" = "移除 %@";
+
+/* No comment provided by engineer. */
+"Remove 1 Photo from Album" = "Remove 1 Photo from Album";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "移除調整";
@@ -3152,10 +3275,16 @@
 "Reset Auto Straighten" = "重設自動拉直";
 
 /* No comment provided by engineer. */
+"Reset Clone" = "Reset Clone";
+
+/* No comment provided by engineer. */
 "Reset Color Palettes" = "重置色盤";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "重設裁切";
+
+/* No comment provided by engineer. */
+"Reset Denoise" = "Reset Denoise";
 
 /* No comment provided by engineer. */
 "Reset Effects" = "重置效果";
@@ -3170,10 +3299,16 @@
 "Reset ML Crop" = "重設 ML 裁切";
 
 /* No comment provided by engineer. */
+"Reset Repair" = "Reset Repair";
+
+/* No comment provided by engineer. */
 "Reset Ruler's origin" = "重設尺標的原點";
 
 /* No comment provided by engineer. */
 "Reset Styles" = "重設樣式";
+
+/* No comment provided by engineer. */
+"Reset Super Resolution" = "Reset Super Resolution";
 
 /* No comment provided by engineer. */
 "Resize" = "調整大小";
@@ -3304,6 +3439,9 @@
 /* No comment provided by engineer. */
 "Save Flattened" = "儲存平坦";
 
+/* No comment provided by engineer. */
+"Save Images" = "Save Images";
+
 /* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
 "Save layers and edits to a sidecar file" = "將圖層與編輯過程儲存至邊車檔案";
 
@@ -3311,7 +3449,7 @@
 "Save LUT" = "儲存 LUT";
 
 /* No comment provided by engineer. */
-"Save Sidecar Files In" = "保存邊車檔案於";
+"Save Sidecar Files In:" = "Save Sidecar Files In:";
 
 /* No comment provided by engineer. */
 "Save to My Shapes" = "儲存到我的形狀";
@@ -3380,6 +3518,9 @@
 "Select and Mask…" = "選擇並遮罩…";
 
 /* No comment provided by engineer. */
+"Select Background" = "Select Background";
+
+/* No comment provided by engineer. */
 "Select Bottom Layer" = "選擇底層";
 
 /* No comment provided by engineer. */
@@ -3408,6 +3549,9 @@
 
 /* No comment provided by engineer. */
 "Select Row" = "選取行";
+
+/* No comment provided by engineer. */
+"Select Sky" = "Select Sky";
 
 /* No comment provided by engineer. */
 "Select Subject" = "選擇主體";
@@ -3511,6 +3655,9 @@
 /* No comment provided by engineer. */
 "Share" = "共享";
 
+/* No comment provided by engineer. */
+"Sharing Error" = "Sharing Error";
+
 /* Effects category name */
 "Sharpen" = "銳化";
 
@@ -3569,9 +3716,6 @@
 "Show hidden tools or customize the list of tools." = "顯示隱藏的工具，或是自訂工具清單。";
 
 /* No comment provided by engineer. */
-"Show Histogram" = "顯示直方圖";
-
-/* No comment provided by engineer. */
 "Show in Finder" = "顯示於 Finder";
 
 /* No comment provided by engineer. */
@@ -3585,9 +3729,6 @@
 
 /* No comment provided by engineer. */
 "Show Layers" = "顯示圖層";
-
-/* Appears in a button prompting users to take a quick tour of the app's features. */
-"Show me around" = "帶我看看";
 
 /* No comment provided by engineer. */
 "Show Optimized Preview" = "顯示優化預覽";
@@ -3641,10 +3782,13 @@
 "Side by Side" = "並排";
 
 /* No comment provided by engineer. */
-"Sidecar Disk Usage" = "邊車磁碟使用情況";
+"Sidecar Disk Usage:" = "Sidecar Disk Usage:";
 
 /* No comment provided by engineer. */
 "Sidecar File Not Found" = "找不到邊車檔案";
+
+/* No comment provided by engineer. */
+"Sidecar Files:" = "Sidecar Files:";
 
 /* Refers to a linked file (sidecar file) that is linked to another image file. */
 "Sidecar:" = "邊車檔案：";
@@ -3680,10 +3824,10 @@
 "Skew Transform" = "傾斜變形";
 
 /* No comment provided by engineer. */
-"Slice" = "切片";
+"Sky" = "Sky";
 
 /* No comment provided by engineer. */
-"Slice Menu" = "切片選單";
+"Slice" = "切片";
 
 /* No comment provided by engineer. */
 "Sliders" = "滑桿";
@@ -3719,6 +3863,9 @@
 "Social Media" = "社群媒體";
 
 /* No comment provided by engineer. */
+"Social Media Cover" = "Social Media Cover";
+
+/* No comment provided by engineer. */
 "Social Media Post" = "社群媒體貼文";
 
 /* No comment provided by engineer. */
@@ -3741,6 +3888,9 @@
 
 /* No comment provided by engineer. */
 "Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "無法使用 %@ 所需的某些重要資源，可能原因為硬碟空間不足或作業系統錯誤。";
+
+/* No comment provided by engineer. */
+"Some Photos Are Unavailable" = "Some Photos Are Unavailable";
 
 /* No comment provided by engineer. */
 "Source Atop" = "來源於頂端";
@@ -3779,9 +3929,6 @@
 "Square" = "正方形";
 
 /* No comment provided by engineer. */
-"Square Photo Grid" = "方形照片網格";
-
-/* No comment provided by engineer. */
 "Star" = "星";
 
 /* No comment provided by engineer. */
@@ -3792,6 +3939,9 @@
 
 /* No comment provided by engineer. */
 "Start Drawing" = "開始繪圖";
+
+/* No comment provided by engineer. */
+"Start Editing" = "Start Editing";
 
 /* No comment provided by engineer. */
 "Start Freeform Drawing" = "開始多邊形繪圖";
@@ -3849,6 +3999,9 @@
 
 /* Effects category name */
 "Stylize" = "風格化";
+
+/* No comment provided by engineer. */
+"Subject" = "Subject";
 
 /* No comment provided by engineer. */
 "Subject Mask" = "主遮罩";
@@ -3951,6 +4104,18 @@
 
 /* No comment provided by engineer. */
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF 格式不支援多個圖層和其他附加格式資訊。要儲存該資訊, 請將影像儲存為 Pixelmator Pro 檔案。";
+
+/* No comment provided by engineer. */
+"The operation was cancelled." = "The operation was cancelled.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because the Photos library asset could not be found." = "The photo could not be saved because the Photos library asset could not be found.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because this Photos library asset does not seem to be editable." = "The photo could not be saved because this Photos library asset does not seem to be editable.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved due to an error that occurred while exporting the image." = "The photo could not be saved due to an error that occurred while exporting the image.";
 
 /* No comment provided by engineer. */
 "The photo couldn’t be opened." = "無法開啟照片。";
@@ -4094,6 +4259,9 @@
 "Type" = "輸入";
 
 /* No comment provided by engineer. */
+"Unable to Export" = "Unable to Export";
+
+/* No comment provided by engineer. */
 "Unable to Open Sidecar File" = "無法開啟邊車檔案";
 
 /* No comment provided by engineer. */
@@ -4169,9 +4337,6 @@
 "USDZ" = "USDZ";
 
 /* No comment provided by engineer. */
-"Use Texture-Aware Algorithm" = "使用考慮紋理特徵的演算法";
-
-/* No comment provided by engineer. */
 "Useful Resources" = "實用資源";
 
 /* No comment provided by engineer. */
@@ -4238,7 +4403,7 @@
 "Width:" = "寬度:";
 
 /* Refers to the color of the application window background. */
-"Window Background" = "視窗背景顏色：";
+"Window Background:" = "Window Background:";
 
 /* No comment provided by engineer. */
 "Workflows" = "工作流程";

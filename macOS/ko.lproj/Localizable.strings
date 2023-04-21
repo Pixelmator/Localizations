@@ -40,6 +40,12 @@
 /* Exposure time in seconds */
 "%@ s" = "%@초";
 
+/* No comment provided by engineer. */
+"%@/month" = "%@/월";
+
+/* No comment provided by engineer. */
+"%@/year" = "%@/년";
+
 /* seconds */
 "%@s" = "%@초";
 
@@ -47,7 +53,19 @@
 "%d files already exists. Do you want to replace them?" = "%d개의 파일이 이미 존재합니다. 대치하시겠습니까?";
 
 /* No comment provided by engineer. */
+"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "오류로 인해 %2$d장의 사진 중 %1$d장를 내보내지 못했습니다. 이 문제가 반복적으로 발생한다면 저희에게 문의 주시기 바랍니다. 최선을 다해 도와드리겠습니다.";
+
+/* No comment provided by engineer. */
+"%d Photo Selected" = "%d장의 사진 선택됨";
+
+/* No comment provided by engineer. */
 "%d Photos" = "%d장의 사진";
+
+/* No comment provided by engineer. */
+"%d Photos Selected" = "%d장의 사진 선택됨";
+
+/* No comment provided by engineer. */
+"%d photos successfully imported." = "%d장의 사진을 성공적으로 가져왔습니다.";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -77,7 +95,13 @@
 "1 Alternative Element" = "1개의 대체 요소";
 
 /* No comment provided by engineer. */
+"1 Image" = "1개의 이미지";
+
+/* No comment provided by engineer. */
 "1 Layer" = "1개의 레이어";
+
+/* No comment provided by engineer. */
+"1 photo successfully imported." = "1장의 사진을 성공적으로 가져왔습니다.";
 
 /* color picker sample size area */
 "1 Point" = "1포인트";
@@ -173,6 +197,9 @@
 "Actual Size" = "실제 크기";
 
 /* No comment provided by engineer. */
+"Add" = "추가";
+
+/* No comment provided by engineer. */
 "Add %@" = "%@ 추가";
 
 /* No comment provided by engineer. */
@@ -224,6 +251,9 @@
 "Add Slices" = "슬라이스 추가";
 
 /* No comment provided by engineer. */
+"Add to Favorites" = "즐겨찾기에 추가";
+
+/* No comment provided by engineer. */
 "Add to Shape" = "도형에 추가";
 
 /* No comment provided by engineer. */
@@ -252,6 +282,12 @@
 
 /* No comment provided by engineer. */
 "Affine Tile" = "어파인 타일";
+
+/* PhotoKit */
+"Album" = "앨범";
+
+/* PhotoKit */
+"Albums" = "앨범";
 
 /* stroke options - stroke position */
 "Align" = "정렬";
@@ -296,7 +332,16 @@
 "An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "사진 보관함에 변경 사항을 저장하는 중 오류가 발생했습니다. 이 문제가 반복해서 발생할 경우, 저희에게 연락해 주세요. 최선을 다해 도와 드리겠습니다.";
 
 /* No comment provided by engineer. */
+"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "공유할 사진을 준비하는 동안 오류가 발생했습니다. 이 문제가 반복적으로 발생하는 경우, Twitter로 문의해 주시면 최선을 다해 도와드리겠습니다.";
+
+/* No comment provided by engineer. */
+"An error occurred while saving the sidecar file for this asset." = "이 에셋의 사이드카 파일을 저장하는 동안 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
 "An unexpected error occurred." = "예기치 않은 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"An unknown error occurred." = "예기치 않은 오류가 발생했습니다.";
 
 /* No comment provided by engineer. */
 "Angle" = "각도";
@@ -314,7 +359,7 @@
 "Angle: %@" = "각도: %@";
 
 /* Refers to the appearance (dark or light) of the app. */
-"Appearance" = "외관";
+"Appearance:" = "외관:";
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
@@ -375,9 +420,6 @@
 
 /* No comment provided by engineer. */
 "Arrow from Point" = "포인트에서의 화살표";
-
-/* No comment provided by engineer. */
-"Aspect Ratio Grid" = "영상비 눈금";
 
 /* No comment provided by engineer. */
 "Aspect Ratio Presets:" = "영상비 프리셋:";
@@ -458,6 +500,9 @@
 "B:" = "B:";
 
 /* No comment provided by engineer. */
+"Background" = "배경";
+
+/* No comment provided by engineer. */
 "Background Color" = "배경색";
 
 /* No comment provided by engineer. */
@@ -477,6 +522,9 @@
 
 /* No comment provided by engineer. */
 "Basic" = "기본";
+
+/* ToolbarItems */
+"Batch Editing" = "일괄 편집";
 
 /* No comment provided by engineer. */
 "Behind" = "뒤";
@@ -543,6 +591,9 @@
 
 /* No comment provided by engineer. */
 "Browse files on your Mac" = "Mac에서 파일 탐색하기";
+
+/* Appears in a button prompting users to take a quick tour of the app's features. */
+"Browse Tips" = "브라우저 팁";
 
 /* No comment provided by engineer. */
 "Brush" = "브러시";
@@ -690,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "Choose Mask…" = "마스크 선택…";
+
+/* No comment provided by engineer. */
+"Choose where to save the exported images." = "내보낸 이미지를 저장할 위치를 선택하십시오.";
 
 /* No comment provided by engineer. */
 "Choose…" = "선택…";
@@ -881,6 +935,9 @@
 "Color Range" = "색상 범위";
 
 /* No comment provided by engineer. */
+"Color Range Color" = "색상 범위 색상";
+
+/* No comment provided by engineer. */
 "Color Selection" = "색상 선택";
 
 /* No comment provided by engineer. */
@@ -927,9 +984,6 @@
 
 /* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "LUT를 조정으로 변환";
-
-/* No comment provided by engineer. */
-"Convert to Color Adjustments Layer" = "색상 조정 레이어로 변환";
 
 /* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUT를 조정으로 변환 중…";
@@ -1076,9 +1130,6 @@
 "Debanding…" = "밴드 제거 중…";
 
 /* No comment provided by engineer. */
-"Deband…" = "밴드 제거…";
-
-/* No comment provided by engineer. */
 "Decontaminate Colors" = "색상 정화";
 
 /* No comment provided by engineer. */
@@ -1139,6 +1190,9 @@
 "Delete Path" = "경로 삭제";
 
 /* No comment provided by engineer. */
+"Delete Photo" = "사진 삭제";
+
+/* No comment provided by engineer. */
 "Delete Slice" = "슬라이스 삭제";
 
 /* No comment provided by engineer. */
@@ -1151,13 +1205,16 @@
 "Denoise Split Comparison" = "노이즈 제거 분할 비교";
 
 /* No comment provided by engineer. */
-"Denoise…" = "노이즈 제거…";
-
-/* No comment provided by engineer. */
 "Denoising…" = "노이즈 제거 중…";
 
 /* No comment provided by engineer. */
+"Depth" = "심도";
+
+/* No comment provided by engineer. */
 "Depth Mask" = "심도 마스크";
+
+/* No comment provided by engineer. */
+"Depth Range" = "심도 범위";
 
 /* No comment provided by engineer. */
 "Desaturate" = "흐리기";
@@ -1220,6 +1277,9 @@
 "Disable Texture-Aware Algorithm" = "텍스처 인식 알고리즘 비활성화";
 
 /* No comment provided by engineer. */
+"Discard Changes" = "변경사항 무시";
+
+/* No comment provided by engineer. */
 "Display albums without nesting" = "중첩 없이 앨범 표시";
 
 /* No comment provided by engineer. */
@@ -1274,6 +1334,9 @@
 "Do you want to save the changes made to the document “%@”" = "\"%@” 문서의 변경 사항을 저장하겠습니까?";
 
 /* No comment provided by engineer. */
+"Do you want to save the changes made to this photo?" = "사진의 변경사항을 저장하겠습니까?";
+
+/* No comment provided by engineer. */
 "Document Info Change" = "문서 정보 변경";
 
 /* No comment provided by engineer. */
@@ -1290,6 +1353,9 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "양방향 화살표";
+
+/* No comment provided by engineer. */
+"Downloading %d of %d photos for sharing…" = "공유를 위해 %2$d장 중 %1$d장의 사진 다운로드 중…";
 
 /* No comment provided by engineer. */
 "dpi" = "dpi";
@@ -1328,6 +1394,9 @@
 "Duplicate Palette" = "팔레트 복제";
 
 /* No comment provided by engineer. */
+"Duplicate Photo" = "사진 복제";
+
+/* No comment provided by engineer. */
 "Dynamics" = "다이내믹스";
 
 /* No comment provided by engineer. */
@@ -1341,6 +1410,9 @@
 
 /* No comment provided by engineer. */
 "Edit a Copy" = "복사본 편집";
+
+/* No comment provided by engineer. */
+"Edit Gradient" = "그라데이션 편집";
 
 /* No comment provided by engineer. */
 "Edit images and videos in your library" = "보관함의 이미지 및 비디오 편집";
@@ -1362,6 +1434,9 @@
 
 /* Refers to application settings that affect editing. */
 "Editing" = "편집";
+
+/* No comment provided by engineer. */
+"Editing photo %d of %d…" = "%2$d장 중 %1$d 장의 사진 편집 중…";
 
 /* No comment provided by engineer. */
 "Editing Settings…" = "편집 설정…";
@@ -1389,9 +1464,6 @@
 
 /* No comment provided by engineer. */
 "Empty Layer" = "빈 레이어";
-
-/* No comment provided by engineer. */
-"Enable %@" = "%@ 활성화";
 
 /* No comment provided by engineer. */
 "Enable Auto-Center" = "자동 가운데 맞춤 활성화";
@@ -1425,6 +1497,9 @@
 
 /* No comment provided by engineer. */
 "Erase" = "지우기";
+
+/* No comment provided by engineer. */
+"Error Calculating Size…" = "크기 계산 오류…";
 
 /* No comment provided by engineer. */
 "Error:" = "오류:";
@@ -1469,6 +1544,12 @@
 "Export" = "내보내기";
 
 /* No comment provided by engineer. */
+"Export %d Photos…" = "%d장의 사진 내보내기…";
+
+/* No comment provided by engineer. */
+"Export %d Photo…" = "%d장의 사진 내보내기…";
+
+/* No comment provided by engineer. */
 "Export Adjustments as LUT…" = "LUT로 조정 내보내기…";
 
 /* No comment provided by engineer. */
@@ -1511,6 +1592,9 @@
 "export mask as png" = "png로 마스크 내보내기";
 
 /* No comment provided by engineer. */
+"Export Photo…" = "사진 내보내기…";
+
+/* No comment provided by engineer. */
 "Export RAW…" = "RAW 내보내기…";
 
 /* No comment provided by engineer. */
@@ -1526,10 +1610,28 @@
 "Export Slice…" = "슬라이스 내보내기…";
 
 /* No comment provided by engineer. */
+"Exporting %i photos…" = "%i장의 사진 내보내는 중…";
+
+/* No comment provided by engineer. */
+"Exporting 1 photo…" = "1장의 사진 내보내는 중…";
+
+/* No comment provided by engineer. */
+"Exporting album…" = "앨범 내보내는 중…";
+
+/* No comment provided by engineer. */
 "Exporting Animated Image…" = "움직이는 이미지를 내보내는 중…";
 
 /* No comment provided by engineer. */
+"Exporting collections…" = "컬렉션 내보내는 중…";
+
+/* No comment provided by engineer. */
 "Exporting Document" = "문서를 내보내는 중";
+
+/* No comment provided by engineer. */
+"Exporting folder…" = "폴더 내보내는 중…";
+
+/* No comment provided by engineer. */
+"Exporting photo %d of %d…" = "%2$d장 중 %1$d 장의 사진 내보내는 중…";
 
 /* No comment provided by engineer. */
 "Exporting Video…" = "비디오를 내보내는 중…";
@@ -1545,9 +1647,6 @@
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
-
-/* No comment provided by engineer. */
-"Facebook Cover" = "Facebook 커버";
 
 /* No comment provided by engineer. */
 "FaceTime" = "FaceTime";
@@ -1590,6 +1689,9 @@
 
 /* No comment provided by engineer. */
 "Favorites" = "즐겨찾기";
+
+/* No comment provided by engineer. */
+"Feather" = "페더";
 
 /* No comment provided by engineer. */
 "File Size:" = "파일 크기:";
@@ -1657,14 +1759,17 @@
 /* No comment provided by engineer. */
 "Flood Fill" = "영역 안 채우기";
 
+/* PhotoKit */
+"Folder" = "폴더";
+
+/* PhotoKit */
+"Folders" = "폴더";
+
 /* No comment provided by engineer. */
 "Font Change" = "글꼴 변경";
 
 /* No comment provided by engineer. */
 "For images opened from Finder" = "Finder에서 연 이미지 전용";
-
-/* No comment provided by engineer. */
-"For images opened from Photos" = "'사진'에서 연 이미지 전용";
 
 /* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
 "Format:" = "포맷:";
@@ -1709,16 +1814,13 @@
 "Gradient Angle" = "그라디언트 각도";
 
 /* No comment provided by engineer. */
+"Gradient Change" = "그라디언트 변경";
+
+/* No comment provided by engineer. */
 "Gradient Collection" = "그라디언트 컬렉션";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "그라디언트 채우기";
-
-/* No comment provided by engineer. */
-"Gradient Transform" = "그라디언트 변형";
-
-/* No comment provided by engineer. */
-"Gradient Well Menu" = "Gradient Well Menu";
 
 /* No comment provided by engineer. */
 "Gradients" = "그라디언트";
@@ -1755,9 +1857,6 @@
 
 /* No comment provided by engineer. */
 "Group" = "그룹";
-
-/* No comment provided by engineer. */
-"Guide Menu" = "안내선 메뉴";
 
 /* No comment provided by engineer. */
 "H.264" = "H.264";
@@ -1913,7 +2012,7 @@
 "Image Layer" = "이미지 레이어";
 
 /* Refers to image export quality. */
-"Image Quality" = "이미지 품질";
+"Image Quality:" = "이미지 품질:";
 
 /* No comment provided by engineer. */
 "Image Settings" = "이미지 설정";
@@ -2012,6 +2111,9 @@
 "Invert Mask Colors" = "마스크 색상 반전";
 
 /* No comment provided by engineer. */
+"Invert Masks" = "마스크 반전";
+
+/* No comment provided by engineer. */
 "Invert Selection" = "선택 영역 반전";
 
 /* ISO sensitivity value */
@@ -2052,9 +2154,6 @@
 
 /* No comment provided by engineer. */
 "Layer Mask" = "레이어 마스크";
-
-/* No comment provided by engineer. */
-"Layer Menu" = "레이어 메뉴";
 
 /* No comment provided by engineer. */
 "Layer Selection" = "레이어 선택";
@@ -2129,10 +2228,16 @@
 "Line Shape" = "선 도형";
 
 /* No comment provided by engineer. */
+"Linear" = "선형";
+
+/* No comment provided by engineer. */
 "Linear Burn" = "선형 번";
 
 /* No comment provided by engineer. */
 "Linear Dodge" = "선형 닷지";
+
+/* No comment provided by engineer. */
+"Linear Gradient" = "선형 그라데이션";
 
 /* No comment provided by engineer. */
 "Linear Light" = "선형 라이트";
@@ -2497,6 +2602,9 @@
 /* No comment provided by engineer. */
 "No Horizon Detected" = "발견된 지평선 없음";
 
+/* PhotoKit */
+"No Items" = "항목 없음";
+
 /* No comment provided by engineer. */
 "No Layer Selected" = "선택한 레이어 없음";
 
@@ -2701,11 +2809,11 @@
 /* The name of a file format containing nondestructive edits created by the Photomator app. */
 "Photomator Edits Document" = "Photomator 편집본 문서";
 
-/* No comment provided by engineer. */
-"Photomator features an incredibly powerful browser powered by Photos and needs library access to let you browse and edit images." = "Photomator는 '사진'에 기반하여 믿기 어려울 정도로 강력한 브라우저를 제공하며, 이미지를 탐색하고 편집하려면 보관함 액세스 권한이 필요합니다.";
-
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "사진";
+
+/* Refers to application settings that affect interactions with the Apple Photos app. */
+"Photos:" = "사진:";
 
 /* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop" = "Photoshop";
@@ -2827,11 +2935,14 @@
 /* No comment provided by engineer. */
 "Poster" = "포스터";
 
-/* Appears as a headline introducing the app's photo browser. */
-"Powerful photo browser" = "강력한 사진 브라우저";
+/* No comment provided by engineer. */
+"Preparing %d of %d photos for sharing…" = "공유를 위해 %2$d장 중 %1$d장의 사진 준비 중…";
 
-/* Refers to a setting that allows users to preserve edits in a linked document. */
+/* No comment provided by engineer. */
 "Preserve Edits" = "편집 내용 보존";
+
+/* No comment provided by engineer. */
+"Preserve nondestructive edits" = "비파괴적 편집내역 보존";
 
 /* No comment provided by engineer. */
 "Preserve transparency" = "투명도 유지";
@@ -2906,6 +3017,12 @@
 "R:" = "R:";
 
 /* No comment provided by engineer. */
+"Radial" = "방사형";
+
+/* No comment provided by engineer. */
+"Radial Gradient" = "방사형 그라데이션";
+
+/* No comment provided by engineer. */
 "Radius" = "반경";
 
 /* No comment provided by engineer. */
@@ -2922,6 +3039,9 @@
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW 레이어";
+
+/* No comment provided by engineer. */
+"RAW Photo" = "RAW 사진";
 
 /* No comment provided by engineer. */
 "Rectangle" = "사각형";
@@ -2982,6 +3102,9 @@
 
 /* No comment provided by engineer. */
 "Remove %@" = "%@ 제거";
+
+/* No comment provided by engineer. */
+"Remove 1 Photo from Album" = "앨범에서 1장의 사진 제거";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "조정 제거";
@@ -3152,10 +3275,16 @@
 "Reset Auto Straighten" = "자동 수평 조절 재설정";
 
 /* No comment provided by engineer. */
+"Reset Clone" = "복제 재설정";
+
+/* No comment provided by engineer. */
 "Reset Color Palettes" = "색상 팔레트 재설정";
 
 /* No comment provided by engineer. */
 "Reset Crop" = "자르기 재설정";
+
+/* No comment provided by engineer. */
+"Reset Denoise" = "노이즈 제거 재설정";
 
 /* No comment provided by engineer. */
 "Reset Effects" = "효과 재설정";
@@ -3170,10 +3299,16 @@
 "Reset ML Crop" = "ML 자르기 재설정";
 
 /* No comment provided by engineer. */
+"Reset Repair" = "복구 재설정";
+
+/* No comment provided by engineer. */
 "Reset Ruler's origin" = "눈금자의 원점 재설정";
 
 /* No comment provided by engineer. */
 "Reset Styles" = "스타일 재설정";
+
+/* No comment provided by engineer. */
+"Reset Super Resolution" = "초해상도 재설정";
 
 /* No comment provided by engineer. */
 "Resize" = "크기 조정";
@@ -3304,6 +3439,9 @@
 /* No comment provided by engineer. */
 "Save Flattened" = "병합 저장";
 
+/* No comment provided by engineer. */
+"Save Images" = "이미지 저장";
+
 /* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
 "Save layers and edits to a sidecar file" = "레이어 및 편집 내용을 사이드카 파일에 저장합니다";
 
@@ -3311,7 +3449,7 @@
 "Save LUT" = "LUT 저장";
 
 /* No comment provided by engineer. */
-"Save Sidecar Files In" = "다음에 사이드카 파일 저장:";
+"Save Sidecar Files In:" = "다음에 사이드카 파일 저장:";
 
 /* No comment provided by engineer. */
 "Save to My Shapes" = "나의 도형에 저장";
@@ -3380,6 +3518,9 @@
 "Select and Mask…" = "선택 및 마스크…";
 
 /* No comment provided by engineer. */
+"Select Background" = "배경 선택";
+
+/* No comment provided by engineer. */
 "Select Bottom Layer" = "맨 아래 레이어 선택";
 
 /* No comment provided by engineer. */
@@ -3408,6 +3549,9 @@
 
 /* No comment provided by engineer. */
 "Select Row" = "행 선택";
+
+/* No comment provided by engineer. */
+"Select Sky" = "하늘 선택";
 
 /* No comment provided by engineer. */
 "Select Subject" = "대상 선택";
@@ -3511,6 +3655,9 @@
 /* No comment provided by engineer. */
 "Share" = "공유";
 
+/* No comment provided by engineer. */
+"Sharing Error" = "공유 오류";
+
 /* Effects category name */
 "Sharpen" = "선명하게 만들기";
 
@@ -3569,9 +3716,6 @@
 "Show hidden tools or customize the list of tools." = "숨겨진 도구를 표시하거나 도구 목록을 사용자화합니다.";
 
 /* No comment provided by engineer. */
-"Show Histogram" = "히스토그램 표시";
-
-/* No comment provided by engineer. */
 "Show in Finder" = "Finder에서 보기";
 
 /* No comment provided by engineer. */
@@ -3585,9 +3729,6 @@
 
 /* No comment provided by engineer. */
 "Show Layers" = "레이어 보기";
-
-/* Appears in a button prompting users to take a quick tour of the app's features. */
-"Show me around" = "둘러보기";
 
 /* No comment provided by engineer. */
 "Show Optimized Preview" = "최적화된 미리 보기 표시";
@@ -3641,10 +3782,13 @@
 "Side by Side" = "나란히";
 
 /* No comment provided by engineer. */
-"Sidecar Disk Usage" = "사이드카 디스크 사용 현황";
+"Sidecar Disk Usage:" = "사이드카 디스크 사용 현황:";
 
 /* No comment provided by engineer. */
 "Sidecar File Not Found" = "사이드카 파일을 찾을 수 없습니다";
+
+/* No comment provided by engineer. */
+"Sidecar Files:" = "사이드카 파일:";
 
 /* Refers to a linked file (sidecar file) that is linked to another image file. */
 "Sidecar:" = "사이드카:";
@@ -3680,10 +3824,10 @@
 "Skew Transform" = "기울이기 변형";
 
 /* No comment provided by engineer. */
-"Slice" = "슬라이스";
+"Sky" = "하늘";
 
 /* No comment provided by engineer. */
-"Slice Menu" = "슬라이스 메뉴";
+"Slice" = "슬라이스";
 
 /* No comment provided by engineer. */
 "Sliders" = "슬라이더";
@@ -3719,6 +3863,9 @@
 "Social Media" = "소셜 미디어";
 
 /* No comment provided by engineer. */
+"Social Media Cover" = "소셜 미디어 커버";
+
+/* No comment provided by engineer. */
 "Social Media Post" = "소셜 미디어 게시물";
 
 /* No comment provided by engineer. */
@@ -3741,6 +3888,9 @@
 
 /* No comment provided by engineer. */
 "Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "디스크 공간 부족 또는 운영 체제 오류로 인하여 %@이(가) 안정적으로 작동하는 데 필요한 일부 핵심 리소스를 사용할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"Some Photos Are Unavailable" = "일부 사진을 사용할 수 없음";
 
 /* No comment provided by engineer. */
 "Source Atop" = "원본 꼭대기";
@@ -3779,9 +3929,6 @@
 "Square" = "정사각형";
 
 /* No comment provided by engineer. */
-"Square Photo Grid" = "정사각형 사진 그리드";
-
-/* No comment provided by engineer. */
 "Star" = "별";
 
 /* No comment provided by engineer. */
@@ -3792,6 +3939,9 @@
 
 /* No comment provided by engineer. */
 "Start Drawing" = "그리기 시작";
+
+/* No comment provided by engineer. */
+"Start Editing" = "편집 시작";
 
 /* No comment provided by engineer. */
 "Start Freeform Drawing" = "자유형 그리기 시작";
@@ -3849,6 +3999,9 @@
 
 /* Effects category name */
 "Stylize" = "스타일화";
+
+/* No comment provided by engineer. */
+"Subject" = "대상";
 
 /* No comment provided by engineer. */
 "Subject Mask" = "대상 마스크";
@@ -3951,6 +4104,18 @@
 
 /* No comment provided by engineer. */
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF 포맷은 다중 레이어 및 기타 추가 포맷 정보를 지원하지 않습니다. 해당 정보를 유지하려면 대신 Pixelmator Pro 문서로 이미지를 저장하세요.";
+
+/* No comment provided by engineer. */
+"The operation was cancelled." = "동작이 취소되었습니다.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because the Photos library asset could not be found." = "사진 라이브러리 자산을 찾을 수 없으므로 사진을 저장할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because this Photos library asset does not seem to be editable." = "이 사진 보관함 자산은 편집이 불가능하므로 사진을 저장할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved due to an error that occurred while exporting the image." = "이미지를 내보내는 동안 발생한 오류로 인해 사진을 저장할 수 없습니다.";
 
 /* No comment provided by engineer. */
 "The photo couldn’t be opened." = "사진을 열 수 없습니다.";
@@ -4094,6 +4259,9 @@
 "Type" = "입력";
 
 /* No comment provided by engineer. */
+"Unable to Export" = "내보낼 수 없음";
+
+/* No comment provided by engineer. */
 "Unable to Open Sidecar File" = "사이드카 파일을 열 수 없습니다";
 
 /* No comment provided by engineer. */
@@ -4169,9 +4337,6 @@
 "USDZ" = "USDZ";
 
 /* No comment provided by engineer. */
-"Use Texture-Aware Algorithm" = "텍스처 인식 알고리즘 사용";
-
-/* No comment provided by engineer. */
 "Useful Resources" = "유용한 리소스";
 
 /* No comment provided by engineer. */
@@ -4238,7 +4403,7 @@
 "Width:" = "너비:";
 
 /* Refers to the color of the application window background. */
-"Window Background" = "윈도우 배경";
+"Window Background:" = "윈도우 배경:";
 
 /* No comment provided by engineer. */
 "Workflows" = "작업 흐름";
