@@ -53,7 +53,7 @@
 "%d files already exists. Do you want to replace them?" = "Уже имеется %d файлов. Хотите заменить их?";
 
 /* No comment provided by engineer. */
-"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "%1$d of %2$d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out.";
+"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "Не удалось экспортировать %1$d из %2$d фото, поскольку произошел сбой. Если ошибка не исчезнет, свяжитесь с нами, и мы постараемся помочь.";
 
 /* No comment provided by engineer. */
 "%d Photo Selected" = "Выбрано %d фото";
@@ -65,7 +65,7 @@
 "%d Photos Selected" = "Выбрано %d фото";
 
 /* No comment provided by engineer. */
-"%d photos successfully imported." = "%d photos successfully imported.";
+"%d photos successfully imported." = "%d фото успешно импортировано.";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -359,7 +359,7 @@
 "Angle: %@" = "Угол: %@";
 
 /* Refers to the appearance (dark or light) of the app. */
-"Appearance:" = "Appearance:";
+"Appearance:" = "Оформление:";
 
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
@@ -1760,10 +1760,10 @@
 "Flood Fill" = "Заливка наводнением";
 
 /* PhotoKit */
-"Folder" = "Folder";
+"Folder" = "Папка";
 
 /* PhotoKit */
-"Folders" = "Folders";
+"Folders" = "Папки";
 
 /* No comment provided by engineer. */
 "Font Change" = "Смена шрифта";
@@ -2012,7 +2012,7 @@
 "Image Layer" = "Слой изображения";
 
 /* Refers to image export quality. */
-"Image Quality:" = "Image Quality:";
+"Image Quality:" = "Качество изображения:";
 
 /* No comment provided by engineer. */
 "Image Settings" = "Настройки изображения";
@@ -2228,7 +2228,7 @@
 "Line Shape" = "Форма: линия";
 
 /* No comment provided by engineer. */
-"Linear" = "Linear";
+"Linear" = "Линейный";
 
 /* No comment provided by engineer. */
 "Linear Burn" = "Линейное затемнение";
@@ -2237,7 +2237,7 @@
 "Linear Dodge" = "Линейный осветлитель";
 
 /* No comment provided by engineer. */
-"Linear Gradient" = "Linear Gradient";
+"Linear Gradient" = "Линейный градиент";
 
 /* No comment provided by engineer. */
 "Linear Light" = "Линейный свет";
@@ -2603,7 +2603,7 @@
 "No Horizon Detected" = "Горизонт не обнаружен";
 
 /* PhotoKit */
-"No Items" = "No Items";
+"No Items" = "Нет объектов";
 
 /* No comment provided by engineer. */
 "No Layer Selected" = "Слоёв не выбрано";
@@ -3017,10 +3017,10 @@
 "R:" = "R:";
 
 /* No comment provided by engineer. */
-"Radial" = "Radial";
+"Radial" = "Круговой";
 
 /* No comment provided by engineer. */
-"Radial Gradient" = "Radial Gradient";
+"Radial Gradient" = "Круговой градиент";
 
 /* No comment provided by engineer. */
 "Radius" = "Радиус";
@@ -3104,7 +3104,7 @@
 "Remove %@" = "Удалить %@";
 
 /* No comment provided by engineer. */
-"Remove 1 Photo from Album" = "Remove 1 Photo from Album";
+"Remove 1 Photo from Album" = "Удалить 1 фото из альбома";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "Удалить корректировки";
@@ -3284,7 +3284,7 @@
 "Reset Crop" = "Сбросить обрезку";
 
 /* No comment provided by engineer. */
-"Reset Denoise" = "Reset Denoise";
+"Reset Denoise" = "Сбросить Denoise";
 
 /* No comment provided by engineer. */
 "Reset Effects" = "Сбросить эффекты";
@@ -3308,7 +3308,7 @@
 "Reset Styles" = "Сбросить стили";
 
 /* No comment provided by engineer. */
-"Reset Super Resolution" = "Reset Super Resolution";
+"Reset Super Resolution" = "Сбросить супер-разрешение";
 
 /* No comment provided by engineer. */
 "Resize" = "Изменить размер";
@@ -3449,7 +3449,7 @@
 "Save LUT" = "Сохранить LUT";
 
 /* No comment provided by engineer. */
-"Save Sidecar Files In:" = "Save Sidecar Files In:";
+"Save Sidecar Files In:" = "Сохранить sidecar-файлы в:";
 
 /* No comment provided by engineer. */
 "Save to My Shapes" = "Сохранить в Мои фигуры";
@@ -3518,7 +3518,7 @@
 "Select and Mask…" = "Выбрать и маскировать…";
 
 /* No comment provided by engineer. */
-"Select Background" = "Select Background";
+"Select Background" = "Выбор фона";
 
 /* No comment provided by engineer. */
 "Select Bottom Layer" = "Выбрать нижний слой";
@@ -3551,7 +3551,7 @@
 "Select Row" = "Выбрать строку";
 
 /* No comment provided by engineer. */
-"Select Sky" = "Select Sky";
+"Select Sky" = "Выбор неба";
 
 /* No comment provided by engineer. */
 "Select Subject" = "Выбрать объект";
@@ -3782,13 +3782,13 @@
 "Side by Side" = "Сторона к стороне";
 
 /* No comment provided by engineer. */
-"Sidecar Disk Usage:" = "Sidecar Disk Usage:";
+"Sidecar Disk Usage:" = "Использование диска sidecar:";
 
 /* No comment provided by engineer. */
 "Sidecar File Not Found" = "Sidecar-файл не нужен";
 
 /* No comment provided by engineer. */
-"Sidecar Files:" = "Sidecar Files:";
+"Sidecar Files:" = "Sidecar-файлы:";
 
 /* Refers to a linked file (sidecar file) that is linked to another image file. */
 "Sidecar:" = "Sidecar:";
@@ -4001,7 +4001,7 @@
 "Stylize" = "Стилизовать";
 
 /* No comment provided by engineer. */
-"Subject" = "Subject";
+"Subject" = "Сюжет";
 
 /* No comment provided by engineer. */
 "Subject Mask" = "Маска объекта";
