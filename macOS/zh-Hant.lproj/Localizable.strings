@@ -53,19 +53,19 @@
 "%d files already exists. Do you want to replace them?" = "%d 個檔案已經存在。是否要替換它們？";
 
 /* No comment provided by engineer. */
-"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "%1$d of %2$d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out.";
+"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "由於一項錯誤而未成功匯出 %2$d 張照片中的 %1$d 張。如果問題重複發生，請聯絡我們，我們會竭力幫忙。";
 
 /* No comment provided by engineer. */
-"%d Photo Selected" = "%d Photo Selected";
+"%d Photo Selected" = "選取了 %d 張照片";
 
 /* No comment provided by engineer. */
 "%d Photos" = "%d 張照片";
 
 /* No comment provided by engineer. */
-"%d Photos Selected" = "%d Photos Selected";
+"%d Photos Selected" = "選取了 %d 張照片";
 
 /* No comment provided by engineer. */
-"%d photos successfully imported." = "%d photos successfully imported.";
+"%d photos successfully imported." = "已成功匯入 %d 張照片。";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -101,7 +101,7 @@
 "1 Layer" = "1 個圖層";
 
 /* No comment provided by engineer. */
-"1 photo successfully imported." = "1 photo successfully imported.";
+"1 photo successfully imported." = "已成功匯入 1 張照片。";
 
 /* color picker sample size area */
 "1 Point" = "1 個點";
@@ -284,7 +284,7 @@
 "Affine Tile" = "仿射並排";
 
 /* PhotoKit */
-"Album" = "Album";
+"Album" = "相簿";
 
 /* PhotoKit */
 "Albums" = "相簿";
@@ -332,10 +332,10 @@
 "An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "將更改內容儲存至照片庫時發生錯誤。如果問題持續發生，請聯絡我們，我們會竭力幫忙。";
 
 /* No comment provided by engineer. */
-"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out.";
+"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "準備照片以供分享時發生錯誤。如果問題重複發生，請聯絡我們，我們會竭力幫忙。";
 
 /* No comment provided by engineer. */
-"An error occurred while saving the sidecar file for this asset." = "An error occurred while saving the sidecar file for this asset.";
+"An error occurred while saving the sidecar file for this asset." = "儲存這項資產的邊車檔案時發生錯誤。";
 
 /* No comment provided by engineer. */
 "An unexpected error occurred." = "發生無法預期的錯誤。";
@@ -593,7 +593,7 @@
 "Browse files on your Mac" = "在 Mac 上瀏覽檔案";
 
 /* Appears in a button prompting users to take a quick tour of the app's features. */
-"Browse Tips" = "Browse Tips";
+"Browse Tips" = "瀏覽秘訣";
 
 /* No comment provided by engineer. */
 "Brush" = "散景";
@@ -743,7 +743,7 @@
 "Choose Mask…" = "選擇遮罩⋯";
 
 /* No comment provided by engineer. */
-"Choose where to save the exported images." = "Choose where to save the exported images.";
+"Choose where to save the exported images." = "選擇要將匯出的圖像儲存在哪裡。";
 
 /* No comment provided by engineer. */
 "Choose…" = "選取⋯";
@@ -935,7 +935,7 @@
 "Color Range" = "顏色範圍";
 
 /* No comment provided by engineer. */
-"Color Range Color" = "Color Range Color";
+"Color Range Color" = "顏色範圍顏色";
 
 /* No comment provided by engineer. */
 "Color Selection" = "顏色選取範圍";
@@ -1190,7 +1190,7 @@
 "Delete Path" = "刪除路徑";
 
 /* No comment provided by engineer. */
-"Delete Photo" = "Delete Photo";
+"Delete Photo" = "刪除照片";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "刪除切片";
@@ -1334,7 +1334,7 @@
 "Do you want to save the changes made to the document “%@”" = "您要儲存對檔案「%@」所作的更動嗎」";
 
 /* No comment provided by engineer. */
-"Do you want to save the changes made to this photo?" = "Do you want to save the changes made to this photo?";
+"Do you want to save the changes made to this photo?" = "您要儲存對這張照片所作的更動嗎？";
 
 /* No comment provided by engineer. */
 "Document Info Change" = "更改文字簡介";
@@ -1355,7 +1355,7 @@
 "Double-Headed Arrow" = "雙頭箭頭";
 
 /* No comment provided by engineer. */
-"Downloading %d of %d photos for sharing…" = "Downloading %1$d of %2$d photos for sharing…";
+"Downloading %d of %d photos for sharing…" = "正在下載 %2$d 張照片中的 %1$d 張以供分享…";
 
 /* No comment provided by engineer. */
 "dpi" = "dpi";
@@ -1394,7 +1394,7 @@
 "Duplicate Palette" = "複製調色盤";
 
 /* No comment provided by engineer. */
-"Duplicate Photo" = "Duplicate Photo";
+"Duplicate Photo" = "複製照片";
 
 /* No comment provided by engineer. */
 "Dynamics" = "動態";
@@ -1412,7 +1412,7 @@
 "Edit a Copy" = "編輯拷貝";
 
 /* No comment provided by engineer. */
-"Edit Gradient" = "Edit Gradient";
+"Edit Gradient" = "編輯漸層";
 
 /* No comment provided by engineer. */
 "Edit images and videos in your library" = "編輯圖庫中的照片和影片";
@@ -1436,7 +1436,7 @@
 "Editing" = "編輯中";
 
 /* No comment provided by engineer. */
-"Editing photo %d of %d…" = "Editing photo %1$d of %2$d…";
+"Editing photo %d of %d…" = "正在編輯照片 %2$d 之 %1$d…";
 
 /* No comment provided by engineer. */
 "Editing Settings…" = "編輯設定…";
@@ -1499,7 +1499,7 @@
 "Erase" = "清除";
 
 /* No comment provided by engineer. */
-"Error Calculating Size…" = "Error Calculating Size…";
+"Error Calculating Size…" = "計算大小錯誤…";
 
 /* No comment provided by engineer. */
 "Error:" = "錯誤：";
@@ -1544,10 +1544,10 @@
 "Export" = "匯出";
 
 /* No comment provided by engineer. */
-"Export %d Photos…" = "Export %d Photos…";
+"Export %d Photos…" = "匯出 %d 張照片…";
 
 /* No comment provided by engineer. */
-"Export %d Photo…" = "Export %d Photo…";
+"Export %d Photo…" = "匯出 %d 張照片…";
 
 /* No comment provided by engineer. */
 "Export Adjustments as LUT…" = "匯出調整為 LUT⋯";
@@ -1592,7 +1592,7 @@
 "export mask as png" = "匯出遮罩為 png";
 
 /* No comment provided by engineer. */
-"Export Photo…" = "Export Photo…";
+"Export Photo…" = "匯出照片…";
 
 /* No comment provided by engineer. */
 "Export RAW…" = "輸出 RAW⋯";
@@ -1610,28 +1610,28 @@
 "Export Slice…" = "匯出切片⋯";
 
 /* No comment provided by engineer. */
-"Exporting %i photos…" = "Exporting %i photos…";
+"Exporting %i photos…" = "正在匯出 %i 張照片…";
 
 /* No comment provided by engineer. */
-"Exporting 1 photo…" = "Exporting 1 photo…";
+"Exporting 1 photo…" = "正在匯出 1 張照片…";
 
 /* No comment provided by engineer. */
-"Exporting album…" = "Exporting album…";
+"Exporting album…" = "正在匯出相簿…";
 
 /* No comment provided by engineer. */
 "Exporting Animated Image…" = "匯出動畫式圖片…";
 
 /* No comment provided by engineer. */
-"Exporting collections…" = "Exporting collections…";
+"Exporting collections…" = "正在匯出收藏集…";
 
 /* No comment provided by engineer. */
 "Exporting Document" = "匯出檔案";
 
 /* No comment provided by engineer. */
-"Exporting folder…" = "Exporting folder…";
+"Exporting folder…" = "正在匯出檔案夾…";
 
 /* No comment provided by engineer. */
-"Exporting photo %d of %d…" = "Exporting photo %1$d of %2$d…";
+"Exporting photo %d of %d…" = "正在匯出照片 %2$d 之 %1$d…";
 
 /* No comment provided by engineer. */
 "Exporting Video…" = "匯出影片…";
@@ -1763,7 +1763,7 @@
 "Folder" = "檔案夾";
 
 /* PhotoKit */
-"Folders" = "Folders";
+"Folders" = "資料夾";
 
 /* No comment provided by engineer. */
 "Font Change" = "字體更改";
@@ -1814,7 +1814,7 @@
 "Gradient Angle" = "漸變角度";
 
 /* No comment provided by engineer. */
-"Gradient Change" = "Gradient Change";
+"Gradient Change" = "漸層變更";
 
 /* No comment provided by engineer. */
 "Gradient Collection" = "漸變集合";
@@ -2111,7 +2111,7 @@
 "Invert Mask Colors" = "反相遮罩顏色";
 
 /* No comment provided by engineer. */
-"Invert Masks" = "Invert Masks";
+"Invert Masks" = "反轉遮罩";
 
 /* No comment provided by engineer. */
 "Invert Selection" = "將所選範圍反向";
@@ -2936,13 +2936,13 @@
 "Poster" = "海報";
 
 /* No comment provided by engineer. */
-"Preparing %d of %d photos for sharing…" = "Preparing %1$d of %2$d photos for sharing…";
+"Preparing %d of %d photos for sharing…" = "正在準備 %2$d 張照片中的 %1$d 張以供分享…";
 
 /* No comment provided by engineer. */
 "Preserve Edits" = "保留編輯";
 
 /* No comment provided by engineer. */
-"Preserve nondestructive edits" = "Preserve nondestructive edits";
+"Preserve nondestructive edits" = "保留非破壞性編輯";
 
 /* No comment provided by engineer. */
 "Preserve transparency" = "保留透明度";
@@ -3041,7 +3041,7 @@
 "RAW Layer" = "RAW 圖層";
 
 /* No comment provided by engineer. */
-"RAW Photo" = "RAW Photo";
+"RAW Photo" = "RAW照片";
 
 /* No comment provided by engineer. */
 "Rectangle" = "矩形";
@@ -3104,7 +3104,7 @@
 "Remove %@" = "移除 %@";
 
 /* No comment provided by engineer. */
-"Remove 1 Photo from Album" = "Remove 1 Photo from Album";
+"Remove 1 Photo from Album" = "從相簿中移除 1 張照片";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "移除調整";
@@ -3275,7 +3275,7 @@
 "Reset Auto Straighten" = "重設自動拉直";
 
 /* No comment provided by engineer. */
-"Reset Clone" = "Reset Clone";
+"Reset Clone" = "重設克隆";
 
 /* No comment provided by engineer. */
 "Reset Color Palettes" = "重置色盤";
@@ -3299,7 +3299,7 @@
 "Reset ML Crop" = "重設 ML 裁切";
 
 /* No comment provided by engineer. */
-"Reset Repair" = "Reset Repair";
+"Reset Repair" = "重設修復";
 
 /* No comment provided by engineer. */
 "Reset Ruler's origin" = "重設尺標的原點";
@@ -3440,7 +3440,7 @@
 "Save Flattened" = "儲存平坦";
 
 /* No comment provided by engineer. */
-"Save Images" = "Save Images";
+"Save Images" = "儲存影像";
 
 /* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
 "Save layers and edits to a sidecar file" = "將圖層與編輯過程儲存至邊車檔案";
@@ -3656,7 +3656,7 @@
 "Share" = "共享";
 
 /* No comment provided by engineer. */
-"Sharing Error" = "Sharing Error";
+"Sharing Error" = "分享錯誤";
 
 /* Effects category name */
 "Sharpen" = "銳化";
@@ -3890,7 +3890,7 @@
 "Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "無法使用 %@ 所需的某些重要資源，可能原因為硬碟空間不足或作業系統錯誤。";
 
 /* No comment provided by engineer. */
-"Some Photos Are Unavailable" = "Some Photos Are Unavailable";
+"Some Photos Are Unavailable" = "部份照片無法取得";
 
 /* No comment provided by engineer. */
 "Source Atop" = "來源於頂端";
@@ -3941,7 +3941,7 @@
 "Start Drawing" = "開始繪圖";
 
 /* No comment provided by engineer. */
-"Start Editing" = "Start Editing";
+"Start Editing" = "開始編輯";
 
 /* No comment provided by engineer. */
 "Start Freeform Drawing" = "開始多邊形繪圖";
@@ -4106,16 +4106,16 @@
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF 格式不支援多個圖層和其他附加格式資訊。要儲存該資訊, 請將影像儲存為 Pixelmator Pro 檔案。";
 
 /* No comment provided by engineer. */
-"The operation was cancelled." = "The operation was cancelled.";
+"The operation was cancelled." = "操作已取消。";
 
 /* No comment provided by engineer. */
-"The photo could not be saved because the Photos library asset could not be found." = "The photo could not be saved because the Photos library asset could not be found.";
+"The photo could not be saved because the Photos library asset could not be found." = "無法儲存照片因為找不到照片圖庫資產。";
 
 /* No comment provided by engineer. */
-"The photo could not be saved because this Photos library asset does not seem to be editable." = "The photo could not be saved because this Photos library asset does not seem to be editable.";
+"The photo could not be saved because this Photos library asset does not seem to be editable." = "無法儲存照片因為照片圖庫資產無法編輯。";
 
 /* No comment provided by engineer. */
-"The photo could not be saved due to an error that occurred while exporting the image." = "The photo could not be saved due to an error that occurred while exporting the image.";
+"The photo could not be saved due to an error that occurred while exporting the image." = "由於匯出影像時發生的一項錯誤而無法儲存照片。";
 
 /* No comment provided by engineer. */
 "The photo couldn’t be opened." = "無法開啟照片。";
