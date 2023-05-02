@@ -50,7 +50,7 @@
 "8 Bits/Channel" = "8 bits/couche";
 
 /* No comment provided by engineer. */
-"\"%@\" Preset" = "\"%@\" paramètre prédéfini";
+"\"%@\" Preset" = "Préréglage « %@ »";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image was created." = "Une copie aplatie de votre image a été créée.";
@@ -195,7 +195,7 @@
 "Aspect" = "Aspect";
 
 /* No comment provided by engineer. */
-"Auto Enhance" = "Accentuation automatique";
+"Auto Enhance" = "Améliorer automatiquement";
 
 /* No comment provided by engineer. */
 "Auto Straighten" = "Redresser automatiquement";
@@ -545,7 +545,7 @@
 "Create stunning designs with easy-to-use smart shapes and advanced text tools." = "Créez de magnifiques designs avec des formes intelligentes faciles à utiliser et des outils d’édition de texte avancés.";
 
 /* Tool */
-"Crop" = "Rogner";
+"Crop" = "Recadrer";
 
 /* No comment provided by engineer. */
 "Current" = "Actuel";
@@ -637,7 +637,7 @@
 "Delete Linked File" = "Supprimer le fichier lié";
 
 /* Tool */
-"Denoise" = "Suppression du bruit";
+"Denoise" = "Débruiter";
 
 /* No comment provided by engineer. */
 "Depth Mask" = "Masque de profondeur";
@@ -815,7 +815,7 @@
 "Enter a new name for this document." = "Enter a new name for this document.";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset:" = "Entrez un nouveau nom pour ce paramètre prédéfini :";
+"Enter a new name for this preset:" = "Entrez un nouveau nom pour ce préréglage :";
 
 /* The name of an image file format. */
 "EPS" = "EPS";
@@ -917,13 +917,13 @@
 "Flip" = "Retourner";
 
 /* No comment provided by engineer. */
-"Flip Horizontal" = "Retournement horizontal";
+"Flip Horizontal" = "Retourner horizontalement";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "Retourner horizontalement";
 
 /* No comment provided by engineer. */
-"Flip Vertical" = "Retournement vertical";
+"Flip Vertical" = "Retourner verticalement";
 
 /* No comment provided by engineer. */
 "Flip Vertically" = "Retourner verticalement";
@@ -1071,7 +1071,7 @@
 "Hue" = "Teinte";
 
 /* No comment provided by engineer. */
-"Hue & Saturation" = "Nuance & saturation";
+"Hue & Saturation" = "Teinte et saturation";
 
 /* No comment provided by engineer. */
 "Hue Scatter" = "Dispersion de la teinte";
@@ -1350,7 +1350,7 @@
 "Master Color Wheel" = "Roue chromatique principale";
 
 /* No comment provided by engineer. */
-"Match Colors" = "Correspondance des couleurs";
+"Match Colors" = "Adapter les couleurs";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Matte" = "Motif";
@@ -1383,10 +1383,10 @@
 "Minimum" = "Minimum";
 
 /* No comment provided by engineer. */
-"ML Crop" = "Rognage ML";
+"ML Crop" = "Recadrer par ML";
 
 /* No comment provided by engineer. */
-"ML Super Resolution…" = "Super résolution avec ML…";
+"ML Super Resolution…" = "Super résolution par ML…";
 
 /* Units */
 "mm" = "mm";
@@ -1880,7 +1880,7 @@
 "Repair Selection" = "Réparer la sélection";
 
 /* No comment provided by engineer. */
-"Repair Tool" = "Outil de réparation";
+"Repair Tool" = "Outil Réparer";
 
 /* No comment provided by engineer. */
 "Repairing…" = "Réparation…";
@@ -1889,7 +1889,7 @@
 "Repairing… %@" = "Réparation en cours… %@";
 
 /* No comment provided by engineer. */
-"Replace Color" = "Remp. Couleur";
+"Replace Color" = "Remplacer les couleurs";
 
 /* No comment provided by engineer. */
 "Replace Image" = "Remplacer image";
@@ -1910,7 +1910,7 @@
 "Reset Changes" = "Réinitialiser les modifications";
 
 /* No comment provided by engineer. */
-"Reset Crop" = "Réinitialiser le rognage";
+"Reset Crop" = "Réinitialiser le recadrage";
 
 /* No comment provided by engineer. */
 "Reset Enhance" = "Réinitialiser l’amélior.";
@@ -1922,7 +1922,7 @@
 "Reset Match Colors" = "Réinitialiser corresp. des couleurs";
 
 /* No comment provided by engineer. */
-"Reset ML Crop" = "Réinitialiser le rognage ML";
+"Reset ML Crop" = "Réinitialiser le recadrage par ML";
 
 /* Perspective transform */
 "Reset Perspective" = "Réinitialiser la perspective";
@@ -1979,10 +1979,10 @@
 "Rotate 180°" = "Rotation à 180°";
 
 /* No comment provided by engineer. */
-"Rotate Left" = "Rotation à gauche";
+"Rotate Left" = "Faire pivoter vers la gauche";
 
 /* No comment provided by engineer. */
-"Rotate Right" = "Rotation à droite";
+"Rotate Right" = "Faire pivoter vers la droite";
 
 /* No comment provided by engineer. */
 "Rotate Selection" = "Rotation de la sélection";
@@ -2019,7 +2019,7 @@
 "Save to Photos" = "Enregistrer dans les Photos";
 
 /* No comment provided by engineer. */
-"Scale" = "Echelle";
+"Scale" = "Échelle";
 
 /* No comment provided by engineer. */
 "Scale Horizontally by Tilt" = "Redim. horizontalement par inclinaison";
@@ -2552,7 +2552,7 @@
 "Tilt-Shift" = "Inclinaison-décalage";
 
 /* No comment provided by engineer. */
-"Tint" = "Nuance";
+"Tint" = "Teinte";
 
 /* No comment provided by engineer. */
 "Tips" = "Conseils";
@@ -2711,10 +2711,10 @@
 "View My Images" = "Voir mes images";
 
 /* No comment provided by engineer. */
-"Vignette" = "Vignette";
+"Vignette" = "Vignetage";
 
 /* No comment provided by engineer. */
-"Vignette Softness" = "Douceur de la vignette";
+"Vignette Softness" = "Douceur du vignetage";
 
 /* No comment provided by engineer. */
 "Vintage" = "Vintage";
