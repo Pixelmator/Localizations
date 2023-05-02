@@ -74,7 +74,7 @@
 "8 Bits/Channel" = "8 bits/couche";
 
 /* No comment provided by engineer. */
-"\"%@\" Preset" = "\"%@\" paramètre prédéfini";
+"\"%@\" Preset" = "Préréglage « %@ »";
 
 /* No comment provided by engineer. */
 "ACCENT COLOR" = "COULEUR D’ACCENT";
@@ -216,7 +216,7 @@
 "Auto Adjusting…" = "Ajustement automatique…";
 
 /* No comment provided by engineer. */
-"Auto Enhance" = "Accentuation automatique";
+"Auto Enhance" = "Améliorer automatiquement";
 
 /* No comment provided by engineer. */
 "Auto-Hide" = "Masquer automatiquement";
@@ -264,7 +264,7 @@
 "Black" = "Noir";
 
 /* No comment provided by engineer. */
-"Black & White" = "Noir & Blanc";
+"Black & White" = "Noir et blanc";
 
 /* No comment provided by engineer. */
 "Black - Gray" = "Noir - Gris";
@@ -509,7 +509,7 @@
 "Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "Activez cette option pour créer un album Photomator dans votre bibliothèque Photos et y ajouter automatiquement toutes les photos que vous modifiez avec l'application.";
 
 /* Tool */
-"Crop" = "Rogner";
+"Crop" = "Recadrer";
 
 /* No comment provided by engineer. */
 "Current" = "Actuel";
@@ -598,7 +598,7 @@
 "Delete Preset" = "Supprimer le préréglage";
 
 /* Tool */
-"Denoise" = "Suppression du bruit";
+"Denoise" = "Débruiter";
 
 /* No comment provided by engineer. */
 "Denoising…" = "Suppression du bruit…";
@@ -1211,7 +1211,7 @@
 "Inches" = "Pouces";
 
 /* No comment provided by engineer. */
-"Increase Resolution" = "Améliorer la résolution";
+"Increase Resolution" = "Augmenter la résolution";
 
 /* No comment provided by engineer. */
 "Increase the resolution of photos while preserving sharpness and details." = "Augmentez la résolution des photos sans perdre en netteté ni en détails.";
@@ -1375,7 +1375,7 @@
 "Lock %@" = "Verrouiller %@";
 
 /* No comment provided by engineer. */
-"Locked adjustments will not be modified by presets, ML Enhance, or ML Match Colors." = "Les ajustements verrouillés ne seront pas modifiés par les paramètres prédéfinis, ML Enhance ou ML Match Colors.";
+"Locked adjustments will not be modified by presets, ML Enhance, or ML Match Colors." = "Les ajustements verrouillés ne seront pas modifiés par les préréglages, Améliorer par ML ni Adapter les couleurs par ML.";
 
 /* No comment provided by engineer. */
 "Locked Layer" = "Calque verrouillé";
@@ -1438,10 +1438,10 @@
 "Master Color Wheel" = "Roue chromatique principale";
 
 /* No comment provided by engineer. */
-"Match Colors" = "Correspondance des couleurs";
+"Match Colors" = "Adapter les couleurs";
 
 /* No comment provided by engineer. */
-"Matching Colors…" = "Correspondance des couleurs…";
+"Matching Colors…" = "Adaptation des couleurs…";
 
 /* No comment provided by engineer. */
 "Maximum" = "Maximum";
@@ -1465,13 +1465,13 @@
 "Minimum" = "Minimum";
 
 /* No comment provided by engineer. */
-"ML Crop" = "Rognage ML";
+"ML Crop" = "Recadrer par ML";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "Amélioration ML";
+"ML Enhance" = "Améliorer par ML";
 
 /* No comment provided by engineer. */
-"ML Match Colors" = "Correspondance des couleurs ML";
+"ML Match Colors" = "Adapter les couleurs par ML";
 
 /* No comment provided by engineer. */
 "ML Super Resolution…" = "ML Super Resolution…";
@@ -1816,7 +1816,7 @@
 "Presets" = "Préréglages";
 
 /* No comment provided by engineer. */
-"Presets Imported" = "Paramètres prédéfinis importés";
+"Presets Imported" = "Préréglages importés";
 
 /* No comment provided by engineer. */
 "Preview" = "Aperçu";
@@ -1867,7 +1867,7 @@
 "Quick Edits" = "Modifications rapides";
 
 /* No comment provided by engineer. */
-"Quickly change the look and feel of photo using color adjustment presets." = "Modifiez rapidement l'apparence d'une photo à l'aide des paramètres prédéfinis de réglage des couleurs.";
+"Quickly change the look and feel of photo using color adjustment presets." = "Modifiez rapidement l'apparence d'une photo à l'aide des préréglages d'ajustement des couleurs.";
 
 /* No comment provided by engineer. */
 "Quickly make precise selections in photos using AI, use linear and radial masks, or simply paint over the areas you want to adjust with a brush." = "Faites rapidement des sélections précises dans vos photos grâce à l'IA, utilisez un masque linéaire ou radial, ou peignez facilement les zones à ajuster à l'aide d'un pinceau.";
@@ -1993,7 +1993,7 @@
 "Repair Selection" = "Réparer la sélection";
 
 /* No comment provided by engineer. */
-"Repair Tool" = "Outil de réparation";
+"Repair Tool" = "Outil Réparer";
 
 /* No comment provided by engineer. */
 "Repair with Pencil" = "Réparer avec le crayon";
@@ -2002,7 +2002,7 @@
 "Repairing…" = "Réparation…";
 
 /* No comment provided by engineer. */
-"Replace Color" = "Remp. Couleur";
+"Replace Color" = "Remplacer les couleurs";
 
 /* No comment provided by engineer. */
 "Replace Media" = "Replace Media";
@@ -2026,7 +2026,7 @@
 "Reset Changes" = "Réinitialiser les modifications";
 
 /* No comment provided by engineer. */
-"Reset Crop" = "Réinitialiser le rognage";
+"Reset Crop" = "Réinitialiser le recadrage";
 
 /* No comment provided by engineer. */
 "Reset Deband" = "Réinitialiser la suppression de l'effet de bande";
@@ -2038,7 +2038,7 @@
 "Reset Denoise?" = "Réinitialiser suppr. du bruit ?";
 
 /* No comment provided by engineer. */
-"Reset Enhance" = "Réinitialiser l’amélior.";
+"Reset Enhance" = "Réinitialiser l’amélioration";
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "Réinitialiser la perspective horizontale";
@@ -2053,13 +2053,13 @@
 "Reset Match Colors" = "Réinitialiser corresp. des couleurs";
 
 /* No comment provided by engineer. */
-"Reset ML Crop" = "Réinitialiser le rognage ML";
+"Reset ML Crop" = "Réinitialiser le recadrage par ML";
 
 /* Perspective transform */
 "Reset Perspective" = "Réinitialiser la perspective";
 
 /* No comment provided by engineer. */
-"Reset Repair tool edits?" = "Réinitialiser les modifications de l’outil de réparation ?";
+"Reset Repair tool edits?" = "Réinitialiser les modifications de l’outil Réparer ?";
 
 /* No comment provided by engineer. */
 "Reset Super Resolution" = "Réinitialiser la résolution Super";
@@ -2074,7 +2074,7 @@
 "Reset Vertical Perspective" = "Réinitialiser la perspective verticale";
 
 /* No comment provided by engineer. */
-"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "Réinitialiser les modifications faites avec l’outil de Réparation va aussi restaurer la résolution de cette photo à sa valeur originale.";
+"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "Réinitialiser les modifications faites avec l’outil Réparer va aussi restaurer la résolution de cette photo à sa valeur originale.";
 
 /* No comment provided by engineer. */
 "Resize Gradient" = "Redimensionner le dégradé";
@@ -2086,13 +2086,13 @@
 "Restore Layer" = "Restaurer le calque";
 
 /* No comment provided by engineer. */
-"Restore Purchase" = "Restaurer l'achat";
+"Restore Purchase" = "Restaurer un achat";
 
 /* No comment provided by engineer. */
-"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution." = "Si vous rétablissez l'original de cette photo, vous réinitialiserez aussi les modifications faites avec l’outil de réparation et Super résolution.";
+"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution." = "Si vous rétablissez l'original de cette photo, vous réinitialiserez aussi les modifications faites avec l’outil Réparer et Super résolution.";
 
 /* No comment provided by engineer. */
-"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "Restaurer la résolution originale de cette photo va également réinitialiser les modifications faites avec l’outil de Réparation et la suppression du bruit.";
+"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "Restaurer la résolution originale de cette photo va également réinitialiser les modifications faites avec les outils Réparer et Débruiter.";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "Révéler dans les fichiers";
@@ -2119,10 +2119,10 @@
 "Rotate Gradient" = "Faire pivoter le dégradé";
 
 /* No comment provided by engineer. */
-"Rotate Left" = "Rotation à gauche";
+"Rotate Left" = "Faire pivoter vers la gauche";
 
 /* No comment provided by engineer. */
-"Rotate Right" = "Rotation à droite";
+"Rotate Right" = "Faire pivoter vers la droite";
 
 /* Tool */
 "Rounded Rect." = "Rectangle arrondi";
@@ -2183,7 +2183,7 @@
 "Saving…" = "Enregistrement…";
 
 /* No comment provided by engineer. */
-"Scale" = "Echelle";
+"Scale" = "Échelle";
 
 /* No comment provided by engineer. */
 "Scale Horizontally by Tilt" = "Redim. horizontalement par inclinaison";
@@ -2237,7 +2237,7 @@
 "Select More Photos…" = "Sélectionner plus de photos…";
 
 /* No comment provided by engineer. */
-"Select Repair Tool" = "Sélectionner l’outil de réparation";
+"Select Repair Tool" = "Sélectionner l’outil Réparer";
 
 /* Tool */
 "Select Row" = "Sélectionner la ligne";
@@ -2350,7 +2350,7 @@
 "Show Layer" = "Afficher les calques";
 
 /* No comment provided by engineer. */
-"Show Mask Overlay" = "Afficher le masque en superposition";
+"Show Mask Overlay" = "Afficher l'incrustation de masque";
 
 /* Color Balance */
 "Show Master Colors" = "Afficher les couleurs principales";
@@ -2365,7 +2365,7 @@
 "Show Photos" = "Afficher les photos";
 
 /* No comment provided by engineer. */
-"Show Presets" = "Afficher les paramètres prédéfinis";
+"Show Presets" = "Afficher les préréglages";
 
 /* No comment provided by engineer. */
 "Show Recents" = "Afficher les photos récentes";
@@ -2587,7 +2587,7 @@
 "That covers the basics – you’re ready to start editing your photos!" = "Voilà qui couvre l'essentiel, vous êtes prêt à commencer à éditer vos photos !";
 
 /* No comment provided by engineer. */
-"The color adjustment presets were imported successfully." = "Les paramètres prédéfinis de réglages de couleur ont été importés avec succès.";
+"The color adjustment presets were imported successfully." = "Les préréglages d'ajustement des couleurs ont bien été importés.";
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the [GEAR] icon and, in the Browser menu, select Photos." = "L'explorateur Fichiers vous permet de parcourir tous les documents stockés sur votre appareil. Pour passer à l'explorateur Photos, appuyez sur l'icône [GEAR], puis sélectionnez Photos dans le menu Navigateur.";
@@ -2626,7 +2626,7 @@
 "The preset will be permanently deleted from the app." = "Le préréglage va être supprimé de façon permanente de l’appli.";
 
 /* No comment provided by engineer. */
-"The preset will be redefined with the current color adjustments." = "Le paramètre prédéfini va être redéfini avec les réglages de couleur actuels.";
+"The preset will be redefined with the current color adjustments." = "Le préréglage va être redéfini à partir des ajustements de couleur actuels.";
 
 /* No comment provided by engineer. */
 "The preset will be reset to the initial color adjustments." = "Le préréglage va être réinitialisé vers les ajustements de couleur initiaux.";
@@ -2695,7 +2695,7 @@
 "Tilt Shift" = "Inclinaison-décalage";
 
 /* No comment provided by engineer. */
-"Tint" = "Nuance";
+"Tint" = "Teinte";
 
 /* No comment provided by engineer. */
 "Tips" = "Conseils";
@@ -2855,7 +2855,7 @@
 "USDZ" = "USDZ";
 
 /* No comment provided by engineer. */
-"Use Apple Pencil to make edits using the Curves adjustment or the Repair tool even when no tool is selected." = "Utiliser l’Apple Pencil pour apporter des modifications à l’aide de l’ajustement des courbes ou de l’outil de Réparation, même lorsqu’aucun outil n’est sélectionné.";
+"Use Apple Pencil to make edits using the Curves adjustment or the Repair tool even when no tool is selected." = "Utiliser l’Apple Pencil pour apporter des modifications à l’aide de l’ajustement des courbes ou de l’outil Réparer, même lorsqu’aucun outil n’est sélectionné.";
 
 /* No comment provided by engineer. */
 "Use iCloud" = "Utiliser iCloud";
@@ -2876,10 +2876,10 @@
 "Video Layer" = "Calque vidéo";
 
 /* No comment provided by engineer. */
-"Vignette" = "Vignette";
+"Vignette" = "Vignetage";
 
 /* No comment provided by engineer. */
-"Vignette Softness" = "Douceur de la vignette";
+"Vignette Softness" = "Douceur du vignetage";
 
 /* No comment provided by engineer. */
 "Visible" = "Visible";
