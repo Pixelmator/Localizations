@@ -198,6 +198,9 @@
 "Arrow from Point" = "ポイントから矢印";
 
 /* No comment provided by engineer. */
+"As a long-time user of Photomator, you can get an exclusive 50% discount off the first year of an annual Photomator subscription and unlock full access to Photomator for Mac." = "As a long-time user of Photomator, you can get an exclusive 50% discount off the first year of an annual Photomator subscription and unlock full access to Photomator for Mac.";
+
+/* No comment provided by engineer. */
 "Aspect" = "縦横比";
 
 /* No comment provided by engineer. */
@@ -225,13 +228,7 @@
 "Automatically enhance photos" = "写真を自動的に補正";
 
 /* No comment provided by engineer. */
-"Automatically improve the lighting and colors of a photo using AI by simply tapping [WAND]." = "タップするだけで、AI を使用して写真の照明と色を自動的に改善します [WAND]。";
-
-/* No comment provided by engineer. */
-"Automatically select the sky in any photo with just a tap." = "タップするだけで写真内の空を自動で選択します。";
-
-/* No comment provided by engineer. */
-"Automatically select the subject in any photo using AI." = "AIを使用して、写真の被写体を自動で選択します。";
+"Automatically improve the lighting and colors of a photo using AI by simply tapping %@." = "Automatically improve the lighting and colors of a photo using AI by simply tapping %@.";
 
 /* No comment provided by engineer. */
 "Background" = "背景";
@@ -426,9 +423,6 @@
 
 /* No comment provided by engineer. */
 "Color Fill" = "色で塗りつぶし";
-
-/* No comment provided by engineer. */
-"Color Mask" = "色マスク";
 
 /* No comment provided by engineer. */
 "Color Monochrome" = "モノクロ化";
@@ -1238,9 +1232,6 @@
 "Instantly adjust the colors of images using color presets created in other apps." = "他のアプリで作成されたカラープリセットを使用して、画像の色を即座に調整します。";
 
 /* No comment provided by engineer. */
-"Instantly select the background in any photo with just a tap." = "タップするだけで写真の背景を即座に選択できます。";
-
-/* No comment provided by engineer. */
 "Intensity" = "強度";
 
 /* No comment provided by engineer. */
@@ -1249,8 +1240,8 @@
 /* No comment provided by engineer. */
 "Intersect" = "交差";
 
-/* No comment provided by engineer. */
-"Introducing Photomator" = "Photomatorのご紹介";
+/* %@ stands for non-breaking space */
+"Introducing Photomator%@for%@Mac" = "Introducing Photomator%1$@for%2$@Mac";
 
 /* No comment provided by engineer. */
 "Invert" = "反転";
@@ -1411,7 +1402,7 @@
 "Magically increase resolution" = "魔法のように解像度を上げる";
 
 /* No comment provided by engineer. */
-"Magically remove anything from small blemishes to entire objects from photos. Tap [REPAIR], then paint over an object to remove it." = "写真の小さな傷からオブジェクト全体まで、魔法のようにすべてを取り除きます。[REPAIR] をタップしてから、オブジェクトを塗りつぶして削除します。";
+"Magically remove anything from small blemishes to entire objects from photos. Tap %@, then paint over an object to remove it." = "Magically remove anything from small blemishes to entire objects from photos. Tap %@, then paint over an object to remove it.";
 
 /* Tool */
 "Magnetic" = "マグネット";
@@ -1590,11 +1581,17 @@
 /* No comment provided by engineer. */
 "Normal" = "通常";
 
+/* %@ stands for non-breaking space */
+"Now you can download Photomator%@for%@Mac from the Mac App Store and enjoy full access to all its features." = "Now you can download Photomator%1$@for%2$@Mac from the Mac App Store and enjoy full access to all its features.";
+
 /* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "画像上の曲線";
+
+/* No comment provided by engineer. */
+"One license for Mac, iPad, and iPhone." = "One license for Mac, iPad, and iPhone.";
 
 /* No comment provided by engineer. */
 "One or more LUTs may be damaged or not supported." = "1つ以上のLUTが破損しているか、サポートされていない可能性があります。";
@@ -1702,6 +1699,9 @@
 "Photomator Album" = "Photomatorアルバム";
 
 /* No comment provided by engineer. */
+"Photomator brings all your favorite photo editing tools for enhancing, retouching, and managing photos to Mac." = "Photomator brings all your favorite photo editing tools for enhancing, retouching, and managing photos to Mac.";
+
+/* No comment provided by engineer. */
 "Photomator Document" = "Photomator書類";
 
 /* The name of file format containing nondestructive edits created by the Photomator app. */
@@ -1718,6 +1718,9 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomatorヘルプ";
+
+/* %@ stands for non-breaking space */
+"Photomator%@for%@Mac Out Now" = "Photomator%1$@for%2$@Mac Out Now";
 
 /* Native iOS Photos app name */
 "Photos" = "写真";
@@ -1769,9 +1772,6 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photoを使用すると、写真ライブラリまたはiPadの画像を編集し、どちらのワークフローでも非破壊的な変更を自動的に保存できます。 写真ライブラリまたはiPad上の画像ファイルの閲覧を切り替えるには、ツールバーの [写真] または [ファイル] をタップします。";
-
-/* No comment provided by engineer. */
-"Pixelmator Photo now has a simpler name – say hello to Photomator." = "Pixelmator Photoはよりシンプルな名前 – Photomator – になりました。";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
@@ -1869,9 +1869,6 @@
 /* No comment provided by engineer. */
 "Quickly change the look and feel of photo using color adjustment presets." = "カラー調整プリセットを使用して写真のルックアンドフィールをすばやく変更します。";
 
-/* No comment provided by engineer. */
-"Quickly make precise selections in photos using AI, use linear and radial masks, or simply paint over the areas you want to adjust with a brush." = "AIを使用して写真を正確に選択したり、線形および放射状のマスクを使用したり、調整したい領域をブラシで塗りつぶしたりできます。";
-
 /* The name of a video file format. */
 "QuickTime" = "QuickTime";
 
@@ -1930,6 +1927,9 @@
 
 /* No comment provided by engineer. */
 "Redeem offer" = "クーポンを利用";
+
+/* No comment provided by engineer. */
+"Redeem Offer" = "Redeem Offer";
 
 /* Edit Menu */
 "Redefine" = "再設定";
@@ -2258,9 +2258,6 @@
 "Selected layer is locked, unlock it to edit." = "選択したレイヤーはロック状態ですが、編集すると解除されます。";
 
 /* No comment provided by engineer. */
-"Selective Adjustments" = "選択可能な調整";
-
-/* No comment provided by engineer. */
 "Selective Clarity" = "選択可能な鮮明さ";
 
 /* No comment provided by engineer. */
@@ -2403,9 +2400,6 @@
 /* No comment provided by engineer. */
 "Smooth textures" = "テクスチャを滑らかにする";
 
-/* No comment provided by engineer. */
-"Smoothness" = "滑らかさ";
-
 /* Retouch Tools
    Tool */
 "Smudge" = "指先";
@@ -2446,6 +2440,9 @@
 
 /* No comment provided by engineer. */
 "Source Out" = "ソースアウト";
+
+/* No comment provided by engineer. */
+"Special Offer" = "Special Offer";
 
 /* No comment provided by engineer. */
 "Specular" = "鏡面反射";
@@ -2556,13 +2553,13 @@
 "Take Photo" = "写真を撮る";
 
 /* No comment provided by engineer. */
-"Tap [ADJUSTMENTS] to change the colors and lighting of photos in just about any way you can imagine." = "[ADJUSTMENTS] をタップして、想像できるほぼすべての方法を使って写真の色と照明を変更します。";
+"Tap %@ to change the colors and lighting of photos in just about any way you can imagine." = "Tap %@ to change the colors and lighting of photos in just about any way you can imagine.";
 
 /* No comment provided by engineer. */
-"Tap [MORE], then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "[MORE] をタップしてから [超解像] を選択して、不要なぼかしのない写真の解像度を上げます。";
+"Tap %@ to increase the resolution of photos with no unwanted blurring." = "Tap %@ to increase the resolution of photos with no unwanted blurring.";
 
 /* No comment provided by engineer. */
-"Tap [SUPER RESOLUTION] to increase the resolution of photos with no unwanted blurring." = "[SUPER RESOLUTION] をタップして、不要なぼかしがない状態で写真の解像度を上げます。";
+"Tap %@, then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "Tap %@, then choose Super Resolution to increase the resolution of photos with no unwanted blurring.";
 
 /* No comment provided by engineer. */
 "Target Color" = "ターゲットカラー";
@@ -2590,7 +2587,7 @@
 "The color adjustment presets were imported successfully." = "カラー調整プリセットは正常に読み込まれました。";
 
 /* No comment provided by engineer. */
-"The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the [GEAR] icon and, in the Browser menu, select Photos." = "ファイルブラウザを使用すると、デバイス上のすべてのドキュメントを参照できます。 写真ブラウザに切り替えるには、[歯車] アイコンをタップし、ブラウザメニューで [写真] を選択します。";
+"The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "画像は%@個のレイヤーを含んでいます。追加するには画像のサイズを小さくしてください。";
@@ -2716,9 +2713,6 @@
 "To use this feature, you’ll need to purchase unlimited access to Photomator, but it looks like you’re offline. To purchase, you’ll need to go online." = "この機能を使用するには Photomator への無制限アクセスを購入する必要がありますが、オフラインのようです。 購入するには、オンラインにする必要があります。";
 
 /* No comment provided by engineer. */
-"Tolerance" = "許容範囲";
-
-/* No comment provided by engineer. */
 "Tone" = "トーン";
 
 /* No comment provided by engineer. */
@@ -2808,6 +2802,9 @@
 /* Layer Arrange */
 "Ungroup" = "グループ化解除";
 
+/* No comment provided by engineer. */
+"Unlimited Access" = "Unlimited Access";
+
 /* Edit Menu
    Layer */
 "Unlock" = "ロックを解除";
@@ -2817,6 +2814,9 @@
 
 /* No comment provided by engineer. */
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "新しい拡張ダイナミックレンジモードで新しいRAW編集ワークフローのロックを解除";
+
+/* %@ stands for non-breaking space */
+"Unlock Photomator%@for%@Mac" = "Unlock Photomator%1$@for%2$@Mac";
 
 /* No comment provided by engineer. */
 "Unnamed" = "名称未設定";
@@ -2960,6 +2960,9 @@
 "Yellow / Blue" = "イエロー/ブルー";
 
 /* No comment provided by engineer. */
+"You can instantly download Photomator from the Mac App Store and enjoy full access to all its features." = "You can instantly download Photomator from the Mac App Store and enjoy full access to all its features.";
+
+/* No comment provided by engineer. */
 "You're Offline" = "現在オフラインです";
 
 /* No comment provided by engineer. */
@@ -2967,6 +2970,9 @@
 
 /* No comment provided by engineer. */
 "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!" = "無料トライアルは 2 日で終了します。いくつかの写真を編集して、Photomatorを試してみてください！";
+
+/* No comment provided by engineer. */
+"Your purchase was successful!" = "Your purchase was successful!";
 
 /* No comment provided by engineer. */
 "You’re good to go" = "問題ありません";
