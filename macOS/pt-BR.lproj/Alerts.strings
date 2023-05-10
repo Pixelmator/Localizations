@@ -1,5 +1,5 @@
 /* No comment provided by engineer. */
-"%@ would like to access the  folder." = "O %@ deseja acessar a pasta.";
+"%@ would like to access the “%@“ folder." = "%1$@ would like to access the “%2$@“ folder.";
 
 /* No comment provided by engineer. */
 "(Error Code: %i)" = "(Código de Erro: %i)";
@@ -29,7 +29,7 @@
 "Cancel" = "Cancelar";
 
 /* No comment provided by engineer. */
-"Click Allow Access to grant %@ access to files in the  folder." = "Clique em Permitir Acesso para que o %@ possa acessar os arquivos na pasta.";
+"Click Allow Access to grant %@ access to files in the “%@“ folder." = "Click Allow Access to grant %1$@ access to files in the “%2$@“ folder.";
 
 /* No comment provided by engineer. */
 "Clone tool" = "Ferramenta clonar";
@@ -71,6 +71,12 @@
 "Feature Unavailable" = "Recurso não disponível";
 
 /* No comment provided by engineer. */
+"Flatten and Duplicate" = "Flatten and Duplicate";
+
+/* No comment provided by engineer. */
+"Flatten and Edit Original" = "Flatten and Edit Original";
+
+/* No comment provided by engineer. */
 "If this happens repeatedly, reach out to us and we’ll help out." = "Caso isso aconteça repetidamente, contate‑nos para que possamos ajudar.";
 
 /* No comment provided by engineer. */
@@ -80,7 +86,7 @@
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "Parece que você não tem uma assinatura ativa do Photomator. Isso pode ter acontecido porque:\n\n1. Você iniciou a sessão na App Store com um ID Apple diferente.\n2. Sua assinatura expirou.\n\n Verifique o ocorrido na App Store e tente novamente.";
 
 /* No comment provided by engineer. */
-"It looks like %@ cannot access the  folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "O %@ não pode acessar a pasta onde os arquivos sidecar do app estão armazenados. Para acessar esses arquivos, clique em Continuar e clique em Permitir Acesso.";
+"It looks like %@ cannot access the “%@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "It looks like %1$@ cannot access the “%2$@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access.";
 
 /* No comment provided by engineer. */
 "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "Parece que você já tem acesso ilimitado ao Photomator; a cobrança não foi feita. Curta o app!";
@@ -125,7 +131,7 @@
 "Save" = "Salvar";
 
 /* No comment provided by engineer. */
-"Save Changes & Open" = "Salvar Alterações e Abrir";
+"Save Changes and Open" = "Save Changes and Open";
 
 /* No comment provided by engineer. */
 "Some of the selected photos are not locally available and the internet connection appears to be offline. Would you like to continue, exporting only the photos available on your device?" = "Algumas das fotos selecionadas não estão disponíveis localmente e não parece haver uma conexão à internet. Deseja continuar e exportar apenas as fotos disponíveis no dispositivo?";
@@ -152,10 +158,10 @@
 "Super Resolution" = "Super resolução";
 
 /* No comment provided by engineer. */
-"The selected image does not contain any adjustments." = "A imagem selecionada não contém nenhum ajuste.";
+"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?";
 
 /* No comment provided by engineer. */
-"The sidecar file for this Photos asset contains nondestructive edits created in Pixelmator Pro, which are currently not supported by Photomator.\n\nThe layers in this document will be automatically merged. When saving, a new photo will be added to your library with any edits made in Photomator." = "O arquivo sidecar deste material do app Fotos contém edições não destrutivas criadas no Pixelmator Pro que não são compatíveis com o Photomator.\n\nAs camadas deste documento serão combinadas automaticamente. Ao salvar, a nova foto será adicionada à fototeca com as edições feitas no Photomator.";
+"The selected image does not contain any adjustments." = "A imagem selecionada não contém nenhum ajuste.";
 
 /* No comment provided by engineer. */
 "This photo has been edited by another app. Would you like to discard your edits and open the latest version in the Photos library?" = "Esta foto foi editada por outro app. Deseja descartar as edições e abrir a versão mais recente na fototeca?";
@@ -182,7 +188,7 @@
 "Unable to Edit Images" = "Não Foi Possível Editar Imagens";
 
 /* No comment provided by engineer. */
-"Unsupported Sidecar Content" = "Conteúdo Sidecar Incompatível";
+"Unsupported Image Content" = "Unsupported Image Content";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes?" = "Deseja salvar as alterações?";
