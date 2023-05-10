@@ -1,5 +1,5 @@
 /* No comment provided by engineer. */
-"%@ would like to access the  folder." = "%@ would like to access the  folder.";
+"%@ would like to access the “%@“ folder." = "%1$@ would like to access the “%2$@“ folder.";
 
 /* No comment provided by engineer. */
 "(Error Code: %i)" = "(Error Code: %i)";
@@ -29,7 +29,7 @@
 "Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
-"Click Allow Access to grant %@ access to files in the  folder." = "Click Allow Access to grant %@ access to files in the  folder.";
+"Click Allow Access to grant %@ access to files in the “%@“ folder." = "Click Allow Access to grant %1$@ access to files in the “%2$@“ folder.";
 
 /* No comment provided by engineer. */
 "Clone tool" = "Clone tool";
@@ -71,6 +71,12 @@
 "Feature Unavailable" = "Feature Unavailable";
 
 /* No comment provided by engineer. */
+"Flatten and Duplicate" = "Flatten and Duplicate";
+
+/* No comment provided by engineer. */
+"Flatten and Edit Original" = "Flatten and Edit Original";
+
+/* No comment provided by engineer. */
 "If this happens repeatedly, reach out to us and we’ll help out." = "If this happens repeatedly, reach out to us and we’ll help out.";
 
 /* No comment provided by engineer. */
@@ -80,7 +86,7 @@
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again.";
 
 /* No comment provided by engineer. */
-"It looks like %@ cannot access the  folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "It looks like %@ cannot access the  folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access.";
+"It looks like %@ cannot access the “%@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "It looks like %1$@ cannot access the “%2$@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access.";
 
 /* No comment provided by engineer. */
 "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!";
@@ -125,7 +131,7 @@
 "Save" = "Save";
 
 /* No comment provided by engineer. */
-"Save Changes & Open" = "Save Changes & Open";
+"Save Changes and Open" = "Save Changes and Open";
 
 /* No comment provided by engineer. */
 "Some of the selected photos are not locally available and the internet connection appears to be offline. Would you like to continue, exporting only the photos available on your device?" = "Some of the selected photos are not locally available and the internet connection appears to be offline. Would you like to continue, exporting only the photos available on your device?";
@@ -152,10 +158,10 @@
 "Super Resolution" = "Super Resolution";
 
 /* No comment provided by engineer. */
-"The selected image does not contain any adjustments." = "The selected image does not contain any adjustments.";
+"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?";
 
 /* No comment provided by engineer. */
-"The sidecar file for this Photos asset contains nondestructive edits created in Pixelmator Pro, which are currently not supported by Photomator.\n\nThe layers in this document will be automatically merged. When saving, a new photo will be added to your library with any edits made in Photomator." = "The sidecar file for this Photos asset contains nondestructive edits created in Pixelmator Pro, which are currently not supported by Photomator.\n\nThe layers in this document will be automatically merged. When saving, a new photo will be added to your library with any edits made in Photomator.";
+"The selected image does not contain any adjustments." = "The selected image does not contain any adjustments.";
 
 /* No comment provided by engineer. */
 "This photo has been edited by another app. Would you like to discard your edits and open the latest version in the Photos library?" = "This photo has been edited by another app. Would you like to discard your edits and open the latest version in the Photos library?";
@@ -182,7 +188,7 @@
 "Unable to Edit Images" = "Unable to Edit Images";
 
 /* No comment provided by engineer. */
-"Unsupported Sidecar Content" = "Unsupported Sidecar Content";
+"Unsupported Image Content" = "Unsupported Image Content";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes?" = "Would you like to save your changes?";
