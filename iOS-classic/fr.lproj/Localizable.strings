@@ -5,6 +5,9 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* No comment provided by engineer. */
+"%@ Bytes" = "%@ octets";
+
+/* No comment provided by engineer. */
 "%@ Effect" = "Effet %@";
 
 /* seconds */
@@ -47,7 +50,7 @@
 "8 Bits/Channel" = "8 bits/couche";
 
 /* No comment provided by engineer. */
-"\"%@\" Preset" = "\"%@\" paramètre prédéfini";
+"\"%@\" Preset" = "Préréglage « %@ »";
 
 /* No comment provided by engineer. */
 "A flattened copy of your image was created." = "Une copie aplatie de votre image a été créée.";
@@ -82,6 +85,9 @@
 /* No comment provided by engineer. */
 "Add Shape" = "Ajouter forme";
 
+/* No comment provided by engineer. */
+"Add some photos to the Photos app and they’ll appear here automatically." = "Ajoutez des photos dans l’application Photos pour les faire apparaître ici automatiquement.";
+
 /* Layer Management */
 "Add Text" = "Ajouter du texte";
 
@@ -103,6 +109,9 @@
 /* No comment provided by engineer. */
 "Albums" = "Albums";
 
+/* stroke options - stroke position */
+"Align" = "Aligner";
+
 /* No comment provided by engineer. */
 "All" = "Tous";
 
@@ -113,7 +122,13 @@
 "All Photos" = "Toutes les photos";
 
 /* No comment provided by engineer. */
+"All rights reserved." = "Tous droits réservés.";
+
+/* No comment provided by engineer. */
 "Allow Access to All Photos" = "Autoriser l’accès à toutes les photos";
+
+/* No comment provided by engineer. */
+"Allow Photos Access" = "Autoriser l'accès à Photos";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "Ambre";
@@ -137,6 +152,9 @@
 "Angle Scatter" = "Dispersion de l’angle";
 
 /* No comment provided by engineer. */
+"App Settings" = "Réglages de l'application";
+
+/* No comment provided by engineer. */
 "Apply" = "Appliquer";
 
 /* No comment provided by engineer. */
@@ -150,6 +168,9 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Arcturus" = "Arcturus";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear all recent documents? You can later access them in Files." = "Voulez-vous vraiment effacer tous les documents récents ? Vous pourrez y accéder plus tard dans Fichiers.";
 
 /* Layer Arrange
    Tool */
@@ -174,7 +195,7 @@
 "Aspect" = "Aspect";
 
 /* No comment provided by engineer. */
-"Auto Enhance" = "Accentuation automatique";
+"Auto Enhance" = "Améliorer automatiquement";
 
 /* No comment provided by engineer. */
 "Auto Straighten" = "Redresser automatiquement";
@@ -254,6 +275,9 @@
 /* No comment provided by engineer. */
 "Blur and soften the focus" = "Flouter et adoucir la mise au point";
 
+/* The name of an image file format. */
+"BMP" = "BMP";
+
 /* No comment provided by engineer. */
 "Bokeh" = "Bokeh";
 
@@ -280,6 +304,9 @@
 
 /* No comment provided by engineer. */
 "Bring to Front" = "Placer au premier plan";
+
+/* No comment provided by engineer. */
+"BROWSER" = "NAVIGATEUR";
 
 /* No comment provided by engineer. */
 "Brush Scatter" = "Dispersion du pinceau";
@@ -317,6 +344,12 @@
 /* Tool */
 "Canvas Size" = "Taille de la zone de travail";
 
+/* stroke options - line caps */
+"Caps" = "Extrémités";
+
+/* No comment provided by engineer. */
+"Card" = "La fiche";
+
 /* No comment provided by engineer. */
 "Categories" = "Catégories";
 
@@ -328,6 +361,9 @@
 
 /* No comment provided by engineer. */
 "Center Guides" = "Guides centre";
+
+/* No comment provided by engineer. */
+"Center." = "Centre.";
 
 /* Units */
 "Centimeters" = "Centimètres";
@@ -346,6 +382,9 @@
 
 /* No comment provided by engineer. */
 "Choose Color" = "Choisir une couleur";
+
+/* No comment provided by engineer. */
+"Choose Template" = "Choisir un modèle";
 
 /* No comment provided by engineer. */
 "Chromatic Noise Tracking" = "Mesure du bruit chromatique";
@@ -370,6 +409,12 @@
 
 /* No comment provided by engineer. */
 "Clarity Shadows" = "Clarté des ombres";
+
+/* No comment provided by engineer. */
+"Clear" = "Clear";
+
+/* No comment provided by engineer. */
+"Clear All Recents" = "Effacer tous les éléments récents";
 
 /* No comment provided by engineer. */
 "Clipboard" = "Presse-papiers";
@@ -414,6 +459,9 @@
 
 /* No comment provided by engineer. */
 "Color Noise Reduction" = "Réduction du bruit de couleur";
+
+/* No comment provided by engineer. */
+"Color Range" = "Gamme de couleurs";
 
 /* Selection */
 "Color Selection" = "Sélection de couleur";
@@ -464,6 +512,12 @@
 "Copy Layer" = "Copier le calque";
 
 /* No comment provided by engineer. */
+"Copyright © %@ Pixelmator Team." = "Copyright © %@ Pixelmator Team.";
+
+/* stroke options - line join style */
+"Corner" = "Coin";
+
+/* No comment provided by engineer. */
 "Corner Radius" = "Rayon de coin";
 
 /* No comment provided by engineer. */
@@ -474,6 +528,9 @@
 
 /* No comment provided by engineer. */
 "Create" = "Créer";
+
+/* No comment provided by engineer. */
+"Create a new document from photos, templates, or presets." = "Créez un document à partir de photos, modèles ou préréglages.";
 
 /* No comment provided by engineer. */
 "Create Designs" = "Créez des designs";
@@ -494,7 +551,7 @@
 "Create stunning designs with easy-to-use smart shapes and advanced text tools." = "Créez de magnifiques designs avec des formes intelligentes faciles à utiliser et des outils d’édition de texte avancés.";
 
 /* Tool */
-"Crop" = "Rogner";
+"Crop" = "Recadrer";
 
 /* No comment provided by engineer. */
 "Current" = "Actuel";
@@ -546,14 +603,20 @@
 /* No comment provided by engineer. */
 "Darks" = "Sombres";
 
+/* stroke options */
+"Dash" = "Tiret";
+
+/* stroke options */
+"Dashed Line" = "Ligne de tirets";
+
 /* No comment provided by engineer. */
 "Decontaminating colors…" = "Décontamination des couleurs…";
 
 /* Edit Menu */
-"Decrease Size" = "Diminuer la taille";
+"Decrease Size" = "Réduire la taille";
 
 /* No comment provided by engineer. */
-"Decrease the strength of colors" = "Diminuer force des couleurs";
+"Decrease the strength of colors" = "Réduire l'intensité des couleurs";
 
 /* No comment provided by engineer. */
 "Default" = "Par défaut";
@@ -577,7 +640,7 @@
 "Delete Linked File" = "Supprimer le fichier lié";
 
 /* Tool */
-"Denoise" = "Suppression du bruit";
+"Denoise" = "Débruiter";
 
 /* No comment provided by engineer. */
 "Depth Mask" = "Masque de profondeur";
@@ -752,7 +815,13 @@
 "Enjoy support for the new iPad Pro and the next-level Apple Pencil hover experience." = "Profitez de la compatibilité avec le nouvel iPad Pro et de la fonctionnalité de pointage supérieure d’Apple Pencil.";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset:" = "Entrez un nouveau nom pour ce paramètre prédéfini :";
+"Enter a new name for this document." = "Saisissez un nouveau nom pour ce document.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this preset:" = "Entrez un nouveau nom pour ce préréglage :";
+
+/* The name of an image file format. */
+"EPS" = "EPS";
 
 /* Tool */
 "Erase" = "Effacer";
@@ -817,6 +886,9 @@
 /* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Fonctionnalité non activée pour cette démo";
 
+/* No comment provided by engineer. */
+"Files" = "Fichiers";
+
 /* Effects category name */
 "Fill" = "Remplir";
 
@@ -848,13 +920,13 @@
 "Flip" = "Retourner";
 
 /* No comment provided by engineer. */
-"Flip Horizontal" = "Retournement horizontal";
+"Flip Horizontal" = "Retourner horizontalement";
 
 /* No comment provided by engineer. */
 "Flip Horizontally" = "Retourner horizontalement";
 
 /* No comment provided by engineer. */
-"Flip Vertical" = "Retournement vertical";
+"Flip Vertical" = "Retourner verticalement";
 
 /* No comment provided by engineer. */
 "Flip Vertically" = "Retourner verticalement";
@@ -886,6 +958,9 @@
 /* No comment provided by engineer. */
 "Fullscreen" = "Plein écran";
 
+/* stroke options */
+"Gap" = "Espace";
+
 /* Effects category name */
 "Generator" = "Générateur";
 
@@ -897,6 +972,9 @@
 
 /* No comment provided by engineer. */
 "Get the app" = "Télécharger l'appli";
+
+/* The name of an image file format. */
+"GIF" = "GIF";
 
 /* No comment provided by engineer. */
 "Glazed" = "Vitré";
@@ -968,6 +1046,9 @@
 /* No comment provided by engineer. */
 "Hard Mix" = "Mélange maximal";
 
+/* The name of an image file format. */
+"HEIC" = "HEIC";
+
 /* No comment provided by engineer. */
 "Height:" = "Hauteur :";
 
@@ -993,7 +1074,7 @@
 "Hue" = "Teinte";
 
 /* No comment provided by engineer. */
-"Hue & Saturation" = "Nuance & saturation";
+"Hue & Saturation" = "Teinte et saturation";
 
 /* No comment provided by engineer. */
 "Hue Scatter" = "Dispersion de la teinte";
@@ -1003,6 +1084,12 @@
 
 /* No comment provided by engineer. */
 "iCloud keeps your images up to date on all your devices" = "iCloud garde vos images à jour sur tous vos appareils";
+
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator" = "Illustrator";
+
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator Document" = "Document Illustrator";
 
 /* Default document name
    Untitled document name received via Handoff */
@@ -1046,7 +1133,7 @@
 "Increase the strength of colors" = "Augmenter la force des couleurs";
 
 /* No comment provided by engineer. */
-"Indent Radius" = "Diminuer rayon";
+"Indent Radius" = "Réduire le rayon";
 
 /* No comment provided by engineer. */
 "Initial Direction" = "Sens initial";
@@ -1066,6 +1153,9 @@
 /* No comment provided by engineer. */
 "Intensity" = "Intensité";
 
+/* No comment provided by engineer. */
+"Introducing New Browser" = "Découvrez le nouvel explorateur";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "Inverser";
 
@@ -1077,6 +1167,12 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Ivory" = "Ivoire";
+
+/* The name of an image file format. */
+"JPEG" = "JPEG";
+
+/* The name of an image file format. */
+"JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
 "Kaleidoscope" = "Kaléidoscope";
@@ -1215,7 +1311,13 @@
 "Luminance Noise Reduction" = "Réduction du bruit de luminance";
 
 /* No comment provided by engineer. */
+"Luminance Range" = "Plage de luminance";
+
+/* No comment provided by engineer. */
 "Luminosity" = "Luminosité";
+
+/* No comment provided by engineer. */
+"LUT" = "LUT";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "Lyre";
@@ -1245,7 +1347,7 @@
 "Master Color Wheel" = "Roue chromatique principale";
 
 /* No comment provided by engineer. */
-"Match Colors" = "Correspondance des couleurs";
+"Match Colors" = "Adapter les couleurs";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Matte" = "Motif";
@@ -1278,10 +1380,10 @@
 "Minimum" = "Minimum";
 
 /* No comment provided by engineer. */
-"ML Crop" = "Rognage ML";
+"ML Crop" = "Recadrer par ML";
 
 /* No comment provided by engineer. */
-"ML Super Resolution…" = "Super résolution avec ML…";
+"ML Super Resolution…" = "Super résolution par ML…";
 
 /* Units */
 "mm" = "mm";
@@ -1298,6 +1400,9 @@
 /* Edit Menu */
 "More…" = "Plus…";
 
+/* The name of a file format – specifically, a project file used by Apple's motion graphics app Motion. */
+"Motion Project" = "Projet Motion";
+
 /* No comment provided by engineer. */
 "Move" = "Déplacement";
 
@@ -1306,6 +1411,12 @@
 
 /* No comment provided by engineer. */
 "MOVE TO BACK/FRONT" = "DÉPLACER VERS L’ARRIÈRE/L’AVANT";
+
+/* No comment provided by engineer. */
+"Movie" = "Film";
+
+/* The name of a video file format. */
+"MP4" = "MP4";
 
 /* No comment provided by engineer. */
 "Multiply" = "Multiplier";
@@ -1318,6 +1429,12 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "Nébuleuse";
+
+/* No comment provided by engineer. */
+"New Document" = "Nouveau document";
+
+/* No comment provided by engineer. */
+"New from Photos" = "Nouveau dans les photos";
 
 /* No comment provided by engineer. */
 "New Layer" = "Nouveau calque";
@@ -1342,6 +1459,12 @@
 
 /* No comment provided by engineer. */
 "No Photos Access" = "Aucun accès aux Photos";
+
+/* No comment provided by engineer. */
+"No photos to display. Choose photos by tapping Select." = "Aucune photo à afficher. Choisissez des photos en appuyant sur Sélectionner.";
+
+/* No comment provided by engineer. */
+"No Recents" = "Aucun élément récent";
 
 /* No comment provided by engineer. */
 "No Subject Detected" = "Aucun objet détecté";
@@ -1443,10 +1566,19 @@
 "Path" = "Tracé";
 
 /* No comment provided by engineer. */
+"Pattern Angle" = "Angle du motif";
+
+/* No comment provided by engineer. */
 "Pattern Fill" = "Remplissage du motif";
+
+/* No comment provided by engineer. */
+"Pattern Scale" = "Échelle du motif";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Pavo" = "Paon";
+
+/* The name of an image file format. */
+"PDF" = "PDF";
 
 /* Tool */
 "Pen" = "Stylo";
@@ -1460,8 +1592,32 @@
 /* Tool */
 "Perspective Transform" = "Transformation de la perspective";
 
+/* No comment provided by engineer. */
+"Photomator" = "Photomator";
+
+/* No comment provided by engineer. */
+"Photomator Document" = "Document Photomator";
+
+/* The name of file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits" = "Modifications Photomator";
+
+/* The name of a file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits Document" = "Document des modifications Photomator";
+
 /* Native iOS Photos app name */
 "Photos" = "Photos";
+
+/* Refers to the Adobe Photoshop layered image file format. */
+"Photoshop" = "Photoshop";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop (Large)" = "Photoshop (Large)";
+
+/* Refers to the Adobe Photoshop layered image file format. */
+"Photoshop Document" = "Document Photoshop";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop Large Document" = "Document Photoshop Large";
 
 /* No comment provided by engineer. */
 "Pick Gray Point" = "Choisir le point gris";
@@ -1479,10 +1635,19 @@
 "Pixel Tool" = "Outil pixel";
 
 /* No comment provided by engineer. */
+"Pixelmator" = "Pixelmator";
+
+/* No comment provided by engineer. */
 "Pixelmator 2.8 is now fully compatible with iOS 16." = "Pixelmator 2.8 est désormais entièrement compatible avec iOS 16.";
 
 /* No comment provided by engineer. */
 "Pixelmator 2.8 is now fully compatible with iPadOS 16." = "Pixelmator 2.8 est désormais entièrement compatible avec iPadOS 16.";
+
+/* No comment provided by engineer. */
+"Pixelmator Classic" = "Pixelmator Classic";
+
+/* No comment provided by engineer. */
+"Pixelmator Classic Document" = "Document Pixelmator Classic";
 
 /* No comment provided by engineer. */
 "Pixelmator has been denied access to Photos. Please allow access in Settings." = "Pixelmator s’est vu refuser l’accès aux photos. Veuillez autoriser l’accès dans les paramètres.";
@@ -1499,11 +1664,26 @@
 /* No comment provided by engineer. */
 "Pixelmator Photo lets you save nondestructive edits directly to your Photos library." = "Pixelmator Photo vous permet d'enregistrer vos modifications non destructrices directement dans votre bibliothèque Photos.";
 
+/* No comment provided by engineer. */
+"Pixelmator Pro" = "Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Document" = "Document Pixelmator Pro";
+
+/* The name of a file format containing nondestructive edits created by the Pixelmator Pro app. */
+"Pixelmator Pro Sidecar Document" = "Document Pixelmator Pro Sidecar";
+
+/* No comment provided by engineer. */
+"Pixelmator Settings" = "Réglages de Pixelmator";
+
 /* Units */
 "Pixels" = "Pixels";
 
 /* No comment provided by engineer. */
 "Please try again later." = "Veuillez réessayer plus tard.";
+
+/* The name of an image file format. */
+"PNG" = "PNG";
 
 /* Units */
 "Points" = "Points";
@@ -1518,10 +1698,10 @@
 "Position" = "Position";
 
 /* No comment provided by engineer. */
-"Preserve transparency" = "Conserver les zones transparentes";
+"Poster" = "Affiche";
 
 /* No comment provided by engineer. */
-"Presets" = "Préréglages";
+"Preserve transparency" = "Conserver les zones transparentes";
 
 /* No comment provided by engineer. */
 "Preview" = "Aperçu";
@@ -1556,6 +1736,12 @@
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "Sélectionner rapidement les objets détaillés";
 
+/* The name of a video file format. */
+"QuickTime" = "QuickTime";
+
+/* The name of a video file format. */
+"QuickTime Movie" = "Vidéo QuickTime";
+
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
@@ -1572,7 +1758,7 @@
 /* No comment provided by engineer. */
 "Rasterize Layer" = "Tramer le calque";
 
-/* No comment provided by engineer. */
+/* The name of an image file format. */
 "RAW" = "RAW";
 
 /* No comment provided by engineer. */
@@ -1586,6 +1772,9 @@
 
 /* No comment provided by engineer. */
 "Recent" = "Récent";
+
+/* No comment provided by engineer. */
+"Recent Files & Photos" = "Photos et fichiers récents";
 
 /* No comment provided by engineer. */
 "Recents" = "Récents";
@@ -1651,6 +1840,12 @@
 "Remove Color" = "Supprimer couleur";
 
 /* No comment provided by engineer. */
+"Remove from Recents" = "Retirer des éléments récents";
+
+/* No comment provided by engineer. */
+"Remove from Recents or delete document." = "Retirez le document des éléments récents ou supprimez-le.";
+
+/* No comment provided by engineer. */
 "Remove Mask" = "Supprimer masque";
 
 /* No comment provided by engineer. */
@@ -1659,8 +1854,14 @@
 /* No comment provided by engineer. */
 "Remove unwanted elements" = "Supprimer les éléments non désirés";
 
+/* No comment provided by engineer. */
+"Remove…" = "Supprimer…";
+
 /* Edit Menu */
 "Rename" = "Renommer";
+
+/* No comment provided by engineer. */
+"Rename Document" = "Renommer le document";
 
 /* Retouch Tools
    Tool */
@@ -1670,7 +1871,7 @@
 "Repair Selection" = "Réparer la sélection";
 
 /* No comment provided by engineer. */
-"Repair Tool" = "Outil de réparation";
+"Repair Tool" = "Outil Réparer";
 
 /* No comment provided by engineer. */
 "Repairing…" = "Réparation…";
@@ -1679,7 +1880,7 @@
 "Repairing… %@" = "Réparation en cours… %@";
 
 /* No comment provided by engineer. */
-"Replace Color" = "Remp. Couleur";
+"Replace Color" = "Remplacer les couleurs";
 
 /* No comment provided by engineer. */
 "Replace Image" = "Remplacer image";
@@ -1700,7 +1901,7 @@
 "Reset Changes" = "Réinitialiser les modifications";
 
 /* No comment provided by engineer. */
-"Reset Crop" = "Réinitialiser le rognage";
+"Reset Crop" = "Réinitialiser le recadrage";
 
 /* No comment provided by engineer. */
 "Reset Enhance" = "Réinitialiser l’amélior.";
@@ -1712,7 +1913,7 @@
 "Reset Match Colors" = "Réinitialiser corresp. des couleurs";
 
 /* No comment provided by engineer. */
-"Reset ML Crop" = "Réinitialiser le rognage ML";
+"Reset ML Crop" = "Réinitialiser le recadrage par ML";
 
 /* Perspective transform */
 "Reset Perspective" = "Réinitialiser la perspective";
@@ -1737,6 +1938,9 @@
 
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Retro" = "Rétro";
+
+/* No comment provided by engineer. */
+"Reveal in Files" = "Révéler dans les fichiers";
 
 /* No comment provided by engineer. */
 "Revert" = "Revenir";
@@ -1766,10 +1970,10 @@
 "Rotate 180°" = "Rotation à 180°";
 
 /* No comment provided by engineer. */
-"Rotate Left" = "Rotation à gauche";
+"Rotate Left" = "Faire pivoter vers la gauche";
 
 /* No comment provided by engineer. */
-"Rotate Right" = "Rotation à droite";
+"Rotate Right" = "Faire pivoter vers la droite";
 
 /* No comment provided by engineer. */
 "Rotate Selection" = "Rotation de la sélection";
@@ -1806,7 +2010,7 @@
 "Save to Photos" = "Enregistrer dans les Photos";
 
 /* No comment provided by engineer. */
-"Scale" = "Echelle";
+"Scale" = "Échelle";
 
 /* No comment provided by engineer. */
 "Scale Horizontally by Tilt" = "Redim. horizontalement par inclinaison";
@@ -1851,6 +2055,9 @@
 "Select More Photos..." = "Sélectionner plus de photos...";
 
 /* No comment provided by engineer. */
+"Select More Photos…" = "Sélectionner plus de photos…";
+
+/* No comment provided by engineer. */
 "Select Next Layer" = "Sélectionner le calque suivant";
 
 /* No comment provided by engineer. */
@@ -1890,7 +2097,13 @@
 "SELECTION MODE" = "MODE DE SÉLECTION";
 
 /* No comment provided by engineer. */
+"Selective Clarity" = "Clarté sélective";
+
+/* No comment provided by engineer. */
 "Selective Color" = "Couleur sélective";
+
+/* No comment provided by engineer. */
+"Select…" = "Sélectionner…";
 
 /* No comment provided by engineer. */
 "Send Backward" = "Reculer d’un plan";
@@ -2065,6 +2278,9 @@
 "Square" = "Carré";
 
 /* No comment provided by engineer. */
+"Square Post" = "Publication carrée";
+
+/* No comment provided by engineer. */
 "Squeeze area of an image" = "Resserrer une zone d’une image";
 
 /* Tool */
@@ -2072,6 +2288,9 @@
 
 /* No comment provided by engineer. */
 "Start Point" = "Point de départ";
+
+/* No comment provided by engineer. */
+"Story" = "Histoire";
 
 /* Tool */
 "Straighten" = "Redresser";
@@ -2089,6 +2308,9 @@
 "Stroke Color" = "Couleur de trait";
 
 /* No comment provided by engineer. */
+"Stroke End" = "Fin du trait";
+
+/* No comment provided by engineer. */
 "Stroke Gradient" = "Trait dégradé";
 
 /* No comment provided by engineer. */
@@ -2099,6 +2321,9 @@
 
 /* No comment provided by engineer. */
 "Stroke Position" = "Position du coup de pinceau";
+
+/* No comment provided by engineer. */
+"Stroke Start" = "Début du trait";
 
 /* No comment provided by engineer. */
 "Stroke Type" = "Type de coup de pinceau";
@@ -2129,6 +2354,9 @@
 
 /* No comment provided by engineer. */
 "Support for iPadOS 16" = "Prise en charge d'iPadOS 16";
+
+/* The name of an image file format. */
+"SVG" = "SVG";
 
 /* No comment provided by engineer. */
 "Tail End Dynamics" = "Dynamique du bout de la traîne";
@@ -2299,6 +2527,9 @@
 /* No comment provided by engineer. */
 "This version of the file format is not supported." = "Cette version du format de fichier n’est pas prise en charge.";
 
+/* The name of an image file format. */
+"TIFF" = "TIFF";
+
 /* Effects category name */
 "Tile" = "Carreau";
 
@@ -2315,7 +2546,7 @@
 "Tilt-Shift" = "Inclinaison-décalage";
 
 /* No comment provided by engineer. */
-"Tint" = "Nuance";
+"Tint" = "Teinte";
 
 /* No comment provided by engineer. */
 "Tips" = "Conseils";
@@ -2432,6 +2663,9 @@
 "Untitled" = "Sans titre";
 
 /* No comment provided by engineer. */
+"Untitled Album" = "Album sans titre";
+
+/* No comment provided by engineer. */
 "Untitled layer" = "Calque sans nom";
 
 /* No comment provided by engineer. */
@@ -2440,8 +2674,17 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "Urbain";
 
+/* The name of a 3D file format. */
+"USD" = "USD";
+
+/* The name of a 3D file format. */
+"USDZ" = "USDZ";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "Véga";
+
+/* No comment provided by engineer. */
+"Version %@" = "Version %@";
 
 /* Perspective transform */
 "Vertical Perspective" = "Perspective verticale";
@@ -2453,13 +2696,19 @@
 "Vibrant" = "Éclatant";
 
 /* No comment provided by engineer. */
+"Video" = "Vidéo";
+
+/* No comment provided by engineer. */
+"Video Layer" = "Calque vidéo";
+
+/* No comment provided by engineer. */
 "View My Images" = "Voir mes images";
 
 /* No comment provided by engineer. */
-"Vignette" = "Vignette";
+"Vignette" = "Vignetage";
 
 /* No comment provided by engineer. */
-"Vignette Softness" = "Douceur de la vignette";
+"Vignette Softness" = "Douceur du vignetage";
 
 /* No comment provided by engineer. */
 "Vintage" = "Vintage";
@@ -2485,6 +2734,12 @@
 /* Tool */
 "Watercolor" = "Aquarelle";
 
+/* The name of an image file format. */
+"WebP" = "WebP";
+
+/* No comment provided by engineer. */
+"Welcome to Pixelmator" = "Bienvenue sur Pixelmator";
+
 /* No comment provided by engineer. */
 "Wetness" = "Humidité";
 
@@ -2508,6 +2763,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "Largeur :";
+
+/* No comment provided by engineer. */
+"With the new Recent Files & Photos browser, you can access all your recent documents, photos, and templates in one place." = "Grâce au nouvel explorateur de photos et fichiers récents, vous avez accès à l'ensemble des documents, photos et modèles au même endroit.";
 
 /* No comment provided by engineer. */
 "Workflow %i" = "Workflow %i";

@@ -198,6 +198,9 @@
 "Arrow from Point" = "从点发出的箭头";
 
 /* No comment provided by engineer. */
+"As a long-time user of Photomator, you can get an exclusive 50% discount off the first year of an annual Photomator subscription and unlock full access to Photomator for Mac." = "As a long-time user of Photomator, you can get an exclusive 50% discount off the first year of an annual Photomator subscription and unlock full access to Photomator for Mac.";
+
+/* No comment provided by engineer. */
 "Aspect" = "宽高";
 
 /* No comment provided by engineer. */
@@ -225,13 +228,7 @@
 "Automatically enhance photos" = "自动增强照片";
 
 /* No comment provided by engineer. */
-"Automatically improve the lighting and colors of a photo using AI by simply tapping [WAND]." = "轻按 [WAND] 即可通过 AI 自动优化照片的光线和颜色。";
-
-/* No comment provided by engineer. */
-"Automatically select the sky in any photo with just a tap." = "一键自动选择任意图像中的天空。";
-
-/* No comment provided by engineer. */
-"Automatically select the subject in any photo using AI." = "用AI自动选择任意图像中的对象。";
+"Automatically improve the lighting and colors of a photo using AI by simply tapping %@." = "轻按 %@ 即可通过 AI 自动优化照片的光线和颜色。";
 
 /* No comment provided by engineer. */
 "Background" = "背景";
@@ -428,9 +425,6 @@
 "Color Fill" = "颜色填充";
 
 /* No comment provided by engineer. */
-"Color Mask" = "颜色遮罩";
-
-/* No comment provided by engineer. */
 "Color Monochrome" = "彩色单色化";
 
 /* No comment provided by engineer. */
@@ -571,7 +565,7 @@
 "Debanding…" = "解绑中...";
 
 /* No comment provided by engineer. */
-"Decontaminating colors…" = "Decontaminating colors…";
+"Decontaminating colors…" = "正在净化颜色…";
 
 /* No comment provided by engineer. */
 "Default" = "默认";
@@ -641,16 +635,16 @@
 "Details" = "详情";
 
 /* No comment provided by engineer. */
-"Detecting sky…" = "Detecting sky…";
+"Detecting sky…" = "检测天空…";
 
 /* No comment provided by engineer. */
-"Detecting Sky…" = "Detecting Sky…";
+"Detecting Sky…" = "检测天空…";
 
 /* No comment provided by engineer. */
-"Detecting subject…" = "Detecting subject…";
+"Detecting subject…" = "正在检测主体…";
 
 /* No comment provided by engineer. */
-"Detecting Subject…" = "Detecting Subject…";
+"Detecting Subject…" = "正在检测主体…";
 
 /* No comment provided by engineer. */
 "Difference" = "差值";
@@ -803,7 +797,7 @@
 "Edit JPEG" = "编辑 JPEG";
 
 /* No comment provided by engineer. */
-"Edit Originals" = "编辑原件";
+"Edit Originals" = "编辑原始文件";
 
 /* No comment provided by engineer. */
 "Edit RAW" = "编辑 RAW";
@@ -1126,7 +1120,7 @@
 "Hide Layer" = "隐藏图层";
 
 /* Color Balance */
-"Highlights" = "亮部";
+"Highlights" = "高亮";
 
 /* No comment provided by engineer. */
 "Histogram" = "直方图";
@@ -1238,9 +1232,6 @@
 "Instantly adjust the colors of images using color presets created in other apps." = "使用在其他应用中创建的颜色预设即时调整图片的颜色。";
 
 /* No comment provided by engineer. */
-"Instantly select the background in any photo with just a tap." = "一键立即选中任意图片中的背景。";
-
-/* No comment provided by engineer. */
 "Intensity" = "强度";
 
 /* No comment provided by engineer. */
@@ -1249,8 +1240,8 @@
 /* No comment provided by engineer. */
 "Intersect" = "相交";
 
-/* No comment provided by engineer. */
-"Introducing Photomator" = "介绍 Photomator";
+/* %@ stands for non-breaking space */
+"Introducing Photomator%@for%@Mac" = "Introducing Photomator%1$@for%2$@Mac";
 
 /* No comment provided by engineer. */
 "Invert" = "反转";
@@ -1411,7 +1402,7 @@
 "Magically increase resolution" = "神奇地提升画质";
 
 /* No comment provided by engineer. */
-"Magically remove anything from small blemishes to entire objects from photos. Tap [REPAIR], then paint over an object to remove it." = "从照片中神奇地去除从小瑕疵到整个物体的任何东西。 轻按 [REPAIR]，然后在对象上绘画以将其移除。";
+"Magically remove anything from small blemishes to entire objects from photos. Tap %@, then paint over an object to remove it." = "从照片中神奇地去除从小瑕疵到整个物体的任何东西。 轻按 %@，然后在对象上绘画以将其移除。";
 
 /* Tool */
 "Magnetic" = "磁性";
@@ -1546,7 +1537,7 @@
 "Next Preset" = "下一个预设";
 
 /* No comment provided by engineer. */
-"No Background Detected" = "No Background Detected";
+"No Background Detected" = "没有检测到背景";
 
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "无相机信息";
@@ -1567,10 +1558,10 @@
 "No Photos Access" = "无照片访问权";
 
 /* No comment provided by engineer. */
-"No Sky Detected" = "No Sky Detected";
+"No Sky Detected" = "没有检测到天空";
 
 /* No comment provided by engineer. */
-"No Subject Detected" = "No Subject Detected";
+"No Subject Detected" = "未检测到主体";
 
 /* No comment provided by engineer. */
 "No Subscription Found" = "未找到订阅";
@@ -1590,11 +1581,17 @@
 /* No comment provided by engineer. */
 "Normal" = "正常";
 
+/* %@ stands for non-breaking space */
+"Now you can download Photomator%@for%@Mac from the Mac App Store and enjoy full access to all its features." = "Now you can download Photomator%1$@for%2$@Mac from the Mac App Store and enjoy full access to all its features.";
+
 /* No comment provided by engineer. */
 "OK" = "确认";
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "图像上的曲线";
+
+/* No comment provided by engineer. */
+"One license for Mac, iPad, and iPhone." = "One license for Mac, iPad, and iPhone.";
 
 /* No comment provided by engineer. */
 "One or more LUTs may be damaged or not supported." = "一个或多个 LUT 已损坏或不支持。";
@@ -1627,7 +1624,7 @@
 "Oriented" = "追随方向";
 
 /* No comment provided by engineer. */
-"Original" = "原件";
+"Original" = "原始";
 
 /* No comment provided by engineer. */
 "ORIGINAL PERSPECTIVE" = "原始视角";
@@ -1690,7 +1687,7 @@
 "Percents" = "百分比";
 
 /* No comment provided by engineer. */
-"Perspective" = "视角";
+"Perspective" = "视图";
 
 /* Tool */
 "Perspective Transform" = "透视变换";
@@ -1700,6 +1697,9 @@
 
 /* No comment provided by engineer. */
 "Photomator Album" = "Photomator 相册";
+
+/* No comment provided by engineer. */
+"Photomator brings all your favorite photo editing tools for enhancing, retouching, and managing photos to Mac." = "Photomator brings all your favorite photo editing tools for enhancing, retouching, and managing photos to Mac.";
 
 /* No comment provided by engineer. */
 "Photomator Document" = "Photomator 文稿";
@@ -1718,6 +1718,9 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomator 帮助";
+
+/* %@ stands for non-breaking space */
+"Photomator%@for%@Mac Out Now" = "Photomator%1$@for%2$@Mac Out Now";
 
 /* Native iOS Photos app name */
 "Photos" = "照片";
@@ -1769,9 +1772,6 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photo让您能够在照片库中或在 iPad 上编辑图像，使用任一工作流程自动保存非破坏性更改。要在浏览照片库或 iPad 上的图像文件之间切换，请点按工具栏中的“照片”或“文件”。";
-
-/* No comment provided by engineer. */
-"Pixelmator Photo now has a simpler name – say hello to Photomator." = "Pixelmator Photo 现在有了一个更简单的名字—你好呀Photomator。";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
@@ -1869,9 +1869,6 @@
 /* No comment provided by engineer. */
 "Quickly change the look and feel of photo using color adjustment presets." = "通过颜色调整预设快速更改照片的外观和感觉。";
 
-/* No comment provided by engineer. */
-"Quickly make precise selections in photos using AI, use linear and radial masks, or simply paint over the areas you want to adjust with a brush." = "用 AI 快速在照片中精确选择，使用线性和径向遮罩，或直接用画笔涂抹你想调整的区域。";
-
 /* The name of a video file format. */
 "QuickTime" = "QuickTime";
 
@@ -1931,6 +1928,9 @@
 /* No comment provided by engineer. */
 "Redeem offer" = "兑换优惠";
 
+/* No comment provided by engineer. */
+"Redeem Offer" = "Redeem Offer";
+
 /* Edit Menu */
 "Redefine" = "重新定义";
 
@@ -1947,10 +1947,10 @@
 "Refine" = "调整";
 
 /* No comment provided by engineer. */
-"Refining Edges…" = "Refining Edges…";
+"Refining Edges…" = "正在调整边缘…";
 
 /* No comment provided by engineer. */
-"Refining edges…" = "Refining edges…";
+"Refining edges…" = "正在调整边缘…";
 
 /* No comment provided by engineer. */
 "Reloading…" = "正在重新加载…";
@@ -1962,10 +1962,10 @@
 "Remove" = "移除";
 
 /* No comment provided by engineer. */
-"Remove an existing layer to add a new one." = "Remove an existing layer to add a new one.";
+"Remove an existing layer to add a new one." = "移除一个现有图层并添加一个新图层。";
 
 /* No comment provided by engineer. */
-"Remove Background" = "Remove Background";
+"Remove Background" = "移除背景";
 
 /* No comment provided by engineer. */
 "Remove Color" = "移除颜色";
@@ -2005,7 +2005,7 @@
 "Replace Color" = "替换颜色";
 
 /* No comment provided by engineer. */
-"Replace Media" = "Replace Media";
+"Replace Media" = "替换媒体";
 
 /* Edit Menu */
 "Reset" = "重置";
@@ -2222,7 +2222,7 @@
 "Select Background" = "选择背景";
 
 /* No comment provided by engineer. */
-"Select background" = "Select background";
+"Select background" = "选择背景";
 
 /* Tool */
 "Select Column" = "选择列";
@@ -2258,10 +2258,7 @@
 "Selected layer is locked, unlock it to edit." = "选定的图层被锁定，解锁图层才可编辑。";
 
 /* No comment provided by engineer. */
-"Selective Adjustments" = "选择性调整";
-
-/* No comment provided by engineer. */
-"Selective Clarity" = "选择性的清晰度";
+"Selective Clarity" = "选择性清晰度";
 
 /* No comment provided by engineer. */
 "Selective Color" = "选择性颜色";
@@ -2359,7 +2356,7 @@
 "Show me around" = "带我看看";
 
 /* No comment provided by engineer. */
-"Show Original" = "显示原件";
+"Show Original" = "显示原始文件";
 
 /* No comment provided by engineer. */
 "Show Photos" = "显示照片";
@@ -2403,9 +2400,6 @@
 /* No comment provided by engineer. */
 "Smooth textures" = "平滑纹理";
 
-/* No comment provided by engineer. */
-"Smoothness" = "平滑度";
-
 /* Retouch Tools
    Tool */
 "Smudge" = "涂抹";
@@ -2421,7 +2415,7 @@
 "Soften" = "柔化";
 
 /* No comment provided by engineer. */
-"Softness" = "软度";
+"Softness" = "柔和度";
 
 /* No comment provided by engineer. */
 "Some of the selected images could not be processed." = "未能处理某些选定的图像。";
@@ -2446,6 +2440,9 @@
 
 /* No comment provided by engineer. */
 "Source Out" = "源在外部";
+
+/* No comment provided by engineer. */
+"Special Offer" = "Special Offer";
 
 /* No comment provided by engineer. */
 "Specular" = "反射";
@@ -2556,13 +2553,13 @@
 "Take Photo" = "照相";
 
 /* No comment provided by engineer. */
-"Tap [ADJUSTMENTS] to change the colors and lighting of photos in just about any way you can imagine." = "轻按 [ADJUSTMENTS] 以更改照片的颜色及光线，将其调整到您能想象出的任何形式。";
+"Tap %@ to change the colors and lighting of photos in just about any way you can imagine." = "轻按 %@ 以更改照片的颜色及光线，将其调整到您能想象出的任何形式。";
 
 /* No comment provided by engineer. */
-"Tap [MORE], then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "轻按 [MORE]，然后选择“Super Resolution”以提升照片的分辨率，去除不必要的模糊。";
+"Tap %@ to increase the resolution of photos with no unwanted blurring." = "Tap %@ to increase the resolution of photos with no unwanted blurring.";
 
 /* No comment provided by engineer. */
-"Tap [SUPER RESOLUTION] to increase the resolution of photos with no unwanted blurring." = "轻按 [SUPER RESOLUTION] 可提升照片的分辨率，去除不必要的模糊。";
+"Tap %@, then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "轻按 %@，然后选择“Super Resolution”以提升照片的分辨率，去除不必要的模糊。";
 
 /* No comment provided by engineer. */
 "Target Color" = "目标颜色";
@@ -2590,7 +2587,7 @@
 "The color adjustment presets were imported successfully." = "已成功导入颜色调整预设。";
 
 /* No comment provided by engineer. */
-"The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the [GEAR] icon and, in the Browser menu, select Photos." = "文件浏览器可让您浏览设备上所有的文件。切换至照片浏览器只需点击[GEAR]图标并在浏览目录中选择图片。";
+"The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "文件浏览器可让您浏览设备上所有的文件。切换至照片浏览器只需点击%@图标并在浏览目录中选择图片。";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "图像包含 %@ 个图层。必须降低图像尺寸才可以创建更多图层。";
@@ -2659,10 +2656,10 @@
 "This Photo was edited and not synced. Continue editing?" = "此照片已被编辑且尚未同步。继续编辑吗？";
 
 /* No comment provided by engineer. */
-"This photo was not imported from your Photos library or it isn’t possible to modify the original." = "此照片未从您的照片库导入，或者无法修改原件。";
+"This photo was not imported from your Photos library or it isn’t possible to modify the original." = "此照片未从您的照片库导入，或者无法修改原始文件。";
 
 /* No comment provided by engineer. */
-"This photo was not imported from your Photos library so there is no original to modify." = "此照片不是从您的照片库导入的，因此没有可修改的原件。";
+"This photo was not imported from your Photos library so there is no original to modify." = "此照片不是从您的照片库导入的，因此没有可修改的原始文件。";
 
 /* No comment provided by engineer. */
 "This preset collection will be permanently removed. This action cannot be undone." = "将永久移除预设集合。此操作不可撤销。";
@@ -2716,9 +2713,6 @@
 "To use this feature, you’ll need to purchase unlimited access to Photomator, but it looks like you’re offline. To purchase, you’ll need to go online." = "要使用此功能，你需要购买 Photomator 的无限制使用权，但您目前似乎处于离线状态。如要继续购买，请先连接到互联网。";
 
 /* No comment provided by engineer. */
-"Tolerance" = "公差";
-
-/* No comment provided by engineer. */
 "Tone" = "色调";
 
 /* No comment provided by engineer. */
@@ -2755,7 +2749,7 @@
 "Unable to Access Help" = "无法访问帮助";
 
 /* No comment provided by engineer. */
-"Unable to Add More Layers" = "Unable to Add More Layers";
+"Unable to Add More Layers" = "无法添加更多图层";
 
 /* No comment provided by engineer. */
 "Unable to apply LUT" = "无法应用 LUT";
@@ -2808,6 +2802,9 @@
 /* Layer Arrange */
 "Ungroup" = "取消成组";
 
+/* No comment provided by engineer. */
+"Unlimited Access" = "无限制使用";
+
 /* Edit Menu
    Layer */
 "Unlock" = "解锁";
@@ -2817,6 +2814,9 @@
 
 /* No comment provided by engineer. */
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "使用全新的扩展动态范围模式解锁新的 RAW 编辑工作流程。";
+
+/* %@ stands for non-breaking space */
+"Unlock Photomator%@for%@Mac" = "Unlock Photomator%1$@for%2$@Mac";
 
 /* No comment provided by engineer. */
 "Unnamed" = "未命名";
@@ -2879,7 +2879,7 @@
 "Vignette" = "晕影";
 
 /* No comment provided by engineer. */
-"Vignette Softness" = "晕影软度";
+"Vignette Softness" = "晕影柔和度";
 
 /* No comment provided by engineer. */
 "Visible" = "可见";
@@ -2930,10 +2930,10 @@
 "Width:" = "宽度:";
 
 /* No comment provided by engineer. */
-"With Export turned off, changes will be saved directly to your original images." = "导出功能关闭时，更改将直接保存在图像原件上。";
+"With Export turned off, changes will be saved directly to your original images." = "导出功能关闭时，更改将直接保存在原始图像上。";
 
 /* No comment provided by engineer. */
-"With Export turned off, changes will be saved directly to your original images. You’ll be able to revert them in Photos or the Pixelmator Photo browser." = "导出功能关闭时，更改将直接保存在图像原件上。您之后可以在“照片”或 Pixelmator Photo 浏览界面中复原这些更改效果。";
+"With Export turned off, changes will be saved directly to your original images. You’ll be able to revert them in Photos or the Pixelmator Photo browser." = "导出功能关闭时，更改将直接保存在原始图像上。您之后可以在“照片”或 Pixelmator Photo 浏览界面中复原这些更改效果。";
 
 /* No comment provided by engineer. */
 "Workflow" = "工作流程";
@@ -2960,6 +2960,9 @@
 "Yellow / Blue" = "黄色/蓝色";
 
 /* No comment provided by engineer. */
+"You can instantly download Photomator from the Mac App Store and enjoy full access to all its features." = "You can instantly download Photomator from the Mac App Store and enjoy full access to all its features.";
+
+/* No comment provided by engineer. */
 "You're Offline" = "您离线了";
 
 /* No comment provided by engineer. */
@@ -2967,6 +2970,9 @@
 
 /* No comment provided by engineer. */
 "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!" = "您的免费试用将于 2 天后到期。请尝试编辑一些照片，体验 Photomator 的功能！";
+
+/* No comment provided by engineer. */
+"Your purchase was successful!" = "Your purchase was successful!";
 
 /* No comment provided by engineer. */
 "You’re good to go" = "一切就绪";

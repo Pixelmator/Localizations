@@ -40,12 +40,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ 秒";
 
-/* No comment provided by engineer. */
-"%@/month" = "%@/月";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@/年";
-
 /* seconds */
 "%@s" = "%@s";
 
@@ -53,7 +47,7 @@
 "%d files already exists. Do you want to replace them?" = "%d 个文件已存在。您要替换它们吗？";
 
 /* No comment provided by engineer. */
-"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "%2$张图片里有%1$d张由于错误并未导出。如果此问题持续发生，请联系我们，我们将尽最大努力去解决。";
+"%d of %d photos were not exported due to an error." = "共%2$d张图片中的%1$d张由于错误未被导出。";
 
 /* No comment provided by engineer. */
 "%d Photo Selected" = "已选择%d张图片";
@@ -326,10 +320,7 @@
 "An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = " 发生错误，无法将更改保存到此图像的 sidecar 文件中。\n\n如果您想保留最新的图层和其他无损编辑，请将图像导出为 Pixelmator Pro 格式。";
 
 /* No comment provided by engineer. */
-"An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "试图将更改保存到“照片库”时出错。如果这种情况反复发生，请联系我们，我们会尽最大努力帮助您。";
-
-/* No comment provided by engineer. */
-"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "分享图片时发生错误。如果此问题持续发生，请联系我们，我们将尽最大努力去解决。";
+"An error occurred while preparing photos for sharing." = "准备分享图片时发生了错误。";
 
 /* No comment provided by engineer. */
 "An error occurred while saving the sidecar file for this asset." = "将sidecar文件保存至该asset时发生错误。";
@@ -590,7 +581,7 @@
 "Browse files on your Mac" = "在 Mac 上浏览图像";
 
 /* Appears in a button prompting users to take a quick tour of the app's features. */
-"Browse Tips" = "浏览建议";
+"Browse Tips" = "查看建议";
 
 /* No comment provided by engineer. */
 "Brush" = "画笔";
@@ -764,7 +755,7 @@
 "Clarity" = "清晰度";
 
 /* No comment provided by engineer. */
-"Clarity Highlights" = "使亮部清晰化";
+"Clarity Highlights" = "清晰化高亮";
 
 /* No comment provided by engineer. */
 "Clarity Midtones" = "使中间色调清晰化";
@@ -792,6 +783,9 @@
 
 /* No comment provided by engineer. */
 "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "点击“允许访问”以允许 Pixelmator Pro 访问\"%@\"文件夹中的文件。";
+
+/* No comment provided by engineer. */
+"Click save photo to save your edits, or choose Discard Changes to discard them." = "Click save photo to save your edits, or choose Discard Changes to discard them.";
 
 /* No comment provided by engineer. */
 "Click to choose a color." = "单击以选择一种颜色。";
@@ -953,13 +947,16 @@
 "Common Profiles" = "常用描述文件";
 
 /* No comment provided by engineer. */
+"Compare to Pixelmator Pro" = "与Pixelmator Pro比较";
+
+/* No comment provided by engineer. */
 "Concentration" = "浓度";
 
 /* No comment provided by engineer. */
 "Constant" = "常量";
 
 /* DocumentInspector */
-"Constrain" = "限制";
+"Constrain" = "图形";
 
 /* No comment provided by engineer. */
 "Constrain Proportions" = "约束比例";
@@ -1220,6 +1217,9 @@
 "Desaturate Settings" = "去色设置";
 
 /* No comment provided by engineer. */
+"Description" = "描述";
+
+/* No comment provided by engineer. */
 "Description Change" = "描述更改";
 
 /* No comment provided by engineer. */
@@ -1421,6 +1421,12 @@
 "Edit a Copy" = "编辑副本";
 
 /* No comment provided by engineer. */
+"Edit Details" = "编辑详情";
+
+/* No comment provided by engineer. */
+"Edit Details…" = "编辑详情…";
+
+/* No comment provided by engineer. */
 "Edit Gradient" = "编辑渐变";
 
 /* No comment provided by engineer. */
@@ -1446,9 +1452,6 @@
 
 /* No comment provided by engineer. */
 "Editing photo %d of %d…" = "正在编辑%2$d张图像中的%1$d张…";
-
-/* No comment provided by engineer. */
-"Editing Settings…" = "正在编辑设置……";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "EDR 模式";
@@ -1976,7 +1979,7 @@
 "High" = "高";
 
 /* No comment provided by engineer. */
-"Highlights" = "亮部";
+"Highlights" = "高亮";
 
 /* No comment provided by engineer. */
 "Histogram" = "直方图";
@@ -2045,7 +2048,7 @@
 "Import as New Document" = "导入为新文档";
 
 /* No comment provided by engineer. */
-"Import as\nPixelmator Pro" = "导入为\nPixelmator Pro";
+"Importing…" = "导入中…";
 
 /* No comment provided by engineer. */
 "Import…" = "导入…";
@@ -2103,9 +2106,6 @@
 
 /* Refers to two vector paths, one which has been intersected with another. */
 "Intersected" = "相交";
-
-/* No comment provided by engineer. */
-"Introducing Sidecar Files" = "介绍 Sidecar 文件";
 
 /* No comment provided by engineer. */
 "Invert" = "反转";
@@ -2175,9 +2175,6 @@
 
 /* No comment provided by engineer. */
 "Learn more" = "了解更多";
-
-/* No comment provided by engineer. */
-"Learn more about the update" = "了解更多有关更新的信息";
 
 /* No comment provided by engineer. */
 "Left Indent" = "左缩进";
@@ -2492,6 +2489,9 @@
 "My Shapes" = "我的形状";
 
 /* No comment provided by engineer. */
+"Name:" = "名称：";
+
+/* No comment provided by engineer. */
 "New Album" = "新建相簿";
 
 /* No comment provided by engineer. */
@@ -2528,7 +2528,7 @@
 "New Line Shape" = "新建线条形状";
 
 /* No comment provided by engineer. */
-"New name for adjustment preset:" = "New name for adjustment preset:";
+"New name for adjustment preset:" = "调整预置的新名称：";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "颜色调整集合的新名称:";
@@ -2684,9 +2684,6 @@
 "Open Original Image" = "打开原始图像";
 
 /* No comment provided by engineer. */
-"Open Original with Sidecar" = "使用 Sidecar 打开原始文件";
-
-/* No comment provided by engineer. */
 "Open Sidecar" = "打开 Sidecar";
 
 /* No comment provided by engineer. */
@@ -2705,7 +2702,7 @@
 "Oriented" = "追随方向";
 
 /* No comment provided by engineer. */
-"Original" = "原件";
+"Original" = "原始";
 
 /* No comment provided by engineer. */
 "Original Size" = "原始大小";
@@ -2807,7 +2804,7 @@
 "Person Mask" = "人物蒙版";
 
 /* No comment provided by engineer. */
-"Perspective" = "视角";
+"Perspective" = "视图";
 
 /* No comment provided by engineer. */
 "Perspective Transform" = "透视变换";
@@ -2823,6 +2820,9 @@
 
 /* The name of a file format containing nondestructive edits created by the Photomator app. */
 "Photomator Edits Document" = "Photomator 编辑文档";
+
+/* No comment provided by engineer. */
+"Photomator Tips" = "Photomator指南";
 
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "照片";
@@ -2979,6 +2979,9 @@
 
 /* No comment provided by engineer. */
 "Print" = "打印";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "隐私政策";
 
 /* No comment provided by engineer. */
 "Profile Picture" = "个人资料头像";
@@ -3599,7 +3602,7 @@
 "Selection Rotate" = "选区旋转";
 
 /* No comment provided by engineer. */
-"Selective Clarity" = "选择性的清晰度";
+"Selective Clarity" = "选择性清晰度";
 
 /* No comment provided by engineer. */
 "Selective Color" = "选择性颜色";
@@ -3693,6 +3696,9 @@
 
 /* No comment provided by engineer. */
 "Sharpness" = "锐度";
+
+/* No comment provided by engineer. */
+"Short Name:" = "简称：";
 
 /* No comment provided by engineer. */
 "Show" = "显示";
@@ -3905,7 +3911,7 @@
 "Soften Settings" = "软化设置";
 
 /* No comment provided by engineer. */
-"Softness" = "软度";
+"Softness" = "柔和度";
 
 /* No comment provided by engineer. */
 "Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "%@ 需要的一些关键资源无法使用，可能是由于磁盘可用空间不足或操作系统错误引起的。";
@@ -4079,6 +4085,9 @@
 "Temperature" = "温度";
 
 /* No comment provided by engineer. */
+"Terms of Use" = "使用条款";
+
+/* No comment provided by engineer. */
 "Text" = "文本";
 
 /* No comment provided by engineer. */
@@ -4098,9 +4107,6 @@
 
 /* No comment provided by engineer. */
 "Textures" = "纹理";
-
-/* No comment provided by engineer. */
-"Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image." = "有了 sidecar 文件，您可以直接打开不支持图层的图像，如 JPEG 和 PNG，并将更改保存回相同的图像。图层和编辑将自动保存在原始图像链接的 Pixelmator Pro sidecar 文件中。";
 
 /* No comment provided by engineer. */
 "The document couldn’t be opened." = "未能打开文稿。";

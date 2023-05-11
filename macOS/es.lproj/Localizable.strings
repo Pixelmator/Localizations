@@ -40,12 +40,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ s";
 
-/* No comment provided by engineer. */
-"%@/month" = "%@/mes";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@/año";
-
 /* seconds */
 "%@s" = "%@s";
 
@@ -53,7 +47,7 @@
 "%d files already exists. Do you want to replace them?" = "%d archivos ya existen. ¿Quieres reemplazarlos?";
 
 /* No comment provided by engineer. */
-"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "%1$d de %2$d no se han exportado debido a un error. Si esto ocurre en más ocasiones, ponte en contacto con nosotros y haremos lo posible para ayudarte.";
+"%d of %d photos were not exported due to an error." = "%1$d de %2$d no se han exportado debido a un error.";
 
 /* No comment provided by engineer. */
 "%d Photo Selected" = "%d foto seleccionada";
@@ -326,10 +320,7 @@
 "An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "Se ha producido un error y no se han podido guardar tus cambios en el archivo Sidecar de esta imagen.\n\nSi quieres conservar las últimas capas, así como otras ediciones no destructivas, exporta la imagen en formato Pixelmator Pro.";
 
 /* No comment provided by engineer. */
-"An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "Se ha producido un error al intentar guardar tus cambios en la Fototeca. Si esto ocurre repetidamente, ponte en contacto con nosotros y haremos todo lo posible para ayudarte.";
-
-/* No comment provided by engineer. */
-"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "Se ha producido un error al preparar las fotos para compartir. Si esto ocurre en más ocasiones, ponte en contacto con nosotros y haremos lo posible para ayudarte.";
+"An error occurred while preparing photos for sharing." = "Se ha producido un error al preparar las fotos para compartir.";
 
 /* No comment provided by engineer. */
 "An error occurred while saving the sidecar file for this asset." = "Se ha producido un error al guardar el archivo sidecar de este elemento.";
@@ -794,6 +785,9 @@
 "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "Haz clic en Permitir acceso para que Pixelmator Pro acceda a los archivos de la carpeta \"%@\".";
 
 /* No comment provided by engineer. */
+"Click save photo to save your edits, or choose Discard Changes to discard them." = "Click save photo to save your edits, or choose Discard Changes to discard them.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "Haz clic para seleccionar un color.";
 
 /* No comment provided by engineer. */
@@ -929,7 +923,7 @@
 "Color Profiles" = "Perfiles de color";
 
 /* No comment provided by engineer. */
-"Color Range" = "Rango de colores";
+"Color Range" = "Intervalo de colores";
 
 /* No comment provided by engineer. */
 "Color Range Color" = "Color de intervalo de color";
@@ -953,13 +947,16 @@
 "Common Profiles" = "Perfiles comunes";
 
 /* No comment provided by engineer. */
+"Compare to Pixelmator Pro" = "Comparar con Pixelmator Pro";
+
+/* No comment provided by engineer. */
 "Concentration" = "Concentración";
 
 /* No comment provided by engineer. */
 "Constant" = "Constante";
 
 /* DocumentInspector */
-"Constrain" = "Limitar";
+"Constrain" = "Proporciones";
 
 /* No comment provided by engineer. */
 "Constrain Proportions" = "Limitar proporciones";
@@ -1220,6 +1217,9 @@
 "Desaturate Settings" = "Ajustes de desaturación";
 
 /* No comment provided by engineer. */
+"Description" = "Descripción";
+
+/* No comment provided by engineer. */
 "Description Change" = "Cambio de descripción";
 
 /* No comment provided by engineer. */
@@ -1349,7 +1349,7 @@
 "Don't Save" = "No guardar";
 
 /* No comment provided by engineer. */
-"Done" = "Hecho";
+"Done" = "OK";
 
 /* No comment provided by engineer. */
 "Don’t Allow" = "No permitir";
@@ -1421,6 +1421,12 @@
 "Edit a Copy" = "Editar una copia";
 
 /* No comment provided by engineer. */
+"Edit Details" = "Editar detalles";
+
+/* No comment provided by engineer. */
+"Edit Details…" = "Editar detalles...";
+
+/* No comment provided by engineer. */
 "Edit Gradient" = "Editar degradado";
 
 /* No comment provided by engineer. */
@@ -1446,9 +1452,6 @@
 
 /* No comment provided by engineer. */
 "Editing photo %d of %d…" = "Editando foto %1$d de %2$d…";
-
-/* No comment provided by engineer. */
-"Editing Settings…" = "Editando ajustes…";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "Modo EDR";
@@ -1661,7 +1664,7 @@
 "FaceTime" = "FaceTime";
 
 /* No comment provided by engineer. */
-"Fade" = "Difuminar";
+"Fade" = "Transición";
 
 /* No comment provided by engineer. */
 "Failed parsing layers data." = "Error al analizar los datos de las capas.";
@@ -2045,7 +2048,7 @@
 "Import as New Document" = "Importar como nuevo documento";
 
 /* No comment provided by engineer. */
-"Import as\nPixelmator Pro" = "Importar como\nPixelmator Pro";
+"Importing…" = "Importando…";
 
 /* No comment provided by engineer. */
 "Import…" = "Importar…";
@@ -2103,9 +2106,6 @@
 
 /* Refers to two vector paths, one which has been intersected with another. */
 "Intersected" = "Interseccionadas";
-
-/* No comment provided by engineer. */
-"Introducing Sidecar Files" = "Presentación de los archivos Sidecar";
 
 /* No comment provided by engineer. */
 "Invert" = "Invertir";
@@ -2175,9 +2175,6 @@
 
 /* No comment provided by engineer. */
 "Learn more" = "Saber más";
-
-/* No comment provided by engineer. */
-"Learn more about the update" = "Más información sobre la actualización";
 
 /* No comment provided by engineer. */
 "Left Indent" = "Sangría izquierda";
@@ -2297,7 +2294,7 @@
 "Luminance Noise Reduction" = "Luminosidad con reducción de ruido";
 
 /* No comment provided by engineer. */
-"Luminance Range" = "Rango de luminancia";
+"Luminance Range" = "Intervalo de luminancia";
 
 /* No comment provided by engineer. */
 "Luminosity" = "Luminosidad";
@@ -2414,7 +2411,7 @@
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "Si modificas el documento, podrían perderse algunas partes del formato actual. ¿Deseas duplicar el documento primero?";
 
 /* No comment provided by engineer. */
-"More Workflows…" = "Más flujos de trabajo…";
+"More Workflows…" = "Más procesos de trabajo…";
 
 /* The name of a file format – specifically, a project file used by Apple's motion graphics app Motion. */
 "Motion Project" = "Proyecto de movimiento";
@@ -2492,6 +2489,9 @@
 "My Shapes" = "Mis formas";
 
 /* No comment provided by engineer. */
+"Name:" = "Nombre:";
+
+/* No comment provided by engineer. */
 "New Album" = "Nuevo álbum";
 
 /* No comment provided by engineer. */
@@ -2528,7 +2528,7 @@
 "New Line Shape" = "Nueva figura lineal";
 
 /* No comment provided by engineer. */
-"New name for adjustment preset:" = "New name for adjustment preset:";
+"New name for adjustment preset:" = "Nuevo nombre para el preajuste de ajuste:";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "Nuevo nombre para la colección de ajustes de color:";
@@ -2684,9 +2684,6 @@
 "Open Original Image" = "Abrir imagen original";
 
 /* No comment provided by engineer. */
-"Open Original with Sidecar" = "Abrir original con Sidecar";
-
-/* No comment provided by engineer. */
 "Open Sidecar" = "Abrir Sidecar";
 
 /* No comment provided by engineer. */
@@ -2823,6 +2820,9 @@
 
 /* The name of a file format containing nondestructive edits created by the Photomator app. */
 "Photomator Edits Document" = "Documento con ediciones de Photomator";
+
+/* No comment provided by engineer. */
+"Photomator Tips" = "Consejos de Photomator";
 
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "Fotos";
@@ -2981,6 +2981,9 @@
 "Print" = "Imprimir";
 
 /* No comment provided by engineer. */
+"Privacy Policy" = "Política de Privacidad";
+
+/* No comment provided by engineer. */
 "Profile Picture" = "Foto de perfil";
 
 /* No comment provided by engineer. */
@@ -3047,7 +3050,7 @@
 "Random" = "Aleatorio";
 
 /* No comment provided by engineer. */
-"Range" = "Rango";
+"Range" = "Intervalo";
 
 /* The name of an image file format. */
 "RAW" = "RAW";
@@ -3545,7 +3548,7 @@
 "Select Bottom Layer" = "Seleccionar capa inferior";
 
 /* No comment provided by engineer. */
-"Select Color Range" = "Seleccionar rango de color";
+"Select Color Range" = "Seleccionar intervalo de color";
 
 /* No comment provided by engineer. */
 "Select Column" = "Seleccionar columna";
@@ -3693,6 +3696,9 @@
 
 /* No comment provided by engineer. */
 "Sharpness" = "Nitidez";
+
+/* No comment provided by engineer. */
+"Short Name:" = "Nombre corto:";
 
 /* No comment provided by engineer. */
 "Show" = "Mostrar";
@@ -4043,10 +4049,10 @@
 "Suggested Names" = "Nombres sugeridos";
 
 /* No comment provided by engineer. */
-"Super Resolution" = "Súper resolución";
+"Super Resolution" = "Superresolución";
 
 /* No comment provided by engineer. */
-"Super Resolution Split Comparison" = "Comparación de la división de Superresolución";
+"Super Resolution Split Comparison" = "Comparación partida de Superresolución";
 
 /* The name of an image file format. */
 "SVG" = "SVG";
@@ -4079,6 +4085,9 @@
 "Temperature" = "Temperatura";
 
 /* No comment provided by engineer. */
+"Terms of Use" = "Condiciones de uso";
+
+/* No comment provided by engineer. */
 "Text" = "Texto";
 
 /* No comment provided by engineer. */
@@ -4098,9 +4107,6 @@
 
 /* No comment provided by engineer. */
 "Textures" = "Texturas";
-
-/* No comment provided by engineer. */
-"Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image." = "Gracias a los archivos Sidecar, puedes abrir imágenes que no admiten capas, como las que están en formato JPEG y PNG, y guardar los cambios en la propia imagen. Las capas y ediciones se conservarán automáticamente en un archivo Sidecar de Pixelmator Pro vinculado a la imagen original.";
 
 /* No comment provided by engineer. */
 "The document couldn’t be opened." = "No se ha podido abrir el documento.";
@@ -4427,7 +4433,7 @@
 "Window Background:" = "Fondo de la ventana:";
 
 /* No comment provided by engineer. */
-"Workflows" = "Flujos de trabajo";
+"Workflows" = "Procesos de trabajo";
 
 /* No comment provided by engineer. */
 "Workspace" = "Espacio de trabajo";

@@ -5,6 +5,9 @@
 "%.2f:%d" = "%1$.2f:%2$d";
 
 /* No comment provided by engineer. */
+"%@ Bytes" = "%@ байт";
+
+/* No comment provided by engineer. */
 "%@ Effect" = "Эффект %@";
 
 /* seconds */
@@ -82,6 +85,9 @@
 /* No comment provided by engineer. */
 "Add Shape" = "Добавить фигуру";
 
+/* No comment provided by engineer. */
+"Add some photos to the Photos app and they’ll appear here automatically." = "Добавьте пару фотографий в приложение «Фото», и они автоматически появятся здесь.";
+
 /* Layer Management */
 "Add Text" = "Добавить текст";
 
@@ -103,6 +109,9 @@
 /* No comment provided by engineer. */
 "Albums" = "Альбомы";
 
+/* stroke options - stroke position */
+"Align" = "Выровнять";
+
 /* No comment provided by engineer. */
 "All" = "Все";
 
@@ -113,7 +122,13 @@
 "All Photos" = "Все фото";
 
 /* No comment provided by engineer. */
+"All rights reserved." = "Все права защищены.";
+
+/* No comment provided by engineer. */
 "Allow Access to All Photos" = "Открыть доступ ко всем фото";
+
+/* No comment provided by engineer. */
+"Allow Photos Access" = "Разрешить доступ «Фото»";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Amber" = "Янтарь";
@@ -137,6 +152,9 @@
 "Angle Scatter" = "Разброс углов";
 
 /* No comment provided by engineer. */
+"App Settings" = "Настройки приложения";
+
+/* No comment provided by engineer. */
 "Apply" = "Применить";
 
 /* No comment provided by engineer. */
@@ -150,6 +168,9 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Arcturus" = "Арктур";
+
+/* No comment provided by engineer. */
+"Are you sure you want to clear all recent documents? You can later access them in Files." = "Действительно очистить список недавних документов? Они останутся доступны через «Файлы».";
 
 /* Layer Arrange
    Tool */
@@ -254,6 +275,9 @@
 /* No comment provided by engineer. */
 "Blur and soften the focus" = "Размыть и смягчить фокус";
 
+/* The name of an image file format. */
+"BMP" = "BMP";
+
 /* No comment provided by engineer. */
 "Bokeh" = "Боке";
 
@@ -280,6 +304,9 @@
 
 /* No comment provided by engineer. */
 "Bring to Front" = "На передний план";
+
+/* No comment provided by engineer. */
+"BROWSER" = "БРАУЗЕР";
 
 /* No comment provided by engineer. */
 "Brush Scatter" = "Разброс кисти";
@@ -317,6 +344,12 @@
 /* Tool */
 "Canvas Size" = "Размер холста";
 
+/* stroke options - line caps */
+"Caps" = "Концы линии";
+
+/* No comment provided by engineer. */
+"Card" = "Карточка";
+
 /* No comment provided by engineer. */
 "Categories" = "Категории";
 
@@ -328,6 +361,9 @@
 
 /* No comment provided by engineer. */
 "Center Guides" = "Центр. направляющие";
+
+/* No comment provided by engineer. */
+"Center." = "По центру.";
 
 /* Units */
 "Centimeters" = "Сантиметры";
@@ -346,6 +382,9 @@
 
 /* No comment provided by engineer. */
 "Choose Color" = "Выберите цвет";
+
+/* No comment provided by engineer. */
+"Choose Template" = "Выбрать шаблон";
 
 /* No comment provided by engineer. */
 "Chromatic Noise Tracking" = "Трекинг хроматического шума";
@@ -370,6 +409,12 @@
 
 /* No comment provided by engineer. */
 "Clarity Shadows" = "Ясность теней";
+
+/* No comment provided by engineer. */
+"Clear" = "Очистить";
+
+/* No comment provided by engineer. */
+"Clear All Recents" = "Очистить все недавние";
 
 /* No comment provided by engineer. */
 "Clipboard" = "Буфер обмена";
@@ -415,6 +460,9 @@
 /* No comment provided by engineer. */
 "Color Noise Reduction" = "Уменьшение цв. шума";
 
+/* No comment provided by engineer. */
+"Color Range" = "Диапазон цветов";
+
 /* Selection */
 "Color Selection" = "Выбор цвета";
 
@@ -449,7 +497,7 @@
 "Convert into Pixels" = "Конвертировать в пиксели";
 
 /* Used in gallery document duplicate. */
-"copy" = "копия";
+"copy" = "(копия)";
 
 /* Edit Menu */
 "Copy" = "Скопировать";
@@ -464,6 +512,12 @@
 "Copy Layer" = "Скопировать слой";
 
 /* No comment provided by engineer. */
+"Copyright © %@ Pixelmator Team." = "Copyright © %@ Команда Pixelmator.";
+
+/* stroke options - line join style */
+"Corner" = "Угол";
+
+/* No comment provided by engineer. */
 "Corner Radius" = "Радиус угла";
 
 /* No comment provided by engineer. */
@@ -474,6 +528,9 @@
 
 /* No comment provided by engineer. */
 "Create" = "Создать";
+
+/* No comment provided by engineer. */
+"Create a new document from photos, templates, or presets." = "Создать новый документ на основе фото, шаблона или пресета.";
 
 /* No comment provided by engineer. */
 "Create Designs" = "Создать дизайн";
@@ -507,7 +564,7 @@
 
 /* Crop preset
    Tool */
-"Custom" = "Пользовательский";
+"Custom" = "Свой";
 
 /* No comment provided by engineer. */
 "Custom LUT" = "Пользовательский LUT";
@@ -546,6 +603,12 @@
 /* No comment provided by engineer. */
 "Darks" = "Потемнения";
 
+/* stroke options */
+"Dash" = "Пунктир";
+
+/* stroke options */
+"Dashed Line" = "Пунктирная линия";
+
 /* No comment provided by engineer. */
 "Decontaminating colors…" = "Очищение цветов…";
 
@@ -577,7 +640,7 @@
 "Delete Linked File" = "Удалить связанный файл";
 
 /* Tool */
-"Denoise" = "Denoise";
+"Denoise" = "Снижение шума";
 
 /* No comment provided by engineer. */
 "Depth Mask" = "Маска глубины";
@@ -752,7 +815,13 @@
 "Enjoy support for the new iPad Pro and the next-level Apple Pencil hover experience." = "Наслаждайтесь поддержкой нового iPad Pro и возможностью наведения курсора Apple Pencil нового уровня.";
 
 /* No comment provided by engineer. */
+"Enter a new name for this document." = "Задайте новое имя этого документа.";
+
+/* No comment provided by engineer. */
 "Enter a new name for this preset:" = "Введите новое имя этого набора:";
+
+/* The name of an image file format. */
+"EPS" = "EPS";
 
 /* Tool */
 "Erase" = "Стереть";
@@ -816,6 +885,9 @@
 
 /* No comment provided by engineer. */
 "Feature not enabled for this demo" = "Эта функция недоступна в демо-версии";
+
+/* No comment provided by engineer. */
+"Files" = "Файлы";
 
 /* Effects category name */
 "Fill" = "Заливка";
@@ -886,6 +958,9 @@
 /* No comment provided by engineer. */
 "Fullscreen" = "Полный экран";
 
+/* stroke options */
+"Gap" = "Интервал";
+
 /* Effects category name */
 "Generator" = "Генератор";
 
@@ -897,6 +972,9 @@
 
 /* No comment provided by engineer. */
 "Get the app" = "Получить приложение";
+
+/* The name of an image file format. */
+"GIF" = "GIF";
 
 /* No comment provided by engineer. */
 "Glazed" = "Глянцевый";
@@ -968,6 +1046,9 @@
 /* No comment provided by engineer. */
 "Hard Mix" = "Жесткое смешение";
 
+/* The name of an image file format. */
+"HEIC" = "HEIC";
+
 /* No comment provided by engineer. */
 "Height:" = "Высота:";
 
@@ -1003,6 +1084,12 @@
 
 /* No comment provided by engineer. */
 "iCloud keeps your images up to date on all your devices" = "iCloud синхронизирует изображения на всех устройствах";
+
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator" = "Illustrator";
+
+/* Refers to the Adobe Illustrator vector file format. */
+"Illustrator Document" = "Документ Illustrator";
 
 /* Default document name
    Untitled document name received via Handoff */
@@ -1066,6 +1153,9 @@
 /* No comment provided by engineer. */
 "Intensity" = "Интенсивность";
 
+/* No comment provided by engineer. */
+"Introducing New Browser" = "Наш новый браузер";
+
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Invert" = "Инверсия";
 
@@ -1077,6 +1167,12 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Ivory" = "Слон. кость";
+
+/* The name of an image file format. */
+"JPEG" = "JPEG";
+
+/* The name of an image file format. */
+"JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
 "Kaleidoscope" = "Калейдоскоп";
@@ -1215,7 +1311,13 @@
 "Luminance Noise Reduction" = "Уменьшение шума свечения";
 
 /* No comment provided by engineer. */
+"Luminance Range" = "Диапазон яркости";
+
+/* No comment provided by engineer. */
 "Luminosity" = "Свечение";
+
+/* No comment provided by engineer. */
+"LUT" = "LUT";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Lyra" = "Лира";
@@ -1298,6 +1400,9 @@
 /* Edit Menu */
 "More…" = "Еще…";
 
+/* The name of a file format – specifically, a project file used by Apple's motion graphics app Motion. */
+"Motion Project" = "Проект Motion";
+
 /* No comment provided by engineer. */
 "Move" = "Передвинуть";
 
@@ -1306,6 +1411,12 @@
 
 /* No comment provided by engineer. */
 "MOVE TO BACK/FRONT" = "НА ЗАДНИЙ/ПЕРЕДНИЙ ПЛАН";
+
+/* No comment provided by engineer. */
+"Movie" = "Фильм";
+
+/* The name of a video file format. */
+"MP4" = "MP4";
 
 /* No comment provided by engineer. */
 "Multiply" = "Умножить";
@@ -1318,6 +1429,12 @@
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Nebula" = "Туманность";
+
+/* No comment provided by engineer. */
+"New Document" = "Новый документ";
+
+/* No comment provided by engineer. */
+"New from Photos" = "Новое из Фото";
 
 /* No comment provided by engineer. */
 "New Layer" = "Новый слой";
@@ -1342,6 +1459,12 @@
 
 /* No comment provided by engineer. */
 "No Photos Access" = "Нет доступа к Фото";
+
+/* No comment provided by engineer. */
+"No photos to display. Choose photos by tapping Select." = "Нет фото для отображения. Выберите фото, нажав «Выбрать».";
+
+/* No comment provided by engineer. */
+"No Recents" = "Нет недавних";
 
 /* No comment provided by engineer. */
 "No Subject Detected" = "Объектов не обнаружено";
@@ -1410,7 +1533,7 @@
 "Other Albums" = "Другие альбомы";
 
 /* No comment provided by engineer. */
-"Overlay" = "Перекрытие";
+"Overlay" = "Оверлей";
 
 /* Tool */
 "Paint" = "Закраска";
@@ -1443,10 +1566,19 @@
 "Path" = "Путь";
 
 /* No comment provided by engineer. */
+"Pattern Angle" = "Угол наклона узора";
+
+/* No comment provided by engineer. */
 "Pattern Fill" = "Заливка узором";
+
+/* No comment provided by engineer. */
+"Pattern Scale" = "Масштаб узора";
 
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Pavo" = "Павлин";
+
+/* The name of an image file format. */
+"PDF" = "PDF";
 
 /* Tool */
 "Pen" = "Перо";
@@ -1460,8 +1592,32 @@
 /* Tool */
 "Perspective Transform" = "Перспективное преобразование";
 
+/* No comment provided by engineer. */
+"Photomator" = "Photomator";
+
+/* No comment provided by engineer. */
+"Photomator Document" = "Документ Photomator";
+
+/* The name of file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits" = "Правки Photomator";
+
+/* The name of a file format containing nondestructive edits created by the Photomator app. */
+"Photomator Edits Document" = "Документ с изменениями Photomator";
+
 /* Native iOS Photos app name */
 "Photos" = "Фото";
+
+/* Refers to the Adobe Photoshop layered image file format. */
+"Photoshop" = "Photoshop";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop (Large)" = "Photoshop (Large)";
+
+/* Refers to the Adobe Photoshop layered image file format. */
+"Photoshop Document" = "Документ Photoshop";
+
+/* Refers to the Adobe Photoshop layered image file format used for large documents. */
+"Photoshop Large Document" = "Документ Photoshop Large";
 
 /* No comment provided by engineer. */
 "Pick Gray Point" = "Выбрать точку серого";
@@ -1479,10 +1635,19 @@
 "Pixel Tool" = "Пиксельный инструмент";
 
 /* No comment provided by engineer. */
+"Pixelmator" = "Pixelmator";
+
+/* No comment provided by engineer. */
 "Pixelmator 2.8 is now fully compatible with iOS 16." = "Pixelmator 2.8 теперь полностью совместим с iOS 16.";
 
 /* No comment provided by engineer. */
 "Pixelmator 2.8 is now fully compatible with iPadOS 16." = "Pixelmator 2.8 теперь полностью совместим с iPadOS 16.";
+
+/* No comment provided by engineer. */
+"Pixelmator Classic" = "Pixelmator Classic";
+
+/* No comment provided by engineer. */
+"Pixelmator Classic Document" = "Документ Pixelmator Classic";
 
 /* No comment provided by engineer. */
 "Pixelmator has been denied access to Photos. Please allow access in Settings." = "Pixelmator не получил доступ к Фото. Откройте доступ в Настройках.";
@@ -1499,11 +1664,26 @@
 /* No comment provided by engineer. */
 "Pixelmator Photo lets you save nondestructive edits directly to your Photos library." = "Pixelmator Photo позволяет сохранять недеструктивные правки прямо в вашей медиатеке Фото.";
 
+/* No comment provided by engineer. */
+"Pixelmator Pro" = "Pixelmator Pro";
+
+/* No comment provided by engineer. */
+"Pixelmator Pro Document" = "Документ Pixelmator Pro";
+
+/* The name of a file format containing nondestructive edits created by the Pixelmator Pro app. */
+"Pixelmator Pro Sidecar Document" = "Документ Pixelmator Pro Sidecar";
+
+/* No comment provided by engineer. */
+"Pixelmator Settings" = "Настройки Pixelmator";
+
 /* Units */
 "Pixels" = "Пиксели";
 
 /* No comment provided by engineer. */
 "Please try again later." = "Повторите попытку позже.";
+
+/* The name of an image file format. */
+"PNG" = "PNG";
 
 /* Units */
 "Points" = "Точки";
@@ -1518,10 +1698,10 @@
 "Position" = "Позиция";
 
 /* No comment provided by engineer. */
-"Preserve transparency" = "Сохранить прозрачность";
+"Poster" = "Плакат";
 
 /* No comment provided by engineer. */
-"Presets" = "Наборы";
+"Preserve transparency" = "Сохранить прозрачность";
 
 /* No comment provided by engineer. */
 "Preview" = "Превью";
@@ -1556,6 +1736,12 @@
 /* No comment provided by engineer. */
 "Quickly select detailed objects" = "Быстро выбрать детальные объекты";
 
+/* The name of a video file format. */
+"QuickTime" = "QuickTime";
+
+/* The name of a video file format. */
+"QuickTime Movie" = "Фильм QuickTime";
+
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
@@ -1572,7 +1758,7 @@
 /* No comment provided by engineer. */
 "Rasterize Layer" = "Растрировать слой";
 
-/* No comment provided by engineer. */
+/* The name of an image file format. */
 "RAW" = "RAW";
 
 /* No comment provided by engineer. */
@@ -1586,6 +1772,9 @@
 
 /* No comment provided by engineer. */
 "Recent" = "Недавние";
+
+/* No comment provided by engineer. */
+"Recent Files & Photos" = "Недавние файлы и фото";
 
 /* No comment provided by engineer. */
 "Recents" = "Недавние";
@@ -1651,6 +1840,12 @@
 "Remove Color" = "Удалить цвет";
 
 /* No comment provided by engineer. */
+"Remove from Recents" = "Удалить из недавних";
+
+/* No comment provided by engineer. */
+"Remove from Recents or delete document." = "Удалить из недавних или удалить документ.";
+
+/* No comment provided by engineer. */
 "Remove Mask" = "Удалить маску";
 
 /* No comment provided by engineer. */
@@ -1659,8 +1854,14 @@
 /* No comment provided by engineer. */
 "Remove unwanted elements" = "Удалить лишние элементы";
 
+/* No comment provided by engineer. */
+"Remove…" = "Удалить…";
+
 /* Edit Menu */
 "Rename" = "Переименовать";
+
+/* No comment provided by engineer. */
+"Rename Document" = "Переименовать документ";
 
 /* Retouch Tools
    Tool */
@@ -1670,7 +1871,7 @@
 "Repair Selection" = "Исправить выделение";
 
 /* No comment provided by engineer. */
-"Repair Tool" = "Инструмент Исправление";
+"Repair Tool" = "Инструмент «Исправление»";
 
 /* No comment provided by engineer. */
 "Repairing…" = "Исправление…";
@@ -1739,6 +1940,9 @@
 "Retro" = "Ретро";
 
 /* No comment provided by engineer. */
+"Reveal in Files" = "Показать в Файлах";
+
+/* No comment provided by engineer. */
 "Revert" = "Вернуть";
 
 /* No comment provided by engineer. */
@@ -1766,10 +1970,10 @@
 "Rotate 180°" = "Повернуть на 180°";
 
 /* No comment provided by engineer. */
-"Rotate Left" = "Повернуть налево";
+"Rotate Left" = "Повернуть влево";
 
 /* No comment provided by engineer. */
-"Rotate Right" = "Повернуть направо";
+"Rotate Right" = "Повернуть вправо";
 
 /* No comment provided by engineer. */
 "Rotate Selection" = "Поворот выделения";
@@ -1851,6 +2055,9 @@
 "Select More Photos..." = "Выбрать еще фото...";
 
 /* No comment provided by engineer. */
+"Select More Photos…" = "Выбрать еще фото…";
+
+/* No comment provided by engineer. */
 "Select Next Layer" = "Выбрать следующий слой";
 
 /* No comment provided by engineer. */
@@ -1890,7 +2097,13 @@
 "SELECTION MODE" = "РЕЖИМ ВЫБОРА";
 
 /* No comment provided by engineer. */
+"Selective Clarity" = "Выборочная ясность";
+
+/* No comment provided by engineer. */
 "Selective Color" = "Выбирающий цвет";
+
+/* No comment provided by engineer. */
+"Select…" = "Выбрать…";
 
 /* No comment provided by engineer. */
 "Send Backward" = "Назад";
@@ -2065,6 +2278,9 @@
 "Square" = "Квадрат";
 
 /* No comment provided by engineer. */
+"Square Post" = "Квадратный пост";
+
+/* No comment provided by engineer. */
 "Squeeze area of an image" = "Сжать область изображения";
 
 /* Tool */
@@ -2072,6 +2288,9 @@
 
 /* No comment provided by engineer. */
 "Start Point" = "Начальная точка";
+
+/* No comment provided by engineer. */
+"Story" = "Сюжет";
 
 /* Tool */
 "Straighten" = "Выпрямить";
@@ -2089,6 +2308,9 @@
 "Stroke Color" = "Цвет контура";
 
 /* No comment provided by engineer. */
+"Stroke End" = "Конец штриха";
+
+/* No comment provided by engineer. */
 "Stroke Gradient" = "Градиент контура";
 
 /* No comment provided by engineer. */
@@ -2099,6 +2321,9 @@
 
 /* No comment provided by engineer. */
 "Stroke Position" = "Позиция штриха";
+
+/* No comment provided by engineer. */
+"Stroke Start" = "Начало штриха";
 
 /* No comment provided by engineer. */
 "Stroke Type" = "Тип штриха";
@@ -2129,6 +2354,9 @@
 
 /* No comment provided by engineer. */
 "Support for iPadOS 16" = "Поддержка iPadOS 16";
+
+/* The name of an image file format. */
+"SVG" = "SVG";
 
 /* No comment provided by engineer. */
 "Tail End Dynamics" = "Динамика конца хвоста";
@@ -2299,6 +2527,9 @@
 /* No comment provided by engineer. */
 "This version of the file format is not supported." = "Эта версия формата файла не поддерживается.";
 
+/* The name of an image file format. */
+"TIFF" = "TIFF";
+
 /* Effects category name */
 "Tile" = "Плитка";
 
@@ -2405,7 +2636,7 @@
 "Undo %@" = "Отменить «%@»";
 
 /* No comment provided by engineer. */
-"Unfavorite" = "Убрать из Избранного";
+"Unfavorite" = "Убрать из избранного";
 
 /* Layer Arrange */
 "Ungroup" = "Разгруппировать";
@@ -2432,6 +2663,9 @@
 "Untitled" = "Без названия";
 
 /* No comment provided by engineer. */
+"Untitled Album" = "Альбом без названия";
+
+/* No comment provided by engineer. */
 "Untitled layer" = "Слой без названия";
 
 /* No comment provided by engineer. */
@@ -2440,8 +2674,17 @@
 /* Used in Vintage effect as preset name, not much space here–keep it short! */
 "Urban" = "Город";
 
+/* The name of a 3D file format. */
+"USD" = "USD";
+
+/* The name of a 3D file format. */
+"USDZ" = "USDZ";
+
 /* Used in Bokeh effect as preset name, not much space here–keep it short! */
 "Vega" = "Вега";
+
+/* No comment provided by engineer. */
+"Version %@" = "Версия %@";
 
 /* Perspective transform */
 "Vertical Perspective" = "Вертикальная перспектива";
@@ -2451,6 +2694,12 @@
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Vibrant" = "Сияние";
+
+/* No comment provided by engineer. */
+"Video" = "Видео";
+
+/* No comment provided by engineer. */
+"Video Layer" = "Слой видео";
 
 /* No comment provided by engineer. */
 "View My Images" = "Мои изображения";
@@ -2485,6 +2734,12 @@
 /* Tool */
 "Watercolor" = "Акварель";
 
+/* The name of an image file format. */
+"WebP" = "WebP";
+
+/* No comment provided by engineer. */
+"Welcome to Pixelmator" = "Добро пожаловать в Pixelmator!";
+
 /* No comment provided by engineer. */
 "Wetness" = "Влажность";
 
@@ -2508,6 +2763,9 @@
 
 /* No comment provided by engineer. */
 "Width:" = "Ширина:";
+
+/* No comment provided by engineer. */
+"With the new Recent Files & Photos browser, you can access all your recent documents, photos, and templates in one place." = "Новый браузер фото и файлов обеспечивает быстрый и удобный доступ ко всем недавним документам, фото и шаблонам.";
 
 /* No comment provided by engineer. */
 "Workflow %i" = "Процесс %i";

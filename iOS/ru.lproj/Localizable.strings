@@ -198,6 +198,9 @@
 "Arrow from Point" = "Стрелка с точкой";
 
 /* No comment provided by engineer. */
+"As a long-time user of Photomator, you can get an exclusive 50% discount off the first year of an annual Photomator subscription and unlock full access to Photomator for Mac." = "As a long-time user of Photomator, you can get an exclusive 50% discount off the first year of an annual Photomator subscription and unlock full access to Photomator for Mac.";
+
+/* No comment provided by engineer. */
 "Aspect" = "Ракурс";
 
 /* No comment provided by engineer. */
@@ -225,13 +228,7 @@
 "Automatically enhance photos" = "Автоматически улучшайте фотографии";
 
 /* No comment provided by engineer. */
-"Automatically improve the lighting and colors of a photo using AI by simply tapping [WAND]." = "Автоматически улучшайте освещение и цвета фото, используя искусственный интеллект простым касанием [WAND].";
-
-/* No comment provided by engineer. */
-"Automatically select the sky in any photo with just a tap." = "Автоматически выделяйте небо на любом фото одним прикосновением.";
-
-/* No comment provided by engineer. */
-"Automatically select the subject in any photo using AI." = "Автоматически выделяйте сюжетный центр любого фото с помощью ИИ.";
+"Automatically improve the lighting and colors of a photo using AI by simply tapping %@." = "Автоматически улучшайте освещение и цвета фото, используя искусственный интеллект простым касанием %@.";
 
 /* No comment provided by engineer. */
 "Background" = "Фон";
@@ -428,9 +425,6 @@
 "Color Fill" = "Заливка цветом";
 
 /* No comment provided by engineer. */
-"Color Mask" = "Цветовая маска";
-
-/* No comment provided by engineer. */
 "Color Monochrome" = "Монохромный цвет";
 
 /* No comment provided by engineer. */
@@ -476,7 +470,7 @@
 "Converting LUT into Adjustments…" = "Конвертирование LUT в корректировки…";
 
 /* Used in gallery document duplicate. */
-"copy" = "копия";
+"copy" = "(копия)";
 
 /* Edit Menu */
 "Copy" = "Скопировать";
@@ -519,7 +513,7 @@
 
 /* Crop preset
    Tool */
-"Custom" = "Пользовательский";
+"Custom" = "Свой";
 
 /* No comment provided by engineer. */
 "Custom LUT" = "Пользовательский LUT";
@@ -571,7 +565,7 @@
 "Debanding…" = "Депостеризация…";
 
 /* No comment provided by engineer. */
-"Decontaminating colors…" = "Decontaminating colors…";
+"Decontaminating colors…" = "Очищение цветов…";
 
 /* No comment provided by engineer. */
 "Default" = "По умолчанию";
@@ -598,7 +592,7 @@
 "Delete Preset" = "Удалить набор настроек";
 
 /* Tool */
-"Denoise" = "Denoise";
+"Denoise" = "Снижение шума";
 
 /* No comment provided by engineer. */
 "Denoising…" = "Снижение шума…";
@@ -641,16 +635,16 @@
 "Details" = "Подробнее";
 
 /* No comment provided by engineer. */
-"Detecting sky…" = "Detecting sky…";
+"Detecting sky…" = "Обнаружение неба…";
 
 /* No comment provided by engineer. */
-"Detecting Sky…" = "Detecting Sky…";
+"Detecting Sky…" = "Обнаружение неба…";
 
 /* No comment provided by engineer. */
-"Detecting subject…" = "Detecting subject…";
+"Detecting subject…" = "Выбор объекта…";
 
 /* No comment provided by engineer. */
-"Detecting Subject…" = "Detecting Subject…";
+"Detecting Subject…" = "Выбор объекта…";
 
 /* No comment provided by engineer. */
 "Difference" = "Разница";
@@ -1211,7 +1205,7 @@
 "Inches" = "Дюймы";
 
 /* No comment provided by engineer. */
-"Increase Resolution" = "Улучшить разрешение";
+"Increase Resolution" = "Повысить разрешение";
 
 /* No comment provided by engineer. */
 "Increase the resolution of photos while preserving sharpness and details." = "Увеличить разрешение фото, не теряя четкости и детализации.";
@@ -1238,9 +1232,6 @@
 "Instantly adjust the colors of images using color presets created in other apps." = "Мгновенно подстраивать цвета изображений, используя готовые цветонаборы, созданные в других приложениях.";
 
 /* No comment provided by engineer. */
-"Instantly select the background in any photo with just a tap." = "Мгновенно выделяйте фон на любом фото одним прикосновением.";
-
-/* No comment provided by engineer. */
 "Intensity" = "Интенсивность";
 
 /* No comment provided by engineer. */
@@ -1249,8 +1240,8 @@
 /* No comment provided by engineer. */
 "Intersect" = "Пересечение";
 
-/* No comment provided by engineer. */
-"Introducing Photomator" = "Встречайте: Photomator";
+/* %@ stands for non-breaking space */
+"Introducing Photomator%@for%@Mac" = "Introducing Photomator%1$@for%2$@Mac";
 
 /* No comment provided by engineer. */
 "Invert" = "Инвертировать";
@@ -1411,7 +1402,7 @@
 "Magically increase resolution" = "Словно по волшебству увеличивайте разрешение";
 
 /* No comment provided by engineer. */
-"Magically remove anything from small blemishes to entire objects from photos. Tap [REPAIR], then paint over an object to remove it." = "Словно по волшебству удаляйте с фотографий все что угодно, от небольших пятен до целых объектов. Коснитесь [REPAIR], а затем рисуйте поверх объекта, чтобы удалить его.";
+"Magically remove anything from small blemishes to entire objects from photos. Tap %@, then paint over an object to remove it." = "Словно по волшебству удаляйте с фотографий все что угодно, от небольших пятен до целых объектов. Коснитесь %@, а затем рисуйте поверх объекта, чтобы удалить его.";
 
 /* Tool */
 "Magnetic" = "Магнитный";
@@ -1546,7 +1537,7 @@
 "Next Preset" = "Следующий набор настроек";
 
 /* No comment provided by engineer. */
-"No Background Detected" = "No Background Detected";
+"No Background Detected" = "Фон не обнаружен";
 
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "Нет данных камеры";
@@ -1567,10 +1558,10 @@
 "No Photos Access" = "Нет доступа к Фото";
 
 /* No comment provided by engineer. */
-"No Sky Detected" = "No Sky Detected";
+"No Sky Detected" = "Небо не обнаружено";
 
 /* No comment provided by engineer. */
-"No Subject Detected" = "No Subject Detected";
+"No Subject Detected" = "Объектов не обнаружено";
 
 /* No comment provided by engineer. */
 "No Subscription Found" = "Подписки не найдены";
@@ -1590,11 +1581,17 @@
 /* No comment provided by engineer. */
 "Normal" = "Нормальный";
 
+/* %@ stands for non-breaking space */
+"Now you can download Photomator%@for%@Mac from the Mac App Store and enjoy full access to all its features." = "Now you can download Photomator%1$@for%2$@Mac from the Mac App Store and enjoy full access to all its features.";
+
 /* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "Кривые изображения";
+
+/* No comment provided by engineer. */
+"One license for Mac, iPad, and iPhone." = "One license for Mac, iPad, and iPhone.";
 
 /* No comment provided by engineer. */
 "One or more LUTs may be damaged or not supported." = "Один или несколько LUT, возможно, повреждены или не поддерживаются.";
@@ -1642,7 +1639,7 @@
 "OTHER" = "ДРУГОЕ";
 
 /* No comment provided by engineer. */
-"Overlay" = "Перекрытие";
+"Overlay" = "Оверлей";
 
 /* No comment provided by engineer. */
 "Overwrite" = "Перезаписать";
@@ -1702,6 +1699,9 @@
 "Photomator Album" = "Альбом Photomator";
 
 /* No comment provided by engineer. */
+"Photomator brings all your favorite photo editing tools for enhancing, retouching, and managing photos to Mac." = "Photomator brings all your favorite photo editing tools for enhancing, retouching, and managing photos to Mac.";
+
+/* No comment provided by engineer. */
 "Photomator Document" = "Документ Photomator";
 
 /* The name of file format containing nondestructive edits created by the Photomator app. */
@@ -1718,6 +1718,9 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Справка Photomator";
+
+/* %@ stands for non-breaking space */
+"Photomator%@for%@Mac Out Now" = "Photomator%1$@for%2$@Mac Out Now";
 
 /* Native iOS Photos app name */
 "Photos" = "Фото";
@@ -1769,9 +1772,6 @@
 
 /* No comment provided by engineer. */
 "Pixelmator Photo lets you edit images in your Photos library or on your iPad, automatically saving nondestructive changes with either workflow. To switch between browsing your Photos library or the image files on your iPad, tap Photos or Files in the toolbar." = "Pixelmator Photo позволит вам редактировать изображения в вашей медиатеке Фото на iPad, автоматически сохраняя недеструктивные изменения в любом процессе. Чтобы переключиться между просмотром вашей медиатеки Фото и файлами изображений на iPad, нажмите Фото или Файлы на панели инструментов.";
-
-/* No comment provided by engineer. */
-"Pixelmator Photo now has a simpler name – say hello to Photomator." = "Pixelmator Photo получил новое, более простое и звучное имя. Встречайте: Photomator!";
 
 /* No comment provided by engineer. */
 "Pixelmator Pro" = "Pixelmator Pro";
@@ -1869,9 +1869,6 @@
 /* No comment provided by engineer. */
 "Quickly change the look and feel of photo using color adjustment presets." = "Быстро меняйте вид и стиль фотографий, используя наборы цветокоррекции.";
 
-/* No comment provided by engineer. */
-"Quickly make precise selections in photos using AI, use linear and radial masks, or simply paint over the areas you want to adjust with a brush." = "Быстро и точно выделяйте элементы на фото с помощью ИИ, применяйте линейные и круговые маски или просто рисуйте кистью поверх областей, которые хотите отредактировать.";
-
 /* The name of a video file format. */
 "QuickTime" = "QuickTime";
 
@@ -1931,6 +1928,9 @@
 /* No comment provided by engineer. */
 "Redeem offer" = "Активируйте предложение";
 
+/* No comment provided by engineer. */
+"Redeem Offer" = "Redeem Offer";
+
 /* Edit Menu */
 "Redefine" = "Переопределить";
 
@@ -1947,10 +1947,10 @@
 "Refine" = "Уточнить";
 
 /* No comment provided by engineer. */
-"Refining Edges…" = "Refining Edges…";
+"Refining Edges…" = "Уточнение границы…";
 
 /* No comment provided by engineer. */
-"Refining edges…" = "Refining edges…";
+"Refining edges…" = "Уточнение границы…";
 
 /* No comment provided by engineer. */
 "Reloading…" = "Перезагрузка…";
@@ -1962,10 +1962,10 @@
 "Remove" = "Удалить";
 
 /* No comment provided by engineer. */
-"Remove an existing layer to add a new one." = "Remove an existing layer to add a new one.";
+"Remove an existing layer to add a new one." = "Удалите существующий слой, чтобы добавить новый.";
 
 /* No comment provided by engineer. */
-"Remove Background" = "Remove Background";
+"Remove Background" = "Удалить фон";
 
 /* No comment provided by engineer. */
 "Remove Color" = "Удалить цвет";
@@ -1993,7 +1993,7 @@
 "Repair Selection" = "Исправить выделение";
 
 /* No comment provided by engineer. */
-"Repair Tool" = "Инструмент Исправление";
+"Repair Tool" = "Инструмент «Исправление»";
 
 /* No comment provided by engineer. */
 "Repair with Pencil" = "Исправить карандашом";
@@ -2005,7 +2005,7 @@
 "Replace Color" = "Замена цвета";
 
 /* No comment provided by engineer. */
-"Replace Media" = "Replace Media";
+"Replace Media" = "Заменить медиа";
 
 /* Edit Menu */
 "Reset" = "Сброс";
@@ -2032,10 +2032,10 @@
 "Reset Deband" = "Сбросить депостеризацию";
 
 /* No comment provided by engineer. */
-"Reset Denoise" = "Сбросить Denoise";
+"Reset Denoise" = "Сбросить снижение шума";
 
 /* No comment provided by engineer. */
-"Reset Denoise?" = "Сбросить Denoise?";
+"Reset Denoise?" = "Сбросить снижение шума?";
 
 /* No comment provided by engineer. */
 "Reset Enhance" = "Сбросить улучшение";
@@ -2092,7 +2092,7 @@
 "Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution." = "Возвращение к исходнику этого фото также сбросит изменения, внесенные инструментами «Исправление» и «Cупер-разрешение».";
 
 /* No comment provided by engineer. */
-"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "Возвращение к исходному разрешению этого фото также приведёт к сбросу правок, сделанных инструментом исправления.";
+"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "Возвращение к исходному разрешению этого фото также приведёт к сбросу правок, сделанных инструментами «Исправление» и «Снижение шума».";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "Показать в Файлах";
@@ -2119,10 +2119,10 @@
 "Rotate Gradient" = "Повернуть градиент";
 
 /* No comment provided by engineer. */
-"Rotate Left" = "Повернуть налево";
+"Rotate Left" = "Повернуть влево";
 
 /* No comment provided by engineer. */
-"Rotate Right" = "Повернуть направо";
+"Rotate Right" = "Повернуть вправо";
 
 /* Tool */
 "Rounded Rect." = "Скругл. прямоугольник";
@@ -2222,7 +2222,7 @@
 "Select Background" = "Выбрать фон";
 
 /* No comment provided by engineer. */
-"Select background" = "Select background";
+"Select background" = "Выбрать фон";
 
 /* Tool */
 "Select Column" = "Выбрать столбец";
@@ -2237,7 +2237,7 @@
 "Select More Photos…" = "Выбрать еще фото…";
 
 /* No comment provided by engineer. */
-"Select Repair Tool" = "Выбрать Инструмент Исправление";
+"Select Repair Tool" = "Выбрать инструмент «Исправление»";
 
 /* Tool */
 "Select Row" = "Выбрать строку";
@@ -2258,13 +2258,10 @@
 "Selected layer is locked, unlock it to edit." = "Выбранный слой заблокирован, для изменений разблокируйте его.";
 
 /* No comment provided by engineer. */
-"Selective Adjustments" = "Выборочная коррекция";
-
-/* No comment provided by engineer. */
 "Selective Clarity" = "Выборочная ясность";
 
 /* No comment provided by engineer. */
-"Selective Color" = "Выбирающий цвет";
+"Selective Color" = "Выборочный цвет";
 
 /* No comment provided by engineer. */
 "Selective Colors" = "Выборочный цвет";
@@ -2365,7 +2362,7 @@
 "Show Photos" = "Показать фото";
 
 /* No comment provided by engineer. */
-"Show Presets" = "Показать наборы настроек";
+"Show Presets" = "Показать пресеты";
 
 /* No comment provided by engineer. */
 "Show Recents" = "Показать недавние";
@@ -2402,9 +2399,6 @@
 
 /* No comment provided by engineer. */
 "Smooth textures" = "Сглаженные текстуры";
-
-/* No comment provided by engineer. */
-"Smoothness" = "Сглаживание";
 
 /* Retouch Tools
    Tool */
@@ -2446,6 +2440,9 @@
 
 /* No comment provided by engineer. */
 "Source Out" = "Выход источника";
+
+/* No comment provided by engineer. */
+"Special Offer" = "Special Offer";
 
 /* No comment provided by engineer. */
 "Specular" = "Зеркальный";
@@ -2556,13 +2553,13 @@
 "Take Photo" = "Сделать фото";
 
 /* No comment provided by engineer. */
-"Tap [ADJUSTMENTS] to change the colors and lighting of photos in just about any way you can imagine." = "Коснитесь [ADJUSTMENTS], чтобы изменить цвета и освещение фотографий практически любым образом, который вы можете вообразить.";
+"Tap %@ to change the colors and lighting of photos in just about any way you can imagine." = "Коснитесь %@, чтобы изменить цвета и освещение фотографий практически любым образом, который вы можете вообразить.";
 
 /* No comment provided by engineer. */
-"Tap [MORE], then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "Коснитесь [MORE], затем выберите Супер-разрешение, чтобы увеличить разрешение фото без нежелательного размытия.";
+"Tap %@ to increase the resolution of photos with no unwanted blurring." = "Tap %@ to increase the resolution of photos with no unwanted blurring.";
 
 /* No comment provided by engineer. */
-"Tap [SUPER RESOLUTION] to increase the resolution of photos with no unwanted blurring." = "Коснитесь [SUPER RESOLUTION], чтобы увеличить разрешение фото без нежелательного размытия.";
+"Tap %@, then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "Коснитесь %@, затем выберите Супер-разрешение, чтобы увеличить разрешение фото без нежелательного размытия.";
 
 /* No comment provided by engineer. */
 "Target Color" = "Целевой цвет";
@@ -2590,7 +2587,7 @@
 "The color adjustment presets were imported successfully." = "Наборы корректировок цвета были успешно импортированы.";
 
 /* No comment provided by engineer. */
-"The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the [GEAR] icon and, in the Browser menu, select Photos." = "Файловый браузер дает возможность просматривать документы, сохраненные на вашем устройстве. Чтобы переключиться на браузер Фото, коснитесь [GEAR] и в меню «Браузер» выберите «Фото».";
+"The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "Файловый браузер дает возможность просматривать документы, сохраненные на вашем устройстве. Чтобы переключиться на браузер Фото, коснитесь %@ и в меню «Браузер» выберите «Фото».";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "Изображение содержит несколько слоев (%@). Чтобы создать еще, уменьшите размер изображения.";
@@ -2716,9 +2713,6 @@
 "To use this feature, you’ll need to purchase unlimited access to Photomator, but it looks like you’re offline. To purchase, you’ll need to go online." = "Чтобы использовать эту функцию, необходимо приобрести полную версию Photomator, но похоже, вы не подключены к интернету. Для совершения покупки подключитесь к сети.";
 
 /* No comment provided by engineer. */
-"Tolerance" = "Допуск";
-
-/* No comment provided by engineer. */
 "Tone" = "Тоновый";
 
 /* No comment provided by engineer. */
@@ -2755,7 +2749,7 @@
 "Unable to Access Help" = "Не удается получить доступ к справке";
 
 /* No comment provided by engineer. */
-"Unable to Add More Layers" = "Unable to Add More Layers";
+"Unable to Add More Layers" = "Невозможно добавить больше слоев";
 
 /* No comment provided by engineer. */
 "Unable to apply LUT" = "Не удается применить LUT";
@@ -2803,10 +2797,13 @@
 "Undo and Redo" = "Отменить и Повторить";
 
 /* No comment provided by engineer. */
-"Unfavorite" = "Убрать из Избранного";
+"Unfavorite" = "Убрать из избранного";
 
 /* Layer Arrange */
 "Ungroup" = "Без группы";
+
+/* No comment provided by engineer. */
+"Unlimited Access" = "Неограниченный доступ";
 
 /* Edit Menu
    Layer */
@@ -2817,6 +2814,9 @@
 
 /* No comment provided by engineer. */
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "Разблокируйте новую функциональность правки RAW в режиме Extended Dynamic Range Mode.";
+
+/* %@ stands for non-breaking space */
+"Unlock Photomator%@for%@Mac" = "Unlock Photomator%1$@for%2$@Mac";
 
 /* No comment provided by engineer. */
 "Unnamed" = "Без имени";
@@ -2861,7 +2861,7 @@
 "Use iCloud" = "Исп. iCloud";
 
 /* No comment provided by engineer. */
-"Use Texture-Aware Algorithm" = "Использовать алгоритм учёта текстуры";
+"Use Texture-Aware Algorithm" = "Использовать алгоритм с учетом текстуры";
 
 /* Perspective transform */
 "Vertical Perspective" = "Вертикальная перспектива";
@@ -2960,6 +2960,9 @@
 "Yellow / Blue" = "Желтый / синий";
 
 /* No comment provided by engineer. */
+"You can instantly download Photomator from the Mac App Store and enjoy full access to all its features." = "You can instantly download Photomator from the Mac App Store and enjoy full access to all its features.";
+
+/* No comment provided by engineer. */
 "You're Offline" = "Вы офлайн";
 
 /* No comment provided by engineer. */
@@ -2967,6 +2970,9 @@
 
 /* No comment provided by engineer. */
 "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!" = "Ваша бесплатная пробная версия истекает через 2 дня. Отредактируйте парочку фото, чтобы взглянуть, что умеет делать Photomator!";
+
+/* No comment provided by engineer. */
+"Your purchase was successful!" = "Your purchase was successful!";
 
 /* No comment provided by engineer. */
 "You’re good to go" = "Вы готовы идти";

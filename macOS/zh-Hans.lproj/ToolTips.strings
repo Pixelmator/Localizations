@@ -206,7 +206,7 @@
 "Adjust how much to soften the mask." = "调整蒙版的柔化程度。";
 
 /* No comment provided by engineer. */
-"Adjust the amount of magenta and green in the highlights." = "调整亮部洋红色和绿色的量。";
+"Adjust the amount of magenta and green in the highlights." = "在高亮中调整洋红色和绿色的量。";
 
 /* No comment provided by engineer. */
 "Adjust the amount of magenta and green in the midtones." = "调整中间色调中洋红色和绿色的量。";
@@ -272,7 +272,7 @@
 "Adjust the font size." = "调整字体大小。";
 
 /* No comment provided by engineer. */
-"Adjust the horizontal perspective of the image." = "调整图像的水平透视。";
+"Adjust the horizontal perspective of the image." = "调整水平透视";
 
 /* No comment provided by engineer. */
 "Adjust the horizontal perspective of the object." = "调整对象的水平透视。";
@@ -285,6 +285,9 @@
 
 /* No comment provided by engineer. */
 "Adjust the hue of the selected color." = "调整所选颜色的色相。";
+
+/* No comment provided by engineer. */
+"Adjust the intensity of the color adjusments." = "调整色调的强度。";
 
 /* No comment provided by engineer. */
 "Adjust the intensity of the displacement effect." = "调整置换效果的强度。";
@@ -434,6 +437,12 @@
 "Adjust the smoothness of the displacement map, displacing pixels more smoothly." = "调整置换地图的平滑度，更平滑地置换像素。";
 
 /* No comment provided by engineer. */
+"Adjust the softness of the brush." = "设置画笔的柔和度。";
+
+/* No comment provided by engineer. */
+"Adjust the softness of the gradient mask." = "调整渐变图层的柔和度。";
+
+/* No comment provided by engineer. */
 "Adjust the spacing between each brush texture mark in your brushstroke." = "调整笔刷纹理标记之间的间距。";
 
 /* No comment provided by engineer. */
@@ -536,7 +545,7 @@
 "Adjust the vertical distance between each line of text." = "调整每行文本之间的垂直距离。";
 
 /* No comment provided by engineer. */
-"Adjust the vertical perspective of the image." = "调整图像的垂直透视。";
+"Adjust the vertical perspective of the image." = "调整垂直透视";
 
 /* No comment provided by engineer. */
 "Adjust the vertical perspective of the object." = "调整对象的垂直透视。";
@@ -605,7 +614,7 @@
 "Apply the transformations to the object." = "将变换应用于对象。";
 
 /* No comment provided by engineer. */
-"Automatically enhance the photo." = "自动增强照片。";
+"Automatically enhance the photo." = "自动增强照片";
 
 /* No comment provided by engineer. */
 "Automatically make a selection of the subject of the currently selected layer." = "自动对当前所选图层的主体进行选择。";
@@ -623,7 +632,7 @@
 "Automatically refine the edges of the selection." = "自动调整所选内容的边缘。";
 
 /* No comment provided by engineer. */
-"Automatically straighten the image." = "自动校正图像。";
+"Automatically straighten the image." = "自动校正图像";
 
 /* No comment provided by engineer. */
 "Blending Mode" = "混合模式";
@@ -803,6 +812,9 @@
 "Clear the selection." = "清除选择。";
 
 /* No comment provided by engineer. */
+"Click and hold to show the photo without edits." = "点击并长按以显示无编辑的照片。";
+
+/* No comment provided by engineer. */
 "Click to automatically adjust the color balance of the image." = "单击可自动调整图像的色彩平衡。";
 
 /* No comment provided by engineer. */
@@ -851,6 +863,9 @@
 "Click to choose a shape to add to the document." = "点击以选择要加入文稿的形状。";
 
 /* No comment provided by engineer. */
+"Click to choose and edit selective adjustment layers." = "点击选择并编辑所选中的图层调整。";
+
+/* No comment provided by engineer. */
 "Click to enlarge or reduce the view of the image." = "单击放大或缩小图像的视图。";
 
 /* No comment provided by engineer. */
@@ -869,7 +884,7 @@
 "Click to switch the foreground and background colors." = "点击切换前景和背景颜色。";
 
 /* No comment provided by engineer. */
-"Clone Tool" = "裁剪工具";
+"Clone Tool" = "克隆工具";
 
 /* No comment provided by engineer. */
 "Color" = "颜色";
@@ -932,7 +947,7 @@
 "Crop and straighten the image." = "裁剪并伸直图像。";
 
 /* No comment provided by engineer. */
-"Crop the image automatically using a machine learning algorithm." = "使用机器学习算法自动裁剪图像。";
+"Crop the image automatically using a machine learning algorithm." = "使用AI算法自动裁剪图像";
 
 /* No comment provided by engineer. */
 "Crop the image." = "裁剪图像。";
@@ -1097,10 +1112,10 @@
 "Finish editing the photo." = "完成图片编辑。";
 
 /* No comment provided by engineer. */
-"Flip the image horizontally." = "水平翻转图像。";
+"Flip the image horizontally." = "水平翻转";
 
 /* No comment provided by engineer. */
-"Flip the image vertically." = "垂直翻转图像。";
+"Flip the image vertically." = "垂直翻转";
 
 /* No comment provided by engineer. */
 "Flip the object horizontally." = "水平翻转对象。";
@@ -1115,7 +1130,7 @@
 "Freely change the size of the object." = "自由地更改对象的大小。";
 
 /* No comment provided by engineer. */
-"Go back to the library." = "返回照片库。";
+"Go back to the library." = "返回照片库";
 
 /* No comment provided by engineer. */
 "Good for upscaling and downscaling images with small details." = "适用于具有较小细节图像的放大和缩小。";
@@ -1247,7 +1262,8 @@
 "Pause the video." = "暂停视频";
 
 /* No comment provided by engineer. */
-"Perform more tasks with the photo." = "用这张照片执行更多任务。";
+"Perform more tasks with the photo." = "用这张照片执行更多任务
+";
 
 /* No comment provided by engineer. */
 "Perform tasks with the image like changing its size, color profile, and more." = "对图像执行任务，例如更改其大小、颜色描述文件等。";
@@ -1376,16 +1392,16 @@
 "Rotate document 90° right." = "向右旋转文稿 90°。";
 
 /* No comment provided by engineer. */
-"Rotate the image clockwise." = "顺时针旋转图像。";
+"Rotate the image clockwise." = "顺时针旋转";
 
 /* No comment provided by engineer. */
-"Rotate the image counterclockwise." = "逆时针旋转图像。";
+"Rotate the image counterclockwise." = "逆时针旋转";
 
 /* No comment provided by engineer. */
-"Rotate the image to the left by one degree." = "将图像向左旋转 1 度。";
+"Rotate the image to the left by one degree." = "向左旋转1度";
 
 /* No comment provided by engineer. */
-"Rotate the image to the right by one degree." = "将图像向右旋转 1 度。";
+"Rotate the image to the right by one degree." = "向右旋转1度";
 
 /* No comment provided by engineer. */
 "Sample colors and manage your color palettes." = "采样颜色并管理您的调色板。";
@@ -1470,6 +1486,12 @@
 
 /* No comment provided by engineer. */
 "Select to take the pressure settings of the brush into account when drawing the brush stroke." = "选择以考虑绘制笔刷描边时的笔刷压力设置。";
+
+/* No comment provided by engineer. */
+"Select to turn on the erase mode." = "选择以打开橡皮擦模式。";
+
+/* No comment provided by engineer. */
+"Select to turn on the paint mode." = "选择以打开绘画模式。";
 
 /* No comment provided by engineer. */
 "Select to turn on the Pixel Eraser mode." = "选择以打开像素橡皮擦模式。";
@@ -1790,6 +1812,9 @@
 "Set the hue of the selected color." = "设置所选颜色的色相。";
 
 /* No comment provided by engineer. */
+"Set the intensity of the color adjusments." = "设置色调的强度。";
+
+/* No comment provided by engineer. */
 "Set the intensity of the fade effect in the brightest areas of the image." = "设置图像最亮区域淡入淡出效果的强度。";
 
 /* No comment provided by engineer. */
@@ -1937,6 +1962,9 @@
 "Set the softness of the brush." = "设置画笔的柔和度。";
 
 /* No comment provided by engineer. */
+"Set the softness of the gradient mask." = "设置渐变图层的柔和度。";
+
+/* No comment provided by engineer. */
 "Set the spacing between each brush texture mark in your brushstroke." = "设置笔刷纹理标记之间的间距。";
 
 /* No comment provided by engineer. */
@@ -2079,6 +2107,9 @@
 
 /* No comment provided by engineer. */
 "Show more export options." = "显示更多导出选项。";
+
+/* No comment provided by engineer. */
+"Show split comparison view." = "显示分割对比视图。";
 
 /* No comment provided by engineer. */
 "Show the Export for Web presets." = "显示 Web 预置导出。";

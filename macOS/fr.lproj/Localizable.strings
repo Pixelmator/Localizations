@@ -40,12 +40,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ s";
 
-/* No comment provided by engineer. */
-"%@/month" = "%@/mois";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@/an";
-
 /* seconds */
 "%@s" = "%@s";
 
@@ -53,7 +47,7 @@
 "%d files already exists. Do you want to replace them?" = "%d fichiers existent déjà. Voulez-vous les remplacer ?";
 
 /* No comment provided by engineer. */
-"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "%1$d des %2$d photos n'ont pas été exportées en raison d'une erreur. Si le problème persiste, contactez-nous pour obtenir de l'aide.";
+"%d of %d photos were not exported due to an error." = "Impossible d'exporter %1$d des %2$d photos en raison d'une erreur.";
 
 /* No comment provided by engineer. */
 "%d Photo Selected" = "%d photo sélectionnée";
@@ -326,10 +320,7 @@
 "An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "Une erreur s'est produite et l'enregistrement de vos modifications dans le fichier sidecar de cette image a échoué.\n\nSi vous souhaitez conserver les derniers calques et autres modifications non destructives, exportez l'image au format Pixelmator Pro.";
 
 /* No comment provided by engineer. */
-"An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "Une erreur s'est produite lors de l'enregistrement de vos modifications dans la bibliothèque Photos. Si le problème persiste, contactez-nous pour obtenir de l'aide.";
-
-/* No comment provided by engineer. */
-"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "Une erreur est survenue lors de la préparation des photos en vue du partage. Si le problème persiste, contactez-nous pour obtenir de l'aide.";
+"An error occurred while preparing photos for sharing." = "Une erreur est survenue lors de la préparation des photos en vue du partage.";
 
 /* No comment provided by engineer. */
 "An error occurred while saving the sidecar file for this asset." = "Une erreur est survenue lors de l'enregistrement du fichier sidecar de cette ressource.";
@@ -446,7 +437,7 @@
 "Auto Contrast" = "Contraste automatique";
 
 /* No comment provided by engineer. */
-"Auto Enhance" = "Accentuation automatique";
+"Auto Enhance" = "Améliorer automatiquement";
 
 /* No comment provided by engineer. */
 "Auto Hue & Saturation" = "Teinte & saturation auto";
@@ -536,7 +527,7 @@
 "Bits per channel" = "Bits par couche";
 
 /* No comment provided by engineer. */
-"Black & White" = "Noir & Blanc";
+"Black & White" = "Noir et blanc";
 
 /* No comment provided by engineer. */
 "Black Point" = "Point noir ";
@@ -731,7 +722,7 @@
 "Choose a styles collection." = "Choisir une collection de styles.";
 
 /* No comment provided by engineer. */
-"Choose an image to use for color matching." = "Choisissez une image à utiliser pour la correspondance des couleurs.";
+"Choose an image to use for color matching." = "Choisissez une image à utiliser pour adapter les couleurs.";
 
 /* No comment provided by engineer. */
 "Choose LUT…" = "Choisir une LUT…";
@@ -792,6 +783,9 @@
 
 /* No comment provided by engineer. */
 "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "Cliquer sur Autoriser l’accès pour permettre à Pixelmator Pro d’accéder aux fichiers du dossier « %@ ».";
+
+/* No comment provided by engineer. */
+"Click save photo to save your edits, or choose Discard Changes to discard them." = "Click save photo to save your edits, or choose Discard Changes to discard them.";
 
 /* No comment provided by engineer. */
 "Click to choose a color." = "Cliquez sur cette option pour choisir une couleur.";
@@ -953,6 +947,9 @@
 "Common Profiles" = "Profils communs";
 
 /* No comment provided by engineer. */
+"Compare to Pixelmator Pro" = "Comparer avec Pixelmator Pro";
+
+/* No comment provided by engineer. */
 "Concentration" = "Concentration";
 
 /* No comment provided by engineer. */
@@ -1064,7 +1061,7 @@
 "Crop Tool" = "Outil Couper";
 
 /* No comment provided by engineer. */
-"Crop…" = "Rogner…";
+"Crop…" = "Recadrer…";
 
 /* No comment provided by engineer. */
 "Cursor Position" = "Position du curseur";
@@ -1196,7 +1193,7 @@
 "Delete Slices" = "Supprimer les tranches";
 
 /* No comment provided by engineer. */
-"Denoise" = "Suppression du bruit";
+"Denoise" = "Débruiter";
 
 /* No comment provided by engineer. */
 "Denoise Split Comparison" = "Comparaison en vue partagée de la suppression du bruit";
@@ -1218,6 +1215,9 @@
 
 /* No comment provided by engineer. */
 "Desaturate Settings" = "Paramètres de désaturation";
+
+/* No comment provided by engineer. */
+"Description" = "Description";
 
 /* No comment provided by engineer. */
 "Description Change" = "Modification de la description";
@@ -1421,6 +1421,12 @@
 "Edit a Copy" = "Modifier une copie";
 
 /* No comment provided by engineer. */
+"Edit Details" = "Modifier les détails";
+
+/* No comment provided by engineer. */
+"Edit Details…" = "Modifier les détails…";
+
+/* No comment provided by engineer. */
 "Edit Gradient" = "Modifier le dégradé";
 
 /* No comment provided by engineer. */
@@ -1446,9 +1452,6 @@
 
 /* No comment provided by engineer. */
 "Editing photo %d of %d…" = "Modification de la photo %1$d sur %2$d…";
-
-/* No comment provided by engineer. */
-"Editing Settings…" = "Modification des paramètres…";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "Mode GDE";
@@ -1739,7 +1742,7 @@
 "Fit" = "Adapter";
 
 /* No comment provided by engineer. */
-"Fit Crop" = "Rognage adapté";
+"Fit Crop" = "Recadrage adapté";
 
 /* No comment provided by engineer. */
 "Fixed" = "Fixé";
@@ -1946,10 +1949,10 @@
 "Hide Optimized Preview" = "Masquer l’aperçu optimisé";
 
 /* No comment provided by engineer. */
-"Hide Overlay" = "Masquer la superposition";
+"Hide Overlay" = "Masquer l'incrustation";
 
 /* No comment provided by engineer. */
-"Hide Presets" = "Masquer les paramètres prédéfinis";
+"Hide Presets" = "Masquer les préréglages";
 
 /* No comment provided by engineer. */
 "Hide Rulers" = "Masquer règles";
@@ -2045,7 +2048,7 @@
 "Import as New Document" = "Importer comme nouveau document";
 
 /* No comment provided by engineer. */
-"Import as\nPixelmator Pro" = "Importer au format\nPixelmator Pro";
+"Importing…" = "Importation…";
 
 /* No comment provided by engineer. */
 "Import…" = "Importer…";
@@ -2069,7 +2072,7 @@
 "Information" = "Informations ";
 
 /* No comment provided by engineer. */
-"Initial Crop" = "Rognage initial";
+"Initial Crop" = "Recadrage initial";
 
 /* No comment provided by engineer. */
 "Initial Direction" = "Sens initial";
@@ -2103,9 +2106,6 @@
 
 /* Refers to two vector paths, one which has been intersected with another. */
 "Intersected" = "Croisés";
-
-/* No comment provided by engineer. */
-"Introducing Sidecar Files" = "Découvrez les fichiers sidecar";
 
 /* No comment provided by engineer. */
 "Invert" = "Inverser";
@@ -2175,9 +2175,6 @@
 
 /* No comment provided by engineer. */
 "Learn more" = "En savoir plus";
-
-/* No comment provided by engineer. */
-"Learn more about the update" = "En savoir plus sur la mise à jour";
 
 /* No comment provided by engineer. */
 "Left Indent" = "Indentation gauche";
@@ -2351,10 +2348,10 @@
 "Master Color Wheel" = "Roue chromatique principale";
 
 /* No comment provided by engineer. */
-"Match Colors" = "Correspondance des couleurs";
+"Match Colors" = "Adapter les couleurs";
 
 /* No comment provided by engineer. */
-"Match Colors…" = "Correspondance des couleurs…";
+"Match Colors…" = "Adapter les couleurs…";
 
 /* No comment provided by engineer. */
 "Match Profile" = "Faire correspondre au profil";
@@ -2390,13 +2387,13 @@
 "Millimeters" = "Millimètres";
 
 /* No comment provided by engineer. */
-"ML Crop" = "Rognage ML";
+"ML Crop" = "Recadrer par ML";
 
 /* No comment provided by engineer. */
 "ML Decontaminate Selection" = "ML Decontaminate Selection";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "Amélioration ML";
+"ML Enhance" = "Améliorer par ML";
 
 /* No comment provided by engineer. */
 "ML Refine Mask" = "ML Refine Mask";
@@ -2492,6 +2489,9 @@
 "My Shapes" = "Mes formes";
 
 /* No comment provided by engineer. */
+"Name:" = "Nom :";
+
+/* No comment provided by engineer. */
 "New Album" = "Nouvel album";
 
 /* No comment provided by engineer. */
@@ -2528,7 +2528,7 @@
 "New Line Shape" = "Nouvelle forme de ligne";
 
 /* No comment provided by engineer. */
-"New name for adjustment preset:" = "New name for adjustment preset:";
+"New name for adjustment preset:" = "Nouveau nom du préréglage d'ajustement :";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "Nouveau nom de la collection d’ajustements de couleurs :";
@@ -2684,9 +2684,6 @@
 "Open Original Image" = "Ouvrir l'image d'origine";
 
 /* No comment provided by engineer. */
-"Open Original with Sidecar" = "Ouvrir l'original avec Sidecar";
-
-/* No comment provided by engineer. */
 "Open Sidecar" = "Ouvrir le fichier sidecar";
 
 /* No comment provided by engineer. */
@@ -2823,6 +2820,9 @@
 
 /* The name of a file format containing nondestructive edits created by the Photomator app. */
 "Photomator Edits Document" = "Document des modifications Photomator";
+
+/* No comment provided by engineer. */
+"Photomator Tips" = "Conseils Photomator";
 
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "Photos";
@@ -2966,7 +2966,7 @@
 "Preserve Transparency" = "Conserver les zones transparentes";
 
 /* No comment provided by engineer. */
-"Preset" = "Paramètre prédéfini";
+"Preset" = "Préréglage";
 
 /* DocumentInspector */
 "Presets" = "Préréglages";
@@ -2979,6 +2979,9 @@
 
 /* No comment provided by engineer. */
 "Print" = "Imprimer";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Politique de confidentialité";
 
 /* No comment provided by engineer. */
 "Profile Picture" = "Photo de profil";
@@ -3221,7 +3224,7 @@
 "Replace All" = "Tout remplacer";
 
 /* No comment provided by engineer. */
-"Replace Color" = "Remp. Couleur";
+"Replace Color" = "Remplacer les couleurs";
 
 /* No comment provided by engineer. */
 "Replace Fonts" = "Remplacer les polices";
@@ -3296,7 +3299,7 @@
 "Reset Color Palettes" = "Réinitialiser les palettes de couleurs";
 
 /* No comment provided by engineer. */
-"Reset Crop" = "Réinitialiser le rognage";
+"Reset Crop" = "Réinitialiser le recadrage";
 
 /* No comment provided by engineer. */
 "Reset Denoise" = "Réinitialiser l'action Débruiter";
@@ -3311,7 +3314,7 @@
 "Reset LUTs" = "Réinitialiser les LUT";
 
 /* No comment provided by engineer. */
-"Reset ML Crop" = "Réinitialiser le rognage ML";
+"Reset ML Crop" = "Réinitialiser le recadrage par ML";
 
 /* No comment provided by engineer. */
 "Reset Repair" = "Réinitialiser l'action Réparer";
@@ -3392,19 +3395,19 @@
 "Rotate 180°" = "Rotation à 180°";
 
 /* No comment provided by engineer. */
-"Rotate 90° Left" = "Rotation de 90° vers la gauche";
+"Rotate 90° Left" = "Faire pivoter de 90° vers la gauche";
 
 /* No comment provided by engineer. */
-"Rotate 90° Right" = "Rotation de 90° vers la droite";
+"Rotate 90° Right" = "Faire pivoter de 90° vers la droite";
 
 /* No comment provided by engineer. */
 "Rotate Image 180°" = "Rotation de l’image à 180°";
 
 /* No comment provided by engineer. */
-"Rotate Image 90° Left" = "Rotation l’image de 90° vers la gauche";
+"Rotate Image 90° Left" = "Faire pivoter l’image de 90° vers la gauche";
 
 /* No comment provided by engineer. */
-"Rotate Image 90° Right" = "Rotation de l’image de 90° vers la droite";
+"Rotate Image 90° Right" = "Faire pivoter l’image de 90° vers la droite";
 
 /* No comment provided by engineer. */
 "Rotate Scene" = "Faire pivoter la scène";
@@ -3476,7 +3479,7 @@
 "Save…" = "Enregistrer…";
 
 /* No comment provided by engineer. */
-"Scale" = "Echelle";
+"Scale" = "Échelle";
 
 /* No comment provided by engineer. */
 "Scale Horizontally by Tilt" = "Redim. horiz. par incl.";
@@ -3695,6 +3698,9 @@
 "Sharpness" = "Netteté ";
 
 /* No comment provided by engineer. */
+"Short Name:" = "Nom abrégé :";
+
+/* No comment provided by engineer. */
 "Show" = "Afficher";
 
 /* No comment provided by engineer. */
@@ -3758,10 +3764,10 @@
 "Show or hide the gradient handles on the canvas." = "Afficher ou masquer les poignées dégradées sur la zone.";
 
 /* No comment provided by engineer. */
-"Show Overlay" = "Afficher la superposition";
+"Show Overlay" = "Afficher l'incrustation";
 
 /* No comment provided by engineer. */
-"Show Presets" = "Afficher les paramètres prédéfinis";
+"Show Presets" = "Afficher les préréglages";
 
 /* No comment provided by engineer. */
 "Show Rulers" = "Afficher les règles";
@@ -4079,6 +4085,9 @@
 "Temperature" = "Température";
 
 /* No comment provided by engineer. */
+"Terms of Use" = "Conditions d'utilisation";
+
+/* No comment provided by engineer. */
 "Text" = "Texte";
 
 /* No comment provided by engineer. */
@@ -4098,9 +4107,6 @@
 
 /* No comment provided by engineer. */
 "Textures" = "Textures";
-
-/* No comment provided by engineer. */
-"Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image." = "Les fichiers sidecar vous permettent d'ouvrir directement les images qui ne prennent pas en charge les calques, telles que les images JPEG et PNG, et d'appliquer vos modifications à cette même image. Les calques et les modifications seront automatiquement préservés dans un fichier sidecar Pixelmator Pro associé à l'image d'origine.";
 
 /* No comment provided by engineer. */
 "The document couldn’t be opened." = "Le document n’a pas pu être ouvert.";
@@ -4199,7 +4205,7 @@
 "Tilt Shift" = "Inclinaison-décalage";
 
 /* No comment provided by engineer. */
-"Tint" = "Nuance";
+"Tint" = "Teinte";
 
 /* No comment provided by engineer. */
 "to" = "à ";
@@ -4250,7 +4256,7 @@
 "Triangle" = "Triangle";
 
 /* No comment provided by engineer. */
-"Trim" = "Rogner";
+"Trim" = "Couper";
 
 /* No comment provided by engineer. */
 "Trim Canvas" = "Couper zone de travail";
@@ -4385,10 +4391,10 @@
 "View" = "Afficher";
 
 /* No comment provided by engineer. */
-"Vignette" = "Vignette";
+"Vignette" = "Vignetage";
 
 /* No comment provided by engineer. */
-"Vignette Softness" = "Douceur de la vignette";
+"Vignette Softness" = "Douceur du vignetage";
 
 /* No comment provided by engineer. */
 "Vivid Light" = "Lumière vive";

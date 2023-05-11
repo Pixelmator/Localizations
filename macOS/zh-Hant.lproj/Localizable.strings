@@ -40,12 +40,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ 秒";
 
-/* No comment provided by engineer. */
-"%@/month" = "%@/月";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@/年";
-
 /* seconds */
 "%@s" = "%@s";
 
@@ -53,7 +47,7 @@
 "%d files already exists. Do you want to replace them?" = "%d 個檔案已經存在。是否要替換它們？";
 
 /* No comment provided by engineer. */
-"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "由於一項錯誤而未成功匯出 %2$d 張照片中的 %1$d 張。如果問題重複發生，請聯絡我們，我們會竭力幫忙。";
+"%d of %d photos were not exported due to an error." = "由於一項錯誤，%2$d 張照片中的 %1$d 張未被匯出。";
 
 /* No comment provided by engineer. */
 "%d Photo Selected" = "選取了 %d 張照片";
@@ -326,10 +320,7 @@
 "An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "發生錯誤，無法將此影像的更改內容儲存至邊車檔案。\n\n如果你想保留最新的圖層和其他可還原的編輯過程，請以 Pixelmator Pro 檔案格式匯出。";
 
 /* No comment provided by engineer. */
-"An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "將更改內容儲存至照片庫時發生錯誤。如果問題持續發生，請聯絡我們，我們會竭力幫忙。";
-
-/* No comment provided by engineer. */
-"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "準備照片以供分享時發生錯誤。如果問題重複發生，請聯絡我們，我們會竭力幫忙。";
+"An error occurred while preparing photos for sharing." = "準備照片以共享時發生一項錯誤。";
 
 /* No comment provided by engineer. */
 "An error occurred while saving the sidecar file for this asset." = "儲存這項資產的邊車檔案時發生錯誤。";
@@ -794,6 +785,9 @@
 "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "點擊「允許存取」，讓 Pixelmator Pro 存取「%@」資料夾內的檔案。";
 
 /* No comment provided by engineer. */
+"Click save photo to save your edits, or choose Discard Changes to discard them." = "Click save photo to save your edits, or choose Discard Changes to discard them.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "按一下以選取一種顏色。";
 
 /* No comment provided by engineer. */
@@ -951,6 +945,9 @@
 
 /* No comment provided by engineer. */
 "Common Profiles" = "常用設定檔";
+
+/* No comment provided by engineer. */
+"Compare to Pixelmator Pro" = "與Pixelmator Pro比較";
 
 /* No comment provided by engineer. */
 "Concentration" = "集中";
@@ -1220,6 +1217,9 @@
 "Desaturate Settings" = "去除飽和度設定";
 
 /* No comment provided by engineer. */
+"Description" = "描述";
+
+/* No comment provided by engineer. */
 "Description Change" = "說明更改";
 
 /* No comment provided by engineer. */
@@ -1421,6 +1421,12 @@
 "Edit a Copy" = "編輯拷貝";
 
 /* No comment provided by engineer. */
+"Edit Details" = "編輯詳細資訊";
+
+/* No comment provided by engineer. */
+"Edit Details…" = "編輯詳細資訊…";
+
+/* No comment provided by engineer. */
 "Edit Gradient" = "編輯漸層";
 
 /* No comment provided by engineer. */
@@ -1446,9 +1452,6 @@
 
 /* No comment provided by engineer. */
 "Editing photo %d of %d…" = "正在編輯照片 %2$d 之 %1$d…";
-
-/* No comment provided by engineer. */
-"Editing Settings…" = "編輯設定…";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "EDR 模式";
@@ -2000,7 +2003,7 @@
 "Hue Scatter" = "色相散射";
 
 /* No comment provided by engineer. */
-"If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "如果這樣做，下次使用 Pixelmator Pro 延伸編輯影像時，將恢復所有圖層和其他非破壞性更改。\n\n否則，僅儲存最終經過編輯的影像。";
+"If you do, the next time you edit this image with the Pixelmator Pro extension, any layers and other nondestructive changes will be restored.\n\nOtherwise, only the final, edited image will be saved." = "如果這樣做，下次使用 Pixelmator Pro 延伸編輯影像時，將恢復所有圖層和其他無損更改。\n\n否則，僅儲存最終經過編輯的影像。";
 
 /* Refers to the Adobe Illustrator vector file format. */
 "Illustrator" = "Illustrator";
@@ -2045,7 +2048,7 @@
 "Import as New Document" = "匯入為新文件";
 
 /* No comment provided by engineer. */
-"Import as\nPixelmator Pro" = "匯入為\nPixelmator Pro";
+"Importing…" = "正在匯入⋯";
 
 /* No comment provided by engineer. */
 "Import…" = "匯入⋯";
@@ -2103,9 +2106,6 @@
 
 /* Refers to two vector paths, one which has been intersected with another. */
 "Intersected" = "已相交";
-
-/* No comment provided by engineer. */
-"Introducing Sidecar Files" = "隆重介紹邊車檔案";
 
 /* No comment provided by engineer. */
 "Invert" = "反相";
@@ -2171,13 +2171,10 @@
 "Layer Styles" = "圖層樣式";
 
 /* No comment provided by engineer. */
-"Layers and other nondestructive edits will no longer be preserved for this image unless you re-enable this option from the Sidecar menu." = "將不再儲存此影像的圖層和其他非破壞性編輯，除非你從邊車檔案的選單中重新開啟設定。";
+"Layers and other nondestructive edits will no longer be preserved for this image unless you re-enable this option from the Sidecar menu." = "將不再儲存此影像的圖層和其他無損編輯，除非你從邊車檔案的選單中重新開啟設定。";
 
 /* No comment provided by engineer. */
 "Learn more" = "瞭解更多資訊";
-
-/* No comment provided by engineer. */
-"Learn more about the update" = "進一步瞭解更新內容";
 
 /* No comment provided by engineer. */
 "Left Indent" = "左端縮排";
@@ -2492,6 +2489,9 @@
 "My Shapes" = "我的形狀";
 
 /* No comment provided by engineer. */
+"Name:" = "名稱：";
+
+/* No comment provided by engineer. */
 "New Album" = "新增相簿";
 
 /* No comment provided by engineer. */
@@ -2528,7 +2528,7 @@
 "New Line Shape" = "新建線條形狀";
 
 /* No comment provided by engineer. */
-"New name for adjustment preset:" = "New name for adjustment preset:";
+"New name for adjustment preset:" = "調整預設組的新名稱：";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "顏色調整集合的新名稱:";
@@ -2684,9 +2684,6 @@
 "Open Original Image" = "開啟原始影像";
 
 /* No comment provided by engineer. */
-"Open Original with Sidecar" = "使用邊車檔案開啟原檔";
-
-/* No comment provided by engineer. */
 "Open Sidecar" = "開啟邊車檔案";
 
 /* No comment provided by engineer. */
@@ -2824,6 +2821,9 @@
 /* The name of a file format containing nondestructive edits created by the Photomator app. */
 "Photomator Edits Document" = "Photomator 編輯文件";
 
+/* No comment provided by engineer. */
+"Photomator Tips" = "Photomator 秘訣";
+
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "照片";
 
@@ -2957,7 +2957,7 @@
 "Preserve Edits" = "保留編輯";
 
 /* No comment provided by engineer. */
-"Preserve nondestructive edits" = "保留非破壞性編輯";
+"Preserve nondestructive edits" = "保留無損編輯";
 
 /* No comment provided by engineer. */
 "Preserve transparency" = "保留透明度";
@@ -2979,6 +2979,9 @@
 
 /* No comment provided by engineer. */
 "Print" = "列印";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "隱私權政策";
 
 /* No comment provided by engineer. */
 "Profile Picture" = "個人頁面圖像";
@@ -3575,7 +3578,7 @@
 "Select Sky" = "選取天空";
 
 /* No comment provided by engineer. */
-"Select Subject" = "選擇主體";
+"Select Subject" = "選取主體";
 
 /* No comment provided by engineer. */
 "Select Top Layer" = "選擇頂層";
@@ -3693,6 +3696,9 @@
 
 /* No comment provided by engineer. */
 "Sharpness" = "清晰度";
+
+/* No comment provided by engineer. */
+"Short Name:" = "短名稱：";
 
 /* No comment provided by engineer. */
 "Show" = "顯示";
@@ -4079,6 +4085,9 @@
 "Temperature" = "溫度";
 
 /* No comment provided by engineer. */
+"Terms of Use" = "使用條款";
+
+/* No comment provided by engineer. */
 "Text" = "文字";
 
 /* No comment provided by engineer. */
@@ -4098,9 +4107,6 @@
 
 /* No comment provided by engineer. */
 "Textures" = "紋理";
-
-/* No comment provided by engineer. */
-"Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image." = "感謝邊車檔案，現在你可以直接開啟 JPEG 和 PNG 等不支援圖層的影像格式了。你可以直接將更改內容儲存到同一張影像中。我們將把圖層和編輯過程儲存在與原始檔案相連結的 Pixelmator Pro 邊車檔案中。";
 
 /* No comment provided by engineer. */
 "The document couldn’t be opened." = "無法開啟文件。";
@@ -4475,7 +4481,7 @@
 "You can download the latest version of %@ from the Mac App Store." = "您可以從 Mac App Store 下載最新版本 %@。";
 
 /* No comment provided by engineer. */
-"You can revert to a previous version of your document, however, it will not contain any nondestructive edits." = "你可以復原文件先前的版本，但是它將不會包含任何非破壞性的編輯過程。";
+"You can revert to a previous version of your document, however, it will not contain any nondestructive edits." = "你可以復原文件先前的版本，但是它將不會包含任何無損編輯過程。";
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the FaceTime camera to add images to your documents, please allow access in System Preferences." = "您之前曾拒絕授予許可權，如果希望使用 FaceTime 相機添加影像到文件中，請在系統首選項中允許存取權限。";

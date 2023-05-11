@@ -40,12 +40,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ с";
 
-/* No comment provided by engineer. */
-"%@/month" = "%@/мес.";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@/год";
-
 /* seconds */
 "%@s" = "%@с";
 
@@ -53,7 +47,7 @@
 "%d files already exists. Do you want to replace them?" = "Уже имеется %d файлов. Хотите заменить их?";
 
 /* No comment provided by engineer. */
-"%d of %d photos were not exported due to an error. If this happens repeatedly, reach out to us and we'll do our best to help out." = "Не удалось экспортировать %1$d из %2$d фото, поскольку произошел сбой. Если ошибка не исчезнет, свяжитесь с нами, и мы постараемся помочь.";
+"%d of %d photos were not exported due to an error." = "Не удалось экспортировать %1$d из %2$d фото, поскольку произошел сбой.";
 
 /* No comment provided by engineer. */
 "%d Photo Selected" = "Выбрано %d фото";
@@ -242,7 +236,7 @@
 "Add Point" = "Добавить точку";
 
 /* No comment provided by engineer. */
-"Add Preset" = "Добавить набор";
+"Add Preset" = "Добавить пресет";
 
 /* No comment provided by engineer. */
 "Add Slice" = "Добавить ломтик";
@@ -272,7 +266,7 @@
 "Adjust the transparency of the color." = "Отрегулируйте прозрачность цвета.";
 
 /* No comment provided by engineer. */
-"Adjustments" = "Изменения";
+"Adjustments" = "Корректировки";
 
 /* No comment provided by engineer. */
 "Advanced Settings" = "Дополнительные настройки";
@@ -326,10 +320,7 @@
 "An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "Произошла ошибка: не удалось сохранить ваши изменения в этом изображении в sidecar-файл.\n\nЕсли вы хотите сохранить самые свежие слои и другие неразрушающие правки, экспортируйте изображение в формате Pixelmator Pro.";
 
 /* No comment provided by engineer. */
-"An error occurred while attempting to save your changes to the Photos library. If this happens repeatedly, reach out to us and we'll do our best to help out." = "Произошла ошибка при попытке сохранить ваши изменения в медиатеке Фото. Если это повторится, свяжитесь с нами и мы окажем всю необходимую помощь.";
-
-/* No comment provided by engineer. */
-"An error occurred while preparing photos for sharing. If this happens repeatedly, reach out to us and we'll do our best to help out." = "При подготовке фото к экспорту произошел сбой. Если ошибка не исчезнет, свяжитесь с нами, и мы постараемся помочь.";
+"An error occurred while preparing photos for sharing." = "При подготовке фото к экспорту произошел сбой.";
 
 /* No comment provided by engineer. */
 "An error occurred while saving the sidecar file for this asset." = "Ошибка при сохранении файла sidecar для этого объекта.";
@@ -395,7 +386,7 @@
 "Are you sure you want to remove the entire “%@” collection?" = "Уверены, что хотите удалить всю коллекцию “%@”?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to remove the “%@” preset?" = "Уверены, что хотите удалить набор настроек «%@»?";
+"Are you sure you want to remove the “%@” preset?" = "Уверены, что хотите удалить пресет «%@»?";
 
 /* No comment provided by engineer. */
 "Are you sure you'd like to delete all Photomator sidecar files older than 30 days?" = "Уверены, что хотите удалить все sidecar-файлы Photomator, более старые чем 30 дней?";
@@ -419,7 +410,7 @@
 "Arrow from Point" = "Стрелка с точкой";
 
 /* No comment provided by engineer. */
-"Aspect Ratio Presets:" = "Наборы формата кадра:";
+"Aspect Ratio Presets:" = "Пресеты формата кадра:";
 
 /* No comment provided by engineer. */
 "Assign Profile" = "Присвоить профиль";
@@ -449,7 +440,7 @@
 "Auto Enhance" = "Автоулучшение";
 
 /* No comment provided by engineer. */
-"Auto Hue & Saturation" = "Авто оттенок и насыщ.";
+"Auto Hue & Saturation" = "Автом. тон и насыщ.";
 
 /* No comment provided by engineer. */
 "Auto Light" = "Авто свет";
@@ -794,10 +785,13 @@
 "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "Нажать, чтобы открыть доступ файлам Pixelmator Pro в папке \"%@\".";
 
 /* No comment provided by engineer. */
+"Click save photo to save your edits, or choose Discard Changes to discard them." = "Click save photo to save your edits, or choose Discard Changes to discard them.";
+
+/* No comment provided by engineer. */
 "Click to choose a color." = "Нажать для выбора цвета.";
 
 /* No comment provided by engineer. */
-"Click to hide or show the color adjustment presets." = "Нажать, чтобы скрыть/показать наборы цветокорректировки.";
+"Click to hide or show the color adjustment presets." = "Нажать, чтобы скрыть/показать пресеты цветокоррекции.";
 
 /* No comment provided by engineer. */
 "Click to hide or show the color picker." = "Нажать, чтобы скрыть или показать пипетку.";
@@ -806,16 +800,16 @@
 "Click to hide or show the color swatches." = "Нажать, чтобы скрыть или показать образцы.";
 
 /* No comment provided by engineer. */
-"Click to hide or show the effect presets." = "Нажать, чтобы скрыть/показать наборы эффектов.";
+"Click to hide or show the effect presets." = "Нажать, чтобы скрыть/показать пресеты эффектов.";
 
 /* No comment provided by engineer. */
-"Click to hide or show the style presets." = "Нажать, чтобы скрыть/показать наборы стилей.";
+"Click to hide or show the style presets." = "Нажать, чтобы скрыть/показать пресеты стилей.";
 
 /* No comment provided by engineer. */
 "Click to pick a color from your image" = "Нажать для выбора цвета изображения";
 
 /* No comment provided by engineer. */
-"Click to pick a color from your image." = "Нажать для выбора цвета изображения.";
+"Click to pick a color from your image." = "Нажмите для выбора цвета изображения.";
 
 /* No comment provided by engineer. */
 "Click to pick a color to remove from your image" = "Нажать для выбора цвета, который надо убрать из изображения";
@@ -953,13 +947,16 @@
 "Common Profiles" = "Общие профили";
 
 /* No comment provided by engineer. */
+"Compare to Pixelmator Pro" = "Сравнить с Pixelmator Pro";
+
+/* No comment provided by engineer. */
 "Concentration" = "Концентрация";
 
 /* No comment provided by engineer. */
 "Constant" = "Постоянный";
 
 /* DocumentInspector */
-"Constrain" = "Ограничение";
+"Constrain" = "Формат";
 
 /* No comment provided by engineer. */
 "Constrain Proportions" = "Соблюдать пропорции";
@@ -989,13 +986,13 @@
 "Copy" = "Скопировать";
 
 /* No comment provided by engineer. */
-"copy" = "копия";
+"copy" = "(копия)";
 
 /* No comment provided by engineer. */
 "Copy %@" = "Скопировать %@";
 
 /* No comment provided by engineer. */
-"Copy Adjustments" = "Скопировать корректировки";
+"Copy Adjustments" = "Скопировать правки";
 
 /* No comment provided by engineer. */
 "Copy All Palettes" = "Скопировать все палитры";
@@ -1061,7 +1058,7 @@
 "Crop" = "Обрезка";
 
 /* No comment provided by engineer. */
-"Crop Tool" = "Инструмент обрезки";
+"Crop Tool" = "Инструмент «Обрезка»";
 
 /* No comment provided by engineer. */
 "Crop…" = "Обрезка…";
@@ -1196,10 +1193,10 @@
 "Delete Slices" = "Удалить ломтики";
 
 /* No comment provided by engineer. */
-"Denoise" = "Denoise";
+"Denoise" = "Снижение шума";
 
 /* No comment provided by engineer. */
-"Denoise Split Comparison" = "Разделенный экран с Denoise";
+"Denoise Split Comparison" = "Разделенный экран со снижением шума";
 
 /* No comment provided by engineer. */
 "Denoising…" = "Снижение шума…";
@@ -1218,6 +1215,9 @@
 
 /* No comment provided by engineer. */
 "Desaturate Settings" = "Настройки сниж. насыщенности";
+
+/* No comment provided by engineer. */
+"Description" = "Описание";
 
 /* No comment provided by engineer. */
 "Description Change" = "Изменение описания";
@@ -1277,7 +1277,7 @@
 "Disable Mask" = "Отключить маску";
 
 /* No comment provided by engineer. */
-"Disable Texture-Aware Algorithm" = "Отключить алгоритм учёта текстуры";
+"Disable Texture-Aware Algorithm" = "Отключить алгоритм с учетом текстуры";
 
 /* No comment provided by engineer. */
 "Discard Changes" = "Отменить изменения";
@@ -1421,6 +1421,12 @@
 "Edit a Copy" = "Редактировать копию";
 
 /* No comment provided by engineer. */
+"Edit Details" = "Править детали";
+
+/* No comment provided by engineer. */
+"Edit Details…" = "Править детали…";
+
+/* No comment provided by engineer. */
 "Edit Gradient" = "Править градиент";
 
 /* No comment provided by engineer. */
@@ -1446,9 +1452,6 @@
 
 /* No comment provided by engineer. */
 "Editing photo %d of %d…" = "Правка фото %1$d из %2$d…";
-
-/* No comment provided by engineer. */
-"Editing Settings…" = "Настройки правки…";
 
 /* No comment provided by engineer. */
 "EDR Mode" = "EDR-режим";
@@ -1490,7 +1493,7 @@
 "Enable Soft Proof Colors" = "Включить цвета цветопробы";
 
 /* No comment provided by engineer. */
-"Enable Texture-Aware Algorithm" = "Включить алгоритм учёта текстуры";
+"Enable Texture-Aware Algorithm" = "Включить алгоритм с учетом текстуры";
 
 /* Shape stroke end */
 "End" = "Конец";
@@ -1601,7 +1604,7 @@
 "export mask as png" = "экспорт маски как png";
 
 /* No comment provided by engineer. */
-"Export Photo…" = "Экспорт фото…";
+"Export Photo…" = "Экспортировать фото…";
 
 /* No comment provided by engineer. */
 "Export RAW…" = "Экспортировать RAW…";
@@ -1949,7 +1952,7 @@
 "Hide Overlay" = "Скрыть оверлей";
 
 /* No comment provided by engineer. */
-"Hide Presets" = "Скрыть наборы настроек";
+"Hide Presets" = "Скрыть пресеты";
 
 /* No comment provided by engineer. */
 "Hide Rulers" = "Убрать линейки";
@@ -1991,10 +1994,10 @@
 "How to use mockups" = "Как использовать макеты";
 
 /* No comment provided by engineer. */
-"Hue" = "Оттенок";
+"Hue" = "Тон";
 
 /* No comment provided by engineer. */
-"Hue & Saturation" = "Оттенок и насыщ.";
+"Hue & Saturation" = "Тон и насыщенность";
 
 /* No comment provided by engineer. */
 "Hue Scatter" = "Разброс оттенков";
@@ -2045,7 +2048,7 @@
 "Import as New Document" = "Импортировать как новый документ";
 
 /* No comment provided by engineer. */
-"Import as\nPixelmator Pro" = "Импортировать как\nPixelmator Pro";
+"Importing…" = "Импорт…";
 
 /* No comment provided by engineer. */
 "Import…" = "Импортировать…";
@@ -2103,9 +2106,6 @@
 
 /* Refers to two vector paths, one which has been intersected with another. */
 "Intersected" = "Пересекающиеся";
-
-/* No comment provided by engineer. */
-"Introducing Sidecar Files" = "Знакомство с sidecar-файлами";
 
 /* No comment provided by engineer. */
 "Invert" = "Инвертировать";
@@ -2175,9 +2175,6 @@
 
 /* No comment provided by engineer. */
 "Learn more" = "Подробнее";
-
-/* No comment provided by engineer. */
-"Learn more about the update" = "Подробнее об обновлении";
 
 /* No comment provided by engineer. */
 "Left Indent" = "Левый отступ";
@@ -2291,7 +2288,7 @@
 "Low" = "Низкое";
 
 /* No comment provided by engineer. */
-"Luminance" = "Свечение";
+"Luminance" = "Яркость";
 
 /* No comment provided by engineer. */
 "Luminance Noise Reduction" = "Уменьшение шума свечения";
@@ -2390,7 +2387,7 @@
 "Millimeters" = "Миллиметры";
 
 /* No comment provided by engineer. */
-"ML Crop" = "ML-обрезка";
+"ML Crop" = "ИИ-обрезка";
 
 /* No comment provided by engineer. */
 "ML Decontaminate Selection" = "ML Decontaminate Selection";
@@ -2492,6 +2489,9 @@
 "My Shapes" = "Мои фигуры";
 
 /* No comment provided by engineer. */
+"Name:" = "Имя:";
+
+/* No comment provided by engineer. */
 "New Album" = "Новый альбом";
 
 /* No comment provided by engineer. */
@@ -2528,7 +2528,7 @@
 "New Line Shape" = "Новая линия";
 
 /* No comment provided by engineer. */
-"New name for adjustment preset:" = "New name for adjustment preset:";
+"New name for adjustment preset:" = "Новое имя для пресета корректировки:";
 
 /* No comment provided by engineer. */
 "New name for color adjustments collection:" = "Новое имя для коллекции цветокоррекции:";
@@ -2540,13 +2540,13 @@
 "New name for color palette:" = "Новое имя для цветовой палитры:";
 
 /* No comment provided by engineer. */
-"New name for color preset:" = "Новое имя для набора цветов:";
+"New name for color preset:" = "Новое имя для пресета цветов:";
 
 /* No comment provided by engineer. */
 "New name for effects collection:" = "Новое имя для коллекции эффектов:";
 
 /* No comment provided by engineer. */
-"New name for effects preset:" = "Новое имя для набора эффектов:";
+"New name for effects preset:" = "Новое имя для пресета эффектов:";
 
 /* No comment provided by engineer. */
 "New name for gradient collection:" = "Новое имя для коллекции градиентов:";
@@ -2555,13 +2555,13 @@
 "New name for layer style collection:" = "Новое имя для коллекции стилей слоев:";
 
 /* No comment provided by engineer. */
-"New name for layout preset:" = "Новое имя для набора макета:";
+"New name for layout preset:" = "Новое имя для пресета макета:";
 
 /* No comment provided by engineer. */
-"New name for shapes preset:" = "Новое имя для набора фигур:";
+"New name for shapes preset:" = "Новое имя для пресета фигур:";
 
 /* No comment provided by engineer. */
-"New name for style preset:" = "Новое имя для набора стилей:";
+"New name for style preset:" = "Новое имя для пресета стилей:";
 
 /* No comment provided by engineer. */
 "New Polygon Shape" = "Новый многоугольник";
@@ -2684,9 +2684,6 @@
 "Open Original Image" = "Открыть исходное изображение";
 
 /* No comment provided by engineer. */
-"Open Original with Sidecar" = "Открыть исходное изображение с Sidecar";
-
-/* No comment provided by engineer. */
 "Open Sidecar" = "Открыть sidecar";
 
 /* No comment provided by engineer. */
@@ -2720,7 +2717,7 @@
 "Outside" = "Снаружи";
 
 /* No comment provided by engineer. */
-"Overlay" = "Перекрытие";
+"Overlay" = "Оверлей";
 
 /* No comment provided by engineer. */
 "Overwrite" = "Перезаписать";
@@ -2741,7 +2738,7 @@
 "Paste" = "Вставить";
 
 /* No comment provided by engineer. */
-"Paste Adjustments" = "Вставить корректировки";
+"Paste Adjustments" = "Вставить правки";
 
 /* No comment provided by engineer. */
 "Paste All Palettes" = "Вставить все палитры";
@@ -2823,6 +2820,9 @@
 
 /* The name of a file format containing nondestructive edits created by the Photomator app. */
 "Photomator Edits Document" = "Документ Photomator Edits";
+
+/* No comment provided by engineer. */
+"Photomator Tips" = "Советы Photomator";
 
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "Фото";
@@ -2969,7 +2969,7 @@
 "Preset" = "Preset";
 
 /* DocumentInspector */
-"Presets" = "Наборы";
+"Presets" = "Пресеты";
 
 /* No comment provided by engineer. */
 "Pressure" = "Давление";
@@ -2979,6 +2979,9 @@
 
 /* No comment provided by engineer. */
 "Print" = "Напечатать";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Политика конфиденциальности";
 
 /* No comment provided by engineer. */
 "Profile Picture" = "Фото профиля";
@@ -3143,7 +3146,7 @@
 "Remove Document Color" = "Удалить цвет документа";
 
 /* No comment provided by engineer. */
-"Remove from Favorites" = "Убрать из «Избранного»";
+"Remove from Favorites" = "Убрать из избранного";
 
 /* No comment provided by engineer. */
 "Remove Guide" = "Удалить направляющую";
@@ -3182,7 +3185,7 @@
 "Remove “%@” Collection" = "Удалить коллекцию \"%@\"";
 
 /* No comment provided by engineer. */
-"Remove “%@” Preset" = "Удалить набор настроек “%@”";
+"Remove “%@” Preset" = "Удалить пресет “%@”";
 
 /* No comment provided by engineer. */
 "Remove…" = "Удалить…";
@@ -3299,7 +3302,7 @@
 "Reset Crop" = "Сбросить обрезку";
 
 /* No comment provided by engineer. */
-"Reset Denoise" = "Сбросить Denoise";
+"Reset Denoise" = "Сбросить снижение шума";
 
 /* No comment provided by engineer. */
 "Reset Effects" = "Сбросить эффекты";
@@ -3311,7 +3314,7 @@
 "Reset LUTs" = "Удалить несколько LUT";
 
 /* No comment provided by engineer. */
-"Reset ML Crop" = "Сбросить ML-обрезку";
+"Reset ML Crop" = "Сбросить ИИ-обрезку";
 
 /* No comment provided by engineer. */
 "Reset Repair" = "Сбросить исправление";
@@ -3521,7 +3524,7 @@
 "Select \"%@\" LUT" = "Выбрать \"%@\" LUT";
 
 /* No comment provided by engineer. */
-"Select a preset to change your workspace layout." = "Выбрать набор, чтобы изменить макет рабочей области.";
+"Select a preset to change your workspace layout." = "Выбрать пресет, чтобы изменить макет рабочей области.";
 
 /* No comment provided by engineer. */
 "Select All" = "Выбрать все";
@@ -3575,7 +3578,7 @@
 "Select Sky" = "Выбор неба";
 
 /* No comment provided by engineer. */
-"Select Subject" = "Выбрать объект";
+"Select Subject" = "Выбор объекта";
 
 /* No comment provided by engineer. */
 "Select Top Layer" = "Выбрать верхний слой";
@@ -3602,7 +3605,7 @@
 "Selective Clarity" = "Выборочная ясность";
 
 /* No comment provided by engineer. */
-"Selective Color" = "Выбирающий цвет";
+"Selective Color" = "Выборочный цвет";
 
 /* No comment provided by engineer. */
 "Send %@ Backwards" = "Отправить %@ назад";
@@ -3695,6 +3698,9 @@
 "Sharpness" = "Резкость";
 
 /* No comment provided by engineer. */
+"Short Name:" = "Короткое имя:";
+
+/* No comment provided by engineer. */
 "Show" = "Показать";
 
 /* No comment provided by engineer. */
@@ -3761,7 +3767,7 @@
 "Show Overlay" = "Показать оверлей";
 
 /* No comment provided by engineer. */
-"Show Presets" = "Показать наборы настроек";
+"Show Presets" = "Показать пресеты";
 
 /* No comment provided by engineer. */
 "Show Rulers" = "Показать линейки";
@@ -3830,7 +3836,7 @@
 "Size by Speed" = "Размер при скорости";
 
 /* No comment provided by engineer. */
-"Size Presets:" = "Наборы настроек размера:";
+"Size Presets:" = "Пресеты размера:";
 
 /* No comment provided by engineer. */
 "Size Scatter" = "Разброс размеров";
@@ -3962,7 +3968,7 @@
 "Start Drawing" = "Начать рисование";
 
 /* No comment provided by engineer. */
-"Start Editing" = "Начать правку";
+"Start Editing" = "Начать работу";
 
 /* No comment provided by engineer. */
 "Start Freeform Drawing" = "Начать свободное рисование";
@@ -4079,6 +4085,9 @@
 "Temperature" = "Температура";
 
 /* No comment provided by engineer. */
+"Terms of Use" = "Условия использования";
+
+/* No comment provided by engineer. */
 "Text" = "Текст";
 
 /* No comment provided by engineer. */
@@ -4098,9 +4107,6 @@
 
 /* No comment provided by engineer. */
 "Textures" = "Текстуры";
-
-/* No comment provided by engineer. */
-"Thanks to sidecar files, you can directly open images that don't support layers, such as JPEG and PNG, and save your changes right back to the same image. Layers and edits will be automatically preserved in a Pixelmator Pro sidecar file linked to the original image." = "Благодаря sidecar-файлам вы можете напрямую открывать изображения, такие как JPEG и PNG, не поддерживающие слоев, и сохранять ваши правки прямо в то же самое изображение. Слои и правки будут автоматически сохранены в sidecar-файле Pixelmator Pro, связанном с исходным изображением.";
 
 /* No comment provided by engineer. */
 "The document couldn’t be opened." = "Не удается открыть документ.";
@@ -4217,7 +4223,7 @@
 "Tolerance: %@" = "Допуск: %@";
 
 /* No comment provided by engineer. */
-"Tone" = "Тоновый";
+"Tone" = "Тон";
 
 /* No comment provided by engineer. */
 "Tone Map" = "Тоновая карта";
@@ -4373,7 +4379,7 @@
 "Vertical Alignment" = "Вертикальное выравнивание";
 
 /* No comment provided by engineer. */
-"Vibrance" = "Вибрация";
+"Vibrance" = "Красочность";
 
 /* No comment provided by engineer. */
 "Video" = "Видео";
