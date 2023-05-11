@@ -1,5 +1,5 @@
 /* No comment provided by engineer. */
-"%@ would like to access the “%@“ folder." = "%1$@ would like to access the “%2$@“ folder.";
+"%@ would like to access the “%@“ folder." = "%1$@이(가) \"%2$@\" 폴더에 접근하려고 합니다.";
 
 /* No comment provided by engineer. */
 "(Error Code: %i)" = "(오류 코드: %i)";
@@ -20,7 +20,7 @@
 "An error occurred while running the batch editing workflow. Error code: %d." = "일괄 편집 작업흐름을 실행하는 도중 오류가 발생했습니다. 오류 코드: %d.";
 
 /* No comment provided by engineer. */
-"Are you sure you'd like to discard your edits?" = "Are you sure you'd like to discard your edits?";
+"Are you sure you'd like to discard your edits?" = "편집한 내용을 무시하시겠습니까?";
 
 /* No comment provided by engineer. */
 "Batch editing failed because no photos were provided." = "제공된 사진이 없으므로 일괄 편집 작업이 실패했습니다.";
@@ -32,7 +32,7 @@
 "Cancel" = "취소";
 
 /* No comment provided by engineer. */
-"Click Allow Access to grant %@ access to files in the “%@“ folder." = "Click Allow Access to grant %1$@ access to files in the “%2$@“ folder.";
+"Click Allow Access to grant %@ access to files in the “%@“ folder." = "접근 허용을 클릭하면 \"%2$@\" 폴더 안에 있는 파일에 대한 %1$@의 접근을 허용합니다.";
 
 /* No comment provided by engineer. */
 "Clone tool" = "복제 도구";
@@ -77,10 +77,10 @@
 "Feature Unavailable" = "기능 사용 불가";
 
 /* No comment provided by engineer. */
-"Flatten and Duplicate" = "Flatten and Duplicate";
+"Flatten and Duplicate" = "병합 및 복제";
 
 /* No comment provided by engineer. */
-"Flatten and Edit Original" = "Flatten and Edit Original";
+"Flatten and Edit Original" = "병합 및 원본 편집";
 
 /* No comment provided by engineer. */
 "If this happens repeatedly, reach out to us and we’ll help out." = "이 문제가 반복적으로 발생하면 고객 지원에 문의하시기 바랍니다.";
@@ -92,7 +92,7 @@
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "Photomator 구독이 유효하지 않은 것으로 나타납니다. 다음과 같은 원인으로 인해 이러한 상황이 발생할 수 있습니다.\n\n1. 다른 Apple ID로 App Store에 로그인한 경우\n2. 구독이 만료된 경우\n\nApp Store에서 해당 사항을 확인하신 후 다시 시도하시기 바랍니다.";
 
 /* No comment provided by engineer. */
-"It looks like %@ cannot access the “%@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "It looks like %1$@ cannot access the “%2$@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access.";
+"It looks like %@ cannot access the “%@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "응용 프로그램의 사이드카 파일이 저장된 \"%2$@\" 폴더에 %1$@이(가) 접근할 수 없습니다. 이 파일에 대한 액세스를 허용하려면 계속을 클릭한 다음 접근 허용을 클릭하십시오.";
 
 /* No comment provided by engineer. */
 "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "이미 Photomator에 대한 무제한 액세스를 보유하고 있으므로 별도의 비용이 청구되지 않습니다. 앱과 함께 즐거운 시간 보내시기 바랍니다!";
@@ -116,13 +116,13 @@
 "Previous Purchase Found" = "이전 구매 항목이 발견되었습니다";
 
 /* No comment provided by engineer. */
-"Purchase Access" = "Purchase Access";
+"Purchase Access" = "액세스 구매";
 
 /* No comment provided by engineer. */
 "Purchase Restored Successfully" = "구매 항목 복원 성공";
 
 /* No comment provided by engineer. */
-"Purchase unlimited access to Photomator to save your edits, or choose Discard Changes to discard them." = "Purchase unlimited access to Photomator to save your edits, or choose Discard Changes to discard them.";
+"Purchase unlimited access to Photomator to save your edits, or choose Discard Changes to discard them." = "편집 내용을 저장하려면 Photomator 무제한 액세스를 구매하세요. 또는 변경사항 무시를 선택하여 편집 내용을 삭제할 수 있습니다.";
 
 /* No comment provided by engineer. */
 "Repair tool" = "복원 도구";
@@ -143,10 +143,10 @@
 "Save" = "저장";
 
 /* No comment provided by engineer. */
-"Save Changes and Open" = "Save Changes and Open";
+"Save Changes and Open" = "변경사항 저장 및 열기";
 
 /* No comment provided by engineer. */
-"Save Photo (%d Remaining)" = "Save Photo (%d Remaining)";
+"Save Photo (%d Remaining)" = "사진 저장 (%d장 남음)";
 
 /* No comment provided by engineer. */
 "Some of the selected photos are not locally available and the internet connection appears to be offline. Would you like to continue, exporting only the photos available on your device?" = "선택한 사진 중 일부는 로컬에서 사용할 수 없으며 인터넷 연결이 오프라인입니다. 기기에서 사용할 수 있는 사진만 보내시겠습니까?";
@@ -173,7 +173,7 @@
 "Super Resolution" = "초해상도";
 
 /* No comment provided by engineer. */
-"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?";
+"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "사진 에셋에 레이어 또는 비파괴 콘텐츠가 포함되어 있는데, 현재 Photomator에서 지원되지 않으므로 콘텐츠가 병합됩니다.\n\n원본 이미지를 편집하고 덮어쓰시겠습니까? 아니면 복사본을 생성하시겠습니까?";
 
 /* No comment provided by engineer. */
 "The selected image does not contain any adjustments." = "선택된 이미지에는 어떤 색상 조정도 포함되어 있지 않습니다.";
@@ -203,7 +203,7 @@
 "Unable to Edit Images" = "이미지를 편집할 수 없음";
 
 /* No comment provided by engineer. */
-"Unsupported Image Content" = "Unsupported Image Content";
+"Unsupported Image Content" = "지원되지 않는 이미지 콘텐츠";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes?" = "변경사항을 저장하시겠습니까?";
