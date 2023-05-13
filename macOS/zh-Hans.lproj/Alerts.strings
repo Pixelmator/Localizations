@@ -1,5 +1,5 @@
 /* No comment provided by engineer. */
-"%@ would like to access the “%@“ folder." = "%1$@ would like to access the “%2$@“ folder.";
+"%@ would like to access the “%@“ folder." = "%1$@想要访问%2$@文件夹。";
 
 /* No comment provided by engineer. */
 "(Error Code: %i)" = "（错误代码：%i ）";
@@ -20,7 +20,7 @@
 "An error occurred while running the batch editing workflow. Error code: %d." = "应用一套编辑流程时发生了错误。错误代码：%d。";
 
 /* No comment provided by engineer. */
-"Are you sure you'd like to discard your edits?" = "Are you sure you'd like to discard your edits?";
+"Are you sure you'd like to discard your edits?" = "您确定要废弃您的编辑吗？";
 
 /* No comment provided by engineer. */
 "Batch editing failed because no photos were provided." = "一系列编辑失败，因为没有提供图片。";
@@ -32,7 +32,7 @@
 "Cancel" = "取消";
 
 /* No comment provided by engineer. */
-"Click Allow Access to grant %@ access to files in the “%@“ folder." = "Click Allow Access to grant %1$@ access to files in the “%2$@“ folder.";
+"Click Allow Access to grant %@ access to files in the “%@“ folder." = "点击允许并授权%1$@访问%2$@文件夹。";
 
 /* No comment provided by engineer. */
 "Clone tool" = "克隆工具";
@@ -77,10 +77,10 @@
 "Feature Unavailable" = "功能不可用";
 
 /* No comment provided by engineer. */
-"Flatten and Duplicate" = "Flatten and Duplicate";
+"Flatten and Duplicate" = "平展和复制";
 
 /* No comment provided by engineer. */
-"Flatten and Edit Original" = "Flatten and Edit Original";
+"Flatten and Edit Original" = "平展和编辑原件";
 
 /* No comment provided by engineer. */
 "If this happens repeatedly, reach out to us and we’ll help out." = "如果问题持续发生，请与我们联系以获得帮助。";
@@ -92,13 +92,19 @@
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "您好像并未有效订阅 Photomator。可能的原因为：\n\n1. 您是通过另一个 Apple ID 登录 App Store 订阅的。\n2. 您的订阅过期了。\n\n您可以在 App Store 中查看详情，然后再试一次。";
 
 /* No comment provided by engineer. */
-"It looks like %@ cannot access the “%@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "It looks like %1$@ cannot access the “%2$@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access.";
+"It looks like %@ cannot access the “%@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "%1$@好像无权访问%2$@文件夹，也就是储存应用软件的sidecar文件的那个文件夹。如果您想要授予这些文件的访问权限，请点击“继续”，然后点击”允许访问“。";
 
 /* No comment provided by engineer. */
 "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "似乎您已经解锁了 Photomator 的无限权限，因此您没有被扣款。欢迎使用本应用！";
 
 /* No comment provided by engineer. */
+"It's been a few moments since the notification access request appeared and it looks like you haven't granted access.\n\nTo receive a notification before the end of your free trial, allow access in the top right of your screen or in Notifications settings." = "It's been a few moments since the notification access request appeared and it looks like you haven't granted access.\n\nTo receive a notification before the end of your free trial, allow access in the top right of your screen or in Notifications settings.";
+
+/* No comment provided by engineer. */
 "No Subscription Found" = "未找到订阅";
+
+/* No comment provided by engineer. */
+"Notification Access Not Granted" = "Notification Access Not Granted";
 
 /* No comment provided by engineer. */
 "OK" = "好的";
@@ -107,22 +113,28 @@
 "Open App Store" = "打开 App Store";
 
 /* No comment provided by engineer. */
+"Open Notifications Settings" = "Open Notifications Settings";
+
+/* No comment provided by engineer. */
 "Photo Edited by Another App" = "照片被另一个应用编辑过。";
 
 /* No comment provided by engineer. */
 "Photo Imported Successfully" = "成功导入图片";
 
 /* No comment provided by engineer. */
+"Pixelmator Pro needs to be updated." = "Pixelmator Pro needs to be updated.";
+
+/* No comment provided by engineer. */
 "Previous Purchase Found" = "已找到之前的购买信息";
 
 /* No comment provided by engineer. */
-"Purchase Access" = "Purchase Access";
+"Purchase Access" = "购买权限";
 
 /* No comment provided by engineer. */
 "Purchase Restored Successfully" = "已成功恢复购买信息";
 
 /* No comment provided by engineer. */
-"Purchase unlimited access to Photomator to save your edits, or choose Discard Changes to discard them." = "Purchase unlimited access to Photomator to save your edits, or choose Discard Changes to discard them.";
+"Purchase unlimited access to Photomator to save your edits, or choose Discard Changes to discard them." = "购买Photomator的无限使用权以保存您的编辑，或选择废弃编辑。";
 
 /* No comment provided by engineer. */
 "Repair tool" = "修复工具";
@@ -143,10 +155,10 @@
 "Save" = "存储";
 
 /* No comment provided by engineer. */
-"Save Changes and Open" = "Save Changes and Open";
+"Save Changes and Open" = "保存更改并打开";
 
 /* No comment provided by engineer. */
-"Save Photo (%d Remaining)" = "Save Photo (%d Remaining)";
+"Save Photo (%d Remaining)" = "保存照片（剩余 %d 张）";
 
 /* No comment provided by engineer. */
 "Some of the selected photos are not locally available and the internet connection appears to be offline. Would you like to continue, exporting only the photos available on your device?" = "有些所选照片不在本地，由于网络并未被连接，您想要继续只导出在本地的照片吗？";
@@ -173,10 +185,13 @@
 "Super Resolution" = "Super Resolution";
 
 /* No comment provided by engineer. */
-"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?";
+"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "该照片asset包含图层或其他非破坏性内容，但是当前无法被Photomator所支持，所以该部分内容将被融合。\n\n请问您想要编辑并覆盖原始图像还是创建副本？";
 
 /* No comment provided by engineer. */
 "The selected image does not contain any adjustments." = "所选图像并未包含任何调整。";
+
+/* No comment provided by engineer. */
+"The version of Pixelmator Pro installed on this Mac does not support receiving edits from Photomator and needs to be updated in the App Store." = "The version of Pixelmator Pro installed on this Mac does not support receiving edits from Photomator and needs to be updated in the App Store.";
 
 /* No comment provided by engineer. */
 "This photo has been edited by another app. Would you like to discard your edits and open the latest version in the Photos library?" = "该图片被另一个应用编辑过。请问要放弃您的编辑并在照片库中打开最新的版本吗？";
@@ -203,7 +218,7 @@
 "Unable to Edit Images" = "未能编辑图像";
 
 /* No comment provided by engineer. */
-"Unsupported Image Content" = "Unsupported Image Content";
+"Unsupported Image Content" = "不支持的图像内容";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes?" = "请问想要保存您的改变吗？";

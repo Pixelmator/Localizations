@@ -1,5 +1,5 @@
 /* No comment provided by engineer. */
-"%@ would like to access the “%@“ folder." = "%1$@ would like to access the “%2$@“ folder.";
+"%@ would like to access the “%@“ folder." = "%1$@ souhaite accéder au dossier « %2$@ ».";
 
 /* No comment provided by engineer. */
 "(Error Code: %i)" = "(Code d'erreur : %i)";
@@ -20,7 +20,7 @@
 "An error occurred while running the batch editing workflow. Error code: %d." = "Une erreur est survenue lors de l'exécution du workflow de modification groupée. Code d'erreur : %d.";
 
 /* No comment provided by engineer. */
-"Are you sure you'd like to discard your edits?" = "Are you sure you'd like to discard your edits?";
+"Are you sure you'd like to discard your edits?" = "Voulez-vous vraiment supprimer vos modifications ?";
 
 /* No comment provided by engineer. */
 "Batch editing failed because no photos were provided." = "La modification groupée a échoué, car aucune photo n'a été fournie.";
@@ -32,7 +32,7 @@
 "Cancel" = "Annuler";
 
 /* No comment provided by engineer. */
-"Click Allow Access to grant %@ access to files in the “%@“ folder." = "Click Allow Access to grant %1$@ access to files in the “%2$@“ folder.";
+"Click Allow Access to grant %@ access to files in the “%@“ folder." = "Cliquer sur Autoriser l’accès pour autoriser %1$@ à accéder aux fichiers du dossier « %2$@ ».";
 
 /* No comment provided by engineer. */
 "Clone tool" = "Outil Cloner";
@@ -77,10 +77,10 @@
 "Feature Unavailable" = "Fonctionnalité non disponible";
 
 /* No comment provided by engineer. */
-"Flatten and Duplicate" = "Flatten and Duplicate";
+"Flatten and Duplicate" = "Aplatir et dupliquer";
 
 /* No comment provided by engineer. */
-"Flatten and Edit Original" = "Flatten and Edit Original";
+"Flatten and Edit Original" = "Aplatir et modifier l'original";
 
 /* No comment provided by engineer. */
 "If this happens repeatedly, reach out to us and we’ll help out." = "Si le problème persiste, contactez-nous pour obtenir de l'aide.";
@@ -92,13 +92,19 @@
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "Vous ne disposez apparemment pas d'un abonnement actif pour Photomator. Vous êtes sans doute dans l'une des situations suivantes :\n\n1. Vous êtes connecté à l'App Store avec un autre identifiant Apple.\n2. Votre abonnement a expiré.\n\n Rendez-vous dans l'App Store pour faire les vérifications, puis réessayez.";
 
 /* No comment provided by engineer. */
-"It looks like %@ cannot access the “%@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "It looks like %1$@ cannot access the “%2$@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access.";
+"It looks like %@ cannot access the “%@“ folder, which is where the application's sidecar files are stored. If you'd like to allow access to these files, click Continue, then click Allow Access." = "%1$@ n'a apparemment pas accès au dossier « %2$@ » où se trouvent les fichiers sidecar de l'application. Pour autoriser l'accès à ces fichiers, cliquez sur Continuer, puis sur Autoriser l'accès.";
 
 /* No comment provided by engineer. */
 "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "Apparemment, vous bénéficiez déjà d'un accès illimité à Photomator. Aucune somme ne vous a donc été facturée. Profitez bien de l'application !";
 
 /* No comment provided by engineer. */
+"It's been a few moments since the notification access request appeared and it looks like you haven't granted access.\n\nTo receive a notification before the end of your free trial, allow access in the top right of your screen or in Notifications settings." = "It's been a few moments since the notification access request appeared and it looks like you haven't granted access.\n\nTo receive a notification before the end of your free trial, allow access in the top right of your screen or in Notifications settings.";
+
+/* No comment provided by engineer. */
 "No Subscription Found" = "Aucun abonnement trouvé";
+
+/* No comment provided by engineer. */
+"Notification Access Not Granted" = "Notification Access Not Granted";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -107,22 +113,28 @@
 "Open App Store" = "Ouvrir l'App Store";
 
 /* No comment provided by engineer. */
+"Open Notifications Settings" = "Open Notifications Settings";
+
+/* No comment provided by engineer. */
 "Photo Edited by Another App" = "Photo modifiée par une autre application";
 
 /* No comment provided by engineer. */
 "Photo Imported Successfully" = "Photo importée";
 
 /* No comment provided by engineer. */
+"Pixelmator Pro needs to be updated." = "Pixelmator Pro needs to be updated.";
+
+/* No comment provided by engineer. */
 "Previous Purchase Found" = "Achat précédent trouvé";
 
 /* No comment provided by engineer. */
-"Purchase Access" = "Purchase Access";
+"Purchase Access" = "Acheter un accès";
 
 /* No comment provided by engineer. */
 "Purchase Restored Successfully" = "Achat restauré avec succès";
 
 /* No comment provided by engineer. */
-"Purchase unlimited access to Photomator to save your edits, or choose Discard Changes to discard them." = "Purchase unlimited access to Photomator to save your edits, or choose Discard Changes to discard them.";
+"Purchase unlimited access to Photomator to save your edits, or choose Discard Changes to discard them." = "Achetez un accès illimité à Photomator pour enregistrer vos modifications ou choisissez Supprimer les modifications pour les annuler.";
 
 /* No comment provided by engineer. */
 "Repair tool" = "Outil Réparer";
@@ -143,10 +155,10 @@
 "Save" = "Enregistrer";
 
 /* No comment provided by engineer. */
-"Save Changes and Open" = "Save Changes and Open";
+"Save Changes and Open" = "Enregistrer les modifications et ouvrir";
 
 /* No comment provided by engineer. */
-"Save Photo (%d Remaining)" = "Save Photo (%d Remaining)";
+"Save Photo (%d Remaining)" = "Enregistrer la photo (encore %d)";
 
 /* No comment provided by engineer. */
 "Some of the selected photos are not locally available and the internet connection appears to be offline. Would you like to continue, exporting only the photos available on your device?" = "Certaines photos sélectionnées ne sont pas disponibles localement et la connexion Internet est apparemment indisponible. Voulez-vous continuer en exportant uniquement les photos disponibles sur votre appareil ?";
@@ -173,10 +185,13 @@
 "Super Resolution" = "Super résolution";
 
 /* No comment provided by engineer. */
-"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?";
+"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "La ressource Photos contient des calques ou d'autres contenus non destructifs qui ne sont actuellement pas gérés par Photomator. Ces contenus seront par conséquent fusionnés.\n\nVoulez-vous modifier et remplacer l'original ou créer une copie ?";
 
 /* No comment provided by engineer. */
 "The selected image does not contain any adjustments." = "L’image sélectionnée ne contient aucun ajustement.";
+
+/* No comment provided by engineer. */
+"The version of Pixelmator Pro installed on this Mac does not support receiving edits from Photomator and needs to be updated in the App Store." = "The version of Pixelmator Pro installed on this Mac does not support receiving edits from Photomator and needs to be updated in the App Store.";
 
 /* No comment provided by engineer. */
 "This photo has been edited by another app. Would you like to discard your edits and open the latest version in the Photos library?" = "Cette photo a été modifiée par une autre application. Voulez-vous annuler vos modifications et ouvrir la dernière version dans la bibliothèque Photos ?";
@@ -203,7 +218,7 @@
 "Unable to Edit Images" = "Impossible de modifier les images";
 
 /* No comment provided by engineer. */
-"Unsupported Image Content" = "Unsupported Image Content";
+"Unsupported Image Content" = "Contenu d'image non compatible";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes?" = "Voulez-vous enregistrer vos modifications ?";
