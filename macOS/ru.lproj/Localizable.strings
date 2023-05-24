@@ -346,9 +346,6 @@
 /* No comment provided by engineer. */
 "Angle: %@" = "Угол: %@";
 
-/* Refers to the appearance (dark or light) of the app. */
-"Appearance:" = "Оформление:";
-
 /* No comment provided by engineer. */
 "Apple Pencil" = "Apple Pencil";
 
@@ -387,12 +384,6 @@
 
 /* No comment provided by engineer. */
 "Are you sure you want to remove the “%@” preset?" = "Уверены, что хотите удалить пресет «%@»?";
-
-/* No comment provided by engineer. */
-"Are you sure you'd like to delete all Photomator sidecar files older than 30 days?" = "Уверены, что хотите удалить все sidecar-файлы Photomator, более старые чем 30 дней?";
-
-/* No comment provided by engineer. */
-"Are you sure you'd like to delete all Photomator sidecar files?" = "Уверены, что хотите удалить все sidecar-файлы Photomator?";
 
 /* No comment provided by engineer. */
 "Are you sure you'd like to delete all Pixelmator Pro sidecar files older than 30 days?" = "Уверены, что хотите удалить все sidecar-файлы Pixelmator Pro, более давние чем 30 дней?";
@@ -477,9 +468,6 @@
 
 /* No comment provided by engineer. */
 "Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Автоматически сохраняет неразрушающие изменения в файле sidecar, связанном с исходным файлом изображения на вашем Mac.";
-
-/* No comment provided by engineer. */
-"Automatically preserves nondestructive edits in a sidecar file linked to the original photo in your library." = "Автоматически сохраняет неразрушающие изменения в файле sidecar, связанном с исходной фотографией в вашей медиатеке.";
 
 /* No comment provided by engineer. */
 "azimuth: %@, elevation: %@" = "азимут: %1$@, возвышение: %2$@";
@@ -1046,13 +1034,7 @@
 "Create Clipping Mask" = "Создать обтравочную маску";
 
 /* No comment provided by engineer. */
-"Create Photomator album in Photos" = "Создать альбом Photomator в Фото";
-
-/* No comment provided by engineer. */
 "Create stunning designs and illustrations with easy-to-use smart shapes, powerful text tools, and a full set of vector tools." = "Создавайте отличный дизайн и иллюстрации с помощью простых в работе смарт-форм, мощных текстовых инструментов и полного набора векторных инструментов.";
-
-/* No comment provided by engineer. */
-"Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "Создает альбом Photomator в вашей медиатеке Фото и автоматически добавляет каждое фото, измененное в этом приложении в этот альбом.";
 
 /* No comment provided by engineer. */
 "Critical Resources Unavailable" = "Недоступны критически важные ресурсы";
@@ -2035,9 +2017,6 @@
 /* No comment provided by engineer. */
 "Image Layer" = "Слой изображения";
 
-/* Refers to image export quality. */
-"Image Quality:" = "Качество изображения:";
-
 /* No comment provided by engineer. */
 "Image Settings" = "Настройки изображения";
 
@@ -2331,12 +2310,6 @@
 
 /* No comment provided by engineer. */
 "Make Smooth Point" = "Сделать мягкую точку";
-
-/* No comment provided by engineer. */
-"Makes the Hidden album from your Photos library visible in Photomator." = "Создает скрытый альбом из вашей медиатеки Фото, видимый в Photomator.";
-
-/* No comment provided by engineer. */
-"Manage Files…" = "Управлять файлами…";
 
 /* No comment provided by engineer. */
 "Manage Sidecar Files" = "Управлять sidecar-файлами";
@@ -2696,13 +2669,7 @@
 "Open Image" = "Открыть изображение";
 
 /* No comment provided by engineer. */
-"Open JPEG by Default" = "Open JPEG by Default";
-
-/* No comment provided by engineer. */
 "Open Original Image" = "Открыть исходное изображение";
-
-/* No comment provided by engineer. */
-"Open RAW by Default" = "Open RAW by Default";
 
 /* No comment provided by engineer. */
 "Open Sidecar" = "Открыть sidecar";
@@ -2848,9 +2815,6 @@
 /* Refers to application settings that affect interactions with the Apple Photos app. */
 "Photos" = "Фото";
 
-/* Refers to application settings that affect interactions with the Apple Photos app. */
-"Photos:" = "Фото:";
-
 /* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop" = "Photoshop";
 
@@ -2978,9 +2942,6 @@
 "Preserve Edits" = "Сохранить правки";
 
 /* No comment provided by engineer. */
-"Preserve nondestructive edits" = "Сохранять неразрушающие правки";
-
-/* No comment provided by engineer. */
 "Preserve transparency" = "Сохранить прозрачность";
 
 /* No comment provided by engineer. */
@@ -3075,9 +3036,6 @@
 
 /* The name of an image file format. */
 "RAW" = "RAW";
-
-/* No comment provided by engineer. */
-"RAW + JPEG:" = "RAW + JPEG:";
 
 /* No comment provided by engineer. */
 "RAW Layer" = "RAW-слой";
@@ -3311,7 +3269,7 @@
 "Reset All" = "Сбросить все";
 
 /* No comment provided by engineer. */
-"Reset All Color Adjustments" = "Reset All Color Adjustments";
+"Reset All Color Adjustments" = "Сбросить цветокоррекцию";
 
 /* No comment provided by engineer. */
 "Reset Angle" = "Сбросить угол";
@@ -3497,9 +3455,6 @@
 "Save LUT" = "Сохранить LUT";
 
 /* No comment provided by engineer. */
-"Save Sidecar Files In:" = "Сохранить sidecar-файлы в:";
-
-/* No comment provided by engineer. */
 "Save to My Shapes" = "Сохранить в Мои фигуры";
 
 /* No comment provided by engineer. */
@@ -3683,9 +3638,6 @@
 "Set the endpoint size." = "Отрегулировать размер эндпойнта";
 
 /* No comment provided by engineer. */
-"Set the image quality to use when automatically saving changes or sharing images to other apps." = "Задать качество изображения, чтобы использовать при автоматическом сохранении изменений или общем с другими приложениями доступе к изображениям.";
-
-/* No comment provided by engineer. */
 "Set the transparency of the color." = "Задать прозрачность цвета.";
 
 /* No comment provided by engineer. */
@@ -3767,9 +3719,6 @@
 "Show Handles" = "Показать маркеры";
 
 /* No comment provided by engineer. */
-"Show Hidden album" = "Показать скрытый альбом";
-
-/* No comment provided by engineer. */
 "Show hidden tools or customize the list of tools." = "Показать скрытые инструменты или настроить список инструментов.";
 
 /* No comment provided by engineer. */
@@ -3839,13 +3788,7 @@
 "Side by Side" = "Сторона к стороне";
 
 /* No comment provided by engineer. */
-"Sidecar Disk Usage:" = "Использование диска sidecar:";
-
-/* No comment provided by engineer. */
 "Sidecar File Not Found" = "Sidecar-файл не нужен";
-
-/* No comment provided by engineer. */
-"Sidecar Files:" = "Sidecar-файлы:";
 
 /* Refers to a linked file (sidecar file) that is linked to another image file. */
 "Sidecar:" = "Sidecar:";
@@ -4458,9 +4401,6 @@
 
 /* No comment provided by engineer. */
 "Width:" = "Ширина:";
-
-/* Refers to the color of the application window background. */
-"Window Background:" = "Фон окна:";
 
 /* No comment provided by engineer. */
 "Workflows" = "Процессы";
