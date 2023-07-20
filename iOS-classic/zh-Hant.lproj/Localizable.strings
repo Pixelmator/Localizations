@@ -29,9 +29,6 @@
 "(empty)" = "（空）";
 
 /* No comment provided by engineer. */
-"0,75" = "0,75";
-
-/* No comment provided by engineer. */
 "1 Image Selected" = "選定 1 張影像";
 
 /* No comment provided by engineer. */
@@ -99,6 +96,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Size" = "調整大小";
+
+/* Shape line start or end */
+"Adjust the endpoint size." = "調整終點大小。";
 
 /* No comment provided by engineer. */
 "Adjustments" = "調整";
@@ -207,6 +207,9 @@
 "B&W" = "黑白";
 
 /* No comment provided by engineer. */
+"Background" = "背景";
+
+/* No comment provided by engineer. */
 "Background Color" = "背景顏色";
 
 /* No comment provided by engineer. */
@@ -309,6 +312,9 @@
 "BROWSER" = "瀏覽器";
 
 /* No comment provided by engineer. */
+"Brush" = "筆刷";
+
+/* No comment provided by engineer. */
 "Brush Scatter" = "畫筆散佈";
 
 /* No comment provided by engineer. */
@@ -385,6 +391,9 @@
 
 /* No comment provided by engineer. */
 "Choose Template" = "選擇模板";
+
+/* No comment provided by engineer. */
+"Chromatic Aberration" = "色差";
 
 /* No comment provided by engineer. */
 "Chromatic Noise Tracking" = "彩色雜訊跟蹤";
@@ -643,7 +652,13 @@
 "Denoise" = "去除雜訊";
 
 /* No comment provided by engineer. */
+"Depth" = "深度";
+
+/* No comment provided by engineer. */
 "Depth Mask" = "深度蒙版";
+
+/* No comment provided by engineer. */
+"Depth Range" = "深度範圍";
 
 /* Retouch Tools
    Tool */
@@ -811,6 +826,9 @@
 /* No comment provided by engineer. */
 "Enable Sharpening" = "啟用銳化";
 
+/* Shape stroke end */
+"End" = "終點";
+
 /* No comment provided by engineer. */
 "End Point" = "結束點";
 
@@ -962,6 +980,9 @@
 "Freely distort area of an image" = "自由扭曲影像區域";
 
 /* No comment provided by engineer. */
+"Frequency Separation" = "頻率分離";
+
+/* No comment provided by engineer. */
 "From My Mac" = "來自我的 Mac";
 
 /* No comment provided by engineer. */
@@ -1070,6 +1091,9 @@
 /* Layer */
 "Hide Layer" = "隱藏圖層";
 
+/* No comment provided by engineer. */
+"High Pass Radius" = "高通半徑";
+
 /* Color Balance */
 "Highlights" = "突出";
 
@@ -1115,9 +1139,6 @@
 
 /* Tool */
 "Image Size" = "影像大小";
-
-/* No comment provided by engineer. */
-"Images" = "影像";
 
 /* No comment provided by engineer. */
 "Import" = "匯入";
@@ -1275,16 +1296,25 @@
 "Line Spacing" = "行距";
 
 /* No comment provided by engineer. */
+"Linear" = "線性";
+
+/* No comment provided by engineer. */
 "Linear Burn" = "線性加深";
 
 /* No comment provided by engineer. */
 "Linear Dodge" = "線性加亮";
 
 /* No comment provided by engineer. */
+"Linear Gradient" = "線性漸層";
+
+/* No comment provided by engineer. */
 "Linear Light" = "線性光源";
 
 /* No comment provided by engineer. */
 "Linear Tilt-Shift Blur" = "線性傾斜-移位模糊";
+
+/* Shape line start and end */
+"Link endpoints to resize them simultaneously or unlink to resize each endpoint separately." = "連接終點以同時調整其大小，或是取消連接以分別調整終點大小。";
 
 /* No comment provided by engineer. */
 "Linked Files" = "連結的檔案";
@@ -1312,6 +1342,9 @@
 
 /* No comment provided by engineer. */
 "Locked Layer" = "鎖定圖層";
+
+/* No comment provided by engineer. */
+"Low Pass Radius" = "低通半徑";
 
 /* No comment provided by engineer. */
 "Luminance" = "亮度";
@@ -1733,6 +1766,9 @@
 /* No comment provided by engineer. */
 "Purple" = "紫色";
 
+/* No comment provided by engineer. */
+"Purple Fringe" = "紫邊";
+
 /* Units */
 "px" = "像素";
 
@@ -1757,6 +1793,12 @@
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
+
+/* No comment provided by engineer. */
+"Radial" = "徑向";
+
+/* No comment provided by engineer. */
+"Radial Gradient" = "徑向漸層";
 
 /* No comment provided by engineer. */
 "Radius" = "半徑";
@@ -2132,6 +2174,9 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Sepia" = "深褐色";
 
+/* Shape line start or end */
+"Set the endpoint size." = "設定終點大小。";
+
 /* No comment provided by engineer. */
 "Settings" = "設定";
 
@@ -2222,6 +2267,9 @@
 "Skew" = "斜";
 
 /* No comment provided by engineer. */
+"Sky" = "天空";
+
+/* No comment provided by engineer. */
 "Smart Refine" = "智慧精煉";
 
 /* No comment provided by engineer. */
@@ -2307,6 +2355,9 @@
 /* Tool */
 "Star" = "星";
 
+/* Shape stroke start */
+"Start" = "起點";
+
 /* No comment provided by engineer. */
 "Start Point" = "起點";
 
@@ -2329,9 +2380,6 @@
 "Stroke Color" = "筆畫顏色";
 
 /* No comment provided by engineer. */
-"Stroke End" = "筆畫結束";
-
-/* No comment provided by engineer. */
 "Stroke Gradient" = "筆畫漸層";
 
 /* No comment provided by engineer. */
@@ -2344,9 +2392,6 @@
 "Stroke Position" = "筆畫位置";
 
 /* No comment provided by engineer. */
-"Stroke Start" = "筆畫開始";
-
-/* No comment provided by engineer. */
 "Stroke Type" = "筆畫類型";
 
 /* No comment provided by engineer. */
@@ -2357,6 +2402,9 @@
 
 /* Effects category name */
 "Stylize" = "風格化";
+
+/* No comment provided by engineer. */
+"Subject" = "主體";
 
 /* No comment provided by engineer. */
 "Subtract" = "減去";
@@ -2439,6 +2487,9 @@
 
 /* No comment provided by engineer. */
 "Text Color" = "文字顏色";
+
+/* No comment provided by engineer. */
+"Text Size" = "文字尺寸";
 
 /* No comment provided by engineer. */
 "Texture" = "材質";

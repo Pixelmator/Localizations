@@ -29,9 +29,6 @@
 "(empty)" = "(пусто)";
 
 /* No comment provided by engineer. */
-"0,75" = "0,75";
-
-/* No comment provided by engineer. */
 "1 Image Selected" = "Выбрано 1 изображение";
 
 /* No comment provided by engineer. */
@@ -99,6 +96,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Size" = "Изменить размер";
+
+/* Shape line start or end */
+"Adjust the endpoint size." = "Отрегулировать размер конечной точки.";
 
 /* No comment provided by engineer. */
 "Adjustments" = "Изменения";
@@ -207,6 +207,9 @@
 "B&W" = "Ч/Б";
 
 /* No comment provided by engineer. */
+"Background" = "Фон";
+
+/* No comment provided by engineer. */
 "Background Color" = "Цвет фона";
 
 /* No comment provided by engineer. */
@@ -309,6 +312,9 @@
 "BROWSER" = "БРАУЗЕР";
 
 /* No comment provided by engineer. */
+"Brush" = "Кисть";
+
+/* No comment provided by engineer. */
 "Brush Scatter" = "Разброс кисти";
 
 /* No comment provided by engineer. */
@@ -385,6 +391,9 @@
 
 /* No comment provided by engineer. */
 "Choose Template" = "Выбрать шаблон";
+
+/* No comment provided by engineer. */
+"Chromatic Aberration" = "Хроматическая аберрация";
 
 /* No comment provided by engineer. */
 "Chromatic Noise Tracking" = "Трекинг хроматического шума";
@@ -643,7 +652,13 @@
 "Denoise" = "Снижение шума";
 
 /* No comment provided by engineer. */
+"Depth" = "Глубина";
+
+/* No comment provided by engineer. */
 "Depth Mask" = "Маска глубины";
+
+/* No comment provided by engineer. */
+"Depth Range" = "Диапазон глубины";
 
 /* Retouch Tools
    Tool */
@@ -811,6 +826,9 @@
 /* No comment provided by engineer. */
 "Enable Sharpening" = "Включить резкость";
 
+/* Shape stroke end */
+"End" = "Конец";
+
 /* No comment provided by engineer. */
 "End Point" = "Конечная точка";
 
@@ -962,6 +980,9 @@
 "Freely distort area of an image" = "Свободная деформация области изображения";
 
 /* No comment provided by engineer. */
+"Frequency Separation" = "Частотное разложение";
+
+/* No comment provided by engineer. */
 "From My Mac" = "Из моего Mac";
 
 /* No comment provided by engineer. */
@@ -1070,6 +1091,9 @@
 /* Layer */
 "Hide Layer" = "Скрыть слой";
 
+/* No comment provided by engineer. */
+"High Pass Radius" = "Радиус цветового контраста";
+
 /* Color Balance */
 "Highlights" = "Светлые участки";
 
@@ -1115,9 +1139,6 @@
 
 /* Tool */
 "Image Size" = "Размер изображения";
-
-/* No comment provided by engineer. */
-"Images" = "Изображения";
 
 /* No comment provided by engineer. */
 "Import" = "Импорт";
@@ -1275,16 +1296,25 @@
 "Line Spacing" = "Межстрочный интервал";
 
 /* No comment provided by engineer. */
+"Linear" = "Линейный";
+
+/* No comment provided by engineer. */
 "Linear Burn" = "Линейное затемнение";
 
 /* No comment provided by engineer. */
 "Linear Dodge" = "Линейный осветлитель";
 
 /* No comment provided by engineer. */
+"Linear Gradient" = "Линейный градиент";
+
+/* No comment provided by engineer. */
 "Linear Light" = "Линейный свет";
 
 /* No comment provided by engineer. */
 "Linear Tilt-Shift Blur" = "Линейное размытие тилт-шифт";
+
+/* Shape line start and end */
+"Link endpoints to resize them simultaneously or unlink to resize each endpoint separately." = "Свяжите конечные точки, чтобы менять их размер одновременно, или разорвите связь между ними, чтобы менять размер каждой конечной точки по отдельности.";
 
 /* No comment provided by engineer. */
 "Linked Files" = "Связанные файлы";
@@ -1312,6 +1342,9 @@
 
 /* No comment provided by engineer. */
 "Locked Layer" = "Заблокированный слой";
+
+/* No comment provided by engineer. */
+"Low Pass Radius" = "Радиус низких частот";
 
 /* No comment provided by engineer. */
 "Luminance" = "Свечение";
@@ -1733,6 +1766,9 @@
 /* No comment provided by engineer. */
 "Purple" = "Пурпурный";
 
+/* No comment provided by engineer. */
+"Purple Fringe" = "Фиолетовая окантовка";
+
 /* Units */
 "px" = "пикс";
 
@@ -1757,6 +1793,12 @@
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
+
+/* No comment provided by engineer. */
+"Radial" = "Круговой";
+
+/* No comment provided by engineer. */
+"Radial Gradient" = "Круговой градиент";
 
 /* No comment provided by engineer. */
 "Radius" = "Радиус";
@@ -2132,6 +2174,9 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Sepia" = "Сепия";
 
+/* Shape line start or end */
+"Set the endpoint size." = "Установить размер конечной точки.";
+
 /* No comment provided by engineer. */
 "Settings" = "Настройки";
 
@@ -2222,6 +2267,9 @@
 "Skew" = "Наклон";
 
 /* No comment provided by engineer. */
+"Sky" = "Небо";
+
+/* No comment provided by engineer. */
 "Smart Refine" = "Смарт-уточнение";
 
 /* No comment provided by engineer. */
@@ -2307,6 +2355,9 @@
 /* Tool */
 "Star" = "Звезда";
 
+/* Shape stroke start */
+"Start" = "Начало";
+
 /* No comment provided by engineer. */
 "Start Point" = "Начальная точка";
 
@@ -2329,9 +2380,6 @@
 "Stroke Color" = "Цвет контура";
 
 /* No comment provided by engineer. */
-"Stroke End" = "Конец штриха";
-
-/* No comment provided by engineer. */
 "Stroke Gradient" = "Градиент контура";
 
 /* No comment provided by engineer. */
@@ -2344,9 +2392,6 @@
 "Stroke Position" = "Позиция штриха";
 
 /* No comment provided by engineer. */
-"Stroke Start" = "Начало штриха";
-
-/* No comment provided by engineer. */
 "Stroke Type" = "Тип штриха";
 
 /* No comment provided by engineer. */
@@ -2357,6 +2402,9 @@
 
 /* Effects category name */
 "Stylize" = "Стилизовать";
+
+/* No comment provided by engineer. */
+"Subject" = "Сюжет";
 
 /* No comment provided by engineer. */
 "Subtract" = "Вычесть";
@@ -2439,6 +2487,9 @@
 
 /* No comment provided by engineer. */
 "Text Color" = "Цвет текста";
+
+/* No comment provided by engineer. */
+"Text Size" = "Размер текста";
 
 /* No comment provided by engineer. */
 "Texture" = "Текстура";

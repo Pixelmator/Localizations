@@ -29,9 +29,6 @@
 "(empty)" = "(leer)";
 
 /* No comment provided by engineer. */
-"0,75" = "0,75";
-
-/* No comment provided by engineer. */
 "1 Image Selected" = "1 Bild ausgewählt";
 
 /* No comment provided by engineer. */
@@ -99,6 +96,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Size" = "Größenkorrektur";
+
+/* Shape line start or end */
+"Adjust the endpoint size." = "Größe des Endpunkts anpassen.";
 
 /* No comment provided by engineer. */
 "Adjustments" = "Korrekturen";
@@ -207,6 +207,9 @@
 "B&W" = "S&W";
 
 /* No comment provided by engineer. */
+"Background" = "Hintergrund";
+
+/* No comment provided by engineer. */
 "Background Color" = "Hintergrundfarbe";
 
 /* No comment provided by engineer. */
@@ -309,6 +312,9 @@
 "BROWSER" = "ÜBERSICHT";
 
 /* No comment provided by engineer. */
+"Brush" = "Pinsel";
+
+/* No comment provided by engineer. */
 "Brush Scatter" = "Pinselstreuung";
 
 /* No comment provided by engineer. */
@@ -385,6 +391,9 @@
 
 /* No comment provided by engineer. */
 "Choose Template" = "Vorlage auswählen";
+
+/* No comment provided by engineer. */
+"Chromatic Aberration" = "Farbabweichung";
 
 /* No comment provided by engineer. */
 "Chromatic Noise Tracking" = "Chromatische Geräuschmessung";
@@ -643,7 +652,13 @@
 "Denoise" = "Entrauschen";
 
 /* No comment provided by engineer. */
+"Depth" = "Tiefe";
+
+/* No comment provided by engineer. */
 "Depth Mask" = "Tiefenmaske";
+
+/* No comment provided by engineer. */
+"Depth Range" = "Tiefenbereich";
 
 /* Retouch Tools
    Tool */
@@ -811,6 +826,9 @@
 /* No comment provided by engineer. */
 "Enable Sharpening" = "Schärfung aktivieren";
 
+/* Shape stroke end */
+"End" = "Ende";
+
 /* No comment provided by engineer. */
 "End Point" = "Endpunkt";
 
@@ -962,6 +980,9 @@
 "Freely distort area of an image" = "Bereich eines Bildes frei verzerren";
 
 /* No comment provided by engineer. */
+"Frequency Separation" = "Frequenztrennung";
+
+/* No comment provided by engineer. */
 "From My Mac" = "Von meinem Mac";
 
 /* No comment provided by engineer. */
@@ -1070,6 +1091,9 @@
 /* Layer */
 "Hide Layer" = "Ebene ausblenden";
 
+/* No comment provided by engineer. */
+"High Pass Radius" = "Hochpassradius";
+
 /* Color Balance */
 "Highlights" = "Lichter";
 
@@ -1115,9 +1139,6 @@
 
 /* Tool */
 "Image Size" = "Bildgröße";
-
-/* No comment provided by engineer. */
-"Images" = "Bilder";
 
 /* No comment provided by engineer. */
 "Import" = "Importieren";
@@ -1275,16 +1296,25 @@
 "Line Spacing" = "Zeilenabstand";
 
 /* No comment provided by engineer. */
+"Linear" = "Linear";
+
+/* No comment provided by engineer. */
 "Linear Burn" = "Linear nachbelichten";
 
 /* No comment provided by engineer. */
 "Linear Dodge" = "Linear abwedeln";
 
 /* No comment provided by engineer. */
+"Linear Gradient" = "Linearverlauf";
+
+/* No comment provided by engineer. */
 "Linear Light" = "Lineares Licht";
 
 /* No comment provided by engineer. */
 "Linear Tilt-Shift Blur" = "Lineare Tilt/Shift-Unschärfe";
+
+/* Shape line start and end */
+"Link endpoints to resize them simultaneously or unlink to resize each endpoint separately." = "Verknüpfen Sie die Endpunkte, um ihre Größe gemeinsam zu ändern, oder heben Sie die Verknüpfung auf, um die Größe jedes Endpunkts einzeln zu ändern.";
 
 /* No comment provided by engineer. */
 "Linked Files" = "Verlinkte Dateien";
@@ -1312,6 +1342,9 @@
 
 /* No comment provided by engineer. */
 "Locked Layer" = "Gesperrte Ebene";
+
+/* No comment provided by engineer. */
+"Low Pass Radius" = "Tiefpassradius";
 
 /* No comment provided by engineer. */
 "Luminance" = "Luminanz";
@@ -1733,6 +1766,9 @@
 /* No comment provided by engineer. */
 "Purple" = "Violett";
 
+/* No comment provided by engineer. */
+"Purple Fringe" = "Violetter Rand";
+
 /* Units */
 "px" = "px";
 
@@ -1757,6 +1793,12 @@
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
+
+/* No comment provided by engineer. */
+"Radial" = "Drehungen";
+
+/* No comment provided by engineer. */
+"Radial Gradient" = "Radialverlauf";
 
 /* No comment provided by engineer. */
 "Radius" = "Radius";
@@ -2132,6 +2174,9 @@
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "Sepia" = "Sepia";
 
+/* Shape line start or end */
+"Set the endpoint size." = "Einstellen der Größe des Endpunkts.";
+
 /* No comment provided by engineer. */
 "Settings" = "Einstellungen";
 
@@ -2222,6 +2267,9 @@
 "Skew" = "Neigen";
 
 /* No comment provided by engineer. */
+"Sky" = "Himmel";
+
+/* No comment provided by engineer. */
 "Smart Refine" = "Intelligentes Verfeinern";
 
 /* No comment provided by engineer. */
@@ -2307,6 +2355,9 @@
 /* Tool */
 "Star" = "Stern";
 
+/* Shape stroke start */
+"Start" = "Start";
+
 /* No comment provided by engineer. */
 "Start Point" = "Startpunkt";
 
@@ -2329,9 +2380,6 @@
 "Stroke Color" = "Strichfarbe";
 
 /* No comment provided by engineer. */
-"Stroke End" = "Strichende";
-
-/* No comment provided by engineer. */
 "Stroke Gradient" = "Konturverlauf";
 
 /* No comment provided by engineer. */
@@ -2344,9 +2392,6 @@
 "Stroke Position" = "Strichposition";
 
 /* No comment provided by engineer. */
-"Stroke Start" = "Strichbeginn";
-
-/* No comment provided by engineer. */
 "Stroke Type" = "Strichart";
 
 /* No comment provided by engineer. */
@@ -2357,6 +2402,9 @@
 
 /* Effects category name */
 "Stylize" = "Stilisieren";
+
+/* No comment provided by engineer. */
+"Subject" = "Motiv";
 
 /* No comment provided by engineer. */
 "Subtract" = "Subtrahieren";
@@ -2439,6 +2487,9 @@
 
 /* No comment provided by engineer. */
 "Text Color" = "Textfarbe";
+
+/* No comment provided by engineer. */
+"Text Size" = "Textgröße";
 
 /* No comment provided by engineer. */
 "Texture" = "Struktur";
