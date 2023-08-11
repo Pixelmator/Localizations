@@ -8,10 +8,7 @@
 "%@ Bytes" = "%@ Bytes";
 
 /* No comment provided by engineer. */
-"%@/month" = "%@/月";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@/年";
+"%@ OFF" = "%@ OFF";
 
 /* seconds */
 "%@s" = "%@s";
@@ -24,6 +21,9 @@
 
 /* Actions count */
 "%i actions" = "%i 個操作";
+
+/* No comment provided by engineer. */
+"%i days free, then %@. Cancel anytime." = "%1$i days free, then %2$@. Cancel anytime.";
 
 /* Processing count */
 "%i Images" = "%i 張影像";
@@ -39,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "%i tips" = "%i 個秘訣";
+
+/* No comment provided by engineer. */
+"%i week free, then %@. Cancel anytime." = "%1$i week free, then %2$@. Cancel anytime.";
 
 /* width × height */
 "%i × %i" = "%1$i × %2$i";
@@ -94,6 +97,12 @@
 /* No comment provided by engineer. */
 "Add" = "添加";
 
+/* No comment provided by engineer. */
+"Add Album" = "Add Album";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Add Folder";
+
 /* Edit Menu */
 "Add Group" = "新增群組";
 
@@ -105,6 +114,9 @@
 
 /* No comment provided by engineer. */
 "Add LUTs From Folder…" = "從資料夾新增 LUT…";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Add Photos";
 
 /* No comment provided by engineer. */
 "Add Raw Layer" = "添加原始圖層";
@@ -140,10 +152,16 @@
 "Affine Tile" = "仿射並排";
 
 /* No comment provided by engineer. */
+"Album Order" = "相簿順序";
+
+/* No comment provided by engineer. */
 "Albums" = "相簿";
 
 /* stroke options - stroke position */
 "Align" = "對齊";
+
+/* No comment provided by engineer. */
+"All Albums" = "所有相簿";
 
 /* No comment provided by engineer. */
 "All edits will be saved nondestructively, so you can fine-tune them later." = "所有編輯內容都將以無損格式儲存，以便您之後對其微調。";
@@ -502,11 +520,17 @@
 /* No comment provided by engineer. */
 "Copying Adjustments" = "拷貝調整中";
 
+/* No comment provided by engineer. */
+"Copying…" = "Copying…";
+
 /* stroke options - line join style */
 "Corner" = "角";
 
 /* Tool */
 "Crayon" = "蠟筆";
+
+/* No comment provided by engineer. */
+"Create Album with Selected Photos" = "Create Album with Selected Photos";
 
 /* Gallery */
 "Create Image" = "建立影像";
@@ -516,6 +540,9 @@
 
 /* No comment provided by engineer. */
 "Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "於照片圖庫中建立一個 Photomator 相簿，並自動將使用這個 app 編輯的圖像加至該相簿。";
+
+/* No comment provided by engineer. */
+"Creation Date" = "製作日期";
 
 /* Tool */
 "Crop" = "裁切";
@@ -573,7 +600,7 @@
 /* stroke options */
 "Dashed Line" = "虛線";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Deband" = "去色帶";
 
 /* No comment provided by engineer. */
@@ -592,10 +619,13 @@
 "Delete" = "刪除";
 
 /* No comment provided by engineer. */
-"Delete " = "刪除";
+"Delete \"%@\"?" = "是否要刪除「%@」？";
 
 /* No comment provided by engineer. */
-"Delete \"%@\"?" = "是否要刪除「%@」？";
+"Delete Album" = "刪除相簿";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "刪除資料夾";
 
 /* Layer Management */
 "Delete Layer" = "刪除圖層";
@@ -608,9 +638,6 @@
 
 /* Tool */
 "Denoise" = "去除雜訊";
-
-/* No comment provided by engineer. */
-"Denoise Intensity" = "去除雜訊強度";
 
 /* No comment provided by engineer. */
 "Denoising…" = "正在去除雜訊…";
@@ -861,6 +888,9 @@
 "Empty Album" = "空相簿";
 
 /* No comment provided by engineer. */
+"Empty Folder" = "空白資料夾";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "空圖層";
 
 /* No comment provided by engineer. */
@@ -900,10 +930,16 @@
 "Enjoy unlimited access to Photomator!" = "無限享受 Photomator 的完整功能！";
 
 /* No comment provided by engineer. */
-"Enter a new name for this layer." = "為這個圖層輸入一個新名稱。";
+"Enter a name for this album." = "Enter a name for this album.";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset" = "為這個預設輸入一個新名稱";
+"Enter a name for this folder." = "Enter a name for this folder.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this album." = "Enter a new name for this album.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this layer." = "為這個圖層輸入一個新名稱。";
 
 /* No comment provided by engineer. */
 "Enter a new name for this preset." = "為這個預設輸入一個新名稱。";
@@ -922,6 +958,9 @@
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "邏輯互斥或";
+
+/* No comment provided by engineer. */
+"Exit Select Mode" = "Exit Select Mode";
 
 /* No comment provided by engineer. */
 "Export" = "匯出";
@@ -985,6 +1024,9 @@
 
 /* No comment provided by engineer. */
 "Filmstrip" = "幻燈片";
+
+/* No comment provided by engineer. */
+"First year %@, then %@. Cancel anytime." = "First year %1$@, then %2$@. Cancel anytime.";
 
 /* No comment provided by engineer. */
 "Fit" = "適中";
@@ -1219,6 +1261,9 @@
 "Import to Photos" = "匯入至照片";
 
 /* No comment provided by engineer. */
+"Importing" = "Importing";
+
+/* No comment provided by engineer. */
 "Importing Image" = "正在匯入影像";
 
 /* Processing count */
@@ -1230,6 +1275,9 @@
 
 /* Units */
 "Inches" = "英吋";
+
+/* No comment provided by engineer. */
+"Increase bit-depth and deband image" = "Increase bit-depth and deband image";
 
 /* No comment provided by engineer. */
 "Increase Resolution" = "提升解析度";
@@ -1428,6 +1476,9 @@
 "Magenta / Green" = "洋紅色/綠色";
 
 /* No comment provided by engineer. */
+"Magically improve the quality of photos by removing color banding and increasing color depth with just a tap." = "Magically improve the quality of photos by removing color banding and increasing color depth with just a tap.";
+
+/* No comment provided by engineer. */
 "Magically increase resolution" = "魔術般地提升畫質";
 
 /* No comment provided by engineer. */
@@ -1488,16 +1539,13 @@
 "ML Crop" = "ML 裁切";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML 增強";
-
-/* No comment provided by engineer. */
-"ML Match Colors" = "ML 匹配顏色";
-
-/* No comment provided by engineer. */
 "ML Tool" = "ML 工具";
 
 /* Units */
 "mm" = "公釐";
+
+/* No comment provided by engineer. */
+"Modification Date" = "修改日期";
 
 /* No comment provided by engineer. */
 "More" = "更多";
@@ -1554,7 +1602,22 @@
 "Mustache" = "鬍子";
 
 /* No comment provided by engineer. */
+"My Albums" = "我的相簿";
+
+/* No comment provided by engineer. */
+"New Album" = "新增相簿";
+
+/* No comment provided by engineer. */
+"New Album with Selection" = "New Album with Selection";
+
+/* No comment provided by engineer. */
+"New Folder" = "新增資料夾";
+
+/* No comment provided by engineer. */
 "New Layer" = "新建圖層";
+
+/* No comment provided by engineer. */
+"Newest to Oldest" = "Newest to Oldest";
 
 /* No comment provided by engineer. */
 "Next" = "下一個";
@@ -1615,6 +1678,9 @@
 
 /* No comment provided by engineer. */
 "OK" = "好";
+
+/* No comment provided by engineer. */
+"Oldest to Newest" = "Oldest to Newest";
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "圖像上曲線";
@@ -1692,6 +1758,9 @@
 "Paste Layer" = "貼上圖層";
 
 /* No comment provided by engineer. */
+"Pasting…" = "Pasting…";
+
+/* No comment provided by engineer. */
 "Path" = "路徑";
 
 /* No comment provided by engineer. */
@@ -1722,6 +1791,9 @@
 "Perspective Transform" = "透視轉換";
 
 /* No comment provided by engineer. */
+"Photo" = "照片";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -1744,6 +1816,9 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomator 說明";
+
+/* No comment provided by engineer. */
+"Photomator is on sale" = "Photomator is on sale";
 
 /* Native iOS Photos app name */
 "Photos" = "照片";
@@ -1960,6 +2035,9 @@
 /* No comment provided by engineer. */
 "Redeem Offer" = "兌換優惠";
 
+/* No comment provided by engineer. */
+"Redeem special offer" = "Redeem special offer";
+
 /* Edit Menu */
 "Redefine" = "重新定義";
 
@@ -2003,16 +2081,22 @@
 "Remove Color" = "移除顏色";
 
 /* No comment provided by engineer. */
-"Remove Mask" = "移除蒙版";
+"Remove from Album" = "Remove from Album";
 
 /* No comment provided by engineer. */
-"Remove noise and compression artifacts from photos with improved quality and control, thanks to major Denoise tool improvements and an all-new Intensity slider." = "我們對去除雜訊工具進行了重大改進，並加上全新的強度滑塊，可以消除照片中的雜訊和壓縮失真，提高照片品質，新增更多控制可能。";
+"Remove Mask" = "移除蒙版";
 
 /* No comment provided by engineer. */
 "Remove objects" = "移除物件";
 
 /* Edit Menu */
 "Rename" = "重新命名";
+
+/* No comment provided by engineer. */
+"Rename Album" = "重新命名相簿";
+
+/* No comment provided by engineer. */
+"Rename Folder" = "重新命名資料夾";
 
 /* No comment provided by engineer. */
 "Rename Layer" = "重命名圖層";
@@ -2070,9 +2154,6 @@
 "Reset Denoise" = "重設去除雜訊功能";
 
 /* No comment provided by engineer. */
-"Reset Denoise?" = "是否重設去除雜訊功能？";
-
-/* No comment provided by engineer. */
 "Reset Enhance" = "重設增強功能";
 
 /* Perspective transform */
@@ -2094,22 +2175,13 @@
 "Reset Perspective" = "重設透視";
 
 /* No comment provided by engineer. */
-"Reset Repair tool edits?" = "是否重置修復工具編輯內容？";
+"Reset Smart Deband" = "Reset Smart Deband";
 
 /* No comment provided by engineer. */
 "Reset Super Resolution" = "重設超解析度";
 
-/* No comment provided by engineer. */
-"Reset Super Resolution?" = "是否重設超解析度？";
-
-/* No comment provided by engineer. */
-"Reset the resolution of this photo to the original." = "將照片解析度重置回原始值。";
-
 /* Perspective transform */
 "Reset Vertical Perspective" = "重設垂直透視";
-
-/* No comment provided by engineer. */
-"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "重置修復工具的編輯內容也會回復照片的解析度。";
 
 /* No comment provided by engineer. */
 "Resize Gradient" = "調整漸層大小";
@@ -2122,12 +2194,6 @@
 
 /* No comment provided by engineer. */
 "Restore Purchase" = "恢復購買";
-
-/* No comment provided by engineer. */
-"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution." = "回復照片原始內容也會重置以修復工具和超解析度編輯的內容。";
-
-/* No comment provided by engineer. */
-"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "回復照片原始解析度也會重置修復工具和去除雜訊的編輯內容。";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "於資料夾顯示";
@@ -2248,12 +2314,15 @@
 "See All" = "查看全部";
 
 /* No comment provided by engineer. */
+"See More Plans" = "查看更多方案";
+
+/* No comment provided by engineer. */
 "Select" = "選取";
 
 /* No comment provided by engineer. */
 "Select \"%@\" LUT" = "選擇 \"%@\" LUT";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Select All" = "全選";
 
 /* No comment provided by engineer. */
@@ -2339,6 +2408,9 @@
 
 /* Edit Menu */
 "Share Preset" = "分享預設";
+
+/* No comment provided by engineer. */
+"Shared Albums" = "分享的相簿";
 
 /* Effects category name
    Retouch Tools
@@ -2441,6 +2513,9 @@
 /* No comment provided by engineer. */
 "Sky" = "天空";
 
+/* Tool */
+"Smart Deband" = "Smart Deband";
+
 /* No comment provided by engineer. */
 "Smooth textures" = "平滑紋理";
 
@@ -2514,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "Start editing" = "開始編輯";
+
+/* No comment provided by engineer. */
+"Start Free Trial" = "Start Free Trial";
 
 /* No comment provided by engineer. */
 "Start Point" = "起點";
@@ -2698,6 +2776,9 @@
 
 /* No comment provided by engineer. */
 "This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "此相簿是空的。從「照片」中添加一些照片，在這裡會自動顯示出來。";
+
+/* No comment provided by engineer. */
+"This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "This folder is empty. Add some albums or folders to it and they’ll appear here automatically.";
 
 /* Image open error */
 "This format isn’t currently supported." = "此格式目前不被支援。";
@@ -2980,6 +3061,9 @@
 
 /* No comment provided by engineer. */
 "What's New" = "有什麼新功能";
+
+/* No comment provided by engineer. */
+"What's New in Photomator" = "Photomator 的新功能";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator Photo" = "Pixelmator Photo 的新功能";
