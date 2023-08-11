@@ -8,10 +8,7 @@
 "%@ Bytes" = "%@バイト";
 
 /* No comment provided by engineer. */
-"%@/month" = "%@/月";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@/年";
+"%@ OFF" = "%@ OFF";
 
 /* seconds */
 "%@s" = "%@s";
@@ -24,6 +21,9 @@
 
 /* Actions count */
 "%i actions" = "%i アクション";
+
+/* No comment provided by engineer. */
+"%i days free, then %@. Cancel anytime." = "%1$i days free, then %2$@. Cancel anytime.";
 
 /* Processing count */
 "%i Images" = "%i 画像";
@@ -39,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "%i tips" = "%i チップ";
+
+/* No comment provided by engineer. */
+"%i week free, then %@. Cancel anytime." = "%1$i week free, then %2$@. Cancel anytime.";
 
 /* width × height */
 "%i × %i" = "%1$i × %2$i";
@@ -94,6 +97,12 @@
 /* No comment provided by engineer. */
 "Add" = "追加";
 
+/* No comment provided by engineer. */
+"Add Album" = "Add Album";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Add Folder";
+
 /* Edit Menu */
 "Add Group" = "グループを追加";
 
@@ -105,6 +114,9 @@
 
 /* No comment provided by engineer. */
 "Add LUTs From Folder…" = "フォルダからLUTを追加…";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Add Photos";
 
 /* No comment provided by engineer. */
 "Add Raw Layer" = "RAWレイヤーを追加";
@@ -140,10 +152,16 @@
 "Affine Tile" = "アフィンタイル";
 
 /* No comment provided by engineer. */
+"Album Order" = "アルバムの順序";
+
+/* No comment provided by engineer. */
 "Albums" = "アルバム";
 
 /* stroke options - stroke position */
 "Align" = "配置";
+
+/* No comment provided by engineer. */
+"All Albums" = "すべてのアルバム";
 
 /* No comment provided by engineer. */
 "All edits will be saved nondestructively, so you can fine-tune them later." = "すべての編集は破壊されずに保存されるため、後で微調整できます。";
@@ -502,11 +520,17 @@
 /* No comment provided by engineer. */
 "Copying Adjustments" = "調整をコピー中";
 
+/* No comment provided by engineer. */
+"Copying…" = "Copying…";
+
 /* stroke options - line join style */
 "Corner" = "角";
 
 /* Tool */
 "Crayon" = "クレヨン";
+
+/* No comment provided by engineer. */
+"Create Album with Selected Photos" = "Create Album with Selected Photos";
 
 /* Gallery */
 "Create Image" = "画像を作成";
@@ -516,6 +540,9 @@
 
 /* No comment provided by engineer. */
 "Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "写真ライブラリにPhotomatorアルバムを作成し、アプリで編集した各写真を自動的にアルバムに追加します。";
+
+/* No comment provided by engineer. */
+"Creation Date" = "作成日";
 
 /* Tool */
 "Crop" = "切り抜き";
@@ -573,7 +600,7 @@
 /* stroke options */
 "Dashed Line" = "破線";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Deband" = "バンド除去";
 
 /* No comment provided by engineer. */
@@ -592,10 +619,13 @@
 "Delete" = "削除";
 
 /* No comment provided by engineer. */
-"Delete " = "削除";
+"Delete \"%@\"?" = "\"%@\"を削除？";
 
 /* No comment provided by engineer. */
-"Delete \"%@\"?" = "\"%@\"を削除？";
+"Delete Album" = "アルバムを削除";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "フォルダを削除";
 
 /* Layer Management */
 "Delete Layer" = "レイヤーを削除";
@@ -608,9 +638,6 @@
 
 /* Tool */
 "Denoise" = "ノイズ除去";
-
-/* No comment provided by engineer. */
-"Denoise Intensity" = "ノイズ除去強度";
 
 /* No comment provided by engineer. */
 "Denoising…" = "ノイズ除去";
@@ -861,6 +888,9 @@
 "Empty Album" = "アルバムを空にする";
 
 /* No comment provided by engineer. */
+"Empty Folder" = "空のフォルダ";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "空のレイヤー";
 
 /* No comment provided by engineer. */
@@ -900,10 +930,16 @@
 "Enjoy unlimited access to Photomator!" = "Photomator への無制限アクセスをお楽しみください！";
 
 /* No comment provided by engineer. */
-"Enter a new name for this layer." = "このレイヤーの新しい名前を入力します。";
+"Enter a name for this album." = "Enter a name for this album.";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset" = "このプリセットの新しい名前を入力します。";
+"Enter a name for this folder." = "Enter a name for this folder.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this album." = "Enter a new name for this album.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this layer." = "このレイヤーの新しい名前を入力します。";
 
 /* No comment provided by engineer. */
 "Enter a new name for this preset." = "このプリセットの新しい名前を入力します。";
@@ -922,6 +958,9 @@
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "排他的論理和";
+
+/* No comment provided by engineer. */
+"Exit Select Mode" = "Exit Select Mode";
 
 /* No comment provided by engineer. */
 "Export" = "書き出す";
@@ -985,6 +1024,9 @@
 
 /* No comment provided by engineer. */
 "Filmstrip" = "スライド";
+
+/* No comment provided by engineer. */
+"First year %@, then %@. Cancel anytime." = "First year %1$@, then %2$@. Cancel anytime.";
 
 /* No comment provided by engineer. */
 "Fit" = "画面に合わせる";
@@ -1219,6 +1261,9 @@
 "Import to Photos" = "写真に読み込む";
 
 /* No comment provided by engineer. */
+"Importing" = "Importing";
+
+/* No comment provided by engineer. */
 "Importing Image" = "画像を読み込み中";
 
 /* Processing count */
@@ -1230,6 +1275,9 @@
 
 /* Units */
 "Inches" = "インチ";
+
+/* No comment provided by engineer. */
+"Increase bit-depth and deband image" = "Increase bit-depth and deband image";
 
 /* No comment provided by engineer. */
 "Increase Resolution" = "解像度の向上";
@@ -1428,6 +1476,9 @@
 "Magenta / Green" = "マゼンタ/グリーン";
 
 /* No comment provided by engineer. */
+"Magically improve the quality of photos by removing color banding and increasing color depth with just a tap." = "Magically improve the quality of photos by removing color banding and increasing color depth with just a tap.";
+
+/* No comment provided by engineer. */
 "Magically increase resolution" = "魔法のように解像度を上げる";
 
 /* No comment provided by engineer. */
@@ -1488,16 +1539,13 @@
 "ML Crop" = "ML 切り抜き";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML 自動補正";
-
-/* No comment provided by engineer. */
-"ML Match Colors" = "ML カラーマッチ";
-
-/* No comment provided by engineer. */
 "ML Tool" = "ML ツール";
 
 /* Units */
 "mm" = "ミリ";
+
+/* No comment provided by engineer. */
+"Modification Date" = "変更日";
 
 /* No comment provided by engineer. */
 "More" = "詳細";
@@ -1554,7 +1602,22 @@
 "Mustache" = "口ひげ";
 
 /* No comment provided by engineer. */
+"My Albums" = "マイアルバム";
+
+/* No comment provided by engineer. */
+"New Album" = "新規アルバム";
+
+/* No comment provided by engineer. */
+"New Album with Selection" = "New Album with Selection";
+
+/* No comment provided by engineer. */
+"New Folder" = "新規フォルダ";
+
+/* No comment provided by engineer. */
 "New Layer" = "新規レイヤー";
+
+/* No comment provided by engineer. */
+"Newest to Oldest" = "Newest to Oldest";
 
 /* No comment provided by engineer. */
 "Next" = "次へ";
@@ -1615,6 +1678,9 @@
 
 /* No comment provided by engineer. */
 "OK" = "OK";
+
+/* No comment provided by engineer. */
+"Oldest to Newest" = "Oldest to Newest";
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "画像上の曲線";
@@ -1692,6 +1758,9 @@
 "Paste Layer" = "レイヤーをペースト";
 
 /* No comment provided by engineer. */
+"Pasting…" = "Pasting…";
+
+/* No comment provided by engineer. */
 "Path" = "パス";
 
 /* No comment provided by engineer. */
@@ -1722,6 +1791,9 @@
 "Perspective Transform" = "遠近法変換";
 
 /* No comment provided by engineer. */
+"Photo" = "写真";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -1744,6 +1816,9 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomatorヘルプ";
+
+/* No comment provided by engineer. */
+"Photomator is on sale" = "Photomator is on sale";
 
 /* Native iOS Photos app name */
 "Photos" = "写真";
@@ -1960,6 +2035,9 @@
 /* No comment provided by engineer. */
 "Redeem Offer" = "クーポンを利用";
 
+/* No comment provided by engineer. */
+"Redeem special offer" = "Redeem special offer";
+
 /* Edit Menu */
 "Redefine" = "再設定";
 
@@ -2003,16 +2081,22 @@
 "Remove Color" = "カラーを削除";
 
 /* No comment provided by engineer. */
-"Remove Mask" = "マスクを削除";
+"Remove from Album" = "Remove from Album";
 
 /* No comment provided by engineer. */
-"Remove noise and compression artifacts from photos with improved quality and control, thanks to major Denoise tool improvements and an all-new Intensity slider." = "ノイズ除去ツールの大幅な改善と刷新された強度スライダーにより、品質と制御が向上し、写真からノイズと圧縮アーティファクトを除去します。";
+"Remove Mask" = "マスクを削除";
 
 /* No comment provided by engineer. */
 "Remove objects" = "オブジェクトを削除";
 
 /* Edit Menu */
 "Rename" = "名称変更";
+
+/* No comment provided by engineer. */
+"Rename Album" = "アルバムの名称を変更";
+
+/* No comment provided by engineer. */
+"Rename Folder" = "フォルダ名を変更";
 
 /* No comment provided by engineer. */
 "Rename Layer" = "レイヤーの名前を変更";
@@ -2070,9 +2154,6 @@
 "Reset Denoise" = "ノイズ除去をリセット";
 
 /* No comment provided by engineer. */
-"Reset Denoise?" = "ノイズ除去をリセット？";
-
-/* No comment provided by engineer. */
 "Reset Enhance" = "自動補正をリセット";
 
 /* Perspective transform */
@@ -2094,22 +2175,13 @@
 "Reset Perspective" = "視点をリセット";
 
 /* No comment provided by engineer. */
-"Reset Repair tool edits?" = "修復ツールの編集をリセット？";
+"Reset Smart Deband" = "Reset Smart Deband";
 
 /* No comment provided by engineer. */
 "Reset Super Resolution" = "ML 超解像をリセット？";
 
-/* No comment provided by engineer. */
-"Reset Super Resolution?" = "ML 超解像をリセット？";
-
-/* No comment provided by engineer. */
-"Reset the resolution of this photo to the original." = "この写真の解像度をオリジナルに戻します。";
-
 /* Perspective transform */
 "Reset Vertical Perspective" = "垂直方向の視点をリセット";
-
-/* No comment provided by engineer. */
-"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "修復ツールで行った編集をリセットすると、この写真の解像度もオリジナルに戻ります。";
 
 /* No comment provided by engineer. */
 "Resize Gradient" = "グラデーションのサイズ変更";
@@ -2122,12 +2194,6 @@
 
 /* No comment provided by engineer. */
 "Restore Purchase" = "購入を復元する";
-
-/* No comment provided by engineer. */
-"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution." = "この写真の元のコンテンツを復元すると、修復ツールと超解像で行った編集もリセットされます。";
-
-/* No comment provided by engineer. */
-"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "この写真の元の解像度を復元すると、修復ツールとノイズ除去で行われた編集もリセットされます。";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "ファイルに表示";
@@ -2248,12 +2314,15 @@
 "See All" = "すべてを表示";
 
 /* No comment provided by engineer. */
+"See More Plans" = "その他のプランを見る";
+
+/* No comment provided by engineer. */
 "Select" = "選択";
 
 /* No comment provided by engineer. */
 "Select \"%@\" LUT" = "\"%@\" LUTを選択";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Select All" = "すべてを選択";
 
 /* No comment provided by engineer. */
@@ -2339,6 +2408,9 @@
 
 /* Edit Menu */
 "Share Preset" = "プリセットを共有";
+
+/* No comment provided by engineer. */
+"Shared Albums" = "共有アルバム";
 
 /* Effects category name
    Retouch Tools
@@ -2441,6 +2513,9 @@
 /* No comment provided by engineer. */
 "Sky" = "空";
 
+/* Tool */
+"Smart Deband" = "Smart Deband";
+
 /* No comment provided by engineer. */
 "Smooth textures" = "テクスチャを滑らかにする";
 
@@ -2514,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "Start editing" = "編集を開始";
+
+/* No comment provided by engineer. */
+"Start Free Trial" = "Start Free Trial";
 
 /* No comment provided by engineer. */
 "Start Point" = "開始ポイント";
@@ -2698,6 +2776,9 @@
 
 /* No comment provided by engineer. */
 "This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "このアルバムは空です。 写真アプリで写真を追加すると自動的にここに表示されます。";
+
+/* No comment provided by engineer. */
+"This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "This folder is empty. Add some albums or folders to it and they’ll appear here automatically.";
 
 /* Image open error */
 "This format isn’t currently supported." = "このフォーマットは現在サポートされていません。";
@@ -2980,6 +3061,9 @@
 
 /* No comment provided by engineer. */
 "What's New" = "最新情報";
+
+/* No comment provided by engineer. */
+"What's New in Photomator" = "Photomatorの新機能";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator Photo" = "Pixelmator Photoの新機能";
