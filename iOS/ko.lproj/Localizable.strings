@@ -8,10 +8,7 @@
 "%@ Bytes" = "%@바이트";
 
 /* No comment provided by engineer. */
-"%@/month" = "%@/월";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@/년";
+"%@ OFF" = "%@ 할인";
 
 /* seconds */
 "%@s" = "%@초";
@@ -24,6 +21,9 @@
 
 /* Actions count */
 "%i actions" = "%i개의 작업";
+
+/* No comment provided by engineer. */
+"%i days free, then %@. Cancel anytime." = "%1$i일간 무료, 이후 %2$@. 원할 때 언제든지 취소할 수 있습니다.";
 
 /* Processing count */
 "%i Images" = "%i개의 이미지";
@@ -39,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "%i tips" = "%i개의 팁";
+
+/* No comment provided by engineer. */
+"%i week free, then %@. Cancel anytime." = "%1$i주간 무료, 이후 %2$@. 원할 때 언제든지 취소할 수 있습니다.";
 
 /* width × height */
 "%i × %i" = "%1$i × %2$i";
@@ -68,6 +71,9 @@
 "1 tip" = "1개의 팁";
 
 /* No comment provided by engineer. */
+"1 year %@, then %@/year. Cancel anytime." = "1년간 %1$@, 이후 연간 %2$@. 원할 때 언제든지 취소할 수 있습니다.";
+
+/* No comment provided by engineer. */
 "16 Bits/Channel" = "16비트/채널";
 
 /* No comment provided by engineer. */
@@ -94,6 +100,12 @@
 /* No comment provided by engineer. */
 "Add" = "추가";
 
+/* No comment provided by engineer. */
+"Add Album" = "앨범 추가";
+
+/* No comment provided by engineer. */
+"Add Folder" = "폴더 추가";
+
 /* Edit Menu */
 "Add Group" = "그룹 추가";
 
@@ -105,6 +117,9 @@
 
 /* No comment provided by engineer. */
 "Add LUTs From Folder…" = "폴더에서 LUT 추가…";
+
+/* No comment provided by engineer. */
+"Add Photos" = "사진 추가";
 
 /* No comment provided by engineer. */
 "Add Raw Layer" = "원시 레이어 추가";
@@ -140,10 +155,16 @@
 "Affine Tile" = "어파인 타일";
 
 /* No comment provided by engineer. */
+"Album Order" = "앨범 순서";
+
+/* No comment provided by engineer. */
 "Albums" = "앨범";
 
 /* stroke options - stroke position */
 "Align" = "정렬";
+
+/* No comment provided by engineer. */
+"All Albums" = "모든 앨범";
 
 /* No comment provided by engineer. */
 "All edits will be saved nondestructively, so you can fine-tune them later." = "모든 편집본은 비파괴적으로 저장되므로 나중에 미세 조정할 수 있습니다.";
@@ -502,11 +523,17 @@
 /* No comment provided by engineer. */
 "Copying Adjustments" = "조정 복사 중";
 
+/* No comment provided by engineer. */
+"Copying…" = "복사 중…";
+
 /* stroke options - line join style */
 "Corner" = "모서리";
 
 /* Tool */
 "Crayon" = "크레용";
+
+/* No comment provided by engineer. */
+"Create Album with Selected Photos" = "선택한 사진으로 앨범 만들기";
 
 /* Gallery */
 "Create Image" = "이미지 생성";
@@ -516,6 +543,9 @@
 
 /* No comment provided by engineer. */
 "Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "사진 보관함에 Pixelmator 앨범을 생성하고 앱으로 편집한 모든 사진을 해당 앨범에 자동으로 추가합니다.";
+
+/* No comment provided by engineer. */
+"Creation Date" = "생성일";
 
 /* Tool */
 "Crop" = "자르기";
@@ -573,7 +603,7 @@
 /* stroke options */
 "Dashed Line" = "점선";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Deband" = "밴드 제거";
 
 /* No comment provided by engineer. */
@@ -592,10 +622,13 @@
 "Delete" = "삭제";
 
 /* No comment provided by engineer. */
-"Delete " = "삭제 ";
+"Delete \"%@\"?" = "\"%@\"을(를) 삭제할까요?";
 
 /* No comment provided by engineer. */
-"Delete \"%@\"?" = "\"%@\"을(를) 삭제할까요?";
+"Delete Album" = "앨범 삭제";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "폴더 삭제";
 
 /* Layer Management */
 "Delete Layer" = "레이어 삭제";
@@ -608,9 +641,6 @@
 
 /* Tool */
 "Denoise" = "노이즈 제거";
-
-/* No comment provided by engineer. */
-"Denoise Intensity" = "노이즈 제거 강도";
 
 /* No comment provided by engineer. */
 "Denoising…" = "노이즈 제거 중…";
@@ -861,6 +891,9 @@
 "Empty Album" = "비어 있는 앨범";
 
 /* No comment provided by engineer. */
+"Empty Folder" = "빈 폴더";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "빈 레이어";
 
 /* No comment provided by engineer. */
@@ -900,10 +933,16 @@
 "Enjoy unlimited access to Photomator!" = "Pixelmator Photo를 무제한으로 즐기세요!";
 
 /* No comment provided by engineer. */
-"Enter a new name for this layer." = "이 레이어에 대한 새로운 이름을 입력하세요.";
+"Enter a name for this album." = "이 앨범의 이름을 입력하세요.";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset" = "이 프리셋에 대한 새로운 이름을 입력하세요";
+"Enter a name for this folder." = "이 폴더의 이름을 입력하세요.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this album." = "이 앨범의 새로운 이름을 입력하세요.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this layer." = "이 레이어에 대한 새로운 이름을 입력하세요.";
 
 /* No comment provided by engineer. */
 "Enter a new name for this preset." = "이 프리셋에 대한 새로운 이름을 입력하세요.";
@@ -922,6 +961,9 @@
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "배타적 논리합";
+
+/* No comment provided by engineer. */
+"Exit Select Mode" = "선택 모드에서 나가기";
 
 /* No comment provided by engineer. */
 "Export" = "내보내기";
@@ -1219,6 +1261,9 @@
 "Import to Photos" = "사진으로 가져오기";
 
 /* No comment provided by engineer. */
+"Importing" = "가져오는 중";
+
+/* No comment provided by engineer. */
 "Importing Image" = "이미지를 가져오는 중";
 
 /* Processing count */
@@ -1230,6 +1275,9 @@
 
 /* Units */
 "Inches" = "인치";
+
+/* No comment provided by engineer. */
+"Increase bit-depth and deband image" = "비트 심도 증가 및 이미지에서 밴딩 제거";
 
 /* No comment provided by engineer. */
 "Increase Resolution" = "해상도 올리기";
@@ -1428,6 +1476,9 @@
 "Magenta / Green" = "자홍 / 녹색";
 
 /* No comment provided by engineer. */
+"Magically improve the quality of photos by removing color banding and increasing color depth with just a tap." = "단 한 번의 탭으로 컬러 밴딩을 제거하고 색상 심도를 높여 사진의 품질을 마법처럼 개선합니다.";
+
+/* No comment provided by engineer. */
 "Magically increase resolution" = "마법 같은 해상도 증가";
 
 /* No comment provided by engineer. */
@@ -1488,16 +1539,13 @@
 "ML Crop" = "ML 자르기";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML 향상";
-
-/* No comment provided by engineer. */
-"ML Match Colors" = "ML 색상 일치";
-
-/* No comment provided by engineer. */
 "ML Tool" = "ML 도구";
 
 /* Units */
 "mm" = "mm";
+
+/* No comment provided by engineer. */
+"Modification Date" = "수정일";
 
 /* No comment provided by engineer. */
 "More" = "더 보기";
@@ -1554,7 +1602,22 @@
 "Mustache" = "콧수염";
 
 /* No comment provided by engineer. */
+"My Albums" = "내 앨범";
+
+/* No comment provided by engineer. */
+"New Album" = "새로운 앨범";
+
+/* No comment provided by engineer. */
+"New Album with Selection" = "선택 항목이 있는 새로운 앨범";
+
+/* No comment provided by engineer. */
+"New Folder" = "새 폴더";
+
+/* No comment provided by engineer. */
 "New Layer" = "새 레이어";
+
+/* No comment provided by engineer. */
+"Newest to Oldest" = "최신부터 오래된 순으로";
 
 /* No comment provided by engineer. */
 "Next" = "다음";
@@ -1615,6 +1678,9 @@
 
 /* No comment provided by engineer. */
 "OK" = "확인";
+
+/* No comment provided by engineer. */
+"Oldest to Newest" = "오래된 것부터 최신 순으로";
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "이미지상 곡선";
@@ -1692,6 +1758,9 @@
 "Paste Layer" = "레이어 붙이기";
 
 /* No comment provided by engineer. */
+"Pasting…" = "붙이는 중…";
+
+/* No comment provided by engineer. */
 "Path" = "경로";
 
 /* No comment provided by engineer. */
@@ -1722,6 +1791,9 @@
 "Perspective Transform" = "원근법 변형";
 
 /* No comment provided by engineer. */
+"Photo" = "사진";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -1744,6 +1816,9 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomator 도움말";
+
+/* No comment provided by engineer. */
+"Photomator is on sale" = "Photomator 할인 판매 중입니다";
 
 /* Native iOS Photos app name */
 "Photos" = "사진";
@@ -1960,6 +2035,9 @@
 /* No comment provided by engineer. */
 "Redeem Offer" = "쿠폰 사용";
 
+/* No comment provided by engineer. */
+"Redeem special offer" = "특별 할인 혜택 받기";
+
 /* Edit Menu */
 "Redefine" = "재정의";
 
@@ -2003,16 +2081,22 @@
 "Remove Color" = "색상 제거";
 
 /* No comment provided by engineer. */
-"Remove Mask" = "마스크 제거";
+"Remove from Album" = "앨범에서 제거";
 
 /* No comment provided by engineer. */
-"Remove noise and compression artifacts from photos with improved quality and control, thanks to major Denoise tool improvements and an all-new Intensity slider." = "노이즈 제거 도구의 대폭적인 개선과 새로워진 강도 슬라이더를 통해 사진에서 노이즈와 압축 아티팩트를 제거할 때 더 나은 화질과 제어력을 제공합니다.";
+"Remove Mask" = "마스크 제거";
 
 /* No comment provided by engineer. */
 "Remove objects" = "피사체 제거하기";
 
 /* Edit Menu */
 "Rename" = "이름 변경";
+
+/* No comment provided by engineer. */
+"Rename Album" = "앨범 이름 변경";
+
+/* No comment provided by engineer. */
+"Rename Folder" = "폴더 이름 변경";
 
 /* No comment provided by engineer. */
 "Rename Layer" = "레이어 이름 변경";
@@ -2070,9 +2154,6 @@
 "Reset Denoise" = "노이즈 제거 재설정";
 
 /* No comment provided by engineer. */
-"Reset Denoise?" = "노이즈 조정을 재설정할까요?";
-
-/* No comment provided by engineer. */
 "Reset Enhance" = "향상 재설정";
 
 /* Perspective transform */
@@ -2094,22 +2175,13 @@
 "Reset Perspective" = "투시도 재설정";
 
 /* No comment provided by engineer. */
-"Reset Repair tool edits?" = "복구 도구 편집 내용을 재설정할까요?";
+"Reset Smart Deband" = "스마트 밴딩 제거 재설정";
 
 /* No comment provided by engineer. */
 "Reset Super Resolution" = "초해상도 재설정";
 
-/* No comment provided by engineer. */
-"Reset Super Resolution?" = "초해상도를 재설정할까요?";
-
-/* No comment provided by engineer. */
-"Reset the resolution of this photo to the original." = "이 사진의 해상도를 원래대로 다시 설정합니다.";
-
 /* Perspective transform */
 "Reset Vertical Perspective" = "수직 투시도 재설정";
-
-/* No comment provided by engineer. */
-"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "복구 도구로 수행한 편집 내용을 재설정하면 이 사진의 해상도도 원래대로 복원됩니다.";
 
 /* No comment provided by engineer. */
 "Resize Gradient" = "그라데이션 크기조정";
@@ -2122,12 +2194,6 @@
 
 /* No comment provided by engineer. */
 "Restore Purchase" = "구매 항목 복원";
-
-/* No comment provided by engineer. */
-"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution." = "이 사진의 원래 콘텐츠를 복원하면, 복원 도구와 초해상도 기능을 사용하여 편집한 부분까지 초기화됩니다.";
-
-/* No comment provided by engineer. */
-"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "이 사진의 원래 해상도를 복원하면 복구 도구 및 노이즈 제거로 수행한 편집 내용도 재설정됩니다.";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "파일에서 나타내기";
@@ -2248,12 +2314,15 @@
 "See All" = "모두 보기";
 
 /* No comment provided by engineer. */
+"See More Plans" = "다른 플랜 보기";
+
+/* No comment provided by engineer. */
 "Select" = "선택";
 
 /* No comment provided by engineer. */
 "Select \"%@\" LUT" = "\"%@\" LUT 선택";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Select All" = "전체 선택";
 
 /* No comment provided by engineer. */
@@ -2339,6 +2408,9 @@
 
 /* Edit Menu */
 "Share Preset" = "프리셋 공유";
+
+/* No comment provided by engineer. */
+"Shared Albums" = "공유 앨범";
 
 /* Effects category name
    Retouch Tools
@@ -2441,6 +2513,9 @@
 /* No comment provided by engineer. */
 "Sky" = "하늘";
 
+/* Tool */
+"Smart Deband" = "스마트 밴딩 제거";
+
 /* No comment provided by engineer. */
 "Smooth textures" = "부드러운 텍스처";
 
@@ -2514,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "Start editing" = "편집 시작하기";
+
+/* No comment provided by engineer. */
+"Start Free Trial" = "무료 체험 시작하기";
 
 /* No comment provided by engineer. */
 "Start Point" = "시작 포인트";
@@ -2698,6 +2776,9 @@
 
 /* No comment provided by engineer. */
 "This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "이 앨범은 비어 있습니다. 사진 앱에서 사진을 추가하면 여기에 자동으로 표시됩니다.";
+
+/* No comment provided by engineer. */
+"This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "이 폴더는 비어 있습니다. 여기에 앨범 또는 폴더를 추가하면 자동으로 표시됩니다.";
 
 /* Image open error */
 "This format isn’t currently supported." = "이 포맷은 현재 지원되지 않습니다.";
@@ -2980,6 +3061,9 @@
 
 /* No comment provided by engineer. */
 "What's New" = "새로운 기능";
+
+/* No comment provided by engineer. */
+"What's New in Photomator" = "Photomator의 새로운 점";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator Photo" = "Pixelmator Photo의 새로운 기능";

@@ -8,10 +8,7 @@
 "%@ Bytes" = "%@ байт";
 
 /* No comment provided by engineer. */
-"%@/month" = "%@/мес.";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@/год";
+"%@ OFF" = "СКИДКА %@";
 
 /* seconds */
 "%@s" = "%@с";
@@ -24,6 +21,9 @@
 
 /* Actions count */
 "%i actions" = "Действий: %i";
+
+/* No comment provided by engineer. */
+"%i days free, then %@. Cancel anytime." = "%1$i дн. бесплатно, затем %2$@. Отмена в любой момент.";
 
 /* Processing count */
 "%i Images" = "Изображений: %i";
@@ -39,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "%i tips" = "Подсказки: %i";
+
+/* No comment provided by engineer. */
+"%i week free, then %@. Cancel anytime." = "%1$i нед. бесплатно, затем %2$@. Отмена в любой момент.";
 
 /* width × height */
 "%i × %i" = "%1$i × %2$i";
@@ -68,6 +71,9 @@
 "1 tip" = "Подсказки: 1";
 
 /* No comment provided by engineer. */
+"1 year %@, then %@/year. Cancel anytime." = "Первый год %1$@, затем %2$@ в год. Отмена в любой момент.";
+
+/* No comment provided by engineer. */
 "16 Bits/Channel" = "16 бит/канал";
 
 /* No comment provided by engineer. */
@@ -94,6 +100,12 @@
 /* No comment provided by engineer. */
 "Add" = "Добавить";
 
+/* No comment provided by engineer. */
+"Add Album" = "Добавить альбом";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Добавить папку";
+
 /* Edit Menu */
 "Add Group" = "Добавить группу";
 
@@ -105,6 +117,9 @@
 
 /* No comment provided by engineer. */
 "Add LUTs From Folder…" = "Добавить несколько LUT из папки…";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Добавить фото";
 
 /* No comment provided by engineer. */
 "Add Raw Layer" = "Добавить RAW-слой";
@@ -140,10 +155,16 @@
 "Affine Tile" = "Аффинная мозаика";
 
 /* No comment provided by engineer. */
+"Album Order" = "Порядок альбомов";
+
+/* No comment provided by engineer. */
 "Albums" = "Альбомы";
 
 /* stroke options - stroke position */
 "Align" = "Выровнять";
+
+/* No comment provided by engineer. */
+"All Albums" = "Все альбомы";
 
 /* No comment provided by engineer. */
 "All edits will be saved nondestructively, so you can fine-tune them later." = "Все правки будут сохранены неразрушающим образом, так что вы сможете внести дополнительную корректировку позже.";
@@ -502,11 +523,17 @@
 /* No comment provided by engineer. */
 "Copying Adjustments" = "Копирование корректировок";
 
+/* No comment provided by engineer. */
+"Copying…" = "Копирование…";
+
 /* stroke options - line join style */
 "Corner" = "Угол";
 
 /* Tool */
 "Crayon" = "Восковый мелок";
+
+/* No comment provided by engineer. */
+"Create Album with Selected Photos" = "Создать альбом с выбранными фото";
 
 /* Gallery */
 "Create Image" = "Создать изображение";
@@ -516,6 +543,9 @@
 
 /* No comment provided by engineer. */
 "Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "Создает альбом Photomator в вашей медиатеке и автоматически добавляет все фото, отредактированные в приложении, в этот альбом.";
+
+/* No comment provided by engineer. */
+"Creation Date" = "Дата создания";
 
 /* Tool */
 "Crop" = "Обрезка";
@@ -573,7 +603,7 @@
 /* stroke options */
 "Dashed Line" = "Пунктирная линия";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Deband" = "Депостеризация";
 
 /* No comment provided by engineer. */
@@ -592,10 +622,13 @@
 "Delete" = "Удалить";
 
 /* No comment provided by engineer. */
-"Delete " = "Удалить ";
+"Delete \"%@\"?" = "Удалить \"%@\"?";
 
 /* No comment provided by engineer. */
-"Delete \"%@\"?" = "Удалить \"%@\"?";
+"Delete Album" = "Удалить альбом";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Удалить папку";
 
 /* Layer Management */
 "Delete Layer" = "Удалить слой";
@@ -608,9 +641,6 @@
 
 /* Tool */
 "Denoise" = "Снижение шума";
-
-/* No comment provided by engineer. */
-"Denoise Intensity" = "Интенсивность";
 
 /* No comment provided by engineer. */
 "Denoising…" = "Снижение шума…";
@@ -861,6 +891,9 @@
 "Empty Album" = "Пустой альбом";
 
 /* No comment provided by engineer. */
+"Empty Folder" = "Пустая папка";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "Пустой слой";
 
 /* No comment provided by engineer. */
@@ -900,10 +933,16 @@
 "Enjoy unlimited access to Photomator!" = "Насладитесь неограниченным доступом к Photomator!";
 
 /* No comment provided by engineer. */
-"Enter a new name for this layer." = "Задайте новое имя этого слоя.";
+"Enter a name for this album." = "Задайте имя для этого альбома.";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset" = "Задайте новое имя этого набора";
+"Enter a name for this folder." = "Задайте имя для этой папки.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this album." = "Задайте новое имя для этого альбома.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this layer." = "Задайте новое имя этого слоя.";
 
 /* No comment provided by engineer. */
 "Enter a new name for this preset." = "Задайте новое имя этого набора.";
@@ -922,6 +961,9 @@
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "Эксклюзивное ИЛИ";
+
+/* No comment provided by engineer. */
+"Exit Select Mode" = "Выйти из режима выбора";
 
 /* No comment provided by engineer. */
 "Export" = "Экспорт";
@@ -1219,6 +1261,9 @@
 "Import to Photos" = "Импортировать в Фото";
 
 /* No comment provided by engineer. */
+"Importing" = "Импорт";
+
+/* No comment provided by engineer. */
 "Importing Image" = "Импорт изображения";
 
 /* Processing count */
@@ -1230,6 +1275,9 @@
 
 /* Units */
 "Inches" = "Дюймы";
+
+/* No comment provided by engineer. */
+"Increase bit-depth and deband image" = "Повысить битовую глубину и убрать постеризацию";
 
 /* No comment provided by engineer. */
 "Increase Resolution" = "Повысить разрешение";
@@ -1428,6 +1476,9 @@
 "Magenta / Green" = "Пурпурный/Зеленый";
 
 /* No comment provided by engineer. */
+"Magically improve the quality of photos by removing color banding and increasing color depth with just a tap." = "Уберите цветовые полосы, увеличьте глубину цвета и повысьте качество одним касанием.";
+
+/* No comment provided by engineer. */
 "Magically increase resolution" = "Словно по волшебству увеличивайте разрешение";
 
 /* No comment provided by engineer. */
@@ -1488,16 +1539,13 @@
 "ML Crop" = "ML-обрезка";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML Enhance";
-
-/* No comment provided by engineer. */
-"ML Match Colors" = "Машинно-обучаемая подгонка цветов";
-
-/* No comment provided by engineer. */
 "ML Tool" = "ML-инструмент";
 
 /* Units */
 "mm" = "мм";
+
+/* No comment provided by engineer. */
+"Modification Date" = "Дата изменения";
 
 /* No comment provided by engineer. */
 "More" = "Еще";
@@ -1554,7 +1602,22 @@
 "Mustache" = "Усы";
 
 /* No comment provided by engineer. */
+"My Albums" = "Мои альбомы";
+
+/* No comment provided by engineer. */
+"New Album" = "Новый альбом";
+
+/* No comment provided by engineer. */
+"New Album with Selection" = "Новый альбом из выбранного";
+
+/* No comment provided by engineer. */
+"New Folder" = "Новая папка";
+
+/* No comment provided by engineer. */
 "New Layer" = "Новый слой";
+
+/* No comment provided by engineer. */
+"Newest to Oldest" = "Новые вверху";
 
 /* No comment provided by engineer. */
 "Next" = "Далее";
@@ -1615,6 +1678,9 @@
 
 /* No comment provided by engineer. */
 "OK" = "OK";
+
+/* No comment provided by engineer. */
+"Oldest to Newest" = "Старые вверху";
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "Кривые изображения";
@@ -1692,6 +1758,9 @@
 "Paste Layer" = "Вставить слой";
 
 /* No comment provided by engineer. */
+"Pasting…" = "Вставка…";
+
+/* No comment provided by engineer. */
 "Path" = "Путь";
 
 /* No comment provided by engineer. */
@@ -1722,6 +1791,9 @@
 "Perspective Transform" = "Перспективное преобразование";
 
 /* No comment provided by engineer. */
+"Photo" = "Фото";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -1744,6 +1816,9 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Справка Photomator";
+
+/* No comment provided by engineer. */
+"Photomator is on sale" = "Акция на Photomator";
 
 /* Native iOS Photos app name */
 "Photos" = "Фото";
@@ -1960,6 +2035,9 @@
 /* No comment provided by engineer. */
 "Redeem Offer" = "Воспользоваться скидкой";
 
+/* No comment provided by engineer. */
+"Redeem special offer" = "Купить со скидкой";
+
 /* Edit Menu */
 "Redefine" = "Переопределить";
 
@@ -2003,16 +2081,22 @@
 "Remove Color" = "Удалить цвет";
 
 /* No comment provided by engineer. */
-"Remove Mask" = "Удалить маску";
+"Remove from Album" = "Удалить из альбома";
 
 /* No comment provided by engineer. */
-"Remove noise and compression artifacts from photos with improved quality and control, thanks to major Denoise tool improvements and an all-new Intensity slider." = "Усовершенствованный инструмент «Снижение шума» и новый слайдер интенсивности делают подавление шума и удаление артефактов сжатия еще удобнее, гибче и точнее.";
+"Remove Mask" = "Удалить маску";
 
 /* No comment provided by engineer. */
 "Remove objects" = "Удалить объекты";
 
 /* Edit Menu */
 "Rename" = "Переименовать";
+
+/* No comment provided by engineer. */
+"Rename Album" = "Переименовать альбом";
+
+/* No comment provided by engineer. */
+"Rename Folder" = "Переименовать папку";
 
 /* No comment provided by engineer. */
 "Rename Layer" = "Переименовать слой";
@@ -2070,9 +2154,6 @@
 "Reset Denoise" = "Сбросить снижение шума";
 
 /* No comment provided by engineer. */
-"Reset Denoise?" = "Сбросить снижение шума?";
-
-/* No comment provided by engineer. */
 "Reset Enhance" = "Сбросить улучшение";
 
 /* Perspective transform */
@@ -2094,22 +2175,13 @@
 "Reset Perspective" = "Сбросить перспективу";
 
 /* No comment provided by engineer. */
-"Reset Repair tool edits?" = "Сбросить правку инструментом исправления?";
+"Reset Smart Deband" = "Сбросить смарт-депостеризацию";
 
 /* No comment provided by engineer. */
 "Reset Super Resolution" = "Сбросить супер-разрешение";
 
-/* No comment provided by engineer. */
-"Reset Super Resolution?" = "Сбросить супер-разрешение?";
-
-/* No comment provided by engineer. */
-"Reset the resolution of this photo to the original." = "Сбросить разрешение фото к исходному значению.";
-
 /* Perspective transform */
 "Reset Vertical Perspective" = "Сбросить вертикальную перспективу";
-
-/* No comment provided by engineer. */
-"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "Сброс правок, сделанных инструментом исправления, также приведёт к восстановлению разрешения к оригинальному.";
 
 /* No comment provided by engineer. */
 "Resize Gradient" = "Изменить размер градиента";
@@ -2122,12 +2194,6 @@
 
 /* No comment provided by engineer. */
 "Restore Purchase" = "Восстановить покупки";
-
-/* No comment provided by engineer. */
-"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution." = "Возвращение к исходнику этого фото также сбросит изменения, внесенные инструментами «Исправление» и «Cупер-разрешение».";
-
-/* No comment provided by engineer. */
-"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "Возвращение к исходному разрешению этого фото также приведёт к сбросу правок, сделанных инструментами «Исправление» и «Снижение шума».";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "Показать в Файлах";
@@ -2248,12 +2314,15 @@
 "See All" = "См. все";
 
 /* No comment provided by engineer. */
+"See More Plans" = "Другие подписки";
+
+/* No comment provided by engineer. */
 "Select" = "Выбрать";
 
 /* No comment provided by engineer. */
 "Select \"%@\" LUT" = "Выбрать \"%@\" LUT";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Select All" = "Выбрать все";
 
 /* No comment provided by engineer. */
@@ -2339,6 +2408,9 @@
 
 /* Edit Menu */
 "Share Preset" = "Поделиться наборами настроек";
+
+/* No comment provided by engineer. */
+"Shared Albums" = "Общие альбомы";
 
 /* Effects category name
    Retouch Tools
@@ -2441,6 +2513,9 @@
 /* No comment provided by engineer. */
 "Sky" = "Небо";
 
+/* Tool */
+"Smart Deband" = "Смарт-депостеризация";
+
 /* No comment provided by engineer. */
 "Smooth textures" = "Сглаженные текстуры";
 
@@ -2514,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "Start editing" = "Начать правку";
+
+/* No comment provided by engineer. */
+"Start Free Trial" = "Начать бесплатный пробный период";
 
 /* No comment provided by engineer. */
 "Start Point" = "Начальная точка";
@@ -2698,6 +2776,9 @@
 
 /* No comment provided by engineer. */
 "This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "Этот альбом пуст. Добавить несколько фотографий в приложении Фото, и они автоматически появятся здесь.";
+
+/* No comment provided by engineer. */
+"This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "Эта папка пуста. Добавьте в нее пару альбомов или подпапок, и они автоматически появятся здесь.";
 
 /* Image open error */
 "This format isn’t currently supported." = "Этот формат не поддерживается в данный момент.";
@@ -2980,6 +3061,9 @@
 
 /* No comment provided by engineer. */
 "What's New" = "Что нового";
+
+/* No comment provided by engineer. */
+"What's New in Photomator" = "Что нового в Photomator";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator Photo" = "Что нового в Pixelmator Photo";

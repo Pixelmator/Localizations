@@ -8,10 +8,7 @@
 "%@ Bytes" = "%@ Byte";
 
 /* No comment provided by engineer. */
-"%@/month" = "%@ / Monat";
-
-/* No comment provided by engineer. */
-"%@/year" = "%@ / Jahr";
+"%@ OFF" = "%@ Rabatt";
 
 /* seconds */
 "%@s" = "%@s";
@@ -24,6 +21,9 @@
 
 /* Actions count */
 "%i actions" = "%i Aktionen";
+
+/* No comment provided by engineer. */
+"%i days free, then %@. Cancel anytime." = "%1$i Tage kostenlos, anschließend %2$@. Jederzeit kündbar.";
 
 /* Processing count */
 "%i Images" = "%i Bilder";
@@ -39,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "%i tips" = "%i Tipps";
+
+/* No comment provided by engineer. */
+"%i week free, then %@. Cancel anytime." = "%1$i Woche kostenlos, anschließend %2$@. Jederzeit kündbar.";
 
 /* width × height */
 "%i × %i" = "%1$i × %2$i";
@@ -68,6 +71,9 @@
 "1 tip" = "Ein Tipp";
 
 /* No comment provided by engineer. */
+"1 year %@, then %@/year. Cancel anytime." = "1 Jahr %1$@, anschließend %2$@ pro Jahr. Jederzeit kündbar.";
+
+/* No comment provided by engineer. */
 "16 Bits/Channel" = "16 Bit/Kanal";
 
 /* No comment provided by engineer. */
@@ -94,6 +100,12 @@
 /* No comment provided by engineer. */
 "Add" = "Hinzufügen";
 
+/* No comment provided by engineer. */
+"Add Album" = "Album hinzufügen";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Ordner hinzufügen";
+
 /* Edit Menu */
 "Add Group" = "Gruppe hinzufügen";
 
@@ -105,6 +117,9 @@
 
 /* No comment provided by engineer. */
 "Add LUTs From Folder…" = "LUTs aus Ordner hinzufügen …";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Fotos hinzufügen";
 
 /* No comment provided by engineer. */
 "Add Raw Layer" = "Raw-Ebene hinzufügen";
@@ -140,10 +155,16 @@
 "Affine Tile" = "Affin kacheln";
 
 /* No comment provided by engineer. */
+"Album Order" = "Albumsortierung";
+
+/* No comment provided by engineer. */
 "Albums" = "Alben";
 
 /* stroke options - stroke position */
 "Align" = "Ausrichten";
+
+/* No comment provided by engineer. */
+"All Albums" = "Alle Alben";
 
 /* No comment provided by engineer. */
 "All edits will be saved nondestructively, so you can fine-tune them later." = "Alle Bearbeitungen werden zerstörungsfrei gespeichert, sodass Sie sie später anpassen können.";
@@ -502,11 +523,17 @@
 /* No comment provided by engineer. */
 "Copying Adjustments" = "Anpassungen werden kopiert";
 
+/* No comment provided by engineer. */
+"Copying…" = "Kopieren …";
+
 /* stroke options - line join style */
 "Corner" = "Ecke";
 
 /* Tool */
 "Crayon" = "Buntstift";
+
+/* No comment provided by engineer. */
+"Create Album with Selected Photos" = "Album aus ausgewählten Fotos erstellen";
 
 /* Gallery */
 "Create Image" = "Bild erstellen";
@@ -516,6 +543,9 @@
 
 /* No comment provided by engineer. */
 "Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "Erstellt ein Photomator-Album in Ihrer Fotogalerie und fügt automatisch jedes von der App bearbeitete Foto diesem Album hinzu.";
+
+/* No comment provided by engineer. */
+"Creation Date" = "Erstellungsdatum";
 
 /* Tool */
 "Crop" = "Beschneiden";
@@ -573,7 +603,7 @@
 /* stroke options */
 "Dashed Line" = "Gestrichelte Linie";
 
-/* Tool */
+/* No comment provided by engineer. */
 "Deband" = "Auflösen";
 
 /* No comment provided by engineer. */
@@ -592,10 +622,13 @@
 "Delete" = "Löschen";
 
 /* No comment provided by engineer. */
-"Delete " = "Löschen ";
+"Delete \"%@\"?" = "\"%@\" löschen?";
 
 /* No comment provided by engineer. */
-"Delete \"%@\"?" = "\"%@\" löschen?";
+"Delete Album" = "Album löschen";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Ordner löschen";
 
 /* Layer Management */
 "Delete Layer" = "Ebene löschen";
@@ -608,9 +641,6 @@
 
 /* Tool */
 "Denoise" = "Entrauschen";
-
-/* No comment provided by engineer. */
-"Denoise Intensity" = "Entrauschen-Intensität";
 
 /* No comment provided by engineer. */
 "Denoising…" = "Entrauschen…";
@@ -861,6 +891,9 @@
 "Empty Album" = "Leeres Album";
 
 /* No comment provided by engineer. */
+"Empty Folder" = "Leerer Ordner";
+
+/* No comment provided by engineer. */
 "Empty Layer" = "Leere Ebene";
 
 /* No comment provided by engineer. */
@@ -900,10 +933,16 @@
 "Enjoy unlimited access to Photomator!" = "Genießen Sie uneingeschränkten Zugriff auf Photomator!";
 
 /* No comment provided by engineer. */
-"Enter a new name for this layer." = "Geben Sie einen Name für diese Ebene ein.";
+"Enter a name for this album." = "Geben Sie einen Namen für dieses Album ein.";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset" = "Geben Sie einen Name für diese Voreinstellung ein";
+"Enter a name for this folder." = "Geben Sie einen Namen für diesen Ordner ein.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this album." = "Geben Sie einen neuen Namen für dieses Album ein.";
+
+/* No comment provided by engineer. */
+"Enter a new name for this layer." = "Geben Sie einen Name für diese Ebene ein.";
 
 /* No comment provided by engineer. */
 "Enter a new name for this preset." = "Geben Sie einen Name für diese Voreinstellung ein.";
@@ -922,6 +961,9 @@
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "Exklusives ODER";
+
+/* No comment provided by engineer. */
+"Exit Select Mode" = "Auswahlmodus beenden";
 
 /* No comment provided by engineer. */
 "Export" = "Exportieren";
@@ -1219,6 +1261,9 @@
 "Import to Photos" = "Importieren und Fotos hinzufügen";
 
 /* No comment provided by engineer. */
+"Importing" = "Importieren ";
+
+/* No comment provided by engineer. */
 "Importing Image" = "Bild wird importiert";
 
 /* Processing count */
@@ -1230,6 +1275,9 @@
 
 /* Units */
 "Inches" = "Zoll";
+
+/* No comment provided by engineer. */
+"Increase bit-depth and deband image" = "Bit-Farbtiefe erhöhen und Bild auflösen";
 
 /* No comment provided by engineer. */
 "Increase Resolution" = "Auflösung verbessern";
@@ -1428,6 +1476,9 @@
 "Magenta / Green" = "Magenta / Grün";
 
 /* No comment provided by engineer. */
+"Magically improve the quality of photos by removing color banding and increasing color depth with just a tap." = "Verbessern Sie magisch mit nur einem Fingertipp die Qualität von Fotos durch Entfernen von Farb-Debanding und Erhöhen der Farbtiefe.";
+
+/* No comment provided by engineer. */
 "Magically increase resolution" = "Erhöhen Sie die Auflösung auf magische Weise";
 
 /* No comment provided by engineer. */
@@ -1488,16 +1539,13 @@
 "ML Crop" = "ML-Schnitt";
 
 /* No comment provided by engineer. */
-"ML Enhance" = "ML verbessern";
-
-/* No comment provided by engineer. */
-"ML Match Colors" = "Farben mit ML anpassen";
-
-/* No comment provided by engineer. */
 "ML Tool" = "ML-Tool";
 
 /* Units */
 "mm" = "mm";
+
+/* No comment provided by engineer. */
+"Modification Date" = "Änderungsdatum";
 
 /* No comment provided by engineer. */
 "More" = "Mehr";
@@ -1554,7 +1602,22 @@
 "Mustache" = "Schnurrbart";
 
 /* No comment provided by engineer. */
+"My Albums" = "Meine Alben";
+
+/* No comment provided by engineer. */
+"New Album" = "Neues Album";
+
+/* No comment provided by engineer. */
+"New Album with Selection" = "Neues Album aus Auswahl";
+
+/* No comment provided by engineer. */
+"New Folder" = "Neuer Ordner";
+
+/* No comment provided by engineer. */
 "New Layer" = "Neue Ebene";
+
+/* No comment provided by engineer. */
+"Newest to Oldest" = "Von Neu nach Alt";
 
 /* No comment provided by engineer. */
 "Next" = "Weiter";
@@ -1615,6 +1678,9 @@
 
 /* No comment provided by engineer. */
 "OK" = "OK";
+
+/* No comment provided by engineer. */
+"Oldest to Newest" = "Von Alt nach Neu";
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "On-Image-Kurven";
@@ -1692,6 +1758,9 @@
 "Paste Layer" = "Ebene einfügen";
 
 /* No comment provided by engineer. */
+"Pasting…" = "Einsetzen …";
+
+/* No comment provided by engineer. */
 "Path" = "Pfad";
 
 /* No comment provided by engineer. */
@@ -1722,6 +1791,9 @@
 "Perspective Transform" = "Perspektiv-Transformation";
 
 /* No comment provided by engineer. */
+"Photo" = "Foto";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -1744,6 +1816,9 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomator Hilfe";
+
+/* No comment provided by engineer. */
+"Photomator is on sale" = "Photomator ist im Angebot";
 
 /* Native iOS Photos app name */
 "Photos" = "Fotos";
@@ -1960,6 +2035,9 @@
 /* No comment provided by engineer. */
 "Redeem Offer" = "Angebot einlösen";
 
+/* No comment provided by engineer. */
+"Redeem special offer" = "Sonderangebot einlösen";
+
 /* Edit Menu */
 "Redefine" = "Neu definieren";
 
@@ -2003,16 +2081,22 @@
 "Remove Color" = "Farbe entfernen";
 
 /* No comment provided by engineer. */
-"Remove Mask" = "Maske entfernen";
+"Remove from Album" = "Aus Album entfernen";
 
 /* No comment provided by engineer. */
-"Remove noise and compression artifacts from photos with improved quality and control, thanks to major Denoise tool improvements and an all-new Intensity slider." = "Entfernen Sie Rauschen und Kompressionsartefakte noch effektiver aus Fotos dank umfassenden Verbesserungen im Entrauschen-Tool und dem neuen Intensitäts-Schieberegler.";
+"Remove Mask" = "Maske entfernen";
 
 /* No comment provided by engineer. */
 "Remove objects" = "Objekte entfernen";
 
 /* Edit Menu */
 "Rename" = "Umbenennen";
+
+/* No comment provided by engineer. */
+"Rename Album" = "Album umbenennen";
+
+/* No comment provided by engineer. */
+"Rename Folder" = "Ordner umbenennen";
 
 /* No comment provided by engineer. */
 "Rename Layer" = "Ebene umbenennen";
@@ -2070,9 +2154,6 @@
 "Reset Denoise" = "Entrauschen zurücksetzen";
 
 /* No comment provided by engineer. */
-"Reset Denoise?" = "Entrauschen zurücksetzen?";
-
-/* No comment provided by engineer. */
 "Reset Enhance" = "Verbessern zurücksetzen";
 
 /* Perspective transform */
@@ -2094,22 +2175,13 @@
 "Reset Perspective" = "Perspektive zurücksetzen";
 
 /* No comment provided by engineer. */
-"Reset Repair tool edits?" = "Änderungen des Reparaturpinsels zurücksetzen?";
+"Reset Smart Deband" = "Smartes Auflösen zurücksetzen";
 
 /* No comment provided by engineer. */
 "Reset Super Resolution" = "Super-Resolution zurücksetzen";
 
-/* No comment provided by engineer. */
-"Reset Super Resolution?" = "Super-Resolution zurücksetzen?";
-
-/* No comment provided by engineer. */
-"Reset the resolution of this photo to the original." = "Setzt die Auflösung dieses Fotos auf die Originalwerte zurück.";
-
 /* Perspective transform */
 "Reset Vertical Perspective" = "Vertikale Perspektive zurücksetzen";
-
-/* No comment provided by engineer. */
-"Resetting edits made with the Repair tool will also restore the resolution of this photo to the original." = "Mit dem Reparaturpinsel gemachte Änderungen zurücksetzen stellt auch die ursprüngliche Auflösung dieses Fotos wieder her.";
 
 /* No comment provided by engineer. */
 "Resize Gradient" = "Verlaufgröße ändern";
@@ -2122,12 +2194,6 @@
 
 /* No comment provided by engineer. */
 "Restore Purchase" = "Kauf wiederherstellen";
-
-/* No comment provided by engineer. */
-"Restoring the original content of this photo will also reset edits made with the Repair tool and Super Resolution." = "Das Zurücksetzen des Originalinhalts dieses Fotos setzt auch die mit dem Reparaturpinsel gemachten Änderungen sowie Super-Resolution zurück.";
-
-/* No comment provided by engineer. */
-"Restoring the original resolution of this photo will also reset edits made with the Repair tool and Denoise." = "Das Zurücksetzen der Auflösung dieses Fotos setzt auch die mit dem Reparaturpinsel gemachten Änderungen sowie das Entrauschen zurück.";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "In Dateien zeigen";
@@ -2248,12 +2314,15 @@
 "See All" = "Alle anzeigen";
 
 /* No comment provided by engineer. */
+"See More Plans" = "Weitere Tarife ansehen";
+
+/* No comment provided by engineer. */
 "Select" = "Wählen";
 
 /* No comment provided by engineer. */
 "Select \"%@\" LUT" = "LUT „%@“ auswählen";
 
-/* No comment provided by engineer. */
+/* Edit Menu */
 "Select All" = "Alles auswählen";
 
 /* No comment provided by engineer. */
@@ -2339,6 +2408,9 @@
 
 /* Edit Menu */
 "Share Preset" = "Voreinstellung teilen";
+
+/* No comment provided by engineer. */
+"Shared Albums" = "Geteilte Alben";
 
 /* Effects category name
    Retouch Tools
@@ -2441,6 +2513,9 @@
 /* No comment provided by engineer. */
 "Sky" = "Himmel";
 
+/* Tool */
+"Smart Deband" = "Smartes Auflösen";
+
 /* No comment provided by engineer. */
 "Smooth textures" = "Glatte Texturen";
 
@@ -2514,6 +2589,9 @@
 
 /* No comment provided by engineer. */
 "Start editing" = "Bearbeiten starten";
+
+/* No comment provided by engineer. */
+"Start Free Trial" = "Kostenlose Testversion starten";
 
 /* No comment provided by engineer. */
 "Start Point" = "Startpunkt";
@@ -2698,6 +2776,9 @@
 
 /* No comment provided by engineer. */
 "This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "Dieses Album ist leer. Fügen Sie Fotos in der Fotos-App hinzu, und sie erscheinen hier automatisch.";
+
+/* No comment provided by engineer. */
+"This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "Dieser Ordner ist leer. Fügen Sie Alben oder Ordner hinzu, die dann automatisch hier erscheinen.";
 
 /* Image open error */
 "This format isn’t currently supported." = "Dieses Format wird zurzeit nicht unterstützt.";
@@ -2980,6 +3061,9 @@
 
 /* No comment provided by engineer. */
 "What's New" = "Was ist neu";
+
+/* No comment provided by engineer. */
+"What's New in Photomator" = "Was ist neu in Photomator";
 
 /* No comment provided by engineer. */
 "What's New in Pixelmator Photo" = "Was ist neu in Pixelmator Photo";
