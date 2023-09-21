@@ -10,6 +10,9 @@
 /* No comment provided by engineer. */
 "%@ Effect" = "%@ 效果";
 
+/* No comment provided by engineer. */
+"%@ OFF" = "%@ OFF";
+
 /* seconds */
 "%@s" = "%@s";
 
@@ -20,19 +23,34 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i days free, then %@. Cancel anytime." = "%1$i days free, then %2$@. Cancel anytime.";
+
+/* No comment provided by engineer. */
 "%i Images Selected" = "%i 張影像已選定";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i 個秘訣";
 
 /* No comment provided by engineer. */
+"%i week free, then %@. Cancel anytime." = "%1$i week free, then %2$@. Cancel anytime.";
+
+/* No comment provided by engineer. */
 "(empty)" = "（空）";
+
+/* No comment provided by engineer. */
+", %i days free" = ", %i days free";
+
+/* No comment provided by engineer. */
+", %i week free" = ", %i week free";
 
 /* No comment provided by engineer. */
 "1 Image Selected" = "選定 1 張影像";
 
 /* No comment provided by engineer. */
 "1 tip" = "1 個秘訣";
+
+/* No comment provided by engineer. */
+"1 year %@, then %@/year. Cancel anytime." = "1 year %1$@, then %2$@/year. Cancel anytime.";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16位/通道";
@@ -199,9 +217,6 @@
 
 /* No comment provided by engineer. */
 "Auto Straighten" = "自動拉直";
-
-/* No comment provided by engineer. */
-"Automatically select the subject of an image using advanced machine learning." = "使用先進的機器學習技術自動選擇影像的主體。";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "B&W" = "黑白";
@@ -480,9 +495,6 @@
 
 /* No comment provided by engineer. */
 "Colors" = "顏色";
-
-/* No comment provided by engineer. */
-"Compatible with the new iPad Pro" = "與新版 iPad Pro 相容";
 
 /* No comment provided by engineer. */
 "Completely transform the look of images using a wide range of beautiful effects." = "使用多種漂亮效果完全轉換影像。";
@@ -836,10 +848,10 @@
 "Enhance" = "增強";
 
 /* No comment provided by engineer. */
-"Enjoy even the most demanding image editing workflows at a high speed." = "在最嚴苛的編輯工作中也能享受高速體驗。";
+"Enjoy a beautifully redesigned Pixelmator color picker, now offering easy access to Apple's native color picker." = "Enjoy a beautifully redesigned Pixelmator color picker, now offering easy access to Apple's native color picker.";
 
 /* No comment provided by engineer. */
-"Enjoy support for the new iPad Pro and the next-level Apple Pencil hover experience." = "享受我們對全新 iPad Pro 和 Apple Pencil 懸浮偵測體驗的支援。";
+"Enjoy a fresh new color picker design and work with colors from anywhere on your device thanks to Apple's native color picker support." = "Enjoy a fresh new color picker design and work with colors from anywhere on your device thanks to Apple's native color picker support.";
 
 /* No comment provided by engineer. */
 "Enter a new name for this document." = "為這個文件輸入一個新名稱。";
@@ -875,9 +887,6 @@
 "Exposure" = "曝光";
 
 /* No comment provided by engineer. */
-"Extended Memory Support" = "延長記憶體支援";
-
-/* No comment provided by engineer. */
 "Extent" = "Extent";
 
 /* No comment provided by engineer. */
@@ -903,6 +912,9 @@
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "未能獲取一個或多個擴充功能屬性。";
+
+/* No comment provided by engineer. */
+"Faster Subject Selection" = "Faster Subject Selection";
 
 /* No comment provided by engineer. */
 "Favorite" = "最愛";
@@ -1493,6 +1505,9 @@
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "無相機資訊";
 
+/* No comment provided by engineer. */
+"No commitment, cancel anytime." = "No commitment, cancel anytime.";
+
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "無鏡頭資訊";
 
@@ -1546,6 +1561,21 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "不透明度散佈";
+
+/* No comment provided by engineer. */
+"Open and edit images in JXL file format that offers smaller file sizes while maintaining high image quality." = "Open and edit images in JXL file format that offers smaller file sizes while maintaining high image quality.";
+
+/* No comment provided by engineer. */
+"Open and edit images in JXL file format that offers smaller image sizes while maintaining quality." = "Open and edit images in JXL file format that offers smaller image sizes while maintaining quality.";
+
+/* No comment provided by engineer. */
+"Open Anyway" = "Open Anyway";
+
+/* No comment provided by engineer. */
+"Open Duplicate" = "Open Duplicate";
+
+/* No comment provided by engineer. */
+"Opening Large Image" = "Opening Large Image";
 
 /* No comment provided by engineer. */
 "Orange" = "橘子";
@@ -1686,10 +1716,10 @@
 "Pixelmator" = "Pixelmator";
 
 /* No comment provided by engineer. */
-"Pixelmator 2.8 is now fully compatible with iOS 16." = "Pixelmator 2.8 現已與 iOS 16 完全相容。";
+"Pixelmator 3.1 is now fully compatible with the new iOS 17." = "Pixelmator 3.1 is now fully compatible with the new iOS 17.";
 
 /* No comment provided by engineer. */
-"Pixelmator 2.8 is now fully compatible with iPadOS 16." = "Pixelmator 2.8 現已與 iPadOS 16 完全相容。";
+"Pixelmator 3.1 is now fully compatible with the new iPadOS 17." = "Pixelmator 3.1 is now fully compatible with the new iPadOS 17.";
 
 /* No comment provided by engineer. */
 "Pixelmator Classic" = "Pixelmator Classic";
@@ -1853,6 +1883,12 @@
 
 /* No comment provided by engineer. */
 "Red Color Balance" = "紅色平衡";
+
+/* No comment provided by engineer. */
+"Redeem Offer" = "Redeem Offer";
+
+/* No comment provided by engineer. */
+"Redesigned Color Picker" = "Redesigned Color Picker";
 
 /* No comment provided by engineer. */
 "Redo" = "重做";
@@ -2142,6 +2178,9 @@
 "Select Subject" = "選取主體";
 
 /* No comment provided by engineer. */
+"Select subjects in images even faster thanks to improved Select Subject performance." = "Select subjects in images even faster thanks to improved Select Subject performance.";
+
+/* No comment provided by engineer. */
 "Select Top Layer" = "選擇頂層";
 
 /* No comment provided by engineer. */
@@ -2359,6 +2398,9 @@
 "Start" = "起點";
 
 /* No comment provided by engineer. */
+"Start Free Trial" = "Start Free Trial";
+
+/* No comment provided by engineer. */
 "Start Point" = "起點";
 
 /* No comment provided by engineer. */
@@ -2419,10 +2461,13 @@
 "Support" = "支援";
 
 /* No comment provided by engineer. */
-"Support for iOS 16" = "支援 iOS 16";
+"Support for iOS 17" = "Support for iOS 17";
 
 /* No comment provided by engineer. */
-"Support for iPadOS 16" = "支援 iPadOS 16";
+"Support for iPadOS 17" = "Support for iPadOS 17";
+
+/* No comment provided by engineer. */
+"Support for JXL File Format" = "Support for JXL File Format";
 
 /* The name of an image file format. */
 "SVG" = "SVG";
@@ -2564,9 +2609,6 @@
 "The image is too large. Its size has been reduced." = "影像太大，已降低其尺寸。";
 
 /* No comment provided by engineer. */
-"The image is too large. You can open and edit images of up to %@ megapixels." = "圖像過大。你可以開啟並編輯至多 %@ 百萬像素的圖像。";
-
-/* No comment provided by engineer. */
 "The image is too large. You can share images of up to %@ megapixels." = "影像太大。您只能共享不超過 %@ 百萬像素的影像。";
 
 /* No comment provided by engineer. */
@@ -2586,6 +2628,12 @@
 
 /* No comment provided by engineer. */
 "This cloud storage provider does not support Pixelmator files." = "此雲端空間不支援 Pixelmator 檔案格式。";
+
+/* No comment provided by engineer. */
+"This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. If you choose to open the image anyway, try reducing its size or merging some of the layers." = "This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. If you choose to open the image anyway, try reducing its size or merging some of the layers.";
+
+/* No comment provided by engineer. */
+"This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. You can still open the image as duplicate but its size will be automatically reduced." = "This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. You can still open the image as duplicate but its size will be automatically reduced.";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo" = "當前的演示不支援這種活動";
