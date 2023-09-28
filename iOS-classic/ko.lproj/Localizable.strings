@@ -10,6 +10,9 @@
 /* No comment provided by engineer. */
 "%@ Effect" = "%@ 효과";
 
+/* No comment provided by engineer. */
+"%@ OFF" = "%@ 할인";
+
 /* seconds */
 "%@s" = "%@초";
 
@@ -20,19 +23,34 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i days free, then %@. Cancel anytime." = "%1$i일간 무료, 이후 %2$@. 원할 때 언제든지 취소할 수 있습니다.";
+
+/* No comment provided by engineer. */
 "%i Images Selected" = "%i개의 이미지가 선택됨";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i개의 팁";
 
 /* No comment provided by engineer. */
+"%i week free, then %@. Cancel anytime." = "%1$i주간 무료, 이후 %2$@. 원할 때 언제든지 취소할 수 있습니다.";
+
+/* No comment provided by engineer. */
 "(empty)" = "(비어 있음)";
+
+/* No comment provided by engineer. */
+", %i days free" = ", %i일 무료";
+
+/* No comment provided by engineer. */
+", %i week free" = ", %i주 무료";
 
 /* No comment provided by engineer. */
 "1 Image Selected" = "1개의 이미지가 선택됨";
 
 /* No comment provided by engineer. */
 "1 tip" = "1개의 팁";
+
+/* No comment provided by engineer. */
+"1 year %@, then %@/year. Cancel anytime." = "1년간 %1$@, 이후 연간 %2$@. 원할 때 언제든지 취소할 수 있습니다.";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16비트/채널";
@@ -199,9 +217,6 @@
 
 /* No comment provided by engineer. */
 "Auto Straighten" = "자동 수평 조절";
-
-/* No comment provided by engineer. */
-"Automatically select the subject of an image using advanced machine learning." = "고급 머신 러닝을 사용해 이미지의 제목을 자동으로 선택합니다.";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "B&W" = "흑백";
@@ -480,9 +495,6 @@
 
 /* No comment provided by engineer. */
 "Colors" = "색상";
-
-/* No comment provided by engineer. */
-"Compatible with the new iPad Pro" = "새로운 iPad Pro와 호환";
 
 /* No comment provided by engineer. */
 "Completely transform the look of images using a wide range of beautiful effects." = "다양하고 아름다운 효과를 사용하여 이미지의 스타일을 완전히 변형합니다.";
@@ -836,10 +848,10 @@
 "Enhance" = "향상";
 
 /* No comment provided by engineer. */
-"Enjoy even the most demanding image editing workflows at a high speed." = "가장 까다로운 이미지 편집 작업도 빠른 속도로 즐기세요.";
+"Enjoy a beautifully redesigned Pixelmator color picker, now offering easy access to Apple's native color picker." = "새롭게 디자인된 Pixelmator 색상 선택 도구를 통해 Apple의 내장 색상 선택기에 간편히 접근할 수 있게 되었습니다.";
 
 /* No comment provided by engineer. */
-"Enjoy support for the new iPad Pro and the next-level Apple Pencil hover experience." = "새로운 iPad Pro 및 차세대 Apple Pencil 호버 기능을 지원합니다.";
+"Enjoy a fresh new color picker design and work with colors from anywhere on your device thanks to Apple's native color picker support." = "Apple의 내장 색상 선택기를 지원하며 기기 어디에서나 색상을 다룰 수 있는 새로운 색상 선택 도구를 즐겨보세요.";
 
 /* No comment provided by engineer. */
 "Enter a new name for this document." = "이 문서의 새로운 이름을 입력하세요.";
@@ -875,9 +887,6 @@
 "Exposure" = "노출";
 
 /* No comment provided by engineer. */
-"Extended Memory Support" = "확장 메모리 지원";
-
-/* No comment provided by engineer. */
 "Extent" = "Extent";
 
 /* No comment provided by engineer. */
@@ -903,6 +912,9 @@
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "한 개 이상의 확장 속성을 설정하는 데 실패했습니다";
+
+/* No comment provided by engineer. */
+"Faster Subject Selection" = "더 빠른 피사체 선택";
 
 /* No comment provided by engineer. */
 "Favorite" = "즐겨찾기";
@@ -1493,6 +1505,9 @@
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "카메라 정보 없음";
 
+/* No comment provided by engineer. */
+"No commitment, cancel anytime." = "약정 없음, 언제든지 취소 가능.";
+
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "렌즈 정보 없음";
 
@@ -1546,6 +1561,21 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "불투명도 분산";
+
+/* No comment provided by engineer. */
+"Open and edit images in JXL file format that offers smaller file sizes while maintaining high image quality." = "JXL 파일 포맷으로 이미지를 열고 편집할 수 있으며, 높은 화질을 유지하면서도 파일 용량을 줄일 수 있습니다.";
+
+/* No comment provided by engineer. */
+"Open and edit images in JXL file format that offers smaller image sizes while maintaining quality." = "JXL 파일 포맷으로 이미지를 열고 편집할 수 있으며, 화질을 유지하면서도 이미지 크기를 줄일 수 있습니다.";
+
+/* No comment provided by engineer. */
+"Open Anyway" = "무시하고 열기";
+
+/* No comment provided by engineer. */
+"Open Duplicate" = "복제본 열기";
+
+/* No comment provided by engineer. */
+"Opening Large Image" = "큰 이미지 열기";
 
 /* No comment provided by engineer. */
 "Orange" = "주황";
@@ -1686,10 +1716,10 @@
 "Pixelmator" = "Pixelmator";
 
 /* No comment provided by engineer. */
-"Pixelmator 2.8 is now fully compatible with iOS 16." = "Pixelmator 2.8은 이제 iOS 16과 완벽히 호환됩니다.";
+"Pixelmator 3.1 is now fully compatible with the new iOS 17." = "Pixelmator 3.1은 이제 새로운 iOS 17과 완전히 호환됩니다.";
 
 /* No comment provided by engineer. */
-"Pixelmator 2.8 is now fully compatible with iPadOS 16." = "Pixelmator 2.8은 이제 iPadOS 16과 완벽히 호환됩니다.";
+"Pixelmator 3.1 is now fully compatible with the new iPadOS 17." = "Pixelmator 3.1은 이제 새로운 iPadOS 17과 완전히 호환됩니다.";
 
 /* No comment provided by engineer. */
 "Pixelmator Classic" = "Pixelmator 클래식";
@@ -1853,6 +1883,12 @@
 
 /* No comment provided by engineer. */
 "Red Color Balance" = "빨간색 균형";
+
+/* No comment provided by engineer. */
+"Redeem Offer" = "혜택 받기";
+
+/* No comment provided by engineer. */
+"Redesigned Color Picker" = "새롭게 설계된 색 선택 도구";
 
 /* No comment provided by engineer. */
 "Redo" = "다시 실행";
@@ -2142,6 +2178,9 @@
 "Select Subject" = "대상 선택";
 
 /* No comment provided by engineer. */
+"Select subjects in images even faster thanks to improved Select Subject performance." = "피사체 선택 성능이 향상되어 이미지 속의 피사체를 더욱 신속히 선택할 수 있습니다.";
+
+/* No comment provided by engineer. */
 "Select Top Layer" = "맨 위 레이어 선택";
 
 /* No comment provided by engineer. */
@@ -2359,6 +2398,9 @@
 "Start" = "시작";
 
 /* No comment provided by engineer. */
+"Start Free Trial" = "무료 체험 시작하기";
+
+/* No comment provided by engineer. */
 "Start Point" = "시작 포인트";
 
 /* No comment provided by engineer. */
@@ -2419,10 +2461,13 @@
 "Support" = "지원";
 
 /* No comment provided by engineer. */
-"Support for iOS 16" = "iOS 16 지원";
+"Support for iOS 17" = "iOS 17 지원";
 
 /* No comment provided by engineer. */
-"Support for iPadOS 16" = "iPadOS 16 지원";
+"Support for iPadOS 17" = "iPadOS 17 지원";
+
+/* No comment provided by engineer. */
+"Support for JXL File Format" = "JXL 파일 형식 지원";
 
 /* The name of an image file format. */
 "SVG" = "SVG";
@@ -2564,9 +2609,6 @@
 "The image is too large. Its size has been reduced." = "이미지가 너무 큽니다. 크기를 줄였습니다.";
 
 /* No comment provided by engineer. */
-"The image is too large. You can open and edit images of up to %@ megapixels." = "이미지가 너무 큽니다. 열고 편집할 수 있는 이미지의 최대 크기는 %@ 메가 픽셀입니다.";
-
-/* No comment provided by engineer. */
 "The image is too large. You can share images of up to %@ megapixels." = "이미지가 너무 큽니다. 공유할 수 있는 이미지의 최대 크기는 %@ 메가 픽셀입니다.";
 
 /* No comment provided by engineer. */
@@ -2586,6 +2628,12 @@
 
 /* No comment provided by engineer. */
 "This cloud storage provider does not support Pixelmator files." = "이 클라우드 스토리지 제공업체는 Pixelmator 파일을 지원하지 않습니다.";
+
+/* No comment provided by engineer. */
+"This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. If you choose to open the image anyway, try reducing its size or merging some of the layers." = "이 이미지는 %@메가픽셀 제한을 초과하므로 Pixelmator가 예기치 않게 작동할 수 있습니다. '무시하고 열기'를 선택한 경우 이미지 크기를 줄이거나 일부 레이어를 병합해 보십시오.";
+
+/* No comment provided by engineer. */
+"This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. You can still open the image as duplicate but its size will be automatically reduced." = "이 이미지는 %@메가픽셀 제한을 초과하므로 Pixelmator가 예기치 않게 동작할 수 있습니다. 이미지를 복제본으로 열 수 있지만 크기가 자동으로 축소됩니다.";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo" = "이 유형의 활동은 이 데모에서 지원되지 않습니다";

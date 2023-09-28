@@ -10,6 +10,9 @@
 /* No comment provided by engineer. */
 "%@ Effect" = "%@ Effekt";
 
+/* No comment provided by engineer. */
+"%@ OFF" = "%@ Rabatt";
+
 /* seconds */
 "%@s" = "%@s";
 
@@ -20,19 +23,34 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i days free, then %@. Cancel anytime." = "%1$i Tage kostenlos, anschließend %2$@. Jederzeit kündbar.";
+
+/* No comment provided by engineer. */
 "%i Images Selected" = "%i Bilder ausgewählt";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i Tipps";
 
 /* No comment provided by engineer. */
+"%i week free, then %@. Cancel anytime." = "%1$i Woche kostenlos, anschließend %2$@. Jederzeit kündbar.";
+
+/* No comment provided by engineer. */
 "(empty)" = "(leer)";
+
+/* No comment provided by engineer. */
+", %i days free" = ", %i Tage kostenlos";
+
+/* No comment provided by engineer. */
+", %i week free" = ", %i Woche kostenlos";
 
 /* No comment provided by engineer. */
 "1 Image Selected" = "1 Bild ausgewählt";
 
 /* No comment provided by engineer. */
 "1 tip" = "Ein Tipp";
+
+/* No comment provided by engineer. */
+"1 year %@, then %@/year. Cancel anytime." = "1 Jahr %1$@, anschließend %2$@ pro Jahr. Jederzeit kündbar.";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16 Bit/Kanal";
@@ -199,9 +217,6 @@
 
 /* No comment provided by engineer. */
 "Auto Straighten" = "Auto-Begradigen";
-
-/* No comment provided by engineer. */
-"Automatically select the subject of an image using advanced machine learning." = "Wählen Sie mithilfe von fortschrittlichem maschinellem Lernen automatisch das Motiv eines Bildes aus.";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "B&W" = "S&W";
@@ -480,9 +495,6 @@
 
 /* No comment provided by engineer. */
 "Colors" = "Farben";
-
-/* No comment provided by engineer. */
-"Compatible with the new iPad Pro" = "Kompatibel mit dem neuen iPad Pro";
 
 /* No comment provided by engineer. */
 "Completely transform the look of images using a wide range of beautiful effects." = "Verändern Sie das Aussehen von Bildern mit einer großen Auswahl wunderbarer Effekte.";
@@ -836,10 +848,10 @@
 "Enhance" = "Verbessern";
 
 /* No comment provided by engineer. */
-"Enjoy even the most demanding image editing workflows at a high speed." = "Genießen Sie selbst die anspruchsvollsten Bildbearbeitungs-Workflows mit hoher Geschwindigkeit.";
+"Enjoy a beautifully redesigned Pixelmator color picker, now offering easy access to Apple's native color picker." = "Genieße die neu entwickelte Pixelmator Farbauswahl mit schnellem Zugriff auf die native Apple Farbauswahl.";
 
 /* No comment provided by engineer. */
-"Enjoy support for the new iPad Pro and the next-level Apple Pencil hover experience." = "Genießen Sie die Unterstützung für das neue iPad Pro und das Apple Pencil Hover-Erlebnis der nächsten Stufe.";
+"Enjoy a fresh new color picker design and work with colors from anywhere on your device thanks to Apple's native color picker support." = "Genieße das neue Design der Farbauswahl und arbeite überall auf deinem Gerät mit Farben dank Unterstützung für die native Apple Farbauswahl.";
 
 /* No comment provided by engineer. */
 "Enter a new name for this document." = "Geben Sie einen Namen für dieses Dokument ein.";
@@ -875,9 +887,6 @@
 "Exposure" = "Belichtung";
 
 /* No comment provided by engineer. */
-"Extended Memory Support" = "Erweiterte Speicherunterstützung";
-
-/* No comment provided by engineer. */
 "Extent" = "Extent";
 
 /* No comment provided by engineer. */
@@ -903,6 +912,9 @@
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "Konnte ein oder mehrere erweiterte Attribute nicht einstellen.";
+
+/* No comment provided by engineer. */
+"Faster Subject Selection" = "Schnellere Auswahl des Motivs";
 
 /* No comment provided by engineer. */
 "Favorite" = "Favorit";
@@ -1493,6 +1505,9 @@
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "Keine Kamerainformationen";
 
+/* No comment provided by engineer. */
+"No commitment, cancel anytime." = "Keine Verpflichtung, jederzeit kündbar.";
+
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "Keine Objektivinformationen";
 
@@ -1546,6 +1561,21 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "Deckkraftstreuung";
+
+/* No comment provided by engineer. */
+"Open and edit images in JXL file format that offers smaller file sizes while maintaining high image quality." = "Öffne und bearbeite Bilder im JXL-Dateiformat für kleinere Dateigrößen bei gleichzeitigem Erhalt der Bildqualität.";
+
+/* No comment provided by engineer. */
+"Open and edit images in JXL file format that offers smaller image sizes while maintaining quality." = "Öffne und bearbeite Bilder im JXL-Dateiformat für kleinere Bildgrößen bei gleichzeitigem Erhalt der Bildqualität.";
+
+/* No comment provided by engineer. */
+"Open Anyway" = "Trotzdem öffnen";
+
+/* No comment provided by engineer. */
+"Open Duplicate" = "Duplikat öffnen";
+
+/* No comment provided by engineer. */
+"Opening Large Image" = "Große Bilddatei wird geöffnet";
 
 /* No comment provided by engineer. */
 "Orange" = "Orange";
@@ -1686,10 +1716,10 @@
 "Pixelmator" = "Pixelmator";
 
 /* No comment provided by engineer. */
-"Pixelmator 2.8 is now fully compatible with iOS 16." = "Pixelmator Photo 2.8 ist jetzt vollständig kompatibel mit iOS 16.";
+"Pixelmator 3.1 is now fully compatible with the new iOS 17." = "Pixelmator Photo 3.1 ist jetzt vollständig kompatibel mit dem neuen iOS 17.";
 
 /* No comment provided by engineer. */
-"Pixelmator 2.8 is now fully compatible with iPadOS 16." = "Pixelmator Photo 2.8 ist jetzt vollständig kompatibel mit iPadOS 16.";
+"Pixelmator 3.1 is now fully compatible with the new iPadOS 17." = "Pixelmator Photo 3.1 ist jetzt vollständig kompatibel mit dem neuen iPadOS 17.";
 
 /* No comment provided by engineer. */
 "Pixelmator Classic" = "Pixelmator Classic";
@@ -1853,6 +1883,12 @@
 
 /* No comment provided by engineer. */
 "Red Color Balance" = "Rote Farbbalance";
+
+/* No comment provided by engineer. */
+"Redeem Offer" = "Angebot einlösen";
+
+/* No comment provided by engineer. */
+"Redesigned Color Picker" = "Neu gestaltete Farbauswahl";
 
 /* No comment provided by engineer. */
 "Redo" = "Wiederherstellen";
@@ -2142,6 +2178,9 @@
 "Select Subject" = "Subjekt wählen";
 
 /* No comment provided by engineer. */
+"Select subjects in images even faster thanks to improved Select Subject performance." = "Markiere Motive in deinen Bildern noch schneller dank verbesserter Motiverkennung.";
+
+/* No comment provided by engineer. */
 "Select Top Layer" = "Oberste Ebene auswählen";
 
 /* No comment provided by engineer. */
@@ -2359,6 +2398,9 @@
 "Start" = "Start";
 
 /* No comment provided by engineer. */
+"Start Free Trial" = "Kostenlose Testversion starten";
+
+/* No comment provided by engineer. */
 "Start Point" = "Startpunkt";
 
 /* No comment provided by engineer. */
@@ -2419,10 +2461,13 @@
 "Support" = "Unterstützung";
 
 /* No comment provided by engineer. */
-"Support for iOS 16" = "Unterstützung für iOS 16";
+"Support for iOS 17" = "Unterstützung für iOS 17";
 
 /* No comment provided by engineer. */
-"Support for iPadOS 16" = "Unterstützung für iPadOS 16";
+"Support for iPadOS 17" = "Unterstützung für iPadOS 17";
+
+/* No comment provided by engineer. */
+"Support for JXL File Format" = "Unterstützung für das JXL-Dateiformat";
 
 /* The name of an image file format. */
 "SVG" = "SVG";
@@ -2564,9 +2609,6 @@
 "The image is too large. Its size has been reduced." = "Das Bild ist zu groß. Die Größe wurde reduziert.";
 
 /* No comment provided by engineer. */
-"The image is too large. You can open and edit images of up to %@ megapixels." = "Das Bild ist zu groß. Sie können Bilder mit bis zu %@ Megapixeln öffnen und bearbeiten.";
-
-/* No comment provided by engineer. */
 "The image is too large. You can share images of up to %@ megapixels." = "Das Bild ist zu groß. Sie können Bilder von bis zu %@ Megapixel teilen.";
 
 /* No comment provided by engineer. */
@@ -2586,6 +2628,12 @@
 
 /* No comment provided by engineer. */
 "This cloud storage provider does not support Pixelmator files." = "Dieser Cloud-Anbieter unterstützt Pixelmator-Dateien nicht.";
+
+/* No comment provided by engineer. */
+"This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. If you choose to open the image anyway, try reducing its size or merging some of the layers." = "Dieses Bild überschreitet die Grenze von %@ Megapixeln und kann zu unerwartetem Verhalten von Pixelmator führen. Wenn Sie das Bild trotzdem öffnen möchten, verringern Sie möglichst die Bildgröße oder führen Sie einige Ebenen zusammen.";
+
+/* No comment provided by engineer. */
+"This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. You can still open the image as duplicate but its size will be automatically reduced." = "Dieses Bild überschreitet die Grenze von %@ Megapixeln und kann zu unerwartetem Verhalten von Pixelmator führen. Sie können das Bild trotzdem als Duplikat mit verringerter Größe öffnen.";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo" = "Diese Art von Aktivität wird in dieser Demo nicht unterstützt";

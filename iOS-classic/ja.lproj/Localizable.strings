@@ -10,6 +10,9 @@
 /* No comment provided by engineer. */
 "%@ Effect" = "%@ エフェクト";
 
+/* No comment provided by engineer. */
+"%@ OFF" = "%@ オフ";
+
 /* seconds */
 "%@s" = "%@s";
 
@@ -20,19 +23,34 @@
 "%d:%d" = "%1$d:%2$d";
 
 /* No comment provided by engineer. */
+"%i days free, then %@. Cancel anytime." = "%1$i 日間は無料、その後は %2$@。いつでもキャンセルできます。";
+
+/* No comment provided by engineer. */
 "%i Images Selected" = "%i 画像を選択";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i チップ";
 
 /* No comment provided by engineer. */
+"%i week free, then %@. Cancel anytime." = "%1$i 週間は無料、その後は %2$@。いつでもキャンセルできます。";
+
+/* No comment provided by engineer. */
 "(empty)" = "(空)";
+
+/* No comment provided by engineer. */
+", %i days free" = ", %i 日間無料";
+
+/* No comment provided by engineer. */
+", %i week free" = ", %i 週間無料";
 
 /* No comment provided by engineer. */
 "1 Image Selected" = "1 画像を選択";
 
 /* No comment provided by engineer. */
 "1 tip" = "1 チップ";
+
+/* No comment provided by engineer. */
+"1 year %@, then %@/year. Cancel anytime." = "1 年 %1$@、その後は %2$@ / 年。いつでもキャンセルできます。";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16ビット/チャネル";
@@ -199,9 +217,6 @@
 
 /* No comment provided by engineer. */
 "Auto Straighten" = "自動矯正";
-
-/* No comment provided by engineer. */
-"Automatically select the subject of an image using advanced machine learning." = "高度な機械学習を使用して、画像の被写体を自動的に選択します。";
 
 /* Used in Color Adjustments as preset name, not much space here–keep it short! */
 "B&W" = "白黒";
@@ -480,9 +495,6 @@
 
 /* No comment provided by engineer. */
 "Colors" = "カラー";
-
-/* No comment provided by engineer. */
-"Compatible with the new iPad Pro" = "新しい iPad Pro に対応";
 
 /* No comment provided by engineer. */
 "Completely transform the look of images using a wide range of beautiful effects." = "さまざまな美しいエフェクトを使用して、画像の外観を完全に変換します。";
@@ -836,10 +848,10 @@
 "Enhance" = "補正";
 
 /* No comment provided by engineer. */
-"Enjoy even the most demanding image editing workflows at a high speed." = "最も要求の厳しい画像編集ワークフローも高速で楽しめます。";
+"Enjoy a beautifully redesigned Pixelmator color picker, now offering easy access to Apple's native color picker." = "美しく再設計されたPixelmatorカラーピッカーをお楽しみください。Appleのネイティブカラーピッカーに簡単にアクセスできるようになりました。";
 
 /* No comment provided by engineer. */
-"Enjoy support for the new iPad Pro and the next-level Apple Pencil hover experience." = "新しい iPad Pro のサポートと、次世代の Apple Pencil ホバー体験をお楽しみください。";
+"Enjoy a fresh new color picker design and work with colors from anywhere on your device thanks to Apple's native color picker support." = "Appleのネイティブカラーピッカーをサポートすることで、デバイスのどこからでも色を操作できるようになった、新しいカラー ピッカーのデザインと機能をお楽しみください。";
 
 /* No comment provided by engineer. */
 "Enter a new name for this document." = "この書類の新しい名前を入力してください。";
@@ -875,9 +887,6 @@
 "Exposure" = "露光量";
 
 /* No comment provided by engineer. */
-"Extended Memory Support" = "拡張メモリをサポート";
-
-/* No comment provided by engineer. */
 "Extent" = "Extent";
 
 /* No comment provided by engineer. */
@@ -903,6 +912,9 @@
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "拡張属性の設定に失敗しました。";
+
+/* No comment provided by engineer. */
+"Faster Subject Selection" = "より迅速な被写体選択";
 
 /* No comment provided by engineer. */
 "Favorite" = "お気に入り";
@@ -1493,6 +1505,9 @@
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No Camera Info" = "カメラ情報なし";
 
+/* No comment provided by engineer. */
+"No commitment, cancel anytime." = "コミットメントなし、いつでもキャンセル。";
+
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "レンズ情報なし";
 
@@ -1546,6 +1561,21 @@
 
 /* No comment provided by engineer. */
 "Opacity Scatter" = "不透明度の散布";
+
+/* No comment provided by engineer. */
+"Open and edit images in JXL file format that offers smaller file sizes while maintaining high image quality." = "高画質を維持しながらファイルサイズを小さくできる、JXLファイル形式で画像を開いて編集します。";
+
+/* No comment provided by engineer. */
+"Open and edit images in JXL file format that offers smaller image sizes while maintaining quality." = "画質を維持しながら画像サイズを小さくできる、JXLファイル形式で画像を開いて編集します。";
+
+/* No comment provided by engineer. */
+"Open Anyway" = "とにかく開く";
+
+/* No comment provided by engineer. */
+"Open Duplicate" = "複製を開く";
+
+/* No comment provided by engineer. */
+"Opening Large Image" = "大きな画像を開いています";
 
 /* No comment provided by engineer. */
 "Orange" = "オレンジ";
@@ -1686,10 +1716,10 @@
 "Pixelmator" = "Pixelmator";
 
 /* No comment provided by engineer. */
-"Pixelmator 2.8 is now fully compatible with iOS 16." = "Pixelmator 2.8 は iOS 16 と完全な互換性があります。";
+"Pixelmator 3.1 is now fully compatible with the new iOS 17." = "Pixelmator 3.1は新しいiOS 17と完全に互換性があります。";
 
 /* No comment provided by engineer. */
-"Pixelmator 2.8 is now fully compatible with iPadOS 16." = "Pixelmator 2.8 は iPadOS 16 と完全な互換性があります。";
+"Pixelmator 3.1 is now fully compatible with the new iPadOS 17." = "Pixelmator 3.1は新しいiPadOS 17と完全に互換性があります。";
 
 /* No comment provided by engineer. */
 "Pixelmator Classic" = "Pixelmator Classic";
@@ -1853,6 +1883,12 @@
 
 /* No comment provided by engineer. */
 "Red Color Balance" = "レッドカラーバランス";
+
+/* No comment provided by engineer. */
+"Redeem Offer" = "クーポンを利用";
+
+/* No comment provided by engineer. */
+"Redesigned Color Picker" = "再設計されたカラーピッカー";
 
 /* No comment provided by engineer. */
 "Redo" = "やり直し";
@@ -2142,6 +2178,9 @@
 "Select Subject" = "対象を選択";
 
 /* No comment provided by engineer. */
+"Select subjects in images even faster thanks to improved Select Subject performance." = "被写体選択のパフォーマンスが向上したことで、画像内の被写体をさらに速く選択できます。";
+
+/* No comment provided by engineer. */
 "Select Top Layer" = "最上部のレイヤーを選択";
 
 /* No comment provided by engineer. */
@@ -2359,6 +2398,9 @@
 "Start" = "始点";
 
 /* No comment provided by engineer. */
+"Start Free Trial" = "無料トライアルを開始";
+
+/* No comment provided by engineer. */
 "Start Point" = "開始ポイント";
 
 /* No comment provided by engineer. */
@@ -2419,10 +2461,13 @@
 "Support" = "サポート";
 
 /* No comment provided by engineer. */
-"Support for iOS 16" = "iOS 16 をサポート";
+"Support for iOS 17" = "iOS 17 をサポート";
 
 /* No comment provided by engineer. */
-"Support for iPadOS 16" = "iPadOS 16 をサポート";
+"Support for iPadOS 17" = "iPadOS 17 をサポート";
+
+/* No comment provided by engineer. */
+"Support for JXL File Format" = "JXLファイル形式のサポート";
 
 /* The name of an image file format. */
 "SVG" = "SVG";
@@ -2564,9 +2609,6 @@
 "The image is too large. Its size has been reduced." = "画像が大きすぎます。サイズが小さくなりました。";
 
 /* No comment provided by engineer. */
-"The image is too large. You can open and edit images of up to %@ megapixels." = "画像が大きすぎます。 最大%@メガピクセルまでの画像を開いて編集できます。";
-
-/* No comment provided by engineer. */
 "The image is too large. You can share images of up to %@ megapixels." = "画像が大きすぎます。最大 %@ メガピクセルまでの画像を開いて共有できます。";
 
 /* No comment provided by engineer. */
@@ -2586,6 +2628,12 @@
 
 /* No comment provided by engineer. */
 "This cloud storage provider does not support Pixelmator files." = "このクラウドストレージプロバイダーはPixelmatorファイルをサポートしていません。";
+
+/* No comment provided by engineer. */
+"This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. If you choose to open the image anyway, try reducing its size or merging some of the layers." = "この画像は%@メガピクセルの制限を超えているため、Pixelmatorが予期せぬ動作をする可能性があります。[とにかく開く] を選択した場合は、サイズを小さくするか、レイヤーの一部を結合してみてください。";
+
+/* No comment provided by engineer. */
+"This image exceeds the %@ megapixel limit and may cause Pixelmator to behave unexpectedly. You can still open the image as duplicate but its size will be automatically reduced." = "この画像は%@メガピクセルの制限を超えているため、Pixelmatorが予期せぬ動作をする可能性があります。画像を複製して開くことはできますが、サイズは自動的に縮小されます。";
 
 /* No comment provided by engineer. */
 "This kind of activity is not supported in this demo" = "この種類のアクティビティはこのデモではサポートされていません";
