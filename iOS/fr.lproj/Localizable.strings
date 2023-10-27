@@ -266,6 +266,9 @@
 /* No comment provided by engineer. */
 "Automatically improve the lighting and colors of a photo using AI by simply tapping %@." = "Améliorez automatiquement l'éclairage et les couleurs d'une photo grâce à l'IA en appuyant simplement sur %@.";
 
+/* The name of an image file format */
+"AVIF" = "AVIF";
+
 /* No comment provided by engineer. */
 "Background" = "Arrière-plan";
 
@@ -509,7 +512,13 @@
 "Convert LUT into Adjustments" = "Convertir LUT en Réglages";
 
 /* No comment provided by engineer. */
+"Convert to HDR" = "Convert to HDR";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "Conversion de LUT en Réglages…";
+
+/* No comment provided by engineer. */
+"Converting to HDR…" = "Converting to HDR…";
 
 /* Used in gallery document duplicate. */
 "copy" = "copie";
@@ -734,6 +743,9 @@
 "Display Albums Without Nesting" = "Afficher tous les albums au même niveau";
 
 /* No comment provided by engineer. */
+"Display HDR Content" = "Display HDR Content";
+
+/* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "Affiche tous les albums, y compris ceux qui se trouvent dans des dossiers, dans une seule galerie classée par ordre alphabétique.";
 
 /* No comment provided by engineer. */
@@ -863,6 +875,9 @@
 "Edit RAW" = "Modifier RAW";
 
 /* No comment provided by engineer. */
+"Edit specific areas of photos" = "Edit specific areas of photos";
+
+/* No comment provided by engineer. */
 "Editing" = "Modifications";
 
 /* No comment provided by engineer. */
@@ -878,7 +893,7 @@
 /* No comment provided by engineer. */
 "Editing…" = "Modification…";
 
-/* Raw image type identifier */
+/* No comment provided by engineer. */
 "EDR" = "EDR";
 
 /* No comment provided by engineer. */
@@ -1106,9 +1121,6 @@
 /* No comment provided by engineer. */
 "Getting Started" = "Démarrer";
 
-/* No comment provided by engineer. */
-"Getting Started with Photomator" = "Bien débuter avec Photomator";
-
 /* The name of an image file format. */
 "GIF" = "GIF";
 
@@ -1172,6 +1184,15 @@
 
 /* No comment provided by engineer. */
 "Hard Mix" = "Mélange maximal";
+
+/* No comment provided by engineer. */
+"HDR" = "HDR";
+
+/* No comment provided by engineer. */
+"HDR Not Available" = "HDR Not Available";
+
+/* No comment provided by engineer. */
+"HDR Support" = "HDR Support";
 
 /* The name of an image file format. */
 "HEIC" = "HEIC";
@@ -1348,6 +1369,9 @@
 /* The name of an image file format. */
 "JPEG" = "JPEG";
 
+/* The name of an image file format */
+"JPEG XL" = "JPEG XL";
+
 /* The name of an image file format. */
 "JPEG-2000" = "JPEG-2000";
 
@@ -1445,6 +1469,12 @@
 /* No comment provided by engineer. */
 "Load" = "Charger";
 
+/* No comment provided by engineer. */
+"Load HDR Content" = "Load HDR Content";
+
+/* No comment provided by engineer. */
+"Load SDR Content" = "Load SDR Content";
+
 /* Document loading */
 "Loading…" = "Chargement…";
 
@@ -1489,9 +1519,6 @@
 
 /* Color adjustments */
 "Magenta / Green" = "Magenta / vert";
-
-/* No comment provided by engineer. */
-"Magically improve the quality of photos by removing color banding and increasing color depth with just a tap." = "Améliorez magiquement la qualité de vos photos en supprimant les bandes de couleur et en augmentant la profondeur des couleurs avec une seule touche.";
 
 /* No comment provided by engineer. */
 "Magically increase resolution" = "Augmentez la résolution comme par magie";
@@ -1617,6 +1644,9 @@
 "My Albums" = "Mes albums";
 
 /* No comment provided by engineer. */
+"Native" = "Native";
+
+/* No comment provided by engineer. */
 "New Album" = "Nouvel album";
 
 /* No comment provided by engineer. */
@@ -1723,6 +1753,9 @@
 
 /* No comment provided by engineer. */
 "Open RAW by Default" = "Ouvrir le RAW par défaut";
+
+/* The name of an image file format */
+"OpenEXR" = "OpenEXR";
 
 /* No comment provided by engineer. */
 "Orange" = "Orange";
@@ -1997,6 +2030,9 @@
 
 /* No comment provided by engineer. */
 "Radial Gradient" = "Dégradé radial";
+
+/* The name of an image file format */
+"Radiance HDR" = "Radiance HDR";
 
 /* No comment provided by engineer. */
 "Radius" = "Rayon";
@@ -2705,9 +2741,6 @@
 "Tap %@ to change the colors and lighting of photos in just about any way you can imagine." = "Appuyez %@ pour modifier les couleurs et l'éclairage de vos photos de toutes les manières possibles et imaginables.";
 
 /* No comment provided by engineer. */
-"Tap %@ to increase the resolution of photos with no unwanted blurring." = "Appuyez sur %@ pour augmenter la résolution des photos sans risque de flou indésirable.";
-
-/* No comment provided by engineer. */
 "Tap %@, then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "Appuyez sur %@, puis choisissez Super résolution pour augmenter la résolution des photos sans risque de flou indésirable.";
 
 /* No comment provided by engineer. */
@@ -2796,6 +2829,15 @@
 "This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "Cet album est vide. Ajoutez-y des photos dans l’appli Photos et elles apparaîtront ici automatiquement.";
 
 /* No comment provided by engineer. */
+"This device does not support HDR content." = "This device does not support HDR content.";
+
+/* No comment provided by engineer. */
+"This device fully supports HDR content." = "This device fully supports HDR content.";
+
+/* No comment provided by engineer. */
+"This device has limited support for HDR content." = "This device has limited support for HDR content.";
+
+/* No comment provided by engineer. */
 "This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "Ce dossier est vide. Ajoutez-y des albums ou des dossiers et ils apparaîtront automatiquement ici.";
 
 /* Image open error */
@@ -2862,6 +2904,9 @@
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "Pour commencer à éditer des photos en groupe, tapez d’abord sur Sélectionner dans le coin en haut à droite. Puis, sélectionnez plusieurs photos et tapez sur Groupe dans la barre d’outils. Enfin, choisissez simplement un des workflows de groupe inclus ou créez le vôtre et tapez sur Appliquer.";
 
 /* No comment provided by engineer. */
+"To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top.";
+
+/* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "Pour acheter Photomator, vous devez être connecté à Internet. Rendez-vous dans l'application Réglages pour vérifier que vous êtes connecté, puis réessayez.";
 
 /* No comment provided by engineer. */
@@ -2896,12 +2941,6 @@
 
 /* No comment provided by engineer. */
 "Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, and iPhone." = "Sublimez vos photos avec des outils de retouche photo puissants et complets disponibles sur Mac, iPad et iPhone.";
-
-/* No comment provided by engineer. */
-"Turn off EDR" = "Désactiver l'EDR";
-
-/* No comment provided by engineer. */
-"Turn on EDR" = "Activer l'EDR";
 
 /* Tool */
 "Twirl" = "Tourbillon";
@@ -2976,6 +3015,9 @@
 "Unlock %@" = "Déverrouiller %@";
 
 /* No comment provided by engineer. */
+"Unlock all-new creative workflows with full support for opening, editing, and sharing HDR images - including those captured with iPhone." = "Unlock all-new creative workflows with full support for opening, editing, and sharing HDR images - including those captured with iPhone.";
+
+/* No comment provided by engineer. */
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "Débloquez de nouveaux flux de travail de modification RAW avec le nouveau mode de plage dynamique étendue.";
 
 /* No comment provided by engineer. */
@@ -3013,6 +3055,12 @@
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "Masque de calque sans nom";
+
+/* No comment provided by engineer. */
+"Update to iOS 17 to access full HDR support." = "Update to iOS 17 to access full HDR support.";
+
+/* No comment provided by engineer. */
+"Update to iPadOS 17 to access full HDR support." = "Update to iPadOS 17 to access full HDR support.";
 
 /* No comment provided by engineer. */
 "Upgrade to access the full image editing experience in Photomator." = "Passez à la version complète pour bénéficier de toutes les fonctionnalités de retouche de Photomator.";
