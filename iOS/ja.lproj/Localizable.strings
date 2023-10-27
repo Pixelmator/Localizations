@@ -266,6 +266,9 @@
 /* No comment provided by engineer. */
 "Automatically improve the lighting and colors of a photo using AI by simply tapping %@." = "%@ をタップするだけで、AI を使用して写真の照明と色を自動的に改善します。";
 
+/* The name of an image file format */
+"AVIF" = "AVIF";
+
 /* No comment provided by engineer. */
 "Background" = "背景";
 
@@ -509,7 +512,13 @@
 "Convert LUT into Adjustments" = "LUTを調整に変換する";
 
 /* No comment provided by engineer. */
+"Convert to HDR" = "Convert to HDR";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUTを調整に変換しています…";
+
+/* No comment provided by engineer. */
+"Converting to HDR…" = "Converting to HDR…";
 
 /* Used in gallery document duplicate. */
 "copy" = "コピー";
@@ -734,6 +743,9 @@
 "Display Albums Without Nesting" = "ネストせずにアルバムを表示";
 
 /* No comment provided by engineer. */
+"Display HDR Content" = "Display HDR Content";
+
+/* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "フォルダ毎のアルバムを含むすべてのアルバムを、アルファベット順に並べられた1つのギャラリーに表示します。";
 
 /* No comment provided by engineer. */
@@ -863,6 +875,9 @@
 "Edit RAW" = "RAWを編集";
 
 /* No comment provided by engineer. */
+"Edit specific areas of photos" = "Edit specific areas of photos";
+
+/* No comment provided by engineer. */
 "Editing" = "編集中";
 
 /* No comment provided by engineer. */
@@ -878,7 +893,7 @@
 /* No comment provided by engineer. */
 "Editing…" = "編集中…";
 
-/* Raw image type identifier */
+/* No comment provided by engineer. */
 "EDR" = "EDR";
 
 /* No comment provided by engineer. */
@@ -1106,9 +1121,6 @@
 /* No comment provided by engineer. */
 "Getting Started" = "使用開始";
 
-/* No comment provided by engineer. */
-"Getting Started with Photomator" = "Photomatorの使用を開始";
-
 /* The name of an image file format. */
 "GIF" = "GIF";
 
@@ -1172,6 +1184,15 @@
 
 /* No comment provided by engineer. */
 "Hard Mix" = "ハードミックス";
+
+/* No comment provided by engineer. */
+"HDR" = "HDR";
+
+/* No comment provided by engineer. */
+"HDR Not Available" = "HDR Not Available";
+
+/* No comment provided by engineer. */
+"HDR Support" = "HDR Support";
 
 /* The name of an image file format. */
 "HEIC" = "HEIC";
@@ -1348,6 +1369,9 @@
 /* The name of an image file format. */
 "JPEG" = "JPEG";
 
+/* The name of an image file format */
+"JPEG XL" = "JPEG XL";
+
 /* The name of an image file format. */
 "JPEG-2000" = "JPEG-2000";
 
@@ -1445,6 +1469,12 @@
 /* No comment provided by engineer. */
 "Load" = "読み込み";
 
+/* No comment provided by engineer. */
+"Load HDR Content" = "Load HDR Content";
+
+/* No comment provided by engineer. */
+"Load SDR Content" = "Load SDR Content";
+
 /* Document loading */
 "Loading…" = "読み込み中…";
 
@@ -1489,9 +1519,6 @@
 
 /* Color adjustments */
 "Magenta / Green" = "マゼンタ/グリーン";
-
-/* No comment provided by engineer. */
-"Magically improve the quality of photos by removing color banding and increasing color depth with just a tap." = "タップするだけでカラーバンディングを除去し、色の深さを増やすことで、写真の品質を魔法のように向上させます。";
 
 /* No comment provided by engineer. */
 "Magically increase resolution" = "魔法のように解像度を上げる";
@@ -1617,6 +1644,9 @@
 "My Albums" = "マイアルバム";
 
 /* No comment provided by engineer. */
+"Native" = "Native";
+
+/* No comment provided by engineer. */
 "New Album" = "新規アルバム";
 
 /* No comment provided by engineer. */
@@ -1723,6 +1753,9 @@
 
 /* No comment provided by engineer. */
 "Open RAW by Default" = "デフォルトでRAWを開く";
+
+/* The name of an image file format */
+"OpenEXR" = "OpenEXR";
 
 /* No comment provided by engineer. */
 "Orange" = "オレンジ";
@@ -1997,6 +2030,9 @@
 
 /* No comment provided by engineer. */
 "Radial Gradient" = "放射状グラデーション";
+
+/* The name of an image file format */
+"Radiance HDR" = "Radiance HDR";
 
 /* No comment provided by engineer. */
 "Radius" = "半径";
@@ -2705,9 +2741,6 @@
 "Tap %@ to change the colors and lighting of photos in just about any way you can imagine." = "%@ をタップすると、思いつく全ての方法で写真の色や照明を変更できます。";
 
 /* No comment provided by engineer. */
-"Tap %@ to increase the resolution of photos with no unwanted blurring." = "%@ をタップすると、不要なぼかしをなくして写真の解像度が向上します。";
-
-/* No comment provided by engineer. */
 "Tap %@, then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "[%@] をタップし、[超解像度] を選択して、不要なぼかしをなくして写真の解像度を高めます。";
 
 /* No comment provided by engineer. */
@@ -2796,6 +2829,15 @@
 "This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "このアルバムは空です。 写真アプリで写真を追加すると自動的にここに表示されます。";
 
 /* No comment provided by engineer. */
+"This device does not support HDR content." = "This device does not support HDR content.";
+
+/* No comment provided by engineer. */
+"This device fully supports HDR content." = "This device fully supports HDR content.";
+
+/* No comment provided by engineer. */
+"This device has limited support for HDR content." = "This device has limited support for HDR content.";
+
+/* No comment provided by engineer. */
 "This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "このフォルダは空です。アルバムやフォルダを追加すると、自動的にここに表示されます。";
 
 /* Image open error */
@@ -2862,6 +2904,9 @@
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "写真の一括編集を開始するには、まず右上隅の [選択] をタップします。 次に、複数の写真を選択し、ツールバーの [一括処理] をタップします。 最後に、包含されている一括処理ワークフローのいずれかを選択するか、独自のバッチワークフローを作成して [適用] をタップします。";
 
 /* No comment provided by engineer. */
+"To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top.";
+
+/* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "Photomatorを購入するには、インターネットに接続する必要があります。設定アプリでこれを確認してから、もう一度お試しください。";
 
 /* No comment provided by engineer. */
@@ -2896,12 +2941,6 @@
 
 /* No comment provided by engineer. */
 "Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, and iPhone." = "Mac、iPad、iPhone で利用できる強力なフルセットの写真編集ツールを使用して、見栄えの良い写真を仕上げることができます。";
-
-/* No comment provided by engineer. */
-"Turn off EDR" = "EDRをオフ";
-
-/* No comment provided by engineer. */
-"Turn on EDR" = "EDRをオン";
 
 /* Tool */
 "Twirl" = "回転";
@@ -2976,6 +3015,9 @@
 "Unlock %@" = "%@のロックを解除";
 
 /* No comment provided by engineer. */
+"Unlock all-new creative workflows with full support for opening, editing, and sharing HDR images - including those captured with iPhone." = "Unlock all-new creative workflows with full support for opening, editing, and sharing HDR images - including those captured with iPhone.";
+
+/* No comment provided by engineer. */
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "新しい拡張ダイナミックレンジモードで新しいRAW編集ワークフローのロックを解除";
 
 /* No comment provided by engineer. */
@@ -3013,6 +3055,12 @@
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "名称未設定レイヤーマスク";
+
+/* No comment provided by engineer. */
+"Update to iOS 17 to access full HDR support." = "Update to iOS 17 to access full HDR support.";
+
+/* No comment provided by engineer. */
+"Update to iPadOS 17 to access full HDR support." = "Update to iPadOS 17 to access full HDR support.";
 
 /* No comment provided by engineer. */
 "Upgrade to access the full image editing experience in Photomator." = "アップグレードして、Photomator の写真編集の全機能をご体験ください。";
