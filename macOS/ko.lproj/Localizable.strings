@@ -454,6 +454,9 @@
 /* No comment provided by engineer. */
 "Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Mac에서 원본 이미지 파일에 연결된 사이드카 파일에 비파괴적 편집 내용을 자동으로 보존합니다.";
 
+/* The name of an image file format */
+"AVIF" = "AVIF";
+
 /* No comment provided by engineer. */
 "azimuth: %@, elevation: %@" = "방위각: %1$@, 표고: %2$@";
 
@@ -635,6 +638,9 @@
 "Change Color Adjustments" = "색상 조정 변경";
 
 /* No comment provided by engineer. */
+"Change Density" = "Change Density";
+
+/* No comment provided by engineer. */
 "Change Document Colors" = "문서 색상 변경";
 
 /* No comment provided by engineer. */
@@ -645,6 +651,9 @@
 
 /* No comment provided by engineer. */
 "Change End Behavior" = "종료 동작 변경";
+
+/* No comment provided by engineer. */
+"Change Feather" = "Change Feather";
 
 /* No comment provided by engineer. */
 "Change Opacity" = "불투명도 변경";
@@ -836,6 +845,9 @@
 "Clone Settings" = "복제 설정";
 
 /* No comment provided by engineer. */
+"Close" = "닫기";
+
+/* No comment provided by engineer. */
 "Close Edit Tools" = "편집 도구 닫기";
 
 /* No comment provided by engineer. */
@@ -929,10 +941,10 @@
 "Common Profiles" = "일반 프로필";
 
 /* No comment provided by engineer. */
-"Compare to Pixelmator Pro" = "Pixelmator Pro와 비교";
+"Concentration" = "농도";
 
 /* No comment provided by engineer. */
-"Concentration" = "농도";
+"Connect an HDR-compatible display to edit HDR content." = "Connect an HDR-compatible display to edit HDR content.";
 
 /* No comment provided by engineer. */
 "Constant" = "상수";
@@ -962,7 +974,13 @@
 "Convert LUT into Adjustments" = "LUT를 조정으로 변환";
 
 /* No comment provided by engineer. */
+"Convert to HDR" = "Convert to HDR";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUT를 조정으로 변환 중…";
+
+/* No comment provided by engineer. */
+"Converting to HDR…" = "Converting to HDR…";
 
 /* No comment provided by engineer. */
 "Copy" = "복사";
@@ -1032,9 +1050,6 @@
 
 /* No comment provided by engineer. */
 "Crop" = "자르기";
-
-/* No comment provided by engineer. */
-"Crop Tool" = "자르기 도구";
 
 /* No comment provided by engineer. */
 "Crop…" = "자르기…";
@@ -1256,6 +1271,9 @@
 "Disable Mask" = "마스크 비활성화";
 
 /* No comment provided by engineer. */
+"Disable Masks" = "Disable Masks";
+
+/* No comment provided by engineer. */
 "Disable Texture-Aware Algorithm" = "텍스처 인식 알고리즘 비활성화";
 
 /* No comment provided by engineer. */
@@ -1263,6 +1281,9 @@
 
 /* No comment provided by engineer. */
 "Display albums without nesting" = "중첩 없이 앨범 표시";
+
+/* No comment provided by engineer. */
+"Display HDR Content" = "Display HDR Content";
 
 /* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "폴더 안의 앨범을 포함하여 모든 앨범을 알파벳순으로 정렬된 하나의 갤러리에 표시합니다.";
@@ -1335,9 +1356,6 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "양방향 화살표";
-
-/* No comment provided by engineer. */
-"Download for Free" = "무료 다운로드";
 
 /* No comment provided by engineer. */
 "Downloading %d of %d photos for sharing…" = "공유를 위해 %2$d장 중 %1$d장의 사진 다운로드 중…";
@@ -1472,6 +1490,9 @@
 "Enable Mask" = "마스크 활성화";
 
 /* No comment provided by engineer. */
+"Enable Masks" = "Enable Masks";
+
+/* No comment provided by engineer. */
 "Enable Sharpening" = "선명 효과 활성화";
 
 /* No comment provided by engineer. */
@@ -1571,9 +1592,6 @@
 "Export for Web" = "웹용으로 내보내기";
 
 /* No comment provided by engineer. */
-"Export for Web Tool" = "웹 도구용으로 내보내기";
-
-/* No comment provided by engineer. */
 "Export Gradient Collection" = "그라디언트 컬렉션 내보내기";
 
 /* No comment provided by engineer. */
@@ -1638,6 +1656,9 @@
 
 /* No comment provided by engineer. */
 "Exposure" = "노출";
+
+/* No comment provided by engineer. */
+"Extended Dynamic Range" = "Extended Dynamic Range";
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
@@ -1870,6 +1891,18 @@
 /* No comment provided by engineer. */
 "Hard Mix" = "하드 믹스";
 
+/* No comment provided by engineer. */
+"HDR" = "HDR";
+
+/* No comment provided by engineer. */
+"HDR Mode" = "HDR Mode";
+
+/* No comment provided by engineer. */
+"HDR Not Available" = "HDR Not Available";
+
+/* No comment provided by engineer. */
+"HDR requires an HDR-compatible display and macOS 14.0 or later." = "HDR requires an HDR-compatible display and macOS 14.0 or later.";
+
 /* The name of an image file format. */
 "HEIC" = "HEIC";
 
@@ -2006,9 +2039,6 @@
 "Image Layer" = "이미지 레이어";
 
 /* No comment provided by engineer. */
-"Image Settings" = "이미지 설정";
-
-/* No comment provided by engineer. */
 "Image Size" = "이미지 크기";
 
 /* No comment provided by engineer. */
@@ -2121,6 +2151,9 @@
 
 /* The name of an image file format. */
 "JPEG" = "JPEG";
+
+/* The name of an image file format */
+"JPEG XL" = "JPEG XL";
 
 /* The name of an image file format. */
 "JPEG-2000" = "JPEG-2000";
@@ -2235,6 +2268,9 @@
 
 /* No comment provided by engineer. */
 "Link Mask" = "마스크 연결";
+
+/* No comment provided by engineer. */
+"Link Masks" = "Link Masks";
 
 /* No comment provided by engineer. */
 "Live Photo" = "Live Photo";
@@ -2421,6 +2457,9 @@
 
 /* No comment provided by engineer. */
 "Move Up" = "위로 이동";
+
+/* No comment provided by engineer. */
+"Move window to %@ to view HDR content." = "Move window to %@ to view HDR content.";
 
 /* No comment provided by engineer. */
 "Moved" = "Moved";
@@ -2672,10 +2711,16 @@
 "Open Sidecar" = "사이드카 열기";
 
 /* No comment provided by engineer. */
+"Open Software Update" = "Open Software Update";
+
+/* No comment provided by engineer. */
 "Open System Preferences" = "시스템 환경 설정 열기";
 
 /* No comment provided by engineer. */
 "Open the Photos browser" = "사진 브라우저 열기";
+
+/* The name of an image file format */
+"OpenEXR" = "OpenEXR";
 
 /* No comment provided by engineer. */
 "Optimize & Export" = "최적화 및 내보내기";
@@ -2736,6 +2781,9 @@
 
 /* No comment provided by engineer. */
 "Paste Effects" = "효과 붙이기";
+
+/* No comment provided by engineer. */
+"Paste Mask" = "마스크 붙여넣기";
 
 /* No comment provided by engineer. */
 "Paste Styles" = "스타일 붙이기";
@@ -3022,6 +3070,9 @@
 /* No comment provided by engineer. */
 "Radial Gradient" = "방사형 그라데이션";
 
+/* The name of an image file format */
+"Radiance HDR" = "Radiance HDR";
+
 /* No comment provided by engineer. */
 "Radius" = "반경";
 
@@ -3146,6 +3197,9 @@
 "Remove Mask" = "마스크 제거";
 
 /* No comment provided by engineer. */
+"Remove Masks" = "Remove Masks";
+
+/* No comment provided by engineer. */
 "Remove Palette" = "팔레트 제거";
 
 /* No comment provided by engineer. */
@@ -3230,6 +3284,12 @@
 "Replace Mask" = "마스크 대치";
 
 /* No comment provided by engineer. */
+"Replace Masks" = "Replace Masks";
+
+/* No comment provided by engineer. */
+"Replace Masks…" = "Replace Masks…";
+
+/* No comment provided by engineer. */
 "Replace Mask…" = "마스크 대치…";
 
 /* No comment provided by engineer. */
@@ -3303,6 +3363,9 @@
 
 /* No comment provided by engineer. */
 "Reset LUTs" = "LUT 재설정";
+
+/* No comment provided by engineer. */
+"Reset Mask Styles" = "Reset Mask Styles";
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "ML 자르기 재설정";
@@ -4154,6 +4217,15 @@
 "There were no results for %@. Try a new search." = "%@에 대한 결과가 없습니다. 새로 검색해 보세요.";
 
 /* No comment provided by engineer. */
+"This display does not support HDR content." = "This display does not support HDR content.";
+
+/* No comment provided by engineer. */
+"This display has full support for HDR content." = "This display has full support for HDR content.";
+
+/* No comment provided by engineer. */
+"This display has limited support for HDR content." = "This display has limited support for HDR content.";
+
+/* No comment provided by engineer. */
 "This document currently has no editable colors." = "이 문서는 현재 편집 가능한 색상이 없습니다.";
 
 /* No comment provided by engineer. */
@@ -4173,6 +4245,9 @@
 
 /* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "이 유형의 변형은 지원되지 않습니다.";
+
+/* No comment provided by engineer. */
+"This version of macOS does not support HDR." = "This version of macOS does not support HDR.";
 
 /* The name of an image file format. */
 "TIFF" = "TIFF";
@@ -4212,9 +4287,6 @@
 
 /* No comment provided by engineer. */
 "Tone Map" = "색조 맵";
-
-/* No comment provided by engineer. */
-"Tools" = "도구";
 
 /* No comment provided by engineer. */
 "Touch Opacity" = "터치 불투명도";
@@ -4298,6 +4370,9 @@
 "Unlink Mask" = "마스크 연결 해제";
 
 /* No comment provided by engineer. */
+"Unlink Masks" = "Unlink Masks";
+
+/* No comment provided by engineer. */
 "Unlock" = "잠금 해제";
 
 /* No comment provided by engineer. */
@@ -4337,6 +4412,9 @@
 "Untitled layer mask" = "제목 없는 레이어 마스크";
 
 /* No comment provided by engineer. */
+"Update to the latest version of macOS using Software Update in System Settings." = "Update to the latest version of macOS using Software Update in System Settings.";
+
+/* No comment provided by engineer. */
 "Updates Unavailable for Demo" = "데모 버전에서는 업데이트를 이용할 수 없습니다";
 
 /* No comment provided by engineer. */
@@ -4371,9 +4449,6 @@
 
 /* No comment provided by engineer. */
 "Video Layer" = "비디오 레이어";
-
-/* No comment provided by engineer. */
-"View" = "보기";
 
 /* No comment provided by engineer. */
 "Vignette" = "비네트";
