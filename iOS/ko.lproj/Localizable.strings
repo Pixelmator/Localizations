@@ -266,6 +266,9 @@
 /* No comment provided by engineer. */
 "Automatically improve the lighting and colors of a photo using AI by simply tapping %@." = "%@를 탭하기만 하면 인공 지능을 사용해 사진의 밝기와 색상을 자동으로 향상시킵니다.";
 
+/* The name of an image file format */
+"AVIF" = "AVIF";
+
 /* No comment provided by engineer. */
 "Background" = "배경";
 
@@ -509,7 +512,13 @@
 "Convert LUT into Adjustments" = "LUT를 조정으로 변환";
 
 /* No comment provided by engineer. */
+"Convert to HDR" = "Convert to HDR";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUT를 조정으로 변환 중…";
+
+/* No comment provided by engineer. */
+"Converting to HDR…" = "Converting to HDR…";
 
 /* Used in gallery document duplicate. */
 "copy" = "복사본";
@@ -734,6 +743,9 @@
 "Display Albums Without Nesting" = "중첩 없이 앨범 표시";
 
 /* No comment provided by engineer. */
+"Display HDR Content" = "Display HDR Content";
+
+/* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "폴더 안의 앨범을 포함하여 모든 앨범을 알파벳순으로 정렬된 하나의 갤러리에 표시합니다.";
 
 /* No comment provided by engineer. */
@@ -863,6 +875,9 @@
 "Edit RAW" = "RAW 편집";
 
 /* No comment provided by engineer. */
+"Edit specific areas of photos" = "Edit specific areas of photos";
+
+/* No comment provided by engineer. */
 "Editing" = "편집";
 
 /* No comment provided by engineer. */
@@ -878,7 +893,7 @@
 /* No comment provided by engineer. */
 "Editing…" = "편집 중…";
 
-/* Raw image type identifier */
+/* No comment provided by engineer. */
 "EDR" = "EDR";
 
 /* No comment provided by engineer. */
@@ -1106,9 +1121,6 @@
 /* No comment provided by engineer. */
 "Getting Started" = "시작하기";
 
-/* No comment provided by engineer. */
-"Getting Started with Photomator" = "Photomator 시작하기";
-
 /* The name of an image file format. */
 "GIF" = "GIF";
 
@@ -1172,6 +1184,15 @@
 
 /* No comment provided by engineer. */
 "Hard Mix" = "하드 믹스";
+
+/* No comment provided by engineer. */
+"HDR" = "HDR";
+
+/* No comment provided by engineer. */
+"HDR Not Available" = "HDR Not Available";
+
+/* No comment provided by engineer. */
+"HDR Support" = "HDR Support";
 
 /* The name of an image file format. */
 "HEIC" = "HEIC";
@@ -1348,6 +1369,9 @@
 /* The name of an image file format. */
 "JPEG" = "JPEG";
 
+/* The name of an image file format */
+"JPEG XL" = "JPEG XL";
+
 /* The name of an image file format. */
 "JPEG-2000" = "JPEG-2000";
 
@@ -1445,6 +1469,12 @@
 /* No comment provided by engineer. */
 "Load" = "로드";
 
+/* No comment provided by engineer. */
+"Load HDR Content" = "Load HDR Content";
+
+/* No comment provided by engineer. */
+"Load SDR Content" = "Load SDR Content";
+
 /* Document loading */
 "Loading…" = "로드 중…";
 
@@ -1489,9 +1519,6 @@
 
 /* Color adjustments */
 "Magenta / Green" = "자홍 / 녹색";
-
-/* No comment provided by engineer. */
-"Magically improve the quality of photos by removing color banding and increasing color depth with just a tap." = "단 한 번의 탭으로 컬러 밴딩을 제거하고 색상 심도를 높여 사진의 품질을 마법처럼 개선합니다.";
 
 /* No comment provided by engineer. */
 "Magically increase resolution" = "마법 같은 해상도 증가";
@@ -1617,6 +1644,9 @@
 "My Albums" = "내 앨범";
 
 /* No comment provided by engineer. */
+"Native" = "Native";
+
+/* No comment provided by engineer. */
 "New Album" = "새로운 앨범";
 
 /* No comment provided by engineer. */
@@ -1723,6 +1753,9 @@
 
 /* No comment provided by engineer. */
 "Open RAW by Default" = "기본값으로 RAW 열기";
+
+/* The name of an image file format */
+"OpenEXR" = "OpenEXR";
 
 /* No comment provided by engineer. */
 "Orange" = "주황";
@@ -1997,6 +2030,9 @@
 
 /* No comment provided by engineer. */
 "Radial Gradient" = "방사형 그라데이션";
+
+/* The name of an image file format */
+"Radiance HDR" = "Radiance HDR";
 
 /* No comment provided by engineer. */
 "Radius" = "반경";
@@ -2705,9 +2741,6 @@
 "Tap %@ to change the colors and lighting of photos in just about any way you can imagine." = "%@을 탭하여 원하는 어떤 방식으로든 사진의 색상과 밝기를 변경하세요.";
 
 /* No comment provided by engineer. */
-"Tap %@ to increase the resolution of photos with no unwanted blurring." = "%@를 탭하면 불필요한 흐림을 제거하여 사진의 해상도를 향상시킬 수 있습니다.";
-
-/* No comment provided by engineer. */
 "Tap %@, then choose Super Resolution to increase the resolution of photos with no unwanted blurring." = "%@를 탭한 다음, '초해상도'를 선택하여 원치 않는 흐림 효과 없이 사진의 해상도를 올리세요.";
 
 /* No comment provided by engineer. */
@@ -2796,6 +2829,15 @@
 "This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "이 앨범은 비어 있습니다. 사진 앱에서 사진을 추가하면 여기에 자동으로 표시됩니다.";
 
 /* No comment provided by engineer. */
+"This device does not support HDR content." = "This device does not support HDR content.";
+
+/* No comment provided by engineer. */
+"This device fully supports HDR content." = "This device fully supports HDR content.";
+
+/* No comment provided by engineer. */
+"This device has limited support for HDR content." = "This device has limited support for HDR content.";
+
+/* No comment provided by engineer. */
 "This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "이 폴더는 비어 있습니다. 여기에 앨범 또는 폴더를 추가하면 자동으로 표시됩니다.";
 
 /* Image open error */
@@ -2862,6 +2904,9 @@
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "사진 일괄 편집을 시작하려면 먼저 우측 상단 모서리에 있는 선택을 탭합니다. 그런 다음, 여러 장의 사진을 선택하고 도구 모음에서 일괄 처리를 탭합니다. 마지막으로, 포함된 일괄 처리 작업 흐름 중 하나를 선택하거나 사용자 지정 작업 흐름을 생성하고 적용을 탭합니다.";
 
 /* No comment provided by engineer. */
+"To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top.";
+
+/* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "Photomator를 구매하려면 인터넷에 연결되어 있어야 합니다. 설정 앱에서 확인하신 후 다시 시도하시기 바랍니다.";
 
 /* No comment provided by engineer. */
@@ -2896,12 +2941,6 @@
 
 /* No comment provided by engineer. */
 "Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, and iPhone." = "Mac, iPad 및 iPhone에서 강력하고 다채로운 사진 편집 도구를 사용하여 멋진 사진을 더욱 스펙터클한 사진으로 바꿔보세요.";
-
-/* No comment provided by engineer. */
-"Turn off EDR" = "EDR 비활성화";
-
-/* No comment provided by engineer. */
-"Turn on EDR" = "EDR 활성화";
 
 /* Tool */
 "Twirl" = "휘감기";
@@ -2976,6 +3015,9 @@
 "Unlock %@" = "%@ 잠금 해제";
 
 /* No comment provided by engineer. */
+"Unlock all-new creative workflows with full support for opening, editing, and sharing HDR images - including those captured with iPhone." = "Unlock all-new creative workflows with full support for opening, editing, and sharing HDR images - including those captured with iPhone.";
+
+/* No comment provided by engineer. */
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "새로운 확장 동적 범위 모드를 사용해 새로운 RAW 편집 워크플로를 잠금 해제합니다.";
 
 /* No comment provided by engineer. */
@@ -3013,6 +3055,12 @@
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "제목 없는 레이어 마스크";
+
+/* No comment provided by engineer. */
+"Update to iOS 17 to access full HDR support." = "Update to iOS 17 to access full HDR support.";
+
+/* No comment provided by engineer. */
+"Update to iPadOS 17 to access full HDR support." = "Update to iPadOS 17 to access full HDR support.";
 
 /* No comment provided by engineer. */
 "Upgrade to access the full image editing experience in Photomator." = "업그레이드를 통해 Photomator가 제공하는 최고의 사진 편집 환경을 누리세요.";
