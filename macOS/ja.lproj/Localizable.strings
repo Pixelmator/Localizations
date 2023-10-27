@@ -454,6 +454,9 @@
 /* No comment provided by engineer. */
 "Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Mac 上のオリジナルの画像ファイルにリンクされたSidecarファイルの編集内容を壊すことなく自動的に保存します。";
 
+/* The name of an image file format */
+"AVIF" = "AVIF";
+
 /* No comment provided by engineer. */
 "azimuth: %@, elevation: %@" = "方位: %1$@, 仰角: %2$@";
 
@@ -635,6 +638,9 @@
 "Change Color Adjustments" = "カラー調整を変更";
 
 /* No comment provided by engineer. */
+"Change Density" = "Change Density";
+
+/* No comment provided by engineer. */
 "Change Document Colors" = "ドキュメントの色を変更";
 
 /* No comment provided by engineer. */
@@ -645,6 +651,9 @@
 
 /* No comment provided by engineer. */
 "Change End Behavior" = "終了動作の変更";
+
+/* No comment provided by engineer. */
+"Change Feather" = "Change Feather";
 
 /* No comment provided by engineer. */
 "Change Opacity" = "不透明度を変更";
@@ -836,6 +845,9 @@
 "Clone Settings" = "クローンの設定";
 
 /* No comment provided by engineer. */
+"Close" = "閉じる";
+
+/* No comment provided by engineer. */
 "Close Edit Tools" = "編集ツールを閉じる";
 
 /* No comment provided by engineer. */
@@ -929,10 +941,10 @@
 "Common Profiles" = "汎用プロファイル";
 
 /* No comment provided by engineer. */
-"Compare to Pixelmator Pro" = "Pixelmator Pro との比較";
+"Concentration" = "濃度";
 
 /* No comment provided by engineer. */
-"Concentration" = "濃度";
+"Connect an HDR-compatible display to edit HDR content." = "Connect an HDR-compatible display to edit HDR content.";
 
 /* No comment provided by engineer. */
 "Constant" = "定数";
@@ -962,7 +974,13 @@
 "Convert LUT into Adjustments" = "LUTを調整に変換する";
 
 /* No comment provided by engineer. */
+"Convert to HDR" = "Convert to HDR";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUTを調整に変換しています…";
+
+/* No comment provided by engineer. */
+"Converting to HDR…" = "Converting to HDR…";
 
 /* No comment provided by engineer. */
 "Copy" = "コピー";
@@ -1032,9 +1050,6 @@
 
 /* No comment provided by engineer. */
 "Crop" = "切り抜き";
-
-/* No comment provided by engineer. */
-"Crop Tool" = "切り抜きツール";
 
 /* No comment provided by engineer. */
 "Crop…" = "切り抜く…";
@@ -1256,6 +1271,9 @@
 "Disable Mask" = "マスクを無効";
 
 /* No comment provided by engineer. */
+"Disable Masks" = "Disable Masks";
+
+/* No comment provided by engineer. */
 "Disable Texture-Aware Algorithm" = "テクスチャ認識アルゴリズムを無効";
 
 /* No comment provided by engineer. */
@@ -1263,6 +1281,9 @@
 
 /* No comment provided by engineer. */
 "Display albums without nesting" = "ネストせずにアルバムを表示";
+
+/* No comment provided by engineer. */
+"Display HDR Content" = "Display HDR Content";
 
 /* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "フォルダー内のアルバムを含むすべてのアルバムを、アルファベット順に並べられた 1 つのギャラリー内に表示します。";
@@ -1335,9 +1356,6 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "両方向矢印";
-
-/* No comment provided by engineer. */
-"Download for Free" = "無料でダウンロード";
 
 /* No comment provided by engineer. */
 "Downloading %d of %d photos for sharing…" = "%2$d 枚中の %1$d 枚の写真を共有用にダウンロードしています…";
@@ -1472,6 +1490,9 @@
 "Enable Mask" = "マスクを有効";
 
 /* No comment provided by engineer. */
+"Enable Masks" = "Enable Masks";
+
+/* No comment provided by engineer. */
 "Enable Sharpening" = "シャープ化を有効にする";
 
 /* No comment provided by engineer. */
@@ -1571,9 +1592,6 @@
 "Export for Web" = "Web用に書き出す";
 
 /* No comment provided by engineer. */
-"Export for Web Tool" = "Web用に書き出す";
-
-/* No comment provided by engineer. */
 "Export Gradient Collection" = "グラデーションコレクションを書き出す";
 
 /* No comment provided by engineer. */
@@ -1638,6 +1656,9 @@
 
 /* No comment provided by engineer. */
 "Exposure" = "露光量";
+
+/* No comment provided by engineer. */
+"Extended Dynamic Range" = "Extended Dynamic Range";
 
 /* No comment provided by engineer. */
 "Extent" = "Extent";
@@ -1870,6 +1891,18 @@
 /* No comment provided by engineer. */
 "Hard Mix" = "ハードミックス";
 
+/* No comment provided by engineer. */
+"HDR" = "HDR";
+
+/* No comment provided by engineer. */
+"HDR Mode" = "HDR Mode";
+
+/* No comment provided by engineer. */
+"HDR Not Available" = "HDR Not Available";
+
+/* No comment provided by engineer. */
+"HDR requires an HDR-compatible display and macOS 14.0 or later." = "HDR requires an HDR-compatible display and macOS 14.0 or later.";
+
 /* The name of an image file format. */
 "HEIC" = "HEIC";
 
@@ -2006,9 +2039,6 @@
 "Image Layer" = "画像レイヤー";
 
 /* No comment provided by engineer. */
-"Image Settings" = "画像設定";
-
-/* No comment provided by engineer. */
 "Image Size" = "イメージサイズ";
 
 /* No comment provided by engineer. */
@@ -2121,6 +2151,9 @@
 
 /* The name of an image file format. */
 "JPEG" = "JPEG";
+
+/* The name of an image file format */
+"JPEG XL" = "JPEG XL";
 
 /* The name of an image file format. */
 "JPEG-2000" = "JPEG-2000";
@@ -2235,6 +2268,9 @@
 
 /* No comment provided by engineer. */
 "Link Mask" = "マスクをリンク";
+
+/* No comment provided by engineer. */
+"Link Masks" = "Link Masks";
 
 /* No comment provided by engineer. */
 "Live Photo" = "Live Photo";
@@ -2421,6 +2457,9 @@
 
 /* No comment provided by engineer. */
 "Move Up" = "上に移動";
+
+/* No comment provided by engineer. */
+"Move window to %@ to view HDR content." = "Move window to %@ to view HDR content.";
 
 /* No comment provided by engineer. */
 "Moved" = "Moved";
@@ -2672,10 +2711,16 @@
 "Open Sidecar" = "Sidecarを開く";
 
 /* No comment provided by engineer. */
+"Open Software Update" = "Open Software Update";
+
+/* No comment provided by engineer. */
 "Open System Preferences" = "システム環境設定を開く";
 
 /* No comment provided by engineer. */
 "Open the Photos browser" = "写真ブラウザを開く";
+
+/* The name of an image file format */
+"OpenEXR" = "OpenEXR";
 
 /* No comment provided by engineer. */
 "Optimize & Export" = "最適化 & 書き出し";
@@ -2736,6 +2781,9 @@
 
 /* No comment provided by engineer. */
 "Paste Effects" = "エフェクトをペースト";
+
+/* No comment provided by engineer. */
+"Paste Mask" = "マスクをペースト";
 
 /* No comment provided by engineer. */
 "Paste Styles" = "スタイルをペースト";
@@ -3022,6 +3070,9 @@
 /* No comment provided by engineer. */
 "Radial Gradient" = "放射状グラデーション";
 
+/* The name of an image file format */
+"Radiance HDR" = "Radiance HDR";
+
 /* No comment provided by engineer. */
 "Radius" = "半径";
 
@@ -3146,6 +3197,9 @@
 "Remove Mask" = "マスクを削除";
 
 /* No comment provided by engineer. */
+"Remove Masks" = "Remove Masks";
+
+/* No comment provided by engineer. */
 "Remove Palette" = "パレットを削除";
 
 /* No comment provided by engineer. */
@@ -3230,6 +3284,12 @@
 "Replace Mask" = "マスクを置き換え";
 
 /* No comment provided by engineer. */
+"Replace Masks" = "Replace Masks";
+
+/* No comment provided by engineer. */
+"Replace Masks…" = "Replace Masks…";
+
+/* No comment provided by engineer. */
 "Replace Mask…" = "マスクを置き換え…";
 
 /* No comment provided by engineer. */
@@ -3303,6 +3363,9 @@
 
 /* No comment provided by engineer. */
 "Reset LUTs" = "LUTsをリセット";
+
+/* No comment provided by engineer. */
+"Reset Mask Styles" = "Reset Mask Styles";
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "ML 切り抜きをリセット";
@@ -4154,6 +4217,15 @@
 "There were no results for %@. Try a new search." = "％@の結果はありませんでした。 新しい検索を試してください。";
 
 /* No comment provided by engineer. */
+"This display does not support HDR content." = "This display does not support HDR content.";
+
+/* No comment provided by engineer. */
+"This display has full support for HDR content." = "This display has full support for HDR content.";
+
+/* No comment provided by engineer. */
+"This display has limited support for HDR content." = "This display has limited support for HDR content.";
+
+/* No comment provided by engineer. */
 "This document currently has no editable colors." = "現在この書類には編集可能な色がありません。";
 
 /* No comment provided by engineer. */
@@ -4173,6 +4245,9 @@
 
 /* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "この種類の変換はサポートされていません。";
+
+/* No comment provided by engineer. */
+"This version of macOS does not support HDR." = "This version of macOS does not support HDR.";
 
 /* The name of an image file format. */
 "TIFF" = "TIFF";
@@ -4212,9 +4287,6 @@
 
 /* No comment provided by engineer. */
 "Tone Map" = "トーンマップ";
-
-/* No comment provided by engineer. */
-"Tools" = "ツール";
 
 /* No comment provided by engineer. */
 "Touch Opacity" = "接触の不透明度";
@@ -4298,6 +4370,9 @@
 "Unlink Mask" = "マスクのリンクを解除";
 
 /* No comment provided by engineer. */
+"Unlink Masks" = "Unlink Masks";
+
+/* No comment provided by engineer. */
 "Unlock" = "ロックを解除";
 
 /* No comment provided by engineer. */
@@ -4337,6 +4412,9 @@
 "Untitled layer mask" = "名称未設定レイヤーマスク";
 
 /* No comment provided by engineer. */
+"Update to the latest version of macOS using Software Update in System Settings." = "Update to the latest version of macOS using Software Update in System Settings.";
+
+/* No comment provided by engineer. */
 "Updates Unavailable for Demo" = "デモ用のアップデートはありません";
 
 /* No comment provided by engineer. */
@@ -4371,9 +4449,6 @@
 
 /* No comment provided by engineer. */
 "Video Layer" = "ビデオレイヤー";
-
-/* No comment provided by engineer. */
-"View" = "表示";
 
 /* No comment provided by engineer. */
 "Vignette" = "ビネット";
