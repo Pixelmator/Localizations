@@ -454,6 +454,9 @@
 /* No comment provided by engineer. */
 "Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Автоматически сохраняет неразрушающие изменения в файле sidecar, связанном с исходным файлом изображения на вашем Mac.";
 
+/* The name of an image file format */
+"AVIF" = "AVIF";
+
 /* No comment provided by engineer. */
 "azimuth: %@, elevation: %@" = "азимут: %1$@, возвышение: %2$@";
 
@@ -593,7 +596,7 @@
 "Calculating…" = "Вычисление…";
 
 /* Cancel button title */
-"Cancel" = "Отменить";
+"Cancel" = "Отмена";
 
 /* No comment provided by engineer. */
 "Cancelled" = "Отменено";
@@ -635,6 +638,9 @@
 "Change Color Adjustments" = "Изменить корректировку цвета";
 
 /* No comment provided by engineer. */
+"Change Density" = "Изменить плотность";
+
+/* No comment provided by engineer. */
 "Change Document Colors" = "Изменить цвета документа";
 
 /* No comment provided by engineer. */
@@ -645,6 +651,9 @@
 
 /* No comment provided by engineer. */
 "Change End Behavior" = "Изменить поведение в конце";
+
+/* No comment provided by engineer. */
+"Change Feather" = "Изменить растушевку";
 
 /* No comment provided by engineer. */
 "Change Opacity" = "Изменить непрозрачность";
@@ -836,6 +845,9 @@
 "Clone Settings" = "Настройки штампа";
 
 /* No comment provided by engineer. */
+"Close" = "Закрыть";
+
+/* No comment provided by engineer. */
 "Close Edit Tools" = "Закрыть инструменты правки";
 
 /* No comment provided by engineer. */
@@ -929,10 +941,10 @@
 "Common Profiles" = "Общие профили";
 
 /* No comment provided by engineer. */
-"Compare to Pixelmator Pro" = "Сравнить с Pixelmator Pro";
+"Concentration" = "Концентрация";
 
 /* No comment provided by engineer. */
-"Concentration" = "Концентрация";
+"Connect an HDR-compatible display to edit HDR content." = "Для редактирования контента HDR подключите дисплей, поддерживающий HDR.";
 
 /* No comment provided by engineer. */
 "Constant" = "Постоянный";
@@ -962,7 +974,13 @@
 "Convert LUT into Adjustments" = "Конвертировать LUT в корректировки...";
 
 /* No comment provided by engineer. */
+"Convert to HDR" = "Конвертировать в HDR";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "Конвертирование LUT в корректировки…";
+
+/* No comment provided by engineer. */
+"Converting to HDR…" = "Конвертировка в HDR…";
 
 /* No comment provided by engineer. */
 "Copy" = "Скопировать";
@@ -1032,9 +1050,6 @@
 
 /* No comment provided by engineer. */
 "Crop" = "Обрезка";
-
-/* No comment provided by engineer. */
-"Crop Tool" = "Инструмент «Обрезка»";
 
 /* No comment provided by engineer. */
 "Crop…" = "Обрезка…";
@@ -1256,6 +1271,9 @@
 "Disable Mask" = "Отключить маску";
 
 /* No comment provided by engineer. */
+"Disable Masks" = "Отключить маски";
+
+/* No comment provided by engineer. */
 "Disable Texture-Aware Algorithm" = "Отключить алгоритм с учетом текстуры";
 
 /* No comment provided by engineer. */
@@ -1263,6 +1281,9 @@
 
 /* No comment provided by engineer. */
 "Display albums without nesting" = "Показать альбомы без вложенных";
+
+/* No comment provided by engineer. */
+"Display HDR Content" = "Отобразить контент HDR";
 
 /* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "Отображает все альбомы, включая любые альбомы внутри папок, в единой галерее, расположенной по алфавиту.";
@@ -1335,9 +1356,6 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Двусторонняя стрелка";
-
-/* No comment provided by engineer. */
-"Download for Free" = "Загрузить бесплатно";
 
 /* No comment provided by engineer. */
 "Downloading %d of %d photos for sharing…" = "Загрузка %1$d из %2$d фото для общего доступа…";
@@ -1472,6 +1490,9 @@
 "Enable Mask" = "Включить маску";
 
 /* No comment provided by engineer. */
+"Enable Masks" = "Включить маски";
+
+/* No comment provided by engineer. */
 "Enable Sharpening" = "Включить резкость";
 
 /* No comment provided by engineer. */
@@ -1569,9 +1590,6 @@
 
 /* No comment provided by engineer. */
 "Export for Web" = "Экспорт для веб-использования";
-
-/* No comment provided by engineer. */
-"Export for Web Tool" = "Экспорт для веб-инструмента";
 
 /* No comment provided by engineer. */
 "Export Gradient Collection" = "Экспортировать коллекцию градиентов";
@@ -1870,6 +1888,18 @@
 /* No comment provided by engineer. */
 "Hard Mix" = "Жесткое смешение";
 
+/* No comment provided by engineer. */
+"HDR" = "HDR";
+
+/* No comment provided by engineer. */
+"HDR Mode" = "HDR-режим";
+
+/* No comment provided by engineer. */
+"HDR Not Available" = "HDR недоступен";
+
+/* No comment provided by engineer. */
+"HDR requires an HDR-compatible display and macOS 14.0 or later." = "Для работы с HDR необходим дисплей с поддержкой HDR, а также macOS 14.0 или новее.";
+
 /* The name of an image file format. */
 "HEIC" = "HEIC";
 
@@ -2006,9 +2036,6 @@
 "Image Layer" = "Слой изображения";
 
 /* No comment provided by engineer. */
-"Image Settings" = "Настройки изображения";
-
-/* No comment provided by engineer. */
 "Image Size" = "Размер изображения";
 
 /* No comment provided by engineer. */
@@ -2121,6 +2148,9 @@
 
 /* The name of an image file format. */
 "JPEG" = "JPEG";
+
+/* The name of an image file format */
+"JPEG XL" = "JPEG XL";
 
 /* The name of an image file format. */
 "JPEG-2000" = "JPEG-2000";
@@ -2235,6 +2265,9 @@
 
 /* No comment provided by engineer. */
 "Link Mask" = "Соединить маску";
+
+/* No comment provided by engineer. */
+"Link Masks" = "Соединить маски";
 
 /* No comment provided by engineer. */
 "Live Photo" = "Live Photo";
@@ -2421,6 +2454,9 @@
 
 /* No comment provided by engineer. */
 "Move Up" = "Переместить вверх";
+
+/* No comment provided by engineer. */
+"Move window to %@ to view HDR content." = "Для просмотра контента HDR переместите окно на %@.";
 
 /* No comment provided by engineer. */
 "Moved" = "Moved";
@@ -2672,10 +2708,16 @@
 "Open Sidecar" = "Открыть sidecar";
 
 /* No comment provided by engineer. */
+"Open Software Update" = "Открыть «Обновление ПО»";
+
+/* No comment provided by engineer. */
 "Open System Preferences" = "Открыть Системные настройки";
 
 /* No comment provided by engineer. */
 "Open the Photos browser" = "Открыть фотобраузер";
+
+/* The name of an image file format */
+"OpenEXR" = "OpenEXR";
 
 /* No comment provided by engineer. */
 "Optimize & Export" = "Оптимизация и экспорт";
@@ -2736,6 +2778,9 @@
 
 /* No comment provided by engineer. */
 "Paste Effects" = "Вставить эффекты";
+
+/* No comment provided by engineer. */
+"Paste Mask" = "Вставить маску";
 
 /* No comment provided by engineer. */
 "Paste Styles" = "Вставить стили";
@@ -3022,6 +3067,9 @@
 /* No comment provided by engineer. */
 "Radial Gradient" = "Круговой градиент";
 
+/* The name of an image file format */
+"Radiance HDR" = "Radiance HDR";
+
 /* No comment provided by engineer. */
 "Radius" = "Радиус";
 
@@ -3146,6 +3194,9 @@
 "Remove Mask" = "Удалить маску";
 
 /* No comment provided by engineer. */
+"Remove Masks" = "Удалить маски";
+
+/* No comment provided by engineer. */
 "Remove Palette" = "Удалить палитру";
 
 /* No comment provided by engineer. */
@@ -3230,6 +3281,12 @@
 "Replace Mask" = "Заменить маску";
 
 /* No comment provided by engineer. */
+"Replace Masks" = "Заменить маски";
+
+/* No comment provided by engineer. */
+"Replace Masks…" = "Заменить маски…";
+
+/* No comment provided by engineer. */
 "Replace Mask…" = "Заменить маску…";
 
 /* No comment provided by engineer. */
@@ -3303,6 +3360,9 @@
 
 /* No comment provided by engineer. */
 "Reset LUTs" = "Удалить несколько LUT";
+
+/* No comment provided by engineer. */
+"Reset Mask Styles" = "Сбросить стили маски";
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "Сбросить ИИ-обрезку";
@@ -4154,6 +4214,15 @@
 "There were no results for %@. Try a new search." = "Нет результатов для %@. Попробуйте новый поиск.";
 
 /* No comment provided by engineer. */
+"This display does not support HDR content." = "Этот дисплей не поддерживает контент HDR.";
+
+/* No comment provided by engineer. */
+"This display has full support for HDR content." = "Этот дисплей без ограничений поддерживает контент HDR.";
+
+/* No comment provided by engineer. */
+"This display has limited support for HDR content." = "Этот дисплей имеет ограниченную поддержку контента HDR.";
+
+/* No comment provided by engineer. */
 "This document currently has no editable colors." = "Сейчас документ не имеет редактируемых цветов.";
 
 /* No comment provided by engineer. */
@@ -4173,6 +4242,9 @@
 
 /* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "Такого рода преобразование не поддерживается.";
+
+/* No comment provided by engineer. */
+"This version of macOS does not support HDR." = "Эта версия macOS не поддерживает HDR.";
 
 /* The name of an image file format. */
 "TIFF" = "TIFF";
@@ -4212,9 +4284,6 @@
 
 /* No comment provided by engineer. */
 "Tone Map" = "Тоновая карта";
-
-/* No comment provided by engineer. */
-"Tools" = "Инстр..";
 
 /* No comment provided by engineer. */
 "Touch Opacity" = "Непрозрачность касания";
@@ -4298,6 +4367,9 @@
 "Unlink Mask" = "Отсоединить маску";
 
 /* No comment provided by engineer. */
+"Unlink Masks" = "Отсоединить маски";
+
+/* No comment provided by engineer. */
 "Unlock" = "Разблокировать";
 
 /* No comment provided by engineer. */
@@ -4337,6 +4409,9 @@
 "Untitled layer mask" = "Маска слоя без названия";
 
 /* No comment provided by engineer. */
+"Update to the latest version of macOS using Software Update in System Settings." = "Обновитесь до последней версии macOS, перейдя в раздел «Обновление ПО» в Системных настройках.";
+
+/* No comment provided by engineer. */
 "Updates Unavailable for Demo" = "Недоступная для обновлений демо-версия";
 
 /* No comment provided by engineer. */
@@ -4371,9 +4446,6 @@
 
 /* No comment provided by engineer. */
 "Video Layer" = "Слой видео";
-
-/* No comment provided by engineer. */
-"View" = "Вид";
 
 /* No comment provided by engineer. */
 "Vignette" = "Виньетка";

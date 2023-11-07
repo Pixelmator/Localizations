@@ -454,6 +454,9 @@
 /* No comment provided by engineer. */
 "Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Sichert zerstörungsfreie Änderungen automatisch in einer Sidecar-Datei, die mit der Originalbilddatei auf Ihrem Mac verknüpft wird.";
 
+/* The name of an image file format */
+"AVIF" = "AVIF";
+
 /* No comment provided by engineer. */
 "azimuth: %@, elevation: %@" = "Azimut: %1$@, Höhe: %2$@";
 
@@ -635,6 +638,9 @@
 "Change Color Adjustments" = "Farbanpassungen ändern";
 
 /* No comment provided by engineer. */
+"Change Density" = "Dichte ändern";
+
+/* No comment provided by engineer. */
 "Change Document Colors" = "Dokumentfarben ändern";
 
 /* No comment provided by engineer. */
@@ -645,6 +651,9 @@
 
 /* No comment provided by engineer. */
 "Change End Behavior" = "Endverhalten ändern";
+
+/* No comment provided by engineer. */
+"Change Feather" = "Feder ändern";
 
 /* No comment provided by engineer. */
 "Change Opacity" = "Deckkraft ändern";
@@ -836,6 +845,9 @@
 "Clone Settings" = "Kloneinstellungen";
 
 /* No comment provided by engineer. */
+"Close" = "Schließen";
+
+/* No comment provided by engineer. */
 "Close Edit Tools" = "Bearbeitungswerkzeuge schließen";
 
 /* No comment provided by engineer. */
@@ -929,10 +941,10 @@
 "Common Profiles" = "Geläufige Profile";
 
 /* No comment provided by engineer. */
-"Compare to Pixelmator Pro" = "Mit Pixelmator Pro vergleichen";
+"Concentration" = "Konzentration";
 
 /* No comment provided by engineer. */
-"Concentration" = "Konzentration";
+"Connect an HDR-compatible display to edit HDR content." = "Verbinden Sie ein HDR-kompatibles Display zum Bearbeiten von HDR-Inhalten.";
 
 /* No comment provided by engineer. */
 "Constant" = "Konstante";
@@ -962,7 +974,13 @@
 "Convert LUT into Adjustments" = "LUT in Anpassungen umwandeln";
 
 /* No comment provided by engineer. */
+"Convert to HDR" = "In HDR konvertieren";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "LUT in Anpassungen konvertieren …";
+
+/* No comment provided by engineer. */
+"Converting to HDR…" = "In HDR konvertieren …";
 
 /* No comment provided by engineer. */
 "Copy" = "Kopieren";
@@ -1032,9 +1050,6 @@
 
 /* No comment provided by engineer. */
 "Crop" = "Beschneiden";
-
-/* No comment provided by engineer. */
-"Crop Tool" = "Beschnittwerkzeug";
 
 /* No comment provided by engineer. */
 "Crop…" = "Beschneiden …";
@@ -1256,6 +1271,9 @@
 "Disable Mask" = "Maske deaktivieren";
 
 /* No comment provided by engineer. */
+"Disable Masks" = "Masken deaktivieren";
+
+/* No comment provided by engineer. */
 "Disable Texture-Aware Algorithm" = "Texturerkennungs-Algorithmus deaktivieren";
 
 /* No comment provided by engineer. */
@@ -1263,6 +1281,9 @@
 
 /* No comment provided by engineer. */
 "Display albums without nesting" = "Alben ungeschachtelt anzeigen";
+
+/* No comment provided by engineer. */
+"Display HDR Content" = "HDR-Inhalt anzeigen";
 
 /* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "Zeigt alle Alben, einschließlich denen in Ordnern, in einer einzigen, alphabetisch geordneten Galerie an.";
@@ -1335,9 +1356,6 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "Doppelpfeil";
-
-/* No comment provided by engineer. */
-"Download for Free" = "Kostenlos laden";
 
 /* No comment provided by engineer. */
 "Downloading %d of %d photos for sharing…" = "%1$d von %2$d Fotos zum Teilen herunterladen …";
@@ -1472,6 +1490,9 @@
 "Enable Mask" = "Maske aktivieren";
 
 /* No comment provided by engineer. */
+"Enable Masks" = "Masken aktivieren";
+
+/* No comment provided by engineer. */
 "Enable Sharpening" = "Schärfung aktivieren";
 
 /* No comment provided by engineer. */
@@ -1569,9 +1590,6 @@
 
 /* No comment provided by engineer. */
 "Export for Web" = "Für das Web exportieren";
-
-/* No comment provided by engineer. */
-"Export for Web Tool" = "Web-Export-Tool";
 
 /* No comment provided by engineer. */
 "Export Gradient Collection" = "Verlaufsammlung exportieren";
@@ -1870,6 +1888,18 @@
 /* No comment provided by engineer. */
 "Hard Mix" = "Hart mischen";
 
+/* No comment provided by engineer. */
+"HDR" = "HDR";
+
+/* No comment provided by engineer. */
+"HDR Mode" = "HDR-Modus";
+
+/* No comment provided by engineer. */
+"HDR Not Available" = "HDR nicht verfügbar";
+
+/* No comment provided by engineer. */
+"HDR requires an HDR-compatible display and macOS 14.0 or later." = "Für HDR benötigen Sie ein HDR-kompatibles Display sowie macOS 14.0 oder neuer.";
+
 /* The name of an image file format. */
 "HEIC" = "HEIC";
 
@@ -2006,9 +2036,6 @@
 "Image Layer" = "Bildebene";
 
 /* No comment provided by engineer. */
-"Image Settings" = "Bildeinstellungen";
-
-/* No comment provided by engineer. */
 "Image Size" = "Bildgröße";
 
 /* No comment provided by engineer. */
@@ -2121,6 +2148,9 @@
 
 /* The name of an image file format. */
 "JPEG" = "JPEG";
+
+/* The name of an image file format */
+"JPEG XL" = "JPEG XL";
 
 /* The name of an image file format. */
 "JPEG-2000" = "JPEG-2000";
@@ -2235,6 +2265,9 @@
 
 /* No comment provided by engineer. */
 "Link Mask" = "Maske verbinden";
+
+/* No comment provided by engineer. */
+"Link Masks" = "Masken verbinden";
 
 /* No comment provided by engineer. */
 "Live Photo" = "Live Foto";
@@ -2421,6 +2454,9 @@
 
 /* No comment provided by engineer. */
 "Move Up" = "Nach oben bewegen";
+
+/* No comment provided by engineer. */
+"Move window to %@ to view HDR content." = "Fenster auf %@ verschieben zum Anzeigen von HDR-Inhalt.";
 
 /* No comment provided by engineer. */
 "Moved" = "Moved";
@@ -2672,10 +2708,16 @@
 "Open Sidecar" = "Sidecar öffnen";
 
 /* No comment provided by engineer. */
+"Open Software Update" = "Softwareaktualisierung öffnen";
+
+/* No comment provided by engineer. */
 "Open System Preferences" = "Systemeinstellungen öffnen";
 
 /* No comment provided by engineer. */
 "Open the Photos browser" = "Foto-Browser öffnen";
+
+/* The name of an image file format */
+"OpenEXR" = "OpenEXR";
 
 /* No comment provided by engineer. */
 "Optimize & Export" = "Optimieren und exportieren";
@@ -2736,6 +2778,9 @@
 
 /* No comment provided by engineer. */
 "Paste Effects" = "Effekte einsetzen";
+
+/* No comment provided by engineer. */
+"Paste Mask" = "Maske einfügen";
 
 /* No comment provided by engineer. */
 "Paste Styles" = "Stile einsetzen";
@@ -3022,6 +3067,9 @@
 /* No comment provided by engineer. */
 "Radial Gradient" = "Radialverlauf";
 
+/* The name of an image file format */
+"Radiance HDR" = "Radiance HDR";
+
 /* No comment provided by engineer. */
 "Radius" = "Radius";
 
@@ -3146,6 +3194,9 @@
 "Remove Mask" = "Maske entfernen";
 
 /* No comment provided by engineer. */
+"Remove Masks" = "Masken entfernen";
+
+/* No comment provided by engineer. */
 "Remove Palette" = "Palette entfernen";
 
 /* No comment provided by engineer. */
@@ -3230,6 +3281,12 @@
 "Replace Mask" = "Maske ersetzen";
 
 /* No comment provided by engineer. */
+"Replace Masks" = "Masken ersetzen";
+
+/* No comment provided by engineer. */
+"Replace Masks…" = "Masken ersetzen …";
+
+/* No comment provided by engineer. */
 "Replace Mask…" = "Maske ersetzen …";
 
 /* No comment provided by engineer. */
@@ -3303,6 +3360,9 @@
 
 /* No comment provided by engineer. */
 "Reset LUTs" = "LUTs zurücksetzen";
+
+/* No comment provided by engineer. */
+"Reset Mask Styles" = "Maskenstile zurücksetzen";
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "ML-Schnitt zurücksetzen";
@@ -4154,6 +4214,15 @@
 "There were no results for %@. Try a new search." = "Die Suche nach %@ ergab keine Ergebnisse. Suchen Sie erneut.";
 
 /* No comment provided by engineer. */
+"This display does not support HDR content." = "Dieses Display unterstützt kein HDR.";
+
+/* No comment provided by engineer. */
+"This display has full support for HDR content." = "Dieses Display unterstützt HDR vollständig.";
+
+/* No comment provided by engineer. */
+"This display has limited support for HDR content." = "Dieses Display unterstützt HDR bedingt.";
+
+/* No comment provided by engineer. */
 "This document currently has no editable colors." = "Dieses Dokument hat derzeit keine bearbeitbaren Farben.";
 
 /* No comment provided by engineer. */
@@ -4173,6 +4242,9 @@
 
 /* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "Diese Art der Transformation wird nicht unterstützt.";
+
+/* No comment provided by engineer. */
+"This version of macOS does not support HDR." = "Diese macOS Version unterstützt kein HDR.";
 
 /* The name of an image file format. */
 "TIFF" = "TIFF";
@@ -4212,9 +4284,6 @@
 
 /* No comment provided by engineer. */
 "Tone Map" = "Tone Map";
-
-/* No comment provided by engineer. */
-"Tools" = "Werkzeuge";
 
 /* No comment provided by engineer. */
 "Touch Opacity" = "Retusch-Deckkraft";
@@ -4298,6 +4367,9 @@
 "Unlink Mask" = "Maskenverbindung aufheben";
 
 /* No comment provided by engineer. */
+"Unlink Masks" = "Maskenverbindung aufheben";
+
+/* No comment provided by engineer. */
 "Unlock" = "Schutz aufheben";
 
 /* No comment provided by engineer. */
@@ -4337,6 +4409,9 @@
 "Untitled layer mask" = "Unbenannte Ebenenmaske";
 
 /* No comment provided by engineer. */
+"Update to the latest version of macOS using Software Update in System Settings." = "Aktualisieren Sie mithilfe der Softwareaktualisierung in den Systemeinstellungen auf die neueste macOS Version.";
+
+/* No comment provided by engineer. */
 "Updates Unavailable for Demo" = "In der Demo gibt es keine Updates";
 
 /* No comment provided by engineer. */
@@ -4371,9 +4446,6 @@
 
 /* No comment provided by engineer. */
 "Video Layer" = "Videoebene";
-
-/* No comment provided by engineer. */
-"View" = "Darstellung";
 
 /* No comment provided by engineer. */
 "Vignette" = "Vignette";

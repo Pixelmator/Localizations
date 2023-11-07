@@ -454,6 +454,9 @@
 /* No comment provided by engineer. */
 "Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "自动保存非破坏性编辑在 sidecar 链接到你的 Mac 上的原始图像文件。";
 
+/* The name of an image file format */
+"AVIF" = "AVIF";
+
 /* No comment provided by engineer. */
 "azimuth: %@, elevation: %@" = "方位角：%1$@、海拔：%2$@";
 
@@ -635,6 +638,9 @@
 "Change Color Adjustments" = "更改颜色调整";
 
 /* No comment provided by engineer. */
+"Change Density" = "更改密度";
+
+/* No comment provided by engineer. */
 "Change Document Colors" = "更改文稿颜色";
 
 /* No comment provided by engineer. */
@@ -645,6 +651,9 @@
 
 /* No comment provided by engineer. */
 "Change End Behavior" = "更改结束特性";
+
+/* No comment provided by engineer. */
+"Change Feather" = "更改羽化";
 
 /* No comment provided by engineer. */
 "Change Opacity" = "更改不透明度";
@@ -836,6 +845,9 @@
 "Clone Settings" = "克隆设置";
 
 /* No comment provided by engineer. */
+"Close" = "关闭";
+
+/* No comment provided by engineer. */
 "Close Edit Tools" = "关闭编辑工具";
 
 /* No comment provided by engineer. */
@@ -929,10 +941,10 @@
 "Common Profiles" = "常用描述文件";
 
 /* No comment provided by engineer. */
-"Compare to Pixelmator Pro" = "与Pixelmator Pro比较";
+"Concentration" = "浓度";
 
 /* No comment provided by engineer. */
-"Concentration" = "浓度";
+"Connect an HDR-compatible display to edit HDR content." = "连接兼容 HDR 的显示器以编辑 HDR 内容。";
 
 /* No comment provided by engineer. */
 "Constant" = "常量";
@@ -962,7 +974,13 @@
 "Convert LUT into Adjustments" = "将 LUT 转换成调整";
 
 /* No comment provided by engineer. */
+"Convert to HDR" = "变换为 HDR";
+
+/* No comment provided by engineer. */
 "Converting LUT into Adjustments…" = "正在将 LUT 转换成调整…";
+
+/* No comment provided by engineer. */
+"Converting to HDR…" = "正在变换为 HDR…";
 
 /* No comment provided by engineer. */
 "Copy" = "拷贝";
@@ -1032,9 +1050,6 @@
 
 /* No comment provided by engineer. */
 "Crop" = "裁剪";
-
-/* No comment provided by engineer. */
-"Crop Tool" = "裁剪工具";
 
 /* No comment provided by engineer. */
 "Crop…" = "裁剪…";
@@ -1256,6 +1271,9 @@
 "Disable Mask" = "禁用蒙版";
 
 /* No comment provided by engineer. */
+"Disable Masks" = "禁用蒙版";
+
+/* No comment provided by engineer. */
 "Disable Texture-Aware Algorithm" = "禁用纹理感知算法";
 
 /* No comment provided by engineer. */
@@ -1263,6 +1281,9 @@
 
 /* No comment provided by engineer. */
 "Display albums without nesting" = "显示非嵌套相册";
+
+/* No comment provided by engineer. */
+"Display HDR Content" = "显示 HDR 内容";
 
 /* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "在一个按字母顺序排列的图库中显示所有相册，包括文件夹中的任何相册。";
@@ -1335,9 +1356,6 @@
 
 /* No comment provided by engineer. */
 "Double-Headed Arrow" = "双头箭头";
-
-/* No comment provided by engineer. */
-"Download for Free" = "免费下载";
 
 /* No comment provided by engineer. */
 "Downloading %d of %d photos for sharing…" = "下载并分享%2$d张图片中的%1$d张…";
@@ -1472,6 +1490,9 @@
 "Enable Mask" = "启用蒙版";
 
 /* No comment provided by engineer. */
+"Enable Masks" = "启用蒙版";
+
+/* No comment provided by engineer. */
 "Enable Sharpening" = "启用锐化";
 
 /* No comment provided by engineer. */
@@ -1569,9 +1590,6 @@
 
 /* No comment provided by engineer. */
 "Export for Web" = "为 Web 导出";
-
-/* No comment provided by engineer. */
-"Export for Web Tool" = "导出用于 Web 工具";
 
 /* No comment provided by engineer. */
 "Export Gradient Collection" = "导出渐变集合";
@@ -1870,6 +1888,18 @@
 /* No comment provided by engineer. */
 "Hard Mix" = "实色混合";
 
+/* No comment provided by engineer. */
+"HDR" = "HDR";
+
+/* No comment provided by engineer. */
+"HDR Mode" = "HDR 模式";
+
+/* No comment provided by engineer. */
+"HDR Not Available" = "HDR 不可用";
+
+/* No comment provided by engineer. */
+"HDR requires an HDR-compatible display and macOS 14.0 or later." = "显示 HDR 内容需要兼容 HDR 的显示器和 macOS 14.0 或更新版本。";
+
 /* The name of an image file format. */
 "HEIC" = "HEIC";
 
@@ -2006,9 +2036,6 @@
 "Image Layer" = "图像图层";
 
 /* No comment provided by engineer. */
-"Image Settings" = "图像设置";
-
-/* No comment provided by engineer. */
 "Image Size" = "图像尺寸";
 
 /* No comment provided by engineer. */
@@ -2121,6 +2148,9 @@
 
 /* The name of an image file format. */
 "JPEG" = "JPEG";
+
+/* The name of an image file format */
+"JPEG XL" = "JPEG XL";
 
 /* The name of an image file format. */
 "JPEG-2000" = "JPEG-2000";
@@ -2235,6 +2265,9 @@
 
 /* No comment provided by engineer. */
 "Link Mask" = "链接蒙版";
+
+/* No comment provided by engineer. */
+"Link Masks" = "链接蒙版";
 
 /* No comment provided by engineer. */
 "Live Photo" = "实况照片";
@@ -2421,6 +2454,9 @@
 
 /* No comment provided by engineer. */
 "Move Up" = "上移";
+
+/* No comment provided by engineer. */
+"Move window to %@ to view HDR content." = "将窗口移动至 %@ 以查看 HDR 内容。";
 
 /* No comment provided by engineer. */
 "Moved" = "Moved";
@@ -2672,10 +2708,16 @@
 "Open Sidecar" = "打开 Sidecar";
 
 /* No comment provided by engineer. */
+"Open Software Update" = "打开软件更新";
+
+/* No comment provided by engineer. */
 "Open System Preferences" = "打开系统偏好设置";
 
 /* No comment provided by engineer. */
 "Open the Photos browser" = "打开 Photos 浏览器";
+
+/* The name of an image file format */
+"OpenEXR" = "OpenEXR";
 
 /* No comment provided by engineer. */
 "Optimize & Export" = "优化与导出";
@@ -2736,6 +2778,9 @@
 
 /* No comment provided by engineer. */
 "Paste Effects" = "粘贴效果";
+
+/* No comment provided by engineer. */
+"Paste Mask" = "粘贴蒙版";
 
 /* No comment provided by engineer. */
 "Paste Styles" = "粘贴样式";
@@ -3022,6 +3067,9 @@
 /* No comment provided by engineer. */
 "Radial Gradient" = "径向渐变";
 
+/* The name of an image file format */
+"Radiance HDR" = "Radiance HDR";
+
 /* No comment provided by engineer. */
 "Radius" = "半径";
 
@@ -3146,6 +3194,9 @@
 "Remove Mask" = "移除蒙版";
 
 /* No comment provided by engineer. */
+"Remove Masks" = "移除蒙版";
+
+/* No comment provided by engineer. */
 "Remove Palette" = "移除调板";
 
 /* No comment provided by engineer. */
@@ -3230,6 +3281,12 @@
 "Replace Mask" = "替换蒙板";
 
 /* No comment provided by engineer. */
+"Replace Masks" = "替换蒙板";
+
+/* No comment provided by engineer. */
+"Replace Masks…" = "替换蒙板…";
+
+/* No comment provided by engineer. */
 "Replace Mask…" = "替换蒙板…";
 
 /* No comment provided by engineer. */
@@ -3303,6 +3360,9 @@
 
 /* No comment provided by engineer. */
 "Reset LUTs" = "重置 LUT";
+
+/* No comment provided by engineer. */
+"Reset Mask Styles" = "重置蒙版样式";
 
 /* No comment provided by engineer. */
 "Reset ML Crop" = "重置 ML 裁剪";
@@ -4154,6 +4214,15 @@
 "There were no results for %@. Try a new search." = "查找 %@ 无结果。请尝试搜索其他内容。";
 
 /* No comment provided by engineer. */
+"This display does not support HDR content." = "此显示器不支持 HDR 内容。";
+
+/* No comment provided by engineer. */
+"This display has full support for HDR content." = "此显示器完全支持 HDR 内容。";
+
+/* No comment provided by engineer. */
+"This display has limited support for HDR content." = "此显示器有限支持 HDR 内容。";
+
+/* No comment provided by engineer. */
 "This document currently has no editable colors." = "此文稿目前不包含可编辑的颜色";
 
 /* No comment provided by engineer. */
@@ -4173,6 +4242,9 @@
 
 /* No comment provided by engineer. */
 "This kind of transformation isn't supported." = "不支持这种变换。";
+
+/* No comment provided by engineer. */
+"This version of macOS does not support HDR." = "此版本 macOS 不支持 HDR。";
 
 /* The name of an image file format. */
 "TIFF" = "TIFF";
@@ -4212,9 +4284,6 @@
 
 /* No comment provided by engineer. */
 "Tone Map" = "色调地图";
-
-/* No comment provided by engineer. */
-"Tools" = "工具";
 
 /* No comment provided by engineer. */
 "Touch Opacity" = "触摸不透明度";
@@ -4298,6 +4367,9 @@
 "Unlink Mask" = "解除链接蒙版";
 
 /* No comment provided by engineer. */
+"Unlink Masks" = "解除链接蒙版";
+
+/* No comment provided by engineer. */
 "Unlock" = "解锁";
 
 /* No comment provided by engineer. */
@@ -4337,6 +4409,9 @@
 "Untitled layer mask" = "未命名图层蒙版";
 
 /* No comment provided by engineer. */
+"Update to the latest version of macOS using Software Update in System Settings." = "在“系统设置”的“软件更新”中更新至 macOS 的最新版本。";
+
+/* No comment provided by engineer. */
 "Updates Unavailable for Demo" = "演示版本不可用的更新";
 
 /* No comment provided by engineer. */
@@ -4371,9 +4446,6 @@
 
 /* No comment provided by engineer. */
 "Video Layer" = "视频图层";
-
-/* No comment provided by engineer. */
-"View" = "查看";
 
 /* No comment provided by engineer. */
 "Vignette" = "晕影";
