@@ -8,10 +8,16 @@
 "%@ Bytes" = "%@ 字节";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ 遇到了致命错误，可能是由于磁盘可用空间不足或操作系统错误引起的。请尝试释放部分存储空间或重新启动 Mac。";
+
+/* No comment provided by engineer. */
 "%@ OFF" = "%@折扣";
 
 /* seconds */
 "%@s" = "%@s";
+
+/* No comment provided by engineer. */
+"%d files already exists. Do you want to replace them?" = "%d 个文件已存在。您要替换它们吗？";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -33,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "%i Images Selected" = "%i 张图像已选定";
+
+/* No comment provided by engineer. */
+"%i Layers" = "%i 图层";
 
 /* No comment provided by engineer. */
 "%i of %i Edits Used" = "已使用%2$i之%1$i编辑";
@@ -92,6 +101,9 @@
 "\"%@\" Preset" = "“%@” 预设";
 
 /* No comment provided by engineer. */
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "文件夹“%@”中已有相同名称的文件或文件夹。替换它将覆盖其当前内容。";
+
+/* No comment provided by engineer. */
 "ACCENT COLOR" = "强调色";
 
 /* No comment provided by engineer. */
@@ -115,6 +127,9 @@
 /* Edit Menu */
 "Add Group" = "添加组";
 
+/* No comment provided by engineer. */
+"Add Guide" = "添加参考线";
+
 /* Layer Management */
 "Add Image" = "添加图像";
 
@@ -125,13 +140,31 @@
 "Add LUTs From Folder…" = "从文件夹添加…";
 
 /* No comment provided by engineer. */
+"Add Mask" = "添加蒙版";
+
+/* No comment provided by engineer. */
+"Add Masked Layer" = "添加图层蒙版";
+
+/* No comment provided by engineer. */
 "Add Photos" = "添加照片";
+
+/* No comment provided by engineer. */
+"Add Point" = "添加点";
 
 /* No comment provided by engineer. */
 "Add Raw Layer" = "添加原始图层";
 
+/* No comment provided by engineer. */
+"Add Shadow" = "添加阴影";
+
+/* No comment provided by engineer. */
+"Add Slice" = "添加切片";
+
 /* Layer Management */
 "Add Text" = "添加文本";
+
+/* No comment provided by engineer. */
+"Add to Shape" = "添加到形状";
 
 /* Tool */
 "Adjust Colors" = "调整颜色";
@@ -141,6 +174,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Intensity" = "调整强度";
+
+/* No comment provided by engineer. */
+"Adjust Light Position" = "调整灯光位置";
 
 /* Shape line start or end */
 "Adjust the endpoint size." = "调整字体大小。";
@@ -170,6 +206,27 @@
 "Align" = "对齐";
 
 /* No comment provided by engineer. */
+"Align Bottom Edges" = "底端对齐";
+
+/* No comment provided by engineer. */
+"Align Horizontal Centers" = "水平居中对齐";
+
+/* No comment provided by engineer. */
+"Align Left Edges" = "左边对齐";
+
+/* No comment provided by engineer. */
+"Align Right Edges" = "右边对齐";
+
+/* No comment provided by engineer. */
+"Align to Pixel Grid" = "对齐到像素网格";
+
+/* No comment provided by engineer. */
+"Align Top Edges" = "顶端对齐";
+
+/* No comment provided by engineer. */
+"Align Vertical Centers" = "垂直居中对齐";
+
+/* No comment provided by engineer. */
 "All Albums" = "所有相簿";
 
 /* No comment provided by engineer. */
@@ -194,7 +251,16 @@
 "Ambient Light" = "环境光";
 
 /* No comment provided by engineer. */
+"An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = " 发生错误，无法将更改保存到此图像的 sidecar 文件中。\n\n如果您想保留最新的图层和其他无损编辑，请将图像导出为 Pixelmator Pro 格式。";
+
+/* No comment provided by engineer. */
 "An Error Occurred" = "出现错误";
+
+/* No comment provided by engineer. */
+"An error occurred while saving the sidecar file for this asset." = "将sidecar文件保存至该asset时发生错误。";
+
+/* No comment provided by engineer. */
+"An error occurred while saving to the Photos library. Error code: %d" = "保存到照片库时出现错误。错误代码: %d";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "发生一个未知错误。";
@@ -209,6 +275,9 @@
 "Angle Scatter" = "角度散射";
 
 /* No comment provided by engineer. */
+"Angle: %@" = "角度: %@";
+
+/* No comment provided by engineer. */
 "App Settings" = "应用设置";
 
 /* No comment provided by engineer. */
@@ -221,7 +290,13 @@
 "Apply LUT" = "应用 LUT";
 
 /* No comment provided by engineer. */
+"Apply Watermark" = "应用水印";
+
+/* No comment provided by engineer. */
 "Applying %@" = "应用 %@";
+
+/* No comment provided by engineer. */
+"Are you sure you want to modify the document in place?" = "您确定要修改现有文稿吗？";
 
 /* Layer Arrange
    Tool */
@@ -243,6 +318,9 @@
 "Aspect Ratio" = "宽高比";
 
 /* No comment provided by engineer. */
+"Attempting to Open %@ Sidecar Document" = " 尝试打开 %@Sidecar 文件";
+
+/* No comment provided by engineer. */
 "Auto" = "自动";
 
 /* No comment provided by engineer. */
@@ -258,6 +336,21 @@
 "Auto Enhance" = "自动增强";
 
 /* No comment provided by engineer. */
+"Auto Select" = "自动选择";
+
+/* No comment provided by engineer. */
+"Auto Select Off" = "自动选择关闭";
+
+/* No comment provided by engineer. */
+"Auto Select On" = "自动选择打开";
+
+/* No comment provided by engineer. */
+"Auto Straighten" = "自动校正";
+
+/* No comment provided by engineer. */
+"Auto-Center" = "自动居中";
+
+/* No comment provided by engineer. */
 "Auto-Hide" = "自动隐藏";
 
 /* No comment provided by engineer. */
@@ -268,6 +361,9 @@
 
 /* The name of an image file format */
 "AVIF" = "AVIF";
+
+/* No comment provided by engineer. */
+"azimuth: %@, elevation: %@" = "方位角：%1$@、海拔：%2$@";
 
 /* No comment provided by engineer. */
 "Background" = "背景";
@@ -282,7 +378,13 @@
 "Balance Adjustment" = "平衡调整";
 
 /* No comment provided by engineer. */
+"Baseline" = "基线";
+
+/* No comment provided by engineer. */
 "Baseline Exposure" = "基线曝光";
+
+/* No comment provided by engineer. */
+"Baseline Offset" = "基线偏移";
 
 /* Tool */
 "Basic" = "基本";
@@ -333,6 +435,9 @@
 "BMP" = "BMP";
 
 /* No comment provided by engineer. */
+"Bold" = "粗体";
+
+/* No comment provided by engineer. */
 "Boost" = "增强";
 
 /* No comment provided by engineer. */
@@ -343,6 +448,9 @@
 
 /* Color adjustments */
 "Brightness" = "亮度";
+
+/* No comment provided by engineer. */
+"Bring Forward" = "前移";
 
 /* Edit Menu */
 "Bring to Front" = "移到最前面";
@@ -375,10 +483,16 @@
 "Cancel" = "取消";
 
 /* No comment provided by engineer. */
+"Cancelled" = "已取消";
+
+/* No comment provided by engineer. */
 "Cannot Create More Layers" = "无法创建更多图层";
 
 /* Tool */
 "Canvas Size" = "画布大小";
+
+/* No comment provided by engineer. */
+"Capitalization" = "大写";
 
 /* stroke options - line caps */
 "Caps" = "笔尖";
@@ -393,10 +507,31 @@
 "Centimeters" = "厘米";
 
 /* No comment provided by engineer. */
+"Change" = "更改";
+
+/* No comment provided by engineer. */
 "Change Blending Mode" = "更改混合模式";
 
 /* No comment provided by engineer. */
+"Change Capitalization" = "更改大写";
+
+/* No comment provided by engineer. */
 "Change Color..." = "更改颜色...";
+
+/* No comment provided by engineer. */
+"Change End Behavior" = "更改结束特性";
+
+/* No comment provided by engineer. */
+"Change Perspective" = "更改透视";
+
+/* No comment provided by engineer. */
+"Change Shape" = "更改形状";
+
+/* No comment provided by engineer. */
+"Change Start Behavior" = "更改开始特性";
+
+/* Shown as a subtitle when an image has an associated sidecar document, in which layers and other nondestructive edits are saved and tracked. */
+"Changes Tracked in Sidecar" = "更改 Sidecar 中的跟踪";
 
 /* No comment provided by engineer. */
 "Channel" = "通道";
@@ -404,8 +539,14 @@
 /* No comment provided by engineer. */
 "Channel Mixer" = "通道混合器";
 
+/* No comment provided by engineer. */
+"Character Spacing" = "字符间距";
+
 /* Image open error */
 "Check your internet connection, then try again." = "请检查您的网络连接，然后重试。";
+
+/* No comment provided by engineer. */
+"Choose Image…" = "选择图像…";
 
 /* No comment provided by engineer. */
 "Choose Location" = "选择地点";
@@ -440,12 +581,30 @@
 /* No comment provided by engineer. */
 "Clarity Shadows" = "使阴影清晰化";
 
+/* No comment provided by engineer. */
+"Clear Guides" = "清除参考线";
+
+/* No comment provided by engineer. */
+"Clear Mask" = "清除蒙版";
+
+/* No comment provided by engineer. */
+"Clear Selection" = "清除选择";
+
+/* No comment provided by engineer. */
+"Clear Slices" = "清除切片";
+
 /* Retouch Tools
    Tool */
 "Clone" = "克隆";
 
+/* No comment provided by engineer. */
+"Close Path" = "关闭路径";
+
 /* Units */
 "cm" = "厘米";
+
+/* No comment provided by engineer. */
+"CMYK Profiles" = "CMYK 描述文件";
 
 /* Tool */
 "Color" = "颜色";
@@ -482,10 +641,16 @@
 "Color Range Layer" = "颜色范围图层";
 
 /* No comment provided by engineer. */
+"Color Selection" = "颜色选区";
+
+/* No comment provided by engineer. */
 "Color Wheels" = "色轮";
 
 /* No comment provided by engineer. */
 "Colors" = "颜色";
+
+/* No comment provided by engineer. */
+"Common Profiles" = "常用描述文件";
 
 /* No comment provided by engineer. */
 "Compatible with the new iPad Pro" = "与新的 iPad Pro 兼容";
@@ -509,6 +674,12 @@
 "Convert Into Adjustments" = "转换成调整";
 
 /* No comment provided by engineer. */
+"Convert into Pixels" = "变换为像素";
+
+/* No comment provided by engineer. */
+"Convert into Shape" = "转换为形状";
+
+/* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "将 LUT 转换成调整";
 
 /* No comment provided by engineer. */
@@ -520,17 +691,26 @@
 /* No comment provided by engineer. */
 "Converting to HDR…" = "正在变换为 HDR…";
 
-/* Used in gallery document duplicate. */
-"copy" = "副本";
-
 /* Edit Menu */
 "Copy" = "拷贝";
+
+/* Used in gallery document duplicate. */
+"copy" = "副本";
 
 /* No comment provided by engineer. */
 "Copy Adjustments" = "拷贝调整";
 
+/* No comment provided by engineer. */
+"Copy and Paste as Layer" = "拷贝并粘贴为图层";
+
 /* Layer Management */
 "Copy Layer" = "复制图层";
+
+/* No comment provided by engineer. */
+"Copy Merged" = "复制合并";
+
+/* No comment provided by engineer. */
+"Copy ML Decontaminated Selection" = "复刻 ML 的净化选择";
 
 /* No comment provided by engineer. */
 "Copy Saved to Photos" = "副本已保存到照片";
@@ -544,11 +724,20 @@
 /* stroke options - line join style */
 "Corner" = "角";
 
+/* No comment provided by engineer. */
+"Corner Radius" = "边角半径";
+
+/* No comment provided by engineer. */
+"Corner Radius Setting" = "边角半径设置";
+
 /* Tool */
 "Crayon" = "蜡笔";
 
 /* No comment provided by engineer. */
 "Create Album with Selected Photos" = "为所选照片创建相簿";
+
+/* No comment provided by engineer. */
+"Create Clipping Mask" = "创建剪裁蒙版";
 
 /* Gallery */
 "Create Image" = "创建图像";
@@ -562,8 +751,14 @@
 /* No comment provided by engineer. */
 "Creation Date" = "创建日期";
 
+/* No comment provided by engineer. */
+"Critical Resources Unavailable" = "重要资源不可用";
+
 /* Tool */
 "Crop" = "裁剪";
+
+/* No comment provided by engineer. */
+"Crop…" = "裁剪…";
 
 /* No comment provided by engineer. */
 "Current" = "当前";
@@ -589,6 +784,9 @@
 
 /* Edit Menu */
 "Cut" = "剪切";
+
+/* No comment provided by engineer. */
+"Cut and Paste as Layer" = "剪切并粘贴为图层";
 
 /* Layer Management */
 "Cut Layer" = "剪切图层";
@@ -625,10 +823,22 @@
 "Debanding…" = "解绑中...";
 
 /* No comment provided by engineer. */
+"Decontaminate Colors" = "净化颜色";
+
+/* No comment provided by engineer. */
+"Decontaminate Selection" = "去污选择";
+
+/* No comment provided by engineer. */
+"Decontaminating Colors…" = "正在净化颜色…";
+
+/* No comment provided by engineer. */
 "Decontaminating colors…" = "正在净化颜色…";
 
 /* No comment provided by engineer. */
 "Default" = "默认";
+
+/* No comment provided by engineer. */
+"Default Baseline" = "默认基线";
 
 /* No comment provided by engineer. */
 "Dehaze" = "去雾";
@@ -649,10 +859,22 @@
 "Delete Layer" = "删除图层";
 
 /* No comment provided by engineer. */
+"Delete Layers" = "删除图层";
+
+/* No comment provided by engineer. */
 "Delete Linked File" = "删除链接文件";
+
+/* No comment provided by engineer. */
+"Delete Path" = "删除路径";
 
 /* Edit Menu */
 "Delete Preset" = "删除预设";
+
+/* No comment provided by engineer. */
+"Delete Slice" = "删除切片";
+
+/* No comment provided by engineer. */
+"Delete Slices" = "删除切片";
 
 /* Tool */
 "Denoise" = "降噪";
@@ -672,6 +894,9 @@
 /* Retouch Tools
    Tool */
 "Desaturate" = "去色";
+
+/* No comment provided by engineer. */
+"Deselect" = "取消选择";
 
 /* No comment provided by engineer. */
 "Deselect All" = "取消全选";
@@ -698,10 +923,13 @@
 "Details" = "详情";
 
 /* No comment provided by engineer. */
-"Detecting sky…" = "检测天空…";
+"Detecting background…" = "检测背景…";
 
 /* No comment provided by engineer. */
 "Detecting Sky…" = "检测天空…";
+
+/* No comment provided by engineer. */
+"Detecting sky…" = "检测天空…";
 
 /* No comment provided by engineer. */
 "Detecting subject…" = "正在检测主体…";
@@ -751,17 +979,59 @@
 /* No comment provided by engineer. */
 "Distance" = "距离";
 
+/* No comment provided by engineer. */
+"Distort" = "扭曲";
+
+/* No comment provided by engineer. */
+"Distort Transform" = "扭曲变换";
+
 /* Effects category name */
 "Distortion" = "扭曲";
 
 /* No comment provided by engineer. */
+"Distribute Bottom Edges" = "底端分散对齐";
+
+/* No comment provided by engineer. */
+"Distribute Horizontal Centers" = "分散水平居中对齐";
+
+/* No comment provided by engineer. */
+"Distribute Horizontal Spacing" = "分散水平间距";
+
+/* No comment provided by engineer. */
+"Distribute Left Edges" = "左边分散对齐";
+
+/* No comment provided by engineer. */
+"Distribute Right Edges" = "右边分散对齐";
+
+/* No comment provided by engineer. */
+"Distribute Top Edges" = "顶端分散对齐";
+
+/* No comment provided by engineer. */
+"Distribute Vertical Centers" = "分散垂直居中对齐";
+
+/* No comment provided by engineer. */
+"Distribute Vertical Spacing" = "分散垂直间距";
+
+/* No comment provided by engineer. */
 "Divide" = "划分";
+
+/* No comment provided by engineer. */
+"Divide Path" = "分割路径";
+
+/* No comment provided by engineer. */
+"Do you want to save the changes made to the document “%@”" = "您要存储对文稿“%@”所做的更改吗”";
+
+/* No comment provided by engineer. */
+"Document Quick Save for Web" = "Web 文稿快速保存";
 
 /* No comment provided by engineer. */
 "Don't limit yourself" = "不要限制自己";
 
 /* No comment provided by engineer. */
 "Don't Move" = "不移动";
+
+/* No comment provided by engineer. */
+"Don't Save" = "不存储";
 
 /* No comment provided by engineer. */
 "Done" = "完成";
@@ -826,6 +1096,12 @@
 /* No comment provided by engineer. */
 "Draw on canvas to subtract from a mask." = "在画布上画画以减去画笔蒙版。";
 
+/* No comment provided by engineer. */
+"Draw Path" = "绘制路径";
+
+/* No comment provided by engineer. */
+"Draw Slice" = "绘制切片";
+
 /* Edit Menu */
 "Duplicate" = "复制";
 
@@ -852,6 +1128,9 @@
 
 /* No comment provided by engineer. */
 "Edit 1 Photo" = "编辑 1 张照片";
+
+/* No comment provided by engineer. */
+"Edit a Copy" = "编辑副本";
 
 /* No comment provided by engineer. */
 "Edit Details" = "编辑详情";
@@ -910,6 +1189,9 @@
 
 /* Tool */
 "Elliptical" = "椭圆形";
+
+/* No comment provided by engineer. */
+"Elliptical Selection" = "椭圆选择";
 
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "椭圆对话气泡";
@@ -984,13 +1266,28 @@
 "Erase" = "擦除";
 
 /* No comment provided by engineer. */
+"Error:" = "错误：";
+
+/* No comment provided by engineer. */
+"Exclude from Shape" = "从形状中排除";
+
+/* No comment provided by engineer. */
+"Exclude Shapes" = "排除形状";
+
+/* No comment provided by engineer. */
 "Exclusion" = "排除";
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "专用或";
 
 /* No comment provided by engineer. */
+"Exit Editing" = "退出编辑";
+
+/* No comment provided by engineer. */
 "Exit Select Mode" = "退出选择模式";
+
+/* No comment provided by engineer. */
+"Expand" = "展开";
 
 /* No comment provided by engineer. */
 "Export" = "导出";
@@ -1002,10 +1299,37 @@
 "Export as LUT" = "导出为 LUT";
 
 /* No comment provided by engineer. */
+"Export Document as Images" = "将文稿导出为图像";
+
+/* No comment provided by engineer. */
+"Export for Web" = "为 Web 导出";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"" = "导出切片 “%@”";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"…" = "导出切片 “%@”…";
+
+/* No comment provided by engineer. */
+"Export Slices as Images" = "将切片导出为图像";
+
+/* No comment provided by engineer. */
+"Export Slice…" = "导出切片…";
+
+/* No comment provided by engineer. */
 "Exporting LUT…" = "导出 LUT…";
 
 /* No comment provided by engineer. */
+"Exporting…" = "正在导出…";
+
+/* No comment provided by engineer. */
+"Export…" = "导出…";
+
+/* No comment provided by engineer. */
 "Exposure" = "曝光";
+
+/* No comment provided by engineer. */
+"Extended" = "延伸的";
 
 /* No comment provided by engineer. */
 "Extended Values" = "扩展值";
@@ -1022,8 +1346,23 @@
 /* File size */
 "Failed to calculate size." = "计算大小失败。";
 
+/* No comment provided by engineer. */
+"Failed to export document images." = "导出文稿图像失败。";
+
+/* No comment provided by engineer. */
+"Failed to export slice \"%@\"." = "导出切片 “%@” 失败。";
+
+/* No comment provided by engineer. */
+"Failed to export slices." = "导出切片失败。";
+
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "未能获取一个或多个扩展属性值";
+
+/* No comment provided by engineer. */
+"Failed to Save Sidecar File" = "保存 Sidecar 文件失败";
+
+/* No comment provided by engineer. */
+"Failed to Save to Photos" = "保存图片失败";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "未能获取一个或多个扩展属性。";
@@ -1049,14 +1388,38 @@
 /* No comment provided by engineer. */
 "Files browser" = "文件浏览器";
 
+/* No comment provided by engineer. */
+"Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "文件“%@”中已有相同名称的文件或文件夹。若替换，则会覆盖其当前内容。";
+
 /* Effects category name */
 "Fill" = "填充";
+
+/* No comment provided by engineer. */
+"Fill with Background Color" = "用背景色填充";
+
+/* No comment provided by engineer. */
+"Fill with Color…" = "填充颜色…";
+
+/* No comment provided by engineer. */
+"Fill with Foreground Color" = "用前景色填充";
 
 /* No comment provided by engineer. */
 "Filmstrip" = "胶片条";
 
 /* No comment provided by engineer. */
+"Finish Drawing" = "完成绘图";
+
+/* No comment provided by engineer. */
+"Finish Selection" = "完成选择";
+
+/* No comment provided by engineer. */
+"First Line Indent" = "首行缩进";
+
+/* No comment provided by engineer. */
 "Fit" = "适合";
+
+/* No comment provided by engineer. */
+"Fit Crop" = "适合裁剪";
 
 /* No comment provided by engineer. */
 "Fixed" = "固定";
@@ -1071,10 +1434,25 @@
 "Flip Horizontally" = "水平翻转";
 
 /* No comment provided by engineer. */
+"Flip Text Along Path" = "沿路径翻转文本";
+
+/* No comment provided by engineer. */
 "Flip Vertically" = "垂直翻转";
+
+/* No comment provided by engineer. */
+"Flood Fill" = "区域填充";
+
+/* No comment provided by engineer. */
+"Font Change" = "字体更改";
+
+/* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
+"Format:" = "格式:";
 
 /* Tool */
 "Free" = "可用空间";
+
+/* No comment provided by engineer. */
+"Free Selection" = "自由选区";
 
 /* No comment provided by engineer. */
 "Free Trial Ends in 2 Days" = "免费试用将于 2 天后到期";
@@ -1107,19 +1485,19 @@
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "快速了解可用于修饰、增强或彻底改变照片外观的工具。";
 
 /* No comment provided by engineer. */
-"Get Unlimited Access" = "获得无限使用权";
+"Get unlimited access" = "无限制使用";
 
 /* No comment provided by engineer. */
-"Get unlimited access" = "无限制使用";
+"Get Unlimited Access" = "获得无限使用权";
 
 /* No comment provided by engineer. */
 "Get unlimited access." = "无限制使用。";
 
 /* No comment provided by engineer. */
-"Getting started" = "开始使用";
+"Getting Started" = "开始使用";
 
 /* No comment provided by engineer. */
-"Getting Started" = "开始使用";
+"Getting started" = "开始使用";
 
 /* The name of an image file format. */
 "GIF" = "GIF";
@@ -1135,6 +1513,9 @@
 
 /* No comment provided by engineer. */
 "Gradient Angle" = "渐变角度";
+
+/* No comment provided by engineer. */
+"Gradient Change" = "更改渐变";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "渐变填充";
@@ -1159,6 +1540,9 @@
 
 /* No comment provided by engineer. */
 "Gray - White" = "灰色 - 白色";
+
+/* No comment provided by engineer. */
+"Gray Profiles" = "灰度描述文件";
 
 /* No comment provided by engineer. */
 "Green" = "绿色";
@@ -1213,10 +1597,22 @@
 "Hide" = "隐藏";
 
 /* No comment provided by engineer. */
+"Hide Grid" = "隐藏网格";
+
+/* No comment provided by engineer. */
+"Hide Handles" = "隐藏手柄";
+
+/* No comment provided by engineer. */
 "Hide Histogram" = "隐藏直方图";
 
 /* Layer */
 "Hide Layer" = "隐藏图层";
+
+/* No comment provided by engineer. */
+"Hide Optimized Preview" = "隐藏优化预览";
+
+/* No comment provided by engineer. */
+"Hide Shape Outline" = "隐藏形状轮廓";
 
 /* No comment provided by engineer. */
 "High Pass Radius" = "高频通道半径";
@@ -1229,6 +1625,9 @@
 
 /* No comment provided by engineer. */
 "Holiday Sale" = "节日促销活动";
+
+/* No comment provided by engineer. */
+"Horizontal Alignment" = "水平对齐";
 
 /* Perspective transform */
 "Horizontal Perspective" = "水平透视";
@@ -1278,8 +1677,14 @@
 /* Tool */
 "Image Size" = "图像尺寸";
 
+/* No comment provided by engineer. */
+"Image Straightened by %@" = "通过 %@ 拉直图像";
+
 /* Edit Menu */
 "Import" = "导入";
+
+/* No comment provided by engineer. */
+"Import as New Document" = "导入为新文档";
 
 /* No comment provided by engineer. */
 "Import Photo" = "导入照片";
@@ -1328,6 +1733,12 @@
 "Increasing Resolution…" = "正在提高分辨率…";
 
 /* No comment provided by engineer. */
+"Increasing resolution…" = "正在提高分辨率…";
+
+/* No comment provided by engineer. */
+"Initial Crop" = "原始裁剪";
+
+/* No comment provided by engineer. */
 "Initial Direction" = "初始方向";
 
 /* Tool */
@@ -1338,6 +1749,15 @@
 
 /* No comment provided by engineer. */
 "Insert from..." = "插入…";
+
+/* No comment provided by engineer. */
+"Insert Point" = "插入点";
+
+/* No comment provided by engineer. */
+"Inserting…" = "正在插入…";
+
+/* No comment provided by engineer. */
+"Insets" = "插入";
 
 /* No comment provided by engineer. */
 "Instantly adjust the colors of images using color presets created in other apps." = "使用在其他应用中创建的颜色预设即时调整图片的颜色。";
@@ -1352,7 +1772,22 @@
 "Intersect" = "相交";
 
 /* No comment provided by engineer. */
+"Intersect Shapes" = "相交形状";
+
+/* No comment provided by engineer. */
+"Intersect with Shape" = "与形状相交";
+
+/* No comment provided by engineer. */
 "Invert" = "反转";
+
+/* No comment provided by engineer. */
+"Invert Colors" = "反转颜色";
+
+/* No comment provided by engineer. */
+"Invert Mask" = "翻转蒙版";
+
+/* No comment provided by engineer. */
+"Invert Selection" = "反向选择";
 
 /* No comment provided by engineer. */
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "您好像并未有效订阅 Photomator。可能的原因为：\n\n1. 您是通过另一个 Apple ID 登录 App Store 订阅的。\n2. 您的订阅过期了。\n\n您可以在 App Store 中查看详情，然后再试一次。";
@@ -1361,10 +1796,22 @@
 "It is not possible to save your image to this location. Would you like to save it somewhere else?" = "无法将图像保存到该位置。您想保存到其他位置吗？";
 
 /* No comment provided by engineer. */
+"It looks like “%@” was moved or renamed while it was open. Please quit and relaunch the application." = "似乎“%@”在打开时被移动或重命名。请退出并重新启动此应用程序。";
+
+/* No comment provided by engineer. */
 "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "似乎您已经解锁了 Photomator 的无限权限，因此您没有被扣款。欢迎使用本应用！";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "原始照片似乎已不在那里了。";
+
+/* No comment provided by engineer. */
+"It was last edited in an older version of Pixelmator. Upgrading will convert it to the new Pixelmator format. To preserve the original and work on a copy, click Edit a Copy." = "此内容上一次是在旧版本的 Pixelmator 中进行了编辑。升级将使其变换为新的 Pixelmator 格式。要保留原件并在副本上编辑，请选择“编辑副本”。";
+
+/* No comment provided by engineer. */
+"Italic" = "斜体";
+
+/* Command name to join two different shape paths. */
+"Join" = "加入";
 
 /* The name of an image file format. */
 "JPEG" = "JPEG";
@@ -1376,6 +1823,9 @@
 "JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
+"Lasso Selection" = "套索选择";
+
+/* No comment provided by engineer. */
 "Last Adjustments" = "上次调整";
 
 /* Default new layer name */
@@ -1383,6 +1833,9 @@
 
 /* No comment provided by engineer. */
 "Layer Mask" = "图层蒙版";
+
+/* No comment provided by engineer. */
+"Layer Selection" = "图层选择";
 
 /* No comment provided by engineer. */
 "Layer was flattened" = "图层被展平";
@@ -1394,7 +1847,13 @@
 "Learn More" = "了解更多";
 
 /* No comment provided by engineer. */
+"Learn More…" = "了解更多…";
+
+/* No comment provided by engineer. */
 "Left" = "左";
+
+/* No comment provided by engineer. */
+"Left Indent" = "左缩进";
 
 /* No comment provided by engineer. */
 "Lens Correction" = "镜头校正";
@@ -1404,6 +1863,9 @@
 
 /* No comment provided by engineer. */
 "License" = "订阅证书";
+
+/* No comment provided by engineer. */
+"Ligature" = "连字";
 
 /* No comment provided by engineer. */
 "Light" = "明亮";
@@ -1443,6 +1905,9 @@
 "Line" = "直线";
 
 /* No comment provided by engineer. */
+"Line Height" = "行高";
+
+/* No comment provided by engineer. */
 "Linear" = "线性";
 
 /* No comment provided by engineer. */
@@ -1474,6 +1939,9 @@
 
 /* No comment provided by engineer. */
 "Load SDR Content" = "载入 SDR 内容";
+
+/* No comment provided by engineer. */
+"Load Selection" = "加载选择";
 
 /* Document loading */
 "Loading…" = "正在加载…";
@@ -1530,6 +1998,21 @@
 "Magnetic" = "磁性";
 
 /* No comment provided by engineer. */
+"Magnetic Selection" = "磁性选区";
+
+/* No comment provided by engineer. */
+"Make Editable" = "使可编辑";
+
+/* No comment provided by engineer. */
+"Make Path Editable" = "使路径可编辑";
+
+/* No comment provided by engineer. */
+"Make Sharp Point" = "制作锐化点";
+
+/* No comment provided by engineer. */
+"Make Smooth Point" = "制作平滑点";
+
+/* No comment provided by engineer. */
 "Make your shots stand out with over 30 powerful, nondestructive color adjustments." = "用超过30种华丽调色让您的照片出彩夺目。";
 
 /* No comment provided by engineer. */
@@ -1544,6 +2027,9 @@
 /* Tool */
 "Mask" = "蒙版";
 
+/* No comment provided by engineer. */
+"Mask Subject" = "蒙版主体";
+
 /* Color Balance */
 "Master" = "主色";
 
@@ -1552,6 +2038,9 @@
 
 /* No comment provided by engineer. */
 "Match Colors" = "匹配颜色";
+
+/* No comment provided by engineer. */
+"Matching colors…" = "正在匹配颜色…";
 
 /* No comment provided by engineer. */
 "Matching Colors…" = "正在匹配颜色…";
@@ -1566,7 +2055,16 @@
 "Medium Gray (Default)" = "中灰（默认）";
 
 /* No comment provided by engineer. */
+"Merge" = "合并";
+
+/* No comment provided by engineer. */
+"Merge All" = "合并所有";
+
+/* No comment provided by engineer. */
 "Merge brush marks" = "合并画笔标记";
+
+/* No comment provided by engineer. */
+"Merge Shape Components" = "合并形状组件";
 
 /* Color Balance */
 "Midtones" = "中间调";
@@ -1580,11 +2078,20 @@
 /* No comment provided by engineer. */
 "ML Crop" = "ML 裁剪";
 
+/* No comment provided by engineer. */
+"ML Decontaminate Selection" = "ML Decontaminate Selection";
+
+/* No comment provided by engineer. */
+"ML Refine Mask" = "ML Refine Mask";
+
 /* Units */
 "mm" = "毫米";
 
 /* No comment provided by engineer. */
 "Modification Date" = "编辑日期";
+
+/* No comment provided by engineer. */
+"Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "修改现有文稿可能导致丢失部分现有格式。您要先复制此文稿吗？";
 
 /* No comment provided by engineer. */
 "More" = "更多";
@@ -1616,14 +2123,29 @@
 /* No comment provided by engineer. */
 "Move Gradient" = "渐变移动";
 
+/* No comment provided by engineer. */
+"Move Guide" = "移动参考线";
+
 /* Edit Menu */
 "Move Left" = "左移";
+
+/* No comment provided by engineer. */
+"Move Point" = "移动点";
 
 /* Edit Menu */
 "Move Right" = "右移";
 
 /* No comment provided by engineer. */
+"Move Slices" = "移动切片";
+
+/* No comment provided by engineer. */
 "Move Up" = "上移";
+
+/* No comment provided by engineer. */
+"Moved" = "Moved";
+
+/* No comment provided by engineer. */
+"Moved Object" = "Moved Object";
 
 /* Edit Menu */
 "Move…" = "移动…";
@@ -1641,6 +2163,9 @@
 "Mustache" = "胡子";
 
 /* No comment provided by engineer. */
+"Mute" = "静音";
+
+/* No comment provided by engineer. */
 "My Albums" = "我的相簿";
 
 /* No comment provided by engineer. */
@@ -1650,10 +2175,19 @@
 "New Album with Selection" = "为所选照片创建新相簿";
 
 /* No comment provided by engineer. */
+"New Color Adjustments Layer" = "新颜色调整图层";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "新效果图层";
+
+/* No comment provided by engineer. */
 "New Folder" = "新文件夹";
 
 /* No comment provided by engineer. */
 "New Layer" = "新建图层";
+
+/* No comment provided by engineer. */
+"New Shape" = "新建形状";
 
 /* No comment provided by engineer. */
 "Newest to Oldest" = "从最新到最旧";
@@ -1678,6 +2212,12 @@
 
 /* No comment provided by engineer. */
 "No commitment, cancel anytime." = "无需承诺，可随时取消。";
+
+/* No comment provided by engineer. */
+"No Horizon Detected" = "未检测到水平线";
+
+/* No comment provided by engineer. */
+"No Layer Selected" = "未选择图层";
 
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "无镜头信息";
@@ -1716,6 +2256,9 @@
 "Now you can download Photomator%@for%@Mac from the Mac App Store and enjoy full access to all its features." = "现在您可以在Mac%1$@的App Store下载%2$@Photomator并解锁全部功能。";
 
 /* No comment provided by engineer. */
+"Offset" = "偏置";
+
+/* No comment provided by engineer. */
 "OK" = "确认";
 
 /* No comment provided by engineer. */
@@ -1749,10 +2292,22 @@
 "Open App Store" = "打开 App Store";
 
 /* No comment provided by engineer. */
+"Open Image" = "打开图像";
+
+/* No comment provided by engineer. */
+"Open Original Image" = "打开原始图像";
+
+/* No comment provided by engineer. */
 "Open RAW by Default" = "默认打开RAW";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "打开 Sidecar";
 
 /* The name of an image file format */
 "OpenEXR" = "OpenEXR";
+
+/* No comment provided by engineer. */
+"Optimize & Export" = "优化与导出";
 
 /* No comment provided by engineer. */
 "Orange" = "橘子";
@@ -1779,6 +2334,9 @@
 "OTHER" = "其他";
 
 /* No comment provided by engineer. */
+"Outline" = "外框";
+
+/* No comment provided by engineer. */
 "Overlay" = "叠层";
 
 /* No comment provided by engineer. */
@@ -1799,8 +2357,17 @@
 /* No comment provided by engineer. */
 "Paste Adjustments" = "粘贴调整";
 
+/* No comment provided by engineer. */
+"Paste and Match Colors" = "粘贴并匹配颜色";
+
+/* No comment provided by engineer. */
+"Paste Document Colors" = "粘贴文稿颜色";
+
 /* Layer Management */
 "Paste Layer" = "粘贴图层";
+
+/* No comment provided by engineer. */
+"Pasting and matching colors…" = "正在粘贴并匹配颜色…";
 
 /* No comment provided by engineer. */
 "Pasting…" = "粘贴中…";
@@ -1874,6 +2441,9 @@
 /* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop Document" = "Photoshop 文稿";
 
+/* No comment provided by engineer. */
+"Photoshop Large" = "Photoshop 大型";
+
 /* Refers to the Adobe Photoshop layered image file format used for large documents. */
 "Photoshop Large Document" = "Photoshop 大型文稿";
 
@@ -1888,6 +2458,9 @@
 
 /* Tool */
 "Pinch" = "收缩";
+
+/* No comment provided by engineer. */
+"Pixel Paint" = "像素漆";
 
 /* Tool */
 "Pixel Tool" = "像素工具";
@@ -1931,8 +2504,14 @@
 /* Units */
 "Points" = "点";
 
+/* No comment provided by engineer. */
+"Points: %d" = "点: %d";
+
 /* Tool */
 "Polygon" = "多边形";
+
+/* No comment provided by engineer. */
+"Polygonal Selection" = "多边形选区";
 
 /* No comment provided by engineer. */
 "Position" = "位置";
@@ -1982,6 +2561,9 @@
 /* No comment provided by engineer. */
 "Processing…" = "正在处理…";
 
+/* No comment provided by engineer. */
+"Promote to Slice" = "升级为切片";
+
 /* Raw image type identifier */
 "ProRAW" = "ProRAW";
 
@@ -2003,11 +2585,20 @@
 /* No comment provided by engineer. */
 "Quality" = "质量";
 
+/* Refers to image export quality. */
+"Quality:" = "质量：";
+
 /* Tool */
 "Quick" = "快速";
 
 /* No comment provided by engineer. */
 "Quick Edits" = "快速编辑";
+
+/* No comment provided by engineer. */
+"Quick Fill" = "快速填充";
+
+/* No comment provided by engineer. */
+"Quick Selection" = "快速选区";
 
 /* No comment provided by engineer. */
 "Quickly change the look and feel of photo using color adjustment presets." = "通过颜色调整预设快速更改照片的外观和感觉。";
@@ -2017,6 +2608,9 @@
 
 /* The name of a video file format. */
 "QuickTime Movie" = "QuickTime 影片";
+
+/* No comment provided by engineer. */
+"Quit Application" = "退出应用程序";
 
 /* Recents group abbreviation
    Short for RAW Image format */
@@ -2033,6 +2627,9 @@
 
 /* No comment provided by engineer. */
 "Radius" = "半径";
+
+/* No comment provided by engineer. */
+"Radius: %@" = "半径: %@";
 
 /* No comment provided by engineer. */
 "Random" = "随机";
@@ -2067,6 +2664,9 @@
 
 /* Tool */
 "Rectangular" = "矩形";
+
+/* No comment provided by engineer. */
+"Rectangular Selection" = "矩形选择";
 
 /* No comment provided by engineer. */
 "Rectangular Speech Bubble" = "矩形对话气泡";
@@ -2105,10 +2705,25 @@
 "Refine" = "调整";
 
 /* No comment provided by engineer. */
+"Refine Edge" = "调整边缘";
+
+/* No comment provided by engineer. */
+"Refine Mask" = "调整蒙版";
+
+/* No comment provided by engineer. */
+"Refine Selection" = "调整选区";
+
+/* No comment provided by engineer. */
 "Refining Edges…" = "正在调整边缘…";
 
 /* No comment provided by engineer. */
 "Refining edges…" = "正在调整边缘…";
+
+/* No comment provided by engineer. */
+"Refining Selection…" = "正在调整选区…";
+
+/* No comment provided by engineer. */
+"Release Clipping Mask" = "释放剪裁蒙版";
 
 /* No comment provided by engineer. */
 "Reloading…" = "正在重新加载…";
@@ -2123,6 +2738,9 @@
 "Remove an existing layer to add a new one." = "移除一个现有图层并添加一个新图层。";
 
 /* No comment provided by engineer. */
+"Remove Anchor Point" = "移除定位点";
+
+/* No comment provided by engineer. */
 "Remove Background" = "移除背景";
 
 /* No comment provided by engineer. */
@@ -2135,10 +2753,22 @@
 "Remove from Album" = "从相簿中移除";
 
 /* No comment provided by engineer. */
+"Remove Guide" = "移除参考线";
+
+/* No comment provided by engineer. */
+"Remove Layer" = "移除图层";
+
+/* No comment provided by engineer. */
 "Remove Mask" = "移除蒙版";
 
 /* No comment provided by engineer. */
 "Remove objects" = "移除对象";
+
+/* No comment provided by engineer. */
+"Remove Shape Path" = "移除形状路径";
+
+/* No comment provided by engineer. */
+"Remove Shape Paths" = "移除形状路径";
 
 /* Edit Menu */
 "Rename" = "重新命名";
@@ -2169,13 +2799,46 @@
 "Repair with Pencil" = "使用 Pencil 修复";
 
 /* No comment provided by engineer. */
+"Repairing Background" = "Repairing Background";
+
+/* No comment provided by engineer. */
 "Repairing…" = "正在修复…";
+
+/* No comment provided by engineer. */
+"Replace" = "替换";
+
+/* No comment provided by engineer. */
+"Replace All" = "全部替换";
 
 /* No comment provided by engineer. */
 "Replace Color" = "替换颜色";
 
 /* No comment provided by engineer. */
+"Replace Layer" = "替换图层";
+
+/* No comment provided by engineer. */
+"Replace Mask" = "替换蒙板";
+
+/* No comment provided by engineer. */
 "Replace Media" = "替换媒体";
+
+/* No comment provided by engineer. */
+"Replace Shape" = "替换形状";
+
+/* No comment provided by engineer. */
+"Replace Shape…" = "替换形状…";
+
+/* No comment provided by engineer. */
+"Replace Text" = "替换文本";
+
+/* No comment provided by engineer. */
+"Reprocess RAW" = "重新处理 RAW";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "必需资源不可用";
+
+/* No comment provided by engineer. */
+"Reselect" = "重新选择";
 
 /* Edit Menu */
 "Reset" = "重置";
@@ -2187,10 +2850,16 @@
 "Reset Adjustments" = "重置调整";
 
 /* No comment provided by engineer. */
+"Reset Angle" = "重置角度";
+
+/* No comment provided by engineer. */
 "Reset Auto Adjust" = "重置自动调整";
 
 /* No comment provided by engineer. */
 "Reset Auto Enhance" = "重置自动增强";
+
+/* No comment provided by engineer. */
+"Reset Auto Straighten" = "重置自动拉直";
 
 /* No comment provided by engineer. */
 "Reset Changes" = "重置更改";
@@ -2206,6 +2875,9 @@
 
 /* No comment provided by engineer. */
 "Reset Enhance" = "重置增强";
+
+/* No comment provided by engineer. */
+"Reset Handles" = "重置手柄";
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "重置水平透视";
@@ -2235,7 +2907,16 @@
 "Reset Vertical Perspective" = "重置垂直透视";
 
 /* No comment provided by engineer. */
+"Resize" = "调整大小";
+
+/* No comment provided by engineer. */
 "Resize Gradient" = "重设渐变";
+
+/* No comment provided by engineer. */
+"Resize Slices" = "调整切片大小";
+
+/* No comment provided by engineer. */
+"Resize Transform" = "调整大小转换";
 
 /* Tool */
 "Restore" = "恢复";
@@ -2245,6 +2926,9 @@
 
 /* No comment provided by engineer. */
 "Restore Purchase" = "恢复购买信息";
+
+/* No comment provided by engineer. */
+"Reveal Canvas" = "显示画布";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "在文件中显示";
@@ -2259,7 +2943,13 @@
 "RGB" = "RGB";
 
 /* No comment provided by engineer. */
+"RGB Profiles" = "RGB 描述文件";
+
+/* No comment provided by engineer. */
 "Right" = "右";
+
+/* No comment provided by engineer. */
+"Right Indent" = "右缩进";
 
 /* Tool */
 "Rotate" = "旋转";
@@ -2268,7 +2958,22 @@
 "Rotate 180°" = "旋转 180°";
 
 /* No comment provided by engineer. */
+"Rotate 90° Left" = "向左旋转 90°";
+
+/* No comment provided by engineer. */
+"Rotate 90° Right" = "向右旋转 90°";
+
+/* No comment provided by engineer. */
 "Rotate Gradient" = "旋转渐变";
+
+/* No comment provided by engineer. */
+"Rotate Image 180°" = "旋转图像 180°";
+
+/* No comment provided by engineer. */
+"Rotate Image 90° Left" = "向左旋转图像 90°";
+
+/* No comment provided by engineer. */
+"Rotate Image 90° Right" = "向右旋转图像 90°";
 
 /* No comment provided by engineer. */
 "Rotate Left" = "向左旋转";
@@ -2276,11 +2981,20 @@
 /* No comment provided by engineer. */
 "Rotate Right" = "向右旋转";
 
+/* No comment provided by engineer. */
+"Rotate Scene" = "旋转场景";
+
+/* No comment provided by engineer. */
+"Round Text Font Sizes" = "调整字体大小";
+
 /* Tool */
 "Rounded Rect." = "圆角矩形";
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "圆角矩形";
+
+/* No comment provided by engineer. */
+"Roundness" = "圆滑度";
 
 /* Retouch Tools
    Tool */
@@ -2300,6 +3014,12 @@
 
 /* No comment provided by engineer. */
 "Save as Preset" = "存储为预设";
+
+/* No comment provided by engineer. */
+"Save As:" = "存储为:";
+
+/* No comment provided by engineer. */
+"Save As…" = "存储为…";
 
 /* No comment provided by engineer. */
 "Save Changes" = "存储更改";
@@ -2322,6 +3042,9 @@
 /* No comment provided by engineer. */
 "Save image (3 remaining)" = "保存图像（剩余 3 张）";
 
+/* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
+"Save layers and edits to a sidecar file" = "保存图层和编辑至 sidecar 文件";
+
 /* No comment provided by engineer. */
 "Save linked files in iCloud to sync edits between your devices." = "在 iCloud 中保存链接的文件，以便在您的多台设备之间同步。";
 
@@ -2332,7 +3055,13 @@
 "Save to Album" = "保存到相册";
 
 /* No comment provided by engineer. */
+"Save to My Shapes" = "保存到我的形状";
+
+/* No comment provided by engineer. */
 "Save to Photos" = "存储到“照片”";
+
+/* No comment provided by engineer. */
+"Save…" = "存储…";
 
 /* No comment provided by engineer. */
 "Saving…" = "正在存储…";
@@ -2377,16 +3106,31 @@
 "Select All" = "全选";
 
 /* No comment provided by engineer. */
-"Select Background" = "选择背景";
+"Select and Mask" = "选择和蒙版";
+
+/* No comment provided by engineer. */
+"Select and Mask…" = "选择和蒙版…";
 
 /* No comment provided by engineer. */
 "Select background" = "选择背景";
+
+/* No comment provided by engineer. */
+"Select Background" = "选择背景";
+
+/* No comment provided by engineer. */
+"Select Color Range" = "选择颜色范围";
 
 /* Tool */
 "Select Column" = "选择列";
 
 /* No comment provided by engineer. */
+"Select Groups" = "选择群组";
+
+/* No comment provided by engineer. */
 "Select Images" = "选择图像";
+
+/* No comment provided by engineer. */
+"Select Layers" = "选择图层";
 
 /* No comment provided by engineer. */
 "Select LUT" = "选择 LUT";
@@ -2416,6 +3160,18 @@
 "Selected layer is locked, unlock it to edit." = "选定的图层被锁定，解锁图层才可编辑。";
 
 /* No comment provided by engineer. */
+"Selection" = "选择";
+
+/* No comment provided by engineer. */
+"Selection Move" = "选区移动";
+
+/* No comment provided by engineer. */
+"Selection Resize" = "选区大小调整";
+
+/* No comment provided by engineer. */
+"Selection Rotate" = "选区旋转";
+
+/* No comment provided by engineer. */
 "Selective Clarity" = "选择性清晰度";
 
 /* No comment provided by engineer. */
@@ -2424,11 +3180,20 @@
 /* No comment provided by engineer. */
 "Selective Colors" = "选择性颜色";
 
+/* No comment provided by engineer. */
+"Send Backward" = "后移";
+
 /* Edit Menu */
 "Send to Back" = "移到最后面";
 
 /* No comment provided by engineer. */
 "Sepia" = "老照片风格";
+
+/* No comment provided by engineer. */
+"Set Playback Delay" = "设置播放延迟";
+
+/* No comment provided by engineer. */
+"Set Poster Frame" = "设置标记框架";
 
 /* Shape line start or end */
 "Set the endpoint size." = "设置端点大小。";
@@ -2469,6 +3234,12 @@
 "Sharpen" = "锐化";
 
 /* No comment provided by engineer. */
+"Sharpen Path" = "锐化路径";
+
+/* No comment provided by engineer. */
+"Sharpen Point" = "锐化点";
+
+/* No comment provided by engineer. */
 "Sharpness" = "锐度";
 
 /* No comment provided by engineer. */
@@ -2502,6 +3273,12 @@
 "Show Filmstrip" = "显示胶片条";
 
 /* No comment provided by engineer. */
+"Show Grid" = "显示网格";
+
+/* No comment provided by engineer. */
+"Show Handles" = "显示手柄";
+
+/* No comment provided by engineer. */
 "Show Info" = "显示信息";
 
 /* Layer */
@@ -2518,6 +3295,9 @@
 
 /* No comment provided by engineer. */
 "Show Names" = "显示名称";
+
+/* No comment provided by engineer. */
+"Show Optimized Preview" = "显示优化预览";
 
 /* No comment provided by engineer. */
 "Show Original" = "显示原始文件";
@@ -2538,7 +3318,22 @@
 "Show Repair Size Slider" = "显示修复工具大小滑块";
 
 /* No comment provided by engineer. */
+"Show Shape Outline" = "显示形状轮廓";
+
+/* No comment provided by engineer. */
 "Show Sliders" = "显示滑块";
+
+/* No comment provided by engineer. */
+"Shrink Text to Fit Setting" = "缩小文字以符合设置";
+
+/* No comment provided by engineer. */
+"Sidecar File Not Found" = "未找到 Sidecar 文件";
+
+/* Refers to a linked file (sidecar file) that is linked to another image file. */
+"Sidecar:" = "Sidecar：";
+
+/* No comment provided by engineer. */
+"Sides: %d" = "边: %d";
 
 /* No comment provided by engineer. */
 "Simple" = "简单";
@@ -2559,16 +3354,34 @@
 "Skew" = "斜";
 
 /* No comment provided by engineer. */
+"Skew Transform" = "倾斜变换";
+
+/* No comment provided by engineer. */
 "Skip overview" = "跳过概览";
 
 /* No comment provided by engineer. */
 "Sky" = "天空";
 
+/* No comment provided by engineer. */
+"Slice" = "切片";
+
 /* Tool */
 "Smart Deband" = "智能去色带";
 
 /* No comment provided by engineer. */
+"Smart Refine" = "智能优化";
+
+/* No comment provided by engineer. */
+"Smooth Path" = "平滑路径";
+
+/* No comment provided by engineer. */
+"Smooth Point" = "平滑点";
+
+/* No comment provided by engineer. */
 "Smooth textures" = "平滑纹理";
+
+/* No comment provided by engineer. */
+"Smoothen Path" = "平滑路径";
 
 /* Retouch Tools
    Tool */
@@ -2580,12 +3393,18 @@
 /* No comment provided by engineer. */
 "Soft Light" = "柔光";
 
+/* No comment provided by engineer. */
+"Soft Proof with %@" = "利用 %@ 进行软打样";
+
 /* Retouch Tools
    Tool */
 "Soften" = "柔化";
 
 /* No comment provided by engineer. */
 "Softness" = "柔和度";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "%@ 需要的一些关键资源无法使用，可能是由于磁盘可用空间不足或操作系统错误引起的。";
 
 /* No comment provided by engineer. */
 "Some of the selected images could not be processed." = "未能处理某些选定的图像。";
@@ -2610,6 +3429,12 @@
 
 /* No comment provided by engineer. */
 "Source Out" = "源在外部";
+
+/* No comment provided by engineer. */
+"Spacing After" = "后间距";
+
+/* No comment provided by engineer. */
+"Spacing Before" = "前间距";
 
 /* No comment provided by engineer. */
 "SPECIAL OFFERS" = "特殊优惠";
@@ -2639,10 +3464,16 @@
 "Start" = "开始";
 
 /* No comment provided by engineer. */
+"Start Drawing" = "开始绘图";
+
+/* No comment provided by engineer. */
 "Start editing" = "开始编辑";
 
 /* No comment provided by engineer. */
 "Start Free Trial" = "开始免费试用";
+
+/* No comment provided by engineer. */
+"Start Freeform Drawing" = "开始自由形式绘图";
 
 /* No comment provided by engineer. */
 "Start Point" = "起点";
@@ -2669,6 +3500,9 @@
 "Stretch" = "伸缩";
 
 /* No comment provided by engineer. */
+"Strikethrough" = "删除线";
+
+/* No comment provided by engineer. */
 "Stroke" = "描边";
 
 /* No comment provided by engineer. */
@@ -2680,6 +3514,12 @@
 /* No comment provided by engineer. */
 "Stroke Width" = "描边宽度";
 
+/* No comment provided by engineer. */
+"Stroke with Brush" = "用笔刷描边";
+
+/* No comment provided by engineer. */
+"Stroke with Brush…" = "用笔刷描边…";
+
 /* Tool */
 "Style" = "样式";
 
@@ -2690,6 +3530,9 @@
 "Subject" = "对象";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "主题蒙版";
+
+/* No comment provided by engineer. */
 "Subscribe to Photomator" = "Photomator 订阅";
 
 /* No comment provided by engineer. */
@@ -2697,6 +3540,12 @@
 
 /* No comment provided by engineer. */
 "Subtract" = "减";
+
+/* No comment provided by engineer. */
+"Subtract from Shape" = "从形状中减去";
+
+/* No comment provided by engineer. */
+"Subtract Shapes" = "减去形状";
 
 /* Tool */
 "Super Resolution" = "Super Resolution";
@@ -2754,6 +3603,15 @@
 "Text" = "文本";
 
 /* No comment provided by engineer. */
+"Text Change" = "文本更改";
+
+/* No comment provided by engineer. */
+"Text Color" = "文字颜色";
+
+/* No comment provided by engineer. */
+"Text Style" = "文本样式";
+
+/* No comment provided by engineer. */
 "Texture" = "纹理";
 
 /* No comment provided by engineer. */
@@ -2767,6 +3625,21 @@
 
 /* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "已成功导入颜色调整预设。";
+
+/* No comment provided by engineer. */
+"The document couldn’t be opened." = "未能打开文稿。";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible with %@ %@." = "文稿已损坏，或与 %1$@ %2$@ 不兼容。";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible with %@." = "文稿已损坏，或与 %@ 不兼容。";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible." = "文稿已损坏，或格式不兼容。";
+
+/* No comment provided by engineer. */
+"The document “%@” couldn’t be opened." = "未能打开文稿“%@”。";
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "文件浏览器可让您浏览设备上所有的文件。切换至照片浏览器只需点击%@图标并在浏览目录中选择图片。";
@@ -2793,10 +3666,28 @@
 "The image could not be shared to Photomator." = "无法将此图像分享到 Photomator。";
 
 /* No comment provided by engineer. */
+"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "您试图打开的图像有一个 sidecar 文件，但原始图像似乎已被编辑，而且两个文件不同步。您想打开 sidecar 文件还是图片？";
+
+/* No comment provided by engineer. */
+"The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF 格式不支持多个图层和其他附加格式信息。要保存该信息, 请将图像储存为 Pixelmator Pro 文稿。";
+
+/* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "此图像尺寸的最大图层数为 %i";
 
 /* No comment provided by engineer. */
 "The most powerful photo editing app ever designed for a mobile device." = "有史以来为移动设备设计的最强大的照片编辑应用。";
+
+/* No comment provided by engineer. */
+"The operation was cancelled." = "操作已取消。";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because the Photos library asset could not be found." = "无法保存图片，因为无法找到照片库asset。";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because this Photos library asset does not seem to be editable." = "无法保存图片，因为似乎无法编辑该照片库asset。";
+
+/* No comment provided by engineer. */
+"The photo could not be saved due to an error that occurred while exporting the image." = "无法保存图片，因为在导出图像的过程中发生了错误。";
 
 /* No comment provided by engineer. */
 "The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "该预设照片库将会被重置为默认库，并移除您创建的所有预设或集合。此操作无法撤消。";
@@ -2818,6 +3709,15 @@
 
 /* No comment provided by engineer. */
 "The size is too large." = "大小超出限制。";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible with %@ %@." = "文稿“%1$@”已损坏，或与 %2$@ %3$@ 不兼容。";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible with %@." = "文稿“%1$@”已损坏，或与 %2$@ 不兼容。";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible." = "文稿“%@”已损坏，或格式不兼容。";
 
 /* Image save error */
 "There is not enough available storage to save your image to this location. Would you like to save it somewhere else?" = "没有足够的可用存储空间将图像保存到该位置。您想保存到其他位置吗？";
@@ -2841,6 +3741,12 @@
 "This format isn’t currently supported." = "此格式目前不被支持。";
 
 /* No comment provided by engineer. */
+"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "此图像有一个与之关联的 Pixelmator Pro sidecar 文件，但该文件无法打开。原始图像文件将被打开。";
+
+/* No comment provided by engineer. */
+"This image has been modified by another application." = "此图像已被另一个应用程序修改。";
+
+/* No comment provided by engineer. */
 "This image has too many layers to be opened on this device." = "此图像有太多图层，无法在此设备上打开。";
 
 /* No comment provided by engineer. */
@@ -2848,6 +3754,12 @@
 
 /* No comment provided by engineer. */
 "This image is too large to be opened on this device." = "此图像过大，无法在此设备上打开。";
+
+/* No comment provided by engineer. */
+"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "此图像有一个与之关联的 Pixelmator Pro sidecar 文件，但该文件无法找到。原始图像文件将被打开。";
+
+/* No comment provided by engineer. */
+"This photo is too large." = "该图片太大";
 
 /* No comment provided by engineer. */
 "This Photo was edited and not synced. Continue editing?" = "此照片已被编辑且尚未同步。继续编辑吗？";
@@ -2898,10 +3810,13 @@
 "to" = "到";
 
 /* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "为避免发生问题，请保存任何尚未保存的内容，然后尝试释放部分存储空间或重新启动 Mac。";
+
+/* No comment provided by engineer. */
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "要开始批量编辑照片，请先轻按右上角的“选择”。 然后，选择多张照片并轻按工具栏中的“批量”。 最后，选择已存在的批量工作流程或创建自己的工作流程，然后点击“应用”。";
 
 /* No comment provided by engineer. */
-"To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "如需编辑照片的特定区域，您可以使用 AI 快速选取区域。请轻按“颜色调整”面板顶部的“+”，然后选择您想要选取的区域。如要查看全部已添加的图层，请轻按顶部的“图像图层”。";
+"To edit specific areas of a photo, you can quickly select them using AI. Tap %@ at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "您可用 AI 快速选择照片的指定区域并编辑。点击调色盘顶部的%@，然后选择区域。点击顶部的图像图层以查看所有添加的图层。";
 
 /* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "要购买 Photomator，您需要连接到互联网。您可以在”设置”应用中查看详情，然后再试一次。";
@@ -2911,6 +3826,9 @@
 
 /* No comment provided by engineer. */
 "To use this feature, you’ll need to purchase unlimited access to Photomator, but it looks like you’re offline. To purchase, you’ll need to go online." = "要使用此功能，你需要购买 Photomator 的无限制使用权，但您目前似乎处于离线状态。如要继续购买，请先连接到互联网。";
+
+/* No comment provided by engineer. */
+"Tolerance: %@" = "公差: %@";
 
 /* No comment provided by engineer. */
 "Tone" = "色调";
@@ -2928,7 +3846,22 @@
 "Touch Size" = "触摸大小";
 
 /* No comment provided by engineer. */
+"Transform" = "转换";
+
+/* No comment provided by engineer. */
+"Transform Path…" = "变换路径…";
+
+/* No comment provided by engineer. */
+"Transform Selection…" = "变换选择…";
+
+/* No comment provided by engineer. */
+"Transform…" = "变换…";
+
+/* No comment provided by engineer. */
 "Transition" = "过渡";
+
+/* No comment provided by engineer. */
+"Trim" = "裁截";
 
 /* Tool */
 "Trim Canvas" = "修剪画布";
@@ -2955,6 +3888,12 @@
 "Unable to apply LUT" = "无法应用 LUT";
 
 /* No comment provided by engineer. */
+"Unable to Apply Smart Deband" = "无法应用智能去色带";
+
+/* No comment provided by engineer. */
+"Unable to Apply Smart HDR" = "无法应用智能 HDR";
+
+/* No comment provided by engineer. */
 "Unable to Check Purchases" = "未能核实购买信息";
 
 /* No comment provided by engineer. */
@@ -2976,6 +3915,9 @@
 "Unable to Open Image" = "无法打开图像";
 
 /* No comment provided by engineer. */
+"Unable to Open Sidecar File" = "无法打开 Sidecar 文件";
+
+/* No comment provided by engineer. */
 "Unable to Process" = "无法处理";
 
 /* No comment provided by engineer. */
@@ -2991,6 +3933,9 @@
 "Unable to Share Image" = "无法共享图像";
 
 /* No comment provided by engineer. */
+"Underline" = "下划线";
+
+/* No comment provided by engineer. */
 "Undo" = "撤销";
 
 /* No comment provided by engineer. */
@@ -3004,6 +3949,9 @@
 
 /* Layer Arrange */
 "Ungroup" = "取消成组";
+
+/* No comment provided by engineer. */
+"Unite Shapes" = "联合形状";
 
 /* Layer */
 "Unlock" = "解锁";
@@ -3022,6 +3970,9 @@
 
 /* %@ stands for non-breaking space */
 "Unlock Photomator%@for%@Mac" = "解锁Mac端%1$@%2$@Photomator";
+
+/* No comment provided by engineer. */
+"Unmute" = "取消静音";
 
 /* No comment provided by engineer. */
 "Unnamed" = "未命名";
@@ -3045,10 +3996,10 @@
 "Untitled Album" = "未命名相簿";
 
 /* No comment provided by engineer. */
-"Untitled layer" = "未命名图层";
+"Untitled Layer" = "未命名图层";
 
 /* No comment provided by engineer. */
-"Untitled Layer" = "未命名图层";
+"Untitled layer" = "未命名图层";
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "未命名图层蒙版";
@@ -3058,6 +4009,9 @@
 
 /* No comment provided by engineer. */
 "Update to iPadOS 17 to access full HDR support." = "升级至 iPadOS 17 以获取全面 HDR 支持。";
+
+/* No comment provided by engineer. */
+"Upgrade" = "升级";
 
 /* No comment provided by engineer. */
 "Upgrade to access the full image editing experience in Photomator." = "升级以体验 Pixelmator 所提供的全部功能。";
@@ -3075,7 +4029,16 @@
 "Use iCloud" = "使用 iCloud";
 
 /* No comment provided by engineer. */
+"Use ITUR-2100 Intermediates" = "使用 ITUR-2100 中间体";
+
+/* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "使用纹理感知算法";
+
+/* No comment provided by engineer. */
+"Version history is not fully supported for images with sidecar files." = "无法完全支持带有 sidecar 文件的图像的版本历史记录。";
+
+/* No comment provided by engineer. */
+"Vertical Alignment" = "垂直对齐";
 
 /* Perspective transform */
 "Vertical Perspective" = "垂直透视";
@@ -3104,11 +4067,17 @@
 /* Stands for Width, up to 3 characters */
 "W:" = "宽:";
 
+/* No comment provided by engineer. */
+"w: %@ h: %@" = "宽: %1$@ 高: %2$@";
+
 /* Tool */
 "Warp" = "变形";
 
 /* No comment provided by engineer. */
 "Watercolor" = "水彩";
+
+/* No comment provided by engineer. */
+"Watermark" = "水印";
 
 /* The name of an image file format. */
 "WebP" = "WebP";
@@ -3171,10 +4140,43 @@
 "Would you like to be notified before your free trial is about to end?" = "您想要在免费试用期结束之前得到通知吗？";
 
 /* No comment provided by engineer. */
+"Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "是否将更改储存到原始的 JPEG/PNG/TIFF 文件或 Pixelmator Pro 文稿？";
+
+/* No comment provided by engineer. */
+"Would you like to upgrade this document?" = "您要升级此文稿吗？";
+
+/* No comment provided by engineer. */
+"x: %@ y: %@, z: %@" = "x: %1$@ y: %2$@, z: %3$@";
+
+/* No comment provided by engineer. */
+"yaw: %@ pitch: %@, roll: %@" = "偏航：%1$@ 俯仰：%2$@ 横滚：%3$@";
+
+/* No comment provided by engineer. */
 "Yellow" = "黄色";
 
 /* Color adjustments */
 "Yellow / Blue" = "黄色/蓝色";
+
+/* No comment provided by engineer. */
+"You can discard the edits to keep your original file unmodified." = "您可以放弃编辑以保留原件不被修改。";
+
+/* No comment provided by engineer. */
+"You can download the latest version from the Mac App Store." = "您可以从 Mac App Store 下载最新版本。";
+
+/* No comment provided by engineer. */
+"You can download the latest version of %@ from the Mac App Store." = "您可以从 Mac App Store 下载最新版本 %@。";
+
+/* No comment provided by engineer. */
+"You can revert to a previous version of your document, however, it will not contain any nondestructive edits." = "您可以恢复到文档的前一个版本，但不包含任何无损编辑。";
+
+/* No comment provided by engineer. */
+"You need a newer version of %@ to open this document." = "您需要新版本 %@ 才能打开此文稿。";
+
+/* No comment provided by engineer. */
+"You need a newer version to open this document." = "您需要新版本才能打开此文稿。";
+
+/* No comment provided by engineer. */
+"You're attempting to open a %@ sidecar document which cannot be edited directly." = "您正在尝试打开一个 %@ sidecar 文档，该文档不能直接编辑。";
 
 /* No comment provided by engineer. */
 "You're Offline" = "您离线了";
@@ -3205,3 +4207,9 @@
 
 /* No comment provided by engineer. */
 "Zoom to Fit" = "缩放至窗口大小";
+
+/* No comment provided by engineer. */
+"Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
+
+/* No comment provided by engineer. */
+"“%@” already exists. Do you want to replace it?" = "“%@”已存在。您要替换它吗？";

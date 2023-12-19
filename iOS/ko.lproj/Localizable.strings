@@ -8,10 +8,16 @@
 "%@ Bytes" = "%@바이트";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "디스크 공간 부족 또는 운영 체제 오류로 인하여 %@에 치명적인 오류가 발생했습니다. 저장 공간을 확보하거나 Mac을 다시 시작하면 도움이 될 수 있습니다.";
+
+/* No comment provided by engineer. */
 "%@ OFF" = "%@ 할인";
 
 /* seconds */
 "%@s" = "%@초";
+
+/* No comment provided by engineer. */
+"%d files already exists. Do you want to replace them?" = "%d개의 파일이 이미 존재합니다. 대치하시겠습니까?";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -33,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "%i Images Selected" = "%i개의 이미지가 선택됨";
+
+/* No comment provided by engineer. */
+"%i Layers" = "%i개의 레이어";
 
 /* No comment provided by engineer. */
 "%i of %i Edits Used" = "%1$i / %2$i 편집 사용됨";
@@ -92,6 +101,9 @@
 "\"%@\" Preset" = "\"%@\" 프리셋";
 
 /* No comment provided by engineer. */
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "%@ 폴더에 동일한 이름의 파일이나 폴더가 이미 존재합니다. 대치하면 현재 내용을 덮어씁니다.";
+
+/* No comment provided by engineer. */
 "ACCENT COLOR" = "강조색";
 
 /* No comment provided by engineer. */
@@ -115,6 +127,9 @@
 /* Edit Menu */
 "Add Group" = "그룹 추가";
 
+/* No comment provided by engineer. */
+"Add Guide" = "안내선 추가";
+
 /* Layer Management */
 "Add Image" = "이미지 추가";
 
@@ -125,13 +140,31 @@
 "Add LUTs From Folder…" = "폴더에서 LUT 추가…";
 
 /* No comment provided by engineer. */
+"Add Mask" = "마스크 추가";
+
+/* No comment provided by engineer. */
+"Add Masked Layer" = "마스킹된 레이어 추가";
+
+/* No comment provided by engineer. */
 "Add Photos" = "사진 추가";
+
+/* No comment provided by engineer. */
+"Add Point" = "포인트 추가";
 
 /* No comment provided by engineer. */
 "Add Raw Layer" = "원시 레이어 추가";
 
+/* No comment provided by engineer. */
+"Add Shadow" = "그림자 추가";
+
+/* No comment provided by engineer. */
+"Add Slice" = "슬라이스 추가";
+
 /* Layer Management */
 "Add Text" = "텍스트 추가";
+
+/* No comment provided by engineer. */
+"Add to Shape" = "도형에 추가";
 
 /* Tool */
 "Adjust Colors" = "색상 조정";
@@ -141,6 +174,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Intensity" = "강도 조정";
+
+/* No comment provided by engineer. */
+"Adjust Light Position" = "광원 위치 조정";
 
 /* Shape line start or end */
 "Adjust the endpoint size." = "끝점의 크기를 조정합니다.";
@@ -170,6 +206,27 @@
 "Align" = "정렬";
 
 /* No comment provided by engineer. */
+"Align Bottom Edges" = "아래 가장자리 맞춤";
+
+/* No comment provided by engineer. */
+"Align Horizontal Centers" = "가로 가운데 맞춤";
+
+/* No comment provided by engineer. */
+"Align Left Edges" = "왼쪽 가장자리 맞춤";
+
+/* No comment provided by engineer. */
+"Align Right Edges" = "오른쪽 가장자리 맞춤";
+
+/* No comment provided by engineer. */
+"Align to Pixel Grid" = "픽셀 그리드에 맞춤";
+
+/* No comment provided by engineer. */
+"Align Top Edges" = "위 가장자리 맞춤";
+
+/* No comment provided by engineer. */
+"Align Vertical Centers" = "세로 가운데 맞춤";
+
+/* No comment provided by engineer. */
 "All Albums" = "모든 앨범";
 
 /* No comment provided by engineer. */
@@ -194,7 +251,16 @@
 "Ambient Light" = "주변 광원";
 
 /* No comment provided by engineer. */
+"An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "오류가 발생했습니다. 이 이미지의 사이드카 파일에 변경 사항을 저장하지 못했습니다.\n\n최근 레이어 및 다른 비파괴적 편집 내용을 보존하려면 Pixelmator Pro 형식으로 이미지를 내보내시기 바랍니다.";
+
+/* No comment provided by engineer. */
 "An Error Occurred" = "오류가 발생했습니다";
+
+/* No comment provided by engineer. */
+"An error occurred while saving the sidecar file for this asset." = "이 에셋의 사이드카 파일을 저장하는 동안 오류가 발생했습니다.";
+
+/* No comment provided by engineer. */
+"An error occurred while saving to the Photos library. Error code: %d" = "사진 보관함에 저장하는 도중 오류가 발생했습니다. 오류 코드: %d";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "알 수 없는 오류가 발생했습니다.";
@@ -209,6 +275,9 @@
 "Angle Scatter" = "각도 분산";
 
 /* No comment provided by engineer. */
+"Angle: %@" = "각도: %@";
+
+/* No comment provided by engineer. */
 "App Settings" = "앱 설정";
 
 /* No comment provided by engineer. */
@@ -221,7 +290,13 @@
 "Apply LUT" = "LUT 적용";
 
 /* No comment provided by engineer. */
+"Apply Watermark" = "워터마크 적용";
+
+/* No comment provided by engineer. */
 "Applying %@" = "%@ 적용 중";
+
+/* No comment provided by engineer. */
+"Are you sure you want to modify the document in place?" = "해당 문서를 적절하게 수정하시겠습니까?";
 
 /* Layer Arrange
    Tool */
@@ -243,6 +318,9 @@
 "Aspect Ratio" = "영상비";
 
 /* No comment provided by engineer. */
+"Attempting to Open %@ Sidecar Document" = "%@ 사이드카 문서를 여는 중";
+
+/* No comment provided by engineer. */
 "Auto" = "자동";
 
 /* No comment provided by engineer. */
@@ -258,6 +336,21 @@
 "Auto Enhance" = "자동 향상";
 
 /* No comment provided by engineer. */
+"Auto Select" = "자동 선택";
+
+/* No comment provided by engineer. */
+"Auto Select Off" = "자동 선택 끔";
+
+/* No comment provided by engineer. */
+"Auto Select On" = "자동 선택 켬";
+
+/* No comment provided by engineer. */
+"Auto Straighten" = "자동 수평 조절";
+
+/* No comment provided by engineer. */
+"Auto-Center" = "자동 가운데 맞춤";
+
+/* No comment provided by engineer. */
 "Auto-Hide" = "자동 숨기기";
 
 /* No comment provided by engineer. */
@@ -268,6 +361,9 @@
 
 /* The name of an image file format */
 "AVIF" = "AVIF";
+
+/* No comment provided by engineer. */
+"azimuth: %@, elevation: %@" = "방위각: %1$@, 표고: %2$@";
 
 /* No comment provided by engineer. */
 "Background" = "배경";
@@ -282,7 +378,13 @@
 "Balance Adjustment" = "균형 조정";
 
 /* No comment provided by engineer. */
+"Baseline" = "기준선";
+
+/* No comment provided by engineer. */
 "Baseline Exposure" = "기준선 노출";
+
+/* No comment provided by engineer. */
+"Baseline Offset" = "기준선 오프셋";
 
 /* Tool */
 "Basic" = "기본";
@@ -333,6 +435,9 @@
 "BMP" = "BMP";
 
 /* No comment provided by engineer. */
+"Bold" = "볼드체";
+
+/* No comment provided by engineer. */
 "Boost" = "부스트";
 
 /* No comment provided by engineer. */
@@ -343,6 +448,9 @@
 
 /* Color adjustments */
 "Brightness" = "명도";
+
+/* No comment provided by engineer. */
+"Bring Forward" = "앞으로 가져오기";
 
 /* Edit Menu */
 "Bring to Front" = "맨 앞으로 가져오기";
@@ -375,10 +483,16 @@
 "Cancel" = "취소";
 
 /* No comment provided by engineer. */
+"Cancelled" = "취소됨";
+
+/* No comment provided by engineer. */
 "Cannot Create More Layers" = "레이어를 더 생성할 수 없습니다";
 
 /* Tool */
 "Canvas Size" = "캔버스 크기";
+
+/* No comment provided by engineer. */
+"Capitalization" = "대문자로 문장 시작";
 
 /* stroke options - line caps */
 "Caps" = "끝 모양";
@@ -393,10 +507,31 @@
 "Centimeters" = "센티미터";
 
 /* No comment provided by engineer. */
+"Change" = "변경";
+
+/* No comment provided by engineer. */
 "Change Blending Mode" = "혼합 모드 변경";
 
 /* No comment provided by engineer. */
+"Change Capitalization" = "대문자 표시 변경";
+
+/* No comment provided by engineer. */
 "Change Color..." = "색 변경...";
+
+/* No comment provided by engineer. */
+"Change End Behavior" = "종료 동작 변경";
+
+/* No comment provided by engineer. */
+"Change Perspective" = "투시도 변경";
+
+/* No comment provided by engineer. */
+"Change Shape" = "도형 변경";
+
+/* No comment provided by engineer. */
+"Change Start Behavior" = "시작 동작 변경";
+
+/* Shown as a subtitle when an image has an associated sidecar document, in which layers and other nondestructive edits are saved and tracked. */
+"Changes Tracked in Sidecar" = "사이드카에서 변경 내용이 추적됨";
 
 /* No comment provided by engineer. */
 "Channel" = "채널";
@@ -404,8 +539,14 @@
 /* No comment provided by engineer. */
 "Channel Mixer" = "채널 믹서";
 
+/* No comment provided by engineer. */
+"Character Spacing" = "글자 간격";
+
 /* Image open error */
 "Check your internet connection, then try again." = "인터넷 연결 상태를 확인하신 후 다시 시도하세요.";
+
+/* No comment provided by engineer. */
+"Choose Image…" = "이미지 선택…";
 
 /* No comment provided by engineer. */
 "Choose Location" = "위치 선택";
@@ -440,12 +581,30 @@
 /* No comment provided by engineer. */
 "Clarity Shadows" = "명료도 암부";
 
+/* No comment provided by engineer. */
+"Clear Guides" = "안내선 지우기";
+
+/* No comment provided by engineer. */
+"Clear Mask" = "마스크 지우기";
+
+/* No comment provided by engineer. */
+"Clear Selection" = "선택 영역 지우기";
+
+/* No comment provided by engineer. */
+"Clear Slices" = "슬라이스 지우기";
+
 /* Retouch Tools
    Tool */
 "Clone" = "복제";
 
+/* No comment provided by engineer. */
+"Close Path" = "경로 닫기";
+
 /* Units */
 "cm" = "cm";
+
+/* No comment provided by engineer. */
+"CMYK Profiles" = "CMYK 프로필";
 
 /* Tool */
 "Color" = "색상";
@@ -482,10 +641,16 @@
 "Color Range Layer" = "색상 범위 레이어";
 
 /* No comment provided by engineer. */
+"Color Selection" = "색상 선택";
+
+/* No comment provided by engineer. */
 "Color Wheels" = "색상 원판";
 
 /* No comment provided by engineer. */
 "Colors" = "색상";
+
+/* No comment provided by engineer. */
+"Common Profiles" = "일반 프로필";
 
 /* No comment provided by engineer. */
 "Compatible with the new iPad Pro" = "새로운 iPad Pro와 호환";
@@ -509,6 +674,12 @@
 "Convert Into Adjustments" = "조정으로 변환";
 
 /* No comment provided by engineer. */
+"Convert into Pixels" = "픽셀로 변환";
+
+/* No comment provided by engineer. */
+"Convert into Shape" = "도형으로 변환";
+
+/* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "LUT를 조정으로 변환";
 
 /* No comment provided by engineer. */
@@ -520,17 +691,26 @@
 /* No comment provided by engineer. */
 "Converting to HDR…" = "HDR로 변환하는 중…";
 
-/* Used in gallery document duplicate. */
-"copy" = "복사본";
-
 /* Edit Menu */
 "Copy" = "복사";
+
+/* Used in gallery document duplicate. */
+"copy" = "복사본";
 
 /* No comment provided by engineer. */
 "Copy Adjustments" = "조정 복사";
 
+/* No comment provided by engineer. */
+"Copy and Paste as Layer" = "복사 및 레이어로 붙이기";
+
 /* Layer Management */
 "Copy Layer" = "레이어 복사";
+
+/* No comment provided by engineer. */
+"Copy Merged" = "병합 항목 복사";
+
+/* No comment provided by engineer. */
+"Copy ML Decontaminated Selection" = "Copy ML Decontaminated Selection";
 
 /* No comment provided by engineer. */
 "Copy Saved to Photos" = "사진에 복사본이 저장되었습니다";
@@ -544,11 +724,20 @@
 /* stroke options - line join style */
 "Corner" = "모서리";
 
+/* No comment provided by engineer. */
+"Corner Radius" = "모퉁이 반경";
+
+/* No comment provided by engineer. */
+"Corner Radius Setting" = "모서리 반경 설정";
+
 /* Tool */
 "Crayon" = "크레용";
 
 /* No comment provided by engineer. */
 "Create Album with Selected Photos" = "선택한 사진으로 앨범 만들기";
+
+/* No comment provided by engineer. */
+"Create Clipping Mask" = "클리핑 마스크 생성";
 
 /* Gallery */
 "Create Image" = "이미지 생성";
@@ -562,8 +751,14 @@
 /* No comment provided by engineer. */
 "Creation Date" = "생성일";
 
+/* No comment provided by engineer. */
+"Critical Resources Unavailable" = "중요한 리소스를 사용할 수 없음";
+
 /* Tool */
 "Crop" = "자르기";
+
+/* No comment provided by engineer. */
+"Crop…" = "자르기…";
 
 /* No comment provided by engineer. */
 "Current" = "현재";
@@ -589,6 +784,9 @@
 
 /* Edit Menu */
 "Cut" = "오려두기";
+
+/* No comment provided by engineer. */
+"Cut and Paste as Layer" = "오려두기 및 레이어로 붙이기";
 
 /* Layer Management */
 "Cut Layer" = "레이어 자르기";
@@ -625,10 +823,22 @@
 "Debanding…" = "밴드 제거 중…";
 
 /* No comment provided by engineer. */
+"Decontaminate Colors" = "색상 정화";
+
+/* No comment provided by engineer. */
+"Decontaminate Selection" = "선택 영역 정화";
+
+/* No comment provided by engineer. */
+"Decontaminating Colors…" = "색상 정화…";
+
+/* No comment provided by engineer. */
 "Decontaminating colors…" = "색상 정화…";
 
 /* No comment provided by engineer. */
 "Default" = "기본";
+
+/* No comment provided by engineer. */
+"Default Baseline" = "기본 기준선";
 
 /* No comment provided by engineer. */
 "Dehaze" = "안개 제거";
@@ -649,10 +859,22 @@
 "Delete Layer" = "레이어 삭제";
 
 /* No comment provided by engineer. */
+"Delete Layers" = "레이어 삭제";
+
+/* No comment provided by engineer. */
 "Delete Linked File" = "링크된 파일 삭제";
+
+/* No comment provided by engineer. */
+"Delete Path" = "경로 삭제";
 
 /* Edit Menu */
 "Delete Preset" = "프리셋 삭제";
+
+/* No comment provided by engineer. */
+"Delete Slice" = "슬라이스 삭제";
+
+/* No comment provided by engineer. */
+"Delete Slices" = "슬라이스 삭제";
 
 /* Tool */
 "Denoise" = "노이즈 제거";
@@ -672,6 +894,9 @@
 /* Retouch Tools
    Tool */
 "Desaturate" = "흐리기";
+
+/* No comment provided by engineer. */
+"Deselect" = "선택 취소";
 
 /* No comment provided by engineer. */
 "Deselect All" = "모두 삭제 취소";
@@ -698,10 +923,13 @@
 "Details" = "세부 사항";
 
 /* No comment provided by engineer. */
-"Detecting sky…" = "하늘 탐색 중…";
+"Detecting background…" = "배경 탐색 중…";
 
 /* No comment provided by engineer. */
 "Detecting Sky…" = "하늘 탐색 중…";
+
+/* No comment provided by engineer. */
+"Detecting sky…" = "하늘 탐색 중…";
 
 /* No comment provided by engineer. */
 "Detecting subject…" = "대상 감지 중…";
@@ -751,17 +979,59 @@
 /* No comment provided by engineer. */
 "Distance" = "거리";
 
+/* No comment provided by engineer. */
+"Distort" = "왜곡";
+
+/* No comment provided by engineer. */
+"Distort Transform" = "변형 왜곡";
+
 /* Effects category name */
 "Distortion" = "왜곡";
 
 /* No comment provided by engineer. */
+"Distribute Bottom Edges" = "아래 가장자리 균등 맞춤";
+
+/* No comment provided by engineer. */
+"Distribute Horizontal Centers" = "가로 가운데 균등 맞춤";
+
+/* No comment provided by engineer. */
+"Distribute Horizontal Spacing" = "가로 간격 균등 맞춤";
+
+/* No comment provided by engineer. */
+"Distribute Left Edges" = "왼쪽 가장자리 균등 맞춤";
+
+/* No comment provided by engineer. */
+"Distribute Right Edges" = "오른쪽 가장자리 균등 맞춤";
+
+/* No comment provided by engineer. */
+"Distribute Top Edges" = "위 가장자리 균등 맞춤";
+
+/* No comment provided by engineer. */
+"Distribute Vertical Centers" = "세로 가운데 균등 맞춤";
+
+/* No comment provided by engineer. */
+"Distribute Vertical Spacing" = "세로 간격 균등 맞춤";
+
+/* No comment provided by engineer. */
 "Divide" = "나누기";
+
+/* No comment provided by engineer. */
+"Divide Path" = "경로 나누기";
+
+/* No comment provided by engineer. */
+"Do you want to save the changes made to the document “%@”" = "\"%@” 문서의 변경 사항을 저장하겠습니까?";
+
+/* No comment provided by engineer. */
+"Document Quick Save for Web" = "웹용 문서 빠른 저장";
 
 /* No comment provided by engineer. */
 "Don't limit yourself" = "자신의 한계를 제한하지 마세요";
 
 /* No comment provided by engineer. */
 "Don't Move" = "이동하지 않음";
+
+/* No comment provided by engineer. */
+"Don't Save" = "저장하지 않음";
 
 /* No comment provided by engineer. */
 "Done" = "완료";
@@ -826,6 +1096,12 @@
 /* No comment provided by engineer. */
 "Draw on canvas to subtract from a mask." = "캔버스를 칠하여 마스크를 지웁니다.";
 
+/* No comment provided by engineer. */
+"Draw Path" = "경로 그리기";
+
+/* No comment provided by engineer. */
+"Draw Slice" = "슬라이스 그리기";
+
 /* Edit Menu */
 "Duplicate" = "복제";
 
@@ -852,6 +1128,9 @@
 
 /* No comment provided by engineer. */
 "Edit 1 Photo" = "1장의 사진 편집";
+
+/* No comment provided by engineer. */
+"Edit a Copy" = "복사본 편집";
 
 /* No comment provided by engineer. */
 "Edit Details" = "세부 정보 편집";
@@ -910,6 +1189,9 @@
 
 /* Tool */
 "Elliptical" = "타원형";
+
+/* No comment provided by engineer. */
+"Elliptical Selection" = "타원형 선택";
 
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "타원형 말 풍선";
@@ -984,13 +1266,28 @@
 "Erase" = "지우기";
 
 /* No comment provided by engineer. */
+"Error:" = "오류:";
+
+/* No comment provided by engineer. */
+"Exclude from Shape" = "도형에서 제외";
+
+/* No comment provided by engineer. */
+"Exclude Shapes" = "도형 제외";
+
+/* No comment provided by engineer. */
 "Exclusion" = "제외";
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "배타적 논리합";
 
 /* No comment provided by engineer. */
+"Exit Editing" = "편집 종료";
+
+/* No comment provided by engineer. */
 "Exit Select Mode" = "선택 모드에서 나가기";
+
+/* No comment provided by engineer. */
+"Expand" = "확장";
 
 /* No comment provided by engineer. */
 "Export" = "내보내기";
@@ -1002,10 +1299,37 @@
 "Export as LUT" = "LUT로 내보내기";
 
 /* No comment provided by engineer. */
+"Export Document as Images" = "이미지로 문서 내보내기";
+
+/* No comment provided by engineer. */
+"Export for Web" = "웹용으로 내보내기";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"" = "\"%@\" 슬라이스 내보내기";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"…" = "\"%@\" 슬라이스 내보내기…";
+
+/* No comment provided by engineer. */
+"Export Slices as Images" = "이미지로 슬라이스 내보내기";
+
+/* No comment provided by engineer. */
+"Export Slice…" = "슬라이스 내보내기…";
+
+/* No comment provided by engineer. */
 "Exporting LUT…" = "LUT 내보내는 중…";
 
 /* No comment provided by engineer. */
+"Exporting…" = "내보내는 중…";
+
+/* No comment provided by engineer. */
+"Export…" = "내보내기…";
+
+/* No comment provided by engineer. */
 "Exposure" = "노출";
+
+/* No comment provided by engineer. */
+"Extended" = "확장된";
 
 /* No comment provided by engineer. */
 "Extended Values" = "확장 값";
@@ -1022,8 +1346,23 @@
 /* File size */
 "Failed to calculate size." = "크기를 계산하지 못했습니다.";
 
+/* No comment provided by engineer. */
+"Failed to export document images." = "문서 이미지를 내보내지 못했습니다.";
+
+/* No comment provided by engineer. */
+"Failed to export slice \"%@\"." = "\"%@\" 슬라이스를 내보내지 못했습니다.";
+
+/* No comment provided by engineer. */
+"Failed to export slices." = "슬라이스를 내보내지 못했습니다.";
+
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "한 개 이상의 확장 속성 값을 가져오는 데 실패했습니다";
+
+/* No comment provided by engineer. */
+"Failed to Save Sidecar File" = "사이드카 파일을 저장하지 못했습니다";
+
+/* No comment provided by engineer. */
+"Failed to Save to Photos" = "사진을 저장하지 못했습니다";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "한 개 이상의 확장 속성을 설정하는 데 실패했습니다";
@@ -1049,14 +1388,38 @@
 /* No comment provided by engineer. */
 "Files browser" = "파일 브라우저";
 
+/* No comment provided by engineer. */
+"Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "%@ 폴더에 동일한 이름의 파일이나 폴더가 이미 존재합니다. 대치하면 현재 내용을 덮어씁니다.";
+
 /* Effects category name */
 "Fill" = "채우기";
+
+/* No comment provided by engineer. */
+"Fill with Background Color" = "배경색으로 채우기";
+
+/* No comment provided by engineer. */
+"Fill with Color…" = "색상으로 채우기…";
+
+/* No comment provided by engineer. */
+"Fill with Foreground Color" = "전경색으로 채우기";
 
 /* No comment provided by engineer. */
 "Filmstrip" = "필름";
 
 /* No comment provided by engineer. */
+"Finish Drawing" = "그리기 완료";
+
+/* No comment provided by engineer. */
+"Finish Selection" = "선택 종료";
+
+/* No comment provided by engineer. */
+"First Line Indent" = "첫 줄 들여쓰기";
+
+/* No comment provided by engineer. */
 "Fit" = "자동";
+
+/* No comment provided by engineer. */
+"Fit Crop" = "자르기에 맞춤";
 
 /* No comment provided by engineer. */
 "Fixed" = "고정";
@@ -1071,10 +1434,25 @@
 "Flip Horizontally" = "좌우로 뒤집기";
 
 /* No comment provided by engineer. */
+"Flip Text Along Path" = "경로를 따라 텍스트 뒤집기";
+
+/* No comment provided by engineer. */
 "Flip Vertically" = "상하로 뒤집기";
+
+/* No comment provided by engineer. */
+"Flood Fill" = "영역 안 채우기";
+
+/* No comment provided by engineer. */
+"Font Change" = "글꼴 변경";
+
+/* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
+"Format:" = "포맷:";
 
 /* Tool */
 "Free" = "여유 공간";
+
+/* No comment provided by engineer. */
+"Free Selection" = "자유 선택";
 
 /* No comment provided by engineer. */
 "Free Trial Ends in 2 Days" = "2일 후 무료 체험이 종료됩니다";
@@ -1107,19 +1485,19 @@
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "사진의 스타일을 보정, 향상 또는 완전히 변형하는 데 사용할 수 있는 도구들을 빠르게 살펴보세요.";
 
 /* No comment provided by engineer. */
-"Get Unlimited Access" = "무제한 액세스 취득";
+"Get unlimited access" = "무제한 액세스 취득";
 
 /* No comment provided by engineer. */
-"Get unlimited access" = "무제한 액세스 취득";
+"Get Unlimited Access" = "무제한 액세스 취득";
 
 /* No comment provided by engineer. */
 "Get unlimited access." = "무제한 액세스 취득.";
 
 /* No comment provided by engineer. */
-"Getting started" = "시작하기";
+"Getting Started" = "시작하기";
 
 /* No comment provided by engineer. */
-"Getting Started" = "시작하기";
+"Getting started" = "시작하기";
 
 /* The name of an image file format. */
 "GIF" = "GIF";
@@ -1135,6 +1513,9 @@
 
 /* No comment provided by engineer. */
 "Gradient Angle" = "그라디언트 각도";
+
+/* No comment provided by engineer. */
+"Gradient Change" = "그라디언트 변경";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "그라디언트 채우기";
@@ -1159,6 +1540,9 @@
 
 /* No comment provided by engineer. */
 "Gray - White" = "회색 - 흰색";
+
+/* No comment provided by engineer. */
+"Gray Profiles" = "회색 프로필";
 
 /* No comment provided by engineer. */
 "Green" = "녹색";
@@ -1213,10 +1597,22 @@
 "Hide" = "가리기";
 
 /* No comment provided by engineer. */
+"Hide Grid" = "눈금 가리기";
+
+/* No comment provided by engineer. */
+"Hide Handles" = "핸들 숨기기";
+
+/* No comment provided by engineer. */
 "Hide Histogram" = "히스토그램 숨기기";
 
 /* Layer */
 "Hide Layer" = "레이어 숨기기";
+
+/* No comment provided by engineer. */
+"Hide Optimized Preview" = "최적화된 미리 보기 숨기기";
+
+/* No comment provided by engineer. */
+"Hide Shape Outline" = "도형 윤곽선 숨기기";
 
 /* No comment provided by engineer. */
 "High Pass Radius" = "하이 패스 반경";
@@ -1229,6 +1625,9 @@
 
 /* No comment provided by engineer. */
 "Holiday Sale" = "홀리데이 세일";
+
+/* No comment provided by engineer. */
+"Horizontal Alignment" = "가로 맞춤";
 
 /* Perspective transform */
 "Horizontal Perspective" = "수평 투시도";
@@ -1278,8 +1677,14 @@
 /* Tool */
 "Image Size" = "이미지 크기";
 
+/* No comment provided by engineer. */
+"Image Straightened by %@" = "%@에 의해 수평 조절된 이미지";
+
 /* Edit Menu */
 "Import" = "가져오기";
+
+/* No comment provided by engineer. */
+"Import as New Document" = "새 문서로 가져오기";
 
 /* No comment provided by engineer. */
 "Import Photo" = "사진 가져오기";
@@ -1328,6 +1733,12 @@
 "Increasing Resolution…" = "해상도를 올리는 중…";
 
 /* No comment provided by engineer. */
+"Increasing resolution…" = "해상도를 올리는 중…";
+
+/* No comment provided by engineer. */
+"Initial Crop" = "초기 자르기";
+
+/* No comment provided by engineer. */
 "Initial Direction" = "최초 방향";
 
 /* Tool */
@@ -1338,6 +1749,15 @@
 
 /* No comment provided by engineer. */
 "Insert from..." = "다음에서 삽입…";
+
+/* No comment provided by engineer. */
+"Insert Point" = "포인트 삽입";
+
+/* No comment provided by engineer. */
+"Inserting…" = "삽입 중…";
+
+/* No comment provided by engineer. */
+"Insets" = "여백";
 
 /* No comment provided by engineer. */
 "Instantly adjust the colors of images using color presets created in other apps." = "다른 앱에서 생성된 색상 프리셋을 사용하여 이미지의 색상을 즉시 조정합니다.";
@@ -1352,7 +1772,22 @@
 "Intersect" = "교차";
 
 /* No comment provided by engineer. */
+"Intersect Shapes" = "도형 교차";
+
+/* No comment provided by engineer. */
+"Intersect with Shape" = "도형과 교차";
+
+/* No comment provided by engineer. */
 "Invert" = "반전";
+
+/* No comment provided by engineer. */
+"Invert Colors" = "색상 반전";
+
+/* No comment provided by engineer. */
+"Invert Mask" = "마스크 반전";
+
+/* No comment provided by engineer. */
+"Invert Selection" = "선택 영역 반전";
 
 /* No comment provided by engineer. */
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "Photomator 구독이 유효하지 않은 것으로 나타납니다. 다음과 같은 원인으로 인해 이러한 상황이 발생할 수 있습니다.\n\n1. 다른 Apple ID로 App Store에 로그인한 경우\n2. 구독이 만료된 경우\n\nApp Store에서 해당 사항을 확인하신 후 다시 시도하시기 바랍니다.";
@@ -1361,10 +1796,22 @@
 "It is not possible to save your image to this location. Would you like to save it somewhere else?" = "이미지를 이 위치에 저장할 수 없습니다. 다른 곳에 저장하시겠습니까?";
 
 /* No comment provided by engineer. */
+"It looks like “%@” was moved or renamed while it was open. Please quit and relaunch the application." = "“%@”이(가) 열려 있는 동안 이동되거나 이름이 변경된 것 같습니다. 응용 프로그램을 종료하고 다시 실행하세요.";
+
+/* No comment provided by engineer. */
 "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "이미 Photomator에 대한 무제한 액세스를 보유하고 있으므로 별도의 비용이 청구되지 않습니다. 앱과 함께 즐거운 시간 보내시기 바랍니다!";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "원본 사진이 더 이상 그곳에 없는 것 같습니다.";
+
+/* No comment provided by engineer. */
+"It was last edited in an older version of Pixelmator. Upgrading will convert it to the new Pixelmator format. To preserve the original and work on a copy, click Edit a Copy." = "이전 버전의 Pixelmator에서 마지막으로 편집되었습니다. 업그레이드하면 새로운 Pixelmator 포맷으로 변환됩니다. 원본을 보존하고 복사본으로 작업하려면 복사본 편집을 클릭하세요.";
+
+/* No comment provided by engineer. */
+"Italic" = "기울임꼴";
+
+/* Command name to join two different shape paths. */
+"Join" = "연결";
 
 /* The name of an image file format. */
 "JPEG" = "JPEG";
@@ -1376,6 +1823,9 @@
 "JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
+"Lasso Selection" = "올가미 선택";
+
+/* No comment provided by engineer. */
 "Last Adjustments" = "마지막 조정";
 
 /* Default new layer name */
@@ -1383,6 +1833,9 @@
 
 /* No comment provided by engineer. */
 "Layer Mask" = "레이어 마스크";
+
+/* No comment provided by engineer. */
+"Layer Selection" = "레이어 선택";
 
 /* No comment provided by engineer. */
 "Layer was flattened" = "레이어가 병합되었습니다";
@@ -1394,7 +1847,13 @@
 "Learn More" = "더 알아보기";
 
 /* No comment provided by engineer. */
+"Learn More…" = "더 알아보기…";
+
+/* No comment provided by engineer. */
 "Left" = "왼쪽";
+
+/* No comment provided by engineer. */
+"Left Indent" = "왼쪽 들여쓰기";
 
 /* No comment provided by engineer. */
 "Lens Correction" = "렌즈 보정";
@@ -1404,6 +1863,9 @@
 
 /* No comment provided by engineer. */
 "License" = "라이선스";
+
+/* No comment provided by engineer. */
+"Ligature" = "합자";
 
 /* No comment provided by engineer. */
 "Light" = "밝음";
@@ -1443,6 +1905,9 @@
 "Line" = "선";
 
 /* No comment provided by engineer. */
+"Line Height" = "줄 높이";
+
+/* No comment provided by engineer. */
 "Linear" = "선형";
 
 /* No comment provided by engineer. */
@@ -1474,6 +1939,9 @@
 
 /* No comment provided by engineer. */
 "Load SDR Content" = "SDR 콘텐츠 불러오기";
+
+/* No comment provided by engineer. */
+"Load Selection" = "선택 영역 로드";
 
 /* Document loading */
 "Loading…" = "로드 중…";
@@ -1530,6 +1998,21 @@
 "Magnetic" = "자석";
 
 /* No comment provided by engineer. */
+"Magnetic Selection" = "자석 선택";
+
+/* No comment provided by engineer. */
+"Make Editable" = "편집 가능하게 만듬";
+
+/* No comment provided by engineer. */
+"Make Path Editable" = "경로를 편집 가능하게 만듬";
+
+/* No comment provided by engineer. */
+"Make Sharp Point" = "포인트를 선명하게";
+
+/* No comment provided by engineer. */
+"Make Smooth Point" = "포인트를 부드럽게 함";
+
+/* No comment provided by engineer. */
 "Make your shots stand out with over 30 powerful, nondestructive color adjustments." = "30개가 넘는 비파괴 방식의 강력한 색상 조정으로 여러분의 사진을 더욱 돋보이게 만드세요.";
 
 /* No comment provided by engineer. */
@@ -1544,6 +2027,9 @@
 /* Tool */
 "Mask" = "마스크";
 
+/* No comment provided by engineer. */
+"Mask Subject" = "마스크 대상";
+
 /* Color Balance */
 "Master" = "마스터";
 
@@ -1552,6 +2038,9 @@
 
 /* No comment provided by engineer. */
 "Match Colors" = "색상 일치";
+
+/* No comment provided by engineer. */
+"Matching colors…" = "색상 일치 중…";
 
 /* No comment provided by engineer. */
 "Matching Colors…" = "색상 일치 중…";
@@ -1566,7 +2055,16 @@
 "Medium Gray (Default)" = "중간 회색 (기본)";
 
 /* No comment provided by engineer. */
+"Merge" = "병합";
+
+/* No comment provided by engineer. */
+"Merge All" = "모두 병합";
+
+/* No comment provided by engineer. */
 "Merge brush marks" = "브러시 마크 병합";
+
+/* No comment provided by engineer. */
+"Merge Shape Components" = "도형 구성 요소 병합";
 
 /* Color Balance */
 "Midtones" = "중간 색조";
@@ -1580,11 +2078,20 @@
 /* No comment provided by engineer. */
 "ML Crop" = "ML 자르기";
 
+/* No comment provided by engineer. */
+"ML Decontaminate Selection" = "ML Decontaminate Selection";
+
+/* No comment provided by engineer. */
+"ML Refine Mask" = "ML Refine Mask";
+
 /* Units */
 "mm" = "mm";
 
 /* No comment provided by engineer. */
 "Modification Date" = "수정일";
+
+/* No comment provided by engineer. */
+"Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "해당 문서를 적절하게 수정하면 현재 포맷의 일부가 유실될 수 있습니다. 먼저 문서를 복제하시겠습니까?";
 
 /* No comment provided by engineer. */
 "More" = "더 보기";
@@ -1616,14 +2123,29 @@
 /* No comment provided by engineer. */
 "Move Gradient" = "그라데이션 이동";
 
+/* No comment provided by engineer. */
+"Move Guide" = "안내선 이동";
+
 /* Edit Menu */
 "Move Left" = "왼쪽으로 이동";
+
+/* No comment provided by engineer. */
+"Move Point" = "포인트 이동";
 
 /* Edit Menu */
 "Move Right" = "오른쪽으로 이동";
 
 /* No comment provided by engineer. */
+"Move Slices" = "슬라이스 이동";
+
+/* No comment provided by engineer. */
 "Move Up" = "위로 이동";
+
+/* No comment provided by engineer. */
+"Moved" = "Moved";
+
+/* No comment provided by engineer. */
+"Moved Object" = "Moved Object";
 
 /* Edit Menu */
 "Move…" = "이동…";
@@ -1641,6 +2163,9 @@
 "Mustache" = "콧수염";
 
 /* No comment provided by engineer. */
+"Mute" = "소리 끔";
+
+/* No comment provided by engineer. */
 "My Albums" = "내 앨범";
 
 /* No comment provided by engineer. */
@@ -1650,10 +2175,19 @@
 "New Album with Selection" = "선택 항목이 있는 새로운 앨범";
 
 /* No comment provided by engineer. */
+"New Color Adjustments Layer" = "새 색상 조정 레이어";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "새 효과 레이어";
+
+/* No comment provided by engineer. */
 "New Folder" = "새 폴더";
 
 /* No comment provided by engineer. */
 "New Layer" = "새 레이어";
+
+/* No comment provided by engineer. */
+"New Shape" = "새 도형";
 
 /* No comment provided by engineer. */
 "Newest to Oldest" = "최신부터 오래된 순으로";
@@ -1678,6 +2212,12 @@
 
 /* No comment provided by engineer. */
 "No commitment, cancel anytime." = "약정 없음, 언제든지 취소 가능.";
+
+/* No comment provided by engineer. */
+"No Horizon Detected" = "발견된 지평선 없음";
+
+/* No comment provided by engineer. */
+"No Layer Selected" = "선택한 레이어 없음";
 
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "렌즈 정보 없음";
@@ -1716,6 +2256,9 @@
 "Now you can download Photomator%@for%@Mac from the Mac App Store and enjoy full access to all its features." = "이제 Mac App Store에서 Mac용%1$@Photomator를 즉시 다운로드%2$@하고 모든 기능을 자유롭게 누릴 수 있습니다.";
 
 /* No comment provided by engineer. */
+"Offset" = "오프셋";
+
+/* No comment provided by engineer. */
 "OK" = "확인";
 
 /* No comment provided by engineer. */
@@ -1749,10 +2292,22 @@
 "Open App Store" = "App Store 열기";
 
 /* No comment provided by engineer. */
+"Open Image" = "이미지 열기";
+
+/* No comment provided by engineer. */
+"Open Original Image" = "원본 이미지 열기";
+
+/* No comment provided by engineer. */
 "Open RAW by Default" = "기본값으로 RAW 열기";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "사이드카 열기";
 
 /* The name of an image file format */
 "OpenEXR" = "OpenEXR";
+
+/* No comment provided by engineer. */
+"Optimize & Export" = "최적화 및 내보내기";
 
 /* No comment provided by engineer. */
 "Orange" = "주황";
@@ -1779,6 +2334,9 @@
 "OTHER" = "기타";
 
 /* No comment provided by engineer. */
+"Outline" = "윤곽선";
+
+/* No comment provided by engineer. */
 "Overlay" = "오버레이";
 
 /* No comment provided by engineer. */
@@ -1799,8 +2357,17 @@
 /* No comment provided by engineer. */
 "Paste Adjustments" = "조정 붙이기";
 
+/* No comment provided by engineer. */
+"Paste and Match Colors" = "붙여넣기 및 색상 일치";
+
+/* No comment provided by engineer. */
+"Paste Document Colors" = "문서 색상 붙여넣기";
+
 /* Layer Management */
 "Paste Layer" = "레이어 붙이기";
+
+/* No comment provided by engineer. */
+"Pasting and matching colors…" = "붙여넣기 및 색상 일치 중…";
 
 /* No comment provided by engineer. */
 "Pasting…" = "붙이는 중…";
@@ -1874,6 +2441,9 @@
 /* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop Document" = "Photoshop 문서";
 
+/* No comment provided by engineer. */
+"Photoshop Large" = "Photoshop 큰 문서";
+
 /* Refers to the Adobe Photoshop layered image file format used for large documents. */
 "Photoshop Large Document" = "Photoshop 대용량 문서";
 
@@ -1888,6 +2458,9 @@
 
 /* Tool */
 "Pinch" = "핀치";
+
+/* No comment provided by engineer. */
+"Pixel Paint" = "픽셀 페인트";
 
 /* Tool */
 "Pixel Tool" = "픽셀 도구";
@@ -1931,8 +2504,14 @@
 /* Units */
 "Points" = "포인트";
 
+/* No comment provided by engineer. */
+"Points: %d" = "포인트: %d";
+
 /* Tool */
 "Polygon" = "다각형";
+
+/* No comment provided by engineer. */
+"Polygonal Selection" = "다각형 선택";
 
 /* No comment provided by engineer. */
 "Position" = "위치";
@@ -1982,6 +2561,9 @@
 /* No comment provided by engineer. */
 "Processing…" = "처리 중…";
 
+/* No comment provided by engineer. */
+"Promote to Slice" = "슬라이스로 승격";
+
 /* Raw image type identifier */
 "ProRAW" = "ProRAW";
 
@@ -2003,11 +2585,20 @@
 /* No comment provided by engineer. */
 "Quality" = "품질";
 
+/* Refers to image export quality. */
+"Quality:" = "품질:";
+
 /* Tool */
 "Quick" = "빠른";
 
 /* No comment provided by engineer. */
 "Quick Edits" = "빠른 편집";
+
+/* No comment provided by engineer. */
+"Quick Fill" = "빠른 채우기";
+
+/* No comment provided by engineer. */
+"Quick Selection" = "빠른 선택";
 
 /* No comment provided by engineer. */
 "Quickly change the look and feel of photo using color adjustment presets." = "사진 조정 프리셋을 사용하여 사진의 모양과 느낌을 빠르게 변경하세요.";
@@ -2017,6 +2608,9 @@
 
 /* The name of a video file format. */
 "QuickTime Movie" = "QuickTime 영화";
+
+/* No comment provided by engineer. */
+"Quit Application" = "응용 프로그램 종료";
 
 /* Recents group abbreviation
    Short for RAW Image format */
@@ -2033,6 +2627,9 @@
 
 /* No comment provided by engineer. */
 "Radius" = "반경";
+
+/* No comment provided by engineer. */
+"Radius: %@" = "반경: %@";
 
 /* No comment provided by engineer. */
 "Random" = "임의";
@@ -2067,6 +2664,9 @@
 
 /* Tool */
 "Rectangular" = "직사각형";
+
+/* No comment provided by engineer. */
+"Rectangular Selection" = "직사각형 선택";
 
 /* No comment provided by engineer. */
 "Rectangular Speech Bubble" = "사각형 말 풍선";
@@ -2105,10 +2705,25 @@
 "Refine" = "미세 조정";
 
 /* No comment provided by engineer. */
+"Refine Edge" = "가장자리 조정";
+
+/* No comment provided by engineer. */
+"Refine Mask" = "마스크 조정";
+
+/* No comment provided by engineer. */
+"Refine Selection" = "선택 미세 조정";
+
+/* No comment provided by engineer. */
 "Refining Edges…" = "가장자리 조정 중…";
 
 /* No comment provided by engineer. */
 "Refining edges…" = "가장자리 조정 중…";
+
+/* No comment provided by engineer. */
+"Refining Selection…" = "선택 미세 조정 중…";
+
+/* No comment provided by engineer. */
+"Release Clipping Mask" = "클리핑 마스크 해제";
 
 /* No comment provided by engineer. */
 "Reloading…" = "다시 로드 중…";
@@ -2123,6 +2738,9 @@
 "Remove an existing layer to add a new one." = "새로운 레이어를 추가하려면 기존 레이어를 삭제하세요.";
 
 /* No comment provided by engineer. */
+"Remove Anchor Point" = "앵커 포인트 제거";
+
+/* No comment provided by engineer. */
 "Remove Background" = " 배경 제거";
 
 /* No comment provided by engineer. */
@@ -2135,10 +2753,22 @@
 "Remove from Album" = "앨범에서 제거";
 
 /* No comment provided by engineer. */
+"Remove Guide" = "안내선 제거";
+
+/* No comment provided by engineer. */
+"Remove Layer" = "레이어 제거";
+
+/* No comment provided by engineer. */
 "Remove Mask" = "마스크 제거";
 
 /* No comment provided by engineer. */
 "Remove objects" = "피사체 제거하기";
+
+/* No comment provided by engineer. */
+"Remove Shape Path" = "도형 경로 제거";
+
+/* No comment provided by engineer. */
+"Remove Shape Paths" = "도형 경로 제거";
 
 /* Edit Menu */
 "Rename" = "이름 변경";
@@ -2169,13 +2799,46 @@
 "Repair with Pencil" = "Pencil로 복구";
 
 /* No comment provided by engineer. */
+"Repairing Background" = "Repairing Background";
+
+/* No comment provided by engineer. */
 "Repairing…" = "복구 중…";
+
+/* No comment provided by engineer. */
+"Replace" = "대치";
+
+/* No comment provided by engineer. */
+"Replace All" = "모두 대치";
 
 /* No comment provided by engineer. */
 "Replace Color" = "색상 대치";
 
 /* No comment provided by engineer. */
+"Replace Layer" = "레이어 대체";
+
+/* No comment provided by engineer. */
+"Replace Mask" = "마스크 대치";
+
+/* No comment provided by engineer. */
 "Replace Media" = "미디어 대체";
+
+/* No comment provided by engineer. */
+"Replace Shape" = "도형 대체";
+
+/* No comment provided by engineer. */
+"Replace Shape…" = "도형 대체…";
+
+/* No comment provided by engineer. */
+"Replace Text" = "텍스트 대치";
+
+/* No comment provided by engineer. */
+"Reprocess RAW" = "RAW 다시 처리";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "필요한 리소스를 사용할 수 없음";
+
+/* No comment provided by engineer. */
+"Reselect" = "다시 선택";
 
 /* Edit Menu */
 "Reset" = "재설정";
@@ -2187,10 +2850,16 @@
 "Reset Adjustments" = "조정 재설정";
 
 /* No comment provided by engineer. */
+"Reset Angle" = "각도 재설정";
+
+/* No comment provided by engineer. */
 "Reset Auto Adjust" = "자동 조정 재설정";
 
 /* No comment provided by engineer. */
 "Reset Auto Enhance" = "자동 향상 재설정";
+
+/* No comment provided by engineer. */
+"Reset Auto Straighten" = "자동 수평 조절 재설정";
 
 /* No comment provided by engineer. */
 "Reset Changes" = "변경 사항 재설정";
@@ -2206,6 +2875,9 @@
 
 /* No comment provided by engineer. */
 "Reset Enhance" = "향상 재설정";
+
+/* No comment provided by engineer. */
+"Reset Handles" = "핸들 재설정";
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "수평 투시도 재설정";
@@ -2235,7 +2907,16 @@
 "Reset Vertical Perspective" = "수직 투시도 재설정";
 
 /* No comment provided by engineer. */
+"Resize" = "크기 조정";
+
+/* No comment provided by engineer. */
 "Resize Gradient" = "그라데이션 크기조정";
+
+/* No comment provided by engineer. */
+"Resize Slices" = "슬라이스 크기 조정";
+
+/* No comment provided by engineer. */
+"Resize Transform" = "크기 조정 변형";
 
 /* Tool */
 "Restore" = "복원";
@@ -2245,6 +2926,9 @@
 
 /* No comment provided by engineer. */
 "Restore Purchase" = "구매 항목 복원";
+
+/* No comment provided by engineer. */
+"Reveal Canvas" = "캔버스 보기";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "파일에서 나타내기";
@@ -2259,7 +2943,13 @@
 "RGB" = "RGB";
 
 /* No comment provided by engineer. */
+"RGB Profiles" = "RGB 프로필";
+
+/* No comment provided by engineer. */
 "Right" = "오른쪽";
+
+/* No comment provided by engineer. */
+"Right Indent" = "오른쪽 들여쓰기";
 
 /* Tool */
 "Rotate" = "회전";
@@ -2268,7 +2958,22 @@
 "Rotate 180°" = "180° 회전";
 
 /* No comment provided by engineer. */
+"Rotate 90° Left" = "왼쪽으로 90° 회전";
+
+/* No comment provided by engineer. */
+"Rotate 90° Right" = "오른쪽으로 90° 회전";
+
+/* No comment provided by engineer. */
 "Rotate Gradient" = "그라데이션 회전";
+
+/* No comment provided by engineer. */
+"Rotate Image 180°" = "이미지 180° 회전";
+
+/* No comment provided by engineer. */
+"Rotate Image 90° Left" = "이미지 왼쪽으로 90° 회전";
+
+/* No comment provided by engineer. */
+"Rotate Image 90° Right" = "이미지 오른쪽으로 90° 회전";
 
 /* No comment provided by engineer. */
 "Rotate Left" = "왼쪽으로 회전";
@@ -2276,11 +2981,20 @@
 /* No comment provided by engineer. */
 "Rotate Right" = "오른쪽으로 회전";
 
+/* No comment provided by engineer. */
+"Rotate Scene" = "장면 회전";
+
+/* No comment provided by engineer. */
+"Round Text Font Sizes" = "둥근 텍스트 글꼴 크기";
+
 /* Tool */
 "Rounded Rect." = "모서리가 둥근 사각형";
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "모서리가 둥근 사각형";
+
+/* No comment provided by engineer. */
+"Roundness" = "둥글기";
 
 /* Retouch Tools
    Tool */
@@ -2300,6 +3014,12 @@
 
 /* No comment provided by engineer. */
 "Save as Preset" = "프리셋으로 저장";
+
+/* No comment provided by engineer. */
+"Save As:" = "별도 저장:";
+
+/* No comment provided by engineer. */
+"Save As…" = "다음으로 저장…";
 
 /* No comment provided by engineer. */
 "Save Changes" = "변경 사항 저장";
@@ -2322,6 +3042,9 @@
 /* No comment provided by engineer. */
 "Save image (3 remaining)" = "이미지 저장 (3개 남음)";
 
+/* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
+"Save layers and edits to a sidecar file" = "레이어 및 편집 내용을 사이드카 파일에 저장합니다";
+
 /* No comment provided by engineer. */
 "Save linked files in iCloud to sync edits between your devices." = "링크된 파일을 iCloud에 저장하여 여러 장치 간에 편집 내용을 동기화합니다.";
 
@@ -2332,7 +3055,13 @@
 "Save to Album" = "앨범에 저장";
 
 /* No comment provided by engineer. */
+"Save to My Shapes" = "나의 도형에 저장";
+
+/* No comment provided by engineer. */
 "Save to Photos" = "사진에 저장";
+
+/* No comment provided by engineer. */
+"Save…" = "저장…";
 
 /* No comment provided by engineer. */
 "Saving…" = "저장 중…";
@@ -2377,16 +3106,31 @@
 "Select All" = "전체 선택";
 
 /* No comment provided by engineer. */
-"Select Background" = "배경 선택";
+"Select and Mask" = "선택 및 마스크";
+
+/* No comment provided by engineer. */
+"Select and Mask…" = "선택 및 마스크…";
 
 /* No comment provided by engineer. */
 "Select background" = "배경 선택";
+
+/* No comment provided by engineer. */
+"Select Background" = "배경 선택";
+
+/* No comment provided by engineer. */
+"Select Color Range" = "색상 범위 선택";
 
 /* Tool */
 "Select Column" = "열 선택";
 
 /* No comment provided by engineer. */
+"Select Groups" = "그룹 선택";
+
+/* No comment provided by engineer. */
 "Select Images" = "이미지 선택";
+
+/* No comment provided by engineer. */
+"Select Layers" = "레이어 선택";
 
 /* No comment provided by engineer. */
 "Select LUT" = "LUT 선택";
@@ -2416,6 +3160,18 @@
 "Selected layer is locked, unlock it to edit." = "선택된 레이어가 잠겨 있습니다. 편집하려면 잠금 해제하세요.";
 
 /* No comment provided by engineer. */
+"Selection" = "선택";
+
+/* No comment provided by engineer. */
+"Selection Move" = "선택 영역 이동";
+
+/* No comment provided by engineer. */
+"Selection Resize" = "선택 영역 크기 조정";
+
+/* No comment provided by engineer. */
+"Selection Rotate" = "선택 영역 회전";
+
+/* No comment provided by engineer. */
 "Selective Clarity" = "선택적 명료도";
 
 /* No comment provided by engineer. */
@@ -2424,11 +3180,20 @@
 /* No comment provided by engineer. */
 "Selective Colors" = "선택적 색상";
 
+/* No comment provided by engineer. */
+"Send Backward" = "뒤로 보내기";
+
 /* Edit Menu */
 "Send to Back" = "맨 뒤로 보내기";
 
 /* No comment provided by engineer. */
 "Sepia" = "세피아";
+
+/* No comment provided by engineer. */
+"Set Playback Delay" = "재생 지연 설정";
+
+/* No comment provided by engineer. */
+"Set Poster Frame" = "포스터 프레임 설정";
 
 /* Shape line start or end */
 "Set the endpoint size." = "끝점의 크기를 설정합니다.";
@@ -2469,6 +3234,12 @@
 "Sharpen" = "선명도";
 
 /* No comment provided by engineer. */
+"Sharpen Path" = "경로 선명도";
+
+/* No comment provided by engineer. */
+"Sharpen Point" = "포인트 선명도";
+
+/* No comment provided by engineer. */
 "Sharpness" = "선명도";
 
 /* No comment provided by engineer. */
@@ -2502,6 +3273,12 @@
 "Show Filmstrip" = "필름 표시";
 
 /* No comment provided by engineer. */
+"Show Grid" = "눈금 보기";
+
+/* No comment provided by engineer. */
+"Show Handles" = "핸들 보기";
+
+/* No comment provided by engineer. */
 "Show Info" = "정보 보기";
 
 /* Layer */
@@ -2518,6 +3295,9 @@
 
 /* No comment provided by engineer. */
 "Show Names" = "이름 보기";
+
+/* No comment provided by engineer. */
+"Show Optimized Preview" = "최적화된 미리 보기 표시";
 
 /* No comment provided by engineer. */
 "Show Original" = "원본 보기";
@@ -2538,7 +3318,22 @@
 "Show Repair Size Slider" = "복구 크기 슬라이더 표시";
 
 /* No comment provided by engineer. */
+"Show Shape Outline" = "도형 윤곽선 보기";
+
+/* No comment provided by engineer. */
 "Show Sliders" = "슬라이더 표시";
+
+/* No comment provided by engineer. */
+"Shrink Text to Fit Setting" = "설정에 맞춰 텍스트 축소";
+
+/* No comment provided by engineer. */
+"Sidecar File Not Found" = "사이드카 파일을 찾을 수 없습니다";
+
+/* Refers to a linked file (sidecar file) that is linked to another image file. */
+"Sidecar:" = "사이드카:";
+
+/* No comment provided by engineer. */
+"Sides: %d" = "면: %d";
 
 /* No comment provided by engineer. */
 "Simple" = "단순";
@@ -2559,16 +3354,34 @@
 "Skew" = "기울이기";
 
 /* No comment provided by engineer. */
+"Skew Transform" = "기울이기 변형";
+
+/* No comment provided by engineer. */
 "Skip overview" = "개요 건너뛰기";
 
 /* No comment provided by engineer. */
 "Sky" = "하늘";
 
+/* No comment provided by engineer. */
+"Slice" = "슬라이스";
+
 /* Tool */
 "Smart Deband" = "스마트 밴딩 제거";
 
 /* No comment provided by engineer. */
+"Smart Refine" = "스마트 미세 조정";
+
+/* No comment provided by engineer. */
+"Smooth Path" = "경로를 부드럽게 함";
+
+/* No comment provided by engineer. */
+"Smooth Point" = "포인트를 부드럽게 함";
+
+/* No comment provided by engineer. */
 "Smooth textures" = "부드러운 텍스처";
+
+/* No comment provided by engineer. */
+"Smoothen Path" = "경로를 부드럽게 함";
 
 /* Retouch Tools
    Tool */
@@ -2580,12 +3393,18 @@
 /* No comment provided by engineer. */
 "Soft Light" = "소프트 라이트";
 
+/* No comment provided by engineer. */
+"Soft Proof with %@" = "%@을(를) 사용해 출력 색상으로 보기";
+
 /* Retouch Tools
    Tool */
 "Soften" = "부드럽게 만들기";
 
 /* No comment provided by engineer. */
 "Softness" = "부드러움";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "디스크 공간 부족 또는 운영 체제 오류로 인하여 %@이(가) 안정적으로 작동하는 데 필요한 일부 핵심 리소스를 사용할 수 없습니다.";
 
 /* No comment provided by engineer. */
 "Some of the selected images could not be processed." = "선택된 이미지 중 일부를 처리할 수 없습니다.";
@@ -2610,6 +3429,12 @@
 
 /* No comment provided by engineer. */
 "Source Out" = "원본 밖";
+
+/* No comment provided by engineer. */
+"Spacing After" = "뒤 간격";
+
+/* No comment provided by engineer. */
+"Spacing Before" = "앞 간격";
 
 /* No comment provided by engineer. */
 "SPECIAL OFFERS" = "특별 할인 혜택";
@@ -2639,10 +3464,16 @@
 "Start" = "시작";
 
 /* No comment provided by engineer. */
+"Start Drawing" = "그리기 시작";
+
+/* No comment provided by engineer. */
 "Start editing" = "편집 시작하기";
 
 /* No comment provided by engineer. */
 "Start Free Trial" = "무료 체험 시작하기";
+
+/* No comment provided by engineer. */
+"Start Freeform Drawing" = "자유형 그리기 시작";
 
 /* No comment provided by engineer. */
 "Start Point" = "시작 포인트";
@@ -2669,6 +3500,9 @@
 "Stretch" = "늘이기";
 
 /* No comment provided by engineer. */
+"Strikethrough" = "취소선";
+
+/* No comment provided by engineer. */
 "Stroke" = "스트로크";
 
 /* No comment provided by engineer. */
@@ -2680,6 +3514,12 @@
 /* No comment provided by engineer. */
 "Stroke Width" = "스트로크 너비";
 
+/* No comment provided by engineer. */
+"Stroke with Brush" = "브러시로 스트로크";
+
+/* No comment provided by engineer. */
+"Stroke with Brush…" = "브러시로 스트로크…";
+
 /* Tool */
 "Style" = "스타일";
 
@@ -2690,6 +3530,9 @@
 "Subject" = "대상";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "대상 마스크";
+
+/* No comment provided by engineer. */
 "Subscribe to Photomator" = "Photomator 구독하기";
 
 /* No comment provided by engineer. */
@@ -2697,6 +3540,12 @@
 
 /* No comment provided by engineer. */
 "Subtract" = "빼기";
+
+/* No comment provided by engineer. */
+"Subtract from Shape" = "도형에서 빼기";
+
+/* No comment provided by engineer. */
+"Subtract Shapes" = "도형 빼기";
 
 /* Tool */
 "Super Resolution" = "초해상도";
@@ -2754,6 +3603,15 @@
 "Text" = "텍스트";
 
 /* No comment provided by engineer. */
+"Text Change" = "텍스트 변경";
+
+/* No comment provided by engineer. */
+"Text Color" = "텍스트 색상";
+
+/* No comment provided by engineer. */
+"Text Style" = "텍스트 스타일";
+
+/* No comment provided by engineer. */
 "Texture" = "텍스처";
 
 /* No comment provided by engineer. */
@@ -2767,6 +3625,21 @@
 
 /* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "색상 조정 프리셋을 가져왔습니다.";
+
+/* No comment provided by engineer. */
+"The document couldn’t be opened." = "문서를 열 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible with %@ %@." = "문서가 손상되었거나, %1$@ %2$@와(과) 호환되지 않습니다.";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible with %@." = "문서가 손상되었거나, %@와(과) 호환되지 않습니다.";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible." = "문서가 손상되었거나 호환되지 않습니다.";
+
+/* No comment provided by engineer. */
+"The document “%@” couldn’t be opened." = "“%@” 문서를 열 수 없습니다.";
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "파일 브라우저를 통해 기기에 있는 모든 문서를 살펴볼 수 있습니다. 사진 브라우저로 전환하려면, %@ 아이콘을 누른 후 브라우저 메뉴에서 사진을 선택하세요.";
@@ -2793,10 +3666,28 @@
 "The image could not be shared to Photomator." = "이미지를 Photomator에 공유하지 못했습니다.";
 
 /* No comment provided by engineer. */
+"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "열려고 하는 이미지에 사이드카 파일이 있으며, 원본 이미지가 편집되었는지만 두 파일이 동기화되지 않은 것 같습니다. 해당 사이드카 파일 또는 이미지를 여시겠습니까?";
+
+/* No comment provided by engineer. */
+"The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF 포맷은 다중 레이어 및 기타 추가 포맷 정보를 지원하지 않습니다. 해당 정보를 유지하려면 대신 Pixelmator Pro 문서로 이미지를 저장하세요.";
+
+/* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "이 이미지 크기에 대한 최대 레이어 수는 %i입니다";
 
 /* No comment provided by engineer. */
 "The most powerful photo editing app ever designed for a mobile device." = "지금까지 모바일 기기용으로 설계된 것 중 가장 강력한 사진 편집 앱.";
+
+/* No comment provided by engineer. */
+"The operation was cancelled." = "동작이 취소되었습니다.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because the Photos library asset could not be found." = "사진 라이브러리 자산을 찾을 수 없으므로 사진을 저장할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because this Photos library asset does not seem to be editable." = "이 사진 보관함 자산은 편집이 불가능하므로 사진을 저장할 수 없습니다.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved due to an error that occurred while exporting the image." = "이미지를 내보내는 동안 발생한 오류로 인해 사진을 저장할 수 없습니다.";
 
 /* No comment provided by engineer. */
 "The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "프리셋 보관함이 기본값으로 재설정되고, 사용자가 생성한 모든 프리셋과 컬렉션은 제거됩니다. 이 작업은 취소할 수 없습니다.";
@@ -2818,6 +3709,15 @@
 
 /* No comment provided by engineer. */
 "The size is too large." = "크기가 너무 큽니다.";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible with %@ %@." = "\"%1$@\" 문서가 손상되었거나, %2$@ %3$@와(과) 호환되지 않습니다.";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible with %@." = "%1$@\" 문서가 손상되었거나, %2$@와(과) 호환되지 않습니다.";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible." = "%@\" 문서가 손상되었거나 호환되지 않습니다.";
 
 /* Image save error */
 "There is not enough available storage to save your image to this location. Would you like to save it somewhere else?" = "이미지를 이 위치에 저장할 공간이 충분하지 않습니다. 다른 곳에 저장하시겠습니까?";
@@ -2841,6 +3741,12 @@
 "This format isn’t currently supported." = "이 포맷은 현재 지원되지 않습니다.";
 
 /* No comment provided by engineer. */
+"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "이 이미지에는 연결된 Pixelmator Pro 사이드카 파일이 있지만, 해당 파일을 열 수 없습니다. 원본 이미지 파일이 대신 열립니다.";
+
+/* No comment provided by engineer. */
+"This image has been modified by another application." = "이 이미지는 다른 응용 프로그램에서 변경되었습니다.";
+
+/* No comment provided by engineer. */
 "This image has too many layers to be opened on this device." = "이 이미지에는 레이어가 너무 많아 이 장치에서 열 수 없습니다.";
 
 /* No comment provided by engineer. */
@@ -2848,6 +3754,12 @@
 
 /* No comment provided by engineer. */
 "This image is too large to be opened on this device." = "이 이미지는 너무 커서 이 장치에서 열 수 없습니다.";
+
+/* No comment provided by engineer. */
+"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "이 이미지에는 연결된 Pixelmator Pro 사이드카 파일이 있어야 하지만, 해당 파일을 찾을 수 없습니다. 원본 이미지 파일이 대신 열립니다.";
+
+/* No comment provided by engineer. */
+"This photo is too large." = "사진이 너무 큽니다.";
 
 /* No comment provided by engineer. */
 "This Photo was edited and not synced. Continue editing?" = "이 사진은 편집되었으나 동기화되지 않았습니다. 계속 편집하시겠습니까?";
@@ -2898,10 +3810,13 @@
 "to" = "대상";
 
 /* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "문제를 피하려면 저장하지 않은 작업을 저장한 다음, 저장 공간을 확보하고 Mac을 다시 시작해 보세요.";
+
+/* No comment provided by engineer. */
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "사진 일괄 편집을 시작하려면 먼저 우측 상단 모서리에 있는 선택을 탭합니다. 그런 다음, 여러 장의 사진을 선택하고 도구 모음에서 일괄 처리를 탭합니다. 마지막으로, 포함된 일괄 처리 작업 흐름 중 하나를 선택하거나 사용자 지정 작업 흐름을 생성하고 적용을 탭합니다.";
 
 /* No comment provided by engineer. */
-"To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "사진의 특정 영역을 편집하려고 할 때 AI를 사용하면 신속하게 선택할 수 있습니다. 색상 조정 패널 상단에 있는 '+'를 누르고 원하는 영역을 선택하세요. 추가된 레이어를 모두 보려면 상단의 이미지 레이어를 탭하면 됩니다.";
+"To edit specific areas of a photo, you can quickly select them using AI. Tap %@ at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "사진의 특정 영역을 편집하려고 할 때 AI를 사용하면 신속하게 선택할 수 있습니다. 색상 조정 패널 상단에 있는 %@를 누르고 원하는 영역을 선택하세요. 추가된 레이어를 모두 보려면 상단의 이미지 레이어를 탭하면 됩니다.";
 
 /* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "Photomator를 구매하려면 인터넷에 연결되어 있어야 합니다. 설정 앱에서 확인하신 후 다시 시도하시기 바랍니다.";
@@ -2911,6 +3826,9 @@
 
 /* No comment provided by engineer. */
 "To use this feature, you’ll need to purchase unlimited access to Photomator, but it looks like you’re offline. To purchase, you’ll need to go online." = "이 기능을 사용하려면 Photomator 무제한 액세스를 구매해야 합니다. 현재 인터넷이 오프라인 상태이므로 구매를 진행하려면 온라인에 접속하시기 바랍니다.";
+
+/* No comment provided by engineer. */
+"Tolerance: %@" = "허용 오차: %@";
 
 /* No comment provided by engineer. */
 "Tone" = "톤";
@@ -2928,7 +3846,22 @@
 "Touch Size" = "터치 크기";
 
 /* No comment provided by engineer. */
+"Transform" = "변형";
+
+/* No comment provided by engineer. */
+"Transform Path…" = "경로 변형…";
+
+/* No comment provided by engineer. */
+"Transform Selection…" = "선택 변형…";
+
+/* No comment provided by engineer. */
+"Transform…" = "변형…";
+
+/* No comment provided by engineer. */
 "Transition" = "전환";
+
+/* No comment provided by engineer. */
+"Trim" = "트리밍";
 
 /* Tool */
 "Trim Canvas" = "캔버스 트리밍";
@@ -2955,6 +3888,12 @@
 "Unable to apply LUT" = " LUT를 적용할 수 없습니다";
 
 /* No comment provided by engineer. */
+"Unable to Apply Smart Deband" = "스마트 밴딩 제거를 적용할 수 없음";
+
+/* No comment provided by engineer. */
+"Unable to Apply Smart HDR" = "스마트 HDR을 적용할 수 없음";
+
+/* No comment provided by engineer. */
 "Unable to Check Purchases" = "구매를 확인할 수 없습니다";
 
 /* No comment provided by engineer. */
@@ -2976,6 +3915,9 @@
 "Unable to Open Image" = "이미지를 열 수 없음";
 
 /* No comment provided by engineer. */
+"Unable to Open Sidecar File" = "사이드카 파일을 열 수 없습니다";
+
+/* No comment provided by engineer. */
 "Unable to Process" = "처리할 수 없습니다";
 
 /* No comment provided by engineer. */
@@ -2991,6 +3933,9 @@
 "Unable to Share Image" = "이미지를 공유할 수 없습니다";
 
 /* No comment provided by engineer. */
+"Underline" = "밑줄";
+
+/* No comment provided by engineer. */
 "Undo" = "실행 취소";
 
 /* No comment provided by engineer. */
@@ -3004,6 +3949,9 @@
 
 /* Layer Arrange */
 "Ungroup" = "그룹 해제";
+
+/* No comment provided by engineer. */
+"Unite Shapes" = "도형 결합";
 
 /* Layer */
 "Unlock" = "잠금 해제";
@@ -3022,6 +3970,9 @@
 
 /* %@ stands for non-breaking space */
 "Unlock Photomator%@for%@Mac" = "Mac용%1$@Photomator%2$@ 잠금해제";
+
+/* No comment provided by engineer. */
+"Unmute" = "소리 켬";
 
 /* No comment provided by engineer. */
 "Unnamed" = "이름 없음";
@@ -3045,10 +3996,10 @@
 "Untitled Album" = "제목 없는 앨범";
 
 /* No comment provided by engineer. */
-"Untitled layer" = "제목 없는 레이어";
+"Untitled Layer" = "제목 없는 레이어";
 
 /* No comment provided by engineer. */
-"Untitled Layer" = "제목 없는 레이어";
+"Untitled layer" = "제목 없는 레이어";
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "제목 없는 레이어 마스크";
@@ -3058,6 +4009,9 @@
 
 /* No comment provided by engineer. */
 "Update to iPadOS 17 to access full HDR support." = "HDR을 완벽하게 지원하려면 iPadOS 17로 업데이트하세요.";
+
+/* No comment provided by engineer. */
+"Upgrade" = "업그레이드";
 
 /* No comment provided by engineer. */
 "Upgrade to access the full image editing experience in Photomator." = "업그레이드를 통해 Photomator가 제공하는 최고의 사진 편집 환경을 누리세요.";
@@ -3075,7 +4029,16 @@
 "Use iCloud" = "iCloud 사용";
 
 /* No comment provided by engineer. */
+"Use ITUR-2100 Intermediates" = "ITUR-2100 중간 파일 사용";
+
+/* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "텍스처 인식 알고리즘 사용";
+
+/* No comment provided by engineer. */
+"Version history is not fully supported for images with sidecar files." = "사이드카 파일이 있는 이미지에 대한 버전 기록이 일부 지원되지 않습니다.";
+
+/* No comment provided by engineer. */
+"Vertical Alignment" = "세로 맞춤";
 
 /* Perspective transform */
 "Vertical Perspective" = "수직 투시도";
@@ -3104,11 +4067,17 @@
 /* Stands for Width, up to 3 characters */
 "W:" = "W:";
 
+/* No comment provided by engineer. */
+"w: %@ h: %@" = "너비: %1$@ 높이: %2$@";
+
 /* Tool */
 "Warp" = "휘기";
 
 /* No comment provided by engineer. */
 "Watercolor" = "수채화";
+
+/* No comment provided by engineer. */
+"Watermark" = "워터마크";
 
 /* The name of an image file format. */
 "WebP" = "WebP";
@@ -3171,10 +4140,43 @@
 "Would you like to be notified before your free trial is about to end?" = "무료 체험 기간이 종료되려고 할 때 알림을 받으시겠습니까?";
 
 /* No comment provided by engineer. */
+"Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "변경 사항을 원본 JPEG/PNG/TIFF 파일 또는 Pixelmator Pro 문서로 저장하시겠습니까?";
+
+/* No comment provided by engineer. */
+"Would you like to upgrade this document?" = "이 문서를 업그레이드하시겠습니까?";
+
+/* No comment provided by engineer. */
+"x: %@ y: %@, z: %@" = "x: %1$@ y: %2$@, z: %3$@";
+
+/* No comment provided by engineer. */
+"yaw: %@ pitch: %@, roll: %@" = "요: %1$@ 피치: %2$@, 롤: %3$@";
+
+/* No comment provided by engineer. */
 "Yellow" = "노란색";
 
 /* Color adjustments */
 "Yellow / Blue" = "노랑 / 파랑";
+
+/* No comment provided by engineer. */
+"You can discard the edits to keep your original file unmodified." = "편집 내용을 버리고 원본 파일을 수정 없이 유지할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"You can download the latest version from the Mac App Store." = "Mac App Store에서 최신 버전을 다운로드할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"You can download the latest version of %@ from the Mac App Store." = "Mac App Store에서 %@의 최신 버전을 다운로드할 수 있습니다.";
+
+/* No comment provided by engineer. */
+"You can revert to a previous version of your document, however, it will not contain any nondestructive edits." = "이전 버전의 문서로 되돌릴 수 있지만, 비파괴적 편집 내용은 포함되지 않습니다.";
+
+/* No comment provided by engineer. */
+"You need a newer version of %@ to open this document." = "이 문서를 열려면 %@ 새 버전이 필요합니다.";
+
+/* No comment provided by engineer. */
+"You need a newer version to open this document." = "이 문서를 열려면 새 버전이 필요합니다.";
+
+/* No comment provided by engineer. */
+"You're attempting to open a %@ sidecar document which cannot be edited directly." = "직접 편집할 수 없는 %@ 사이드카 문서를 열려고 합니다.";
 
 /* No comment provided by engineer. */
 "You're Offline" = "현재 오프라인 상태입니다";
@@ -3205,3 +4207,9 @@
 
 /* No comment provided by engineer. */
 "Zoom to Fit" = "크기에 맞게 확대/축소";
+
+/* No comment provided by engineer. */
+"Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
+
+/* No comment provided by engineer. */
+"“%@” already exists. Do you want to replace it?" = "“%@” 파일이 이미 존재합니다. 대치하시겠습니까?";

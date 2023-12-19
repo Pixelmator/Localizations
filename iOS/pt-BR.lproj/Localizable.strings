@@ -8,10 +8,16 @@
 "%@ Bytes" = "%@ Bytes";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ encontrou um erro crítico, possivelmente devido a pouco espaço disponível em disco ou a um erro no sistema operacional. Talvez ajude se liberar algum espaço em disco ou reiniciar o Mac.";
+
+/* No comment provided by engineer. */
 "%@ OFF" = "%@ DE DESCONTO";
 
 /* seconds */
 "%@s" = "%@s";
+
+/* No comment provided by engineer. */
+"%d files already exists. Do you want to replace them?" = "%d já existem. Deseja substituí-los?";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -33,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "%i Images Selected" = "%i imagens selecionadas";
+
+/* No comment provided by engineer. */
+"%i Layers" = "%i camadas";
 
 /* No comment provided by engineer. */
 "%i of %i Edits Used" = "%1$i de %2$i Edições Usadas";
@@ -92,6 +101,9 @@
 "\"%@\" Preset" = "Pré-ajuste \"%@\"";
 
 /* No comment provided by engineer. */
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Já existe um arquivo ou uma pasta com o mesmo nome na pasta %@. Se substituir, todo o conteúdo atual será perdido.";
+
+/* No comment provided by engineer. */
 "ACCENT COLOR" = "CORES ACENTUADAS";
 
 /* No comment provided by engineer. */
@@ -115,6 +127,9 @@
 /* Edit Menu */
 "Add Group" = "Adicionar grupo";
 
+/* No comment provided by engineer. */
+"Add Guide" = "Adicionar guia";
+
 /* Layer Management */
 "Add Image" = "Adicionar imagem";
 
@@ -125,13 +140,31 @@
 "Add LUTs From Folder…" = "Adicionar LUTs da pasta…";
 
 /* No comment provided by engineer. */
+"Add Mask" = "Adicionar máscara";
+
+/* No comment provided by engineer. */
+"Add Masked Layer" = "Adicionar camada com máscara";
+
+/* No comment provided by engineer. */
 "Add Photos" = "Adicionar Fotos";
+
+/* No comment provided by engineer. */
+"Add Point" = "Adicionar ponto";
 
 /* No comment provided by engineer. */
 "Add Raw Layer" = "Adicionar camada raw";
 
+/* No comment provided by engineer. */
+"Add Shadow" = "Adicionar Sombra";
+
+/* No comment provided by engineer. */
+"Add Slice" = "Adicionar segmento";
+
 /* Layer Management */
 "Add Text" = "Adicionar texto";
+
+/* No comment provided by engineer. */
+"Add to Shape" = "Adicionar à forma";
 
 /* Tool */
 "Adjust Colors" = "Adicionar cores";
@@ -141,6 +174,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Intensity" = "Ajustar intensidade";
+
+/* No comment provided by engineer. */
+"Adjust Light Position" = "Ajustar posição da luz";
 
 /* Shape line start or end */
 "Adjust the endpoint size." = "Ajuste o tamanho da ponta.";
@@ -170,6 +206,27 @@
 "Align" = "Alinhar";
 
 /* No comment provided by engineer. */
+"Align Bottom Edges" = "Alinhar ambas as bordas";
+
+/* No comment provided by engineer. */
+"Align Horizontal Centers" = "Alinhar centros horizontais";
+
+/* No comment provided by engineer. */
+"Align Left Edges" = "Alinhar bordas esquerdas";
+
+/* No comment provided by engineer. */
+"Align Right Edges" = "Alinhar bordas direitas";
+
+/* No comment provided by engineer. */
+"Align to Pixel Grid" = "Alinhar à grade de pixels";
+
+/* No comment provided by engineer. */
+"Align Top Edges" = "Alinhar bordas superiores";
+
+/* No comment provided by engineer. */
+"Align Vertical Centers" = "Alinhar centros verticais";
+
+/* No comment provided by engineer. */
 "All Albums" = "Todos os álbuns";
 
 /* No comment provided by engineer. */
@@ -194,7 +251,16 @@
 "Ambient Light" = "Luz ambiente";
 
 /* No comment provided by engineer. */
+"An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "Ocorreu um erro e não foi possível salvar as alterações dessa imagem no arquivo sidecar.\n\nSe quiser manter as camadas mais recentes e outras edições não destrutivas, exporte a imagem no formato do Pixelmator Pro.";
+
+/* No comment provided by engineer. */
 "An Error Occurred" = "Ocorreu um erro";
+
+/* No comment provided by engineer. */
+"An error occurred while saving the sidecar file for this asset." = "Ocorreu um erro ao salvar o arquivo sidecar deste material.";
+
+/* No comment provided by engineer. */
+"An error occurred while saving to the Photos library. Error code: %d" = "Ocorreu um erro ao salvar na fototeca. Código do erro: %d";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "Ocorreu um erro desconhecido.";
@@ -209,6 +275,9 @@
 "Angle Scatter" = "Dispersão angular";
 
 /* No comment provided by engineer. */
+"Angle: %@" = "Ângulo: %@";
+
+/* No comment provided by engineer. */
 "App Settings" = "Ajustes do App";
 
 /* No comment provided by engineer. */
@@ -221,7 +290,13 @@
 "Apply LUT" = "Aplicar LUT";
 
 /* No comment provided by engineer. */
+"Apply Watermark" = "Aplicar Marca d’Água";
+
+/* No comment provided by engineer. */
 "Applying %@" = "Aplicando %@";
+
+/* No comment provided by engineer. */
+"Are you sure you want to modify the document in place?" = "Deseja mesmo modificar o documento no lugar?";
 
 /* Layer Arrange
    Tool */
@@ -243,6 +318,9 @@
 "Aspect Ratio" = "Proporção";
 
 /* No comment provided by engineer. */
+"Attempting to Open %@ Sidecar Document" = "Tentando abrir o documento sidecar %@";
+
+/* No comment provided by engineer. */
 "Auto" = "Auto";
 
 /* No comment provided by engineer. */
@@ -258,6 +336,21 @@
 "Auto Enhance" = "Realce automático";
 
 /* No comment provided by engineer. */
+"Auto Select" = "Seleção automática";
+
+/* No comment provided by engineer. */
+"Auto Select Off" = "Seleção Automática desativada";
+
+/* No comment provided by engineer. */
+"Auto Select On" = "Seleção Automática ativada";
+
+/* No comment provided by engineer. */
+"Auto Straighten" = "Correção automática";
+
+/* No comment provided by engineer. */
+"Auto-Center" = "Centralização automática";
+
+/* No comment provided by engineer. */
 "Auto-Hide" = "Ocultação automática";
 
 /* No comment provided by engineer. */
@@ -268,6 +361,9 @@
 
 /* The name of an image file format */
 "AVIF" = "AVIF";
+
+/* No comment provided by engineer. */
+"azimuth: %@, elevation: %@" = "azimute: %1$@, elevação: %2$@";
 
 /* No comment provided by engineer. */
 "Background" = "Fundo";
@@ -282,7 +378,13 @@
 "Balance Adjustment" = "Ajuste de fundo";
 
 /* No comment provided by engineer. */
+"Baseline" = "Linha de base";
+
+/* No comment provided by engineer. */
 "Baseline Exposure" = "Exposição da linha de base";
+
+/* No comment provided by engineer. */
+"Baseline Offset" = "Deslocamento de linha de base";
 
 /* Tool */
 "Basic" = "Básico";
@@ -333,6 +435,9 @@
 "BMP" = "BMP";
 
 /* No comment provided by engineer. */
+"Bold" = "Negrito";
+
+/* No comment provided by engineer. */
 "Boost" = "Reforçar";
 
 /* No comment provided by engineer. */
@@ -343,6 +448,9 @@
 
 /* Color adjustments */
 "Brightness" = "Brilho";
+
+/* No comment provided by engineer. */
+"Bring Forward" = "Deslocar para frente";
 
 /* Edit Menu */
 "Bring to Front" = "Trazer para a frente";
@@ -375,10 +483,16 @@
 "Cancel" = "Cancelar";
 
 /* No comment provided by engineer. */
+"Cancelled" = "Cancelado";
+
+/* No comment provided by engineer. */
 "Cannot Create More Layers" = "Não é possível criar mais camadas";
 
 /* Tool */
 "Canvas Size" = "Tamanho da tela";
+
+/* No comment provided by engineer. */
+"Capitalization" = "Maiúsculas";
 
 /* stroke options - line caps */
 "Caps" = "Pontas";
@@ -393,10 +507,31 @@
 "Centimeters" = "Centímetros";
 
 /* No comment provided by engineer. */
+"Change" = "Alterar";
+
+/* No comment provided by engineer. */
 "Change Blending Mode" = "Alterar Modo de Mesclagem";
 
 /* No comment provided by engineer. */
+"Change Capitalization" = "Mudar maiúsculas e minúsculas";
+
+/* No comment provided by engineer. */
 "Change Color..." = "Alterar cor...";
+
+/* No comment provided by engineer. */
+"Change End Behavior" = "Mudar comportamento final";
+
+/* No comment provided by engineer. */
+"Change Perspective" = "Alterar perspectiva";
+
+/* No comment provided by engineer. */
+"Change Shape" = "Alterar forma";
+
+/* No comment provided by engineer. */
+"Change Start Behavior" = "Mudar comportamento inicial";
+
+/* Shown as a subtitle when an image has an associated sidecar document, in which layers and other nondestructive edits are saved and tracked. */
+"Changes Tracked in Sidecar" = "Alterações controladas no sidecar";
 
 /* No comment provided by engineer. */
 "Channel" = "Canal";
@@ -404,8 +539,14 @@
 /* No comment provided by engineer. */
 "Channel Mixer" = "Misturador de canais";
 
+/* No comment provided by engineer. */
+"Character Spacing" = "Espaçamento de caracteres";
+
 /* Image open error */
 "Check your internet connection, then try again." = "Verifique sua conexão com a Internet e tente novamente.";
+
+/* No comment provided by engineer. */
+"Choose Image…" = "Escolher Imagem…";
 
 /* No comment provided by engineer. */
 "Choose Location" = "Escolher local";
@@ -440,12 +581,30 @@
 /* No comment provided by engineer. */
 "Clarity Shadows" = "Sombras de nitidez";
 
+/* No comment provided by engineer. */
+"Clear Guides" = "Apagar guias";
+
+/* No comment provided by engineer. */
+"Clear Mask" = "Limpar máscara";
+
+/* No comment provided by engineer. */
+"Clear Selection" = "Limpar seleção";
+
+/* No comment provided by engineer. */
+"Clear Slices" = "Limpar segmentos";
+
 /* Retouch Tools
    Tool */
 "Clone" = "Clonar";
 
+/* No comment provided by engineer. */
+"Close Path" = "Fechar traçado";
+
 /* Units */
 "cm" = "cm";
+
+/* No comment provided by engineer. */
+"CMYK Profiles" = "Perfis CMYK";
 
 /* Tool */
 "Color" = "Cor";
@@ -482,10 +641,16 @@
 "Color Range Layer" = "Camada de Intervalo de Cor";
 
 /* No comment provided by engineer. */
+"Color Selection" = "Seleção de cor";
+
+/* No comment provided by engineer. */
 "Color Wheels" = "Discos de cores";
 
 /* No comment provided by engineer. */
 "Colors" = "Cores";
+
+/* No comment provided by engineer. */
+"Common Profiles" = "Perfis comuns";
 
 /* No comment provided by engineer. */
 "Compatible with the new iPad Pro" = "Compatível com o novo iPad Pro";
@@ -509,6 +674,12 @@
 "Convert Into Adjustments" = "Converter em Ajustes";
 
 /* No comment provided by engineer. */
+"Convert into Pixels" = "Converter em pixels";
+
+/* No comment provided by engineer. */
+"Convert into Shape" = "Converter em forma";
+
+/* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "Converter LUT em Ajustes";
 
 /* No comment provided by engineer. */
@@ -520,17 +691,26 @@
 /* No comment provided by engineer. */
 "Converting to HDR…" = "Convertendo em HDR…";
 
-/* Used in gallery document duplicate. */
-"copy" = "copiar";
-
 /* Edit Menu */
 "Copy" = "Copiar";
+
+/* Used in gallery document duplicate. */
+"copy" = "copiar";
 
 /* No comment provided by engineer. */
 "Copy Adjustments" = "Copiar ajustes";
 
+/* No comment provided by engineer. */
+"Copy and Paste as Layer" = "Copiar e colar como camada";
+
 /* Layer Management */
 "Copy Layer" = "Copiar camada";
+
+/* No comment provided by engineer. */
+"Copy Merged" = "Cópia mesclada";
+
+/* No comment provided by engineer. */
+"Copy ML Decontaminated Selection" = "Copy ML Decontaminated Selection";
 
 /* No comment provided by engineer. */
 "Copy Saved to Photos" = "Cópia salva em Fotos";
@@ -544,11 +724,20 @@
 /* stroke options - line join style */
 "Corner" = "Canto";
 
+/* No comment provided by engineer. */
+"Corner Radius" = "Raio do canto";
+
+/* No comment provided by engineer. */
+"Corner Radius Setting" = "Ajustes no raio do canto";
+
 /* Tool */
 "Crayon" = "Giz de cera";
 
 /* No comment provided by engineer. */
 "Create Album with Selected Photos" = "Criar Álbum com Fotos Selecionadas";
+
+/* No comment provided by engineer. */
+"Create Clipping Mask" = "Criar máscara de corte";
 
 /* Gallery */
 "Create Image" = "Criar imagem";
@@ -562,8 +751,14 @@
 /* No comment provided by engineer. */
 "Creation Date" = "Data de criação";
 
+/* No comment provided by engineer. */
+"Critical Resources Unavailable" = "Recursos críticos não disponíveis";
+
 /* Tool */
 "Crop" = "Recortar";
+
+/* No comment provided by engineer. */
+"Crop…" = "Cortar…";
 
 /* No comment provided by engineer. */
 "Current" = "Atual";
@@ -589,6 +784,9 @@
 
 /* Edit Menu */
 "Cut" = "Cortar";
+
+/* No comment provided by engineer. */
+"Cut and Paste as Layer" = "Cortar e colar como camada";
 
 /* Layer Management */
 "Cut Layer" = "Cortar camada";
@@ -625,10 +823,22 @@
 "Debanding…" = "Eliminando Faixas…";
 
 /* No comment provided by engineer. */
+"Decontaminate Colors" = "Descontaminar cores";
+
+/* No comment provided by engineer. */
+"Decontaminate Selection" = "Descontaminar seleção";
+
+/* No comment provided by engineer. */
+"Decontaminating Colors…" = "Descontaminando cores...";
+
+/* No comment provided by engineer. */
 "Decontaminating colors…" = "Descontaminando cores...";
 
 /* No comment provided by engineer. */
 "Default" = "Padrão";
+
+/* No comment provided by engineer. */
+"Default Baseline" = "Linha de base padrão";
 
 /* No comment provided by engineer. */
 "Dehaze" = "Desembaçar";
@@ -649,10 +859,22 @@
 "Delete Layer" = "Excluir camada";
 
 /* No comment provided by engineer. */
+"Delete Layers" = "Excluir camadas";
+
+/* No comment provided by engineer. */
 "Delete Linked File" = "Excluir arquivo vinculado";
+
+/* No comment provided by engineer. */
+"Delete Path" = "Excluir traçado";
 
 /* Edit Menu */
 "Delete Preset" = "Apagar pré-ajuste";
+
+/* No comment provided by engineer. */
+"Delete Slice" = "Excluir segmento";
+
+/* No comment provided by engineer. */
+"Delete Slices" = "Excluir segmentos";
 
 /* Tool */
 "Denoise" = "Redução de ruído";
@@ -672,6 +894,9 @@
 /* Retouch Tools
    Tool */
 "Desaturate" = "Dessaturar";
+
+/* No comment provided by engineer. */
+"Deselect" = "Cancelar seleção";
 
 /* No comment provided by engineer. */
 "Deselect All" = "Desmarcar todas";
@@ -698,10 +923,13 @@
 "Details" = "Detalhes";
 
 /* No comment provided by engineer. */
-"Detecting sky…" = "Detectando céu…";
+"Detecting background…" = "Detectando fundo…";
 
 /* No comment provided by engineer. */
 "Detecting Sky…" = "Detectando Céu…";
+
+/* No comment provided by engineer. */
+"Detecting sky…" = "Detectando céu…";
 
 /* No comment provided by engineer. */
 "Detecting subject…" = "Detectando assunto...";
@@ -751,17 +979,59 @@
 /* No comment provided by engineer. */
 "Distance" = "Distância";
 
+/* No comment provided by engineer. */
+"Distort" = "Distorcer";
+
+/* No comment provided by engineer. */
+"Distort Transform" = "Transformação por distorção";
+
 /* Effects category name */
 "Distortion" = "Distorção";
 
 /* No comment provided by engineer. */
+"Distribute Bottom Edges" = "Distribuir bordas inferiores";
+
+/* No comment provided by engineer. */
+"Distribute Horizontal Centers" = "Distribuir centros horizontais";
+
+/* No comment provided by engineer. */
+"Distribute Horizontal Spacing" = "Distribuir o espaço horizontal";
+
+/* No comment provided by engineer. */
+"Distribute Left Edges" = "Distribuir bordas esquerdas";
+
+/* No comment provided by engineer. */
+"Distribute Right Edges" = "Distribuir bordas direitas";
+
+/* No comment provided by engineer. */
+"Distribute Top Edges" = "Distribuir bordas superiores";
+
+/* No comment provided by engineer. */
+"Distribute Vertical Centers" = "Distribuir centros verticais";
+
+/* No comment provided by engineer. */
+"Distribute Vertical Spacing" = "Distribuir o espaço vertical";
+
+/* No comment provided by engineer. */
 "Divide" = "Dividir";
+
+/* No comment provided by engineer. */
+"Divide Path" = "Dividir caminho";
+
+/* No comment provided by engineer. */
+"Do you want to save the changes made to the document “%@”" = "Deseja salvar as alterações feitas no documento “%@”";
+
+/* No comment provided by engineer. */
+"Document Quick Save for Web" = "Gravação rápida do documento para web";
 
 /* No comment provided by engineer. */
 "Don't limit yourself" = "Não se limite";
 
 /* No comment provided by engineer. */
 "Don't Move" = "Não se mova";
+
+/* No comment provided by engineer. */
+"Don't Save" = "Não salvar";
 
 /* No comment provided by engineer. */
 "Done" = "OK";
@@ -826,6 +1096,12 @@
 /* No comment provided by engineer. */
 "Draw on canvas to subtract from a mask." = "Desenhe na tela para subtrair de uma máscara.";
 
+/* No comment provided by engineer. */
+"Draw Path" = "Desenhar traçado";
+
+/* No comment provided by engineer. */
+"Draw Slice" = "Desenhar segmento";
+
 /* Edit Menu */
 "Duplicate" = "Duplicar";
 
@@ -852,6 +1128,9 @@
 
 /* No comment provided by engineer. */
 "Edit 1 Photo" = "Editar uma foto";
+
+/* No comment provided by engineer. */
+"Edit a Copy" = "Editar uma cópia";
 
 /* No comment provided by engineer. */
 "Edit Details" = "Editar detalhes";
@@ -911,6 +1190,9 @@ a objetos inteiros.";
 
 /* Tool */
 "Elliptical" = "Elíptico";
+
+/* No comment provided by engineer. */
+"Elliptical Selection" = "Seleção elíptica";
 
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "Balão de diálogo elíptico";
@@ -985,13 +1267,28 @@ a objetos inteiros.";
 "Erase" = "Apagar";
 
 /* No comment provided by engineer. */
+"Error:" = "Erro:";
+
+/* No comment provided by engineer. */
+"Exclude from Shape" = "Excluir da forma";
+
+/* No comment provided by engineer. */
+"Exclude Shapes" = "Excluir formas";
+
+/* No comment provided by engineer. */
 "Exclusion" = "Exclusão";
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "OU exclusivo";
 
 /* No comment provided by engineer. */
+"Exit Editing" = "Sair da edição";
+
+/* No comment provided by engineer. */
 "Exit Select Mode" = "Sair do Modo de Seleção";
+
+/* No comment provided by engineer. */
+"Expand" = "Expandir";
 
 /* No comment provided by engineer. */
 "Export" = "Exportar";
@@ -1003,10 +1300,37 @@ a objetos inteiros.";
 "Export as LUT" = "Exportar como LUT";
 
 /* No comment provided by engineer. */
+"Export Document as Images" = "Exportar documento como imagens";
+
+/* No comment provided by engineer. */
+"Export for Web" = "Exportar para web";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"" = "Exportar segmento \"%@\"";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"…" = "Exportar segmento \"%@\"…";
+
+/* No comment provided by engineer. */
+"Export Slices as Images" = "Exportar segmentos com imagens";
+
+/* No comment provided by engineer. */
+"Export Slice…" = "Exportar segmento…";
+
+/* No comment provided by engineer. */
 "Exporting LUT…" = "Exportando LUT…";
 
 /* No comment provided by engineer. */
+"Exporting…" = "Exportando…";
+
+/* No comment provided by engineer. */
+"Export…" = "Exportar…";
+
+/* No comment provided by engineer. */
 "Exposure" = "Exposição";
+
+/* No comment provided by engineer. */
+"Extended" = "Estendido";
 
 /* No comment provided by engineer. */
 "Extended Values" = "Valores ampliados";
@@ -1023,8 +1347,23 @@ a objetos inteiros.";
 /* File size */
 "Failed to calculate size." = "Não foi possível calcular o tamanho.";
 
+/* No comment provided by engineer. */
+"Failed to export document images." = "Falha na exportação de imagens do documento.";
+
+/* No comment provided by engineer. */
+"Failed to export slice \"%@\"." = "Falha na exportação do segmento \"%@\".";
+
+/* No comment provided by engineer. */
+"Failed to export slices." = "Falha na exportação dos segmentos.";
+
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "Falha na obtenção de um ou mais valores dos atributos estendidos";
+
+/* No comment provided by engineer. */
+"Failed to Save Sidecar File" = "Não foi possível salvar o arquivo sidecar";
+
+/* No comment provided by engineer. */
+"Failed to Save to Photos" = "Não foi possível salvar em Fotos";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "Falha na definição de um ou mais atributos estendidos.";
@@ -1050,14 +1389,38 @@ a objetos inteiros.";
 /* No comment provided by engineer. */
 "Files browser" = "Navegador de arquivos";
 
+/* No comment provided by engineer. */
+"Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "Já há arquivos ou pastas com o mesmo nome na pasta %@. Se substituir, todo o conteúdo atual será perdido.";
+
 /* Effects category name */
 "Fill" = "Preencher";
+
+/* No comment provided by engineer. */
+"Fill with Background Color" = "Preencher com cor de fundo";
+
+/* No comment provided by engineer. */
+"Fill with Color…" = "Preencher com cor…";
+
+/* No comment provided by engineer. */
+"Fill with Foreground Color" = "Preencher com cor do primeiro plano";
 
 /* No comment provided by engineer. */
 "Filmstrip" = "Tira de filme";
 
 /* No comment provided by engineer. */
+"Finish Drawing" = "Concluir o desenho";
+
+/* No comment provided by engineer. */
+"Finish Selection" = "Concluir a seleção";
+
+/* No comment provided by engineer. */
+"First Line Indent" = "Endentação na primeira linha";
+
+/* No comment provided by engineer. */
 "Fit" = "Ajustar";
+
+/* No comment provided by engineer. */
+"Fit Crop" = "Corte para ajuste";
 
 /* No comment provided by engineer. */
 "Fixed" = "Fixo";
@@ -1072,10 +1435,25 @@ a objetos inteiros.";
 "Flip Horizontally" = "Girar horizontalmente";
 
 /* No comment provided by engineer. */
+"Flip Text Along Path" = "Aplicar texto sobre o caminho";
+
+/* No comment provided by engineer. */
 "Flip Vertically" = "Girar verticalmente";
+
+/* No comment provided by engineer. */
+"Flood Fill" = "Balde de tinta";
+
+/* No comment provided by engineer. */
+"Font Change" = "Alteração de fonte";
+
+/* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
+"Format:" = "Formato:";
 
 /* Tool */
 "Free" = "Livre";
+
+/* No comment provided by engineer. */
+"Free Selection" = "Seleção livre";
 
 /* No comment provided by engineer. */
 "Free Trial Ends in 2 Days" = "O teste gratuito termina em 2 dias";
@@ -1108,19 +1486,19 @@ a objetos inteiros.";
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Tenha uma visão rápida das ferramentas que você pode utilizar para retocar, realçar ou transformar completamente a aparência das suas fotos.";
 
 /* No comment provided by engineer. */
-"Get Unlimited Access" = "Obter Acesso Ilimitado";
+"Get unlimited access" = "Tenha acesso ilimitado";
 
 /* No comment provided by engineer. */
-"Get unlimited access" = "Tenha acesso ilimitado";
+"Get Unlimited Access" = "Obter Acesso Ilimitado";
 
 /* No comment provided by engineer. */
 "Get unlimited access." = "Tenha acesso ilimitado.";
 
 /* No comment provided by engineer. */
-"Getting started" = "Introdução";
+"Getting Started" = "Introdução";
 
 /* No comment provided by engineer. */
-"Getting Started" = "Introdução";
+"Getting started" = "Introdução";
 
 /* The name of an image file format. */
 "GIF" = "GIF";
@@ -1136,6 +1514,9 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Gradient Angle" = "Ângulo do gradiente";
+
+/* No comment provided by engineer. */
+"Gradient Change" = "Alteração de Gradiente";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "Preenchimento degradê";
@@ -1160,6 +1541,9 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Gray - White" = "Cinza - Branco";
+
+/* No comment provided by engineer. */
+"Gray Profiles" = "Perfis de cinza";
 
 /* No comment provided by engineer. */
 "Green" = "Verde";
@@ -1214,10 +1598,22 @@ a objetos inteiros.";
 "Hide" = "Ocultar";
 
 /* No comment provided by engineer. */
+"Hide Grid" = "Ocultar grade";
+
+/* No comment provided by engineer. */
+"Hide Handles" = "Ocultar alças";
+
+/* No comment provided by engineer. */
 "Hide Histogram" = "Ocultar histograma";
 
 /* Layer */
 "Hide Layer" = "Ocultar camada";
+
+/* No comment provided by engineer. */
+"Hide Optimized Preview" = "Ocultar prévia otimizada";
+
+/* No comment provided by engineer. */
+"Hide Shape Outline" = "Ocultar o contorno da forma";
 
 /* No comment provided by engineer. */
 "High Pass Radius" = "Raio Passa-alta";
@@ -1230,6 +1626,9 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Holiday Sale" = "Oferta de Natal";
+
+/* No comment provided by engineer. */
+"Horizontal Alignment" = "Alinhamento horizontal";
 
 /* Perspective transform */
 "Horizontal Perspective" = "Perspectiva horizontal";
@@ -1279,8 +1678,14 @@ a objetos inteiros.";
 /* Tool */
 "Image Size" = "Tamanho da Imagem";
 
+/* No comment provided by engineer. */
+"Image Straightened by %@" = "Imagem ajustada por %@";
+
 /* Edit Menu */
 "Import" = "Importar";
+
+/* No comment provided by engineer. */
+"Import as New Document" = "Importar como novo documento";
 
 /* No comment provided by engineer. */
 "Import Photo" = "Importar foto";
@@ -1329,6 +1734,12 @@ a objetos inteiros.";
 "Increasing Resolution…" = "Aumentando a resolução...";
 
 /* No comment provided by engineer. */
+"Increasing resolution…" = "Aumentando a resolução...";
+
+/* No comment provided by engineer. */
+"Initial Crop" = "Corte inicial";
+
+/* No comment provided by engineer. */
 "Initial Direction" = "Direção inicial";
 
 /* Tool */
@@ -1339,6 +1750,15 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Insert from..." = "Inserir de...";
+
+/* No comment provided by engineer. */
+"Insert Point" = "Inserir ponto";
+
+/* No comment provided by engineer. */
+"Inserting…" = "Inserindo…";
+
+/* No comment provided by engineer. */
+"Insets" = "Margens";
 
 /* No comment provided by engineer. */
 "Instantly adjust the colors of images using color presets created in other apps." = "Ajusta instantaneamente as cores das imagens que utilizam pré-ajustes de cores em outros aplicativos.";
@@ -1353,7 +1773,22 @@ a objetos inteiros.";
 "Intersect" = "Convergir";
 
 /* No comment provided by engineer. */
+"Intersect Shapes" = "Confluir as formas";
+
+/* No comment provided by engineer. */
+"Intersect with Shape" = "Confluir com forma";
+
+/* No comment provided by engineer. */
 "Invert" = "Inverter";
+
+/* No comment provided by engineer. */
+"Invert Colors" = "Inverter cores";
+
+/* No comment provided by engineer. */
+"Invert Mask" = "Inverter Máscara";
+
+/* No comment provided by engineer. */
+"Invert Selection" = "Inverter seleção";
 
 /* No comment provided by engineer. */
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "Parece que você não tem uma assinatura ativa do Photomator. Isso pode ter acontecido porque:\n\n1. Você iniciou a sessão na App Store com um ID Apple diferente.\n2. Sua assinatura expirou.\n\n Verifique o ocorrido na App Store e tente novamente.";
@@ -1362,10 +1797,22 @@ a objetos inteiros.";
 "It is not possible to save your image to this location. Would you like to save it somewhere else?" = "Não é possível salvar sua imagem neste local. Deseja salvá-la em outro local?";
 
 /* No comment provided by engineer. */
+"It looks like “%@” was moved or renamed while it was open. Please quit and relaunch the application." = "Aparentemente “%@” foi movido ou renomeado enquanto estava aberto. Saia e recarregue o aplicativo.";
+
+/* No comment provided by engineer. */
 "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "Parece que você já tem acesso ilimitado ao Photomator; a cobrança não foi feita. Curta o app!";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "Parece que a foto original não se encontra mais lá.";
+
+/* No comment provided by engineer. */
+"It was last edited in an older version of Pixelmator. Upgrading will convert it to the new Pixelmator format. To preserve the original and work on a copy, click Edit a Copy." = "Foi editado em uma versão anterior do Pixelmator. A atualização converterá para o novo formato do Pixelmator. Para preservar o original e trabalhar em uma cópia, clique em Editar uma cópia.";
+
+/* No comment provided by engineer. */
+"Italic" = "Itálicos";
+
+/* Command name to join two different shape paths. */
+"Join" = "Unir";
 
 /* The name of an image file format. */
 "JPEG" = "JPEG";
@@ -1377,6 +1824,9 @@ a objetos inteiros.";
 "JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
+"Lasso Selection" = "Seleção do laço";
+
+/* No comment provided by engineer. */
 "Last Adjustments" = "Últimos ajustes";
 
 /* Default new layer name */
@@ -1384,6 +1834,9 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Layer Mask" = "Máscara de camada";
+
+/* No comment provided by engineer. */
+"Layer Selection" = "Seleção de camadas";
 
 /* No comment provided by engineer. */
 "Layer was flattened" = "A camada foi achatada";
@@ -1395,7 +1848,13 @@ a objetos inteiros.";
 "Learn More" = "Saiba mais";
 
 /* No comment provided by engineer. */
+"Learn More…" = "Saiba Mais…";
+
+/* No comment provided by engineer. */
 "Left" = "Esquerda";
+
+/* No comment provided by engineer. */
+"Left Indent" = "Endentação à esquerda";
 
 /* No comment provided by engineer. */
 "Lens Correction" = "Correção de lente";
@@ -1405,6 +1864,9 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "License" = "Licença";
+
+/* No comment provided by engineer. */
+"Ligature" = "Ligadura";
 
 /* No comment provided by engineer. */
 "Light" = "Leve";
@@ -1444,6 +1906,9 @@ a objetos inteiros.";
 "Line" = "Linha";
 
 /* No comment provided by engineer. */
+"Line Height" = "Altura da linha";
+
+/* No comment provided by engineer. */
 "Linear" = "Linear";
 
 /* No comment provided by engineer. */
@@ -1475,6 +1940,9 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Load SDR Content" = "Carregar Conteúdo SDR";
+
+/* No comment provided by engineer. */
+"Load Selection" = "Carregar seleção";
 
 /* Document loading */
 "Loading…" = "Carregando...";
@@ -1531,6 +1999,21 @@ a objetos inteiros.";
 "Magnetic" = "Magnético";
 
 /* No comment provided by engineer. */
+"Magnetic Selection" = "Seleção magnética";
+
+/* No comment provided by engineer. */
+"Make Editable" = "Tornar editável";
+
+/* No comment provided by engineer. */
+"Make Path Editable" = "Tornar caminho editável";
+
+/* No comment provided by engineer. */
+"Make Sharp Point" = "Criar ponto nítido";
+
+/* No comment provided by engineer. */
+"Make Smooth Point" = "Criar ponto suave";
+
+/* No comment provided by engineer. */
 "Make your shots stand out with over 30 powerful, nondestructive color adjustments." = "Dê destaque às suas fotos com mais de 30 ajustes de cores.
 Poderosos e não destrutivos.";
 
@@ -1546,6 +2029,9 @@ Poderosos e não destrutivos.";
 /* Tool */
 "Mask" = "Máscara";
 
+/* No comment provided by engineer. */
+"Mask Subject" = "Mascarar assunto";
+
 /* Color Balance */
 "Master" = "Principal";
 
@@ -1554,6 +2040,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Match Colors" = "Combinar cores";
+
+/* No comment provided by engineer. */
+"Matching colors…" = "Correspondência de cores...";
 
 /* No comment provided by engineer. */
 "Matching Colors…" = "Correspondência de cores em andamento...";
@@ -1568,7 +2057,16 @@ Poderosos e não destrutivos.";
 "Medium Gray (Default)" = "Cinza médio (padrão)";
 
 /* No comment provided by engineer. */
+"Merge" = "Mesclar";
+
+/* No comment provided by engineer. */
+"Merge All" = "Mesclar tudo";
+
+/* No comment provided by engineer. */
 "Merge brush marks" = "Mesclar marcas de pincel";
+
+/* No comment provided by engineer. */
+"Merge Shape Components" = "Mesclar componentes de forma";
 
 /* Color Balance */
 "Midtones" = "Tons médios";
@@ -1582,11 +2080,20 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "ML Crop" = "Corte com ML";
 
+/* No comment provided by engineer. */
+"ML Decontaminate Selection" = "ML Decontaminate Selection";
+
+/* No comment provided by engineer. */
+"ML Refine Mask" = "ML Refine Mask";
+
 /* Units */
 "mm" = "mm";
 
 /* No comment provided by engineer. */
 "Modification Date" = "Data de Modificação";
+
+/* No comment provided by engineer. */
+"Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "Modificar o documento no mesmo lugar pode causar a perda de parte da formatação atual. Deseja duplicar o documento primeiro?";
 
 /* No comment provided by engineer. */
 "More" = "Mais";
@@ -1618,14 +2125,29 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Move Gradient" = "Mover Gradiente";
 
+/* No comment provided by engineer. */
+"Move Guide" = "Mover guia";
+
 /* Edit Menu */
 "Move Left" = "Mover para a esquerda";
+
+/* No comment provided by engineer. */
+"Move Point" = "Mover ponto";
 
 /* Edit Menu */
 "Move Right" = "Mover para a direita";
 
 /* No comment provided by engineer. */
+"Move Slices" = "Mover segmentos";
+
+/* No comment provided by engineer. */
 "Move Up" = "Mover para Cima";
+
+/* No comment provided by engineer. */
+"Moved" = "Moved";
+
+/* No comment provided by engineer. */
+"Moved Object" = "Moved Object";
 
 /* Edit Menu */
 "Move…" = "Mover…";
@@ -1643,6 +2165,9 @@ Poderosos e não destrutivos.";
 "Mustache" = "Bigode";
 
 /* No comment provided by engineer. */
+"Mute" = "Mudo";
+
+/* No comment provided by engineer. */
 "My Albums" = "Meus álbuns";
 
 /* No comment provided by engineer. */
@@ -1652,10 +2177,19 @@ Poderosos e não destrutivos.";
 "New Album with Selection" = "Novo Álbum com Seleção";
 
 /* No comment provided by engineer. */
+"New Color Adjustments Layer" = "Nova camada de ajuste de cor";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "Nova camada de efeito";
+
+/* No comment provided by engineer. */
 "New Folder" = "Nova pasta";
 
 /* No comment provided by engineer. */
 "New Layer" = "Nova camada";
+
+/* No comment provided by engineer. */
+"New Shape" = "Nova forma";
 
 /* No comment provided by engineer. */
 "Newest to Oldest" = "Mais Recentes Primeiro";
@@ -1680,6 +2214,12 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "No commitment, cancel anytime." = "Sem compromisso, cancele quando quiser.";
+
+/* No comment provided by engineer. */
+"No Horizon Detected" = "Nenhum horizonte detectado";
+
+/* No comment provided by engineer. */
+"No Layer Selected" = "Nenhuma camada selecionada";
 
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "Sem informações da lente";
@@ -1718,6 +2258,9 @@ Poderosos e não destrutivos.";
 "Now you can download Photomator%@for%@Mac from the Mac App Store and enjoy full access to all its features." = "Agora você pode baixar o Photomator%1$@para%2$@Mac na Mac App Store e curtir acesso total a todos os recursos.";
 
 /* No comment provided by engineer. */
+"Offset" = "Deslocamento";
+
+/* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
@@ -1751,10 +2294,22 @@ Poderosos e não destrutivos.";
 "Open App Store" = "Abrir App Store";
 
 /* No comment provided by engineer. */
+"Open Image" = "Abrir imagem";
+
+/* No comment provided by engineer. */
+"Open Original Image" = "Abrir imagem original";
+
+/* No comment provided by engineer. */
 "Open RAW by Default" = "Abrir RAW por Padrão";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "Abrir sidecar";
 
 /* The name of an image file format */
 "OpenEXR" = "OpenEXR";
+
+/* No comment provided by engineer. */
+"Optimize & Export" = "Otimizar e exportar";
 
 /* No comment provided by engineer. */
 "Orange" = "Laranja";
@@ -1781,6 +2336,9 @@ Poderosos e não destrutivos.";
 "OTHER" = "OUTRO";
 
 /* No comment provided by engineer. */
+"Outline" = "Contorno";
+
+/* No comment provided by engineer. */
 "Overlay" = "Sobreposição";
 
 /* No comment provided by engineer. */
@@ -1801,8 +2359,17 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Paste Adjustments" = "Colar ajustes";
 
+/* No comment provided by engineer. */
+"Paste and Match Colors" = "Colar e combinar cores";
+
+/* No comment provided by engineer. */
+"Paste Document Colors" = "Colar as cores do documento";
+
 /* Layer Management */
 "Paste Layer" = "Colar camada";
+
+/* No comment provided by engineer. */
+"Pasting and matching colors…" = "Colando e combinando cores…";
 
 /* No comment provided by engineer. */
 "Pasting…" = "Colando…";
@@ -1876,6 +2443,9 @@ Poderosos e não destrutivos.";
 /* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop Document" = "Documento do Photoshop";
 
+/* No comment provided by engineer. */
+"Photoshop Large" = "Photoshop grande";
+
 /* Refers to the Adobe Photoshop layered image file format used for large documents. */
 "Photoshop Large Document" = "Documento Grande do Photoshop";
 
@@ -1890,6 +2460,9 @@ Poderosos e não destrutivos.";
 
 /* Tool */
 "Pinch" = "Comprimir";
+
+/* No comment provided by engineer. */
+"Pixel Paint" = "Pintura com pixels";
 
 /* Tool */
 "Pixel Tool" = "Ferramenta de pixel";
@@ -1933,8 +2506,14 @@ Poderosos e não destrutivos.";
 /* Units */
 "Points" = "Pontos";
 
+/* No comment provided by engineer. */
+"Points: %d" = "Pontos: %d";
+
 /* Tool */
 "Polygon" = "Polígono";
+
+/* No comment provided by engineer. */
+"Polygonal Selection" = "Seleção poligonal";
 
 /* No comment provided by engineer. */
 "Position" = "Posição";
@@ -1984,6 +2563,9 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Processing…" = "Processando...";
 
+/* No comment provided by engineer. */
+"Promote to Slice" = "Promover a segmento";
+
 /* Raw image type identifier */
 "ProRAW" = "ProRAW";
 
@@ -2005,11 +2587,20 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Quality" = "Qualidade";
 
+/* Refers to image export quality. */
+"Quality:" = "Qualidade:";
+
 /* Tool */
 "Quick" = "Rápido";
 
 /* No comment provided by engineer. */
 "Quick Edits" = "Edições rápidas";
+
+/* No comment provided by engineer. */
+"Quick Fill" = "Preenchimento rápido";
+
+/* No comment provided by engineer. */
+"Quick Selection" = "Seleção rápida";
 
 /* No comment provided by engineer. */
 "Quickly change the look and feel of photo using color adjustment presets." = "Altere rapidamente a aparência e atmosfera da foto com pré-ajustes de cores.";
@@ -2019,6 +2610,9 @@ Poderosos e não destrutivos.";
 
 /* The name of a video file format. */
 "QuickTime Movie" = "Filme QuickTime";
+
+/* No comment provided by engineer. */
+"Quit Application" = "Encerrar aplicativo";
 
 /* Recents group abbreviation
    Short for RAW Image format */
@@ -2035,6 +2629,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Radius" = "Raio";
+
+/* No comment provided by engineer. */
+"Radius: %@" = "Raio: %@";
 
 /* No comment provided by engineer. */
 "Random" = "Aleatório";
@@ -2069,6 +2666,9 @@ Poderosos e não destrutivos.";
 
 /* Tool */
 "Rectangular" = "Retangular";
+
+/* No comment provided by engineer. */
+"Rectangular Selection" = "Seleção retangular";
 
 /* No comment provided by engineer. */
 "Rectangular Speech Bubble" = "Balão de diálogo retangular";
@@ -2107,10 +2707,25 @@ Poderosos e não destrutivos.";
 "Refine" = "Refinar";
 
 /* No comment provided by engineer. */
+"Refine Edge" = "Refinar borda";
+
+/* No comment provided by engineer. */
+"Refine Mask" = "Refinar máscara";
+
+/* No comment provided by engineer. */
+"Refine Selection" = "Refinar seleção";
+
+/* No comment provided by engineer. */
 "Refining Edges…" = "Refinar bordas...";
 
 /* No comment provided by engineer. */
 "Refining edges…" = "Refinando bordas...";
+
+/* No comment provided by engineer. */
+"Refining Selection…" = "Refinando a seleção…";
+
+/* No comment provided by engineer. */
+"Release Clipping Mask" = "Liberar máscara de corte";
 
 /* No comment provided by engineer. */
 "Reloading…" = "Carregando novamente...";
@@ -2125,6 +2740,9 @@ Poderosos e não destrutivos.";
 "Remove an existing layer to add a new one." = "Remova uma camada existente para adicionar uma nova.";
 
 /* No comment provided by engineer. */
+"Remove Anchor Point" = "Remover ponto âncora";
+
+/* No comment provided by engineer. */
 "Remove Background" = "Remover fundo";
 
 /* No comment provided by engineer. */
@@ -2137,10 +2755,22 @@ Poderosos e não destrutivos.";
 "Remove from Album" = "Remover do Álbum";
 
 /* No comment provided by engineer. */
+"Remove Guide" = "Remover guia";
+
+/* No comment provided by engineer. */
+"Remove Layer" = "Remover camada";
+
+/* No comment provided by engineer. */
 "Remove Mask" = "Mover máscara";
 
 /* No comment provided by engineer. */
 "Remove objects" = "Remova objetos";
+
+/* No comment provided by engineer. */
+"Remove Shape Path" = "Remover caminho da forma";
+
+/* No comment provided by engineer. */
+"Remove Shape Paths" = "Remover caminhos da forma";
 
 /* Edit Menu */
 "Rename" = "Renomear";
@@ -2171,13 +2801,46 @@ Poderosos e não destrutivos.";
 "Repair with Pencil" = "Corrigir com lápis";
 
 /* No comment provided by engineer. */
+"Repairing Background" = "Repairing Background";
+
+/* No comment provided by engineer. */
 "Repairing…" = "Reparando…";
+
+/* No comment provided by engineer. */
+"Replace" = "Substituir";
+
+/* No comment provided by engineer. */
+"Replace All" = "Substituir tudo";
 
 /* No comment provided by engineer. */
 "Replace Color" = "Substituir cor";
 
 /* No comment provided by engineer. */
+"Replace Layer" = "Substituir camada…";
+
+/* No comment provided by engineer. */
+"Replace Mask" = "Substituir máscara";
+
+/* No comment provided by engineer. */
 "Replace Media" = "Substituir mídia";
+
+/* No comment provided by engineer. */
+"Replace Shape" = "Substituir forma";
+
+/* No comment provided by engineer. */
+"Replace Shape…" = "Substituir forma…";
+
+/* No comment provided by engineer. */
+"Replace Text" = "Substituir texto";
+
+/* No comment provided by engineer. */
+"Reprocess RAW" = "Reprocessar RAW";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "Recursos obrigatórios não disponíveis";
+
+/* No comment provided by engineer. */
+"Reselect" = "Selecionar novamente";
 
 /* Edit Menu */
 "Reset" = "Redefinir";
@@ -2189,10 +2852,16 @@ Poderosos e não destrutivos.";
 "Reset Adjustments" = "Redefinir ajustes";
 
 /* No comment provided by engineer. */
+"Reset Angle" = "Redefinir ângulo";
+
+/* No comment provided by engineer. */
 "Reset Auto Adjust" = "Redefinir o ajuste automático";
 
 /* No comment provided by engineer. */
 "Reset Auto Enhance" = "Redefinir o realce automático";
+
+/* No comment provided by engineer. */
+"Reset Auto Straighten" = "Redefinir o ajuste automático";
 
 /* No comment provided by engineer. */
 "Reset Changes" = "Redefinir alterações";
@@ -2208,6 +2877,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Reset Enhance" = "Redefinir o realce";
+
+/* No comment provided by engineer. */
+"Reset Handles" = "Redefinir alças";
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "Redefinir a perspectiva horizontal";
@@ -2237,7 +2909,16 @@ Poderosos e não destrutivos.";
 "Reset Vertical Perspective" = "Redefinir a perspectiva vertical";
 
 /* No comment provided by engineer. */
+"Resize" = "Redimensionar";
+
+/* No comment provided by engineer. */
 "Resize Gradient" = "Redimensionar Gradiente";
+
+/* No comment provided by engineer. */
+"Resize Slices" = "Redimensionar segmentos";
+
+/* No comment provided by engineer. */
+"Resize Transform" = "Transformação de redimensionamento";
 
 /* Tool */
 "Restore" = "Restaurar";
@@ -2247,6 +2928,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Restore Purchase" = "Restaurar compra";
+
+/* No comment provided by engineer. */
+"Reveal Canvas" = "Revelar a tela";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "Revelar em Arquivos";
@@ -2261,7 +2945,13 @@ Poderosos e não destrutivos.";
 "RGB" = "RGB";
 
 /* No comment provided by engineer. */
+"RGB Profiles" = "Perfis RGB";
+
+/* No comment provided by engineer. */
 "Right" = "Direito";
+
+/* No comment provided by engineer. */
+"Right Indent" = "Endentação à direita";
 
 /* Tool */
 "Rotate" = "Girar";
@@ -2270,7 +2960,22 @@ Poderosos e não destrutivos.";
 "Rotate 180°" = "Girar 180°";
 
 /* No comment provided by engineer. */
+"Rotate 90° Left" = "Girar 90° para a esquerda";
+
+/* No comment provided by engineer. */
+"Rotate 90° Right" = "Girar 90° para a direita";
+
+/* No comment provided by engineer. */
 "Rotate Gradient" = "Girar Gradiente";
+
+/* No comment provided by engineer. */
+"Rotate Image 180°" = "Girar a imagem 180°";
+
+/* No comment provided by engineer. */
+"Rotate Image 90° Left" = "Girar a imagem 90° para a esquerda";
+
+/* No comment provided by engineer. */
+"Rotate Image 90° Right" = "Girar a imagem 90° para a direita";
 
 /* No comment provided by engineer. */
 "Rotate Left" = "Girar para a esquerda";
@@ -2278,11 +2983,20 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Rotate Right" = "Girar para a direita";
 
+/* No comment provided by engineer. */
+"Rotate Scene" = "Girar cena";
+
+/* No comment provided by engineer. */
+"Round Text Font Sizes" = "Arredondar tamanhos de fontes de texto";
+
 /* Tool */
 "Rounded Rect." = "Retângulo arredondado.";
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "Retângulo arredondado";
+
+/* No comment provided by engineer. */
+"Roundness" = "Arredondamento";
 
 /* Retouch Tools
    Tool */
@@ -2302,6 +3016,12 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Save as Preset" = "Salvar como Pré‑ajuste";
+
+/* No comment provided by engineer. */
+"Save As:" = "Salvar como:";
+
+/* No comment provided by engineer. */
+"Save As…" = "Salvar como…";
 
 /* No comment provided by engineer. */
 "Save Changes" = "Salvar Alterações";
@@ -2324,6 +3044,9 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Save image (3 remaining)" = "Salvar imagens (3 restantes)";
 
+/* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
+"Save layers and edits to a sidecar file" = "Salvar camadas e edições em um arquivo sidecar";
+
 /* No comment provided by engineer. */
 "Save linked files in iCloud to sync edits between your devices." = "Salvar os arquivos vinculados no iCloud para sincronizar as edições entre os seus dispositivos.";
 
@@ -2334,7 +3057,13 @@ Poderosos e não destrutivos.";
 "Save to Album" = "Salvar no álbum";
 
 /* No comment provided by engineer. */
+"Save to My Shapes" = "Salvar em Minhas formas";
+
+/* No comment provided by engineer. */
 "Save to Photos" = "Salvar em Fotos";
+
+/* No comment provided by engineer. */
+"Save…" = "Salvar…";
 
 /* No comment provided by engineer. */
 "Saving…" = "Salvando…";
@@ -2379,16 +3108,31 @@ Poderosos e não destrutivos.";
 "Select All" = "Selecionar tudo";
 
 /* No comment provided by engineer. */
-"Select Background" = "Selecionar Fundo";
+"Select and Mask" = "Selecionar e aplicar máscara";
+
+/* No comment provided by engineer. */
+"Select and Mask…" = "Selecionar e aplicar máscara...";
 
 /* No comment provided by engineer. */
 "Select background" = "Selecione o fundo";
+
+/* No comment provided by engineer. */
+"Select Background" = "Selecionar Fundo";
+
+/* No comment provided by engineer. */
+"Select Color Range" = "Selecionar faixa de cores";
 
 /* Tool */
 "Select Column" = "Selecionar coluna";
 
 /* No comment provided by engineer. */
+"Select Groups" = "Selecionar grupos";
+
+/* No comment provided by engineer. */
 "Select Images" = "Selecionar imagens";
+
+/* No comment provided by engineer. */
+"Select Layers" = "Selecionar camadas";
 
 /* No comment provided by engineer. */
 "Select LUT" = "Selecione o LUT";
@@ -2418,6 +3162,18 @@ Poderosos e não destrutivos.";
 "Selected layer is locked, unlock it to edit." = "A camada selecionada está bloqueada. Desbloqueie-a para editar.";
 
 /* No comment provided by engineer. */
+"Selection" = "Seleção";
+
+/* No comment provided by engineer. */
+"Selection Move" = "Movimentação da seleção";
+
+/* No comment provided by engineer. */
+"Selection Resize" = "Redimensionamento da seleção";
+
+/* No comment provided by engineer. */
+"Selection Rotate" = "Rotação da seleção";
+
+/* No comment provided by engineer. */
 "Selective Clarity" = "Claridade seletiva";
 
 /* No comment provided by engineer. */
@@ -2426,11 +3182,20 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Selective Colors" = "Cores seletivas";
 
+/* No comment provided by engineer. */
+"Send Backward" = "Deslocar para trás";
+
 /* Edit Menu */
 "Send to Back" = "Enviar par trás";
 
 /* No comment provided by engineer. */
 "Sepia" = "Sépia";
+
+/* No comment provided by engineer. */
+"Set Playback Delay" = "Definir atraso na reprodução";
+
+/* No comment provided by engineer. */
+"Set Poster Frame" = "Definir moldura do poster";
 
 /* Shape line start or end */
 "Set the endpoint size." = "Defina o tamanho da ponta.";
@@ -2471,6 +3236,12 @@ Poderosos e não destrutivos.";
 "Sharpen" = "Tornar nítido";
 
 /* No comment provided by engineer. */
+"Sharpen Path" = "Tornar traçado nítido";
+
+/* No comment provided by engineer. */
+"Sharpen Point" = "Tornar ponto nítido";
+
+/* No comment provided by engineer. */
 "Sharpness" = "Nitidez";
 
 /* No comment provided by engineer. */
@@ -2504,6 +3275,12 @@ Poderosos e não destrutivos.";
 "Show Filmstrip" = "Exibir fita de filme";
 
 /* No comment provided by engineer. */
+"Show Grid" = "Mostrar grade";
+
+/* No comment provided by engineer. */
+"Show Handles" = "Exibir alças";
+
+/* No comment provided by engineer. */
 "Show Info" = "Mostrar informações";
 
 /* Layer */
@@ -2520,6 +3297,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Show Names" = "Mostrar Nomes";
+
+/* No comment provided by engineer. */
+"Show Optimized Preview" = "Exibir prévia otimizada";
 
 /* No comment provided by engineer. */
 "Show Original" = "Mostrar original";
@@ -2540,7 +3320,22 @@ Poderosos e não destrutivos.";
 "Show Repair Size Slider" = "Exibir controle deslizante Reparar";
 
 /* No comment provided by engineer. */
+"Show Shape Outline" = "Mostrar o contorno da forma";
+
+/* No comment provided by engineer. */
 "Show Sliders" = "Exibir controles deslizantes";
+
+/* No comment provided by engineer. */
+"Shrink Text to Fit Setting" = "Reduzir texto para comportar ajuste";
+
+/* No comment provided by engineer. */
+"Sidecar File Not Found" = "Arquivo sidecar não encontrado";
+
+/* Refers to a linked file (sidecar file) that is linked to another image file. */
+"Sidecar:" = "Sidecar:";
+
+/* No comment provided by engineer. */
+"Sides: %d" = "Lados: %d";
 
 /* No comment provided by engineer. */
 "Simple" = "Simples";
@@ -2561,16 +3356,34 @@ Poderosos e não destrutivos.";
 "Skew" = "Inclinar";
 
 /* No comment provided by engineer. */
+"Skew Transform" = "Transformação por inclinação";
+
+/* No comment provided by engineer. */
 "Skip overview" = "Pular a visão geral";
 
 /* No comment provided by engineer. */
 "Sky" = "Céu";
 
+/* No comment provided by engineer. */
+"Slice" = "Segmento";
+
 /* Tool */
 "Smart Deband" = "Eliminar Faixas Inteligente";
 
 /* No comment provided by engineer. */
+"Smart Refine" = "Refinamento inteligente";
+
+/* No comment provided by engineer. */
+"Smooth Path" = "Traçado suave";
+
+/* No comment provided by engineer. */
+"Smooth Point" = "Ponto suave";
+
+/* No comment provided by engineer. */
 "Smooth textures" = "Texturas lisas";
+
+/* No comment provided by engineer. */
+"Smoothen Path" = "Suavizar traçado";
 
 /* Retouch Tools
    Tool */
@@ -2582,12 +3395,18 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Soft Light" = "Luz suave";
 
+/* No comment provided by engineer. */
+"Soft Proof with %@" = "Prova de cores com %@";
+
 /* Retouch Tools
    Tool */
 "Soften" = "Suavizar";
 
 /* No comment provided by engineer. */
 "Softness" = "Suavidade";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "Alguns recursos importantes e indispensáveis para o funcionamento correto de %@ não estão disponíveis, possivelmente devido a pouco espaço em disco ou a um erro no sistema operacional.";
 
 /* No comment provided by engineer. */
 "Some of the selected images could not be processed." = "Algumas imagens selecionadas não puderam ser processadas.";
@@ -2612,6 +3431,12 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Source Out" = "Origem fora";
+
+/* No comment provided by engineer. */
+"Spacing After" = "Espaçamento após";
+
+/* No comment provided by engineer. */
+"Spacing Before" = "Espaçamento depois";
 
 /* No comment provided by engineer. */
 "SPECIAL OFFERS" = "OFERTAS ESPECIAIS";
@@ -2641,10 +3466,16 @@ Poderosos e não destrutivos.";
 "Start" = "Início";
 
 /* No comment provided by engineer. */
+"Start Drawing" = "Comece a desenhar";
+
+/* No comment provided by engineer. */
 "Start editing" = "Começar a editar";
 
 /* No comment provided by engineer. */
 "Start Free Trial" = "Iniciar Avaliação Gratuita";
+
+/* No comment provided by engineer. */
+"Start Freeform Drawing" = "Iniciar desenho livre";
 
 /* No comment provided by engineer. */
 "Start Point" = "Ponto inicial";
@@ -2671,6 +3502,9 @@ Poderosos e não destrutivos.";
 "Stretch" = "Esticar";
 
 /* No comment provided by engineer. */
+"Strikethrough" = "Tachado";
+
+/* No comment provided by engineer. */
 "Stroke" = "Traço";
 
 /* No comment provided by engineer. */
@@ -2682,6 +3516,12 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Stroke Width" = "Largura do traço";
 
+/* No comment provided by engineer. */
+"Stroke with Brush" = "Traço com pincel";
+
+/* No comment provided by engineer. */
+"Stroke with Brush…" = "Traço com pincel…";
+
 /* Tool */
 "Style" = "Estilo";
 
@@ -2692,6 +3532,9 @@ Poderosos e não destrutivos.";
 "Subject" = "Tema";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "Máscara alvo";
+
+/* No comment provided by engineer. */
 "Subscribe to Photomator" = "Assinar o Photomator";
 
 /* No comment provided by engineer. */
@@ -2699,6 +3542,12 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Subtract" = "Subtrair";
+
+/* No comment provided by engineer. */
+"Subtract from Shape" = "Subtrair da forma";
+
+/* No comment provided by engineer. */
+"Subtract Shapes" = "Subtrair formas";
 
 /* Tool */
 "Super Resolution" = "Super resolução";
@@ -2756,6 +3605,15 @@ Poderosos e não destrutivos.";
 "Text" = "Texto";
 
 /* No comment provided by engineer. */
+"Text Change" = "Alteração do texto";
+
+/* No comment provided by engineer. */
+"Text Color" = "Cor do texto";
+
+/* No comment provided by engineer. */
+"Text Style" = "Estilo do texto";
+
+/* No comment provided by engineer. */
 "Texture" = "Textura";
 
 /* No comment provided by engineer. */
@@ -2769,6 +3627,21 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "Os pré-ajustes de ajustes de cores foram importados com sucesso.";
+
+/* No comment provided by engineer. */
+"The document couldn’t be opened." = "O documento não pôde ser aberto.";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible with %@ %@." = "O documento está danificado ou não é compatível com %1$@ %2$@.";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible with %@." = "O documento está danificado ou não é compatível com %@.";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible." = "O documento está danificado ou não é compatível.";
+
+/* No comment provided by engineer. */
+"The document “%@” couldn’t be opened." = "O documento “%@” não pôde ser aberto.";
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "O app Arquivos permite explorar todos os documentos no dispositivo. Para usar o navegador do app Fotos, toque em %@ e selecione Fotos no menu Navegador.";
@@ -2795,10 +3668,28 @@ Poderosos e não destrutivos.";
 "The image could not be shared to Photomator." = "A imagem não pôde ser compartilhada com o Photomator.";
 
 /* No comment provided by engineer. */
+"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "A imagem que você está tentando abrir tem um arquivo sidecar, mas aparentemente a imagem original foi editada e os arquivos não estão sincronizados. Deseja abrir o arquivo sidecar da imagem?";
+
+/* No comment provided by engineer. */
+"The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "O formato JPEG/PNG/TIFF não é compatível com camadas múltiplas e outras informações de formatação. Para preservar essas informações, salve a imagem como um documento do Pixelmator Pro.";
+
+/* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "O número máximo de camadas para este tamanho de imagem é de %i";
 
 /* No comment provided by engineer. */
 "The most powerful photo editing app ever designed for a mobile device." = "O aplicativo de edição fotográfica mais poderoso já criado para um dispositivo móvel.";
+
+/* No comment provided by engineer. */
+"The operation was cancelled." = "A operação foi cancelada.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because the Photos library asset could not be found." = "Não foi possível salvar a foto porque o material da fototeca do app Fotos não pôde ser encontrado.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because this Photos library asset does not seem to be editable." = "Não foi possível salvar a foto porque este material da fototeca do app Fotos não parece ser editável.";
+
+/* No comment provided by engineer. */
+"The photo could not be saved due to an error that occurred while exporting the image." = "Não foi possível salvar a foto devido a um erro ocorrido ao exportar a imagem.";
 
 /* No comment provided by engineer. */
 "The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "A biblioteca predefinida será restaurada com os valores padrão, removendo todos os pré-ajustes e coleções que você criou. A ação não pode ser desfeita.";
@@ -2820,6 +3711,15 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "The size is too large." = "O tamanho é muito grande.";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible with %@ %@." = "O documento %1$@ está danificado ou não é compatível com %2$@ %3$@.";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible with %@." = "O documento %1$@ está danificado ou não é compatível com %2$@.";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible." = "O documento %@ está danificado ou não é compatível.";
 
 /* Image save error */
 "There is not enough available storage to save your image to this location. Would you like to save it somewhere else?" = "Não há espaço de armazenamento suficiente para salvar sua imagem neste local. Deseja salvar em outro lugar?";
@@ -2843,6 +3743,12 @@ Poderosos e não destrutivos.";
 "This format isn’t currently supported." = "Este formato não é compatível atualmente.";
 
 /* No comment provided by engineer. */
+"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "Esta imagem tem um arquivo sidecar do Pixelmator Pro associada a ela, mas esse arquivo não pôde ser aberto. O arquivo da imagem original será aberto em vez disso.";
+
+/* No comment provided by engineer. */
+"This image has been modified by another application." = "A imagem foi alterada por outro aplicativo.";
+
+/* No comment provided by engineer. */
 "This image has too many layers to be opened on this device." = "Esta imagem tem camadas demais para ser aberta neste dispositivo.";
 
 /* No comment provided by engineer. */
@@ -2850,6 +3756,12 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "This image is too large to be opened on this device." = "Esta imagem é grande demais para ser aberta neste aparelho.";
+
+/* No comment provided by engineer. */
+"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "A imagem deveria ter um arquivo sidecar do Pixelmator Pro associada a ela, mas esse arquivo não foi encontrado. O arquivo da imagem original será aberto em vez disso.";
+
+/* No comment provided by engineer. */
+"This photo is too large." = "A foto é grande demais.";
 
 /* No comment provided by engineer. */
 "This Photo was edited and not synced. Continue editing?" = "Esta foto foi editada e não sincronizada. Prosseguir com a edição?";
@@ -2900,10 +3812,13 @@ Poderosos e não destrutivos.";
 "to" = "a";
 
 /* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "Para evitar problemas, salve todo o trabalho ainda não salvo, depois libere algum espaço de armazenamento e experimente reiniciar o Mac.";
+
+/* No comment provided by engineer. */
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "Para começar a editar fotos em lote, primeiro toque em Selecionar no canto superior direito. Depois selecione diversas fotos e toque em Lote na barra de ferramentas. Finalmente, basta escolher um dos fluxos de trabalho em lote disponíveis, ou criar o seu próprio, e tocar em Aplicar.";
 
 /* No comment provided by engineer. */
-"To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "Você pode usar IA para selecionar e editar rapidamente áreas específicas de uma foto. Toque em + na parte superior do painel Ajustes de Cor e escolha a área desejada. Para ver todas as camadas adicionadas, toque em Camada de Imagem na parte superior.";
+"To edit specific areas of a photo, you can quickly select them using AI. Tap %@ at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "Você pode usar IA para selecionar e editar rapidamente áreas específicas de uma foto. Toque em %@ na parte superior do painel Ajustes de Cor e escolha a área desejada. Para ver todas as camadas adicionadas, toque em Camada de Imagem na parte superior.";
 
 /* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "Para comprar o Photomator, é necessária uma conexão à internet. Verifique isso nos Ajustes e tente novamente.";
@@ -2913,6 +3828,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "To use this feature, you’ll need to purchase unlimited access to Photomator, but it looks like you’re offline. To purchase, you’ll need to go online." = "Para usar este recurso, você precisa comprar acesso ilimitado ao Photomator. Mas parece que você está off‑line. Para comprar, você precisa estar on‑line.";
+
+/* No comment provided by engineer. */
+"Tolerance: %@" = "Tolerância: %@";
 
 /* No comment provided by engineer. */
 "Tone" = "Tom";
@@ -2930,7 +3848,22 @@ Poderosos e não destrutivos.";
 "Touch Size" = "Tamanho do toque";
 
 /* No comment provided by engineer. */
+"Transform" = "Transformação";
+
+/* No comment provided by engineer. */
+"Transform Path…" = "Transformar o caminho…";
+
+/* No comment provided by engineer. */
+"Transform Selection…" = "Seleção da transformação…";
+
+/* No comment provided by engineer. */
+"Transform…" = "Transformar…";
+
+/* No comment provided by engineer. */
 "Transition" = "Transição";
+
+/* No comment provided by engineer. */
+"Trim" = "Recortar";
 
 /* Tool */
 "Trim Canvas" = "Cortar tela";
@@ -2957,6 +3890,12 @@ Poderosos e não destrutivos.";
 "Unable to apply LUT" = "Não foi possível aplicar o LUT";
 
 /* No comment provided by engineer. */
+"Unable to Apply Smart Deband" = "Não Foi Possível Aplicar Eliminar Faixas Inteligente";
+
+/* No comment provided by engineer. */
+"Unable to Apply Smart HDR" = "Não Foi Possível Aplicar HDR Inteligente";
+
+/* No comment provided by engineer. */
 "Unable to Check Purchases" = "Não foi possível verificar as compras";
 
 /* No comment provided by engineer. */
@@ -2978,6 +3917,9 @@ Poderosos e não destrutivos.";
 "Unable to Open Image" = "Não foi possível abrir a imagem";
 
 /* No comment provided by engineer. */
+"Unable to Open Sidecar File" = "Não foi possível salvar o arquivo sidecar";
+
+/* No comment provided by engineer. */
 "Unable to Process" = "Não foi possível processar";
 
 /* No comment provided by engineer. */
@@ -2993,6 +3935,9 @@ Poderosos e não destrutivos.";
 "Unable to Share Image" = "Não é possível compartilhar a imagem";
 
 /* No comment provided by engineer. */
+"Underline" = "Sublinhar";
+
+/* No comment provided by engineer. */
 "Undo" = "Desfazer";
 
 /* No comment provided by engineer. */
@@ -3006,6 +3951,9 @@ Poderosos e não destrutivos.";
 
 /* Layer Arrange */
 "Ungroup" = "Desagrupar";
+
+/* No comment provided by engineer. */
+"Unite Shapes" = "Unir formas";
 
 /* Layer */
 "Unlock" = "Desbloquear";
@@ -3024,6 +3972,9 @@ Poderosos e não destrutivos.";
 
 /* %@ stands for non-breaking space */
 "Unlock Photomator%@for%@Mac" = "Desbloquear Photomator%1$@para%2$@Mac";
+
+/* No comment provided by engineer. */
+"Unmute" = "Ativar som";
 
 /* No comment provided by engineer. */
 "Unnamed" = "Sem nome";
@@ -3047,10 +3998,10 @@ Poderosos e não destrutivos.";
 "Untitled Album" = "Álbum sem Título";
 
 /* No comment provided by engineer. */
-"Untitled layer" = "Camada sem nome";
+"Untitled Layer" = "Camada sem nome";
 
 /* No comment provided by engineer. */
-"Untitled Layer" = "Camada sem nome";
+"Untitled layer" = "Camada sem nome";
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "Máscara de camada sem nome";
@@ -3060,6 +4011,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Update to iPadOS 17 to access full HDR support." = "Atualize para o tiPadOS 17 para ter compatibilidade total com HDR.";
+
+/* No comment provided by engineer. */
+"Upgrade" = "Atualizar";
 
 /* No comment provided by engineer. */
 "Upgrade to access the full image editing experience in Photomator." = "Atualize para ter acesso à experiência completa de edição de imagens no Photomator.";
@@ -3077,7 +4031,16 @@ Poderosos e não destrutivos.";
 "Use iCloud" = "Usar o iCloud";
 
 /* No comment provided by engineer. */
+"Use ITUR-2100 Intermediates" = "Usar Intermediários ITUR-2100";
+
+/* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "Utilize o algoritmo de reconhecimento de texturas";
+
+/* No comment provided by engineer. */
+"Version history is not fully supported for images with sidecar files." = "O histórico de versões não é totalmente compatível com imagens com arquivos sidecar.";
+
+/* No comment provided by engineer. */
+"Vertical Alignment" = "Alinhamento vertical";
 
 /* Perspective transform */
 "Vertical Perspective" = "Perspectiva vertical";
@@ -3106,11 +4069,17 @@ Poderosos e não destrutivos.";
 /* Stands for Width, up to 3 characters */
 "W:" = "L:";
 
+/* No comment provided by engineer. */
+"w: %@ h: %@" = "w: %1$@ h: %2$@";
+
 /* Tool */
 "Warp" = "Distorcer";
 
 /* No comment provided by engineer. */
 "Watercolor" = "Aquarela";
+
+/* No comment provided by engineer. */
+"Watermark" = "Marca d’Água";
 
 /* The name of an image file format. */
 "WebP" = "WebP";
@@ -3173,10 +4142,43 @@ Poderosos e não destrutivos.";
 "Would you like to be notified before your free trial is about to end?" = "Deseja ser notificado antes do fim do período de testes?";
 
 /* No comment provided by engineer. */
+"Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "Deseja salvar as alterações no arquivo JPEG/PNG/TIFF original ou como um document do Pixelmator Pro?";
+
+/* No comment provided by engineer. */
+"Would you like to upgrade this document?" = "Deseja atualizar o documento?";
+
+/* No comment provided by engineer. */
+"x: %@ y: %@, z: %@" = "x: %1$@ y: %2$@, z: %3$@";
+
+/* No comment provided by engineer. */
+"yaw: %@ pitch: %@, roll: %@" = "guinada: %1$@ arfagem: %2$@, rolagem: %3$@";
+
+/* No comment provided by engineer. */
 "Yellow" = "Amarelo";
 
 /* Color adjustments */
 "Yellow / Blue" = "Amarelo/Azul";
+
+/* No comment provided by engineer. */
+"You can discard the edits to keep your original file unmodified." = "Descarte as edições para manter o arquivo original inalterado.";
+
+/* No comment provided by engineer. */
+"You can download the latest version from the Mac App Store." = "Baixe a versão mais recente na Mac App Store.";
+
+/* No comment provided by engineer. */
+"You can download the latest version of %@ from the Mac App Store." = "Baixe a versão mais recente do %@ na Mac App Store.";
+
+/* No comment provided by engineer. */
+"You can revert to a previous version of your document, however, it will not contain any nondestructive edits." = "Você pode reverter para uma versão anterior do seu documento, porém ele não conterá nenhuma edição não destrutiva.";
+
+/* No comment provided by engineer. */
+"You need a newer version of %@ to open this document." = "É preciso uma versão mais recente do %@ para abrir este documento.";
+
+/* No comment provided by engineer. */
+"You need a newer version to open this document." = "É preciso uma versão mais recente para abrir este documento.";
+
+/* No comment provided by engineer. */
+"You're attempting to open a %@ sidecar document which cannot be edited directly." = "Você está tentando abrir um documento sidecar %@ que não pode ser editado diretamente.";
 
 /* No comment provided by engineer. */
 "You're Offline" = "Você está desconectado";
@@ -3207,3 +4209,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Zoom to Fit" = "Ajustar à janela";
+
+/* No comment provided by engineer. */
+"Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
+
+/* No comment provided by engineer. */
+"“%@” already exists. Do you want to replace it?" = "“%@” já existe. Deseja substituí-lo?";

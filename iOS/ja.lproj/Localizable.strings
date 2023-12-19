@@ -8,10 +8,16 @@
 "%@ Bytes" = "%@バイト";
 
 /* No comment provided by engineer. */
+"%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "％@で重大なエラーが発生しました。これは、ディスク容量が少ないか、オペレーティングシステムのエラーが原因である可能性があります。一部のストレージを解放したり、Macを再起動したりすると問題が解決する場合があります。";
+
+/* No comment provided by engineer. */
 "%@ OFF" = "%@ オフ";
 
 /* seconds */
 "%@s" = "%@s";
+
+/* No comment provided by engineer. */
+"%d files already exists. Do you want to replace them?" = "%d 個のファイルがすでに存在します。置き換えますか？";
 
 /* crop aspect ratio */
 "%d:%0.2f" = "%1$d:%2$.2f";
@@ -33,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "%i Images Selected" = "%i 画像を選択";
+
+/* No comment provided by engineer. */
+"%i Layers" = "%iレイヤー";
 
 /* No comment provided by engineer. */
 "%i of %i Edits Used" = "%1$i / %2$i の編集が使用済み";
@@ -92,6 +101,9 @@
 "\"%@\" Preset" = "\"%@\"プリセット";
 
 /* No comment provided by engineer. */
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "フォルダ%@には同じ名前のファイルまたはフォルダが存在します。これを置き換えると現在の内容が上書きされます。";
+
+/* No comment provided by engineer. */
 "ACCENT COLOR" = "アクセントの色";
 
 /* No comment provided by engineer. */
@@ -115,6 +127,9 @@
 /* Edit Menu */
 "Add Group" = "グループを追加";
 
+/* No comment provided by engineer. */
+"Add Guide" = "ガイドを追加";
+
 /* Layer Management */
 "Add Image" = "画像を追加";
 
@@ -125,13 +140,31 @@
 "Add LUTs From Folder…" = "フォルダからLUTを追加…";
 
 /* No comment provided by engineer. */
+"Add Mask" = "マスクを追加";
+
+/* No comment provided by engineer. */
+"Add Masked Layer" = "マスク付きレイヤー";
+
+/* No comment provided by engineer. */
 "Add Photos" = "写真を追加";
+
+/* No comment provided by engineer. */
+"Add Point" = "ポイントを追加";
 
 /* No comment provided by engineer. */
 "Add Raw Layer" = "RAWレイヤーを追加";
 
+/* No comment provided by engineer. */
+"Add Shadow" = "シャドウを追加";
+
+/* No comment provided by engineer. */
+"Add Slice" = "スライスを追加";
+
 /* Layer Management */
 "Add Text" = "テキストを追加";
+
+/* No comment provided by engineer. */
+"Add to Shape" = "シェイプに追加";
 
 /* Tool */
 "Adjust Colors" = "カラーを調整";
@@ -141,6 +174,9 @@
 
 /* No comment provided by engineer. */
 "Adjust Intensity" = "強度を調整";
+
+/* No comment provided by engineer. */
+"Adjust Light Position" = "ライトの位置を調整";
 
 /* Shape line start or end */
 "Adjust the endpoint size." = "終点のサイズを調整します。";
@@ -170,6 +206,27 @@
 "Align" = "配置";
 
 /* No comment provided by engineer. */
+"Align Bottom Edges" = "下端";
+
+/* No comment provided by engineer. */
+"Align Horizontal Centers" = "水平方向の中央";
+
+/* No comment provided by engineer. */
+"Align Left Edges" = "左端";
+
+/* No comment provided by engineer. */
+"Align Right Edges" = "右端";
+
+/* No comment provided by engineer. */
+"Align to Pixel Grid" = "ピクセルグリッドに揃える";
+
+/* No comment provided by engineer. */
+"Align Top Edges" = "上端";
+
+/* No comment provided by engineer. */
+"Align Vertical Centers" = "垂直方向の中央";
+
+/* No comment provided by engineer. */
 "All Albums" = "すべてのアルバム";
 
 /* No comment provided by engineer. */
@@ -194,7 +251,16 @@
 "Ambient Light" = "環境光";
 
 /* No comment provided by engineer. */
+"An error occured and it was not possible to save your changes to the sidecar file for this image.\n\nIf you want to keep the latest layers and other nondestructive edits, export the image to Pixelmator Pro format." = "エラーが発生したため、この画像のSidecarファイルに変更を保存できませんでした。\n\n最新のレイヤーやその他の編集内容を維持したい場合は、画像を Pixelmator Pro 形式で書き出してください。";
+
+/* No comment provided by engineer. */
 "An Error Occurred" = "エラーが起きました";
+
+/* No comment provided by engineer. */
+"An error occurred while saving the sidecar file for this asset." = "このアセットのサイドカーファイルの保存中にエラーが発生しました。";
+
+/* No comment provided by engineer. */
+"An error occurred while saving to the Photos library. Error code: %d" = "写真ライブラリに保存中にエラーが発生しました。エラーコード: %d";
 
 /* No comment provided by engineer. */
 "An unknown error occurred." = "不明なエラーが起きました。";
@@ -209,6 +275,9 @@
 "Angle Scatter" = "散布の角度";
 
 /* No comment provided by engineer. */
+"Angle: %@" = "角度: %@";
+
+/* No comment provided by engineer. */
 "App Settings" = "アプリ設定";
 
 /* No comment provided by engineer. */
@@ -221,7 +290,13 @@
 "Apply LUT" = "LUTを適用";
 
 /* No comment provided by engineer. */
+"Apply Watermark" = "ウォーターマークを適用";
+
+/* No comment provided by engineer. */
 "Applying %@" = "%@を適用中";
+
+/* No comment provided by engineer. */
+"Are you sure you want to modify the document in place?" = "本当にその場所で書類を変更してもいいですか？";
 
 /* Layer Arrange
    Tool */
@@ -243,6 +318,9 @@
 "Aspect Ratio" = "縦横比";
 
 /* No comment provided by engineer. */
+"Attempting to Open %@ Sidecar Document" = "%@ Sidecar書類を開こうとしています";
+
+/* No comment provided by engineer. */
 "Auto" = "自動";
 
 /* No comment provided by engineer. */
@@ -258,6 +336,21 @@
 "Auto Enhance" = "自動補正";
 
 /* No comment provided by engineer. */
+"Auto Select" = "自動選択";
+
+/* No comment provided by engineer. */
+"Auto Select Off" = "自動選択をオフ";
+
+/* No comment provided by engineer. */
+"Auto Select On" = "自動選択をオン";
+
+/* No comment provided by engineer. */
+"Auto Straighten" = "自動矯正";
+
+/* No comment provided by engineer. */
+"Auto-Center" = "自動中央";
+
+/* No comment provided by engineer. */
 "Auto-Hide" = "自動的に隠す";
 
 /* No comment provided by engineer. */
@@ -268,6 +361,9 @@
 
 /* The name of an image file format */
 "AVIF" = "AVIF";
+
+/* No comment provided by engineer. */
+"azimuth: %@, elevation: %@" = "方位: %1$@, 仰角: %2$@";
 
 /* No comment provided by engineer. */
 "Background" = "背景";
@@ -282,7 +378,13 @@
 "Balance Adjustment" = "バランス調整";
 
 /* No comment provided by engineer. */
+"Baseline" = "ベースライン";
+
+/* No comment provided by engineer. */
 "Baseline Exposure" = "ベースラインの表示";
+
+/* No comment provided by engineer. */
+"Baseline Offset" = "ベースラインのオフセット";
 
 /* Tool */
 "Basic" = "基本";
@@ -333,6 +435,9 @@
 "BMP" = "BMP";
 
 /* No comment provided by engineer. */
+"Bold" = "ボールド";
+
+/* No comment provided by engineer. */
 "Boost" = "ブースト";
 
 /* No comment provided by engineer. */
@@ -343,6 +448,9 @@
 
 /* Color adjustments */
 "Brightness" = "明度";
+
+/* No comment provided by engineer. */
+"Bring Forward" = "前面へ";
 
 /* Edit Menu */
 "Bring to Front" = "最前面へ";
@@ -375,10 +483,16 @@
 "Cancel" = "キャンセル";
 
 /* No comment provided by engineer. */
+"Cancelled" = "キャンセルされました";
+
+/* No comment provided by engineer. */
 "Cannot Create More Layers" = "これ以上のレイヤーは作成できません";
 
 /* Tool */
 "Canvas Size" = "キャンバスサイズ";
+
+/* No comment provided by engineer. */
+"Capitalization" = "大文字の設定";
 
 /* stroke options - line caps */
 "Caps" = "形状";
@@ -393,10 +507,31 @@
 "Centimeters" = "センチ";
 
 /* No comment provided by engineer. */
+"Change" = "変更";
+
+/* No comment provided by engineer. */
 "Change Blending Mode" = "ブレンドモードを変更";
 
 /* No comment provided by engineer. */
+"Change Capitalization" = "大文字の変更";
+
+/* No comment provided by engineer. */
 "Change Color..." = "カラーを変更...";
+
+/* No comment provided by engineer. */
+"Change End Behavior" = "終了動作を変更";
+
+/* No comment provided by engineer. */
+"Change Perspective" = "視点を変更";
+
+/* No comment provided by engineer. */
+"Change Shape" = "シェイプを変更";
+
+/* No comment provided by engineer. */
+"Change Start Behavior" = "開始動作を変更";
+
+/* Shown as a subtitle when an image has an associated sidecar document, in which layers and other nondestructive edits are saved and tracked. */
+"Changes Tracked in Sidecar" = "Sidecarで追跡された変更";
 
 /* No comment provided by engineer. */
 "Channel" = "チャンネル";
@@ -404,8 +539,14 @@
 /* No comment provided by engineer. */
 "Channel Mixer" = "チャンネルミキサー";
 
+/* No comment provided by engineer. */
+"Character Spacing" = "文字間隔";
+
 /* Image open error */
 "Check your internet connection, then try again." = "インターネット接続を確認してやり直してください。";
+
+/* No comment provided by engineer. */
+"Choose Image…" = "画像を選択...";
 
 /* No comment provided by engineer. */
 "Choose Location" = "場所を選択";
@@ -440,12 +581,30 @@
 /* No comment provided by engineer. */
 "Clarity Shadows" = "シャドウを明るく";
 
+/* No comment provided by engineer. */
+"Clear Guides" = "ガイドを消去";
+
+/* No comment provided by engineer. */
+"Clear Mask" = "マスクを消去";
+
+/* No comment provided by engineer. */
+"Clear Selection" = "選択を消去";
+
+/* No comment provided by engineer. */
+"Clear Slices" = "スライスを消去";
+
 /* Retouch Tools
    Tool */
 "Clone" = "クローン";
 
+/* No comment provided by engineer. */
+"Close Path" = "パスを閉じる";
+
 /* Units */
 "cm" = "センチ";
+
+/* No comment provided by engineer. */
+"CMYK Profiles" = "CMYK プロファイル";
 
 /* Tool */
 "Color" = "カラー";
@@ -482,10 +641,16 @@
 "Color Range Layer" = "色範囲レイヤー";
 
 /* No comment provided by engineer. */
+"Color Selection" = "色選択";
+
+/* No comment provided by engineer. */
 "Color Wheels" = "カラーホイール";
 
 /* No comment provided by engineer. */
 "Colors" = "カラー";
+
+/* No comment provided by engineer. */
+"Common Profiles" = "汎用プロファイル";
 
 /* No comment provided by engineer. */
 "Compatible with the new iPad Pro" = "新しい iPad Pro に対応";
@@ -509,6 +674,12 @@
 "Convert Into Adjustments" = "調整に変換";
 
 /* No comment provided by engineer. */
+"Convert into Pixels" = "ピクセルに変換";
+
+/* No comment provided by engineer. */
+"Convert into Shape" = "シェイプに変換";
+
+/* No comment provided by engineer. */
 "Convert LUT into Adjustments" = "LUTを調整に変換する";
 
 /* No comment provided by engineer. */
@@ -520,17 +691,26 @@
 /* No comment provided by engineer. */
 "Converting to HDR…" = "HDRに変換中...";
 
-/* Used in gallery document duplicate. */
-"copy" = "コピー";
-
 /* Edit Menu */
 "Copy" = "コピー";
+
+/* Used in gallery document duplicate. */
+"copy" = "コピー";
 
 /* No comment provided by engineer. */
 "Copy Adjustments" = "調整をコピー";
 
+/* No comment provided by engineer. */
+"Copy and Paste as Layer" = "レイヤーとしてコピー＆ペースト";
+
 /* Layer Management */
 "Copy Layer" = "レイヤーをコピー";
+
+/* No comment provided by engineer. */
+"Copy Merged" = "結合部分をコピー";
+
+/* No comment provided by engineer. */
+"Copy ML Decontaminated Selection" = "Copy ML Decontaminated Selection";
 
 /* No comment provided by engineer. */
 "Copy Saved to Photos" = "写真に保存";
@@ -544,11 +724,20 @@
 /* stroke options - line join style */
 "Corner" = "角";
 
+/* No comment provided by engineer. */
+"Corner Radius" = "角の半径";
+
+/* No comment provided by engineer. */
+"Corner Radius Setting" = "角の半径の設定";
+
 /* Tool */
 "Crayon" = "クレヨン";
 
 /* No comment provided by engineer. */
 "Create Album with Selected Photos" = "選択した写真でアルバムを作成";
+
+/* No comment provided by engineer. */
+"Create Clipping Mask" = "クリッピングマスクを作成";
 
 /* Gallery */
 "Create Image" = "画像を作成";
@@ -562,8 +751,14 @@
 /* No comment provided by engineer. */
 "Creation Date" = "作成日";
 
+/* No comment provided by engineer. */
+"Critical Resources Unavailable" = "重要なリソースは利用できません";
+
 /* Tool */
 "Crop" = "切り抜き";
+
+/* No comment provided by engineer. */
+"Crop…" = "切り抜く…";
 
 /* No comment provided by engineer. */
 "Current" = "現在";
@@ -589,6 +784,9 @@
 
 /* Edit Menu */
 "Cut" = "カット";
+
+/* No comment provided by engineer. */
+"Cut and Paste as Layer" = "レイヤーとしてカット＆ペースト";
 
 /* Layer Management */
 "Cut Layer" = "レイヤーをカット";
@@ -625,10 +823,22 @@
 "Debanding…" = "バンド除去中...";
 
 /* No comment provided by engineer. */
+"Decontaminate Colors" = "カラーを除去";
+
+/* No comment provided by engineer. */
+"Decontaminate Selection" = "選択を除去";
+
+/* No comment provided by engineer. */
+"Decontaminating Colors…" = "カラーを除去中...";
+
+/* No comment provided by engineer. */
 "Decontaminating colors…" = "カラーを除去中...";
 
 /* No comment provided by engineer. */
 "Default" = "デフォルト";
+
+/* No comment provided by engineer. */
+"Default Baseline" = "デフォルトのベースライン";
 
 /* No comment provided by engineer. */
 "Dehaze" = "かすみの除去";
@@ -649,10 +859,22 @@
 "Delete Layer" = "レイヤーを削除";
 
 /* No comment provided by engineer. */
+"Delete Layers" = "レイヤーを削除";
+
+/* No comment provided by engineer. */
 "Delete Linked File" = "リンクしたファイルを削除";
+
+/* No comment provided by engineer. */
+"Delete Path" = "パスを削除";
 
 /* Edit Menu */
 "Delete Preset" = "プリセットを削除";
+
+/* No comment provided by engineer. */
+"Delete Slice" = "スライスを削除";
+
+/* No comment provided by engineer. */
+"Delete Slices" = "スライスを削除";
 
 /* Tool */
 "Denoise" = "ノイズ除去";
@@ -672,6 +894,9 @@
 /* Retouch Tools
    Tool */
 "Desaturate" = "彩度を下げる";
+
+/* No comment provided by engineer. */
+"Deselect" = "選択を解除";
 
 /* No comment provided by engineer. */
 "Deselect All" = "すべての選択を解除";
@@ -698,10 +923,13 @@
 "Details" = "詳細";
 
 /* No comment provided by engineer. */
-"Detecting sky…" = "空を検出しています…";
+"Detecting background…" = "背景を検出しています…";
 
 /* No comment provided by engineer. */
 "Detecting Sky…" = "空を検出しています…";
+
+/* No comment provided by engineer. */
+"Detecting sky…" = "空を検出しています…";
 
 /* No comment provided by engineer. */
 "Detecting subject…" = "対象を検出しています…";
@@ -751,17 +979,59 @@
 /* No comment provided by engineer. */
 "Distance" = "距離";
 
+/* No comment provided by engineer. */
+"Distort" = "歪み";
+
+/* No comment provided by engineer. */
+"Distort Transform" = "歪曲変形";
+
 /* Effects category name */
 "Distortion" = "歪み";
 
 /* No comment provided by engineer. */
+"Distribute Bottom Edges" = "下端で均等割り付け";
+
+/* No comment provided by engineer. */
+"Distribute Horizontal Centers" = "水平方向の中央で均等割り付け";
+
+/* No comment provided by engineer. */
+"Distribute Horizontal Spacing" = "水平方向に均等配置";
+
+/* No comment provided by engineer. */
+"Distribute Left Edges" = "左端で均等割り付け";
+
+/* No comment provided by engineer. */
+"Distribute Right Edges" = "右端で均等割り付け";
+
+/* No comment provided by engineer. */
+"Distribute Top Edges" = "上端で均等割り付け";
+
+/* No comment provided by engineer. */
+"Distribute Vertical Centers" = "垂直方向の中央で均等割り付け";
+
+/* No comment provided by engineer. */
+"Distribute Vertical Spacing" = "垂直方向に均等配置";
+
+/* No comment provided by engineer. */
 "Divide" = "除算";
+
+/* No comment provided by engineer. */
+"Divide Path" = "パスを分割";
+
+/* No comment provided by engineer. */
+"Do you want to save the changes made to the document “%@”" = "書類“%@”への変更を保存しますか？";
+
+/* No comment provided by engineer. */
+"Document Quick Save for Web" = "Web用にクイック保存";
 
 /* No comment provided by engineer. */
 "Don't limit yourself" = "自分に限界をつくらないでください";
 
 /* No comment provided by engineer. */
 "Don't Move" = "移動しない";
+
+/* No comment provided by engineer. */
+"Don't Save" = "保存しない";
 
 /* No comment provided by engineer. */
 "Done" = "完了";
@@ -826,6 +1096,12 @@
 /* No comment provided by engineer. */
 "Draw on canvas to subtract from a mask." = "キャンバスに描画してマスクから減算します。";
 
+/* No comment provided by engineer. */
+"Draw Path" = "パスを描画";
+
+/* No comment provided by engineer. */
+"Draw Slice" = "スライスを描画";
+
 /* Edit Menu */
 "Duplicate" = "複製";
 
@@ -852,6 +1128,9 @@
 
 /* No comment provided by engineer. */
 "Edit 1 Photo" = "1写真を編集";
+
+/* No comment provided by engineer. */
+"Edit a Copy" = "コピーを編集";
 
 /* No comment provided by engineer. */
 "Edit Details" = "詳細を編集";
@@ -910,6 +1189,9 @@
 
 /* Tool */
 "Elliptical" = "楕円形";
+
+/* No comment provided by engineer. */
+"Elliptical Selection" = "楕円で選択";
 
 /* No comment provided by engineer. */
 "Elliptical Speech Bubble" = "楕円形の吹き出し";
@@ -984,13 +1266,28 @@
 "Erase" = "消去";
 
 /* No comment provided by engineer. */
+"Error:" = "エラー:";
+
+/* No comment provided by engineer. */
+"Exclude from Shape" = "シェイプから除外";
+
+/* No comment provided by engineer. */
+"Exclude Shapes" = "シェイプを除外";
+
+/* No comment provided by engineer. */
 "Exclusion" = "除外";
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "排他的論理和";
 
 /* No comment provided by engineer. */
+"Exit Editing" = "編集を解除";
+
+/* No comment provided by engineer. */
 "Exit Select Mode" = "選択モードを終了";
+
+/* No comment provided by engineer. */
+"Expand" = "拡大";
 
 /* No comment provided by engineer. */
 "Export" = "書き出す";
@@ -1002,10 +1299,37 @@
 "Export as LUT" = "LUTで書き出す";
 
 /* No comment provided by engineer. */
+"Export Document as Images" = "書類を画像として書き出す";
+
+/* No comment provided by engineer. */
+"Export for Web" = "Web用に書き出す";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"" = "スライス\"%@\"を書き出す";
+
+/* No comment provided by engineer. */
+"Export Slice \"%@\"…" = "スライス\"%@\"を書き出す…";
+
+/* No comment provided by engineer. */
+"Export Slices as Images" = "スライスを画像として書き出す";
+
+/* No comment provided by engineer. */
+"Export Slice…" = "スライスを書き出す…";
+
+/* No comment provided by engineer. */
 "Exporting LUT…" = "LUT で書き出し中...";
 
 /* No comment provided by engineer. */
+"Exporting…" = "書き出し中…";
+
+/* No comment provided by engineer. */
+"Export…" = "書き出す…";
+
+/* No comment provided by engineer. */
 "Exposure" = "露光量";
+
+/* No comment provided by engineer. */
+"Extended" = "拡張";
 
 /* No comment provided by engineer. */
 "Extended Values" = "拡張値";
@@ -1022,8 +1346,23 @@
 /* File size */
 "Failed to calculate size." = "サイズの計算ができません。";
 
+/* No comment provided by engineer. */
+"Failed to export document images." = "画像の書き出しが失敗しました。";
+
+/* No comment provided by engineer. */
+"Failed to export slice \"%@\"." = "スライス\"%@\"の書き出しに失敗しました。";
+
+/* No comment provided by engineer. */
+"Failed to export slices." = "スライスの書き出しに失敗しました。";
+
 /* Error message description for SOExtendedAttributesGetValueError */
 "Failed to get one or more extended attribute values" = "拡張属性の値の取得に失敗しました";
+
+/* No comment provided by engineer. */
+"Failed to Save Sidecar File" = "Sidecarファイルの保存に失敗";
+
+/* No comment provided by engineer. */
+"Failed to Save to Photos" = "写真の保存に失敗";
 
 /* Error message description for SOExtendedAttributesSetValueError. */
 "Failed to set one or more extended attributes." = "拡張属性の設定に失敗しました。";
@@ -1049,14 +1388,38 @@
 /* No comment provided by engineer. */
 "Files browser" = "ファイルブラウザ";
 
+/* No comment provided by engineer. */
+"Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "フォルダ%@には同じ名前のファイルまたはフォルダが存在します。これを置き換えると現在の内容が上書きされます。";
+
 /* Effects category name */
 "Fill" = "べた塗り";
+
+/* No comment provided by engineer. */
+"Fill with Background Color" = "背景色で塗りつぶす";
+
+/* No comment provided by engineer. */
+"Fill with Color…" = "色で塗りつぶす…";
+
+/* No comment provided by engineer. */
+"Fill with Foreground Color" = "前景色で塗りつぶす";
 
 /* No comment provided by engineer. */
 "Filmstrip" = "スライド";
 
 /* No comment provided by engineer. */
+"Finish Drawing" = "描画を終了";
+
+/* No comment provided by engineer. */
+"Finish Selection" = "選択を終了";
+
+/* No comment provided by engineer. */
+"First Line Indent" = "最初の行のインデント";
+
+/* No comment provided by engineer. */
 "Fit" = "画面に合わせる";
+
+/* No comment provided by engineer. */
+"Fit Crop" = "クロップに合わせる";
 
 /* No comment provided by engineer. */
 "Fixed" = "固定";
@@ -1071,10 +1434,25 @@
 "Flip Horizontally" = "水平方向に反転";
 
 /* No comment provided by engineer. */
+"Flip Text Along Path" = "パスに沿ってテキストを反転";
+
+/* No comment provided by engineer. */
 "Flip Vertically" = "垂直方向に反転";
+
+/* No comment provided by engineer. */
+"Flood Fill" = "領域内塗りつぶし";
+
+/* No comment provided by engineer. */
+"Font Change" = "フォントの変更";
+
+/* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
+"Format:" = "形式:";
 
 /* Tool */
 "Free" = "空き";
+
+/* No comment provided by engineer. */
+"Free Selection" = "フリー選択";
 
 /* No comment provided by engineer. */
 "Free Trial Ends in 2 Days" = "無料トライアルは2日で終了します";
@@ -1107,19 +1485,19 @@
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "写真の外観を修正、強化、または完全に変換するために使用できるツールの概要を簡単に確認できます。";
 
 /* No comment provided by engineer. */
-"Get Unlimited Access" = "無制限のアクセスを取得";
+"Get unlimited access" = "無制限のアクセスを取得";
 
 /* No comment provided by engineer. */
-"Get unlimited access" = "無制限のアクセスを取得";
+"Get Unlimited Access" = "無制限のアクセスを取得";
 
 /* No comment provided by engineer. */
 "Get unlimited access." = "無制限のアクセスを取得。";
 
 /* No comment provided by engineer. */
-"Getting started" = "使用開始";
+"Getting Started" = "使用開始";
 
 /* No comment provided by engineer. */
-"Getting Started" = "使用開始";
+"Getting started" = "使用開始";
 
 /* The name of an image file format. */
 "GIF" = "GIF";
@@ -1135,6 +1513,9 @@
 
 /* No comment provided by engineer. */
 "Gradient Angle" = "グラデーションの角度";
+
+/* No comment provided by engineer. */
+"Gradient Change" = "グラデーションの変更";
 
 /* No comment provided by engineer. */
 "Gradient Fill" = "グラデーションで塗りつぶし";
@@ -1159,6 +1540,9 @@
 
 /* No comment provided by engineer. */
 "Gray - White" = "グレー - ホワイト";
+
+/* No comment provided by engineer. */
+"Gray Profiles" = "グレープロファイル";
 
 /* No comment provided by engineer. */
 "Green" = "グリーン";
@@ -1213,10 +1597,22 @@
 "Hide" = "隠す";
 
 /* No comment provided by engineer. */
+"Hide Grid" = "グリッドを隠す";
+
+/* No comment provided by engineer. */
+"Hide Handles" = "ハンドルを非表示";
+
+/* No comment provided by engineer. */
 "Hide Histogram" = "ヒストグラムを隠す";
 
 /* Layer */
 "Hide Layer" = "レイヤーを非表示";
+
+/* No comment provided by engineer. */
+"Hide Optimized Preview" = "最適化したプレビューを非表示";
+
+/* No comment provided by engineer. */
+"Hide Shape Outline" = "シェイプのアウトラインを非表示";
 
 /* No comment provided by engineer. */
 "High Pass Radius" = "ハイパス半径";
@@ -1229,6 +1625,9 @@
 
 /* No comment provided by engineer. */
 "Holiday Sale" = "ホリデーセール";
+
+/* No comment provided by engineer. */
+"Horizontal Alignment" = "水平方向の配置";
 
 /* Perspective transform */
 "Horizontal Perspective" = "水平方向の視点";
@@ -1278,8 +1677,14 @@
 /* Tool */
 "Image Size" = "イメージサイズ";
 
+/* No comment provided by engineer. */
+"Image Straightened by %@" = "%@ で正された画像";
+
 /* Edit Menu */
 "Import" = "読み込み";
+
+/* No comment provided by engineer. */
+"Import as New Document" = "新規書類として取り込む";
 
 /* No comment provided by engineer. */
 "Import Photo" = "写真を読み込む";
@@ -1328,6 +1733,12 @@
 "Increasing Resolution…" = "解像度の向上…";
 
 /* No comment provided by engineer. */
+"Increasing resolution…" = "解像度の向上中...";
+
+/* No comment provided by engineer. */
+"Initial Crop" = "初期の切り抜き";
+
+/* No comment provided by engineer. */
 "Initial Direction" = "最初の方向";
 
 /* Tool */
@@ -1338,6 +1749,15 @@
 
 /* No comment provided by engineer. */
 "Insert from..." = "次から挿入…";
+
+/* No comment provided by engineer. */
+"Insert Point" = "ポイントを挿入";
+
+/* No comment provided by engineer. */
+"Inserting…" = "挿入…";
+
+/* No comment provided by engineer. */
+"Insets" = "Insets";
 
 /* No comment provided by engineer. */
 "Instantly adjust the colors of images using color presets created in other apps." = "他のアプリで作成されたカラープリセットを使用して、画像の色を即座に調整します。";
@@ -1352,7 +1772,22 @@
 "Intersect" = "交差";
 
 /* No comment provided by engineer. */
+"Intersect Shapes" = "シェイプの交差";
+
+/* No comment provided by engineer. */
+"Intersect with Shape" = "シェイプとの交差";
+
+/* No comment provided by engineer. */
 "Invert" = "反転";
+
+/* No comment provided by engineer. */
+"Invert Colors" = "カラーを反転";
+
+/* No comment provided by engineer. */
+"Invert Mask" = "マスクを反転";
+
+/* No comment provided by engineer. */
+"Invert Selection" = "選択範囲を反転";
 
 /* No comment provided by engineer. */
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "Photomatorの有効なサブスクリプションをお持ちではないようです。 これは次の場合に発生する可能性があります:\n\n1. 別のApple IDでApp Storeにサインインしています。\n2. サブスクリプションの有効期限が切れています。\n\n以上をApp Storeで確認してから、もう一度お試しください。";
@@ -1361,10 +1796,22 @@
 "It is not possible to save your image to this location. Would you like to save it somewhere else?" = "この場所に画像を保存することはできません。 別の場所に保存しますか？";
 
 /* No comment provided by engineer. */
+"It looks like “%@” was moved or renamed while it was open. Please quit and relaunch the application." = "“%@”は開いている間に移動または名称が変更されたようです。アプリケーションを終了してから再起動してください。";
+
+/* No comment provided by engineer. */
 "It looks you already have unlimited access to Photomator, so you have not been charged. Enjoy using the app!" = "すでに Photomator への無制限アクセスをお持ちのようですので、料金は発生していません。 アプリを楽しんでください！";
 
 /* No comment provided by engineer. */
 "It seems that the original photo is no longer there." = "オリジナルの写真が見つかりません。";
+
+/* No comment provided by engineer. */
+"It was last edited in an older version of Pixelmator. Upgrading will convert it to the new Pixelmator format. To preserve the original and work on a copy, click Edit a Copy." = "これは以前のバージョンのPixelmatorで編集されました。アップグレードすると新しいPixelmator形式に変換されます。オリジナルを保持してコピーで作業するには [コピーして編集] をクリックします。";
+
+/* No comment provided by engineer. */
+"Italic" = "イタリック";
+
+/* Command name to join two different shape paths. */
+"Join" = "参加";
 
 /* The name of an image file format. */
 "JPEG" = "JPEG";
@@ -1376,6 +1823,9 @@
 "JPEG-2000" = "JPEG-2000";
 
 /* No comment provided by engineer. */
+"Lasso Selection" = "なげなわで選択";
+
+/* No comment provided by engineer. */
 "Last Adjustments" = "最後の調整";
 
 /* Default new layer name */
@@ -1383,6 +1833,9 @@
 
 /* No comment provided by engineer. */
 "Layer Mask" = "レイヤーマスク";
+
+/* No comment provided by engineer. */
+"Layer Selection" = "レイヤー選択";
 
 /* No comment provided by engineer. */
 "Layer was flattened" = "レイヤーが平坦化されました";
@@ -1394,7 +1847,13 @@
 "Learn More" = "詳しい情報";
 
 /* No comment provided by engineer. */
+"Learn More…" = "詳細情報...";
+
+/* No comment provided by engineer. */
 "Left" = "左";
+
+/* No comment provided by engineer. */
+"Left Indent" = "左インデント";
 
 /* No comment provided by engineer. */
 "Lens Correction" = "レンズ補正";
@@ -1404,6 +1863,9 @@
 
 /* No comment provided by engineer. */
 "License" = "ライセンス";
+
+/* No comment provided by engineer. */
+"Ligature" = "リガチャ";
 
 /* No comment provided by engineer. */
 "Light" = "明るい";
@@ -1443,6 +1905,9 @@
 "Line" = "線";
 
 /* No comment provided by engineer. */
+"Line Height" = "行間隔";
+
+/* No comment provided by engineer. */
 "Linear" = "リニア";
 
 /* No comment provided by engineer. */
@@ -1474,6 +1939,9 @@
 
 /* No comment provided by engineer. */
 "Load SDR Content" = "SDRコンテンツを読み込み";
+
+/* No comment provided by engineer. */
+"Load Selection" = "選択範囲の読み込み";
 
 /* Document loading */
 "Loading…" = "読み込み中…";
@@ -1530,6 +1998,21 @@
 "Magnetic" = "マグネット";
 
 /* No comment provided by engineer. */
+"Magnetic Selection" = "マグネット選択";
+
+/* No comment provided by engineer. */
+"Make Editable" = "編集可能にする";
+
+/* No comment provided by engineer. */
+"Make Path Editable" = "パスを編集可能にする";
+
+/* No comment provided by engineer. */
+"Make Sharp Point" = "ポイントをシャープにする";
+
+/* No comment provided by engineer. */
+"Make Smooth Point" = "ポイントを滑らかにする";
+
+/* No comment provided by engineer. */
 "Make your shots stand out with over 30 powerful, nondestructive color adjustments." = "30を超える強力かつ非破壊的な色調整で、ショットを際立たせます。";
 
 /* No comment provided by engineer. */
@@ -1544,6 +2027,9 @@
 /* Tool */
 "Mask" = "マスク";
 
+/* No comment provided by engineer. */
+"Mask Subject" = "対象をマスク";
+
 /* Color Balance */
 "Master" = "マスター";
 
@@ -1552,6 +2038,9 @@
 
 /* No comment provided by engineer. */
 "Match Colors" = "色を一致";
+
+/* No comment provided by engineer. */
+"Matching colors…" = "色を一致…";
 
 /* No comment provided by engineer. */
 "Matching Colors…" = "色を一致…";
@@ -1566,7 +2055,16 @@
 "Medium Gray (Default)" = "ミディアムグレー (デフォルト)";
 
 /* No comment provided by engineer. */
+"Merge" = "結合";
+
+/* No comment provided by engineer. */
+"Merge All" = "すべてを結合";
+
+/* No comment provided by engineer. */
 "Merge brush marks" = "ブラシのマークを結合";
+
+/* No comment provided by engineer. */
+"Merge Shape Components" = "シェイプの部品を結合";
 
 /* Color Balance */
 "Midtones" = "ミッドトーン";
@@ -1580,11 +2078,20 @@
 /* No comment provided by engineer. */
 "ML Crop" = "ML 切り抜き";
 
+/* No comment provided by engineer. */
+"ML Decontaminate Selection" = "ML Decontaminate Selection";
+
+/* No comment provided by engineer. */
+"ML Refine Mask" = "ML Refine Mask";
+
 /* Units */
 "mm" = "ミリ";
 
 /* No comment provided by engineer. */
 "Modification Date" = "変更日";
+
+/* No comment provided by engineer. */
+"Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "その場所で書類を変更すると現在の書式の一部が失われる可能性があります。最初に書類を複製しますか？";
 
 /* No comment provided by engineer. */
 "More" = "詳細";
@@ -1616,14 +2123,29 @@
 /* No comment provided by engineer. */
 "Move Gradient" = "グラデーションを移動";
 
+/* No comment provided by engineer. */
+"Move Guide" = "ガイドを移動";
+
 /* Edit Menu */
 "Move Left" = "左に移動";
+
+/* No comment provided by engineer. */
+"Move Point" = "ポイントを移動";
 
 /* Edit Menu */
 "Move Right" = "右に移動";
 
 /* No comment provided by engineer. */
+"Move Slices" = "スライスを移動";
+
+/* No comment provided by engineer. */
 "Move Up" = "上に移動";
+
+/* No comment provided by engineer. */
+"Moved" = "Moved";
+
+/* No comment provided by engineer. */
+"Moved Object" = "Moved Object";
 
 /* Edit Menu */
 "Move…" = "移動…";
@@ -1641,6 +2163,9 @@
 "Mustache" = "口ひげ";
 
 /* No comment provided by engineer. */
+"Mute" = "ミュート";
+
+/* No comment provided by engineer. */
 "My Albums" = "マイアルバム";
 
 /* No comment provided by engineer. */
@@ -1650,10 +2175,19 @@
 "New Album with Selection" = "選択で新規アルバム";
 
 /* No comment provided by engineer. */
+"New Color Adjustments Layer" = "新規カラー調整レイヤー";
+
+/* No comment provided by engineer. */
+"New Effects Layer" = "新規エフェクトレイヤー";
+
+/* No comment provided by engineer. */
 "New Folder" = "新規フォルダ";
 
 /* No comment provided by engineer. */
 "New Layer" = "新規レイヤー";
+
+/* No comment provided by engineer. */
+"New Shape" = "新規シェイプ";
 
 /* No comment provided by engineer. */
 "Newest to Oldest" = "新しいものから古いものへ";
@@ -1678,6 +2212,12 @@
 
 /* No comment provided by engineer. */
 "No commitment, cancel anytime." = "コミットメントなし、いつでもキャンセル。";
+
+/* No comment provided by engineer. */
+"No Horizon Detected" = "水平線が検出されません";
+
+/* No comment provided by engineer. */
+"No Layer Selected" = "レイヤーが選択されていません";
 
 /* Displayed when the model of the camera lens used to take a photo is not known. */
 "No Lens Info" = "レンズ情報なし";
@@ -1716,6 +2256,9 @@
 "Now you can download Photomator%@for%@Mac from the Mac App Store and enjoy full access to all its features." = "Mac App Store から Photomator%1$@for%2$@Mac をダウンロードして、すべての機能にアクセスできるようになりました。";
 
 /* No comment provided by engineer. */
+"Offset" = "オフセット";
+
+/* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
@@ -1749,10 +2292,22 @@
 "Open App Store" = "App Store を開く";
 
 /* No comment provided by engineer. */
+"Open Image" = "画像を開く";
+
+/* No comment provided by engineer. */
+"Open Original Image" = "オリジナルの画像を開く";
+
+/* No comment provided by engineer. */
 "Open RAW by Default" = "デフォルトでRAWを開く";
+
+/* No comment provided by engineer. */
+"Open Sidecar" = "Sidecarを開く";
 
 /* The name of an image file format */
 "OpenEXR" = "OpenEXR";
+
+/* No comment provided by engineer. */
+"Optimize & Export" = "最適化 & 書き出し";
 
 /* No comment provided by engineer. */
 "Orange" = "オレンジ";
@@ -1779,6 +2334,9 @@
 "OTHER" = "その他";
 
 /* No comment provided by engineer. */
+"Outline" = "アウトライン";
+
+/* No comment provided by engineer. */
 "Overlay" = "オーバーレイ";
 
 /* No comment provided by engineer. */
@@ -1799,8 +2357,17 @@
 /* No comment provided by engineer. */
 "Paste Adjustments" = "調整をペースト";
 
+/* No comment provided by engineer. */
+"Paste and Match Colors" = "ペーストして色を合わせる";
+
+/* No comment provided by engineer. */
+"Paste Document Colors" = "書類のカラーをペースト";
+
 /* Layer Management */
 "Paste Layer" = "レイヤーをペースト";
+
+/* No comment provided by engineer. */
+"Pasting and matching colors…" = "ペーストして色を合わせる...";
 
 /* No comment provided by engineer. */
 "Pasting…" = "ペースト中...";
@@ -1874,6 +2441,9 @@
 /* Refers to the Adobe Photoshop layered image file format. */
 "Photoshop Document" = "Photoshop書類";
 
+/* No comment provided by engineer. */
+"Photoshop Large" = "Photoshop ラージ";
+
 /* Refers to the Adobe Photoshop layered image file format used for large documents. */
 "Photoshop Large Document" = "Photoshopラージ書類";
 
@@ -1888,6 +2458,9 @@
 
 /* Tool */
 "Pinch" = "ピンチ";
+
+/* No comment provided by engineer. */
+"Pixel Paint" = "ピクセルペイント";
 
 /* Tool */
 "Pixel Tool" = "ピクセルツール";
@@ -1931,8 +2504,14 @@
 /* Units */
 "Points" = "ポイント";
 
+/* No comment provided by engineer. */
+"Points: %d" = "ポイント: %d";
+
 /* Tool */
 "Polygon" = "多角形";
+
+/* No comment provided by engineer. */
+"Polygonal Selection" = "多角形選択";
 
 /* No comment provided by engineer. */
 "Position" = "位置";
@@ -1982,6 +2561,9 @@
 /* No comment provided by engineer. */
 "Processing…" = "処理中…";
 
+/* No comment provided by engineer. */
+"Promote to Slice" = "スライスに変更";
+
 /* Raw image type identifier */
 "ProRAW" = "ProRAW";
 
@@ -2003,11 +2585,20 @@
 /* No comment provided by engineer. */
 "Quality" = "画質";
 
+/* Refers to image export quality. */
+"Quality:" = "画質:";
+
 /* Tool */
 "Quick" = "クイック";
 
 /* No comment provided by engineer. */
 "Quick Edits" = "クイック編集";
+
+/* No comment provided by engineer. */
+"Quick Fill" = "クイックフィル";
+
+/* No comment provided by engineer. */
+"Quick Selection" = "クイック選択";
 
 /* No comment provided by engineer. */
 "Quickly change the look and feel of photo using color adjustment presets." = "カラー調整プリセットを使用して写真のルックアンドフィールをすばやく変更します。";
@@ -2017,6 +2608,9 @@
 
 /* The name of a video file format. */
 "QuickTime Movie" = "QuickTimeムービー";
+
+/* No comment provided by engineer. */
+"Quit Application" = "アプリケーションを終了";
 
 /* Recents group abbreviation
    Short for RAW Image format */
@@ -2033,6 +2627,9 @@
 
 /* No comment provided by engineer. */
 "Radius" = "半径";
+
+/* No comment provided by engineer. */
+"Radius: %@" = "半径: %@";
 
 /* No comment provided by engineer. */
 "Random" = "ランダム";
@@ -2067,6 +2664,9 @@
 
 /* Tool */
 "Rectangular" = "長方形";
+
+/* No comment provided by engineer. */
+"Rectangular Selection" = "長方形で選択";
 
 /* No comment provided by engineer. */
 "Rectangular Speech Bubble" = "長方形の吹き出し";
@@ -2105,10 +2705,25 @@
 "Refine" = "リファイン";
 
 /* No comment provided by engineer. */
+"Refine Edge" = "エッジを調整";
+
+/* No comment provided by engineer. */
+"Refine Mask" = "マスクを調整";
+
+/* No comment provided by engineer. */
+"Refine Selection" = "選択範囲をカスタマイズ";
+
+/* No comment provided by engineer. */
 "Refining Edges…" = "エッジを調整中...";
 
 /* No comment provided by engineer. */
 "Refining edges…" = "エッジを調整中...";
+
+/* No comment provided by engineer. */
+"Refining Selection…" = "選択範囲をカスタマイズ…";
+
+/* No comment provided by engineer. */
+"Release Clipping Mask" = "クリッピングマスクを解除";
 
 /* No comment provided by engineer. */
 "Reloading…" = "再読み込み中…";
@@ -2123,6 +2738,9 @@
 "Remove an existing layer to add a new one." = "新しいレイヤーを追加するには、既存のレイヤーを削除します。";
 
 /* No comment provided by engineer. */
+"Remove Anchor Point" = "アンカーポイントを削除";
+
+/* No comment provided by engineer. */
 "Remove Background" = "背景を削除";
 
 /* No comment provided by engineer. */
@@ -2135,10 +2753,22 @@
 "Remove from Album" = "アルバムから削除";
 
 /* No comment provided by engineer. */
+"Remove Guide" = "ガイドを削除";
+
+/* No comment provided by engineer. */
+"Remove Layer" = "レイヤーを削除";
+
+/* No comment provided by engineer. */
 "Remove Mask" = "マスクを削除";
 
 /* No comment provided by engineer. */
 "Remove objects" = "オブジェクトを削除";
+
+/* No comment provided by engineer. */
+"Remove Shape Path" = "シェイプのパスを削除";
+
+/* No comment provided by engineer. */
+"Remove Shape Paths" = "シェイプのパスを削除";
 
 /* Edit Menu */
 "Rename" = "名称変更";
@@ -2169,13 +2799,46 @@
 "Repair with Pencil" = "鉛筆で修復";
 
 /* No comment provided by engineer. */
+"Repairing Background" = "Repairing Background";
+
+/* No comment provided by engineer. */
 "Repairing…" = "修復中…";
+
+/* No comment provided by engineer. */
+"Replace" = "置き換え";
+
+/* No comment provided by engineer. */
+"Replace All" = "すべて置き換え";
 
 /* No comment provided by engineer. */
 "Replace Color" = "色の置き換え";
 
 /* No comment provided by engineer. */
+"Replace Layer" = "レイヤーを置き換え";
+
+/* No comment provided by engineer. */
+"Replace Mask" = "マスクを置き換え";
+
+/* No comment provided by engineer. */
 "Replace Media" = "メディアを交換";
+
+/* No comment provided by engineer. */
+"Replace Shape" = "シェイプを置き換え";
+
+/* No comment provided by engineer. */
+"Replace Shape…" = "シェイプを置き換え...";
+
+/* No comment provided by engineer. */
+"Replace Text" = "テキストを置き換える";
+
+/* No comment provided by engineer. */
+"Reprocess RAW" = "RAWを再処理";
+
+/* No comment provided by engineer. */
+"Required Resources Unavailable" = "必要なリソースが利用できません";
+
+/* No comment provided by engineer. */
+"Reselect" = "再選択";
 
 /* Edit Menu */
 "Reset" = "リセット";
@@ -2187,10 +2850,16 @@
 "Reset Adjustments" = "調整をリセット";
 
 /* No comment provided by engineer. */
+"Reset Angle" = "角度をリセット";
+
+/* No comment provided by engineer. */
 "Reset Auto Adjust" = "自動調整をリセット";
 
 /* No comment provided by engineer. */
 "Reset Auto Enhance" = "自動補正をリセット";
+
+/* No comment provided by engineer. */
+"Reset Auto Straighten" = "自動矯正をリセット";
 
 /* No comment provided by engineer. */
 "Reset Changes" = "変更をリセット";
@@ -2206,6 +2875,9 @@
 
 /* No comment provided by engineer. */
 "Reset Enhance" = "自動補正をリセット";
+
+/* No comment provided by engineer. */
+"Reset Handles" = "ハンドルをリセット";
 
 /* Perspective transform */
 "Reset Horizontal Perspective" = "水平方向の視点をリセット";
@@ -2235,7 +2907,16 @@
 "Reset Vertical Perspective" = "垂直方向の視点をリセット";
 
 /* No comment provided by engineer. */
+"Resize" = "リサイズ";
+
+/* No comment provided by engineer. */
 "Resize Gradient" = "グラデーションのサイズ変更";
+
+/* No comment provided by engineer. */
+"Resize Slices" = "スライスのリサイズ";
+
+/* No comment provided by engineer. */
+"Resize Transform" = "サイズ変更";
 
 /* Tool */
 "Restore" = "復元";
@@ -2245,6 +2926,9 @@
 
 /* No comment provided by engineer. */
 "Restore Purchase" = "購入を復元する";
+
+/* No comment provided by engineer. */
+"Reveal Canvas" = "キャンバスを表示";
 
 /* No comment provided by engineer. */
 "Reveal in Files" = "ファイルに表示";
@@ -2259,7 +2943,13 @@
 "RGB" = "RGB";
 
 /* No comment provided by engineer. */
+"RGB Profiles" = "RGB プロファイル";
+
+/* No comment provided by engineer. */
 "Right" = "右";
+
+/* No comment provided by engineer. */
+"Right Indent" = "右インデント";
 
 /* Tool */
 "Rotate" = "回転";
@@ -2268,7 +2958,22 @@
 "Rotate 180°" = "180°回転";
 
 /* No comment provided by engineer. */
+"Rotate 90° Left" = "左回りに90°回転";
+
+/* No comment provided by engineer. */
+"Rotate 90° Right" = "右回りに90°回転";
+
+/* No comment provided by engineer. */
 "Rotate Gradient" = "グラデーションを回転";
+
+/* No comment provided by engineer. */
+"Rotate Image 180°" = "画像を180°回転";
+
+/* No comment provided by engineer. */
+"Rotate Image 90° Left" = "画像を90°左に回転";
+
+/* No comment provided by engineer. */
+"Rotate Image 90° Right" = "画像を90°右に回転";
 
 /* No comment provided by engineer. */
 "Rotate Left" = "左に回転";
@@ -2276,11 +2981,20 @@
 /* No comment provided by engineer. */
 "Rotate Right" = "右に回転";
 
+/* No comment provided by engineer. */
+"Rotate Scene" = "シーンを回転";
+
+/* No comment provided by engineer. */
+"Round Text Font Sizes" = "テキストフォントのサイズを丸める";
+
 /* Tool */
 "Rounded Rect." = "角丸長方形";
 
 /* No comment provided by engineer. */
 "Rounded Rectangle" = "角丸長方形";
+
+/* No comment provided by engineer. */
+"Roundness" = "丸み";
 
 /* Retouch Tools
    Tool */
@@ -2300,6 +3014,12 @@
 
 /* No comment provided by engineer. */
 "Save as Preset" = "プリセットとして保存";
+
+/* No comment provided by engineer. */
+"Save As:" = "別名で保存:";
+
+/* No comment provided by engineer. */
+"Save As…" = "別名で保存…";
 
 /* No comment provided by engineer. */
 "Save Changes" = "変更内容を保存";
@@ -2322,6 +3042,9 @@
 /* No comment provided by engineer. */
 "Save image (3 remaining)" = "画像を保存 (残り 3)";
 
+/* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
+"Save layers and edits to a sidecar file" = "レイヤーと編集内容をSidecarファイルに保存";
+
 /* No comment provided by engineer. */
 "Save linked files in iCloud to sync edits between your devices." = "リンクされたファイルをiCloudに保存してデバイス間で編集を同期します。";
 
@@ -2332,7 +3055,13 @@
 "Save to Album" = "アルバイトに保存";
 
 /* No comment provided by engineer. */
+"Save to My Shapes" = "マイシェイプに保存";
+
+/* No comment provided by engineer. */
 "Save to Photos" = "写真に保存";
+
+/* No comment provided by engineer. */
+"Save…" = "保存…";
 
 /* No comment provided by engineer. */
 "Saving…" = "保存中…";
@@ -2377,16 +3106,31 @@
 "Select All" = "すべてを選択";
 
 /* No comment provided by engineer. */
-"Select Background" = "背景を選択";
+"Select and Mask" = "選択とマスク";
+
+/* No comment provided by engineer. */
+"Select and Mask…" = "選択とマスク...";
 
 /* No comment provided by engineer. */
 "Select background" = "背景を選択";
+
+/* No comment provided by engineer. */
+"Select Background" = "背景を選択";
+
+/* No comment provided by engineer. */
+"Select Color Range" = "色の範囲を選択";
 
 /* Tool */
 "Select Column" = "列を選択";
 
 /* No comment provided by engineer. */
+"Select Groups" = "グループを選択";
+
+/* No comment provided by engineer. */
 "Select Images" = "画像を選択";
+
+/* No comment provided by engineer. */
+"Select Layers" = "レイヤーを選択";
 
 /* No comment provided by engineer. */
 "Select LUT" = "LUTを選択";
@@ -2416,6 +3160,18 @@
 "Selected layer is locked, unlock it to edit." = "選択したレイヤーはロック状態ですが、編集すると解除されます。";
 
 /* No comment provided by engineer. */
+"Selection" = "選択範囲";
+
+/* No comment provided by engineer. */
+"Selection Move" = "選択範囲を移動";
+
+/* No comment provided by engineer. */
+"Selection Resize" = "選択範囲のサイズ変更";
+
+/* No comment provided by engineer. */
+"Selection Rotate" = "選択範囲を回転";
+
+/* No comment provided by engineer. */
 "Selective Clarity" = "選択可能な鮮明さ";
 
 /* No comment provided by engineer. */
@@ -2424,11 +3180,20 @@
 /* No comment provided by engineer. */
 "Selective Colors" = "選択可能なカラー";
 
+/* No comment provided by engineer. */
+"Send Backward" = "背面へ";
+
 /* Edit Menu */
 "Send to Back" = "最背面へ";
 
 /* No comment provided by engineer. */
 "Sepia" = "セピア";
+
+/* No comment provided by engineer. */
+"Set Playback Delay" = "再生遅延の設定";
+
+/* No comment provided by engineer. */
+"Set Poster Frame" = "ポスターフレームを設定";
 
 /* Shape line start or end */
 "Set the endpoint size." = "終点のサイズを設定。";
@@ -2469,6 +3234,12 @@
 "Sharpen" = "シャープ";
 
 /* No comment provided by engineer. */
+"Sharpen Path" = "パスをシャープにする";
+
+/* No comment provided by engineer. */
+"Sharpen Point" = "ポイントをシャープにする";
+
+/* No comment provided by engineer. */
 "Sharpness" = "シャープさ";
 
 /* No comment provided by engineer. */
@@ -2502,6 +3273,12 @@
 "Show Filmstrip" = "スライドを表示";
 
 /* No comment provided by engineer. */
+"Show Grid" = "グリッドを表示";
+
+/* No comment provided by engineer. */
+"Show Handles" = "ハンドルを表示";
+
+/* No comment provided by engineer. */
 "Show Info" = "情報を表示";
 
 /* Layer */
@@ -2518,6 +3295,9 @@
 
 /* No comment provided by engineer. */
 "Show Names" = "名前を表示";
+
+/* No comment provided by engineer. */
+"Show Optimized Preview" = "最適化したプレビューを表示";
 
 /* No comment provided by engineer. */
 "Show Original" = "オリジナルを表示";
@@ -2538,7 +3318,22 @@
 "Show Repair Size Slider" = "修復サイズスライダーを表示";
 
 /* No comment provided by engineer. */
+"Show Shape Outline" = "シェイプのアウトラインを表示";
+
+/* No comment provided by engineer. */
 "Show Sliders" = "スライダーを表示";
+
+/* No comment provided by engineer. */
+"Shrink Text to Fit Setting" = "縮小して全体を表示の設定";
+
+/* No comment provided by engineer. */
+"Sidecar File Not Found" = "Sidecarファイルが見つかりません";
+
+/* Refers to a linked file (sidecar file) that is linked to another image file. */
+"Sidecar:" = "Sidecar:";
+
+/* No comment provided by engineer. */
+"Sides: %d" = "サイド: %d";
 
 /* No comment provided by engineer. */
 "Simple" = "シンプル";
@@ -2559,16 +3354,34 @@
 "Skew" = "傾斜";
 
 /* No comment provided by engineer. */
+"Skew Transform" = "傾斜変形";
+
+/* No comment provided by engineer. */
 "Skip overview" = "概要をスキップ";
 
 /* No comment provided by engineer. */
 "Sky" = "空";
 
+/* No comment provided by engineer. */
+"Slice" = "スライス";
+
 /* Tool */
 "Smart Deband" = "スマートデバンド";
 
 /* No comment provided by engineer. */
+"Smart Refine" = "スマートカスタマイズ";
+
+/* No comment provided by engineer. */
+"Smooth Path" = "パスを滑らかにする";
+
+/* No comment provided by engineer. */
+"Smooth Point" = "ポイントを滑らかにする";
+
+/* No comment provided by engineer. */
 "Smooth textures" = "テクスチャを滑らかにする";
+
+/* No comment provided by engineer. */
+"Smoothen Path" = "パスを滑らかにする";
 
 /* Retouch Tools
    Tool */
@@ -2580,12 +3393,18 @@
 /* No comment provided by engineer. */
 "Soft Light" = "ソフトライト";
 
+/* No comment provided by engineer. */
+"Soft Proof with %@" = "%@でソフトプルーフ";
+
 /* Retouch Tools
    Tool */
 "Soften" = "和らげる";
 
 /* No comment provided by engineer. */
 "Softness" = "柔らかさ";
+
+/* No comment provided by engineer. */
+"Some key resources that %@ requires to function reliably are not available, possibly due to low disk space or an operating system error." = "％@が確実に機能するために必要なリソースは、ディスク容量の不足またはオペレーティングシステムのエラーが原因で利用できません。";
 
 /* No comment provided by engineer. */
 "Some of the selected images could not be processed." = "選択した画像の一部を処理できませんでした。";
@@ -2597,7 +3416,7 @@
 "Something went wrong while checking your previous purchases. Make sure you have an active internet connection, then try again. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "以前の購入を確認中に問題が発生しました。インターネット接続があることを確認してから再試行してください。これが繰り返し発生する場合には、サポートいたしますのでご連絡をお願いします。(エラーコード: ％i)";
 
 /* No comment provided by engineer. */
-"Something went wrong while showing the purchase view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "購入ビューの表示中に問題が発生しました。これが繰り返し発生する場合には、サポートいたしますのでご連絡をお願いします。(エラーコード：％i)";
+"Something went wrong while showing the purchase view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "購入ビューの表示中に問題が発生しました。これが繰り返し発生する場合には、サポートいたしますのでご連絡をお願いします。(エラーコード:％i)";
 
 /* No comment provided by engineer. */
 "Source Atop" = "ソーストップ";
@@ -2610,6 +3429,12 @@
 
 /* No comment provided by engineer. */
 "Source Out" = "ソースアウト";
+
+/* No comment provided by engineer. */
+"Spacing After" = "後の間隔";
+
+/* No comment provided by engineer. */
+"Spacing Before" = "前の間隔";
 
 /* No comment provided by engineer. */
 "SPECIAL OFFERS" = "特価提供";
@@ -2639,10 +3464,16 @@
 "Start" = "始点";
 
 /* No comment provided by engineer. */
+"Start Drawing" = "描画を開始";
+
+/* No comment provided by engineer. */
 "Start editing" = "編集を開始";
 
 /* No comment provided by engineer. */
 "Start Free Trial" = "無料トライアルを開始";
+
+/* No comment provided by engineer. */
+"Start Freeform Drawing" = "フリーフォームの描画を開始";
 
 /* No comment provided by engineer. */
 "Start Point" = "開始ポイント";
@@ -2669,6 +3500,9 @@
 "Stretch" = "伸縮";
 
 /* No comment provided by engineer. */
+"Strikethrough" = "打ち消し線";
+
+/* No comment provided by engineer. */
 "Stroke" = "線";
 
 /* No comment provided by engineer. */
@@ -2680,6 +3514,12 @@
 /* No comment provided by engineer. */
 "Stroke Width" = "線の幅";
 
+/* No comment provided by engineer. */
+"Stroke with Brush" = "ブラシで描画";
+
+/* No comment provided by engineer. */
+"Stroke with Brush…" = "ブラシで描画…";
+
 /* Tool */
 "Style" = "スタイル";
 
@@ -2690,6 +3530,9 @@
 "Subject" = "被写体";
 
 /* No comment provided by engineer. */
+"Subject Mask" = "マスクをかける";
+
+/* No comment provided by engineer. */
 "Subscribe to Photomator" = "Photomatorに登録";
 
 /* No comment provided by engineer. */
@@ -2697,6 +3540,12 @@
 
 /* No comment provided by engineer. */
 "Subtract" = "減算";
+
+/* No comment provided by engineer. */
+"Subtract from Shape" = "シェイプから取り除く";
+
+/* No comment provided by engineer. */
+"Subtract Shapes" = "シェイプを取り除く";
 
 /* Tool */
 "Super Resolution" = "超解像技術";
@@ -2754,6 +3603,15 @@
 "Text" = "テキスト";
 
 /* No comment provided by engineer. */
+"Text Change" = "テキストの変更";
+
+/* No comment provided by engineer. */
+"Text Color" = "テキストカラー";
+
+/* No comment provided by engineer. */
+"Text Style" = "テキストスタイル";
+
+/* No comment provided by engineer. */
 "Texture" = "テクスチャ";
 
 /* No comment provided by engineer. */
@@ -2767,6 +3625,21 @@
 
 /* No comment provided by engineer. */
 "The color adjustment presets were imported successfully." = "カラー調整プリセットは正常に読み込まれました。";
+
+/* No comment provided by engineer. */
+"The document couldn’t be opened." = "この書類は開くことができません。";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible with %@ %@." = "この書類は破損している、または%1$@ %2$@と互換性がありません。";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible with %@." = "この書類は破損している、または%@と互換性がありません。";
+
+/* No comment provided by engineer. */
+"The document is damaged, or isn’t compatible." = "この書類は破損している、または互換性がありません。";
+
+/* No comment provided by engineer. */
+"The document “%@” couldn’t be opened." = "この書類“%@”は開くことができません。";
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "ファイルブラウザーを使用すると、デバイス上のすべての書類を参照できます。写真ブラウザーに切り替えるには、%@ アイコンをタップし、ブラウザーのメニューから [写真] を選択します。";
@@ -2793,10 +3666,28 @@
 "The image could not be shared to Photomator." = "画像をPhotomatorと共有できませんでした。";
 
 /* No comment provided by engineer. */
+"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "開こうとしている画像にはSidecarファイルが含まれていますが、オリジナルの画像は編集されているようで、2つのファイルは同期していません。Sidecarファイルまたは画像を開きますか？";
+
+/* No comment provided by engineer. */
+"The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "JPEG/PNG/TIFF 形式は複数のレイヤーやその他の追加の書式情報をサポートしていません。これらの情報を保持するには画像をPixelmator Pro書類として保存します。";
+
+/* No comment provided by engineer. */
 "The maximum number of layers for this image size is %i" = "この画像サイズの最大レイヤー数は%iです";
 
 /* No comment provided by engineer. */
 "The most powerful photo editing app ever designed for a mobile device." = "モバイルデバイス用に設計されたこれまでで最も強力な写真編集アプリ。";
+
+/* No comment provided by engineer. */
+"The operation was cancelled." = "操作はキャンセルされました。";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because the Photos library asset could not be found." = "写真ライブラリ アセットが見つからないため、写真を保存できませんでした。";
+
+/* No comment provided by engineer. */
+"The photo could not be saved because this Photos library asset does not seem to be editable." = "この写真ライブラリ アセットは編集不可能な状態のため、写真を保存できませんでした。";
+
+/* No comment provided by engineer. */
+"The photo could not be saved due to an error that occurred while exporting the image." = "画像の書き出し中にエラーが発生したため、写真を保存できませんでした。";
 
 /* No comment provided by engineer. */
 "The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "プリセットライブラリはデフォルトにリセットされ、作成したプリセットやコレクションは削除されます。この操作は元に戻せません。";
@@ -2818,6 +3709,15 @@
 
 /* No comment provided by engineer. */
 "The size is too large." = "画像は大きすぎます。";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible with %@ %@." = "書類“%1$@”は破損している、または%2$@ %3$@と互換性がありません。";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible with %@." = "書類“%1$@”は破損している、または%2$@と互換性がありません。";
+
+/* No comment provided by engineer. */
+"The “%@” document is damaged, or isn’t compatible." = "書類“%@”は破損している、または互換性がありません。";
 
 /* Image save error */
 "There is not enough available storage to save your image to this location. Would you like to save it somewhere else?" = "この場所には画像を保存するための十分なストレージがありません。 別の場所に保存しますか？";
@@ -2841,6 +3741,12 @@
 "This format isn’t currently supported." = "このフォーマットは現在サポートされていません。";
 
 /* No comment provided by engineer. */
+"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "この画像にはPixelmator Pro Sidecarファイルが関連付けられていますが、そのファイルを開くことができませんでした。代わりにオリジナルの画像ファイルが開かれます。";
+
+/* No comment provided by engineer. */
+"This image has been modified by another application." = "この画像は別のアプリケーションによって変更されています。";
+
+/* No comment provided by engineer. */
 "This image has too many layers to be opened on this device." = "この画像にはレイヤーが多すぎるため、このデバイスで開くことができません。";
 
 /* No comment provided by engineer. */
@@ -2848,6 +3754,12 @@
 
 /* No comment provided by engineer. */
 "This image is too large to be opened on this device." = "この画像は大きすぎてこのデバイスで開くことができません。";
+
+/* No comment provided by engineer. */
+"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "この画像にはPixelmator Pro Sidecarファイルが関連付けられているはずですが、そのファイルが見つかりませんでした。代わりにオリジナルの画像ファイルが開かれます。";
+
+/* No comment provided by engineer. */
+"This photo is too large." = "この画像は大きすぎます。";
 
 /* No comment provided by engineer. */
 "This Photo was edited and not synced. Continue editing?" = "この写真は編集されていますが同期されていません。 編集を続行しますか？";
@@ -2898,10 +3810,13 @@
 "to" = "から";
 
 /* No comment provided by engineer. */
+"To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "問題を回避するには、保存されていない作業を保存してから、ストレージを解放してMacを再起動してください。";
+
+/* No comment provided by engineer. */
 "To begin batch editing photos, first tap Select in the top-right corner. Then, select multiple photos and tap Batch in the toolbar. Finally, simply choose one of the included batch workflows or create your own and tap Apply." = "写真の一括編集を開始するには、まず右上隅の [選択] をタップします。 次に、複数の写真を選択し、ツールバーの [一括処理] をタップします。 最後に、包含されている一括処理ワークフローのいずれかを選択するか、独自のバッチワークフローを作成して [適用] をタップします。";
 
 /* No comment provided by engineer. */
-"To edit specific areas of a photo, you can quickly select them using AI. Tap + at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "写真の特定の領域を編集するには、AIを使用してすばやく選択できます。[カラー調整] ペインの上部にある [＋] をタップし、選択したい領域を選びます。追加されたすべてのレイヤーを表示するには、上部にある [画像レイヤー] をタップします。";
+"To edit specific areas of a photo, you can quickly select them using AI. Tap %@ at the top of the Color Adjustments pane, then choose the area you want to select. To see all the added layers, tap Image Layer at the top." = "写真の特定の領域を編集するには、AIを使用してすばやく選択できます。[カラー調整] ペインの上部にある %@ をタップし、選択する領域を選択します。追加されたすべてのレイヤーを表示するには、上部にある [画像レイヤー] をタップします。";
 
 /* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "Photomatorを購入するには、インターネットに接続する必要があります。設定アプリでこれを確認してから、もう一度お試しください。";
@@ -2911,6 +3826,9 @@
 
 /* No comment provided by engineer. */
 "To use this feature, you’ll need to purchase unlimited access to Photomator, but it looks like you’re offline. To purchase, you’ll need to go online." = "この機能を使用するには Photomator への無制限アクセスを購入する必要がありますが、オフラインのようです。 購入するには、オンラインにする必要があります。";
+
+/* No comment provided by engineer. */
+"Tolerance: %@" = "許容範囲: %@";
 
 /* No comment provided by engineer. */
 "Tone" = "トーン";
@@ -2928,7 +3846,22 @@
 "Touch Size" = "接触サイズ";
 
 /* No comment provided by engineer. */
+"Transform" = "変換";
+
+/* No comment provided by engineer. */
+"Transform Path…" = "パスを変型…";
+
+/* No comment provided by engineer. */
+"Transform Selection…" = "選択範囲を変形…";
+
+/* No comment provided by engineer. */
+"Transform…" = "変形…";
+
+/* No comment provided by engineer. */
 "Transition" = "トランジション";
+
+/* No comment provided by engineer. */
+"Trim" = "トリミング";
 
 /* Tool */
 "Trim Canvas" = "キャンバスをトリミング";
@@ -2955,6 +3888,12 @@
 "Unable to apply LUT" = "LUTを適用できません";
 
 /* No comment provided by engineer. */
+"Unable to Apply Smart Deband" = "スマートデバンドを適用できません";
+
+/* No comment provided by engineer. */
+"Unable to Apply Smart HDR" = "スマートHDRを適用できません";
+
+/* No comment provided by engineer. */
 "Unable to Check Purchases" = "購入を確認できません";
 
 /* No comment provided by engineer. */
@@ -2976,6 +3915,9 @@
 "Unable to Open Image" = "画像を開くことができません";
 
 /* No comment provided by engineer. */
+"Unable to Open Sidecar File" = "Sidecarファイルを開くことができません";
+
+/* No comment provided by engineer. */
 "Unable to Process" = "処理できません";
 
 /* No comment provided by engineer. */
@@ -2991,6 +3933,9 @@
 "Unable to Share Image" = "画像を共有できません";
 
 /* No comment provided by engineer. */
+"Underline" = "下線";
+
+/* No comment provided by engineer. */
 "Undo" = "取り消し";
 
 /* No comment provided by engineer. */
@@ -3004,6 +3949,9 @@
 
 /* Layer Arrange */
 "Ungroup" = "グループ化解除";
+
+/* No comment provided by engineer. */
+"Unite Shapes" = "シェイプを結合";
 
 /* Layer */
 "Unlock" = "ロックを解除";
@@ -3022,6 +3970,9 @@
 
 /* %@ stands for non-breaking space */
 "Unlock Photomator%@for%@Mac" = "Photomator%1$@for%2$@Mac のロックを解除";
+
+/* No comment provided by engineer. */
+"Unmute" = "ミュート解除";
 
 /* No comment provided by engineer. */
 "Unnamed" = "名称未設定";
@@ -3045,10 +3996,10 @@
 "Untitled Album" = "名称未設定のアルバム";
 
 /* No comment provided by engineer. */
-"Untitled layer" = "名称未設定レイヤー";
+"Untitled Layer" = "名称未設定";
 
 /* No comment provided by engineer. */
-"Untitled Layer" = "名称未設定";
+"Untitled layer" = "名称未設定レイヤー";
 
 /* No comment provided by engineer. */
 "Untitled layer mask" = "名称未設定レイヤーマスク";
@@ -3058,6 +4009,9 @@
 
 /* No comment provided by engineer. */
 "Update to iPadOS 17 to access full HDR support." = "完全なHDRサポートにアクセスするには、iPadOS 17にアップデートしてください。";
+
+/* No comment provided by engineer. */
+"Upgrade" = "アップグレード";
 
 /* No comment provided by engineer. */
 "Upgrade to access the full image editing experience in Photomator." = "アップグレードして、Photomator の写真編集の全機能をご体験ください。";
@@ -3075,7 +4029,16 @@
 "Use iCloud" = "iCloud を使う";
 
 /* No comment provided by engineer. */
+"Use ITUR-2100 Intermediates" = "ITUR-2100 中間ファイルを使う";
+
+/* No comment provided by engineer. */
 "Use Texture-Aware Algorithm" = "テクスチャ認識アルゴリズムを使用";
+
+/* No comment provided by engineer. */
+"Version history is not fully supported for images with sidecar files." = "バージョン履歴は、Sidecarファイルを含む画像では完全にはサポートされていません。";
+
+/* No comment provided by engineer. */
+"Vertical Alignment" = "垂直方向の配置";
 
 /* Perspective transform */
 "Vertical Perspective" = "垂直方向の視点";
@@ -3104,11 +4067,17 @@
 /* Stands for Width, up to 3 characters */
 "W:" = "幅:";
 
+/* No comment provided by engineer. */
+"w: %@ h: %@" = "幅: %1$@ 高さ: %2$@";
+
 /* Tool */
 "Warp" = "ワープ";
 
 /* No comment provided by engineer. */
 "Watercolor" = "水彩画";
+
+/* No comment provided by engineer. */
+"Watermark" = "ウォーターマーク";
 
 /* The name of an image file format. */
 "WebP" = "WebP";
@@ -3171,10 +4140,43 @@
 "Would you like to be notified before your free trial is about to end?" = "無料トライアルが終了する前に通知を受け取りますか？";
 
 /* No comment provided by engineer. */
+"Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "オリジナルのJPEG/PNG/TIFFファイル、またはPixelmator Pro書類に変更を保存しますか？";
+
+/* No comment provided by engineer. */
+"Would you like to upgrade this document?" = "この書類をアップグレードしますか？";
+
+/* No comment provided by engineer. */
+"x: %@ y: %@, z: %@" = "x: %1$@ y: %2$@, z: %3$@";
+
+/* No comment provided by engineer. */
+"yaw: %@ pitch: %@, roll: %@" = "ヨー: %1$@ ピッチ: %2$@, ロール: %3$@";
+
+/* No comment provided by engineer. */
 "Yellow" = "イエロー";
 
 /* Color adjustments */
 "Yellow / Blue" = "イエロー/ブルー";
+
+/* No comment provided by engineer. */
+"You can discard the edits to keep your original file unmodified." = "編集内容を破棄して、オリジナルのファイルを変更しないようにできます。";
+
+/* No comment provided by engineer. */
+"You can download the latest version from the Mac App Store." = "Mac App Store から最新版をダウンロードできます。";
+
+/* No comment provided by engineer. */
+"You can download the latest version of %@ from the Mac App Store." = "Mac App Storeから最新版の%@をダウンロードできます。";
+
+/* No comment provided by engineer. */
+"You can revert to a previous version of your document, however, it will not contain any nondestructive edits." = "書類を以前のバージョンに戻すことはできますが、非破壊編集の内容は含まれません。";
+
+/* No comment provided by engineer. */
+"You need a newer version of %@ to open this document." = "この書類を開くには新しいバージョンの%@が必要です。";
+
+/* No comment provided by engineer. */
+"You need a newer version to open this document." = "この書類を開くには新しいバージョンが必要です。";
+
+/* No comment provided by engineer. */
+"You're attempting to open a %@ sidecar document which cannot be edited directly." = "直接編集できない%@ Sidecar書類を開こうとしています。";
 
 /* No comment provided by engineer. */
 "You're Offline" = "現在オフラインです";
@@ -3205,3 +4207,9 @@
 
 /* No comment provided by engineer. */
 "Zoom to Fit" = "ウインドウに合わせる";
+
+/* No comment provided by engineer. */
+"Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
+
+/* No comment provided by engineer. */
+"“%@” already exists. Do you want to replace it?" = "“%@”はすでに存在します。置き換えますか？";
