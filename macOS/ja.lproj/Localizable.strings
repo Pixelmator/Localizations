@@ -55,10 +55,10 @@
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d 個のファイルがすでに存在します。置き換えますか？";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folder" = "%d フォルダ";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folders" = "%d フォルダ";
 
 /* No comment provided by engineer. */
@@ -188,6 +188,9 @@
 "\"%@\" Effect" = "\"%@\"エフェクト";
 
 /* No comment provided by engineer. */
+"\(bitmapDataFormat.bitsPerComponent) bits per channel" = "\\(bitmapDataFormat.bitsPerComponent) bits per channel";
+
+/* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "フォルダ%@には同じ名前のファイルまたはフォルダが存在します。これを置き換えると現在の内容が上書きされます。";
 
 /* No comment provided by engineer. */
@@ -243,6 +246,9 @@
 
 /* No comment provided by engineer. */
 "Add Preset" = "プリセットを追加";
+
+/* No comment provided by engineer. */
+"Add Shadow" = "シャドウを追加";
 
 /* No comment provided by engineer. */
 "Add Slice" = "スライスを追加";
@@ -367,6 +373,9 @@
 /* No comment provided by engineer. */
 "Apply LUT" = "LUTを適用";
 
+/* No comment provided by engineer. */
+"Apply Watermark" = "ウォーターマークを適用";
+
 /* Refers to an associated file to which data is saved that accompanies a source file. Named after a motorbike sidecar. */
 "Are you sure you want to delete the sidecar file for this image?" = "この画像のSidecarファイルを削除してもいいですか?";
 
@@ -459,9 +468,6 @@
 
 /* No comment provided by engineer. */
 "Autodesk SketchBook App Detected" = "Autodesk SketchBook アプリが見つかりました";
-
-/* No comment provided by engineer. */
-"Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Mac 上のオリジナルの画像ファイルにリンクされたSidecarファイルの編集内容を壊すことなく自動的に保存します。";
 
 /* The name of an image file format */
 "AVIF" = "AVIF";
@@ -722,6 +728,9 @@
 "Choose an image to use for color matching." = "カラーマッチングに使用する画像を選択します。";
 
 /* No comment provided by engineer. */
+"Choose Image…" = "画像を選択...";
+
+/* No comment provided by engineer. */
 "Choose LUT…" = "LUTを選択...";
 
 /* No comment provided by engineer. */
@@ -873,6 +882,9 @@
 
 /* No comment provided by engineer. */
 "CMYK Profiles" = "CMYK プロファイル";
+
+/* No comment provided by engineer. */
+"Collaborate in iCloud…" = "Collaborate in iCloud…";
 
 /* No comment provided by engineer. */
 "Collection" = "コレクション";
@@ -1157,6 +1169,9 @@
 "Delete" = "削除";
 
 /* No comment provided by engineer. */
+"Delete %d Photos" = "%d 枚の写真を削除";
+
+/* No comment provided by engineer. */
 "Delete %i Photos" = "%i 枚の写真を削除";
 
 /* No comment provided by engineer. */
@@ -1191,6 +1206,9 @@
 
 /* No comment provided by engineer. */
 "Delete Photo" = "写真を削除";
+
+/* No comment provided by engineer. */
+"Delete Preset" = "プリセットを削除";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "スライスを削除";
@@ -1292,13 +1310,7 @@
 "Discard Changes" = "変更を破棄";
 
 /* No comment provided by engineer. */
-"Display albums without nesting" = "ネストせずにアルバムを表示";
-
-/* No comment provided by engineer. */
 "Display HDR Content" = "HDRコンテンツを表示";
-
-/* No comment provided by engineer. */
-"Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "フォルダー内のアルバムを含むすべてのアルバムを、アルファベット順に並べられた 1 つのギャラリー内に表示します。";
 
 /* No comment provided by engineer. */
 "Distance" = "距離";
@@ -1395,6 +1407,9 @@
 
 /* No comment provided by engineer. */
 "Duplicate" = "複製";
+
+/* No comment provided by engineer. */
+"Duplicate %d Photos" = "%d 枚の写真を複製";
 
 /* No comment provided by engineer. */
 "Duplicate %i Photos" = "%i 枚の写真を複製";
@@ -1726,6 +1741,9 @@
 /* No comment provided by engineer. */
 "File Size:" = "ファイルサイズ:";
 
+/* Refers to application settings that affect editing files that are saved on the user's device. */
+"Files" = "ファイル";
+
 /* No comment provided by engineer. */
 "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "フォルダ%@には同じ名前のファイルまたはフォルダが存在します。これを置き換えると現在の内容が上書きされます。";
 
@@ -1799,7 +1817,7 @@
 "Font Change" = "フォントの変更";
 
 /* No comment provided by engineer. */
-"For images opened from Finder" = "Finderから開いた画像の場合";
+"For iCloud sharing to work, you must move the folder to an iCloud location." = "For iCloud sharing to work, you must move the folder to an iCloud location.";
 
 /* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
 "Format:" = "形式:";
@@ -2066,6 +2084,9 @@
 "Import as New Document" = "新規書類として取り込む";
 
 /* No comment provided by engineer. */
+"Importing files…" = "Importing files…";
+
+/* No comment provided by engineer. */
 "Importing…" = "読み込む...";
 
 /* No comment provided by engineer. */
@@ -2106,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Inserting…" = "挿入…";
+
+/* No comment provided by engineer. */
+"Insets" = "Insets";
 
 /* No comment provided by engineer. */
 "Inside" = "内側";
@@ -2317,6 +2341,9 @@
 /* No comment provided by engineer. */
 "Loading lens info…" = "レンズ情報を読み込み中…";
 
+/* Library refers to a library of files (i.e. a photo library), rather than a library of books. */
+"Loading library…" = "Loading library…";
+
 /* No comment provided by engineer. */
 "Loading metadata…" = "メタデータを読み込み中…";
 
@@ -2331,6 +2358,9 @@
 
 /* No comment provided by engineer. */
 "Lock Guides" = "ガイドをロック";
+
+/* No comment provided by engineer. */
+"Locked" = "Locked";
 
 /* No comment provided by engineer. */
 "Logo" = "ロゴ";
@@ -2471,6 +2501,15 @@
 "Move %@" = "%@ を移動";
 
 /* No comment provided by engineer. */
+"Move %d Photos to Trash" = "Move %d Photos to Trash";
+
+/* No comment provided by engineer. */
+"Move 1 Photo to Trash" = "Move 1 Photo to Trash";
+
+/* No comment provided by engineer. */
+"Move 1 Photo To Trash" = "Move 1 Photo To Trash";
+
+/* No comment provided by engineer. */
 "Move Down" = "下に移動";
 
 /* No comment provided by engineer. */
@@ -2480,6 +2519,9 @@
 "Move Mask" = "マスクを移動";
 
 /* No comment provided by engineer. */
+"Move Photo to Trash" = "Move Photo to Trash";
+
+/* No comment provided by engineer. */
 "Move Point" = "ポイントを移動";
 
 /* No comment provided by engineer. */
@@ -2487,6 +2529,15 @@
 
 /* No comment provided by engineer. */
 "Move Slices" = "スライスを移動";
+
+/* No comment provided by engineer. */
+"Move to iCloud" = "Move to iCloud";
+
+/* No comment provided by engineer. */
+"Move to iCloud to Collaborate" = "Move to iCloud to Collaborate";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "Move to Trash";
 
 /* No comment provided by engineer. */
 "Move Up" = "上に移動";
@@ -2705,10 +2756,16 @@
 "Normal" = "通常";
 
 /* No comment provided by engineer. */
+"Not an iCloud Locaton" = "Not an iCloud Locaton";
+
+/* No comment provided by engineer. */
 "Off" = "オフ";
 
 /* No comment provided by engineer. */
 "Offline LUT" = "オフライン LUT";
+
+/* No comment provided by engineer. */
+"Offset" = "オフセット";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -2778,6 +2835,9 @@
 
 /* No comment provided by engineer. */
 "Outside" = "外側";
+
+/* No comment provided by engineer. */
+"Oval" = "Oval";
 
 /* No comment provided by engineer. */
 "Overlay" = "オーバーレイ";
@@ -3191,7 +3251,16 @@
 "Remove %@" = "%@を削除";
 
 /* No comment provided by engineer. */
+"Remove %d Photos from Album" = "アルバムから %d 枚の写真を削除";
+
+/* No comment provided by engineer. */
+"Remove %d Photos from Library" = "Remove %d Photos from Library";
+
+/* No comment provided by engineer. */
 "Remove 1 Photo from Album" = "アルバムから 1 枚の写真を削除";
+
+/* No comment provided by engineer. */
+"Remove 1 Photo from Library" = "Remove 1 Photo from Library";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "調整を取り除く";
@@ -3215,6 +3284,9 @@
 "Remove Document Color" = "書類のカラーを削除";
 
 /* No comment provided by engineer. */
+"Remove Folder" = "Remove Folder";
+
+/* No comment provided by engineer. */
 "Remove from Favorites" = "お気に入りから削除";
 
 /* No comment provided by engineer. */
@@ -3234,6 +3306,12 @@
 
 /* No comment provided by engineer. */
 "Remove Palette" = "パレットを削除";
+
+/* No comment provided by engineer. */
+"Remove Photo from Album" = "Remove Photo from Album";
+
+/* No comment provided by engineer. */
+"Remove Photo from Library" = "Remove Photo from Library";
 
 /* No comment provided by engineer. */
 "Remove Profile" = "プロファイルを削除";
@@ -4016,6 +4094,9 @@
 "Space" = "スペース";
 
 /* No comment provided by engineer. */
+"Spacing" = "文字間隔";
+
+/* No comment provided by engineer. */
 "Spacing After" = "後の間隔";
 
 /* No comment provided by engineer. */
@@ -4507,11 +4588,11 @@
 /* No comment provided by engineer. */
 "Watercolor" = "水彩画";
 
+/* No comment provided by engineer. */
+"Watermark" = "ウォーターマーク";
+
 /* The name of an image file format. */
 "WebP" = "WebP";
-
-/* No comment provided by engineer. */
-"Welcome to Pixelmator Pro" = "Pixelmator Pro\nへようこそ";
 
 /* No comment provided by engineer. */
 "Wetness" = "湿気";
@@ -4587,6 +4668,9 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "この書類を開くには新しいバージョンが必要です。";
+
+/* No comment provided by engineer. */
+"You'll need to move ”%@“ to iCloud before you can collaborate." = "You'll need to move ”%@“ to iCloud before you can collaborate.";
 
 /* No comment provided by engineer. */
 "You're attempting to open a %@ sidecar document which cannot be edited directly." = "直接編集できない%@ Sidecar書類を開こうとしています。";
