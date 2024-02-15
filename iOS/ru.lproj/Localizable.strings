@@ -537,6 +537,9 @@
 "Changes Tracked in Sidecar" = "Изменения, прослеженные в sidecar";
 
 /* No comment provided by engineer. */
+"Changes will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "Changes will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file.";
+
+/* No comment provided by engineer. */
 "Channel" = "Канал";
 
 /* No comment provided by engineer. */
@@ -744,6 +747,9 @@
 
 /* Gallery */
 "Create Image" = "Создать изображение";
+
+/* No comment provided by engineer. */
+"Create PHOTO File With Edits" = "Create PHOTO File With Edits";
 
 /* No comment provided by engineer. */
 "Create Workflow" = "Создать процесс";
@@ -1118,9 +1124,6 @@
 "Duplicating…" = "Дублирование…";
 
 /* No comment provided by engineer. */
-"Easily protect your photos with the all-new watermarking feature, letting you apply text or image watermarks when exporting your photos." = "Easily protect your photos with the all-new watermarking feature, letting you apply text or image watermarks when exporting your photos.";
-
-/* No comment provided by engineer. */
 "Edit" = "Правка";
 
 /* No comment provided by engineer. */
@@ -1180,6 +1183,9 @@
 
 /* No comment provided by engineer. */
 "Editing…" = "Правка…";
+
+/* No comment provided by engineer. */
+"Edits will be nondestructively preserved in a linked Photomator file. If you delete linked files, your edits will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "Edits will be nondestructively preserved in a linked Photomator file. If you delete linked files, your edits will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file.";
 
 /* No comment provided by engineer. */
 "EDR" = "EDR";
@@ -1500,13 +1506,13 @@
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Получите краткий обзор инструментов, которые можно использовать для ретуши, улучшения или полной трансформации фото.";
 
 /* No comment provided by engineer. */
-"Get unlimited access" = "Получить неограниченный доступ";
+"Get unlimited access" = "Неограниченный доступ";
 
 /* No comment provided by engineer. */
 "Get Unlimited Access" = "Неограниченный доступ";
 
 /* No comment provided by engineer. */
-"Get unlimited access." = "Получить неограниченный доступ.";
+"Get unlimited access." = "Неограниченный доступ.";
 
 /* No comment provided by engineer. */
 "Getting Started" = "Начало работы";
@@ -1737,6 +1743,9 @@
 
 /* No comment provided by engineer. */
 "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default." = "В парах RAW+JPEG и RAW+HEIC по умолчанию будет открыто фото RAW.";
+
+/* No comment provided by engineer. */
+"In the Files browser, effortlessly browse photos using the new filmstrip." = "In the Files browser, effortlessly browse photos using the new filmstrip.";
 
 /* Units */
 "Inches" = "Дюймы";
@@ -2115,6 +2124,12 @@
 "Modification Date" = "Дата изменения";
 
 /* No comment provided by engineer. */
+"Modify Original" = "Изменить оригинал";
+
+/* No comment provided by engineer. */
+"Modify Originals" = "Modify Originals";
+
+/* No comment provided by engineer. */
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "Изменение этого документа на месте может привести к потере части его исходного форматирования. Хотите сначала создать дубликат этого документа?";
 
 /* No comment provided by engineer. */
@@ -2163,7 +2178,7 @@
 "Move Slices" = "Переместить ломтики";
 
 /* No comment provided by engineer. */
-"Move to Trash" = "Move to Trash";
+"Move to Trash" = "В Корзину";
 
 /* No comment provided by engineer. */
 "Move Up" = "Переместить вверх";
@@ -2358,6 +2373,12 @@
 "ORIGINAL PERSPECTIVE" = "ИСХОДНАЯ ПЕРСПЕКТИВА";
 
 /* No comment provided by engineer. */
+"Original photos will not be modified and separate PHOTO files will be created for editing." = "Original photos will not be modified and separate PHOTO files will be created for editing.";
+
+/* No comment provided by engineer. */
+"Original photos will not be modified and the edits will be stored in a separate file next to the original photos." = "Original photos will not be modified and the edits will be stored in a separate file next to the original photos.";
+
+/* No comment provided by engineer. */
 "Original Size" = "Исходный размер";
 
 /* Effects category name */
@@ -2376,7 +2397,7 @@
 "Overlay" = "Оверлей";
 
 /* No comment provided by engineer. */
-"Overwrite Originals" = "Переписать оригиналы";
+"Overwrite" = "Перезаписать";
 
 /* Tool */
 "Paint" = "Закраска";
@@ -2557,6 +2578,15 @@
 
 /* No comment provided by engineer. */
 "Preserve Edits" = "Сохранить правки";
+
+/* No comment provided by engineer. */
+"Preserve Edits and Modify Original" = "Preserve Edits and Modify Original";
+
+/* No comment provided by engineer. */
+"Preserve Edits and Original" = "Preserve Edits and Original";
+
+/* No comment provided by engineer. */
+"Preserve nondestructive edits in a separate sidecar file." = "Preserve nondestructive edits in a separate sidecar file.";
 
 /* No comment provided by engineer. */
 "Preserve transparency" = "Сохранить прозрачность";
@@ -3530,6 +3560,9 @@
 "Status Bar" = "Строка состояния";
 
 /* No comment provided by engineer. */
+"Storage Improvements" = "Storage Improvements";
+
+/* No comment provided by engineer. */
 "Store Edits in iCloud" = "Хранить правки в iCloud";
 
 /* Tool */
@@ -3658,6 +3691,9 @@
 
 /* No comment provided by engineer. */
 "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "Корректировки учёта текстуры нельзя воссоздать с помощью LUT, так что экспортированные LUT будут выглядеть иначе.";
+
+/* No comment provided by engineer. */
+"Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file." = "Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file.";
 
 /* No comment provided by engineer. */
 "That covers the basics – you’re ready to start editing your photos!" = "Это охватывает основы — вы готовы приступить к редактированию своих фото!";
@@ -4141,9 +4177,6 @@
 
 /* No comment provided by engineer. */
 "Watermark" = "Водяной знак";
-
-/* No comment provided by engineer. */
-"Watermarks" = "Watermarks";
 
 /* The name of an image file format. */
 "WebP" = "WebP";
