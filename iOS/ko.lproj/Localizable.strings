@@ -537,6 +537,9 @@
 "Changes Tracked in Sidecar" = "사이드카에서 변경 내용이 추적됨";
 
 /* No comment provided by engineer. */
+"Changes will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "Changes will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file.";
+
+/* No comment provided by engineer. */
 "Channel" = "채널";
 
 /* No comment provided by engineer. */
@@ -744,6 +747,9 @@
 
 /* Gallery */
 "Create Image" = "이미지 생성";
+
+/* No comment provided by engineer. */
+"Create PHOTO File With Edits" = "Create PHOTO File With Edits";
 
 /* No comment provided by engineer. */
 "Create Workflow" = "작업 흐름 생성";
@@ -1118,9 +1124,6 @@
 "Duplicating…" = "복제 중…";
 
 /* No comment provided by engineer. */
-"Easily protect your photos with the all-new watermarking feature, letting you apply text or image watermarks when exporting your photos." = "Easily protect your photos with the all-new watermarking feature, letting you apply text or image watermarks when exporting your photos.";
-
-/* No comment provided by engineer. */
 "Edit" = "편집";
 
 /* No comment provided by engineer. */
@@ -1180,6 +1183,9 @@
 
 /* No comment provided by engineer. */
 "Editing…" = "편집 중…";
+
+/* No comment provided by engineer. */
+"Edits will be nondestructively preserved in a linked Photomator file. If you delete linked files, your edits will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "Edits will be nondestructively preserved in a linked Photomator file. If you delete linked files, your edits will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file.";
 
 /* No comment provided by engineer. */
 "EDR" = "EDR";
@@ -1738,6 +1744,9 @@
 /* No comment provided by engineer. */
 "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default." = "RAW+JPEG 또는 RAW+HEIC 조합 선택 시 기본적으로 RAW 사진이 열립니다.";
 
+/* No comment provided by engineer. */
+"In the Files browser, effortlessly browse photos using the new filmstrip." = "In the Files browser, effortlessly browse photos using the new filmstrip.";
+
 /* Units */
 "Inches" = "인치";
 
@@ -2115,6 +2124,12 @@
 "Modification Date" = "수정일";
 
 /* No comment provided by engineer. */
+"Modify Original" = "원본 수정";
+
+/* No comment provided by engineer. */
+"Modify Originals" = "Modify Originals";
+
+/* No comment provided by engineer. */
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "해당 문서를 적절하게 수정하면 현재 포맷의 일부가 유실될 수 있습니다. 먼저 문서를 복제하시겠습니까?";
 
 /* No comment provided by engineer. */
@@ -2358,6 +2373,12 @@
 "ORIGINAL PERSPECTIVE" = "원본 투시도";
 
 /* No comment provided by engineer. */
+"Original photos will not be modified and separate PHOTO files will be created for editing." = "Original photos will not be modified and separate PHOTO files will be created for editing.";
+
+/* No comment provided by engineer. */
+"Original photos will not be modified and the edits will be stored in a separate file next to the original photos." = "Original photos will not be modified and the edits will be stored in a separate file next to the original photos.";
+
+/* No comment provided by engineer. */
 "Original Size" = "원래 크기";
 
 /* Effects category name */
@@ -2376,7 +2397,7 @@
 "Overlay" = "오버레이";
 
 /* No comment provided by engineer. */
-"Overwrite Originals" = "원본 덮어쓰기";
+"Overwrite" = "덮어쓰기";
 
 /* Tool */
 "Paint" = "페인트";
@@ -2557,6 +2578,15 @@
 
 /* No comment provided by engineer. */
 "Preserve Edits" = "편집본 보존";
+
+/* No comment provided by engineer. */
+"Preserve Edits and Modify Original" = "Preserve Edits and Modify Original";
+
+/* No comment provided by engineer. */
+"Preserve Edits and Original" = "Preserve Edits and Original";
+
+/* No comment provided by engineer. */
+"Preserve nondestructive edits in a separate sidecar file." = "Preserve nondestructive edits in a separate sidecar file.";
 
 /* No comment provided by engineer. */
 "Preserve transparency" = "투명도 유지";
@@ -3530,6 +3560,9 @@
 "Status Bar" = "상태 막대 표시";
 
 /* No comment provided by engineer. */
+"Storage Improvements" = "Storage Improvements";
+
+/* No comment provided by engineer. */
 "Store Edits in iCloud" = "iCloud에 편집본 저장";
 
 /* Tool */
@@ -3658,6 +3691,9 @@
 
 /* No comment provided by engineer. */
 "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "텍스처 인식 조정은 LUT를 사용해 다시 생성할 수 없으므로 내보낸 LUT는 다르게 보입니다.";
+
+/* No comment provided by engineer. */
+"Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file." = "Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file.";
 
 /* No comment provided by engineer. */
 "That covers the basics – you’re ready to start editing your photos!" = "이제 기초 지식을 습득하셨습니다 – 사진 편집을 시작할 준비가 되셨습니다!";
@@ -4141,9 +4177,6 @@
 
 /* No comment provided by engineer. */
 "Watermark" = "워터마크";
-
-/* No comment provided by engineer. */
-"Watermarks" = "Watermarks";
 
 /* The name of an image file format. */
 "WebP" = "WebP";
