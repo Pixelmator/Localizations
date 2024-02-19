@@ -537,7 +537,7 @@
 "Changes Tracked in Sidecar" = "Изменения, прослеженные в sidecar";
 
 /* No comment provided by engineer. */
-"Changes will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "Changes will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file.";
+"Changes will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "Изменения будут сохраняться непосредственно в исходный файл.\n\nПримечание: эта опция не применима к файлам в формате RAW — для них изменения будут сохраняться как отдельные файлы.";
 
 /* No comment provided by engineer. */
 "Channel" = "Канал";
@@ -1425,7 +1425,7 @@
 "Filmstrip" = "Диафильм";
 
 /* No comment provided by engineer. */
-"Filmstrip Unavailable" = "Filmstrip Unavailable";
+"Filmstrip Unavailable" = "Диафильм недоступен";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "Закончить рисунок";
@@ -1446,7 +1446,7 @@
 "Fixed" = "Исправлено";
 
 /* No comment provided by engineer. */
-"Flatten Layer" = "Сгладить слой";
+"Flatten Layer" = "Свести слой";
 
 /* Tool */
 "Flip" = "Переворот";
@@ -1524,13 +1524,13 @@
 "GIF" = "GIF";
 
 /* No comment provided by engineer. */
-"Give Access" = "Give Access";
+"Give Access" = "Предоставить доступ";
 
 /* No comment provided by engineer. */
-"Give Access to Filmstrip" = "Give Access to Filmstrip";
+"Give Access to Filmstrip" = "Предоставьте диафильму доступ";
 
 /* No comment provided by engineer. */
-"Give access to the image’s root folder by selecting it and tapping Open." = "Give access to the image’s root folder by selecting it and tapping Open.";
+"Give access to the image’s root folder by selecting it and tapping Open." = "Предоставьте доступ к корневой папке изображения, выбрав ее и коснувшись «Открыть».";
 
 /* No comment provided by engineer. */
 "Glazed" = "Глянцевый";
@@ -1871,7 +1871,7 @@
 "Layer Selection" = "Выборка слоев";
 
 /* No comment provided by engineer. */
-"Layer was flattened" = "Слой был сглажен";
+"Layer was flattened" = "Слой был сведен";
 
 /* No comment provided by engineer. */
 "Layers" = "Слои";
@@ -2127,7 +2127,7 @@
 "Modify Original" = "Изменить оригинал";
 
 /* No comment provided by engineer. */
-"Modify Originals" = "Modify Originals";
+"Modify Originals" = "Править оригиналы";
 
 /* No comment provided by engineer. */
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "Изменение этого документа на месте может привести к потере части его исходного форматирования. Хотите сначала создать дубликат этого документа?";
@@ -2373,10 +2373,10 @@
 "ORIGINAL PERSPECTIVE" = "ИСХОДНАЯ ПЕРСПЕКТИВА";
 
 /* No comment provided by engineer. */
-"Original photos will not be modified and separate PHOTO files will be created for editing." = "Original photos will not be modified and separate PHOTO files will be created for editing.";
+"Original photos will not be modified and separate PHOTO files will be created for editing." = "Оригиналы фото останутся неизменными — правки будут внесены в отдельные файлы PHOTO, созданные для этой цели.";
 
 /* No comment provided by engineer. */
-"Original photos will not be modified and the edits will be stored in a separate file next to the original photos." = "Original photos will not be modified and the edits will be stored in a separate file next to the original photos.";
+"Original photos will not be modified and the edits will be stored in a separate file next to the original photos." = "Оригиналы фото останутся неизменными — правки будут внесены в отдельные специальные файлы.";
 
 /* No comment provided by engineer. */
 "Original Size" = "Исходный размер";
@@ -2580,10 +2580,10 @@
 "Preserve Edits" = "Сохранить правки";
 
 /* No comment provided by engineer. */
-"Preserve Edits and Modify Original" = "Preserve Edits and Modify Original";
+"Preserve Edits and Modify Original" = "Сохранять правки и править оригинал";
 
 /* No comment provided by engineer. */
-"Preserve Edits and Original" = "Preserve Edits and Original";
+"Preserve Edits and Original" = "Сохранять правки и оригинал";
 
 /* No comment provided by engineer. */
 "Preserve nondestructive edits in a separate sidecar file." = "Сохранять неразрушающие правки в отдельном sidecar-файле.";
@@ -3723,7 +3723,7 @@
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "Файловый браузер дает возможность просматривать документы, сохраненные на вашем устройстве. Чтобы переключиться на браузер фото, коснитесь значка %@ и в меню «Браузер» выберите «Фото».";
 
 /* No comment provided by engineer. */
-"The folder of the image could not be found." = "The folder of the image could not be found.";
+"The folder of the image could not be found." = "Не удалось найти папку с этим изображением.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "Изображение содержит несколько слоев (%@). Чтобы создать еще, уменьшите размер изображения.";
@@ -3786,7 +3786,7 @@
 "The selected folder does not contain any images." = "Выбранная папка не содержит изображений.";
 
 /* No comment provided by engineer. */
-"The selected folder does not contain this image. Make sure to select the image’s root folder." = "The selected folder does not contain this image. Make sure to select the image’s root folder.";
+"The selected folder does not contain this image. Make sure to select the image’s root folder." = "В выбранной папке нет этого изображения. Убедитесь, что вы выбрали корневую папку изображения.";
 
 /* No comment provided by engineer. */
 "The selected image does not contain color adjustments." = "Выбранное изображение не содержит корректировок цвета.";
@@ -3822,7 +3822,7 @@
 "This device has limited support for HDR content." = "Это устройство имеет ограниченную поддержку контента HDR.";
 
 /* No comment provided by engineer. */
-"This file only stores edits. Open the original photo to view and edit it." = "This file only stores edits. Open the original photo to view and edit it.";
+"This file only stores edits. Open the original photo to view and edit it." = "В этом файле сохраняются только изменения. Для просмотра и обработки фото откройте его оригинал.";
 
 /* No comment provided by engineer. */
 "This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "Эта папка пуста. Добавьте в нее пару альбомов или подпапок, и они автоматически появятся здесь.";
