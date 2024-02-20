@@ -293,6 +293,9 @@
 "Apply Watermark" = "应用水印";
 
 /* No comment provided by engineer. */
+"Apply Watermarks" = "应用水印";
+
+/* No comment provided by engineer. */
 "Applying %@" = "应用 %@";
 
 /* No comment provided by engineer. */
@@ -534,6 +537,9 @@
 "Changes Tracked in Sidecar" = "更改 Sidecar 中的跟踪";
 
 /* No comment provided by engineer. */
+"Changes will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "更改将直接保存到原始文件中。\n\n注意：此设置不适用于 RAW 照片，其编辑内容将保存为单独文件。";
+
+/* No comment provided by engineer. */
 "Channel" = "通道";
 
 /* No comment provided by engineer. */
@@ -741,6 +747,9 @@
 
 /* Gallery */
 "Create Image" = "创建图像";
+
+/* No comment provided by engineer. */
+"Create PHOTO File With Edits" = "创建带编辑内容的照片文件";
 
 /* No comment provided by engineer. */
 "Create Workflow" = "创建工作流程";
@@ -1115,9 +1124,6 @@
 "Duplicating…" = "正在复制…";
 
 /* No comment provided by engineer. */
-"Easily protect your photos with the all-new watermarking feature, letting you apply text or image watermarks when exporting your photos." = "Easily protect your photos with the all-new watermarking feature, letting you apply text or image watermarks when exporting your photos.";
-
-/* No comment provided by engineer. */
 "Edit" = "编辑";
 
 /* No comment provided by engineer. */
@@ -1160,6 +1166,9 @@
 "Edit specific areas of photos" = "编辑照片的特定区域";
 
 /* No comment provided by engineer. */
+"Edit with Filmstrip" = "使用“电影胶片”编辑";
+
+/* No comment provided by engineer. */
 "Editing" = "正在编辑";
 
 /* No comment provided by engineer. */
@@ -1174,6 +1183,9 @@
 
 /* No comment provided by engineer. */
 "Editing…" = "正在编辑…";
+
+/* No comment provided by engineer. */
+"Edits will be nondestructively preserved in a linked Photomator file. If you delete linked files, your edits will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "编辑内容以非破坏性的方式保存在链接的 Photomator 文件中。如果您删除链接的文件，编辑内容将直接保存到原始文件中。\n\n注意：此设置不适用于 RAW 照片，其编辑内容将保存为单独文件。";
 
 /* No comment provided by engineer. */
 "EDR" = "EDR";
@@ -1386,6 +1398,9 @@
 "Feature Unavailable" = "功能不可用";
 
 /* No comment provided by engineer. */
+"File Unavailable" = "文件不可用";
+
+/* No comment provided by engineer. */
 "Files" = "文件";
 
 /* No comment provided by engineer. */
@@ -1408,6 +1423,9 @@
 
 /* No comment provided by engineer. */
 "Filmstrip" = "胶片条";
+
+/* No comment provided by engineer. */
+"Filmstrip Unavailable" = "“电影胶片”不可用";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "完成绘图";
@@ -1504,6 +1522,15 @@
 
 /* The name of an image file format. */
 "GIF" = "GIF";
+
+/* No comment provided by engineer. */
+"Give Access" = "授予权限";
+
+/* No comment provided by engineer. */
+"Give Access to Filmstrip" = "授予“电影胶片”权限";
+
+/* No comment provided by engineer. */
+"Give access to the image’s root folder by selecting it and tapping Open." = "选择图像的根文件夹并轻点“打开”，即可授予权限。";
 
 /* No comment provided by engineer. */
 "Glazed" = "上釉";
@@ -1672,6 +1699,9 @@
 "Image Layer" = "图像图层";
 
 /* No comment provided by engineer. */
+"Image Not Found" = "未找到图像";
+
+/* No comment provided by engineer. */
 "IMAGE QUALITY" = "图像质量";
 
 /* Tool */
@@ -1713,6 +1743,9 @@
 
 /* No comment provided by engineer. */
 "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default." = "在 RAW+JPEG 或 RAW+HEIC 组合中，App 会默认打开 RAW 照片。";
+
+/* No comment provided by engineer. */
+"In the Files browser, effortlessly browse photos using the new filmstrip." = "在“文件”浏览器中，使用全新电影胶片轻松浏览照片。";
 
 /* Units */
 "Inches" = "英寸";
@@ -2091,6 +2124,12 @@
 "Modification Date" = "编辑日期";
 
 /* No comment provided by engineer. */
+"Modify Original" = "修改原始文件";
+
+/* No comment provided by engineer. */
+"Modify Originals" = "修改原始文件";
+
+/* No comment provided by engineer. */
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "修改现有文稿可能导致丢失部分现有格式。您要先复制此文稿吗？";
 
 /* No comment provided by engineer. */
@@ -2137,6 +2176,9 @@
 
 /* No comment provided by engineer. */
 "Move Slices" = "移动切片";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "移动至废纸篓";
 
 /* No comment provided by engineer. */
 "Move Up" = "上移";
@@ -2214,7 +2256,13 @@
 "No commitment, cancel anytime." = "无需承诺，可随时取消。";
 
 /* No comment provided by engineer. */
+"No Folder Access" = "无访问文件夹权限";
+
+/* No comment provided by engineer. */
 "No Horizon Detected" = "未检测到水平线";
+
+/* No comment provided by engineer. */
+"No Images Found" = "未找到图片";
 
 /* No comment provided by engineer. */
 "No Layer Selected" = "未选择图层";
@@ -2325,6 +2373,12 @@
 "ORIGINAL PERSPECTIVE" = "原始视角";
 
 /* No comment provided by engineer. */
+"Original photos will not be modified and separate PHOTO files will be created for editing." = "原始照片不会被修改，应用将创建单独的照片文件用于编辑。";
+
+/* No comment provided by engineer. */
+"Original photos will not be modified and the edits will be stored in a separate file next to the original photos." = "原始照片不会被修改，编辑内容将保存在原始照片旁的一个单独文件中。";
+
+/* No comment provided by engineer. */
 "Original Size" = "原始大小";
 
 /* Effects category name */
@@ -2337,13 +2391,13 @@
 "Outline" = "外框";
 
 /* No comment provided by engineer. */
+"Oval" = "椭圆";
+
+/* No comment provided by engineer. */
 "Overlay" = "叠层";
 
 /* No comment provided by engineer. */
 "Overwrite" = "覆盖";
-
-/* No comment provided by engineer. */
-"Overwrite Originals" = "覆盖原始图像";
 
 /* Tool */
 "Paint" = "绘图";
@@ -2524,6 +2578,15 @@
 
 /* No comment provided by engineer. */
 "Preserve Edits" = "保留编辑";
+
+/* No comment provided by engineer. */
+"Preserve Edits and Modify Original" = "保留编辑内容和修改原始文件";
+
+/* No comment provided by engineer. */
+"Preserve Edits and Original" = "保留编辑内容和原始文件";
+
+/* No comment provided by engineer. */
+"Preserve nondestructive edits in a separate sidecar file." = "将非破坏性编辑内容保存在单独的连接文件中。";
 
 /* No comment provided by engineer. */
 "Preserve transparency" = "保留透明度";
@@ -2830,6 +2893,12 @@
 
 /* No comment provided by engineer. */
 "Replace Text" = "替换文本";
+
+/* No comment provided by engineer. */
+"Report Issue" = "报告问题";
+
+/* No comment provided by engineer. */
+"Report…" = "报告…";
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "重新处理 RAW";
@@ -3491,6 +3560,9 @@
 "Status Bar" = "状态栏";
 
 /* No comment provided by engineer. */
+"Storage Improvements" = "储存空间改进";
+
+/* No comment provided by engineer. */
 "Store Edits in iCloud" = "将编辑存储在 iCloud";
 
 /* Tool */
@@ -3621,6 +3693,9 @@
 "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "纹理感知调整不能使用 LUT 重新创建，因此导出的 LUT 看起来会不同。";
 
 /* No comment provided by engineer. */
+"Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file." = "Photomator 改进了连接文件的保存方式，您的编辑将占用更少储存空间。在“文件”中编辑时，应用会将编辑内容保存为单独文件，同时保留原始文件。";
+
+/* No comment provided by engineer. */
 "That covers the basics – you’re ready to start editing your photos!" = "基本操作大致就是这些，开始编辑您的照片吧！";
 
 /* No comment provided by engineer. */
@@ -3646,6 +3721,9 @@
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "文件浏览器可让您浏览设备上所有的文件。切换至照片浏览器只需点击%@图标并在浏览目录中选择图片。";
+
+/* No comment provided by engineer. */
+"The folder of the image could not be found." = "无法找到图像所在的文件夹。";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "图像包含 %@ 个图层。必须降低图像尺寸才可以创建更多图层。";
@@ -3705,6 +3783,12 @@
 "The preset will be reset to the initial color adjustments." = "预设将重置为初始颜色调整。";
 
 /* No comment provided by engineer. */
+"The selected folder does not contain any images." = "所选文件夹不包含任何图像。";
+
+/* No comment provided by engineer. */
+"The selected folder does not contain this image. Make sure to select the image’s root folder." = "所选文件夹不包含此图像。请确保选中的是此图像的根文件夹。";
+
+/* No comment provided by engineer. */
 "The selected image does not contain color adjustments." = "选定图像未包含颜色调整。";
 
 /* No comment provided by engineer. */
@@ -3736,6 +3820,9 @@
 
 /* No comment provided by engineer. */
 "This device has limited support for HDR content." = "此设备有限支持 HDR 内容。";
+
+/* No comment provided by engineer. */
+"This file only stores edits. Open the original photo to view and edit it." = "此文件仅存储编辑内容。请打开原始照片来查看和编辑。";
 
 /* No comment provided by engineer. */
 "This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "此文件夹是空的。从添加一些相簿或文件夹，它们将会在这里自动显示出来。";
@@ -3825,6 +3912,12 @@
 "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "要购买 Photomator，您需要连接到互联网。您可以在”设置”应用中查看详情，然后再试一次。";
 
 /* No comment provided by engineer. */
+"To reveal filmstrip, give access to the image’s root folder by selecting the folder and tapping Open." = "如需查看电影胶片，您需要先授予访问此图像根文件夹的权限。请选中文件夹，然后轻点“打开”。";
+
+/* No comment provided by engineer. */
+"To reveal filmstrip, touch and hold a folder, then choose Edit with Filmstrip." = "如需查看电影胶片，请长按文件夹，然后选择“用‘电影胶片’编辑”。";
+
+/* No comment provided by engineer. */
 "To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "要使用此功能，你需要购买或订阅 Photomator，但购买页面显示有问题。如果问题持续出现，请与我们联系以获得帮助。（错误代码：%i）";
 
 /* No comment provided by engineer. */
@@ -3880,6 +3973,9 @@
 
 /* Unsaved */
 "U" = "未保存的";
+
+/* No comment provided by engineer. */
+"Unable to Access" = "无法访问";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "无法访问帮助";
@@ -4062,6 +4158,9 @@
 "Visible" = "可见";
 
 /* No comment provided by engineer. */
+"Visit Support Portal" = "访问支持门户";
+
+/* No comment provided by engineer. */
 "Vivid Light" = "亮光";
 
 /* Stands for Width, up to 3 characters */
@@ -4078,9 +4177,6 @@
 
 /* No comment provided by engineer. */
 "Watermark" = "水印";
-
-/* No comment provided by engineer. */
-"Watermarks" = "Watermarks";
 
 /* The name of an image file format. */
 "WebP" = "WebP";
@@ -4105,6 +4201,9 @@
 
 /* No comment provided by engineer. */
 "When enabled, only areas you paint over with Apple Pencil will be repaired. Your fingers will be used for scrolling and zooming instead." = "启用后，只有使用 Apple Pencil 绘画的区域将得到修复。您的手指会用于滚动和缩放。";
+
+/* No comment provided by engineer. */
+"When exporting, apply text or image watermarks to protect your photos." = "导出时，使用文字或图像水印来保护您的照片。";
 
 /* No comment provided by engineer. */
 "White" = "白色";

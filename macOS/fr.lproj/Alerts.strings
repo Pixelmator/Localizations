@@ -20,6 +20,12 @@
 "An error occurred while running the batch editing workflow. Error code: %d." = "Une erreur est survenue lors de l'exécution du workflow de modification groupée. Code d'erreur : %d.";
 
 /* No comment provided by engineer. */
+"Are you sure you want to move %d items to the Trash?" = "Voulez-vous vraiment placer %d éléments dans la corbeille ?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to move “%@” to the Trash?" = "Voulez-vous vraiment placer « %@ » dans la corbeille ?";
+
+/* No comment provided by engineer. */
 "Are you sure you'd like to delete all Photomator sidecar files older than 30 days?" = "Voulez-vous vraiment supprimer tous les fichiers sidecar Photomator antérieurs à 30 jours ?";
 
 /* No comment provided by engineer. */
@@ -27,6 +33,12 @@
 
 /* No comment provided by engineer. */
 "Are you sure you'd like to discard your edits?" = "Voulez-vous vraiment supprimer vos modifications ?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to remove %d photos from your library?" = "Voulez-vous vraiment supprimer %d photos de votre photothèque ?";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to remove “%@” from your library?" = "Voulez-vous vraiment supprimer « %@ » de votre photothèque ?";
 
 /* No comment provided by engineer. */
 "Batch editing failed because no photos were provided." = "La modification groupée a échoué, car aucune photo n'a été fournie.";
@@ -113,6 +125,9 @@
 "If you think you should have an active subscription, get in touch with us and we’ll help out." = "Si vous pensez avoir un abonnement actif, contactez-nous pour obtenir de l'aide.";
 
 /* No comment provided by engineer. */
+"Import Successful" = "Importation terminée";
+
+/* No comment provided by engineer. */
 "iPad and iPhone License Found" = "Licence iPad et iPhone détectée";
 
 /* No comment provided by engineer. */
@@ -132,6 +147,9 @@
 
 /* No comment provided by engineer. */
 "It's been a few moments since the notification access request appeared and it looks like you haven't granted access." = "La demande d'accès aux notifications s'est affichée il y a quelques instants, et vous n'avez apparemment pas encore autorisé l'accès.";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "Placer dans la corbeille";
 
 /* No comment provided by engineer. */
 "No Subscription Found" = "Aucun abonnement trouvé";
@@ -158,9 +176,6 @@
 "Photo Edited by Another App" = "Photo modifiée par une autre application";
 
 /* No comment provided by engineer. */
-"Photo Imported Successfully" = "Photo importée";
-
-/* No comment provided by engineer. */
 "Pixelmator Pro needs to be updated." = "Pixelmator Pro doit être mis à jour.";
 
 /* No comment provided by engineer. */
@@ -177,6 +192,12 @@
 
 /* No comment provided by engineer. */
 "Redeem Offer" = "Profiter de l'offre";
+
+/* No comment provided by engineer. */
+"Remove Photo" = "Retirer la photo";
+
+/* No comment provided by engineer. */
+"Remove Photos" = "Supprimer les photos";
 
 /* No comment provided by engineer. */
 "Repair tool" = "Outil Réparer";
@@ -233,25 +254,43 @@
 "Super Resolution" = "Super résolution";
 
 /* No comment provided by engineer. */
-"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "La ressource Photos contient des calques ou d'autres contenus non destructifs qui ne sont actuellement pas gérés par Photomator. Ces contenus seront par conséquent fusionnés.\n\nVoulez-vous modifier et remplacer l'original ou créer une copie ?";
+"The file contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "Le fichier contient des calques ou d'autres contenus non destructifs qui ne sont actuellement pas gérés par Photomator. Ces contenus seront par conséquent fusionnés.\n\nVoulez-vous modifier et remplacer l'original, ou créer une copie ?";
+
+/* No comment provided by engineer. */
+"The item could not be renamed due to an error: %@." = "Impossible de renommer l'élément en raison d'une erreur : %@.";
+
+/* No comment provided by engineer. */
+"The name “%@” is already taken. Please choose a different name." = "Le nom « %@ » est déjà pris. Veuillez en choisir un autre.";
 
 /* No comment provided by engineer. */
 "The RAW content from this document appears to be missing. If the photo is edited, it may help to revert it." = "Le contenu RAW de ce document semble manquant. Si la photo a été modifiée, vous pouvez peut-être régler le problème en rétablissant l'original.";
 
 /* No comment provided by engineer. */
-"The selected image does not contain any adjustments." = "L’image sélectionnée ne contient aucun ajustement.";
+"The selected image does not contain any adjustments applied to the base layer." = "L’image sélectionnée ne contient aucun ajustement appliqué au calque de base.";
 
 /* No comment provided by engineer. */
 "The version of Pixelmator Pro installed on this Mac does not support receiving edits from Photomator and needs to be updated in the App Store." = "La version de Pixelmator Pro installée sur ce Mac n'accepte pas les modifications provenant de Photomator et doit être mise à jour sur l'App Store.";
 
 /* No comment provided by engineer. */
-"This photo has been edited by another app. Would you like to discard your edits and open the latest version in the Photos library?" = "Cette photo a été modifiée par une autre application. Voulez-vous annuler vos modifications et ouvrir la dernière version dans la bibliothèque Photos ?";
+"These items and any sidecar files will be moved to the Trash." = "Ces éléments et les éventuels fichiers sidecar seront placés dans la corbeille.";
+
+/* No comment provided by engineer. */
+"This photo and the photo's sidecar file (if one exists) will be moved to the Trash." = "Cette photo et son fichier sidecar (s'il existe) seront placés dans la corbeille.";
+
+/* No comment provided by engineer. */
+"This photo has been edited by another app. Would you like to discard your edits and open the latest version?" = "Cette photo a été modifiée par une autre application. Voulez-vous annuler vos modifications et ouvrir la dernière version ?";
 
 /* No comment provided by engineer. */
 "This RAW format isn't yet supported. If you'd like to see some troubleshooting steps with possible workarounds, click Learn More below." = "Ce format RAW n'est pas encore accepté. Pour découvrir nos conseils de dépannage et les solutions envisageables, cliquez ci-dessous sur En savoir plus.";
 
 /* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the System Settings app, then try again." = "Pour acheter Photomator, vous devez être connecté à Internet. Rendez-vous dans l'application Réglages Système pour vérifier que vous êtes connecté, puis réessayez.";
+
+/* No comment provided by engineer. */
+"To put these items back in your library, you'll need to reimport them." = "Pour replacer ces éléments dans votre photothèque, vous devrez les réimporter.";
+
+/* No comment provided by engineer. */
+"To put this item back in your library, you'll need to reimport it." = "Pour replacer cet élément dans votre photothèque, vous devrez le réimporter.";
 
 /* No comment provided by engineer. */
 "To receive a notification before the end of your free trial, allow access in the top right of your screen or in Notifications settings." = "Pour recevoir une notification avant la fin de votre essai gratuit, autorisez l'accès en haut à droite de votre écran ou dans les réglages de notification.";
@@ -284,10 +323,10 @@
 "Unsupported RAW Format" = "Format RAW non compatible";
 
 /* No comment provided by engineer. */
-"Would you like to save your changes?" = "Voulez-vous enregistrer vos modifications ?";
+"Would you like to open the new assets?" = "Voulez-vous ouvrir les nouvelles ressources ?";
 
 /* No comment provided by engineer. */
-"Would you like to start editing the imported photo?" = "Voulez-vous commencer à modifier la photo importée ?";
+"Would you like to save your changes?" = "Voulez-vous enregistrer vos modifications ?";
 
 /* No comment provided by engineer. */
 "You’re Offline" = "Vous êtes hors ligne";

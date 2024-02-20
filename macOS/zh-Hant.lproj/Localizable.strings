@@ -55,10 +55,10 @@
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d 個檔案已經存在。是否要替換它們？";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folder" = "%d 個資料夾";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folders" = "%d 個資料夾";
 
 /* No comment provided by engineer. */
@@ -188,6 +188,9 @@
 "\"%@\" Effect" = "\"%@\" 效果";
 
 /* No comment provided by engineer. */
+"\(bitmapDataFormat.bitsPerComponent) bits per channel" = "\\(bitmapDataFormat.bitsPerComponent) bits per channel";
+
+/* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "「%@」檔案夾裡已經有名稱相同的檔案或檔案夾。若選取取代，將會覆寫原有的內容。";
 
 /* No comment provided by engineer. */
@@ -243,6 +246,9 @@
 
 /* No comment provided by engineer. */
 "Add Preset" = "新增預設";
+
+/* No comment provided by engineer. */
+"Add Shadow" = "添加陰影";
 
 /* No comment provided by engineer. */
 "Add Slice" = "添加切片";
@@ -367,6 +373,9 @@
 /* No comment provided by engineer. */
 "Apply LUT" = "套用 LUT";
 
+/* No comment provided by engineer. */
+"Apply Watermark" = "套用浮水印";
+
 /* Refers to an associated file to which data is saved that accompanies a source file. Named after a motorbike sidecar. */
 "Are you sure you want to delete the sidecar file for this image?" = "你確定要刪除此影像的邊車檔案嗎？";
 
@@ -459,9 +468,6 @@
 
 /* No comment provided by engineer. */
 "Autodesk SketchBook App Detected" = "偵測到 Autodesk SketchBook App";
-
-/* No comment provided by engineer. */
-"Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "自動在 Mac 上保存與原始影像檔案連結的編輯可還原式邊車檔案。";
 
 /* The name of an image file format */
 "AVIF" = "AVIF";
@@ -722,6 +728,9 @@
 "Choose an image to use for color matching." = "選擇要用於顏色匹配的影像。";
 
 /* No comment provided by engineer. */
+"Choose Image…" = "選取圖像…";
+
+/* No comment provided by engineer. */
 "Choose LUT…" = "選擇 LUT…";
 
 /* No comment provided by engineer. */
@@ -873,6 +882,9 @@
 
 /* No comment provided by engineer. */
 "CMYK Profiles" = "CMYK 色彩描述";
+
+/* No comment provided by engineer. */
+"Collaborate in iCloud…" = "Collaborate in iCloud…";
 
 /* No comment provided by engineer. */
 "Collection" = "集合";
@@ -1157,6 +1169,9 @@
 "Delete" = "刪除";
 
 /* No comment provided by engineer. */
+"Delete %d Photos" = "刪除 %d 張照片";
+
+/* No comment provided by engineer. */
 "Delete %i Photos" = "刪除 %i 張照片";
 
 /* No comment provided by engineer. */
@@ -1191,6 +1206,9 @@
 
 /* No comment provided by engineer. */
 "Delete Photo" = "刪除照片";
+
+/* No comment provided by engineer. */
+"Delete Preset" = "刪除預設";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "刪除切片";
@@ -1292,13 +1310,7 @@
 "Discard Changes" = "放棄所作更動";
 
 /* No comment provided by engineer. */
-"Display albums without nesting" = "不巢狀顯示相簿";
-
-/* No comment provided by engineer. */
 "Display HDR Content" = "顯示 HDR 內容";
-
-/* No comment provided by engineer. */
-"Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "以字母順序顯示所有相簿，包含資料夾中的相簿。";
 
 /* No comment provided by engineer. */
 "Distance" = "距離";
@@ -1395,6 +1407,9 @@
 
 /* No comment provided by engineer. */
 "Duplicate" = "複製";
+
+/* No comment provided by engineer. */
+"Duplicate %d Photos" = "複製 %d 張照片";
 
 /* No comment provided by engineer. */
 "Duplicate %i Photos" = "複製 %i 張照片";
@@ -1726,6 +1741,9 @@
 /* No comment provided by engineer. */
 "File Size:" = "檔案大小:";
 
+/* Refers to application settings that affect editing files that are saved on the user's device. */
+"Files" = "檔案";
+
 /* No comment provided by engineer. */
 "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "「%@」檔案夾裡已經有名稱相同的檔案或檔案夾。若選擇取代，將會覆寫原有的內容。";
 
@@ -1799,7 +1817,7 @@
 "Font Change" = "字體更改";
 
 /* No comment provided by engineer. */
-"For images opened from Finder" = "用於從 Finder 開啟的圖像";
+"For iCloud sharing to work, you must move the folder to an iCloud location." = "For iCloud sharing to work, you must move the folder to an iCloud location.";
 
 /* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
 "Format:" = "格式:";
@@ -2066,6 +2084,9 @@
 "Import as New Document" = "匯入為新文件";
 
 /* No comment provided by engineer. */
+"Importing files…" = "Importing files…";
+
+/* No comment provided by engineer. */
 "Importing…" = "正在匯入⋯";
 
 /* No comment provided by engineer. */
@@ -2106,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Inserting…" = "正在插入⋯";
+
+/* No comment provided by engineer. */
+"Insets" = "插頁";
 
 /* No comment provided by engineer. */
 "Inside" = "內";
@@ -2317,6 +2341,9 @@
 /* No comment provided by engineer. */
 "Loading lens info…" = "正在載入鏡頭資訊…";
 
+/* Library refers to a library of files (i.e. a photo library), rather than a library of books. */
+"Loading library…" = "Loading library…";
+
 /* No comment provided by engineer. */
 "Loading metadata…" = "正在載入元資料…";
 
@@ -2331,6 +2358,9 @@
 
 /* No comment provided by engineer. */
 "Lock Guides" = "鎖定輔助線";
+
+/* No comment provided by engineer. */
+"Locked" = "Locked";
 
 /* No comment provided by engineer. */
 "Logo" = "標誌";
@@ -2471,6 +2501,15 @@
 "Move %@" = "移動 %@";
 
 /* No comment provided by engineer. */
+"Move %d Photos to Trash" = "Move %d Photos to Trash";
+
+/* No comment provided by engineer. */
+"Move 1 Photo to Trash" = "Move 1 Photo to Trash";
+
+/* No comment provided by engineer. */
+"Move 1 Photo To Trash" = "Move 1 Photo To Trash";
+
+/* No comment provided by engineer. */
 "Move Down" = "向下移動";
 
 /* No comment provided by engineer. */
@@ -2480,6 +2519,9 @@
 "Move Mask" = "移動遮罩";
 
 /* No comment provided by engineer. */
+"Move Photo to Trash" = "Move Photo to Trash";
+
+/* No comment provided by engineer. */
 "Move Point" = "移動點";
 
 /* No comment provided by engineer. */
@@ -2487,6 +2529,15 @@
 
 /* No comment provided by engineer. */
 "Move Slices" = "移動切片";
+
+/* No comment provided by engineer. */
+"Move to iCloud" = "Move to iCloud";
+
+/* No comment provided by engineer. */
+"Move to iCloud to Collaborate" = "Move to iCloud to Collaborate";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "Move to Trash";
 
 /* No comment provided by engineer. */
 "Move Up" = "向上移動";
@@ -2705,10 +2756,16 @@
 "Normal" = "一般";
 
 /* No comment provided by engineer. */
+"Not an iCloud Locaton" = "Not an iCloud Locaton";
+
+/* No comment provided by engineer. */
 "Off" = "關閉";
 
 /* No comment provided by engineer. */
 "Offline LUT" = "離線 LUT";
+
+/* No comment provided by engineer. */
+"Offset" = "位移";
 
 /* No comment provided by engineer. */
 "OK" = "好";
@@ -2778,6 +2835,9 @@
 
 /* No comment provided by engineer. */
 "Outside" = "外";
+
+/* No comment provided by engineer. */
+"Oval" = "Oval";
 
 /* No comment provided by engineer. */
 "Overlay" = "覆疊";
@@ -3191,7 +3251,16 @@
 "Remove %@" = "移除 %@";
 
 /* No comment provided by engineer. */
+"Remove %d Photos from Album" = "從相簿中移除 %d 張照片";
+
+/* No comment provided by engineer. */
+"Remove %d Photos from Library" = "Remove %d Photos from Library";
+
+/* No comment provided by engineer. */
 "Remove 1 Photo from Album" = "從相簿中移除 1 張照片";
+
+/* No comment provided by engineer. */
+"Remove 1 Photo from Library" = "Remove 1 Photo from Library";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "移除調整";
@@ -3215,6 +3284,9 @@
 "Remove Document Color" = "移除文件顏色";
 
 /* No comment provided by engineer. */
+"Remove Folder" = "Remove Folder";
+
+/* No comment provided by engineer. */
 "Remove from Favorites" = "自最愛中移除";
 
 /* No comment provided by engineer. */
@@ -3234,6 +3306,12 @@
 
 /* No comment provided by engineer. */
 "Remove Palette" = "移除調色盤";
+
+/* No comment provided by engineer. */
+"Remove Photo from Album" = "Remove Photo from Album";
+
+/* No comment provided by engineer. */
+"Remove Photo from Library" = "Remove Photo from Library";
 
 /* No comment provided by engineer. */
 "Remove Profile" = "移除色彩描述檔";
@@ -4016,6 +4094,9 @@
 "Space" = "空間";
 
 /* No comment provided by engineer. */
+"Spacing" = "間距";
+
+/* No comment provided by engineer. */
 "Spacing After" = "後端間距";
 
 /* No comment provided by engineer. */
@@ -4507,11 +4588,11 @@
 /* No comment provided by engineer. */
 "Watercolor" = "水彩";
 
+/* No comment provided by engineer. */
+"Watermark" = "浮水印";
+
 /* The name of an image file format. */
 "WebP" = "WebP";
-
-/* No comment provided by engineer. */
-"Welcome to Pixelmator Pro" = "歡迎使用 Pixelmator Pro";
 
 /* No comment provided by engineer. */
 "Wetness" = "濕度";
@@ -4587,6 +4668,9 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "你需要新版本才能打開此檔案。";
+
+/* No comment provided by engineer. */
+"You'll need to move ”%@“ to iCloud before you can collaborate." = "You'll need to move ”%@“ to iCloud before you can collaborate.";
 
 /* No comment provided by engineer. */
 "You're attempting to open a %@ sidecar document which cannot be edited directly." = "你正在嘗試開啟無法直接編輯的 %@ 邊車檔案。";

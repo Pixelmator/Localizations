@@ -1,3 +1,12 @@
+/* The number of photos in a folder and the number of immediate subfolders, spearated by a comma. */
+"%@, %@" = "%1$@, %2$@";
+
+/* No comment provided by engineer. */
+"%d Photo" = "%d张照片";
+
+/* No comment provided by engineer. */
+"%d Photos" = "%d 张照片";
+
 /* No comment provided by engineer. */
 "Add to Favorites" = "添加到收藏";
 
@@ -6,6 +15,9 @@
 
 /* No comment provided by engineer. */
 "Albums" = "相簿";
+
+/* No comment provided by engineer. */
+"All Files" = "全部文件";
 
 /* No comment provided by engineer. */
 "An error occurred while attempting to fetch the sidecar document." = "在尝试获得sidecar文件时发生了错误。";
@@ -17,7 +29,19 @@
 "Cancel" = "取消";
 
 /* No comment provided by engineer. */
+"Choose Import from the File menu." = "在“文件”菜单中选择“导入”。";
+
+/* No comment provided by engineer. */
 "Don’t Allow" = "不允许";
+
+/* No comment provided by engineer. */
+"Drag files or folders directly into Photomator." = "将文件或文件夹直接拖拽至 Photomator。";
+
+/* No comment provided by engineer. */
+"Drive Disconnected" = "已于云盘断开连接";
+
+/* No comment provided by engineer. */
+"Edited" = "已编辑";
 
 /* No comment provided by engineer. */
 "Empty Album" = "空相簿";
@@ -32,7 +56,13 @@
 "Files" = "文件";
 
 /* No comment provided by engineer. */
+"Folders" = "文件夹";
+
+/* No comment provided by engineer. */
 "Hide Hidden Photo Album" = "隐藏已隐藏的相簿";
+
+/* No comment provided by engineer. */
+"Imported" = "已导入";
 
 /* No comment provided by engineer. */
 "Import…" = "导入…";
@@ -42,6 +72,9 @@
 
 /* No comment provided by engineer. */
 "Learn More…" = "了解更多…";
+
+/* No comment provided by engineer. */
+"Library" = "照片库";
 
 /* No comment provided by engineer. */
 "Newer App Version Required" = "要求更新版本的App";
@@ -113,7 +146,16 @@
 "This album may be empty or locked. To view this album, turn off \"Use Touch ID or Password to Unlock\" in Photos settings, then quit and reopen %@." = "该相簿可能会被清空或锁住。如想要查看该相簿，您需要在照片设置中关闭“使用触控ID或输入密码以解锁“，然后退出并重新打开%@。";
 
 /* No comment provided by engineer. */
+"This drive appears to have been disconnected." = "似乎已断开与该云盘的连接。";
+
+/* No comment provided by engineer. */
 "This folder does not contain any albums." = "该文件夹不包含任何相簿。";
+
+/* No comment provided by engineer. */
+"This folder does not contain any images." = "该文件夹不包含任何图像。";
+
+/* No comment provided by engineer. */
+"To get started with Photomator, do any of the following:" = "如需开始使用 Photomator，请执行以下任一步骤：";
 
 /* No comment provided by engineer. */
 "Unable to Open Photo" = "无法打开照片";
@@ -123,6 +165,12 @@
 
 /* No comment provided by engineer. */
 "Video Duration" = "视频持续时间";
+
+/* No comment provided by engineer. */
+"Welcome to Photomator" = "欢迎使用 Photomator";
+
+/* No comment provided by engineer. */
+"When you import files one by one into Photomator, they'll appear here." = "将文件逐个导入 Photomator 后，它们会出现在此处。";
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "您之前曾拒绝授予权限，如果希望使用照片浏览器从照片库中打开图像，请在系统首选项中允许访问权限。";

@@ -55,10 +55,10 @@
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d개의 파일이 이미 존재합니다. 대치하시겠습니까?";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folder" = "%d개의 폴더";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folders" = "%d개의 폴더";
 
 /* No comment provided by engineer. */
@@ -188,6 +188,9 @@
 "\"%@\" Effect" = "\"%@\" 효과";
 
 /* No comment provided by engineer. */
+"\(bitmapDataFormat.bitsPerComponent) bits per channel" = "\\(bitmapDataFormat.bitsPerComponent) 비트/채널";
+
+/* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "%@ 폴더에 동일한 이름의 파일이나 폴더가 이미 존재합니다. 대치하면 현재 내용을 덮어씁니다.";
 
 /* No comment provided by engineer. */
@@ -243,6 +246,9 @@
 
 /* No comment provided by engineer. */
 "Add Preset" = "프리셋 추가";
+
+/* No comment provided by engineer. */
+"Add Shadow" = "그림자 추가";
 
 /* No comment provided by engineer. */
 "Add Slice" = "슬라이스 추가";
@@ -367,6 +373,9 @@
 /* No comment provided by engineer. */
 "Apply LUT" = "LUT 적용";
 
+/* No comment provided by engineer. */
+"Apply Watermark" = "워터마크 적용";
+
 /* Refers to an associated file to which data is saved that accompanies a source file. Named after a motorbike sidecar. */
 "Are you sure you want to delete the sidecar file for this image?" = "이 이미지의 사이드카 파일을 삭제하겠습니까?";
 
@@ -459,9 +468,6 @@
 
 /* No comment provided by engineer. */
 "Autodesk SketchBook App Detected" = "Autodesk SketchBook 앱이 발견되었습니다";
-
-/* No comment provided by engineer. */
-"Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Mac에서 원본 이미지 파일에 연결된 사이드카 파일에 비파괴적 편집 내용을 자동으로 보존합니다.";
 
 /* The name of an image file format */
 "AVIF" = "AVF";
@@ -722,6 +728,9 @@
 "Choose an image to use for color matching." = "색상 일치에 사용할 이미지를 선택합니다.";
 
 /* No comment provided by engineer. */
+"Choose Image…" = "이미지 선택…";
+
+/* No comment provided by engineer. */
 "Choose LUT…" = "LUT 선택…";
 
 /* No comment provided by engineer. */
@@ -873,6 +882,9 @@
 
 /* No comment provided by engineer. */
 "CMYK Profiles" = "CMYK 프로필";
+
+/* No comment provided by engineer. */
+"Collaborate in iCloud…" = "iCloud에서 공동 작업…";
 
 /* No comment provided by engineer. */
 "Collection" = "컬렉션";
@@ -1157,6 +1169,9 @@
 "Delete" = "삭제";
 
 /* No comment provided by engineer. */
+"Delete %d Photos" = "%d장의 사진 삭제";
+
+/* No comment provided by engineer. */
 "Delete %i Photos" = "%i장의 사진 삭제";
 
 /* No comment provided by engineer. */
@@ -1191,6 +1206,9 @@
 
 /* No comment provided by engineer. */
 "Delete Photo" = "사진 삭제";
+
+/* No comment provided by engineer. */
+"Delete Preset" = "프리셋 삭제";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "슬라이스 삭제";
@@ -1292,13 +1310,7 @@
 "Discard Changes" = "변경사항 무시";
 
 /* No comment provided by engineer. */
-"Display albums without nesting" = "중첩 없이 앨범 표시";
-
-/* No comment provided by engineer. */
 "Display HDR Content" = "HDR 콘텐츠 표시";
-
-/* No comment provided by engineer. */
-"Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "폴더 안의 앨범을 포함하여 모든 앨범을 알파벳순으로 정렬된 하나의 갤러리에 표시합니다.";
 
 /* No comment provided by engineer. */
 "Distance" = "거리";
@@ -1395,6 +1407,9 @@
 
 /* No comment provided by engineer. */
 "Duplicate" = "복제";
+
+/* No comment provided by engineer. */
+"Duplicate %d Photos" = "%d장의 사진 복제";
 
 /* No comment provided by engineer. */
 "Duplicate %i Photos" = "%i장의 사진 복제";
@@ -1726,6 +1741,9 @@
 /* No comment provided by engineer. */
 "File Size:" = "파일 크기:";
 
+/* Refers to application settings that affect editing files that are saved on the user's device. */
+"Files" = "파일";
+
 /* No comment provided by engineer. */
 "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "%@ 폴더에 동일한 이름의 파일이나 폴더가 이미 존재합니다. 대치하면 현재 내용을 덮어씁니다.";
 
@@ -1799,7 +1817,7 @@
 "Font Change" = "글꼴 변경";
 
 /* No comment provided by engineer. */
-"For images opened from Finder" = "Finder에서 연 이미지 전용";
+"For iCloud sharing to work, you must move the folder to an iCloud location." = "iCloud 공유가 작동하려면 폴더를 iCloud 위치로 이동시켜야 합니다.";
 
 /* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
 "Format:" = "포맷:";
@@ -2066,6 +2084,9 @@
 "Import as New Document" = "새 문서로 가져오기";
 
 /* No comment provided by engineer. */
+"Importing files…" = "파일을 가져오는 중…";
+
+/* No comment provided by engineer. */
 "Importing…" = "가져오는 중…";
 
 /* No comment provided by engineer. */
@@ -2106,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Inserting…" = "삽입 중…";
+
+/* No comment provided by engineer. */
+"Insets" = "여백";
 
 /* No comment provided by engineer. */
 "Inside" = "내부";
@@ -2216,7 +2240,7 @@
 "Levels" = "레벨";
 
 /* No comment provided by engineer. */
-"Library" = "도서관";
+"Library" = "보관함";
 
 /* No comment provided by engineer. */
 "Ligature" = "합자";
@@ -2317,6 +2341,9 @@
 /* No comment provided by engineer. */
 "Loading lens info…" = "렌즈 정보 불러오는 중…";
 
+/* Library refers to a library of files (i.e. a photo library), rather than a library of books. */
+"Loading library…" = "보관함을 불러오는 중…";
+
 /* No comment provided by engineer. */
 "Loading metadata…" = "메타데이터 불러오는 중…";
 
@@ -2331,6 +2358,9 @@
 
 /* No comment provided by engineer. */
 "Lock Guides" = "안내선 잠금";
+
+/* No comment provided by engineer. */
+"Locked" = "잠김";
 
 /* No comment provided by engineer. */
 "Logo" = "로고";
@@ -2471,6 +2501,15 @@
 "Move %@" = "%@ 이동";
 
 /* No comment provided by engineer. */
+"Move %d Photos to Trash" = "%d장의 사진을 휴지통으로 이동";
+
+/* No comment provided by engineer. */
+"Move 1 Photo to Trash" = "1장의 사진을 휴지통으로 이동";
+
+/* No comment provided by engineer. */
+"Move 1 Photo To Trash" = "1장의 사진을 휴지통으로 이동";
+
+/* No comment provided by engineer. */
 "Move Down" = "아래로 이동";
 
 /* No comment provided by engineer. */
@@ -2480,6 +2519,9 @@
 "Move Mask" = "마스크 이동";
 
 /* No comment provided by engineer. */
+"Move Photo to Trash" = "사진을 휴지통으로 이동";
+
+/* No comment provided by engineer. */
 "Move Point" = "포인트 이동";
 
 /* No comment provided by engineer. */
@@ -2487,6 +2529,15 @@
 
 /* No comment provided by engineer. */
 "Move Slices" = "슬라이스 이동";
+
+/* No comment provided by engineer. */
+"Move to iCloud" = "iCloud로 이동";
+
+/* No comment provided by engineer. */
+"Move to iCloud to Collaborate" = "공동 작업을 위해 iCloud로 이동";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "휴지통으로 이동";
 
 /* No comment provided by engineer. */
 "Move Up" = "위로 이동";
@@ -2705,10 +2756,16 @@
 "Normal" = "일반";
 
 /* No comment provided by engineer. */
+"Not an iCloud Locaton" = "iCloud 위치가 아님";
+
+/* No comment provided by engineer. */
 "Off" = "끔";
 
 /* No comment provided by engineer. */
 "Offline LUT" = "오프라인 LUT";
+
+/* No comment provided by engineer. */
+"Offset" = "오프셋";
 
 /* No comment provided by engineer. */
 "OK" = "확인";
@@ -2778,6 +2835,9 @@
 
 /* No comment provided by engineer. */
 "Outside" = "외부";
+
+/* No comment provided by engineer. */
+"Oval" = "타원형";
 
 /* No comment provided by engineer. */
 "Overlay" = "오버레이";
@@ -3191,7 +3251,16 @@
 "Remove %@" = "%@ 제거";
 
 /* No comment provided by engineer. */
+"Remove %d Photos from Album" = "앨범에서 %d장의 사진 제거";
+
+/* No comment provided by engineer. */
+"Remove %d Photos from Library" = "보관함에서 %d장의 사진 제거";
+
+/* No comment provided by engineer. */
 "Remove 1 Photo from Album" = "앨범에서 1장의 사진 제거";
+
+/* No comment provided by engineer. */
+"Remove 1 Photo from Library" = "보관함에서 1장의 사진 제거";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "조정 제거";
@@ -3215,6 +3284,9 @@
 "Remove Document Color" = "문서 색상 제거";
 
 /* No comment provided by engineer. */
+"Remove Folder" = "폴더 제거";
+
+/* No comment provided by engineer. */
 "Remove from Favorites" = "즐겨찾는 사진에서 제거";
 
 /* No comment provided by engineer. */
@@ -3234,6 +3306,12 @@
 
 /* No comment provided by engineer. */
 "Remove Palette" = "팔레트 제거";
+
+/* No comment provided by engineer. */
+"Remove Photo from Album" = "앨범에서 사진 제거";
+
+/* No comment provided by engineer. */
+"Remove Photo from Library" = "보관함에서 사진 제거";
 
 /* No comment provided by engineer. */
 "Remove Profile" = "프로필 제거";
@@ -4016,6 +4094,9 @@
 "Space" = "공간";
 
 /* No comment provided by engineer. */
+"Spacing" = "간격";
+
+/* No comment provided by engineer. */
 "Spacing After" = "뒤 간격";
 
 /* No comment provided by engineer. */
@@ -4507,11 +4588,11 @@
 /* No comment provided by engineer. */
 "Watercolor" = "수채화";
 
+/* No comment provided by engineer. */
+"Watermark" = "워터마크";
+
 /* The name of an image file format. */
 "WebP" = "WebP";
-
-/* No comment provided by engineer. */
-"Welcome to Pixelmator Pro" = "Pixelmator Pro에 환영합니다";
 
 /* No comment provided by engineer. */
 "Wetness" = "습도";
@@ -4587,6 +4668,9 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "이 문서를 열려면 새 버전이 필요합니다.";
+
+/* No comment provided by engineer. */
+"You'll need to move ”%@“ to iCloud before you can collaborate." = "공동 작업을 하려면 먼저 \"%@\" 항목을 iCloud로 이동해야 합니다.";
 
 /* No comment provided by engineer. */
 "You're attempting to open a %@ sidecar document which cannot be edited directly." = "직접 편집할 수 없는 %@ 사이드카 문서를 열려고 합니다.";

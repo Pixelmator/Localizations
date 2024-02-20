@@ -55,10 +55,10 @@
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "Уже имеется %d файлов. Хотите заменить их?";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folder" = "%d папка";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folders" = "Папок: %d";
 
 /* No comment provided by engineer. */
@@ -188,6 +188,9 @@
 "\"%@\" Effect" = "Эффект: %@";
 
 /* No comment provided by engineer. */
+"\(bitmapDataFormat.bitsPerComponent) bits per channel" = "\\(bitmapDataFormat.bitsPerComponent) бит на канал";
+
+/* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Файл или папка с таким же именем уже имеется в папке %@. Замена такого объекта приведет к перезаписи его текущего контента.";
 
 /* No comment provided by engineer. */
@@ -243,6 +246,9 @@
 
 /* No comment provided by engineer. */
 "Add Preset" = "Добавить пресет";
+
+/* No comment provided by engineer. */
+"Add Shadow" = "Добавить тень";
 
 /* No comment provided by engineer. */
 "Add Slice" = "Добавить ломтик";
@@ -329,7 +335,7 @@
 "An error occurred while preparing photos for sharing." = "При подготовке фото к экспорту произошел сбой.";
 
 /* No comment provided by engineer. */
-"An error occurred while saving the sidecar file for this asset." = "Ошибка при сохранении файла sidecar для этого объекта.";
+"An error occurred while saving the sidecar file for this asset." = "Ошибка при сохранении sidecar-файла для этого объекта.";
 
 /* No comment provided by engineer. */
 "An error occurred while saving to the Photos library. Error code: %d" = "Ошибка сохранения в медиатеку Фото. Код ошибки: %d";
@@ -367,26 +373,29 @@
 /* No comment provided by engineer. */
 "Apply LUT" = "Применить LUT";
 
+/* No comment provided by engineer. */
+"Apply Watermark" = "Применить водяной знак";
+
 /* Refers to an associated file to which data is saved that accompanies a source file. Named after a motorbike sidecar. */
-"Are you sure you want to delete the sidecar file for this image?" = "Уверены, что хотите удалить sidecar-файл для этого изображения?";
+"Are you sure you want to delete the sidecar file for this image?" = "Действительно удалить sidecar-файл для этого изображения?";
 
 /* No comment provided by engineer. */
 "Are you sure you want to modify the document in place?" = "Вы действительно хотите изменить этот документ на месте?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to remove the entire collection?" = "Уверены, что хотите удалить всю коллекцию?";
+"Are you sure you want to remove the entire collection?" = "Действительно удалить всю коллекцию?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to remove the entire “%@” collection?" = "Уверены, что хотите удалить всю коллекцию “%@”?";
+"Are you sure you want to remove the entire “%@” collection?" = "Действительно удалить всю коллекцию «%@»?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to remove the “%@” preset?" = "Уверены, что хотите удалить пресет «%@»?";
+"Are you sure you want to remove the “%@” preset?" = "Действительно удалить пресет «%@»?";
 
 /* No comment provided by engineer. */
-"Are you sure you'd like to delete all Pixelmator Pro sidecar files older than 30 days?" = "Уверены, что хотите удалить все sidecar-файлы Pixelmator Pro, более давние чем 30 дней?";
+"Are you sure you'd like to delete all Pixelmator Pro sidecar files older than 30 days?" = "Действительно удалить все sidecar-файлы Pixelmator Pro старше 30 дней?";
 
 /* No comment provided by engineer. */
-"Are you sure you'd like to delete all Pixelmator Pro sidecar files?" = "Уверены, что хотите удалить все sidecar-файлы Pixelmator Pro?";
+"Are you sure you'd like to delete all Pixelmator Pro sidecar files?" = "Действительно удалить все sidecar-файлы Pixelmator Pro?";
 
 /* No comment provided by engineer. */
 "Arrange" = "Расстановка";
@@ -459,9 +468,6 @@
 
 /* No comment provided by engineer. */
 "Autodesk SketchBook App Detected" = "Обнаружена Autodesk SketchBook App";
-
-/* No comment provided by engineer. */
-"Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Автоматически сохраняет неразрушающие изменения в файле sidecar, связанном с исходным файлом изображения на вашем Mac.";
 
 /* The name of an image file format */
 "AVIF" = "AVIF";
@@ -722,6 +728,9 @@
 "Choose an image to use for color matching." = "Выберите изображение для полного соответствия цвета.";
 
 /* No comment provided by engineer. */
+"Choose Image…" = "Выбрать изображение…";
+
+/* No comment provided by engineer. */
 "Choose LUT…" = "Выбрать LUT…";
 
 /* No comment provided by engineer. */
@@ -791,7 +800,7 @@
 "Click to choose a color." = "Нажать для выбора цвета.";
 
 /* No comment provided by engineer. */
-"Click to hide or show the color adjustment presets." = "Нажать, чтобы скрыть/показать пресеты цветокоррекции.";
+"Click to hide or show the color adjustment presets." = "Нажмите, чтобы скрыть или показать пресеты цветокоррекции.";
 
 /* No comment provided by engineer. */
 "Click to hide or show the color picker." = "Нажать, чтобы скрыть или показать пипетку.";
@@ -800,10 +809,10 @@
 "Click to hide or show the color swatches." = "Нажать, чтобы скрыть или показать образцы.";
 
 /* No comment provided by engineer. */
-"Click to hide or show the effect presets." = "Нажать, чтобы скрыть/показать пресеты эффектов.";
+"Click to hide or show the effect presets." = "Нажмите, чтобы скрыть или показать пресеты эффектов.";
 
 /* No comment provided by engineer. */
-"Click to hide or show the style presets." = "Нажать, чтобы скрыть/показать пресеты стилей.";
+"Click to hide or show the style presets." = "Нажмите, чтобы скрыть или показать пресеты стилей.";
 
 /* No comment provided by engineer. */
 "Click to pick a color from your image" = "Нажать для выбора цвета изображения";
@@ -873,6 +882,9 @@
 
 /* No comment provided by engineer. */
 "CMYK Profiles" = "Профили CMYK";
+
+/* No comment provided by engineer. */
+"Collaborate in iCloud…" = "Совместная работа в iCloud…";
 
 /* No comment provided by engineer. */
 "Collection" = "Коллекция";
@@ -1157,6 +1169,9 @@
 "Delete" = "Удалить";
 
 /* No comment provided by engineer. */
+"Delete %d Photos" = "Удалить %d фото";
+
+/* No comment provided by engineer. */
 "Delete %i Photos" = "Удалить %i фото";
 
 /* No comment provided by engineer. */
@@ -1169,10 +1184,10 @@
 "Delete Album and Photos" = "Удалить альбом и фото";
 
 /* No comment provided by engineer. */
-"Delete All Sidecar Files" = "Удалить все sidecar-файлы";
+"Delete All Sidecar Files" = "Удалить все файлы sidecar";
 
 /* No comment provided by engineer. */
-"Delete All Sidecar Files Older Than 30 Days" = "Удалить все sidecar-файлы, более давние чем 30 дней";
+"Delete All Sidecar Files Older Than 30 Days" = "Удалить все файлы sidecar старше 30 дней";
 
 /* No comment provided by engineer. */
 "Delete and Disable Sidecar" = "Удалить и отключить sidecar";
@@ -1191,6 +1206,9 @@
 
 /* No comment provided by engineer. */
 "Delete Photo" = "Удалить фото";
+
+/* No comment provided by engineer. */
+"Delete Preset" = "Удалить набор настроек";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "Удалить ломтик";
@@ -1292,13 +1310,7 @@
 "Discard Changes" = "Отменить изменения";
 
 /* No comment provided by engineer. */
-"Display albums without nesting" = "Показать альбомы без вложенных";
-
-/* No comment provided by engineer. */
 "Display HDR Content" = "Отобразить контент HDR";
-
-/* No comment provided by engineer. */
-"Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "Отображает все альбомы, включая любые альбомы внутри папок, в единой галерее, расположенной по алфавиту.";
 
 /* No comment provided by engineer. */
 "Distance" = "Дистанция";
@@ -1395,6 +1407,9 @@
 
 /* No comment provided by engineer. */
 "Duplicate" = "Дублировать";
+
+/* No comment provided by engineer. */
+"Duplicate %d Photos" = "Дублировать %d фото";
 
 /* No comment provided by engineer. */
 "Duplicate %i Photos" = "Дублировать %i фото";
@@ -1726,6 +1741,9 @@
 /* No comment provided by engineer. */
 "File Size:" = "Размер файла:";
 
+/* Refers to application settings that affect editing files that are saved on the user's device. */
+"Files" = "Файлы";
+
 /* No comment provided by engineer. */
 "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "Файлы или папки с таким именем уже имеются в папке «%@». Замена приведет к перезаписи текущего содержимого этих файлов или папок.";
 
@@ -1766,13 +1784,13 @@
 "Fixed" = "Исправлено";
 
 /* No comment provided by engineer. */
-"Flatten Adjustments" = "Сгладить корректировки";
+"Flatten Adjustments" = "Свести корректировки";
 
 /* No comment provided by engineer. */
-"Flatten Effects" = "Сгладить эффекты";
+"Flatten Effects" = "Свести эффекты";
 
 /* No comment provided by engineer. */
-"Flatten Styles" = "Сгладить стили";
+"Flatten Styles" = "Свести стили";
 
 /* No comment provided by engineer. */
 "Flexible Space" = "Распорка";
@@ -1799,7 +1817,7 @@
 "Font Change" = "Смена шрифта";
 
 /* No comment provided by engineer. */
-"For images opened from Finder" = "Для изображений, открытых из Finder";
+"For iCloud sharing to work, you must move the folder to an iCloud location." = "Для совместного доступа через iCloud переместите папку в iCloud.";
 
 /* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
 "Format:" = "Формат:";
@@ -2066,6 +2084,9 @@
 "Import as New Document" = "Импортировать как новый документ";
 
 /* No comment provided by engineer. */
+"Importing files…" = "Импорт файлов…";
+
+/* No comment provided by engineer. */
 "Importing…" = "Импорт…";
 
 /* No comment provided by engineer. */
@@ -2106,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Inserting…" = "Вставка…";
+
+/* No comment provided by engineer. */
+"Insets" = "Отступ от края";
 
 /* No comment provided by engineer. */
 "Inside" = "Внутри";
@@ -2317,6 +2341,9 @@
 /* No comment provided by engineer. */
 "Loading lens info…" = "Загрузка сведений об объективе…";
 
+/* Library refers to a library of files (i.e. a photo library), rather than a library of books. */
+"Loading library…" = "Загрузка библиотеки…";
+
 /* No comment provided by engineer. */
 "Loading metadata…" = "Загрузка метаданных…";
 
@@ -2331,6 +2358,9 @@
 
 /* No comment provided by engineer. */
 "Lock Guides" = "Блокировать направляющие";
+
+/* No comment provided by engineer. */
+"Locked" = "Блокировано";
 
 /* No comment provided by engineer. */
 "Logo" = "Лого";
@@ -2378,7 +2408,7 @@
 "Make Smooth Point" = "Сделать мягкую точку";
 
 /* No comment provided by engineer. */
-"Manage Sidecar Files" = "Управлять sidecar-файлами";
+"Manage Sidecar Files" = "Управление файлами sidecar";
 
 /* No comment provided by engineer. */
 "Mask" = "Маска";
@@ -2471,6 +2501,15 @@
 "Move %@" = "Ход %@";
 
 /* No comment provided by engineer. */
+"Move %d Photos to Trash" = "Переместить %d фото в Корзину";
+
+/* No comment provided by engineer. */
+"Move 1 Photo to Trash" = "Переместить 1 фото в Корзину";
+
+/* No comment provided by engineer. */
+"Move 1 Photo To Trash" = "Переместить 1 фото в Корзину";
+
+/* No comment provided by engineer. */
 "Move Down" = "Переместить вниз";
 
 /* No comment provided by engineer. */
@@ -2480,6 +2519,9 @@
 "Move Mask" = "Передвинуть маску";
 
 /* No comment provided by engineer. */
+"Move Photo to Trash" = "Переместить фото в Корзину";
+
+/* No comment provided by engineer. */
 "Move Point" = "Передвинуть точку";
 
 /* No comment provided by engineer. */
@@ -2487,6 +2529,15 @@
 
 /* No comment provided by engineer. */
 "Move Slices" = "Переместить ломтики";
+
+/* No comment provided by engineer. */
+"Move to iCloud" = "Переместить в iCloud";
+
+/* No comment provided by engineer. */
+"Move to iCloud to Collaborate" = "Для совместной работы переместите файл в iCloud";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "В Корзину";
 
 /* No comment provided by engineer. */
 "Move Up" = "Переместить вверх";
@@ -2642,7 +2693,7 @@
 "Next…" = "Далее…";
 
 /* Displayed when the information about the camera used to take a photo is not known. */
-"No Camera Info" = "Нет данных камеры";
+"No Camera Info" = "Нет сведений о камере";
 
 /* Displayed when the information about the camera used to take a photo is not known. */
 "No camera information" = "Нет данных по камере";
@@ -2681,10 +2732,10 @@
 "No layers match the filter." = "Слои не подходят фильтру.";
 
 /* Displayed when the model of the camera lens used to take a photo is not known. */
-"No Lens Info" = "Нет данных об объективе";
+"No Lens Info" = "Нет сведений об объективе";
 
 /* Displayed when the information about the camera used to take a photo is not known. */
-"No lens information" = "Нет данных по объективу";
+"No lens information" = "Нет сведений об объективе";
 
 /* No comment provided by engineer. */
 "No Recent Documents" = "Нет недавних документов";
@@ -2705,10 +2756,16 @@
 "Normal" = "Нормальный";
 
 /* No comment provided by engineer. */
+"Not an iCloud Locaton" = "Папка не в iCloud";
+
+/* No comment provided by engineer. */
 "Off" = "Выкл.";
 
 /* No comment provided by engineer. */
 "Offline LUT" = "LUT офлайн";
+
+/* No comment provided by engineer. */
+"Offset" = "Сдвиг";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -2750,7 +2807,7 @@
 "Open System Preferences" = "Открыть Системные настройки";
 
 /* No comment provided by engineer. */
-"Open the Photos browser" = "Открыть фотобраузер";
+"Open the Photos browser" = "Открыть браузер фото";
 
 /* The name of an image file format */
 "OpenEXR" = "OpenEXR";
@@ -2778,6 +2835,9 @@
 
 /* No comment provided by engineer. */
 "Outside" = "Снаружи";
+
+/* No comment provided by engineer. */
+"Oval" = "Овал";
 
 /* No comment provided by engineer. */
 "Overlay" = "Оверлей";
@@ -3191,7 +3251,16 @@
 "Remove %@" = "Удалить %@";
 
 /* No comment provided by engineer. */
+"Remove %d Photos from Album" = "Удалить %d фото из альбома";
+
+/* No comment provided by engineer. */
+"Remove %d Photos from Library" = "Удалить %d фото из библиотеки";
+
+/* No comment provided by engineer. */
 "Remove 1 Photo from Album" = "Удалить 1 фото из альбома";
+
+/* No comment provided by engineer. */
+"Remove 1 Photo from Library" = "Удалить 1 фото из библиотеки";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "Удалить корректировки";
@@ -3215,6 +3284,9 @@
 "Remove Document Color" = "Удалить цвет документа";
 
 /* No comment provided by engineer. */
+"Remove Folder" = "Удалить папку";
+
+/* No comment provided by engineer. */
 "Remove from Favorites" = "Убрать из избранного";
 
 /* No comment provided by engineer. */
@@ -3234,6 +3306,12 @@
 
 /* No comment provided by engineer. */
 "Remove Palette" = "Удалить палитру";
+
+/* No comment provided by engineer. */
+"Remove Photo from Album" = "Удалить фото из альбома";
+
+/* No comment provided by engineer. */
+"Remove Photo from Library" = "Удалить фото из библиотеки";
 
 /* No comment provided by engineer. */
 "Remove Profile" = "Удалить профиль";
@@ -3452,7 +3530,7 @@
 "Reveal or hide the layer masks." = "Показать или скрыть маски слоев.";
 
 /* No comment provided by engineer. */
-"Reveal Sidecar File" = "Показать файл sidecar";
+"Reveal Sidecar File" = "Показать sidecar-файл";
 
 /* No comment provided by engineer. */
 "Reveal Sidecar Folder" = "Показать папку sidecar";
@@ -3548,7 +3626,7 @@
 "Save As…" = "Сохранить как…";
 
 /* No comment provided by engineer. */
-"Save Flattened" = "Сохранить сглаженный";
+"Save Flattened" = "Сохранить сведенный";
 
 /* No comment provided by engineer. */
 "Save Images" = "Сохранить изображения";
@@ -4016,6 +4094,9 @@
 "Space" = "Пробел";
 
 /* No comment provided by engineer. */
+"Spacing" = "Интервалы";
+
+/* No comment provided by engineer. */
 "Spacing After" = "Расстояние после";
 
 /* No comment provided by engineer. */
@@ -4208,10 +4289,10 @@
 "The document “%@” couldn’t be opened." = "Не удается открыть документ «%@».";
 
 /* No comment provided by engineer. */
-"The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "Файлы будут перемещены в Корзину, так что их можно будет достать оттуда до тех пор, пока вы не очистите Корзину.";
+"The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "Файлы будут перемещены в Корзину. Пока Корзина не очищена, при необходимости их можно будет восстановить.";
 
 /* No comment provided by engineer. */
-"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "Изображение, которое вы пытаетесь открыть, имеет sidecar-файл, но оригинальное изображение, похоже, было изменено, и эти два файла не синхронизированы. Что бы вы хотели открыть, sidecar-файл или изображение?";
+"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "Изображение, которое вы пытаетесь открыть, имеет sidecar-файл, но оригинал подвергся изменениям, и эти два файла не синхронизированы. Что вы хотите открыть — sidecar-файл или оригинальное изображение?";
 
 /* No comment provided by engineer. */
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "Формат PNG/JPEG/TIFF не поддерживает несколько уровней и другие дополнительные сведения о форматировании. Чтобы сохранить эту информацию, сохраните изображение как документ Pixelmator Pro.";
@@ -4265,16 +4346,16 @@
 "This document currently has no editable colors." = "Сейчас документ не имеет редактируемых цветов.";
 
 /* No comment provided by engineer. */
-"This document has missing fonts." = "В этом документе пропущены шрифты.";
+"This document has missing fonts." = "Отсутствуют шрифты, используемые в этом документе.";
 
 /* No comment provided by engineer. */
-"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "Это изображение имеет ассоциированный с ним sidecar-файл Pixelmator Pro, но этот файл не удается открыть. Вместо этого будет открыт исходный файл изображения.";
+"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "С этим изображением связан sidecar-файл Pixelmator Pro, но вследствие сбоя он не открывается. Будет открыт оригинал изображения.";
 
 /* No comment provided by engineer. */
 "This image has been modified by another application." = "Это изображение было изменено другой программой.";
 
 /* No comment provided by engineer. */
-"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "Это изображение должно иметь ассоциированный с ним sidecar-файл Pixelmator Pro, но такой файл не обнаружен. Вместо этого будет открыт исходный файл изображения.";
+"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "С этим изображением должен быть связан sidecar-файл Pixelmator Pro, но он не обнаружен. Будет открыт оригинал изображения.";
 
 /* No comment provided by engineer. */
 "This is a full-featured demo version of Pixelmator Pro." = "Это полнофункциональная демо-версия Pixelmator Pro.";
@@ -4507,11 +4588,11 @@
 /* No comment provided by engineer. */
 "Watercolor" = "Акварель";
 
+/* No comment provided by engineer. */
+"Watermark" = "Водяной знак";
+
 /* The name of an image file format. */
 "WebP" = "WebP";
-
-/* No comment provided by engineer. */
-"Welcome to Pixelmator Pro" = "Добро пожаловать в Pixelmator Pro";
 
 /* No comment provided by engineer. */
 "Wetness" = "Влажность";
@@ -4541,13 +4622,13 @@
 "Workspace Settings…" = "Настройки рабочего пространства…";
 
 /* No comment provided by engineer. */
-"Would you like to preserve these edits in your Photos library?" = "Не хотите ли сохранить эти правки в вашей медиатеке Photos?";
+"Would you like to preserve these edits in your Photos library?" = "Сохранить эти правки в медиатеке?";
 
 /* No comment provided by engineer. */
-"Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "Вы хотите сохранить ваши изменения в исходный файл PNG/JPEG/TIFF или документ Pixelmator Pro?";
+"Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "Куда сохранить изменения — в исходный файл PNG/JPEG/TIFF или в документ Pixelmator Pro?";
 
 /* No comment provided by engineer. */
-"Would you like to upgrade this document?" = "Вы хотели бы обновить этот документ?";
+"Would you like to upgrade this document?" = "Обновить этот документ?";
 
 /* No comment provided by engineer. */
 "x: %@ y: %@, z: %@" = "x: %1$@ y: %2$@, z: %3$@";
@@ -4589,6 +4670,9 @@
 "You need a newer version to open this document." = "Вам нужна более новая версия, чтобы открыть этот документ.";
 
 /* No comment provided by engineer. */
+"You'll need to move ”%@“ to iCloud before you can collaborate." = "Для совместной работы «%@» необходимо переместить в iCloud.";
+
+/* No comment provided by engineer. */
 "You're attempting to open a %@ sidecar document which cannot be edited directly." = "Вы пытаетесь открыть sidecar-документ %@, который нельзя редактировать непосредственно.";
 
 /* No comment provided by engineer. */
@@ -4625,7 +4709,7 @@
 "Δx: %@ Δy: %@" = "Δx: %1$@ Δy: %2$@";
 
 /* No comment provided by engineer. */
-"“%@.app” would like to access your FaceTime camera." = "Программа «%@.app» запрашивает доступ к вашей камере FaceTime.";
+"“%@.app” would like to access your FaceTime camera." = "Приложение «%@.app» запрашивает доступ к вашей камере FaceTime.";
 
 /* No comment provided by engineer. */
 "“%@” already exists. Do you want to replace it?" = "«%@» уже имеется. Заменить?";

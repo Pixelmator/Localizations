@@ -1,3 +1,12 @@
+/* The number of photos in a folder and the number of immediate subfolders, spearated by a comma. */
+"%@, %@" = "%1$@, %2$@";
+
+/* No comment provided by engineer. */
+"%d Photo" = "%d фото";
+
+/* No comment provided by engineer. */
+"%d Photos" = "%d фото";
+
 /* No comment provided by engineer. */
 "Add to Favorites" = "Добавить в Избранное";
 
@@ -6,6 +15,9 @@
 
 /* No comment provided by engineer. */
 "Albums" = "Альбомы";
+
+/* No comment provided by engineer. */
+"All Files" = "Все файлы";
 
 /* No comment provided by engineer. */
 "An error occurred while attempting to fetch the sidecar document." = "При загрузке sidecar-документа произошел сбой.";
@@ -17,7 +29,19 @@
 "Cancel" = "Отмена";
 
 /* No comment provided by engineer. */
+"Choose Import from the File menu." = "Выберите пункт меню «Файл» > «Импортировать».";
+
+/* No comment provided by engineer. */
 "Don’t Allow" = "Не разрешать";
+
+/* No comment provided by engineer. */
+"Drag files or folders directly into Photomator." = "Перетащите в Photomator нужные файлы или папки.";
+
+/* No comment provided by engineer. */
+"Drive Disconnected" = "Диск отключен";
+
+/* No comment provided by engineer. */
+"Edited" = "Обработанные";
 
 /* No comment provided by engineer. */
 "Empty Album" = "Пустой альбом";
@@ -32,16 +56,25 @@
 "Files" = "Файлы";
 
 /* No comment provided by engineer. */
+"Folders" = "Папки";
+
+/* No comment provided by engineer. */
 "Hide Hidden Photo Album" = "Скрыть скрытый альбом Фото";
+
+/* No comment provided by engineer. */
+"Imported" = "Импортированные";
 
 /* No comment provided by engineer. */
 "Import…" = "Импортировать…";
 
 /* No comment provided by engineer. */
-"It looks like your photo library is in the Trash. To use the photo browser, you can either restore your library from the Trash or open the Photos app and choose a new library." = "Похоже, ваша медиатека фотографий находится в корзине. Чтобы использовать фотобраузер, вы можете либо вынуть медиатеку из корзины, либо открыть приложение Фото и выбрать новую медиатеку.";
+"It looks like your photo library is in the Trash. To use the photo browser, you can either restore your library from the Trash or open the Photos app and choose a new library." = "Похоже, ваша медиатека фотографий находится в Корзине. Для работы с браузером фото восстановите медиатеку из Корзины или откройте приложение «Фото» и выберите новую медиатеку.";
 
 /* No comment provided by engineer. */
 "Learn More…" = "Подробнее…";
+
+/* No comment provided by engineer. */
+"Library" = "Медиатека";
 
 /* No comment provided by engineer. */
 "Newer App Version Required" = "Требуется более новая версия приложения";
@@ -53,7 +86,7 @@
 "No Items" = "Нет объектов";
 
 /* No comment provided by engineer. */
-"No Photo Library Found" = "Медиатека Фото не найдена";
+"No Photo Library Found" = "Медиатека не найдена";
 
 /* No comment provided by engineer. */
 "No Results" = "Нет результатов";
@@ -83,7 +116,7 @@
 "Remove from Favorites." = "Убрать из избранного.";
 
 /* No comment provided by engineer. */
-"Results for:" = "Результаты для:";
+"Results for:" = "Результаты поиска:";
 
 /* No comment provided by engineer. */
 "Search" = "Поиск";
@@ -113,22 +146,37 @@
 "This album may be empty or locked. To view this album, turn off \"Use Touch ID or Password to Unlock\" in Photos settings, then quit and reopen %@." = "Возможно, это пустой или подзамочный альбом. Для доступа к нему отключите опцию «Разблокировать с помощью Touch ID или пароля», закройте %@ и откройте заново.";
 
 /* No comment provided by engineer. */
+"This drive appears to have been disconnected." = "Похоже, этот диск отключен.";
+
+/* No comment provided by engineer. */
 "This folder does not contain any albums." = "Папка пуста.";
+
+/* No comment provided by engineer. */
+"This folder does not contain any images." = "Папка пуста.";
+
+/* No comment provided by engineer. */
+"To get started with Photomator, do any of the following:" = "Чтобы начать работу:";
 
 /* No comment provided by engineer. */
 "Unable to Open Photo" = "Не удается открыть фото";
 
 /* No comment provided by engineer. */
-"Unable to Open Photo Library" = "Не удается открыть медиатеку Фото";
+"Unable to Open Photo Library" = "Не удается открыть медиатеку";
 
 /* No comment provided by engineer. */
 "Video Duration" = "Длительность видео";
 
 /* No comment provided by engineer. */
-"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "Вам ранее было отказано в доступе, так что, если хотите использовать фотобраузер для открытия изображений из вашей Медиатеки, откройте доступ в Системных настройках.";
+"Welcome to Photomator" = "Добро пожаловать в Photomator";
+
+/* No comment provided by engineer. */
+"When you import files one by one into Photomator, they'll appear here." = "Файлы, импортированные в Photomator по одному, будут показаны здесь.";
+
+/* No comment provided by engineer. */
+"You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "Ранее вы закрыли доступ, поэтому если вы хотите использовать браузер фото для доступа к изображениям в медиатеке, разрешите доступ в Системных настройках.";
 
 /* No comment provided by engineer. */
 "Your photo library could not be found. To fix this, try opening the Photos app and selecting or creating a new library." = "Ваша медиатека не найдена. Чтобы найти ее, попробуйте открыть приложение Фото и выбрать или создать новую медиатеку.";
 
 /* No comment provided by engineer. */
-"“%@.app” would like to access your photos." = "Программа «%1$@» запрашивает доступ к вашим фото.";
+"“%@.app” would like to access your photos." = "Приложение «%1$@» запрашивает доступ к вашим фото.";

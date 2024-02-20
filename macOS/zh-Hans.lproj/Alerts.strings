@@ -20,6 +20,12 @@
 "An error occurred while running the batch editing workflow. Error code: %d." = "应用一套编辑流程时发生了错误。错误代码：%d。";
 
 /* No comment provided by engineer. */
+"Are you sure you want to move %d items to the Trash?" = "是否确定要将 %d 个项目移动至废纸篓？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to move “%@” to the Trash?" = "是否确定要将“%@”移动至废纸篓？";
+
+/* No comment provided by engineer. */
 "Are you sure you'd like to delete all Photomator sidecar files older than 30 days?" = "确定要删除超过 30 天的所有 Photomator sidecar 文件吗?";
 
 /* No comment provided by engineer. */
@@ -27,6 +33,12 @@
 
 /* No comment provided by engineer. */
 "Are you sure you'd like to discard your edits?" = "您确定要废弃您的编辑吗？";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to remove %d photos from your library?" = "是否确定要将 %d 张照片从照片库移除？";
+
+/* No comment provided by engineer. */
+"Are you sure you'd like to remove “%@” from your library?" = "是否确定要将“%@”从照片库移除？";
 
 /* No comment provided by engineer. */
 "Batch editing failed because no photos were provided." = "一系列编辑失败，因为没有提供图片。";
@@ -113,6 +125,9 @@
 "If you think you should have an active subscription, get in touch with us and we’ll help out." = "如果您认为自己拥有有效的订阅，请与我们联系，我们会提供协助。";
 
 /* No comment provided by engineer. */
+"Import Successful" = "导入成功";
+
+/* No comment provided by engineer. */
 "iPad and iPhone License Found" = "找到了iPad和iPhone的许可证书";
 
 /* No comment provided by engineer. */
@@ -132,6 +147,9 @@
 
 /* No comment provided by engineer. */
 "It's been a few moments since the notification access request appeared and it looks like you haven't granted access." = "已经请求允许通知，但是您似乎没有给予权限。";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "移动至废纸篓";
 
 /* No comment provided by engineer. */
 "No Subscription Found" = "未找到订阅";
@@ -158,9 +176,6 @@
 "Photo Edited by Another App" = "照片被另一个应用编辑过。";
 
 /* No comment provided by engineer. */
-"Photo Imported Successfully" = "成功导入图片";
-
-/* No comment provided by engineer. */
 "Pixelmator Pro needs to be updated." = "需更新Pixelmator Pro。";
 
 /* No comment provided by engineer. */
@@ -177,6 +192,12 @@
 
 /* No comment provided by engineer. */
 "Redeem Offer" = "兑换优惠券";
+
+/* No comment provided by engineer. */
+"Remove Photo" = "移除照片";
+
+/* No comment provided by engineer. */
+"Remove Photos" = "移除照片";
 
 /* No comment provided by engineer. */
 "Repair tool" = "修复工具";
@@ -233,25 +254,43 @@
 "Super Resolution" = "Super Resolution";
 
 /* No comment provided by engineer. */
-"The Photos asset contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "该照片asset包含图层或其他非破坏性内容，但是当前无法被Photomator所支持，所以该部分内容将被融合。\n\n请问您想要编辑并覆盖原始图像还是创建副本？";
+"The file contains layers or other nondestructive content, which is currently not supported by Photomator, so this content will be merged.\n\nWould you like to edit and overwrite the original image or create a copy?" = "该文件包含图层或其他非破坏性内容，但是当前 Photomator 无法支持，所以该部分内容将被合并。\n\n您想编辑并覆盖原始图像还是创建副本？";
+
+/* No comment provided by engineer. */
+"The item could not be renamed due to an error: %@." = "无法重命名该项目，因为出现了以下错误：%@。";
+
+/* No comment provided by engineer. */
+"The name “%@” is already taken. Please choose a different name." = "“%@”已被占用。请选择不同的名称。";
 
 /* No comment provided by engineer. */
 "The RAW content from this document appears to be missing. If the photo is edited, it may help to revert it." = "该文稿中的RAW内容似乎消失了。如果该图片是被编辑过的，则可能会被恢复。";
 
 /* No comment provided by engineer. */
-"The selected image does not contain any adjustments." = "所选图像并未包含任何调整。";
+"The selected image does not contain any adjustments applied to the base layer." = "所选图像不包含应用于基础图层的任何调整内容。";
 
 /* No comment provided by engineer. */
 "The version of Pixelmator Pro installed on this Mac does not support receiving edits from Photomator and needs to be updated in the App Store." = "该Mac端的Pixelmator Pro版本不支持Photomator的编辑，需要在App Store更新版本。";
 
 /* No comment provided by engineer. */
-"This photo has been edited by another app. Would you like to discard your edits and open the latest version in the Photos library?" = "该图片被另一个应用编辑过。请问要放弃您的编辑并在照片库中打开最新的版本吗？";
+"These items and any sidecar files will be moved to the Trash." = "这些项目和所有连接文件都将被移动至废纸篓。";
+
+/* No comment provided by engineer. */
+"This photo and the photo's sidecar file (if one exists) will be moved to the Trash." = "该照片和照片的连接文件（如有）将被移动至废纸篓。";
+
+/* No comment provided by engineer. */
+"This photo has been edited by another app. Would you like to discard your edits and open the latest version?" = "该照片被另一个 App 编辑过。您想要放弃您的编辑内容并打开最新版本吗？";
 
 /* No comment provided by engineer. */
 "This RAW format isn't yet supported. If you'd like to see some troubleshooting steps with possible workarounds, click Learn More below." = "暂不支持RAW格式。如果您想找出问题的可能原因，请点击下方的了解更多。";
 
 /* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the System Settings app, then try again." = "要购买 Photomator，您需要连接到互联网。您可以在“系统设置”应用中查看详情，然后再试一次。";
+
+/* No comment provided by engineer. */
+"To put these items back in your library, you'll need to reimport them." = "如需将这些项目放回至照片库中，您需要将其重新导入。";
+
+/* No comment provided by engineer. */
+"To put this item back in your library, you'll need to reimport it." = "如需将该项目放回至照片库中，您需要将其重新导入。";
 
 /* No comment provided by engineer. */
 "To receive a notification before the end of your free trial, allow access in the top right of your screen or in Notifications settings." = "想要在免费试用结束前接收通知，您需要点击通知设置页面右上方的“允许通知”。";
@@ -284,10 +323,10 @@
 "Unsupported RAW Format" = "不支持RAW格式";
 
 /* No comment provided by engineer. */
-"Would you like to save your changes?" = "请问想要保存您的改变吗？";
+"Would you like to open the new assets?" = "您要打开这些新素材吗？";
 
 /* No comment provided by engineer. */
-"Would you like to start editing the imported photo?" = "请问您想要开始编辑导入的图片吗？";
+"Would you like to save your changes?" = "请问想要保存您的改变吗？";
 
 /* No comment provided by engineer. */
 "You’re Offline" = "您已离线";

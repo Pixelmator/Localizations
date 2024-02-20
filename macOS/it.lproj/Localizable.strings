@@ -55,10 +55,10 @@
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d file sono già esistenti. Vuoi sostituirli?";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folder" = "%d cartella";
 
-/* No comment provided by engineer. */
+/* PhotoKit */
 "%d Folders" = "%d cartelle";
 
 /* No comment provided by engineer. */
@@ -188,6 +188,9 @@
 "\"%@\" Effect" = "Effetto \"%@\"";
 
 /* No comment provided by engineer. */
+"\(bitmapDataFormat.bitsPerComponent) bits per channel" = "\\(bitmapDataFormat.bitsPerComponent) bit per canale";
+
+/* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Un file o una cartella con lo stesso nome esistono già nella cartella %@. La sostituzione sovrascriverà gli attuali contenuti.";
 
 /* No comment provided by engineer. */
@@ -243,6 +246,9 @@
 
 /* No comment provided by engineer. */
 "Add Preset" = "Aggiungi Preset";
+
+/* No comment provided by engineer. */
+"Add Shadow" = "Aggiungi ombra";
 
 /* No comment provided by engineer. */
 "Add Slice" = "Aggiungi sezione";
@@ -367,6 +373,9 @@
 /* No comment provided by engineer. */
 "Apply LUT" = "Applica LUT";
 
+/* No comment provided by engineer. */
+"Apply Watermark" = "Applica filigrana";
+
 /* Refers to an associated file to which data is saved that accompanies a source file. Named after a motorbike sidecar. */
 "Are you sure you want to delete the sidecar file for this image?" = "Vuoi davvero eliminare il file collaterale di questa immagine?";
 
@@ -459,9 +468,6 @@
 
 /* No comment provided by engineer. */
 "Autodesk SketchBook App Detected" = "Rilevata app Autodesk SketchBook";
-
-/* No comment provided by engineer. */
-"Automatically preserves nondestructive edits in a sidecar file linked to the original image file on your Mac." = "Conserva automaticamente le modifiche non distruttive in un file collaterale collegato al file originario dell’immagine sul Mac.";
 
 /* The name of an image file format */
 "AVIF" = "AVIF";
@@ -722,6 +728,9 @@
 "Choose an image to use for color matching." = "Scegli un'immagine da utilizzare per la corrispondenza dei colori.";
 
 /* No comment provided by engineer. */
+"Choose Image…" = "Scegli immagine…";
+
+/* No comment provided by engineer. */
 "Choose LUT…" = "Scegli LUT…";
 
 /* No comment provided by engineer. */
@@ -873,6 +882,9 @@
 
 /* No comment provided by engineer. */
 "CMYK Profiles" = "Profili CMYK";
+
+/* No comment provided by engineer. */
+"Collaborate in iCloud…" = "Collabora su iCloud…";
 
 /* No comment provided by engineer. */
 "Collection" = "Collezione";
@@ -1157,6 +1169,9 @@
 "Delete" = "Elimina";
 
 /* No comment provided by engineer. */
+"Delete %d Photos" = "Elimina %d foto";
+
+/* No comment provided by engineer. */
 "Delete %i Photos" = "Elimina %i foto";
 
 /* No comment provided by engineer. */
@@ -1191,6 +1206,9 @@
 
 /* No comment provided by engineer. */
 "Delete Photo" = "Elimina foto";
+
+/* No comment provided by engineer. */
+"Delete Preset" = "Elimina preset";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "Elimina sezione";
@@ -1292,13 +1310,7 @@
 "Discard Changes" = "Annulla modifiche";
 
 /* No comment provided by engineer. */
-"Display albums without nesting" = "Mostra gli album senza nidificarli";
-
-/* No comment provided by engineer. */
 "Display HDR Content" = "Visualizza contenuti HDR";
-
-/* No comment provided by engineer. */
-"Displays all albums, including any albums inside folders, inside a single alphabetically-arranged gallery." = "Mostra in una sola cartella tutti gli album, compresi quelli di altre cartelle, disponendoli in ordine alfabetico.";
 
 /* No comment provided by engineer. */
 "Distance" = "Distanza";
@@ -1395,6 +1407,9 @@
 
 /* No comment provided by engineer. */
 "Duplicate" = "Duplica";
+
+/* No comment provided by engineer. */
+"Duplicate %d Photos" = "Duplica %d foto";
 
 /* No comment provided by engineer. */
 "Duplicate %i Photos" = "Duplica %i foto";
@@ -1726,6 +1741,9 @@
 /* No comment provided by engineer. */
 "File Size:" = "Dimensione file:";
 
+/* Refers to application settings that affect editing files that are saved on the user's device. */
+"Files" = "File";
+
 /* No comment provided by engineer. */
 "Files or folders with the same name already exist in the folder %@. Replacing them will overwrite their current contents." = "Nella cartella %@ esistono già file o cartelle con lo stesso nome. La sostituzione sovrascriverà gli attuali contenuti.";
 
@@ -1799,7 +1817,7 @@
 "Font Change" = "Cambia font";
 
 /* No comment provided by engineer. */
-"For images opened from Finder" = "Per immagini aperte dal Finder";
+"For iCloud sharing to work, you must move the folder to an iCloud location." = "La condivisione su iCloud funziona solo se la cartella viene spostata in una posizione iCloud.";
 
 /* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
 "Format:" = "Formato:";
@@ -2066,6 +2084,9 @@
 "Import as New Document" = "Importa come nuovo documento";
 
 /* No comment provided by engineer. */
+"Importing files…" = "Importo i file…";
+
+/* No comment provided by engineer. */
 "Importing…" = "Importo…";
 
 /* No comment provided by engineer. */
@@ -2106,6 +2127,9 @@
 
 /* No comment provided by engineer. */
 "Inserting…" = "Inserimento…";
+
+/* No comment provided by engineer. */
+"Insets" = "Margini";
 
 /* No comment provided by engineer. */
 "Inside" = "Interno";
@@ -2317,6 +2341,9 @@
 /* No comment provided by engineer. */
 "Loading lens info…" = "Carico informazioni obiettivo…";
 
+/* Library refers to a library of files (i.e. a photo library), rather than a library of books. */
+"Loading library…" = "Carico libreria…";
+
 /* No comment provided by engineer. */
 "Loading metadata…" = "Carico metadati…";
 
@@ -2331,6 +2358,9 @@
 
 /* No comment provided by engineer. */
 "Lock Guides" = "Blocca guide";
+
+/* No comment provided by engineer. */
+"Locked" = "Bloccato";
 
 /* No comment provided by engineer. */
 "Logo" = "Logo";
@@ -2471,6 +2501,15 @@
 "Move %@" = "Sposta %@";
 
 /* No comment provided by engineer. */
+"Move %d Photos to Trash" = "Sposta %d foto nel Cestino";
+
+/* No comment provided by engineer. */
+"Move 1 Photo to Trash" = "Sposta 1 foto nel Cestino";
+
+/* No comment provided by engineer. */
+"Move 1 Photo To Trash" = "Sposta 1 foto nel Cestino";
+
+/* No comment provided by engineer. */
 "Move Down" = "Sposta in basso";
 
 /* No comment provided by engineer. */
@@ -2480,6 +2519,9 @@
 "Move Mask" = "Sposta maschera";
 
 /* No comment provided by engineer. */
+"Move Photo to Trash" = "Sposta foto nel Cestino";
+
+/* No comment provided by engineer. */
 "Move Point" = "Sposta punto";
 
 /* No comment provided by engineer. */
@@ -2487,6 +2529,15 @@
 
 /* No comment provided by engineer. */
 "Move Slices" = "Sposta sezioni";
+
+/* No comment provided by engineer. */
+"Move to iCloud" = "Sposta su iCloud";
+
+/* No comment provided by engineer. */
+"Move to iCloud to Collaborate" = "Sposta su iCloud per collaborare";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "Sposta nel Cestino";
 
 /* No comment provided by engineer. */
 "Move Up" = "Sposta in alto";
@@ -2705,10 +2756,16 @@
 "Normal" = "Normale";
 
 /* No comment provided by engineer. */
+"Not an iCloud Locaton" = "Non è una posizione iCloud";
+
+/* No comment provided by engineer. */
 "Off" = "Spento";
 
 /* No comment provided by engineer. */
 "Offline LUT" = "LUT offline";
+
+/* No comment provided by engineer. */
+"Offset" = "Offset";
 
 /* No comment provided by engineer. */
 "OK" = "OK";
@@ -2778,6 +2835,9 @@
 
 /* No comment provided by engineer. */
 "Outside" = "Esterno";
+
+/* No comment provided by engineer. */
+"Oval" = "Ovale";
 
 /* No comment provided by engineer. */
 "Overlay" = "Copertura";
@@ -3191,7 +3251,16 @@
 "Remove %@" = "Rimuovi %@";
 
 /* No comment provided by engineer. */
+"Remove %d Photos from Album" = "Rimuovi %d foto dall'album";
+
+/* No comment provided by engineer. */
+"Remove %d Photos from Library" = "Rimuovi %d foto dalla libreria";
+
+/* No comment provided by engineer. */
 "Remove 1 Photo from Album" = "Rimuovi 1 foto dall'album";
+
+/* No comment provided by engineer. */
+"Remove 1 Photo from Library" = "Rimuovi 1 foto dalla libreria";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "Rimuovi regolazione";
@@ -3215,6 +3284,9 @@
 "Remove Document Color" = "Rimuovi il colore del documento";
 
 /* No comment provided by engineer. */
+"Remove Folder" = "Rimuovi la cartella";
+
+/* No comment provided by engineer. */
 "Remove from Favorites" = "Rimuovi dai Preferiti";
 
 /* No comment provided by engineer. */
@@ -3234,6 +3306,12 @@
 
 /* No comment provided by engineer. */
 "Remove Palette" = "Rimuovi tavolozza";
+
+/* No comment provided by engineer. */
+"Remove Photo from Album" = "Rimuovi foto dall'album";
+
+/* No comment provided by engineer. */
+"Remove Photo from Library" = "Rimuovi foto dalla libreria";
 
 /* No comment provided by engineer. */
 "Remove Profile" = "Rimuovi profilo";
@@ -4016,6 +4094,9 @@
 "Space" = "Spazio";
 
 /* No comment provided by engineer. */
+"Spacing" = "Spaziatura";
+
+/* No comment provided by engineer. */
 "Spacing After" = "Spaziatura dopo";
 
 /* No comment provided by engineer. */
@@ -4507,11 +4588,11 @@
 /* No comment provided by engineer. */
 "Watercolor" = "Acquerello";
 
+/* No comment provided by engineer. */
+"Watermark" = "Filigrana";
+
 /* The name of an image file format. */
 "WebP" = "WebP";
-
-/* No comment provided by engineer. */
-"Welcome to Pixelmator Pro" = "Pixelmator Pro ti dà il benvenuto";
 
 /* No comment provided by engineer. */
 "Wetness" = "Umidità";
@@ -4587,6 +4668,9 @@
 
 /* No comment provided by engineer. */
 "You need a newer version to open this document." = "Per aprire questo documento occorre una versione più recente.";
+
+/* No comment provided by engineer. */
+"You'll need to move ”%@“ to iCloud before you can collaborate." = "È necessario spostare ”%@“ su iCloud prima di poter collaborare.";
 
 /* No comment provided by engineer. */
 "You're attempting to open a %@ sidecar document which cannot be edited directly." = "Stai tentando di aprire un documento collaterale di %@ che non è direttamente modificabile.";

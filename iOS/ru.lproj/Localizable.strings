@@ -98,7 +98,7 @@
 "8 Bits/Channel" = "8 бит/канал";
 
 /* No comment provided by engineer. */
-"\"%@\" Preset" = "Набор \"%@\"";
+"\"%@\" Preset" = "Пресет «%@»";
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Файл или папка с таким же именем уже имеется в папке %@. Замена такого объекта приведет к перезаписи его текущего контента.";
@@ -185,7 +185,7 @@
 "Adjustment" = "Корректировка";
 
 /* No comment provided by engineer. */
-"Adjustment presets" = "Наборы корректировок";
+"Adjustment presets" = "Пресеты корректировок";
 
 /* No comment provided by engineer. */
 "Adjustments" = "Изменения";
@@ -233,10 +233,10 @@
 "All edits will be saved nondestructively, so you can fine-tune them later." = "Все правки будут сохранены неразрушающим образом, так что вы сможете внести дополнительную корректировку позже.";
 
 /* No comment provided by engineer. */
-"All presets in group will be reset to the initial color adjustments." = "Все наборы в группе будут сброшены на исходные корректировки цвета.";
+"All presets in group will be reset to the initial color adjustments." = "Все пресеты в группе будут сброшены к исходным значениям цветокоррекции.";
 
 /* No comment provided by engineer. */
-"All the color adjustment presets in this collection will be reset to default. This action cannot be undone." = "Наборы цветокоррекции этой коллекции будут сброшены на значения по умолчанию. Результаты этого действия отменить нельзя.";
+"All the color adjustment presets in this collection will be reset to default. This action cannot be undone." = "Пресеты цветокоррекции в этой коллекции будут сброшены на значения по умолчанию. Это действие нельзя отменить.";
 
 /* No comment provided by engineer. */
 "All the workflows in this group will be reset to their default settings." = "Все процессы этой группы будут сброшены к их значениям по умолчанию.";
@@ -257,7 +257,7 @@
 "An Error Occurred" = "Произошла ошибка";
 
 /* No comment provided by engineer. */
-"An error occurred while saving the sidecar file for this asset." = "Ошибка при сохранении файла sidecar для этого объекта.";
+"An error occurred while saving the sidecar file for this asset." = "Ошибка при сохранении sidecar-файла для этого объекта.";
 
 /* No comment provided by engineer. */
 "An error occurred while saving to the Photos library. Error code: %d" = "Ошибка сохранения в медиатеку Фото. Код ошибки: %d";
@@ -291,6 +291,9 @@
 
 /* No comment provided by engineer. */
 "Apply Watermark" = "Применить водяной знак";
+
+/* No comment provided by engineer. */
+"Apply Watermarks" = "Применить водяные знаки";
 
 /* No comment provided by engineer. */
 "Applying %@" = "Применяется «%@»";
@@ -534,6 +537,9 @@
 "Changes Tracked in Sidecar" = "Изменения, прослеженные в sidecar";
 
 /* No comment provided by engineer. */
+"Changes will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "Изменения будут сохраняться непосредственно в исходный файл.\n\nПримечание: эта опция не применима к файлам в формате RAW — для них изменения будут сохраняться как отдельные файлы.";
+
+/* No comment provided by engineer. */
 "Channel" = "Канал";
 
 /* No comment provided by engineer. */
@@ -743,6 +749,9 @@
 "Create Image" = "Создать изображение";
 
 /* No comment provided by engineer. */
+"Create PHOTO File With Edits" = "Создать файл PHOTO с правками";
+
+/* No comment provided by engineer. */
 "Create Workflow" = "Создать процесс";
 
 /* No comment provided by engineer. */
@@ -868,7 +877,7 @@
 "Delete Path" = "Удалить путь";
 
 /* Edit Menu */
-"Delete Preset" = "Удалить набор настроек";
+"Delete Preset" = "Удалить пресет";
 
 /* No comment provided by engineer. */
 "Delete Slice" = "Удалить ломтик";
@@ -1115,9 +1124,6 @@
 "Duplicating…" = "Дублирование…";
 
 /* No comment provided by engineer. */
-"Easily protect your photos with the all-new watermarking feature, letting you apply text or image watermarks when exporting your photos." = "Easily protect your photos with the all-new watermarking feature, letting you apply text or image watermarks when exporting your photos.";
-
-/* No comment provided by engineer. */
 "Edit" = "Правка";
 
 /* No comment provided by engineer. */
@@ -1160,6 +1166,9 @@
 "Edit specific areas of photos" = "Обработка определенных областей фото";
 
 /* No comment provided by engineer. */
+"Edit with Filmstrip" = "Обработка с диафильмом";
+
+/* No comment provided by engineer. */
 "Editing" = "Правка";
 
 /* No comment provided by engineer. */
@@ -1174,6 +1183,9 @@
 
 /* No comment provided by engineer. */
 "Editing…" = "Правка…";
+
+/* No comment provided by engineer. */
+"Edits will be nondestructively preserved in a linked Photomator file. If you delete linked files, your edits will be saved directly to the original file.\n\nNote: This setting does not apply to RAW photos, and their edits will be saved as a separate file." = "Изменения будут сохраняться в связанный файл Photomator без модификации оригинала. При удалении связанного файла изменения будут сохраняться непосредственно в исходный файл. \n\nПримечание: эта опция не применима к файлам в формате RAW — для них изменения будут сохраняться как отдельные файлы.";
 
 /* No comment provided by engineer. */
 "EDR" = "EDR";
@@ -1257,7 +1269,7 @@
 "Enter a new name for this layer." = "Задайте новое имя этого слоя.";
 
 /* No comment provided by engineer. */
-"Enter a new name for this preset." = "Задайте новое имя этого набора.";
+"Enter a new name for this preset." = "Задайте новое имя для этого пресета.";
 
 /* No comment provided by engineer. */
 "Enter Fullscreen" = "Перейти в полноэкранный режим";
@@ -1386,6 +1398,9 @@
 "Feature Unavailable" = "Функция недоступна";
 
 /* No comment provided by engineer. */
+"File Unavailable" = "Файл недоступен";
+
+/* No comment provided by engineer. */
 "Files" = "Файлы";
 
 /* No comment provided by engineer. */
@@ -1410,6 +1425,9 @@
 "Filmstrip" = "Диафильм";
 
 /* No comment provided by engineer. */
+"Filmstrip Unavailable" = "Диафильм недоступен";
+
+/* No comment provided by engineer. */
 "Finish Drawing" = "Закончить рисунок";
 
 /* No comment provided by engineer. */
@@ -1428,7 +1446,7 @@
 "Fixed" = "Исправлено";
 
 /* No comment provided by engineer. */
-"Flatten Layer" = "Сгладить слой";
+"Flatten Layer" = "Свести слой";
 
 /* Tool */
 "Flip" = "Переворот";
@@ -1467,10 +1485,10 @@
 "Frequency Separation" = "Частотное разложение";
 
 /* No comment provided by engineer. */
-"From now on, linked files will be saved to iCloud. Would you like to also move all existing linked files to iCloud?" = "С этого момента связанные файлы будут сохраняться в iCloud. Не хотите ли вы также переместить все имеющиеся связанные файлы в iCloud?";
+"From now on, linked files will be saved to iCloud. Would you like to also move all existing linked files to iCloud?" = "С этого момента связанные файлы будут сохраняться в iCloud. Переместить в iCloud также все уже существующие связанные файлы?";
 
 /* No comment provided by engineer. */
-"From now on, linked files will be saved to your device. Would you like to also move all existing linked files to your device storage?" = "С этого момента связанные файлы будут сохраняться на вашем устройстве. Не хотите ли вы также переместить все имеющиеся связанные файлы в память вашего устройства?";
+"From now on, linked files will be saved to your device. Would you like to also move all existing linked files to your device storage?" = "С этого момента связанные файлы будут сохраняться на вашем устройстве. Переместить на устройство также все уже существующие связанные файлы?";
 
 /* No comment provided by engineer. */
 "Fullscreen" = "Полный экран";
@@ -1488,13 +1506,13 @@
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Получите краткий обзор инструментов, которые можно использовать для ретуши, улучшения или полной трансформации фото.";
 
 /* No comment provided by engineer. */
-"Get unlimited access" = "Получить неограниченный доступ";
+"Get unlimited access" = "Неограниченный доступ";
 
 /* No comment provided by engineer. */
 "Get Unlimited Access" = "Неограниченный доступ";
 
 /* No comment provided by engineer. */
-"Get unlimited access." = "Получить неограниченный доступ.";
+"Get unlimited access." = "Неограниченный доступ.";
 
 /* No comment provided by engineer. */
 "Getting Started" = "Начало работы";
@@ -1504,6 +1522,15 @@
 
 /* The name of an image file format. */
 "GIF" = "GIF";
+
+/* No comment provided by engineer. */
+"Give Access" = "Предоставить доступ";
+
+/* No comment provided by engineer. */
+"Give Access to Filmstrip" = "Предоставьте диафильму доступ";
+
+/* No comment provided by engineer. */
+"Give access to the image’s root folder by selecting it and tapping Open." = "Предоставьте доступ к корневой папке изображения, выбрав ее и коснувшись «Открыть».";
 
 /* No comment provided by engineer. */
 "Glazed" = "Глянцевый";
@@ -1648,7 +1675,7 @@
 "iCloud Photos" = "Фотографии iCloud";
 
 /* No comment provided by engineer. */
-"iCloud Unavailable" = "iCloud недоступно";
+"iCloud Unavailable" = "iCloud недоступен";
 
 /* No comment provided by engineer. */
 "If you think you should have an active subscription, get in touch with us and we’ll help out." = "Если вы думаете, что у вас должна быть активная подписка, свяжитесь с нами и мы поможем.";
@@ -1670,6 +1697,9 @@
 
 /* No comment provided by engineer. */
 "Image Layer" = "Слой изображения";
+
+/* No comment provided by engineer. */
+"Image Not Found" = "Изображение не найдено";
 
 /* No comment provided by engineer. */
 "IMAGE QUALITY" = "КАЧЕСТВО ИЗОБРАЖЕНИЯ";
@@ -1713,6 +1743,9 @@
 
 /* No comment provided by engineer. */
 "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default." = "В парах RAW+JPEG и RAW+HEIC по умолчанию будет открыто фото RAW.";
+
+/* No comment provided by engineer. */
+"In the Files browser, effortlessly browse photos using the new filmstrip." = "Удобный просмотр фото в файловом браузере с использованием новой опции «Диафильм».";
 
 /* Units */
 "Inches" = "Дюймы";
@@ -1793,7 +1826,7 @@
 "It doesn’t look like you have an active subscription to Photomator. This could have happened if:\n\n1. You’re signed in to the App Store with a different Apple ID.\n2. Your subscription expired.\n\n You can check this is in the App Store, then try again." = "Похоже, у вас нет активной подписки на Photomator. Это могло произойти по следующим причинам:\n\n1. Вы вошли в App Store с другим Apple ID.\n2. Срок действия подписки истек.\n\n Проверьте в App Store, так ли это, а затем повторите попытку.";
 
 /* Image save error */
-"It is not possible to save your image to this location. Would you like to save it somewhere else?" = "Невозможно сохранить ваше изображение в это место. Не хотите ли указать другое место?";
+"It is not possible to save your image to this location. Would you like to save it somewhere else?" = "Невозможно сохранить изображение сюда. Сохранить в другую папку?";
 
 /* No comment provided by engineer. */
 "It looks like “%@” was moved or renamed while it was open. Please quit and relaunch the application." = "Похоже, \"%@\" был перемещен или переименован, пока был открыт. Завершите и перезапустите приложение.";
@@ -1838,7 +1871,7 @@
 "Layer Selection" = "Выборка слоев";
 
 /* No comment provided by engineer. */
-"Layer was flattened" = "Слой был сглажен";
+"Layer was flattened" = "Слой был сведен";
 
 /* No comment provided by engineer. */
 "Layers" = "Слои";
@@ -2091,6 +2124,12 @@
 "Modification Date" = "Дата изменения";
 
 /* No comment provided by engineer. */
+"Modify Original" = "Изменить оригинал";
+
+/* No comment provided by engineer. */
+"Modify Originals" = "Править оригиналы";
+
+/* No comment provided by engineer. */
 "Modifying the document in place might cause you to lose some of the current formatting. Would you like to duplicate the document first?" = "Изменение этого документа на месте может привести к потере части его исходного форматирования. Хотите сначала создать дубликат этого документа?";
 
 /* No comment provided by engineer. */
@@ -2137,6 +2176,9 @@
 
 /* No comment provided by engineer. */
 "Move Slices" = "Переместить ломтики";
+
+/* No comment provided by engineer. */
+"Move to Trash" = "В Корзину";
 
 /* No comment provided by engineer. */
 "Move Up" = "Переместить вверх";
@@ -2199,31 +2241,37 @@
 "Next Image" = "Следующее изображение";
 
 /* No comment provided by engineer. */
-"Next Preset" = "Следующий набор настроек";
+"Next Preset" = "Следующий пресет";
 
 /* No comment provided by engineer. */
 "No Background Detected" = "Фон не обнаружен";
 
 /* Displayed when the information about the camera used to take a photo is not known. */
-"No Camera Info" = "Нет данных камеры";
+"No Camera Info" = "Нет сведений о камере";
 
 /* Document info */
-"No camera information" = "Нет данных по камере";
+"No camera information" = "Нет сведений о камере";
 
 /* No comment provided by engineer. */
 "No commitment, cancel anytime." = "Без обязательств, отмена в любой момент.";
 
 /* No comment provided by engineer. */
+"No Folder Access" = "Нет доступа к папке";
+
+/* No comment provided by engineer. */
 "No Horizon Detected" = "Горизонт не обнаружен";
+
+/* No comment provided by engineer. */
+"No Images Found" = "Изображений не найдено";
 
 /* No comment provided by engineer. */
 "No Layer Selected" = "Слоёв не выбрано";
 
 /* Displayed when the model of the camera lens used to take a photo is not known. */
-"No Lens Info" = "Нет данных об объективе";
+"No Lens Info" = "Нет сведений об объективе";
 
 /* Document info */
-"No lens information" = "Нет данных по объективу";
+"No lens information" = "Нет сведений об объективе";
 
 /* No comment provided by engineer. */
 "No Photos Access" = "Нет доступа к Фото";
@@ -2325,6 +2373,12 @@
 "ORIGINAL PERSPECTIVE" = "ИСХОДНАЯ ПЕРСПЕКТИВА";
 
 /* No comment provided by engineer. */
+"Original photos will not be modified and separate PHOTO files will be created for editing." = "Оригиналы фото останутся неизменными — правки будут внесены в отдельные файлы PHOTO, созданные для этой цели.";
+
+/* No comment provided by engineer. */
+"Original photos will not be modified and the edits will be stored in a separate file next to the original photos." = "Оригиналы фото останутся неизменными — правки будут внесены в отдельные специальные файлы.";
+
+/* No comment provided by engineer. */
 "Original Size" = "Исходный размер";
 
 /* Effects category name */
@@ -2337,13 +2391,13 @@
 "Outline" = "Контур";
 
 /* No comment provided by engineer. */
+"Oval" = "Овал";
+
+/* No comment provided by engineer. */
 "Overlay" = "Оверлей";
 
 /* No comment provided by engineer. */
 "Overwrite" = "Перезаписать";
-
-/* No comment provided by engineer. */
-"Overwrite Originals" = "Переписать оригиналы";
 
 /* Tool */
 "Paint" = "Закраска";
@@ -2472,7 +2526,7 @@
 "Pixelmator Classic Document" = "Документ Pixelmator Classic";
 
 /* No comment provided by engineer. */
-"Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "В Pixelmator Photo появились недеструктивные правки в iCloud, чтобы синхронизировать их между устройствами. Не хотите ли начать использование iCloud для связанных файлов и переместить все ваши файлы туда?";
+"Pixelmator Photo can now save nondestructive edits in iCloud to sync them between devices. Would you like to start using iCloud for linked files and move all your existing files there?" = "Теперь Pixelmator Photo может сохранять информацию о неразрушающих изменениях в iCloud, чтобы синхронизировать правки между устройствами. Хотите использовать iCloud для связанных файлов и переместить туда уже существующие файлы?";
 
 /* No comment provided by engineer. */
 "Pixelmator Photo Help" = "Справка Pixelmator Photo";
@@ -2493,7 +2547,7 @@
 "Pixelmator Pro Document" = "Документ Pixelmator Pro";
 
 /* The name of a file format containing nondestructive edits created by the Pixelmator Pro app. */
-"Pixelmator Pro Sidecar Document" = "Документ Pixelmator Pro Sidecar";
+"Pixelmator Pro Sidecar Document" = "Sidecar-документ Pixelmator Pro";
 
 /* Units */
 "Pixels" = "Пиксели";
@@ -2526,13 +2580,22 @@
 "Preserve Edits" = "Сохранить правки";
 
 /* No comment provided by engineer. */
+"Preserve Edits and Modify Original" = "Сохранять правки и править оригинал";
+
+/* No comment provided by engineer. */
+"Preserve Edits and Original" = "Сохранять правки и оригинал";
+
+/* No comment provided by engineer. */
+"Preserve nondestructive edits in a separate sidecar file." = "Сохранять неразрушающие правки в отдельном sidecar-файле.";
+
+/* No comment provided by engineer. */
 "Preserve transparency" = "Сохранить прозрачность";
 
 /* No comment provided by engineer. */
-"Presets" = "Наборы";
+"Presets" = "Пресеты";
 
 /* No comment provided by engineer. */
-"Presets Imported" = "Набор импортирован";
+"Presets Imported" = "Пресеты импортированы";
 
 /* No comment provided by engineer. */
 "Preview" = "Превью";
@@ -2544,7 +2607,7 @@
 "Previous Image" = "Предыдущее изображение";
 
 /* No comment provided by engineer. */
-"Previous Preset" = "Предыдущий набор настроек";
+"Previous Preset" = "Предыдущий пресет";
 
 /* No comment provided by engineer. */
 "Previous Purchase Found" = "Обнаружена прежняя покупка";
@@ -2601,7 +2664,7 @@
 "Quick Selection" = "Быстрый выбор";
 
 /* No comment provided by engineer. */
-"Quickly change the look and feel of photo using color adjustment presets." = "Быстро меняйте вид и стиль фотографий, используя наборы цветокоррекции.";
+"Quickly change the look and feel of photo using color adjustment presets." = "Быстро меняйте вид и стиль фотографий, используя пресеты цветокоррекции.";
 
 /* The name of a video file format. */
 "QuickTime" = "QuickTime";
@@ -2830,6 +2893,12 @@
 
 /* No comment provided by engineer. */
 "Replace Text" = "Заменить текст";
+
+/* No comment provided by engineer. */
+"Report Issue" = "Сообщить о проблеме";
+
+/* No comment provided by engineer. */
+"Report…" = "Отчет…";
 
 /* No comment provided by engineer. */
 "Reprocess RAW" = "Репроцесс RAW";
@@ -3223,7 +3292,7 @@
 "Share" = "Поделиться";
 
 /* Edit Menu */
-"Share Preset" = "Поделиться наборами настроек";
+"Share Preset" = "Поделиться пресетом";
 
 /* No comment provided by engineer. */
 "Shared Albums" = "Общие альбомы";
@@ -3491,6 +3560,9 @@
 "Status Bar" = "Строка состояния";
 
 /* No comment provided by engineer. */
+"Storage Improvements" = "Улучшенное использование памяти";
+
+/* No comment provided by engineer. */
 "Store Edits in iCloud" = "Хранить правки в iCloud";
 
 /* Tool */
@@ -3621,13 +3693,16 @@
 "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "Корректировки учёта текстуры нельзя воссоздать с помощью LUT, так что экспортированные LUT будут выглядеть иначе.";
 
 /* No comment provided by engineer. */
+"Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file." = "Sidecar-файлы в Photomator теперь занимают намного меньше места, а при обработке изображений в режиме «Файлы» приложение сохраняет правки в отдельном файле, не внося изменений в оригинал.";
+
+/* No comment provided by engineer. */
 "That covers the basics – you’re ready to start editing your photos!" = "Это охватывает основы — вы готовы приступить к редактированию своих фото!";
 
 /* No comment provided by engineer. */
 "The color adjustment presets were imported successfully, ignoring the duplicates." = "Импорт пресетов цветокоррекции выполнен; дубли проигнорированы.";
 
 /* No comment provided by engineer. */
-"The color adjustment presets were imported successfully." = "Наборы корректировок цвета были успешно импортированы.";
+"The color adjustment presets were imported successfully." = "Пресеты цветокоррекции успешно импортированы.";
 
 /* No comment provided by engineer. */
 "The document couldn’t be opened." = "Не удается открыть документ.";
@@ -3645,7 +3720,10 @@
 "The document “%@” couldn’t be opened." = "Не удается открыть документ «%@».";
 
 /* No comment provided by engineer. */
-"The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "Файловый браузер дает возможность просматривать документы, сохраненные на вашем устройстве. Чтобы переключиться на браузер Фото, коснитесь %@ и в меню «Браузер» выберите «Фото».";
+"The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "Файловый браузер дает возможность просматривать документы, сохраненные на вашем устройстве. Чтобы переключиться на браузер фото, коснитесь значка %@ и в меню «Браузер» выберите «Фото».";
+
+/* No comment provided by engineer. */
+"The folder of the image could not be found." = "Не удалось найти папку с этим изображением.";
 
 /* No comment provided by engineer. */
 "The image contains %@ layers. To create more, reduce the image size." = "Изображение содержит несколько слоев (%@). Чтобы создать еще, уменьшите размер изображения.";
@@ -3669,7 +3747,7 @@
 "The image could not be shared to Photomator." = "Не удалось передать изображение в Photomator.";
 
 /* No comment provided by engineer. */
-"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "Изображение, которое вы пытаетесь открыть, имеет sidecar-файл, но оригинальное изображение, похоже, было изменено, и эти два файла не синхронизированы. Что бы вы хотели открыть, sidecar-файл или изображение?";
+"The image you're trying to open has a sidecar file but the original image seems to have been edited and the two files aren't in sync. Would you like to open the sidecar file or the image?" = "Изображение, которое вы пытаетесь открыть, имеет sidecar-файл, но оригинал подвергся изменениям, и эти два файла не синхронизированы. Открыть sidecar-файл или изображение?";
 
 /* No comment provided by engineer. */
 "The JPEG/PNG/TIFF format doesn’t support multiple layers and other additional formatting information. To preserve that information, save the image as a Pixelmator Pro document instead." = "Формат PNG/JPEG/TIFF не поддерживает несколько уровней и другие дополнительные сведения о форматировании. Чтобы сохранить эту информацию, сохраните изображение как документ Pixelmator Pro.";
@@ -3696,13 +3774,19 @@
 "The preset library will be reset to default, removing any presets or collections you have created. This action cannot be undone." = "Библиотека наборов будет сброшена на состояние по умолчанию, с удалением всех наборов и созданных вами коллекций. Результаты этого действия отменить нельзя.";
 
 /* No comment provided by engineer. */
-"The preset will be permanently deleted from the app." = "Набор будет окончательно удален из приложения.";
+"The preset will be permanently deleted from the app." = "Пресет будет безвозвратно удален из приложения.";
 
 /* No comment provided by engineer. */
 "The preset will be redefined with the current color adjustments." = "Набор будет пересмотрен с текущими корректировками цвета.";
 
 /* No comment provided by engineer. */
-"The preset will be reset to the initial color adjustments." = "Набор будет сброшен на исходные корректировки цвета.";
+"The preset will be reset to the initial color adjustments." = "Пресет будет сброшен к исходным значениям цветокоррекции.";
+
+/* No comment provided by engineer. */
+"The selected folder does not contain any images." = "Выбранная папка не содержит изображений.";
+
+/* No comment provided by engineer. */
+"The selected folder does not contain this image. Make sure to select the image’s root folder." = "В выбранной папке нет этого изображения. Убедитесь, что вы выбрали корневую папку изображения.";
 
 /* No comment provided by engineer. */
 "The selected image does not contain color adjustments." = "Выбранное изображение не содержит корректировок цвета.";
@@ -3723,7 +3807,7 @@
 "The “%@” document is damaged, or isn’t compatible." = "Документ «%@» поврежден или несовместим.";
 
 /* Image save error */
-"There is not enough available storage to save your image to this location. Would you like to save it somewhere else?" = "Недостаточно памяти, чтобы сохранить ваше изображение в этом месте. Не хотите ли сохранить в другом месте?";
+"There is not enough available storage to save your image to this location. Would you like to save it somewhere else?" = "Недостаточно памяти, чтобы сохранить изображение сюда. Сохранить в другую папку?";
 
 /* No comment provided by engineer. */
 "This album is empty. Add some photos to it in the Photos app and they’ll appear here automatically." = "Этот альбом пуст. Добавить несколько фотографий в приложении Фото, и они автоматически появятся здесь.";
@@ -3738,13 +3822,16 @@
 "This device has limited support for HDR content." = "Это устройство имеет ограниченную поддержку контента HDR.";
 
 /* No comment provided by engineer. */
+"This file only stores edits. Open the original photo to view and edit it." = "В этом файле сохраняются только изменения. Для просмотра и обработки фото откройте его оригинал.";
+
+/* No comment provided by engineer. */
 "This folder is empty. Add some albums or folders to it and they’ll appear here automatically." = "Эта папка пуста. Добавьте в нее пару альбомов или подпапок, и они автоматически появятся здесь.";
 
 /* Image open error */
 "This format isn’t currently supported." = "Этот формат не поддерживается в данный момент.";
 
 /* No comment provided by engineer. */
-"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "Это изображение имеет ассоциированный с ним sidecar-файл Pixelmator Pro, но этот файл не удается открыть. Вместо этого будет открыт исходный файл изображения.";
+"This image has a Pixelmator Pro sidecar file associated with it but that file could not be opened. The original image file will be opened instead." = "С этим изображением связан sidecar-файл Pixelmator Pro, но вследствие сбоя он не открывается. Будет открыт оригинал изображения.";
 
 /* No comment provided by engineer. */
 "This image has been modified by another application." = "Это изображение было изменено другой программой.";
@@ -3759,7 +3846,7 @@
 "This image is too large to be opened on this device." = "Изображение слишком велико для открытия на этом устройстве.";
 
 /* No comment provided by engineer. */
-"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "Это изображение должно иметь ассоциированный с ним sidecar-файл Pixelmator Pro, но такой файл не обнаружен. Вместо этого будет открыт исходный файл изображения.";
+"This image should have a Pixelmator Pro sidecar file associated with it but that file could not be found. The original image file will be opened instead." = "С этим изображением должен быть связан sidecar-файл Pixelmator Pro, но он не обнаружен. Будет открыт оригинал изображения.";
 
 /* No comment provided by engineer. */
 "This photo is too large." = "Это изображение слишком большое.";
@@ -3774,7 +3861,7 @@
 "This photo was not imported from your Photos library so there is no original to modify." = "Это фото не было импортировано из медиатеки Фото, поэтому нет оригинала для правки.";
 
 /* No comment provided by engineer. */
-"This preset collection will be permanently removed. This action cannot be undone." = "Эта коллекция наборов будет окончательно удалена. Результаты этого действия отменить нельзя.";
+"This preset collection will be permanently removed. This action cannot be undone." = "Эта коллекция пресетов будет безвозвратно удалена. Это действие нельзя отменить.";
 
 /* No comment provided by engineer. */
 "This preset will be reset to its default settings." = "Этот набор будет сброшен к значениям по умолчанию.";
@@ -3823,6 +3910,12 @@
 
 /* No comment provided by engineer. */
 "To purchase Photomator, you need to be connected to the internet. You can check this in the Settings app, then try again." = "Для покупки Photomator необходим доступ к сети. В приложении «Настройки» проверьте, подключены ли вы к интернету, а затем повторите попытку.";
+
+/* No comment provided by engineer. */
+"To reveal filmstrip, give access to the image’s root folder by selecting the folder and tapping Open." = "Для показа диафильма предоставьте доступ к корневой папке изображения, выбрав ее и коснувшись «Открыть».";
+
+/* No comment provided by engineer. */
+"To reveal filmstrip, touch and hold a folder, then choose Edit with Filmstrip." = "Для показа диафильма коснитесь папки и удерживайте, а затем выберите «Обработка с диафильмом».";
 
 /* No comment provided by engineer. */
 "To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Чтобы использовать эту функцию, вам необходимо купить приложение Photomator или подписаться на него. При отображении экрана покупки произошла ошибка. Если она не исчезнет, свяжитесь с нами, и мы поможем вам. (Код ошибки: %i)";
@@ -3880,6 +3973,9 @@
 
 /* Unsaved */
 "U" = "U";
+
+/* No comment provided by engineer. */
+"Unable to Access" = "Нет доступа";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "Не удается получить доступ к справке";
@@ -4062,6 +4158,9 @@
 "Visible" = "Показано";
 
 /* No comment provided by engineer. */
+"Visit Support Portal" = "Посетить справочный портал";
+
+/* No comment provided by engineer. */
 "Vivid Light" = "Яркий свет";
 
 /* Stands for Width, up to 3 characters */
@@ -4079,17 +4178,14 @@
 /* No comment provided by engineer. */
 "Watermark" = "Водяной знак";
 
-/* No comment provided by engineer. */
-"Watermarks" = "Watermarks";
-
 /* The name of an image file format. */
 "WebP" = "WebP";
 
 /* No comment provided by engineer. */
-"Welcome to Photomator" = "Добро пожаловать в Photomator!";
+"Welcome to Photomator" = "Добро пожаловать в Photomator";
 
 /* No comment provided by engineer. */
-"Welcome to Pixelmator Photo" = "Добро пожаловать в Pixelmator Photo!";
+"Welcome to Pixelmator Photo" = "Добро пожаловать в Pixelmator Photo";
 
 /* No comment provided by engineer. */
 "Wetness" = "Влажность";
@@ -4105,6 +4201,9 @@
 
 /* No comment provided by engineer. */
 "When enabled, only areas you paint over with Apple Pencil will be repaired. Your fingers will be used for scrolling and zooming instead." = "После активации можно будет исправить только области, закрашенные вами с помощью Apple Pencil. Ваши же пальцы будут использоваться для прокрутки и зума вместо этого.";
+
+/* No comment provided by engineer. */
+"When exporting, apply text or image watermarks to protect your photos." = "Наложить при экспорте графический или текстовый водяной знак.";
 
 /* No comment provided by engineer. */
 "White" = "Белый";
@@ -4140,7 +4239,7 @@
 "Workflows" = "Процессы";
 
 /* No comment provided by engineer. */
-"Would you like to be notified before your free trial is about to end?" = "Хотите получить уведомление до истечения вашей бесплатной пробы?";
+"Would you like to be notified before your free trial is about to end?" = "Оповестить вас перед тем, как закончится бесплатный пробный период?";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "Вы хотите сохранить ваши изменения в исходный файл PNG/JPEG/TIFF или документ Pixelmator Pro?";

@@ -1,3 +1,12 @@
+/* The number of photos in a folder and the number of immediate subfolders, spearated by a comma. */
+"%@, %@" = "%1$@, %2$@";
+
+/* No comment provided by engineer. */
+"%d Photo" = "%d장의 사진";
+
+/* No comment provided by engineer. */
+"%d Photos" = "%d장의 사진";
+
 /* No comment provided by engineer. */
 "Add to Favorites" = "즐겨찾는 사진에 추가";
 
@@ -6,6 +15,9 @@
 
 /* No comment provided by engineer. */
 "Albums" = "앨범";
+
+/* No comment provided by engineer. */
+"All Files" = "모든 파일";
 
 /* No comment provided by engineer. */
 "An error occurred while attempting to fetch the sidecar document." = "Sidecar 문서를 가져오는 동안 오류가 발생했습니다.";
@@ -17,7 +29,19 @@
 "Cancel" = "취소";
 
 /* No comment provided by engineer. */
+"Choose Import from the File menu." = "파일 메뉴에서 가져오기를 선택하세요.";
+
+/* No comment provided by engineer. */
 "Don’t Allow" = "허용 안 함";
+
+/* No comment provided by engineer. */
+"Drag files or folders directly into Photomator." = "파일 또는 폴더를 끌어 Photomator에 놓으세요.";
+
+/* No comment provided by engineer. */
+"Drive Disconnected" = "드라이브 연결 해제됨";
+
+/* No comment provided by engineer. */
+"Edited" = "편집된 항목";
 
 /* No comment provided by engineer. */
 "Empty Album" = "비어 있는 앨범";
@@ -32,7 +56,13 @@
 "Files" = "파일";
 
 /* No comment provided by engineer. */
+"Folders" = "폴더";
+
+/* No comment provided by engineer. */
 "Hide Hidden Photo Album" = "숨겨진 사진 앨범 숨기기";
+
+/* No comment provided by engineer. */
+"Imported" = "가져온 항목";
 
 /* No comment provided by engineer. */
 "Import…" = "가져오기…";
@@ -42,6 +72,9 @@
 
 /* No comment provided by engineer. */
 "Learn More…" = "더 알아보기…";
+
+/* No comment provided by engineer. */
+"Library" = "보관함";
 
 /* No comment provided by engineer. */
 "Newer App Version Required" = "최신 앱 버전 필요";
@@ -113,7 +146,16 @@
 "This album may be empty or locked. To view this album, turn off \"Use Touch ID or Password to Unlock\" in Photos settings, then quit and reopen %@." = "이 앨범은 비어 있거나 잠겨 있습니다. 이 앨범을 보려면 사진 설정에서 \"Touch ID 또는 암호를 사용하여 잠금 해제\"를 끈 후 %@ 종료 후 다시 실행하세요.";
 
 /* No comment provided by engineer. */
+"This drive appears to have been disconnected." = "드라이브와 연결이 끊어진 것 같습니다.";
+
+/* No comment provided by engineer. */
 "This folder does not contain any albums." = "이 폴더에는 앨범이 포함되어 있지 않습니다.";
+
+/* No comment provided by engineer. */
+"This folder does not contain any images." = "이 폴더는 아무 이미지가 포함되어 있지 않습니다.";
+
+/* No comment provided by engineer. */
+"To get started with Photomator, do any of the following:" = "다음 중 하나를 수행하여 Photomator를 시작하세요:";
 
 /* No comment provided by engineer. */
 "Unable to Open Photo" = "사진을 열 수 없음";
@@ -123,6 +165,12 @@
 
 /* No comment provided by engineer. */
 "Video Duration" = "비디오 재생 시간";
+
+/* No comment provided by engineer. */
+"Welcome to Photomator" = "Photomator에 오신 것을 환영합니다";
+
+/* No comment provided by engineer. */
+"When you import files one by one into Photomator, they'll appear here." = "Photomator로 파일을 하나씩 가져오면 여기에 표시됩니다.";
 
 /* No comment provided by engineer. */
 "You have previously denied access so, if you’d like to use the Photo Browser to open images from your Photos library, please allow access in System Preferences." = "전에 접근 권한을 거부하셨습니다. 사진 브라우저를 사용해서 사진 보관함에서 이미지를 열려면 시스템 환경 설정에서 접근 권한을 허용하세요.";

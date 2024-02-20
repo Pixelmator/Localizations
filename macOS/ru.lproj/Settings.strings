@@ -2,7 +2,7 @@
 "Appearance:" = "Оформление:";
 
 /* No comment provided by engineer. */
-"Automatically preserves nondestructive edits in a sidecar file linked to the original photo in your library." = "Автоматически сохраняет неразрушающие изменения в файле sidecar, связанном с исходной фотографией в вашей медиатеке.";
+"Automatically preserves nondestructive edits in a sidecar file linked to the original photo in your library." = "Автоматически сохраняет изменения в файле sidecar, связанном с исходным фото в вашей медиатеке.";
 
 /* No comment provided by engineer. */
 "Calculating…" = "Вычисление…";
@@ -12,6 +12,9 @@
 
 /* No comment provided by engineer. */
 "Creates a Photomator album in your Photos library and automatically adds each photo edited with the app to the album." = "Создает альбом Photomator в вашей медиатеке и автоматически добавляет все фото, отредактированные в приложении, в этот альбом.";
+
+/* Refers to application settings that affect editing files that are saved on the user's device. */
+"Files:" = "Файлы:";
 
 /* No comment provided by engineer. */
 "HDR:" = "HDR:";
@@ -26,10 +29,13 @@
 "Load HDR content" = "Загружать контент HDR";
 
 /* No comment provided by engineer. */
-"Makes the Hidden album from your Photos library visible in Photomator." = "Делает скрытый альбом из вашей медиатеки видимым в Photomator.";
+"Makes the Hidden album from your Photos library visible in Photomator." = "Отображает в Photomator альбом «Скрытые» из вашей медиатеки.";
 
 /* No comment provided by engineer. */
-"Manage Files…" = "Управлять файлами…";
+"Manage Files…" = "Управление…";
+
+/* No comment provided by engineer. */
+"Modify originals" = "Править оригиналы";
 
 /* No comment provided by engineer. */
 "Open JPEG by Default" = "По умолчанию открывать JPEG";
@@ -47,25 +53,22 @@
 "RAW + JPEG:" = "RAW + JPEG:";
 
 /* No comment provided by engineer. */
-"Save Sidecar Files In:" = "Сохранить sidecar-файлы в:";
+"Save Sidecar Files In:" = "Сохранять sidecar в:";
 
 /* No comment provided by engineer. */
-"Set the image quality to use when automatically saving changes or sharing images to other apps." = "Задать качество изображения, чтобы использовать при автоматическом сохранении изменений или общем с другими приложениями доступе к изображениям.";
+"Set the image quality to use when automatically saving changes or sharing images to other apps." = "Качество, используемое при автосохранении изменений или передаче изображения в другие приложения.";
 
 /* No comment provided by engineer. */
 "Show Hidden album" = "Показать скрытый альбом";
 
 /* No comment provided by engineer. */
-"Sidecar Disk Usage:" = "Использование диска sidecar:";
+"Sidecar Disk Usage:" = "Занято файлами sidecar:";
 
 /* No comment provided by engineer. */
-"Sidecar Files:" = "Sidecar-файлы:";
-
-/* No comment provided by engineer. */
-"Swipe down to dismiss photo in edit mode" = "В режиме правки смахнуть вниз, чтобы закрыть фото";
-
-/* No comment provided by engineer. */
-"Swipe to Dismiss:" = "Закрыть смахиванием:";
+"Sidecar Files:" = "Файлы sidecar:";
 
 /* Refers to the color of the application window background. */
 "Window Background:" = "Фон окна:";
+
+/* No comment provided by engineer. */
+"With this setting turned on, changes will also be saved directly to the original files on your Mac.\n\nNote: Some formats (such as RAW) are read-only — this setting only applies to writable file formats." = "Если эта опция включена, вносимые изменения будут сохраняться непосредственно в исходных файлах на вашем Mac.\n\nПримечание: некоторые форматы (например, RAW) доступны только для чтения. В этих случаях данная опция не применяется.";
