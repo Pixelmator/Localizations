@@ -188,7 +188,7 @@
 "\"%@\" Effect" = "\"%@\" Effekt";
 
 /* No comment provided by engineer. */
-"\(bitmapDataFormat.bitsPerComponent) bits per channel" = "\\(bitmapDataFormat.bitsPerComponent) bits per channel";
+"\(bitmapDataFormat.bitsPerComponent) bits per channel" = "\\(bitmapDataFormat.bitsPerComponent) Bits pro Kanal";
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Es existiert bereits eine Datei oder ein Ordner mit demselben Namen im Ordner %@. Beim Ersetzen wird der Inhalt überschrieben.";
@@ -884,7 +884,7 @@
 "CMYK Profiles" = "CMYK-Profile";
 
 /* No comment provided by engineer. */
-"Collaborate in iCloud…" = "Collaborate in iCloud…";
+"Collaborate in iCloud…" = "In iCloud zusammenarbeiten …";
 
 /* No comment provided by engineer. */
 "Collection" = "Sammlung";
@@ -1817,7 +1817,7 @@
 "Font Change" = "Schriftart ändern";
 
 /* No comment provided by engineer. */
-"For iCloud sharing to work, you must move the folder to an iCloud location." = "For iCloud sharing to work, you must move the folder to an iCloud location.";
+"For iCloud sharing to work, you must move the folder to an iCloud location." = "Damit Teilen in iCloud funktioniert, müssen Sie den Ordner in den iCloud-Speicher bewegen.";
 
 /* A label for a menu that lets you choose a file format (JPEG, PNG, TIFF, etc.) */
 "Format:" = "Format:";
@@ -2084,7 +2084,7 @@
 "Import as New Document" = "Als neues Dokument importieren";
 
 /* No comment provided by engineer. */
-"Importing files…" = "Importing files…";
+"Importing files…" = "Dateien importieren …";
 
 /* No comment provided by engineer. */
 "Importing…" = "Importieren …";
@@ -2342,7 +2342,7 @@
 "Loading lens info…" = "Objektiv-Info laden …";
 
 /* Library refers to a library of files (i.e. a photo library), rather than a library of books. */
-"Loading library…" = "Loading library…";
+"Loading library…" = "Mediathek laden …";
 
 /* No comment provided by engineer. */
 "Loading metadata…" = "Metadaten laden …";
@@ -2360,7 +2360,7 @@
 "Lock Guides" = "Hilfslinien feststellen";
 
 /* No comment provided by engineer. */
-"Locked" = "Locked";
+"Locked" = "Gesperrt";
 
 /* No comment provided by engineer. */
 "Logo" = "Logo";
@@ -2501,13 +2501,13 @@
 "Move %@" = "%@ verschieben";
 
 /* No comment provided by engineer. */
-"Move %d Photos to Trash" = "Move %d Photos to Trash";
+"Move %d Photos to Trash" = "%d Fotos in den Papierkorb bewegen";
 
 /* No comment provided by engineer. */
-"Move 1 Photo to Trash" = "Move 1 Photo to Trash";
+"Move 1 Photo to Trash" = "1 Foto in den Papierkorb bewegen";
 
 /* No comment provided by engineer. */
-"Move 1 Photo To Trash" = "Move 1 Photo To Trash";
+"Move 1 Photo To Trash" = "1 Foto in den Papierkorb bewegen";
 
 /* No comment provided by engineer. */
 "Move Down" = "Nach unten bewegen";
@@ -2519,7 +2519,7 @@
 "Move Mask" = "Maske bewegen";
 
 /* No comment provided by engineer. */
-"Move Photo to Trash" = "Move Photo to Trash";
+"Move Photo to Trash" = "Foto in den Papierkorb bewegen";
 
 /* No comment provided by engineer. */
 "Move Point" = "Punkt bewegen";
@@ -2531,13 +2531,13 @@
 "Move Slices" = "Slices bewegen";
 
 /* No comment provided by engineer. */
-"Move to iCloud" = "Move to iCloud";
+"Move to iCloud" = "In iCloud bewegen";
 
 /* No comment provided by engineer. */
-"Move to iCloud to Collaborate" = "Move to iCloud to Collaborate";
+"Move to iCloud to Collaborate" = "Zum Zusammenarbeiten in iCloud bewegen";
 
 /* No comment provided by engineer. */
-"Move to Trash" = "Move to Trash";
+"Move to Trash" = "In den Papierkorb bewegen";
 
 /* No comment provided by engineer. */
 "Move Up" = "Nach oben bewegen";
@@ -2756,7 +2756,7 @@
 "Normal" = "Normal";
 
 /* No comment provided by engineer. */
-"Not an iCloud Locaton" = "Not an iCloud Locaton";
+"Not an iCloud Locaton" = "Kein iCloud-Speicherort";
 
 /* No comment provided by engineer. */
 "Off" = "Aus";
@@ -3254,13 +3254,13 @@
 "Remove %d Photos from Album" = "%d Fotos aus Album entfernen";
 
 /* No comment provided by engineer. */
-"Remove %d Photos from Library" = "Remove %d Photos from Library";
+"Remove %d Photos from Library" = "%d Fotos aus Mediathek entfernen";
 
 /* No comment provided by engineer. */
 "Remove 1 Photo from Album" = "1 Foto aus Album entfernen";
 
 /* No comment provided by engineer. */
-"Remove 1 Photo from Library" = "Remove 1 Photo from Library";
+"Remove 1 Photo from Library" = "1 Foto aus Mediathek entfernen";
 
 /* No comment provided by engineer. */
 "Remove Adjustment" = "Anpassung entfernen";
@@ -3284,7 +3284,7 @@
 "Remove Document Color" = "Dokumentfarbe entfernen";
 
 /* No comment provided by engineer. */
-"Remove Folder" = "Remove Folder";
+"Remove Folder" = "Ordner entfernen";
 
 /* No comment provided by engineer. */
 "Remove from Favorites" = "Aus Favoriten entfernen";
@@ -3308,10 +3308,10 @@
 "Remove Palette" = "Palette entfernen";
 
 /* No comment provided by engineer. */
-"Remove Photo from Album" = "Remove Photo from Album";
+"Remove Photo from Album" = "Foto aus Album entfernen";
 
 /* No comment provided by engineer. */
-"Remove Photo from Library" = "Remove Photo from Library";
+"Remove Photo from Library" = "Foto aus Mediathek entfernen";
 
 /* No comment provided by engineer. */
 "Remove Profile" = "Profil entfernen";
@@ -4670,7 +4670,7 @@
 "You need a newer version to open this document." = "Sie benötigen eine neuere Version, um dieses Dokument zu öffnen.";
 
 /* No comment provided by engineer. */
-"You'll need to move ”%@“ to iCloud before you can collaborate." = "You'll need to move ”%@“ to iCloud before you can collaborate.";
+"You'll need to move ”%@“ to iCloud before you can collaborate." = "Zum Zusammenarbeiten müssen Sie „%@“ in iCloud bewegen.";
 
 /* No comment provided by engineer. */
 "You're attempting to open a %@ sidecar document which cannot be edited directly." = "Sie versuchen, ein %@-Sidecar-Dokument zu öffnen, das nicht direkt bearbeitet werden kann.";
