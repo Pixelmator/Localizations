@@ -43,9 +43,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ s";
 
-/* seconds */
-"%@s" = "%@s";
-
 /* No comment provided by engineer. */
 "%d Album" = "%d Álbum";
 
@@ -240,6 +237,9 @@
 
 /* No comment provided by engineer. */
 "Add Masked Layer" = "Adicionar camada com máscara";
+
+/* No comment provided by engineer. */
+"Add Pictures folder" = "Add Pictures folder";
 
 /* No comment provided by engineer. */
 "Add Point" = "Adicionar ponto";
@@ -752,9 +752,6 @@
 "Chromatic Aberration" = "Aberração Cromática";
 
 /* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "Monitoramento de ruído cromático";
-
-/* No comment provided by engineer. */
 "Chromaticity X" = "Cromaticidade X";
 
 /* No comment provided by engineer. */
@@ -768,15 +765,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "Nitidez";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "Destaques de nitidez";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "Tons médios de nitidez";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "Sombras de nitidez";
 
 /* No comment provided by engineer. */
 "Clear All" = "Limpar tudo";
@@ -1097,9 +1085,6 @@
 "Custom" = "Personalizado";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "LUT personalizado";
-
-/* No comment provided by engineer. */
 "Customize Layout…" = "Personalizar layout…";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1152,6 @@
 
 /* No comment provided by engineer. */
 "Default Effects" = "Efeitos padrão";
-
-/* No comment provided by engineer. */
-"Dehaze" = "Desembaçar";
 
 /* No comment provided by engineer. */
 "Delete" = "Excluir";
@@ -1271,9 +1253,6 @@
 "Destination Over" = "Destino acima";
 
 /* No comment provided by engineer. */
-"Detail" = "Detalhe";
-
-/* No comment provided by engineer. */
 "Detecting background…" = "Detectando fundo…";
 
 /* No comment provided by engineer. */
@@ -1317,6 +1296,9 @@
 
 /* No comment provided by engineer. */
 "Display HDR Content" = "Mostrar Conteúdo HDR";
+
+/* No comment provided by engineer. */
+"Display P3" = "Monitor P3";
 
 /* No comment provided by engineer. */
 "Distance" = "Distância";
@@ -1504,9 +1486,6 @@
 /* No comment provided by engineer. */
 "Elliptical Selection" = "Seleção elíptica";
 
-/* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "Balão de diálogo elíptico";
-
 /* Empty is an adjective here. It means this group layer is empty. */
 "Empty Group" = "Grupo vazio";
 
@@ -1515,9 +1494,6 @@
 
 /* No comment provided by engineer. */
 "Enable Auto-Center" = "Ativar a centralização automática";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "Ativar EDR";
 
 /* No comment provided by engineer. */
 "Enable Mask" = "Ativar a máscara";
@@ -2219,9 +2195,6 @@
 "Layer" = "Camada";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "Máscara de camada";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "Seleção de camadas";
 
 /* No comment provided by engineer. */
@@ -2274,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Lighter Color" = "Clarear a cor";
-
-/* No comment provided by engineer. */
-"Lightness" = "Luminosidade";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "Dispersão de luminosidade";
@@ -2753,9 +2723,6 @@
 "No Subject Detected" = "Nenhum assunto detectado";
 
 /* No comment provided by engineer. */
-"Noise Reduction" = "Redução de ruído";
-
-/* No comment provided by engineer. */
 "None" = "Nenhuma";
 
 /* No comment provided by engineer. */
@@ -3157,6 +3124,9 @@
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "Se sair agora, serão perdidas as alterações feitas desde a última vez em que foram salvas";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* RGB red component */
 "R" = "R";
 
@@ -3192,6 +3162,12 @@
 
 /* No comment provided by engineer. */
 "RAW Photo" = "Foto RAW";
+
+/* No comment provided by engineer. */
+"Read-Only File" = "Read-Only File";
+
+/* No comment provided by engineer. */
+"Read-Only Folder" = "Read-Only Folder";
 
 /* No comment provided by engineer. */
 "Rectangle" = "Retângulo";
@@ -4124,6 +4100,9 @@
 "Square" = "Quadrado";
 
 /* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
+/* No comment provided by engineer. */
 "Star" = "Estrela";
 
 /* No comment provided by engineer. */
@@ -4173,12 +4152,6 @@
 
 /* DocumentInspector */
 "Stroke" = "Traço";
-
-/* No comment provided by engineer. */
-"Stroke Position" = "Posição do traço";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "Tipo de traço";
 
 /* No comment provided by engineer. */
 "Stroke Width" = "Largura do traço";
@@ -4295,6 +4268,9 @@
 "The document “%@” couldn’t be opened." = "O documento “%@” não pôde ser aberto.";
 
 /* No comment provided by engineer. */
+"The files browser lets you open and edit images saved anywhere on your Mac." = "The files browser lets you open and edit images saved anywhere on your Mac.";
+
+/* No comment provided by engineer. */
 "The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "Os arquivos serão movidos para a Lixeira para ser possível recuperá-los até a Lixeira ser esvaziada.";
 
 /* No comment provided by engineer. */
@@ -4397,6 +4373,9 @@
 "To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "Para evitar problemas, salve todo o trabalho ainda não salvo, depois libere algum espaço de armazenamento e experimente reiniciar o Mac.";
 
 /* No comment provided by engineer. */
+"To browse your Pictures folder, click Add Pictures below." = "To browse your Pictures folder, click Add Pictures below.";
+
+/* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "Para reorganizar os elementos da interface, arraste-os para as posições desejadas.";
 
 /* No comment provided by engineer. */
@@ -4446,6 +4425,9 @@
 
 /* No comment provided by engineer. */
 "Try (%i days remaining)" = "Avaliação (%i dias restantes)";
+
+/* No comment provided by engineer. */
+"Try the files browser" = "Try the files browser";
 
 /* No comment provided by engineer. */
 "Turn histogram on or off." = "Ativar ou desativar o histograma.";
@@ -4502,7 +4484,13 @@
 "Unlock" = "Desbloquear";
 
 /* No comment provided by engineer. */
+"Unlock Folder" = "Unlock Folder";
+
+/* No comment provided by engineer. */
 "Unlock Guides" = "Destravar guias";
+
+/* No comment provided by engineer. */
+"Unlock Photo" = "Unlock Photo";
 
 /* No comment provided by engineer. */
 "Unmute" = "Ativar som";
