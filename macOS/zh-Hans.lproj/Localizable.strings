@@ -43,9 +43,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ 秒";
 
-/* seconds */
-"%@s" = "%@s";
-
 /* No comment provided by engineer. */
 "%d Album" = "%d本相簿";
 
@@ -240,6 +237,9 @@
 
 /* No comment provided by engineer. */
 "Add Masked Layer" = "添加图层蒙版";
+
+/* No comment provided by engineer. */
+"Add Pictures folder" = "Add Pictures folder";
 
 /* No comment provided by engineer. */
 "Add Point" = "添加点";
@@ -752,9 +752,6 @@
 "Chromatic Aberration" = "色差";
 
 /* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "彩色噪点跟踪";
-
-/* No comment provided by engineer. */
 "Chromaticity X" = "色度 X";
 
 /* No comment provided by engineer. */
@@ -768,15 +765,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "清晰度";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "清晰化高亮";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "使中间色调清晰化";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "使阴影清晰化";
 
 /* No comment provided by engineer. */
 "Clear All" = "全部清除";
@@ -1097,9 +1085,6 @@
 "Custom" = "自定义";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "自定义 LUT";
-
-/* No comment provided by engineer. */
 "Customize Layout…" = "自定义布局";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1152,6 @@
 
 /* No comment provided by engineer. */
 "Default Effects" = "默认效果";
-
-/* No comment provided by engineer. */
-"Dehaze" = "去雾";
 
 /* No comment provided by engineer. */
 "Delete" = "删除";
@@ -1271,9 +1253,6 @@
 "Destination Over" = "目标在上面";
 
 /* No comment provided by engineer. */
-"Detail" = "详细信息";
-
-/* No comment provided by engineer. */
 "Detecting background…" = "检测背景…";
 
 /* No comment provided by engineer. */
@@ -1317,6 +1296,9 @@
 
 /* No comment provided by engineer. */
 "Display HDR Content" = "显示 HDR 内容";
+
+/* No comment provided by engineer. */
+"Display P3" = "显示 P3";
 
 /* No comment provided by engineer. */
 "Distance" = "距离";
@@ -1504,9 +1486,6 @@
 /* No comment provided by engineer. */
 "Elliptical Selection" = "椭圆选择";
 
-/* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "椭圆对话气泡";
-
 /* Empty is an adjective here. It means this group layer is empty. */
 "Empty Group" = "空群组";
 
@@ -1515,9 +1494,6 @@
 
 /* No comment provided by engineer. */
 "Enable Auto-Center" = "启用自动居中";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "启用 EDR";
 
 /* No comment provided by engineer. */
 "Enable Mask" = "启用蒙版";
@@ -2219,9 +2195,6 @@
 "Layer" = "图层";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "图层蒙版";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "图层选择";
 
 /* No comment provided by engineer. */
@@ -2274,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Lighter Color" = "浅色";
-
-/* No comment provided by engineer. */
-"Lightness" = "亮度";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "亮度散步";
@@ -2753,9 +2723,6 @@
 "No Subject Detected" = "未检测到主体";
 
 /* No comment provided by engineer. */
-"Noise Reduction" = "降噪";
-
-/* No comment provided by engineer. */
 "None" = "无";
 
 /* No comment provided by engineer. */
@@ -3157,6 +3124,9 @@
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "现在退出将丢失自上次成功保存以来所做的任何更改";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* RGB red component */
 "R" = "R";
 
@@ -3192,6 +3162,12 @@
 
 /* No comment provided by engineer. */
 "RAW Photo" = "RAW图片";
+
+/* No comment provided by engineer. */
+"Read-Only File" = "Read-Only File";
+
+/* No comment provided by engineer. */
+"Read-Only Folder" = "Read-Only Folder";
 
 /* No comment provided by engineer. */
 "Rectangle" = "矩形";
@@ -4124,6 +4100,9 @@
 "Square" = "正方形";
 
 /* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
+/* No comment provided by engineer. */
 "Star" = "星";
 
 /* No comment provided by engineer. */
@@ -4173,12 +4152,6 @@
 
 /* DocumentInspector */
 "Stroke" = "描边";
-
-/* No comment provided by engineer. */
-"Stroke Position" = "描边位置";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "描边输入";
 
 /* No comment provided by engineer. */
 "Stroke Width" = "描边宽度";
@@ -4295,6 +4268,9 @@
 "The document “%@” couldn’t be opened." = "未能打开文稿“%@”。";
 
 /* No comment provided by engineer. */
+"The files browser lets you open and edit images saved anywhere on your Mac." = "The files browser lets you open and edit images saved anywhere on your Mac.";
+
+/* No comment provided by engineer. */
 "The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "文件将被移到回收站，因此它们可以从那里恢复，直到清空回收站。";
 
 /* No comment provided by engineer. */
@@ -4397,6 +4373,9 @@
 "To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "为避免发生问题，请保存任何尚未保存的内容，然后尝试释放部分存储空间或重新启动 Mac。";
 
 /* No comment provided by engineer. */
+"To browse your Pictures folder, click Add Pictures below." = "To browse your Pictures folder, click Add Pictures below.";
+
+/* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "要重新排列界面元素，请将它们拖移到所需位置。";
 
 /* No comment provided by engineer. */
@@ -4446,6 +4425,9 @@
 
 /* No comment provided by engineer. */
 "Try (%i days remaining)" = "试用（还剩 %i 天）";
+
+/* No comment provided by engineer. */
+"Try the files browser" = "Try the files browser";
 
 /* No comment provided by engineer. */
 "Turn histogram on or off." = "打开或关闭直方图。";
@@ -4502,7 +4484,13 @@
 "Unlock" = "解锁";
 
 /* No comment provided by engineer. */
+"Unlock Folder" = "Unlock Folder";
+
+/* No comment provided by engineer. */
 "Unlock Guides" = "解锁参考线";
+
+/* No comment provided by engineer. */
+"Unlock Photo" = "Unlock Photo";
 
 /* No comment provided by engineer. */
 "Unmute" = "取消静音";
