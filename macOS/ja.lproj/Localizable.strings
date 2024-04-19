@@ -43,9 +43,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ s";
 
-/* seconds */
-"%@s" = "%@s";
-
 /* No comment provided by engineer. */
 "%d Album" = "%d アルバム";
 
@@ -240,6 +237,9 @@
 
 /* No comment provided by engineer. */
 "Add Masked Layer" = "マスク付きレイヤー";
+
+/* No comment provided by engineer. */
+"Add Pictures folder" = "Add Pictures folder";
 
 /* No comment provided by engineer. */
 "Add Point" = "ポイントを追加";
@@ -752,9 +752,6 @@
 "Chromatic Aberration" = "色収差";
 
 /* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "色ノイズ追跡";
-
-/* No comment provided by engineer. */
 "Chromaticity X" = "色度 X";
 
 /* No comment provided by engineer. */
@@ -768,15 +765,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "鮮明度";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "ハイライトを明るく";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "ミッドトーンを明るく";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "シャドウを明るく";
 
 /* No comment provided by engineer. */
 "Clear All" = "すべてを消去";
@@ -1097,9 +1085,6 @@
 "Custom" = "その他";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "カスタムLUT";
-
-/* No comment provided by engineer. */
 "Customize Layout…" = "レイアウトをカスタマイズ…";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1152,6 @@
 
 /* No comment provided by engineer. */
 "Default Effects" = "デフォルトエフェクト";
-
-/* No comment provided by engineer. */
-"Dehaze" = "かすみの除去";
 
 /* No comment provided by engineer. */
 "Delete" = "削除";
@@ -1271,9 +1253,6 @@
 "Destination Over" = "背後に描画";
 
 /* No comment provided by engineer. */
-"Detail" = "詳細";
-
-/* No comment provided by engineer. */
 "Detecting background…" = "背景を検出しています…";
 
 /* No comment provided by engineer. */
@@ -1317,6 +1296,9 @@
 
 /* No comment provided by engineer. */
 "Display HDR Content" = "HDRコンテンツを表示";
+
+/* No comment provided by engineer. */
+"Display P3" = "Display P3";
 
 /* No comment provided by engineer. */
 "Distance" = "距離";
@@ -1504,9 +1486,6 @@
 /* No comment provided by engineer. */
 "Elliptical Selection" = "楕円で選択";
 
-/* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "楕円形の吹き出し";
-
 /* Empty is an adjective here. It means this group layer is empty. */
 "Empty Group" = "グループを空にする";
 
@@ -1515,9 +1494,6 @@
 
 /* No comment provided by engineer. */
 "Enable Auto-Center" = "自動中央を有効にする";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "EDRを有効";
 
 /* No comment provided by engineer. */
 "Enable Mask" = "マスクを有効";
@@ -2219,9 +2195,6 @@
 "Layer" = "レイヤー";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "レイヤーマスク";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "レイヤー選択";
 
 /* No comment provided by engineer. */
@@ -2274,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Lighter Color" = "覆い焼き (ソフト)";
-
-/* No comment provided by engineer. */
-"Lightness" = "明るさ";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "明度の散布";
@@ -2753,9 +2723,6 @@
 "No Subject Detected" = "対象が見つかりません";
 
 /* No comment provided by engineer. */
-"Noise Reduction" = "ノイズ低減";
-
-/* No comment provided by engineer. */
 "None" = "なし";
 
 /* No comment provided by engineer. */
@@ -3157,6 +3124,9 @@
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "終了すると、前回の保存以降の変更内容はすべて失われます。";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* RGB red component */
 "R" = "R";
 
@@ -3192,6 +3162,12 @@
 
 /* No comment provided by engineer. */
 "RAW Photo" = "RAW写真";
+
+/* No comment provided by engineer. */
+"Read-Only File" = "Read-Only File";
+
+/* No comment provided by engineer. */
+"Read-Only Folder" = "Read-Only Folder";
 
 /* No comment provided by engineer. */
 "Rectangle" = "長方形";
@@ -4124,6 +4100,9 @@
 "Square" = "正方形";
 
 /* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
+/* No comment provided by engineer. */
 "Star" = "スター";
 
 /* No comment provided by engineer. */
@@ -4173,12 +4152,6 @@
 
 /* DocumentInspector */
 "Stroke" = "線";
-
-/* No comment provided by engineer. */
-"Stroke Position" = "線の位置";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "線の種類";
 
 /* No comment provided by engineer. */
 "Stroke Width" = "線の幅";
@@ -4295,6 +4268,9 @@
 "The document “%@” couldn’t be opened." = "この書類“%@”は開くことができません。";
 
 /* No comment provided by engineer. */
+"The files browser lets you open and edit images saved anywhere on your Mac." = "The files browser lets you open and edit images saved anywhere on your Mac.";
+
+/* No comment provided by engineer. */
 "The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "ファイルはゴミ箱に移動されるため、ゴミ箱が空になるまでそこから復元できます。";
 
 /* No comment provided by engineer. */
@@ -4397,6 +4373,9 @@
 "To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "問題を回避するには、保存されていない作業を保存してから、ストレージを解放してMacを再起動してください。";
 
 /* No comment provided by engineer. */
+"To browse your Pictures folder, click Add Pictures below." = "To browse your Pictures folder, click Add Pictures below.";
+
+/* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "インターフェイス要素を再配置するには、それらを目的の位置にドラッグします。";
 
 /* No comment provided by engineer. */
@@ -4446,6 +4425,9 @@
 
 /* No comment provided by engineer. */
 "Try (%i days remaining)" = "試用する (残り%i日)";
+
+/* No comment provided by engineer. */
+"Try the files browser" = "Try the files browser";
 
 /* No comment provided by engineer. */
 "Turn histogram on or off." = "ヒストグラムをオンまたはオフにします。";
@@ -4502,7 +4484,13 @@
 "Unlock" = "ロックを解除";
 
 /* No comment provided by engineer. */
+"Unlock Folder" = "Unlock Folder";
+
+/* No comment provided by engineer. */
 "Unlock Guides" = "ガイドのロックを解除";
+
+/* No comment provided by engineer. */
+"Unlock Photo" = "Unlock Photo";
 
 /* No comment provided by engineer. */
 "Unmute" = "ミュート解除";
