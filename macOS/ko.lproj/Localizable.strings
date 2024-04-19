@@ -43,9 +43,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@초";
 
-/* seconds */
-"%@s" = "%@초";
-
 /* No comment provided by engineer. */
 "%d Album" = "%d개의 앨범";
 
@@ -240,6 +237,9 @@
 
 /* No comment provided by engineer. */
 "Add Masked Layer" = "마스킹된 레이어 추가";
+
+/* No comment provided by engineer. */
+"Add Pictures folder" = "Add Pictures folder";
 
 /* No comment provided by engineer. */
 "Add Point" = "포인트 추가";
@@ -752,9 +752,6 @@
 "Chromatic Aberration" = "색수차";
 
 /* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "색도 노이즈 추적";
-
-/* No comment provided by engineer. */
 "Chromaticity X" = "색도 X";
 
 /* No comment provided by engineer. */
@@ -768,15 +765,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "명료도";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "명료도 명부";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "명료도 중간 색조";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "명료도 암부";
 
 /* No comment provided by engineer. */
 "Clear All" = "모두 지우기";
@@ -1097,9 +1085,6 @@
 "Custom" = "사용자 정의";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "사용자 정의 LUT";
-
-/* No comment provided by engineer. */
 "Customize Layout…" = "레이아웃 사용자화…";
 
 /* No comment provided by engineer. */
@@ -1167,9 +1152,6 @@
 
 /* No comment provided by engineer. */
 "Default Effects" = "기본 효과";
-
-/* No comment provided by engineer. */
-"Dehaze" = "안개 제거";
 
 /* No comment provided by engineer. */
 "Delete" = "삭제";
@@ -1271,9 +1253,6 @@
 "Destination Over" = "대상 오버";
 
 /* No comment provided by engineer. */
-"Detail" = "세부 사항";
-
-/* No comment provided by engineer. */
 "Detecting background…" = "배경 탐색 중…";
 
 /* No comment provided by engineer. */
@@ -1317,6 +1296,9 @@
 
 /* No comment provided by engineer. */
 "Display HDR Content" = "HDR 콘텐츠 표시";
+
+/* No comment provided by engineer. */
+"Display P3" = "디스플레이 P3";
 
 /* No comment provided by engineer. */
 "Distance" = "거리";
@@ -1504,9 +1486,6 @@
 /* No comment provided by engineer. */
 "Elliptical Selection" = "타원형 선택";
 
-/* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "타원형 말 풍선";
-
 /* Empty is an adjective here. It means this group layer is empty. */
 "Empty Group" = "빈 그룹";
 
@@ -1515,9 +1494,6 @@
 
 /* No comment provided by engineer. */
 "Enable Auto-Center" = "자동 가운데 맞춤 활성화";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "EDR 활성화";
 
 /* No comment provided by engineer. */
 "Enable Mask" = "마스크 활성화";
@@ -2219,9 +2195,6 @@
 "Layer" = "레이어";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "레이어 마스크";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "레이어 선택";
 
 /* No comment provided by engineer. */
@@ -2274,9 +2247,6 @@
 
 /* No comment provided by engineer. */
 "Lighter Color" = "더 밝은 색";
-
-/* No comment provided by engineer. */
-"Lightness" = "명도";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "명도 분산";
@@ -2753,9 +2723,6 @@
 "No Subject Detected" = "감지된 대상 없음";
 
 /* No comment provided by engineer. */
-"Noise Reduction" = "노이즈 감소";
-
-/* No comment provided by engineer. */
 "None" = "없음";
 
 /* No comment provided by engineer. */
@@ -3157,6 +3124,9 @@
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "지금 종료하면 마지막 저장 이후 발생한 모든 변경 사항을 잃게 됩니다";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* RGB red component */
 "R" = "R";
 
@@ -3192,6 +3162,12 @@
 
 /* No comment provided by engineer. */
 "RAW Photo" = "RAW 사진";
+
+/* No comment provided by engineer. */
+"Read-Only File" = "Read-Only File";
+
+/* No comment provided by engineer. */
+"Read-Only Folder" = "Read-Only Folder";
 
 /* No comment provided by engineer. */
 "Rectangle" = "사각형";
@@ -4124,6 +4100,9 @@
 "Square" = "정사각형";
 
 /* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
+/* No comment provided by engineer. */
 "Star" = "별";
 
 /* No comment provided by engineer. */
@@ -4173,12 +4152,6 @@
 
 /* DocumentInspector */
 "Stroke" = "스트로크";
-
-/* No comment provided by engineer. */
-"Stroke Position" = "스트로크 위치";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "스트로크 유형";
 
 /* No comment provided by engineer. */
 "Stroke Width" = "스트로크 너비";
@@ -4295,6 +4268,9 @@
 "The document “%@” couldn’t be opened." = "“%@” 문서를 열 수 없습니다.";
 
 /* No comment provided by engineer. */
+"The files browser lets you open and edit images saved anywhere on your Mac." = "The files browser lets you open and edit images saved anywhere on your Mac.";
+
+/* No comment provided by engineer. */
 "The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "파일은 휴지통으로 이동되며, 휴지통이 비워질 때까지 그곳에서 복원할 수 있습니다.";
 
 /* No comment provided by engineer. */
@@ -4397,6 +4373,9 @@
 "To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "문제를 피하려면 저장하지 않은 작업을 저장한 다음, 저장 공간을 확보하고 Mac을 다시 시작해 보세요.";
 
 /* No comment provided by engineer. */
+"To browse your Pictures folder, click Add Pictures below." = "To browse your Pictures folder, click Add Pictures below.";
+
+/* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "인터페이스 요소를 다시 정렬하려면 원하는 위치로 드래그합니다.";
 
 /* No comment provided by engineer. */
@@ -4446,6 +4425,9 @@
 
 /* No comment provided by engineer. */
 "Try (%i days remaining)" = "체험 (%i일 남음)";
+
+/* No comment provided by engineer. */
+"Try the files browser" = "Try the files browser";
 
 /* No comment provided by engineer. */
 "Turn histogram on or off." = "히스토그램을 켜거나 끕니다.";
@@ -4502,7 +4484,13 @@
 "Unlock" = "잠금 해제";
 
 /* No comment provided by engineer. */
+"Unlock Folder" = "Unlock Folder";
+
+/* No comment provided by engineer. */
 "Unlock Guides" = "안내선 잠금 해제";
+
+/* No comment provided by engineer. */
+"Unlock Photo" = "Unlock Photo";
 
 /* No comment provided by engineer. */
 "Unmute" = "소리 켬";
