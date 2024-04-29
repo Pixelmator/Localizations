@@ -11,10 +11,10 @@
 "%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ encontrou um erro crítico, possivelmente devido a pouco espaço disponível em disco ou a um erro no sistema operacional. Talvez ajude se liberar algum espaço em disco ou reiniciar o Mac.";
 
 /* No comment provided by engineer. */
-"%@ OFF" = "%@ DE DESCONTO";
+"%@ mm" = "%@ mm";
 
-/* seconds */
-"%@s" = "%@s";
+/* No comment provided by engineer. */
+"%@ OFF" = "%@ DE DESCONTO";
 
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d já existem. Deseja substituí-los?";
@@ -102,6 +102,9 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Já existe um arquivo ou uma pasta com o mesmo nome na pasta %@. Se substituir, todo o conteúdo atual será perdido.";
+
+/* No comment provided by engineer. */
+"A one-time purchase for %@." = "A one-time purchase for %@.";
 
 /* No comment provided by engineer. */
 "ACCENT COLOR" = "CORES ACENTUADAS";
@@ -564,9 +567,6 @@
 "Chromatic Aberration" = "Aberração Cromática";
 
 /* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "Monitoramento de ruído cromático";
-
-/* No comment provided by engineer. */
 "Chromaticity X" = "Cromaticidade X";
 
 /* No comment provided by engineer. */
@@ -577,15 +577,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "Nitidez";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "Destaques de nitidez";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "Tons médios de nitidez";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "Sombras de nitidez";
 
 /* No comment provided by engineer. */
 "Clear Guides" = "Apagar guias";
@@ -780,9 +771,6 @@
 "Custom" = "Personalizado";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "LUT personalizado";
-
-/* No comment provided by engineer. */
 "Custom Size" = "Tamanho personalizado";
 
 /* No comment provided by engineer. */
@@ -848,9 +836,6 @@
 
 /* No comment provided by engineer. */
 "Default Baseline" = "Linha de base padrão";
-
-/* No comment provided by engineer. */
-"Dehaze" = "Desembaçar";
 
 /* Edit Menu */
 "Delete" = "Excluir";
@@ -925,9 +910,6 @@
 /* No comment provided by engineer. */
 "Destination Over" = "Destino acima";
 
-/* No comment provided by engineer. */
-"Detail" = "Detalhe";
-
 /* Edit Menu */
 "Details" = "Detalhes";
 
@@ -983,6 +965,9 @@
 "Display HDR Content" = "Mostrar Conteúdo HDR";
 
 /* No comment provided by engineer. */
+"Display P3" = "Monitor P3";
+
+/* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "Exibe todos os álbuns, inclusive todos os álbuns que se encontrem em pastas, em uma única galeria organizada em ordem alfabética.";
 
 /* No comment provided by engineer. */
@@ -1032,9 +1017,6 @@
 
 /* No comment provided by engineer. */
 "Document Quick Save for Web" = "Gravação rápida do documento para web";
-
-/* No comment provided by engineer. */
-"Don't limit yourself" = "Não se limite";
 
 /* No comment provided by engineer. */
 "Don't Move" = "Não se mova";
@@ -1163,6 +1145,9 @@
 "Edit RAW" = "Editar RAW";
 
 /* No comment provided by engineer. */
+"Edit Size Optimizations" = "Edit Size Optimizations";
+
+/* No comment provided by engineer. */
 "Edit specific areas of photos" = "Edite áreas específicas da foto";
 
 /* No comment provided by engineer. */
@@ -1210,9 +1195,6 @@ a objetos inteiros.";
 "Elliptical Selection" = "Seleção elíptica";
 
 /* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "Balão de diálogo elíptico";
-
-/* No comment provided by engineer. */
 "Empty Album" = "Álbum vazio";
 
 /* No comment provided by engineer. */
@@ -1226,9 +1208,6 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Enable %@" = "Ativar %@";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "Ativar EDR";
 
 /* Edit Menu */
 "Enable New Preset Creation" = "Ativar Criação de Novo Pré‑ajuste";
@@ -1295,6 +1274,9 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "OU exclusivo";
+
+/* No comment provided by engineer. */
+"Existing Profile in Image" = "Perfil existente na imagem";
 
 /* No comment provided by engineer. */
 "Exit Editing" = "Sair da edição";
@@ -1399,6 +1381,9 @@ a objetos inteiros.";
 "Feature Unavailable" = "Recurso não disponível";
 
 /* No comment provided by engineer. */
+"File Browser Improvements" = "File Browser Improvements";
+
+/* No comment provided by engineer. */
 "File Unavailable" = "Arquivo Indisponível";
 
 /* No comment provided by engineer. */
@@ -1424,9 +1409,6 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Filmstrip" = "Tira de filme";
-
-/* No comment provided by engineer. */
-"Filmstrip Unavailable" = "Película de Filme Indisponível";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "Concluir o desenho";
@@ -1501,7 +1483,10 @@ a objetos inteiros.";
 "Generator" = "Gerador";
 
 /* No comment provided by engineer. */
-"Get 50% off the first year of the annual Pixelmator Photo subscription with this limited-time offer." = "Ganhe 50% de desconto no primeiro ano da assinatura anual do Pixelmator Photo com esta oferta por tempo limitado.";
+"Get %@ off for one year" = "Get %@ off for one year";
+
+/* No comment provided by engineer. */
+"Get %@ off the lifetime license" = "Get %@ off the lifetime license";
 
 /* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Tenha uma visão rápida das ferramentas que você pode utilizar para retocar, realçar ou transformar completamente a aparência das suas fotos.";
@@ -1652,9 +1637,6 @@ a objetos inteiros.";
 "Histogram" = "Histograma";
 
 /* No comment provided by engineer. */
-"Holiday Sale" = "Oferta de Natal";
-
-/* No comment provided by engineer. */
 "Horizontal Alignment" = "Alinhamento horizontal";
 
 /* Perspective transform */
@@ -1744,9 +1726,6 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default." = "Em pares RAW+JPEG ou RAW+HEIC, a foto RAW será aberta por padrão.";
-
-/* No comment provided by engineer. */
-"In the Files browser, effortlessly browse photos using the new filmstrip." = "No navegador de Arquivos, use a nova película de filme para explorar fotos facilmente.";
 
 /* Units */
 "Inches" = "Polegadas";
@@ -1866,9 +1845,6 @@ a objetos inteiros.";
 "Layer" = "Camada";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "Máscara de camada";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "Seleção de camadas";
 
 /* No comment provided by engineer. */
@@ -1925,9 +1901,6 @@ a objetos inteiros.";
 
 /* No comment provided by engineer. */
 "Lighter Color" = "Clarear a cor";
-
-/* No comment provided by engineer. */
-"Lightness" = "Luminosidade";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "Dispersão de luminosidade";
@@ -2288,12 +2261,6 @@ Poderosos e não destrutivos.";
 "No Subscription Found" = "Não foi encontrada uma assinatura";
 
 /* No comment provided by engineer. */
-"No thanks" = "Não, obrigado";
-
-/* No comment provided by engineer. */
-"Noise Reduction" = "Redução de ruído";
-
-/* No comment provided by engineer. */
 "Nondestructively preserve edits in a linked Photomator file." = "Preserve de forma não destrutiva as edições em um arquivo vinculado do Photomator.";
 
 /* Tool */
@@ -2316,9 +2283,6 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "Curvas na imagem";
-
-/* No comment provided by engineer. */
-"One license for Mac, iPad, and iPhone." = "Uma única licença para Mac, iPad e iPhone.";
 
 /* No comment provided by engineer. */
 "One or more LUTs may be damaged or not supported." = "Um ou mais LUTs podem estar danificados, ou não são compatíveis.";
@@ -2401,6 +2365,9 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Overwrite" = "Sobrescrever";
 
+/* Short for PHOTO Image format */
+"P" = "P";
+
 /* Tool */
 "Paint" = "Pintar";
 
@@ -2459,6 +2426,9 @@ Poderosos e não destrutivos.";
 "Perspective Transform" = "Transformação de perspectiva";
 
 /* No comment provided by engineer. */
+"PHOTO" = "PHOTO";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -2481,9 +2451,6 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Ajuda do Photomator";
-
-/* No comment provided by engineer. */
-"Photomator is on sale" = "Photomator em promoção";
 
 /* Native iOS Photos app name */
 "Photos" = "Photos";
@@ -2588,9 +2555,6 @@ Poderosos e não destrutivos.";
 "Preserve Edits and Original" = "Preservar Edições e Original";
 
 /* No comment provided by engineer. */
-"Preserve nondestructive edits in a separate sidecar file." = "Preserve edições não destrutivas em um arquivo sidecar separado.";
-
-/* No comment provided by engineer. */
 "Preserve transparency" = "Preservar transparência";
 
 /* No comment provided by engineer. */
@@ -2677,6 +2641,9 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Quit Application" = "Encerrar aplicativo";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
@@ -2746,13 +2713,7 @@ Poderosos e não destrutivos.";
 "Redeem Code" = "Resgatar Código";
 
 /* No comment provided by engineer. */
-"Redeem offer" = "Resgatar oferta";
-
-/* No comment provided by engineer. */
 "Redeem Offer" = "Resgatar Oferta";
-
-/* No comment provided by engineer. */
-"Redeem special offer" = "Resgatar oferta especial";
 
 /* Edit Menu */
 "Redefine" = "Redefinir";
@@ -2792,9 +2753,6 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Reloading…" = "Carregando novamente...";
-
-/* No comment provided by engineer. */
-"Remind me" = "Lembre-me";
 
 /* No comment provided by engineer. */
 "Remove" = "Remover";
@@ -3096,22 +3054,7 @@ Poderosos e não destrutivos.";
 "Save Changes" = "Salvar Alterações";
 
 /* No comment provided by engineer. */
-"Save changes to the original files you open, overwriting them." = "Salva as alterações nos arquivos originais que você abrir, substituindo-os.";
-
-/* No comment provided by engineer. */
 "Save Copy to Photos" = "Salvar cópia em Fotos";
-
-/* No comment provided by engineer. */
-"Save image" = "Salvar imagem";
-
-/* No comment provided by engineer. */
-"Save image (1 remaining)" = "Salvar imagem (1 restante)";
-
-/* No comment provided by engineer. */
-"Save image (2 remaining)" = "Salvar imagens (2 restantes)";
-
-/* No comment provided by engineer. */
-"Save image (3 remaining)" = "Salvar imagens (3 restantes)";
 
 /* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
 "Save layers and edits to a sidecar file" = "Salvar camadas e edições em um arquivo sidecar";
@@ -3163,9 +3106,6 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "See All" = "Ver tudo";
-
-/* No comment provided by engineer. */
-"See More Plans" = "Ver Mais Planos";
 
 /* No comment provided by engineer. */
 "Select" = "Seleção";
@@ -3531,6 +3471,9 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Square" = "Quadrado";
 
+/* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
 /* Tool */
 "Star" = "Estrela";
 
@@ -3562,9 +3505,6 @@ Poderosos e não destrutivos.";
 "Status Bar" = "Barra de status";
 
 /* No comment provided by engineer. */
-"Storage Improvements" = "Melhorias de Armazenamento";
-
-/* No comment provided by engineer. */
 "Store Edits in iCloud" = "Armazenar edições no iCloud";
 
 /* Tool */
@@ -3581,12 +3521,6 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Stroke" = "Traço";
-
-/* No comment provided by engineer. */
-"Stroke Position" = "Posição do traço";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "Tipo de traço";
 
 /* No comment provided by engineer. */
 "Stroke Width" = "Largura do traço";
@@ -3610,10 +3544,19 @@ Poderosos e não destrutivos.";
 "Subject Mask" = "Máscara alvo";
 
 /* No comment provided by engineer. */
+"Subscribe" = "Subscribe";
+
+/* No comment provided by engineer. */
+"Subscribe monthly for %@. Cancel anytime." = "Subscribe monthly for %@. Cancel anytime.";
+
+/* No comment provided by engineer. */
 "Subscribe to Photomator" = "Assinar o Photomator";
 
 /* No comment provided by engineer. */
 "Subscribe to Pixelmator Photo" = "Assine o Pixelmator Photo";
+
+/* No comment provided by engineer. */
+"Subscribe yearly for %@. Cancel anytime." = "Subscribe yearly for %@. Cancel anytime.";
 
 /* No comment provided by engineer. */
 "Subtract" = "Subtrair";
@@ -3695,7 +3638,7 @@ Poderosos e não destrutivos.";
 "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "Os ajustes com reconhecimento de texturas não podem ser recriados com LUTs, por isso os LUTs exportados ficarão diferentes.";
 
 /* No comment provided by engineer. */
-"Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file." = "Graças ao salvamento aprimorado de arquivos sidecar no Photomator, as edições ocuparão bem menos espaço de armazenamento e, ao editar no app Arquivos, preservarão o arquivo original, salvando as edições em um arquivo separado.";
+"Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space." = "Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space.";
 
 /* No comment provided by engineer. */
 "That covers the basics – you’re ready to start editing your photos!" = "Isso aborda o básico. Você está pronto para começar a editar suas fotos!";
@@ -3723,6 +3666,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "O app Arquivos permite explorar todos os documentos no dispositivo. Para usar o navegador do app Fotos, toque em %@ e selecione Fotos no menu Navegador.";
+
+/* No comment provided by engineer. */
+"The filmstrip is unavailable for this folder." = "The filmstrip is unavailable for this folder.";
 
 /* No comment provided by engineer. */
 "The folder of the image could not be found." = "Não foi possível encontrar a pasta da imagem.";
@@ -3917,9 +3863,6 @@ Poderosos e não destrutivos.";
 "To reveal filmstrip, give access to the image’s root folder by selecting the folder and tapping Open." = "Para mostrar a película de filme, selecione a pasta e toque em Abrir para conceder acesso à pasta raiz da imagem.";
 
 /* No comment provided by engineer. */
-"To reveal filmstrip, touch and hold a folder, then choose Edit with Filmstrip." = "Para mostrar a película de filme, mantenha pressionada uma pasta e escolha Editar com Película de Filme.";
-
-/* No comment provided by engineer. */
 "To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "Para usar este recurso, você precisa comprar ou assinar o Photomator. Mas ocorreu um ao tentar mostrar a visualização de compras. Se isso acontecer repetidamente, contate‑nos para que possamos ajudar. (Código do Erro: %i)";
 
 /* No comment provided by engineer. */
@@ -3968,7 +3911,7 @@ Poderosos e não destrutivos.";
 "Try Again" = "Tentar Novamente";
 
 /* No comment provided by engineer. */
-"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, and iPhone." = "Transforme fotos boas em fotos espetaculares com um conjunto completo de ferramentas poderosas de edição de fotos. Disponível no Mac, iPad e iPhone.";
+"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro." = "Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro.";
 
 /* Tool */
 "Twirl" = "Girar";
@@ -3978,6 +3921,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Unable to Access" = "Não Foi Possível Acessar";
+
+/* No comment provided by engineer. */
+"Unable to Access Folder" = "Unable to Access Folder";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "Não foi possível acessar a Ajuda";
@@ -4064,7 +4010,7 @@ Poderosos e não destrutivos.";
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "Desbloqueie os fluxos de trabalho de edição de formato RAW com o novo modo Extended Dynamic Range.";
 
 /* No comment provided by engineer. */
-"Unlock Photomator on Mac, iPad, and iPhone with a single license." = "Desbloqueie o Photomator no Mac, iPad e iPhone com uma única licença.";
+"Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license." = "Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license.";
 
 /* %@ stands for non-breaking space */
 "Unlock Photomator%@for%@Mac" = "Desbloquear Photomator%1$@para%2$@Mac";
@@ -4110,9 +4056,6 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Upgrade" = "Atualizar";
-
-/* No comment provided by engineer. */
-"Upgrade to access the full image editing experience in Photomator." = "Atualize para ter acesso à experiência completa de edição de imagens no Photomator.";
 
 /* The name of a 3D file format. */
 "USD" = "USD";
@@ -4208,6 +4151,9 @@ Poderosos e não destrutivos.";
 "When exporting, apply text or image watermarks to protect your photos." = "Ao exportar, aplique marcas d’água de texto ou imagem para proteger suas fotos.";
 
 /* No comment provided by engineer. */
+"When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals." = "When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals.";
+
+/* No comment provided by engineer. */
 "White" = "Branco";
 
 /* No comment provided by engineer. */
@@ -4239,9 +4185,6 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Workflows" = "Fluxos de trabalho";
-
-/* No comment provided by engineer. */
-"Would you like to be notified before your free trial is about to end?" = "Deseja ser notificado antes do fim do período de testes?";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "Deseja salvar as alterações no arquivo JPEG/PNG/TIFF original ou como um document do Pixelmator Pro?";
@@ -4284,9 +4227,6 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "You're Offline" = "Você está desconectado";
-
-/* No comment provided by engineer. */
-"Your 7-day trial has started!" = "Seu período de sete dias de testes começou!";
 
 /* No comment provided by engineer. */
 "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!" = "A avaliação gratuita termina em 2 dias. Edite algumas fotos para explorar o Photomator!";
