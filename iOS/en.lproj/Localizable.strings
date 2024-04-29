@@ -11,10 +11,10 @@
 "%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac.";
 
 /* No comment provided by engineer. */
-"%@ OFF" = "%@ OFF";
+"%@ mm" = "%@ mm";
 
-/* seconds */
-"%@s" = "%@s";
+/* No comment provided by engineer. */
+"%@ OFF" = "%@ OFF";
 
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d files already exists. Do you want to replace them?";
@@ -102,6 +102,9 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents.";
+
+/* No comment provided by engineer. */
+"A one-time purchase for %@." = "A one-time purchase for %@.";
 
 /* No comment provided by engineer. */
 "ACCENT COLOR" = "ACCENT COLOR";
@@ -564,9 +567,6 @@
 "Chromatic Aberration" = "Chromatic Aberration";
 
 /* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "Chromatic Noise Tracking";
-
-/* No comment provided by engineer. */
 "Chromaticity X" = "Chromaticity X";
 
 /* No comment provided by engineer. */
@@ -577,15 +577,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "Clarity";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "Clarity Highlights";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "Clarity Midtones";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "Clarity Shadows";
 
 /* No comment provided by engineer. */
 "Clear Guides" = "Clear Guides";
@@ -780,9 +771,6 @@
 "Custom" = "Custom";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "Custom LUT";
-
-/* No comment provided by engineer. */
 "Custom Size" = "Custom Size";
 
 /* No comment provided by engineer. */
@@ -848,9 +836,6 @@
 
 /* No comment provided by engineer. */
 "Default Baseline" = "Default Baseline";
-
-/* No comment provided by engineer. */
-"Dehaze" = "Dehaze";
 
 /* Edit Menu */
 "Delete" = "Delete";
@@ -925,9 +910,6 @@
 /* No comment provided by engineer. */
 "Destination Over" = "Destination Over";
 
-/* No comment provided by engineer. */
-"Detail" = "Detail";
-
 /* Edit Menu */
 "Details" = "Details";
 
@@ -983,6 +965,9 @@
 "Display HDR Content" = "Display HDR Content";
 
 /* No comment provided by engineer. */
+"Display P3" = "Display P3";
+
+/* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery.";
 
 /* No comment provided by engineer. */
@@ -1032,9 +1017,6 @@
 
 /* No comment provided by engineer. */
 "Document Quick Save for Web" = "Document Quick Save for Web";
-
-/* No comment provided by engineer. */
-"Don't limit yourself" = "Don't limit yourself";
 
 /* No comment provided by engineer. */
 "Don't Move" = "Don't Move";
@@ -1163,6 +1145,9 @@
 "Edit RAW" = "Edit RAW";
 
 /* No comment provided by engineer. */
+"Edit Size Optimizations" = "Edit Size Optimizations";
+
+/* No comment provided by engineer. */
 "Edit specific areas of photos" = "Edit specific areas of photos";
 
 /* No comment provided by engineer. */
@@ -1209,9 +1194,6 @@
 "Elliptical Selection" = "Elliptical Selection";
 
 /* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "Elliptical Speech Bubble";
-
-/* No comment provided by engineer. */
 "Empty Album" = "Empty Album";
 
 /* No comment provided by engineer. */
@@ -1225,9 +1207,6 @@
 
 /* No comment provided by engineer. */
 "Enable %@" = "Enable %@";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "Enable EDR";
 
 /* Edit Menu */
 "Enable New Preset Creation" = "Enable New Preset Creation";
@@ -1294,6 +1273,9 @@
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "Exclusive OR";
+
+/* No comment provided by engineer. */
+"Existing Profile in Image" = "Existing Profile in Image";
 
 /* No comment provided by engineer. */
 "Exit Editing" = "Exit Editing";
@@ -1398,6 +1380,9 @@
 "Feature Unavailable" = "Feature Unavailable";
 
 /* No comment provided by engineer. */
+"File Browser Improvements" = "File Browser Improvements";
+
+/* No comment provided by engineer. */
 "File Unavailable" = "File Unavailable";
 
 /* No comment provided by engineer. */
@@ -1423,9 +1408,6 @@
 
 /* No comment provided by engineer. */
 "Filmstrip" = "Filmstrip";
-
-/* No comment provided by engineer. */
-"Filmstrip Unavailable" = "Filmstrip Unavailable";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "Finish Drawing";
@@ -1500,7 +1482,10 @@
 "Generator" = "Generator";
 
 /* No comment provided by engineer. */
-"Get 50% off the first year of the annual Pixelmator Photo subscription with this limited-time offer." = "Get 50% off the first year of the annual Pixelmator Photo subscription with this limited-time offer.";
+"Get %@ off for one year" = "Get %@ off for one year";
+
+/* No comment provided by engineer. */
+"Get %@ off the lifetime license" = "Get %@ off the lifetime license";
 
 /* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos.";
@@ -1651,9 +1636,6 @@
 "Histogram" = "Histogram";
 
 /* No comment provided by engineer. */
-"Holiday Sale" = "Holiday Sale";
-
-/* No comment provided by engineer. */
 "Horizontal Alignment" = "Horizontal Alignment";
 
 /* Perspective transform */
@@ -1743,9 +1725,6 @@
 
 /* No comment provided by engineer. */
 "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default." = "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default.";
-
-/* No comment provided by engineer. */
-"In the Files browser, effortlessly browse photos using the new filmstrip." = "In the Files browser, effortlessly browse photos using the new filmstrip.";
 
 /* Units */
 "Inches" = "Inches";
@@ -1865,9 +1844,6 @@
 "Layer" = "Layer";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "Layer Mask";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "Layer Selection";
 
 /* No comment provided by engineer. */
@@ -1924,9 +1900,6 @@
 
 /* No comment provided by engineer. */
 "Lighter Color" = "Lighter Color";
-
-/* No comment provided by engineer. */
-"Lightness" = "Lightness";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "Lightness Scatter";
@@ -2286,12 +2259,6 @@
 "No Subscription Found" = "No Subscription Found";
 
 /* No comment provided by engineer. */
-"No thanks" = "No thanks";
-
-/* No comment provided by engineer. */
-"Noise Reduction" = "Noise Reduction";
-
-/* No comment provided by engineer. */
 "Nondestructively preserve edits in a linked Photomator file." = "Nondestructively preserve edits in a linked Photomator file.";
 
 /* Tool */
@@ -2314,9 +2281,6 @@
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "On-Image Curves";
-
-/* No comment provided by engineer. */
-"One license for Mac, iPad, and iPhone." = "One license for Mac, iPad, and iPhone.";
 
 /* No comment provided by engineer. */
 "One or more LUTs may be damaged or not supported." = "One or more LUTs may be damaged or not supported.";
@@ -2399,6 +2363,9 @@
 /* No comment provided by engineer. */
 "Overwrite" = "Overwrite";
 
+/* Short for PHOTO Image format */
+"P" = "P";
+
 /* Tool */
 "Paint" = "Paint";
 
@@ -2457,6 +2424,9 @@
 "Perspective Transform" = "Perspective Transform";
 
 /* No comment provided by engineer. */
+"PHOTO" = "PHOTO";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -2479,9 +2449,6 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomator Help";
-
-/* No comment provided by engineer. */
-"Photomator is on sale" = "Photomator is on sale";
 
 /* Native iOS Photos app name */
 "Photos" = "Photos";
@@ -2586,9 +2553,6 @@
 "Preserve Edits and Original" = "Preserve Edits and Original";
 
 /* No comment provided by engineer. */
-"Preserve nondestructive edits in a separate sidecar file." = "Preserve nondestructive edits in a separate sidecar file.";
-
-/* No comment provided by engineer. */
 "Preserve transparency" = "Preserve transparency";
 
 /* No comment provided by engineer. */
@@ -2675,6 +2639,9 @@
 /* No comment provided by engineer. */
 "Quit Application" = "Quit Application";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
@@ -2744,13 +2711,7 @@
 "Redeem Code" = "Redeem Code";
 
 /* No comment provided by engineer. */
-"Redeem offer" = "Redeem offer";
-
-/* No comment provided by engineer. */
 "Redeem Offer" = "Redeem Offer";
-
-/* No comment provided by engineer. */
-"Redeem special offer" = "Redeem special offer";
 
 /* Edit Menu */
 "Redefine" = "Redefine";
@@ -2790,9 +2751,6 @@
 
 /* No comment provided by engineer. */
 "Reloading…" = "Reloading…";
-
-/* No comment provided by engineer. */
-"Remind me" = "Remind me";
 
 /* No comment provided by engineer. */
 "Remove" = "Remove";
@@ -3094,22 +3052,7 @@
 "Save Changes" = "Save Changes";
 
 /* No comment provided by engineer. */
-"Save changes to the original files you open, overwriting them." = "Save changes to the original files you open, overwriting them.";
-
-/* No comment provided by engineer. */
 "Save Copy to Photos" = "Save Copy to Photos";
-
-/* No comment provided by engineer. */
-"Save image" = "Save image";
-
-/* No comment provided by engineer. */
-"Save image (1 remaining)" = "Save image (1 remaining)";
-
-/* No comment provided by engineer. */
-"Save image (2 remaining)" = "Save image (2 remaining)";
-
-/* No comment provided by engineer. */
-"Save image (3 remaining)" = "Save image (3 remaining)";
 
 /* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
 "Save layers and edits to a sidecar file" = "Save layers and edits to a sidecar file";
@@ -3161,9 +3104,6 @@
 
 /* No comment provided by engineer. */
 "See All" = "See All";
-
-/* No comment provided by engineer. */
-"See More Plans" = "See More Plans";
 
 /* No comment provided by engineer. */
 "Select" = "Select";
@@ -3529,6 +3469,9 @@
 /* No comment provided by engineer. */
 "Square" = "Square";
 
+/* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
 /* Tool */
 "Star" = "Star";
 
@@ -3560,9 +3503,6 @@
 "Status Bar" = "Status Bar";
 
 /* No comment provided by engineer. */
-"Storage Improvements" = "Storage Improvements";
-
-/* No comment provided by engineer. */
 "Store Edits in iCloud" = "Store Edits in iCloud";
 
 /* Tool */
@@ -3579,12 +3519,6 @@
 
 /* No comment provided by engineer. */
 "Stroke" = "Stroke";
-
-/* No comment provided by engineer. */
-"Stroke Position" = "Stroke Position";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "Stroke Type";
 
 /* No comment provided by engineer. */
 "Stroke Width" = "Stroke Width";
@@ -3608,10 +3542,19 @@
 "Subject Mask" = "Subject Mask";
 
 /* No comment provided by engineer. */
+"Subscribe" = "Subscribe";
+
+/* No comment provided by engineer. */
+"Subscribe monthly for %@. Cancel anytime." = "Subscribe monthly for %@. Cancel anytime.";
+
+/* No comment provided by engineer. */
 "Subscribe to Photomator" = "Subscribe to Photomator";
 
 /* No comment provided by engineer. */
 "Subscribe to Pixelmator Photo" = "Subscribe to Pixelmator Photo";
+
+/* No comment provided by engineer. */
+"Subscribe yearly for %@. Cancel anytime." = "Subscribe yearly for %@. Cancel anytime.";
 
 /* No comment provided by engineer. */
 "Subtract" = "Subtract";
@@ -3693,7 +3636,7 @@
 "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different.";
 
 /* No comment provided by engineer. */
-"Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file." = "Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file.";
+"Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space." = "Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space.";
 
 /* No comment provided by engineer. */
 "That covers the basics – you’re ready to start editing your photos!" = "That covers the basics – you’re ready to start editing your photos!";
@@ -3721,6 +3664,9 @@
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos.";
+
+/* No comment provided by engineer. */
+"The filmstrip is unavailable for this folder." = "The filmstrip is unavailable for this folder.";
 
 /* No comment provided by engineer. */
 "The folder of the image could not be found." = "The folder of the image could not be found.";
@@ -3915,9 +3861,6 @@
 "To reveal filmstrip, give access to the image’s root folder by selecting the folder and tapping Open." = "To reveal filmstrip, give access to the image’s root folder by selecting the folder and tapping Open.";
 
 /* No comment provided by engineer. */
-"To reveal filmstrip, touch and hold a folder, then choose Edit with Filmstrip." = "To reveal filmstrip, touch and hold a folder, then choose Edit with Filmstrip.";
-
-/* No comment provided by engineer. */
 "To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)";
 
 /* No comment provided by engineer. */
@@ -3966,7 +3909,7 @@
 "Try Again" = "Try Again";
 
 /* No comment provided by engineer. */
-"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, and iPhone." = "Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, and iPhone.";
+"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro." = "Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro.";
 
 /* Tool */
 "Twirl" = "Twirl";
@@ -3976,6 +3919,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Access" = "Unable to Access";
+
+/* No comment provided by engineer. */
+"Unable to Access Folder" = "Unable to Access Folder";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "Unable to Access Help";
@@ -4062,7 +4008,7 @@
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode.";
 
 /* No comment provided by engineer. */
-"Unlock Photomator on Mac, iPad, and iPhone with a single license." = "Unlock Photomator on Mac, iPad, and iPhone with a single license.";
+"Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license." = "Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license.";
 
 /* %@ stands for non-breaking space */
 "Unlock Photomator%@for%@Mac" = "Unlock Photomator%1$@for%2$@Mac";
@@ -4108,9 +4054,6 @@
 
 /* No comment provided by engineer. */
 "Upgrade" = "Upgrade";
-
-/* No comment provided by engineer. */
-"Upgrade to access the full image editing experience in Photomator." = "Upgrade to access the full image editing experience in Photomator.";
 
 /* The name of a 3D file format. */
 "USD" = "USD";
@@ -4206,6 +4149,9 @@
 "When exporting, apply text or image watermarks to protect your photos." = "When exporting, apply text or image watermarks to protect your photos.";
 
 /* No comment provided by engineer. */
+"When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals." = "When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals.";
+
+/* No comment provided by engineer. */
 "White" = "White";
 
 /* No comment provided by engineer. */
@@ -4237,9 +4183,6 @@
 
 /* No comment provided by engineer. */
 "Workflows" = "Workflows";
-
-/* No comment provided by engineer. */
-"Would you like to be notified before your free trial is about to end?" = "Would you like to be notified before your free trial is about to end?";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?";
@@ -4282,9 +4225,6 @@
 
 /* No comment provided by engineer. */
 "You're Offline" = "You're Offline";
-
-/* No comment provided by engineer. */
-"Your 7-day trial has started!" = "Your 7-day trial has started!";
 
 /* No comment provided by engineer. */
 "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!" = "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!";
