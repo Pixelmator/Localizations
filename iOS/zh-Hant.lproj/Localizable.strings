@@ -11,10 +11,10 @@
 "%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ 遇到了嚴重錯誤，可能原因為硬碟空間不足或作業系統錯誤。請嘗試釋放儲存空間或將 Mac 重新開機。";
 
 /* No comment provided by engineer. */
-"%@ OFF" = "%@折扣";
+"%@ mm" = "%@ 公釐";
 
-/* seconds */
-"%@s" = "%@s";
+/* No comment provided by engineer. */
+"%@ OFF" = "%@折扣";
 
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d 個檔案已經存在。是否要替換它們？";
@@ -102,6 +102,9 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "「%@」檔案夾裡已經有名稱相同的檔案或檔案夾。若選取取代，將會覆寫原有的內容。";
+
+/* No comment provided by engineer. */
+"A one-time purchase for %@." = "A one-time purchase for %@.";
 
 /* No comment provided by engineer. */
 "ACCENT COLOR" = "強調色";
@@ -564,9 +567,6 @@
 "Chromatic Aberration" = "色差";
 
 /* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "彩色雜訊跟蹤";
-
-/* No comment provided by engineer. */
 "Chromaticity X" = "色度 X";
 
 /* No comment provided by engineer. */
@@ -577,15 +577,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "清晰度";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "清晰度突出";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "清晰度中間調";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "清晰度陰影";
 
 /* No comment provided by engineer. */
 "Clear Guides" = "清除輔助線";
@@ -780,9 +771,6 @@
 "Custom" = "自訂";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "自訂 LUT";
-
-/* No comment provided by engineer. */
 "Custom Size" = "自定大小";
 
 /* No comment provided by engineer. */
@@ -848,9 +836,6 @@
 
 /* No comment provided by engineer. */
 "Default Baseline" = "預設基線";
-
-/* No comment provided by engineer. */
-"Dehaze" = "除霾";
 
 /* Edit Menu */
 "Delete" = "刪除";
@@ -925,9 +910,6 @@
 /* No comment provided by engineer. */
 "Destination Over" = "新圖於舊圖之下";
 
-/* No comment provided by engineer. */
-"Detail" = "詳細資料";
-
 /* Edit Menu */
 "Details" = "詳細資訊";
 
@@ -983,6 +965,9 @@
 "Display HDR Content" = "顯示 HDR 內容";
 
 /* No comment provided by engineer. */
+"Display P3" = "顯示 P3";
+
+/* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "以字母順序顯示所有相簿，包含資料夾中的相簿。";
 
 /* No comment provided by engineer. */
@@ -1032,9 +1017,6 @@
 
 /* No comment provided by engineer. */
 "Document Quick Save for Web" = "Web 文件快速儲存";
-
-/* No comment provided by engineer. */
-"Don't limit yourself" = "不要限制自己";
 
 /* No comment provided by engineer. */
 "Don't Move" = "不移動";
@@ -1163,6 +1145,9 @@
 "Edit RAW" = "編輯 RAW";
 
 /* No comment provided by engineer. */
+"Edit Size Optimizations" = "Edit Size Optimizations";
+
+/* No comment provided by engineer. */
 "Edit specific areas of photos" = "編輯照片特定區域";
 
 /* No comment provided by engineer. */
@@ -1209,9 +1194,6 @@
 "Elliptical Selection" = "橢圓選取";
 
 /* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "橢圓對話泡泡";
-
-/* No comment provided by engineer. */
 "Empty Album" = "空相簿";
 
 /* No comment provided by engineer. */
@@ -1225,9 +1207,6 @@
 
 /* No comment provided by engineer. */
 "Enable %@" = "啟用 %@";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "啟用 EDR";
 
 /* Edit Menu */
 "Enable New Preset Creation" = "允許新預設組建立";
@@ -1294,6 +1273,9 @@
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "邏輯互斥或";
+
+/* No comment provided by engineer. */
+"Existing Profile in Image" = "圖像中現有的色彩描述檔";
 
 /* No comment provided by engineer. */
 "Exit Editing" = "退出編輯";
@@ -1398,6 +1380,9 @@
 "Feature Unavailable" = "無法使用功能";
 
 /* No comment provided by engineer. */
+"File Browser Improvements" = "File Browser Improvements";
+
+/* No comment provided by engineer. */
 "File Unavailable" = "無法使用檔案";
 
 /* No comment provided by engineer. */
@@ -1423,9 +1408,6 @@
 
 /* No comment provided by engineer. */
 "Filmstrip" = "幻燈片";
-
-/* No comment provided by engineer. */
-"Filmstrip Unavailable" = "無法使用幻燈片";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "完成繪圖";
@@ -1500,7 +1482,10 @@
 "Generator" = "產生器";
 
 /* No comment provided by engineer. */
-"Get 50% off the first year of the annual Pixelmator Photo subscription with this limited-time offer." = "透過此限時優惠獲得 Pixelmator Photo 首年訂閱五折優惠。";
+"Get %@ off for one year" = "Get %@ off for one year";
+
+/* No comment provided by engineer. */
+"Get %@ off the lifetime license" = "Get %@ off the lifetime license";
 
 /* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "快速瀏覽可以修補、增強或完全改變照片的工具。";
@@ -1651,9 +1636,6 @@
 "Histogram" = "長條圖";
 
 /* No comment provided by engineer. */
-"Holiday Sale" = "佳節促銷";
-
-/* No comment provided by engineer. */
 "Horizontal Alignment" = "水平對齊";
 
 /* Perspective transform */
@@ -1743,9 +1725,6 @@
 
 /* No comment provided by engineer. */
 "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default." = "預設於 RAW+JPEG 或 RAW+HEIC 搭配下，先開啟 RAW 照片。";
-
-/* No comment provided by engineer. */
-"In the Files browser, effortlessly browse photos using the new filmstrip." = "在檔案瀏覽器中，使用新的幻燈片輕鬆瀏覽照片。";
 
 /* Units */
 "Inches" = "英吋";
@@ -1865,9 +1844,6 @@
 "Layer" = "圖層";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "圖層遮罩";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "圖層選擇";
 
 /* No comment provided by engineer. */
@@ -1924,9 +1900,6 @@
 
 /* No comment provided by engineer. */
 "Lighter Color" = "顏色變亮";
-
-/* No comment provided by engineer. */
-"Lightness" = "明暗度";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "亮度分散";
@@ -2286,12 +2259,6 @@
 "No Subscription Found" = "找不到訂閱";
 
 /* No comment provided by engineer. */
-"No thanks" = "不，謝謝";
-
-/* No comment provided by engineer. */
-"Noise Reduction" = "雜點消除";
-
-/* No comment provided by engineer. */
 "Nondestructively preserve edits in a linked Photomator file." = "無損地將編輯內容保存至連接的 Photomator 檔案。";
 
 /* Tool */
@@ -2314,9 +2281,6 @@
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "圖像上曲線";
-
-/* No comment provided by engineer. */
-"One license for Mac, iPad, and iPhone." = "一份許可證，於 Mac、iPad 和 iPhone 皆可使用。";
 
 /* No comment provided by engineer. */
 "One or more LUTs may be damaged or not supported." = "一個或多個 LUT 已損毀或不支援。";
@@ -2399,6 +2363,9 @@
 /* No comment provided by engineer. */
 "Overwrite" = "覆蓋";
 
+/* Short for PHOTO Image format */
+"P" = "P";
+
 /* Tool */
 "Paint" = "繪製";
 
@@ -2457,6 +2424,9 @@
 "Perspective Transform" = "透視轉換";
 
 /* No comment provided by engineer. */
+"PHOTO" = "PHOTO";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -2479,9 +2449,6 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomator 說明";
-
-/* No comment provided by engineer. */
-"Photomator is on sale" = "Photomator正在特賣";
 
 /* Native iOS Photos app name */
 "Photos" = "照片";
@@ -2586,9 +2553,6 @@
 "Preserve Edits and Original" = "保留編輯內容與原始照片";
 
 /* No comment provided by engineer. */
-"Preserve nondestructive edits in a separate sidecar file." = "將無損編輯內容保留在一個分開的邊車檔案中。";
-
-/* No comment provided by engineer. */
 "Preserve transparency" = "保留透明度";
 
 /* No comment provided by engineer. */
@@ -2675,6 +2639,9 @@
 /* No comment provided by engineer. */
 "Quit Application" = "結束應用程式";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
@@ -2744,13 +2711,7 @@
 "Redeem Code" = "兌換代碼";
 
 /* No comment provided by engineer. */
-"Redeem offer" = "兌換優惠";
-
-/* No comment provided by engineer. */
 "Redeem Offer" = "兌換優惠";
-
-/* No comment provided by engineer. */
-"Redeem special offer" = "兌換特別優惠";
 
 /* Edit Menu */
 "Redefine" = "重新定義";
@@ -2790,9 +2751,6 @@
 
 /* No comment provided by engineer. */
 "Reloading…" = "正在重新載入…";
-
-/* No comment provided by engineer. */
-"Remind me" = "提醒我";
 
 /* No comment provided by engineer. */
 "Remove" = "移除";
@@ -3094,22 +3052,7 @@
 "Save Changes" = "儲存更改內容";
 
 /* No comment provided by engineer. */
-"Save changes to the original files you open, overwriting them." = "將更改內容儲存至所開啟的原始檔案中，覆寫原件內容。";
-
-/* No comment provided by engineer. */
 "Save Copy to Photos" = "將副本儲存到「照片」";
-
-/* No comment provided by engineer. */
-"Save image" = "儲存影像";
-
-/* No comment provided by engineer. */
-"Save image (1 remaining)" = "儲存影像（剩下 1 個）";
-
-/* No comment provided by engineer. */
-"Save image (2 remaining)" = "儲存影像（剩下 2 個）";
-
-/* No comment provided by engineer. */
-"Save image (3 remaining)" = "儲存影像（剩下 3 個）";
 
 /* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
 "Save layers and edits to a sidecar file" = "將圖層與編輯過程儲存至邊車檔案";
@@ -3161,9 +3104,6 @@
 
 /* No comment provided by engineer. */
 "See All" = "查看全部";
-
-/* No comment provided by engineer. */
-"See More Plans" = "查看更多方案";
 
 /* No comment provided by engineer. */
 "Select" = "選取";
@@ -3529,6 +3469,9 @@
 /* No comment provided by engineer. */
 "Square" = "正方形";
 
+/* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
 /* Tool */
 "Star" = "星";
 
@@ -3560,9 +3503,6 @@
 "Status Bar" = "狀態列";
 
 /* No comment provided by engineer. */
-"Storage Improvements" = "儲存改進";
-
-/* No comment provided by engineer. */
 "Store Edits in iCloud" = "將編輯存儲在 iCloud";
 
 /* Tool */
@@ -3579,12 +3519,6 @@
 
 /* No comment provided by engineer. */
 "Stroke" = "線條";
-
-/* No comment provided by engineer. */
-"Stroke Position" = "筆畫位置";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "筆畫類型";
 
 /* No comment provided by engineer. */
 "Stroke Width" = "筆畫寬度";
@@ -3608,10 +3542,19 @@
 "Subject Mask" = "主遮罩";
 
 /* No comment provided by engineer. */
+"Subscribe" = "Subscribe";
+
+/* No comment provided by engineer. */
+"Subscribe monthly for %@. Cancel anytime." = "Subscribe monthly for %@. Cancel anytime.";
+
+/* No comment provided by engineer. */
 "Subscribe to Photomator" = "訂用 Photomator";
 
 /* No comment provided by engineer. */
 "Subscribe to Pixelmator Photo" = "訂閱 Pixelmator Photo";
+
+/* No comment provided by engineer. */
+"Subscribe yearly for %@. Cancel anytime." = "Subscribe yearly for %@. Cancel anytime.";
 
 /* No comment provided by engineer. */
 "Subtract" = "減去";
@@ -3693,7 +3636,7 @@
 "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "無法使用 LUT 重新建立考慮紋理特徵的調整，因此匯出的 LUT 看起來可能會不相同。";
 
 /* No comment provided by engineer. */
-"Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file." = "得力於 Photomator 中改進的邊車檔案儲存，您的編輯將佔用較少的儲存空間，並且在檔案中編輯時，保留原始檔案，並將編輯儲存為分開的檔案。";
+"Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space." = "Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space.";
 
 /* No comment provided by engineer. */
 "That covers the basics – you’re ready to start editing your photos!" = "基礎操作大致上就是這樣，歡迎開始編輯你的照片！";
@@ -3721,6 +3664,9 @@
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "檔案瀏覽器可讓您瀏覽您的裝置上的所有文件。要切換至照片瀏覽器，請點按 %@ 圖示並在瀏覽器選單中選擇照片。";
+
+/* No comment provided by engineer. */
+"The filmstrip is unavailable for this folder." = "The filmstrip is unavailable for this folder.";
 
 /* No comment provided by engineer. */
 "The folder of the image could not be found." = "找不到這個圖像的資料夾。";
@@ -3915,9 +3861,6 @@
 "To reveal filmstrip, give access to the image’s root folder by selecting the folder and tapping Open." = "若要顯示幻燈片，請透過選擇資料夾並點按開啟以給予存取圖像根資料夾的權限。";
 
 /* No comment provided by engineer. */
-"To reveal filmstrip, touch and hold a folder, then choose Edit with Filmstrip." = "若要顯示幻燈片，請點按並按住資料夾，然後選擇以幻燈片編輯。";
-
-/* No comment provided by engineer. */
 "To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "使用這項功能需要購買或訂用 Photomator，但嘗試顯示購買畫面時發生了問題。如果問題持續發生，請聯絡我們，我們會竭力幫忙。（錯誤代碼：%i）";
 
 /* No comment provided by engineer. */
@@ -3966,7 +3909,7 @@
 "Try Again" = "再試一次";
 
 /* No comment provided by engineer. */
-"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, and iPhone." = "利用可於 Mac、iPad 和 iPhone 上使用的整套超強照片編輯工具，將「不錯看」的照片變成令人驚艷的精彩攝影作品。";
+"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro." = "Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro.";
 
 /* Tool */
 "Twirl" = "旋轉";
@@ -3976,6 +3919,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Access" = "無法存取";
+
+/* No comment provided by engineer. */
+"Unable to Access Folder" = "Unable to Access Folder";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "無法訪問輔助說明";
@@ -4062,7 +4008,7 @@
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "使用全新的擴展動態範圍模式解鎖新的 RAW 編輯工作流程。";
 
 /* No comment provided by engineer. */
-"Unlock Photomator on Mac, iPad, and iPhone with a single license." = "以單一許可證解鎖 Mac、iPad 和 iPhone 版 Photomator。";
+"Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license." = "Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license.";
 
 /* %@ stands for non-breaking space */
 "Unlock Photomator%@for%@Mac" = "解鎖 Mac%1$@版%2$@Photomator";
@@ -4108,9 +4054,6 @@
 
 /* No comment provided by engineer. */
 "Upgrade" = "升級";
-
-/* No comment provided by engineer. */
-"Upgrade to access the full image editing experience in Photomator." = "升級以使用 Photomator 完整的圖像編輯功能。";
 
 /* The name of a 3D file format. */
 "USD" = "USD";
@@ -4206,6 +4149,9 @@
 "When exporting, apply text or image watermarks to protect your photos." = "匯出時，套用文字或圖像浮水印來保護您的照片。";
 
 /* No comment provided by engineer. */
+"When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals." = "When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals.";
+
+/* No comment provided by engineer. */
 "White" = "白色";
 
 /* No comment provided by engineer. */
@@ -4237,9 +4183,6 @@
 
 /* No comment provided by engineer. */
 "Workflows" = "工作流程";
-
-/* No comment provided by engineer. */
-"Would you like to be notified before your free trial is about to end?" = "你想在免費試用期快結束時收到通知嗎？";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "是否將更改儲存到原始的 JPEG/PNG/TIFF 檔或 Pixelmator Pro 檔案？";
@@ -4282,9 +4225,6 @@
 
 /* No comment provided by engineer. */
 "You're Offline" = "您處於離線狀態";
-
-/* No comment provided by engineer. */
-"Your 7-day trial has started!" = "你的 7 天免費試用期開始了！";
 
 /* No comment provided by engineer. */
 "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!" = "您的免費試用期將於 2 天後結束。請編輯幾張照片，全面探索 Photomator 的功能！";
