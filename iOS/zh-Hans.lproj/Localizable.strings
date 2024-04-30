@@ -41,10 +41,10 @@
 "%i Images Selected" = "%i 张图像已选定";
 
 /* No comment provided by engineer. */
-"%i Layers" = "%i 图层";
+"%i of %i Edits Used" = "已使用%2$i之%1$i编辑";
 
 /* No comment provided by engineer. */
-"%i of %i Edits Used" = "已使用%2$i之%1$i编辑";
+"%i Selected Layers" = "%i Selected Layers";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i 则技巧";
@@ -86,9 +86,6 @@
 "1 tip" = "1 则技巧";
 
 /* No comment provided by engineer. */
-"1 year %@, then %@/year. Cancel anytime." = "一年%1$@，然后%2$@/年。随时取消。";
-
-/* No comment provided by engineer. */
 "16 Bits/Channel" = "16位/通道";
 
 /* No comment provided by engineer. */
@@ -102,9 +99,6 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "文件夹“%@”中已有相同名称的文件或文件夹。替换它将覆盖其当前内容。";
-
-/* No comment provided by engineer. */
-"A one-time purchase for %@." = "A one-time purchase for %@.";
 
 /* No comment provided by engineer. */
 "ACCENT COLOR" = "强调色";
@@ -379,6 +373,9 @@
 
 /* No comment provided by engineer. */
 "Background Layer" = "背景图层";
+
+/* No comment provided by engineer. */
+"Background Mask" = "Background Mask";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "平衡调整";
@@ -702,6 +699,9 @@
 
 /* Layer Management */
 "Copy Layer" = "复制图层";
+
+/* No comment provided by engineer. */
+"Copy Mask" = "拷贝蒙版";
 
 /* No comment provided by engineer. */
 "Copy Merged" = "复制合并";
@@ -1185,13 +1185,7 @@
 "Effortlessly remove anything from small blemishes to entire objects from photos." = "轻松去除图片中的小瑕疵或整个对象。";
 
 /* Tool */
-"Ellipse" = "椭圆";
-
-/* Tool */
 "Elliptical" = "椭圆形";
-
-/* No comment provided by engineer. */
-"Elliptical Selection" = "椭圆选择";
 
 /* No comment provided by engineer. */
 "Empty Album" = "空相簿";
@@ -1485,9 +1479,6 @@
 "Get %@ off for one year" = "Get %@ off for one year";
 
 /* No comment provided by engineer. */
-"Get %@ off the lifetime license" = "Get %@ off the lifetime license";
-
-/* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "快速了解可用于修饰、增强或彻底改变照片外观的工具。";
 
 /* No comment provided by engineer. */
@@ -1607,6 +1598,9 @@
 
 /* Edit Menu */
 "Hide" = "隐藏";
+
+/* No comment provided by engineer. */
+"Hide Background" = "Hide Background";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "隐藏网格";
@@ -1874,6 +1868,9 @@
 "License" = "订阅证书";
 
 /* No comment provided by engineer. */
+"Lifetime access for just %@" = "Lifetime access for just %@";
+
+/* No comment provided by engineer. */
 "Ligature" = "连字";
 
 /* No comment provided by engineer. */
@@ -2036,6 +2033,9 @@
 /* No comment provided by engineer. */
 "Mask Subject" = "蒙版主体";
 
+/* No comment provided by engineer. */
+"Masks" = "蒙版";
+
 /* Color Balance */
 "Master" = "主色";
 
@@ -2068,6 +2068,9 @@
 
 /* No comment provided by engineer. */
 "Merge brush marks" = "合并画笔标记";
+
+/* No comment provided by engineer. */
+"Merge Masks" = "Merge Masks";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "合并形状组件";
@@ -2286,6 +2289,12 @@
 "One or more LUTs may be damaged or not supported." = "一个或多个 LUT 已损坏或不支持。";
 
 /* No comment provided by engineer. */
+"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"One-time payment of %@." = "One-time payment of %@.";
+
+/* No comment provided by engineer. */
 "Opacity" = "不透明度";
 
 /* No comment provided by engineer. */
@@ -2354,8 +2363,11 @@
 /* No comment provided by engineer. */
 "Outline" = "外框";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Oval" = "椭圆";
+
+/* No comment provided by engineer. */
+"Oval Selection" = "Oval Selection";
 
 /* No comment provided by engineer. */
 "Overlay" = "叠层";
@@ -3163,6 +3175,9 @@
 "Selected Color" = "选定颜色";
 
 /* No comment provided by engineer. */
+"Selected Layer" = "Selected Layer";
+
+/* No comment provided by engineer. */
 "Selected layer is hidden, reveal it to edit." = "选定的图层被隐藏，显示图层才可编辑。";
 
 /* No comment provided by engineer. */
@@ -3227,6 +3242,9 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "形状方向";
+
+/* No comment provided by engineer. */
+"Shape Mask" = "Shape Mask";
 
 /* Edit Menu */
 "Share" = "共享";
