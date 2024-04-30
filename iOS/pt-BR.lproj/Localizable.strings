@@ -41,10 +41,10 @@
 "%i Images Selected" = "%i imagens selecionadas";
 
 /* No comment provided by engineer. */
-"%i Layers" = "%i camadas";
+"%i of %i Edits Used" = "%1$i de %2$i Edições Usadas";
 
 /* No comment provided by engineer. */
-"%i of %i Edits Used" = "%1$i de %2$i Edições Usadas";
+"%i Selected Layers" = "%i Selected Layers";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i dicas";
@@ -86,9 +86,6 @@
 "1 tip" = "1 dica";
 
 /* No comment provided by engineer. */
-"1 year %@, then %@/year. Cancel anytime." = "1 ano %1$@, depois %2$@/ano. Cancele quando quiser.";
-
-/* No comment provided by engineer. */
 "16 Bits/Channel" = "16 bits/canal";
 
 /* No comment provided by engineer. */
@@ -102,9 +99,6 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Já existe um arquivo ou uma pasta com o mesmo nome na pasta %@. Se substituir, todo o conteúdo atual será perdido.";
-
-/* No comment provided by engineer. */
-"A one-time purchase for %@." = "A one-time purchase for %@.";
 
 /* No comment provided by engineer. */
 "ACCENT COLOR" = "CORES ACENTUADAS";
@@ -379,6 +373,9 @@
 
 /* No comment provided by engineer. */
 "Background Layer" = "Camada de fundo";
+
+/* No comment provided by engineer. */
+"Background Mask" = "Background Mask";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "Ajuste de fundo";
@@ -702,6 +699,9 @@
 
 /* Layer Management */
 "Copy Layer" = "Copiar camada";
+
+/* No comment provided by engineer. */
+"Copy Mask" = "Copiar máscara";
 
 /* No comment provided by engineer. */
 "Copy Merged" = "Cópia mesclada";
@@ -1186,13 +1186,7 @@
 a objetos inteiros.";
 
 /* Tool */
-"Ellipse" = "Elipse";
-
-/* Tool */
 "Elliptical" = "Elíptico";
-
-/* No comment provided by engineer. */
-"Elliptical Selection" = "Seleção elíptica";
 
 /* No comment provided by engineer. */
 "Empty Album" = "Álbum vazio";
@@ -1486,9 +1480,6 @@ a objetos inteiros.";
 "Get %@ off for one year" = "Get %@ off for one year";
 
 /* No comment provided by engineer. */
-"Get %@ off the lifetime license" = "Get %@ off the lifetime license";
-
-/* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Tenha uma visão rápida das ferramentas que você pode utilizar para retocar, realçar ou transformar completamente a aparência das suas fotos.";
 
 /* No comment provided by engineer. */
@@ -1608,6 +1599,9 @@ a objetos inteiros.";
 
 /* Edit Menu */
 "Hide" = "Ocultar";
+
+/* No comment provided by engineer. */
+"Hide Background" = "Hide Background";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "Ocultar grade";
@@ -1875,6 +1869,9 @@ a objetos inteiros.";
 "License" = "Licença";
 
 /* No comment provided by engineer. */
+"Lifetime access for just %@" = "Lifetime access for just %@";
+
+/* No comment provided by engineer. */
 "Ligature" = "Ligadura";
 
 /* No comment provided by engineer. */
@@ -2038,6 +2035,9 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Mask Subject" = "Mascarar assunto";
 
+/* No comment provided by engineer. */
+"Masks" = "Máscaras";
+
 /* Color Balance */
 "Master" = "Principal";
 
@@ -2070,6 +2070,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Merge brush marks" = "Mesclar marcas de pincel";
+
+/* No comment provided by engineer. */
+"Merge Masks" = "Merge Masks";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "Mesclar componentes de forma";
@@ -2288,6 +2291,12 @@ Poderosos e não destrutivos.";
 "One or more LUTs may be damaged or not supported." = "Um ou mais LUTs podem estar danificados, ou não são compatíveis.";
 
 /* No comment provided by engineer. */
+"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"One-time payment of %@." = "One-time payment of %@.";
+
+/* No comment provided by engineer. */
 "Opacity" = "Opacidade";
 
 /* No comment provided by engineer. */
@@ -2356,8 +2365,11 @@ Poderosos e não destrutivos.";
 /* No comment provided by engineer. */
 "Outline" = "Contorno";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Oval" = "Oval";
+
+/* No comment provided by engineer. */
+"Oval Selection" = "Oval Selection";
 
 /* No comment provided by engineer. */
 "Overlay" = "Sobreposição";
@@ -3165,6 +3177,9 @@ Poderosos e não destrutivos.";
 "Selected Color" = "Cor selecionada";
 
 /* No comment provided by engineer. */
+"Selected Layer" = "Selected Layer";
+
+/* No comment provided by engineer. */
 "Selected layer is hidden, reveal it to edit." = "A camada selecionada está oculta. Revele-a para editar.";
 
 /* No comment provided by engineer. */
@@ -3229,6 +3244,9 @@ Poderosos e não destrutivos.";
 
 /* No comment provided by engineer. */
 "Shape Direction" = "Direção da forma";
+
+/* No comment provided by engineer. */
+"Shape Mask" = "Shape Mask";
 
 /* Edit Menu */
 "Share" = "Compartilhar";
