@@ -271,6 +271,9 @@
 /* Class = "NSMenuItem"; title = "Overlays"; ObjectID = "9jA-kG-WDH"; */
 "9jA-kG-WDH.title" = "오버레이";
 
+/* Class = "NSMenu"; title = "Mask With Shape"; ObjectID = "AEN-dQ-tm0"; */
+"AEN-dQ-tm0.title" = "Mask With Shape";
+
 /* Class = "NSMenuItem"; title = "Rotate 90° Left"; ObjectID = "AGj-Ab-yUy"; */
 "AGj-Ab-yUy.title" = "왼쪽으로 90° 회전";
 
@@ -294,6 +297,9 @@
 
 /* Class = "NSMenu"; title = "Placeholder Options"; ObjectID = "Axl-hq-UH9"; */
 "Axl-hq-UH9.title" = "위치 지정자 옵션";
+
+/* Class = "NSMenuItem"; title = "Merge Masks"; ObjectID = "BL5-gv-PEh"; */
+"BL5-gv-PEh.title" = "Merge Masks";
 
 /* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "BOF-NM-1cW"; */
 "BOF-NM-1cW.title" = "설정…";
@@ -352,8 +358,8 @@
 /* Class = "NSMenu"; title = "Arrange"; ObjectID = "D2d-g4-MTd"; */
 "D2d-g4-MTd.title" = "정렬";
 
-/* Class = "NSMenuItem"; title = "Elliptical Selection"; ObjectID = "DH5-N4-poC"; */
-"DH5-N4-poC.title" = "타원형 선택";
+/* Class = "NSMenuItem"; title = "Oval Selection"; ObjectID = "DH5-N4-poC"; */
+"DH5-N4-poC.title" = "Oval Selection";
 
 /* Class = "NSMenuItem"; title = "Subscribe to Newsletter"; ObjectID = "DI4-Qi-1qm"; */
 "DI4-Qi-1qm.title" = "뉴스레터 구독";
@@ -391,8 +397,8 @@
 /* Class = "NSMenuItem"; title = "All Caps"; ObjectID = "F3t-0F-u03"; */
 "F3t-0F-u03.title" = "모두 대문자로";
 
-/* Class = "NSMenuItem"; title = "Ellipse"; ObjectID = "F5v-GH-nxA"; */
-"F5v-GH-nxA.title" = "타원";
+/* Class = "NSMenuItem"; title = "Oval"; ObjectID = "F5v-GH-nxA"; */
+"F5v-GH-nxA.title" = "타원형";
 
 /* Class = "NSMenu"; title = "RAW"; ObjectID = "F9I-rZ-Gs2"; */
 "F9I-rZ-Gs2.title" = "RAW";
@@ -496,8 +502,11 @@
 /* Class = "NSMenu"; title = "Canvas Rotation"; ObjectID = "JQZ-H1-7Re"; */
 "JQZ-H1-7Re.title" = "캔버스 회전";
 
-/* Class = "NSMenuItem"; title = "Create Clipping Mask"; ObjectID = "Jeq-ij-5A2"; */
-"Jeq-ij-5A2.title" = "클리핑 마스크 생성";
+/* Class = "NSMenuItem"; title = "Hide Background"; ObjectID = "Jeq-ij-5A2"; */
+"Jeq-ij-5A2.title" = "Hide Background";
+
+/* Class = "NSMenuItem"; title = "Rounded Rectangle"; ObjectID = "JfB-uj-Dcg"; */
+"JfB-uj-Dcg.title" = "모서리가 둥근 사각형";
 
 /* Class = "NSMenuItem"; title = "Add Reveal All Mask"; ObjectID = "JhP-q4-GU6"; */
 "JhP-q4-GU6.title" = "모든 마스크 나타내기 추가";
@@ -523,8 +532,8 @@
 /* Class = "NSMenuItem"; title = "Flip Vertically"; ObjectID = "KhV-S5-v7F"; */
 "KhV-S5-v7F.title" = "상하로 뒤집기";
 
-/* Class = "NSMenuItem"; title = "Choose Mask…"; ObjectID = "Klp-p2-PvD"; */
-"Klp-p2-PvD.title" = "마스크 선택…";
+/* Class = "NSMenuItem"; title = "Choose Image Mask…"; ObjectID = "Klp-p2-PvD"; */
+"Klp-p2-PvD.title" = "Choose Image Mask…";
 
 /* Class = "NSMenuItem"; title = "Select Color Range…"; ObjectID = "Kx2-fO-fqY"; */
 "Kx2-fO-fqY.title" = "색상 범위 선택…";
@@ -673,6 +682,9 @@
 /* Class = "NSMenuItem"; title = "Pixel Paint"; ObjectID = "RI7-AU-L0M"; */
 "RI7-AU-L0M.title" = "픽셀 페인트";
 
+/* Class = "NSMenuItem"; title = "Polygon"; ObjectID = "RL1-rn-Znj"; */
+"RL1-rn-Znj.title" = "다각형";
+
 /* Class = "NSMenuItem"; title = "Customize Tools…"; ObjectID = "RWu-Hb-tzH"; */
 "RWu-Hb-tzH.title" = "도구 사용자화…";
 
@@ -750,6 +762,9 @@
 
 /* Class = "NSMenuItem"; title = "Always Hide Controls"; ObjectID = "VK1-0L-iAh"; */
 "VK1-0L-iAh.title" = "컨트롤 항상 숨기기";
+
+/* Class = "NSMenuItem"; title = "Oval"; ObjectID = "VRN-qz-EzU"; */
+"VRN-qz-EzU.title" = "타원형";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
 "Vdr-fp-XzO.title" = "기타 가리기";
@@ -889,6 +904,9 @@
 /* Class = "NSMenuItem"; title = "Pixelmator Pro Beta Feedback"; ObjectID = "bBe-7o-dAf"; */
 "bBe-7o-dAf.title" = "Pixelmator Pro 베타 피드백";
 
+/* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "bUA-6f-bBU"; */
+"bUA-6f-bBU.title" = "사각형";
+
 /* Class = "NSMenuItem"; title = "Styles"; ObjectID = "bZJ-Ya-HDP"; */
 "bZJ-Ya-HDP.title" = "스타일";
 
@@ -925,11 +943,17 @@
 /* Class = "NSMenuItem"; title = "Replace Fonts…"; ObjectID = "cQi-Sq-wvv"; */
 "cQi-Sq-wvv.title" = "글꼴 대체…";
 
-/* Class = "NSMenuItem"; title = "Draw with Pen"; ObjectID = "cSs-nI-2jG"; */
-"cSs-nI-2jG.title" = "펜으로 그리기";
+/* Class = "NSMenuItem"; title = "Draw With Pen"; ObjectID = "cSs-nI-2jG"; */
+"cSs-nI-2jG.title" = "Draw With Pen";
 
 /* Class = "NSMenuItem"; title = "Mask"; ObjectID = "cXJ-VF-nAR"; */
 "cXJ-VF-nAR.title" = "마스크";
+
+/* Class = "NSMenuItem"; title = "Draw With Freeform Pen"; ObjectID = "ceO-l7-BWG"; */
+"ceO-l7-BWG.title" = "Draw With Freeform Pen";
+
+/* Class = "NSMenuItem"; title = "Draw With Pen"; ObjectID = "ch1-7A-mFz"; */
+"ch1-7A-mFz.title" = "Draw With Pen";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "cny-IY-nmD"; */
 "cny-IY-nmD.title" = "전체 선택";
@@ -1081,6 +1105,9 @@
 /* Class = "NSMenuItem"; title = "Subtract Shapes"; ObjectID = "j32-iS-oFh"; */
 "j32-iS-oFh.title" = "도형 빼기";
 
+/* Class = "NSMenuItem"; title = "Mask With Shape"; ObjectID = "jCy-Xd-9Zz"; */
+"jCy-Xd-9Zz.title" = "Mask With Shape";
+
 /* Class = "NSMenuItem"; title = "Reset Effects"; ObjectID = "jDY-3P-HXk"; */
 "jDY-3P-HXk.title" = "효과 재설정";
 
@@ -1171,11 +1198,17 @@
 /* Class = "NSMenuItem"; title = "Workspace Settings…"; ObjectID = "naJ-a6-hbY"; */
 "naJ-a6-hbY.title" = "작업 공간 설정…";
 
+/* Class = "NSMenuItem"; title = "Replace Shape Mask…"; ObjectID = "nla-hp-Qmx"; */
+"nla-hp-Qmx.title" = "Replace Shape Mask…";
+
 /* Class = "NSMenuItem"; title = "Lock Guides"; ObjectID = "oGZ-tA-Ua4"; */
 "oGZ-tA-Ua4.title" = "안내선 잠금";
 
 /* Class = "NSMenuItem"; title = "Photos or Videos…"; ObjectID = "oIH-vg-NIW"; */
 "oIH-vg-NIW.title" = "사진 또는 비디오…";
+
+/* Class = "NSMenuItem"; title = "Create Clipping Mask"; ObjectID = "oNs-Kw-nID"; */
+"oNs-Kw-nID.title" = "클리핑 마스크 생성";
 
 /* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
 "oas-Oc-fiZ.title" = "최근 사용 열기";
@@ -1219,11 +1252,14 @@
 /* Class = "NSMenuItem"; title = "Select Subject"; ObjectID = "rzf-zw-mBE"; */
 "rzf-zw-mBE.title" = "대상 선택";
 
-/* Class = "NSMenuItem"; title = "Ellipse"; ObjectID = "s2R-tT-p7Q"; */
-"s2R-tT-p7Q.title" = "타원";
+/* Class = "NSMenuItem"; title = "Oval"; ObjectID = "s2R-tT-p7Q"; */
+"s2R-tT-p7Q.title" = "타원형";
 
 /* Class = "NSMenuItem"; title = "Stroke with Brush…"; ObjectID = "s2x-JF-oIf"; */
 "s2x-JF-oIf.title" = "브러시로 스트로크…";
+
+/* Class = "NSMenuItem"; title = "Custom Shape…"; ObjectID = "sQZ-6F-0pw"; */
+"sQZ-6F-0pw.title" = "사용자 지정 도형…";
 
 /* Class = "NSMenuItem"; title = "180°"; ObjectID = "sVO-a7-AuP"; */
 "sVO-a7-AuP.title" = "180°";
@@ -1233,6 +1269,9 @@
 
 /* Class = "NSMenuItem"; title = "Notes"; ObjectID = "spb-SQ-OzZ"; */
 "spb-SQ-OzZ.title" = "메모";
+
+/* Class = "NSMenuItem"; title = "Star"; ObjectID = "t0D-p9-jaF"; */
+"t0D-p9-jaF.title" = "별";
 
 /* Class = "NSMenuItem"; title = "Split Comparison"; ObjectID = "tOh-jX-90s"; */
 "tOh-jX-90s.title" = "분할 비교";
