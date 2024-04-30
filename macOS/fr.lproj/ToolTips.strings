@@ -5,6 +5,9 @@
 "A more or less universal resizing algorithm, smooths out edges slightly." = "Un algorithme de redimensionnement plus ou moins universel, lisse les bords légèrement.";
 
 /* No comment provided by engineer. */
+"Add a mask to the selected layer." = "Add a mask to the selected layer.";
+
+/* No comment provided by engineer. */
 "Add an export format." = "Ajouter un format d’exportation.";
 
 /* No comment provided by engineer. */
@@ -185,6 +188,9 @@
 "Adjust how much to soften the edges of the Lighten tool brush." = "Ajustez le lissage des contours du pinceau de l’outil Éclaircir.";
 
 /* No comment provided by engineer. */
+"Adjust how much to soften the edges of the mask." = "Adjust how much to soften the edges of the mask.";
+
+/* No comment provided by engineer. */
 "Adjust how much to soften the edges of the Saturate tool brush." = "Ajustez le lissage des contours du pinceau de l’outil Saturation.";
 
 /* No comment provided by engineer. */
@@ -257,13 +263,13 @@
 "Adjust the brightness of the selected color." = "Ajustez la luminosité de la couleur sélectionnée.";
 
 /* No comment provided by engineer. */
+"Adjust the brush settings." = "Adjust the brush settings.";
+
+/* No comment provided by engineer. */
 "Adjust the contrast between the lightest and darkest areas in the image." = "Ajustez le contraste entre les zones les plus claires et les plus sombres de l’image.";
 
 /* No comment provided by engineer. */
 "Adjust the contrast in the highlights of your black and white." = "Ajustez le contraste des tons clairs de votre noir et blanc.";
-
-/* No comment provided by engineer. */
-"Adjust the density of the mask." = "Réglez la densité du masque.";
 
 /* No comment provided by engineer. */
 "Adjust the dynamic range of the darkest areas in the image." = "Ajustez la plage dynamique des zones les plus sombres de l’image.";
@@ -300,6 +306,15 @@
 
 /* No comment provided by engineer. */
 "Adjust the intensity of the fade effect in the darkest areas of the image." = "Ajustez l’intensité de l’effet de décoloration dans les zones les plus sombres de l’image.";
+
+/* No comment provided by engineer. */
+"Adjust the mask settings." = "Adjust the mask settings.";
+
+/* No comment provided by engineer. */
+"Adjust the mask with additional controls." = "Adjust the mask with additional controls.";
+
+/* No comment provided by engineer. */
+"Adjust the masking effect strength. Higher density hides more, and lower density lets more details to pass through." = "Adjust the masking effect strength. Higher density hides more, and lower density lets more details to pass through.";
 
 /* No comment provided by engineer. */
 "Adjust the overall amount of light in the image." = "Ajustez la quantité totale de lumière dans l’image.";
@@ -444,9 +459,6 @@
 
 /* No comment provided by engineer. */
 "Adjust the softness of the gradient mask." = "Réglez la douceur du masque de dégradé.";
-
-/* No comment provided by engineer. */
-"Adjust the softness of the mask." = "Réglez la douceur du masque.";
 
 /* No comment provided by engineer. */
 "Adjust the spacing between each brush texture mark in your brushstroke." = "Ajustez l’espacement entre chaque marque de texture de votre coup de pinceau.";
@@ -623,6 +635,9 @@
 "Automatically enhance the photo." = "Améliorez automatiquement la photo.";
 
 /* No comment provided by engineer. */
+"Automatically hide the background around the subject in the selected layer." = "Automatically hide the background around the subject in the selected layer.";
+
+/* No comment provided by engineer. */
 "Automatically make a selection of the subject of the currently selected layer." = "Sélectionnez automatiquement le sujet du calque actuellement sélectionné.";
 
 /* No comment provided by engineer. */
@@ -689,6 +704,12 @@
 "Change the angle of the shadow." = "Modifiez l’angle de l’ombre.";
 
 /* No comment provided by engineer. */
+"Change the brush mode to Erase. Painting over the image will reveal any hidden areas of the layer you’re editing." = "Change the brush mode to Erase. Painting over the image will reveal any hidden areas of the layer you’re editing.";
+
+/* No comment provided by engineer. */
+"Change the brush mode to Paint. Painting over the image will hide areas of the layer you’re editing." = "Change the brush mode to Paint. Painting over the image will hide areas of the layer you’re editing.";
+
+/* No comment provided by engineer. */
 "Change the horizontal and vertical perspective of the object." = "Modifier la perspective horizontale et verticale de l’objet.";
 
 /* No comment provided by engineer. */
@@ -710,6 +731,9 @@
 "Choose a document color palette." = "Choisissez une palette de couleurs pour le document.";
 
 /* No comment provided by engineer. */
+"Choose a fill type for the mask." = "Choose a fill type for the mask.";
+
+/* No comment provided by engineer. */
 "Choose a fill type for the stroke." = "Choisissez un type de remplissage pour le coup de pinceau.";
 
 /* No comment provided by engineer. */
@@ -717,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "Choose a layer to add to this image." = "Choisissez un calque à ajouter à cette image.";
+
+/* No comment provided by engineer. */
+"Choose a mask shape." = "Choose a mask shape.";
 
 /* No comment provided by engineer. */
 "Choose a pattern image." = "Choisissez une image de motif.";
@@ -776,6 +803,9 @@
 "Choose how to capitalize text." = "Choisissez comment mettre le texte en majuscules.";
 
 /* No comment provided by engineer. */
+"Choose how to combine this mask with the masks below." = "Choose how to combine this mask with the masks below.";
+
+/* No comment provided by engineer. */
 "Choose how to combine this shape component with the components below." = "Choisissez comment combiner cet élément de la forme avec les éléments ci-dessous.";
 
 /* No comment provided by engineer. */
@@ -819,6 +849,9 @@
 
 /* No comment provided by engineer. */
 "Click and hold to show the photo without edits." = "Cliquez sans relâcher pour afficher la photo sans les modifications.";
+
+/* No comment provided by engineer. */
+"Click on the image to start masking" = "Click on the image to start masking";
 
 /* No comment provided by engineer. */
 "Click to automatically adjust the color balance of the image." = "Cliquez pour ajuster automatiquement la balance des couleurs de l’image.";
@@ -977,6 +1010,9 @@
 "Decrease the zoom level of the image." = "Réduire le niveau de zoom de l’image.";
 
 /* No comment provided by engineer. */
+"Destructively combine all layer masks into a single mask." = "Destructively combine all layer masks into a single mask.";
+
+/* No comment provided by engineer. */
 "Destructively combine the selected objects into a single object." = "Fusionnez les objets sélectionnés en un seul objet de manière destructive.";
 
 /* No comment provided by engineer. */
@@ -1008,6 +1044,12 @@
 
 /* No comment provided by engineer. */
 "Distance" = "Distance";
+
+/* No comment provided by engineer. */
+"Drag on the image to start masking" = "Drag on the image to start masking";
+
+/* No comment provided by engineer. */
+"Drag to adjust the position of the gradient" = "Faire glisser pour ajuster la position du dégradé";
 
 /* No comment provided by engineer. */
 "Draw circular and elliptical shapes." = "Dessinez des formes circulaires et elliptiques.";
@@ -1059,6 +1101,9 @@
 
 /* No comment provided by engineer. */
 "Edit the yellows in the image." = "Modifier les jaunes dans l’image.";
+
+/* No comment provided by engineer. */
+"Enable mask to make it visible." = "Enable mask to make it visible.";
 
 /* No comment provided by engineer. */
 "Enable the layer mask." = "Activez le masque de calque.";
@@ -1121,7 +1166,13 @@
 "Fine-tune or completely change the colors of images." = "Affinez ou changez complètement les couleurs des images.";
 
 /* No comment provided by engineer. */
+"Finish drawing to complete the mask" = "Finish drawing to complete the mask";
+
+/* No comment provided by engineer. */
 "Finish editing the photo." = "Terminez la modification de la photo.";
+
+/* No comment provided by engineer. */
+"Finish editing." = "Finish editing.";
 
 /* No comment provided by engineer. */
 "Flip the image horizontally." = "Retourner l’image horizontalement.";
@@ -1193,10 +1244,10 @@
 "Lock the layer group to prevent editing." = "Verrouillez le groupe de calques afin d’empêcher toute modification.";
 
 /* No comment provided by engineer. */
-"Lock the layer mask to prevent editing." = "Verrouillez le masque de calque afin d’empêcher toute modification.";
+"Lock the layer to prevent editing." = "Verrouillez le calque afin d’empêcher toute modification.";
 
 /* No comment provided by engineer. */
-"Lock the layer to prevent editing." = "Verrouillez le calque afin d’empêcher toute modification.";
+"Lock the mask to prevent editing." = "Lock the mask to prevent editing.";
 
 /* No comment provided by engineer. */
 "Make freehand selections." = "Faites des sélections à main levée.";
@@ -1278,6 +1329,9 @@
 
 /* No comment provided by engineer. */
 "Perform tasks with the image like changing its size, color profile, and more." = "Effectuer des tâches avec l’image, comme modifier sa taille, son profil de couleur, et bien plus encore.";
+
+/* No comment provided by engineer. */
+"Perform tasks with the mask like refining, replacing, removing it, and more." = "Perform tasks with the mask like refining, replacing, removing it, and more.";
 
 /* No comment provided by engineer. */
 "Perform tasks with the video like scrubbing, trimming, and more." = "Effectuer des tâches variées sur la vidéo, telles que nettoyage, recadrage, etc.";
@@ -1658,6 +1712,9 @@
 "Set how much to soften the edges of the Lighten tool brush." = "Définissez le lissage des contours du pinceau de l’outil Éclaircir.";
 
 /* No comment provided by engineer. */
+"Set how much to soften the edges of the mask." = "Set how much to soften the edges of the mask.";
+
+/* No comment provided by engineer. */
 "Set how much to soften the edges of the Saturate tool brush." = "Définissez le lissage des contours du pinceau de l’outil Saturation.";
 
 /* No comment provided by engineer. */
@@ -1790,9 +1847,6 @@
 "Set the corner radius for each corner individually." = " Définissez le rayon de chaque coin individuel.";
 
 /* No comment provided by engineer. */
-"Set the density of the mask." = "Définissez la densité du masque.";
-
-/* No comment provided by engineer. */
 "Set the distance from the object's top-left corner to the left edge of the canvas." = "Réglez la distance entre le coin supérieur gauche de l’objet et le bord gauche de la zone de travail.";
 
 /* No comment provided by engineer. */
@@ -1845,6 +1899,9 @@
 
 /* No comment provided by engineer. */
 "Set the location in the brush stroke at which simulated pressure will be strongest." = "Définir l’emplacement dans le trait de pinceau avec lequel la pression simulée sera la plus forte.";
+
+/* No comment provided by engineer. */
+"Set the masking effect strength. Higher density hides more, and lower density lets more details to pass through." = "Set the masking effect strength. Higher density hides more, and lower density lets more details to pass through.";
 
 /* No comment provided by engineer. */
 "Set the object height." = "Définissez la hauteur de l’objet.";
@@ -1989,9 +2046,6 @@
 
 /* No comment provided by engineer. */
 "Set the softness of the gradient mask." = "Définissez la douceur du masque de dégradé.";
-
-/* No comment provided by engineer. */
-"Set the softness of the mask." = "Définissez la douceur du masque.";
 
 /* No comment provided by engineer. */
 "Set the spacing between each brush texture mark in your brushstroke." = "Définissez l’espacement entre chaque marque de texture de votre coup de pinceau.";
@@ -2291,10 +2345,10 @@
 "Unlock the layer group to allow editing." = "Déverrouillez le groupe de calques afin de permettre sa modification.";
 
 /* No comment provided by engineer. */
-"Unlock the layer mask to allow editing." = "Déverrouillez le masque de calque afin de permettre sa modification.";
+"Unlock the layer to allow editing." = "Déverrouillez le calque afin de permettre sa modification.";
 
 /* No comment provided by engineer. */
-"Unlock the layer to allow editing." = "Déverrouillez le calque afin de permettre sa modification.";
+"Unlock the mask to allow editing." = "Unlock the mask to allow editing.";
 
 /* No comment provided by engineer. */
 "Unmute audio." = "Activer le son.";
