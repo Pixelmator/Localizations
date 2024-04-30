@@ -11,10 +11,10 @@
 "%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "％@で重大なエラーが発生しました。これは、ディスク容量が少ないか、オペレーティングシステムのエラーが原因である可能性があります。一部のストレージを解放したり、Macを再起動したりすると問題が解決する場合があります。";
 
 /* No comment provided by engineer. */
-"%@ OFF" = "%@ オフ";
+"%@ mm" = "%@ mm";
 
-/* seconds */
-"%@s" = "%@s";
+/* No comment provided by engineer. */
+"%@ OFF" = "%@ オフ";
 
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d 個のファイルがすでに存在します。置き換えますか？";
@@ -41,10 +41,10 @@
 "%i Images Selected" = "%i 画像を選択";
 
 /* No comment provided by engineer. */
-"%i Layers" = "%iレイヤー";
+"%i of %i Edits Used" = "%1$i / %2$i の編集が使用済み";
 
 /* No comment provided by engineer. */
-"%i of %i Edits Used" = "%1$i / %2$i の編集が使用済み";
+"%i Selected Layers" = "%i Selected Layers";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i チップ";
@@ -84,9 +84,6 @@
 
 /* No comment provided by engineer. */
 "1 tip" = "1 チップ";
-
-/* No comment provided by engineer. */
-"1 year %@, then %@/year. Cancel anytime." = "1 年 %1$@、その後は %2$@ / 年。いつでもキャンセルできます。";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16ビット/チャンネル";
@@ -378,6 +375,9 @@
 "Background Layer" = "背景のレイヤー";
 
 /* No comment provided by engineer. */
+"Background Mask" = "Background Mask";
+
+/* No comment provided by engineer. */
 "Balance Adjustment" = "バランス調整";
 
 /* No comment provided by engineer. */
@@ -564,9 +564,6 @@
 "Chromatic Aberration" = "色収差";
 
 /* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "色ノイズ追跡";
-
-/* No comment provided by engineer. */
 "Chromaticity X" = "色度 X";
 
 /* No comment provided by engineer. */
@@ -577,15 +574,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "鮮明度";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "ハイライトを明るく";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "ミッドトーンを明るく";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "シャドウを明るく";
 
 /* No comment provided by engineer. */
 "Clear Guides" = "ガイドを消去";
@@ -713,6 +701,9 @@
 "Copy Layer" = "レイヤーをコピー";
 
 /* No comment provided by engineer. */
+"Copy Mask" = "マスクをコピー";
+
+/* No comment provided by engineer. */
 "Copy Merged" = "結合部分をコピー";
 
 /* No comment provided by engineer. */
@@ -780,9 +771,6 @@
 "Custom" = "その他";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "カスタムLUT";
-
-/* No comment provided by engineer. */
 "Custom Size" = "カスタムサイズ";
 
 /* No comment provided by engineer. */
@@ -848,9 +836,6 @@
 
 /* No comment provided by engineer. */
 "Default Baseline" = "デフォルトのベースライン";
-
-/* No comment provided by engineer. */
-"Dehaze" = "かすみの除去";
 
 /* Edit Menu */
 "Delete" = "削除";
@@ -925,9 +910,6 @@
 /* No comment provided by engineer. */
 "Destination Over" = "背後に描画";
 
-/* No comment provided by engineer. */
-"Detail" = "詳細";
-
 /* Edit Menu */
 "Details" = "詳細";
 
@@ -983,6 +965,9 @@
 "Display HDR Content" = "HDRコンテンツを表示";
 
 /* No comment provided by engineer. */
+"Display P3" = "Display P3";
+
+/* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "フォルダ毎のアルバムを含むすべてのアルバムを、アルファベット順に並べられた1つのギャラリーに表示します。";
 
 /* No comment provided by engineer. */
@@ -1032,9 +1017,6 @@
 
 /* No comment provided by engineer. */
 "Document Quick Save for Web" = "Web用にクイック保存";
-
-/* No comment provided by engineer. */
-"Don't limit yourself" = "自分に限界をつくらないでください";
 
 /* No comment provided by engineer. */
 "Don't Move" = "移動しない";
@@ -1163,6 +1145,9 @@
 "Edit RAW" = "RAWを編集";
 
 /* No comment provided by engineer. */
+"Edit Size Optimizations" = "Edit Size Optimizations";
+
+/* No comment provided by engineer. */
 "Edit specific areas of photos" = "写真の特定の領域を編集";
 
 /* No comment provided by engineer. */
@@ -1200,16 +1185,7 @@
 "Effortlessly remove anything from small blemishes to entire objects from photos." = "小さな傷からオブジェクト全体まで、写真からあらゆるものを簡単に削除します。";
 
 /* Tool */
-"Ellipse" = "楕円";
-
-/* Tool */
 "Elliptical" = "楕円形";
-
-/* No comment provided by engineer. */
-"Elliptical Selection" = "楕円で選択";
-
-/* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "楕円形の吹き出し";
 
 /* No comment provided by engineer. */
 "Empty Album" = "アルバムを空にする";
@@ -1225,9 +1201,6 @@
 
 /* No comment provided by engineer. */
 "Enable %@" = "%@を有効";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "EDRを有効";
 
 /* Edit Menu */
 "Enable New Preset Creation" = "新規プリセットの作成を有効";
@@ -1294,6 +1267,9 @@
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "排他的論理和";
+
+/* No comment provided by engineer. */
+"Existing Profile in Image" = "画像内の既存プロファイル";
 
 /* No comment provided by engineer. */
 "Exit Editing" = "編集を解除";
@@ -1398,6 +1374,9 @@
 "Feature Unavailable" = "機能は利用できません";
 
 /* No comment provided by engineer. */
+"File Browser Improvements" = "File Browser Improvements";
+
+/* No comment provided by engineer. */
 "File Unavailable" = "ファイルが利用できません";
 
 /* No comment provided by engineer. */
@@ -1423,9 +1402,6 @@
 
 /* No comment provided by engineer. */
 "Filmstrip" = "フィルムストリップ";
-
-/* No comment provided by engineer. */
-"Filmstrip Unavailable" = "フィルムストリップが利用できません";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "描画を終了";
@@ -1500,7 +1476,7 @@
 "Generator" = "ジェネレータ";
 
 /* No comment provided by engineer. */
-"Get 50% off the first year of the annual Pixelmator Photo subscription with this limited-time offer." = "この期間限定オファーで、Pixelmator Photoの初年度の年間サブスクリプションが50%オフになります。";
+"Get %@ off for one year" = "Get %@ off for one year";
 
 /* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "写真の外観を修正、強化、または完全に変換するために使用できるツールの概要を簡単に確認できます。";
@@ -1624,6 +1600,9 @@
 "Hide" = "隠す";
 
 /* No comment provided by engineer. */
+"Hide Background" = "Hide Background";
+
+/* No comment provided by engineer. */
 "Hide Grid" = "グリッドを隠す";
 
 /* No comment provided by engineer. */
@@ -1649,9 +1628,6 @@
 
 /* No comment provided by engineer. */
 "Histogram" = "ヒストグラム";
-
-/* No comment provided by engineer. */
-"Holiday Sale" = "ホリデーセール";
 
 /* No comment provided by engineer. */
 "Horizontal Alignment" = "水平方向の配置";
@@ -1743,9 +1719,6 @@
 
 /* No comment provided by engineer. */
 "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default." = "RAW+JPEG または RAW+HEIC では、デフォルトでRAW写真が開きます。";
-
-/* No comment provided by engineer. */
-"In the Files browser, effortlessly browse photos using the new filmstrip." = "ファイルブラウザでは、新しいフィルムストリップを使用して、写真を簡単にブラウズできます。";
 
 /* Units */
 "Inches" = "インチ";
@@ -1865,9 +1838,6 @@
 "Layer" = "レイヤー";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "レイヤーマスク";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "レイヤー選択";
 
 /* No comment provided by engineer. */
@@ -1898,6 +1868,9 @@
 "License" = "ライセンス";
 
 /* No comment provided by engineer. */
+"Lifetime access for just %@" = "Lifetime access for just %@";
+
+/* No comment provided by engineer. */
 "Ligature" = "リガチャ";
 
 /* No comment provided by engineer. */
@@ -1924,9 +1897,6 @@
 
 /* No comment provided by engineer. */
 "Lighter Color" = "覆い焼き (ソフト)";
-
-/* No comment provided by engineer. */
-"Lightness" = "明るさ";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "明度の散布";
@@ -2063,6 +2033,9 @@
 /* No comment provided by engineer. */
 "Mask Subject" = "対象をマスク";
 
+/* No comment provided by engineer. */
+"Masks" = "マスク";
+
 /* Color Balance */
 "Master" = "マスター";
 
@@ -2095,6 +2068,9 @@
 
 /* No comment provided by engineer. */
 "Merge brush marks" = "ブラシのマークを結合";
+
+/* No comment provided by engineer. */
+"Merge Masks" = "Merge Masks";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "シェイプの部品を結合";
@@ -2286,12 +2262,6 @@
 "No Subscription Found" = "サブスクリプションが見つかりません";
 
 /* No comment provided by engineer. */
-"No thanks" = "いいえ";
-
-/* No comment provided by engineer. */
-"Noise Reduction" = "ノイズ低減";
-
-/* No comment provided by engineer. */
 "Nondestructively preserve edits in a linked Photomator file." = "リンクされたPhotomatorファイルに編集を壊す事なく保存します。";
 
 /* Tool */
@@ -2316,10 +2286,13 @@
 "On-Image Curves" = "画像上の曲線";
 
 /* No comment provided by engineer. */
-"One license for Mac, iPad, and iPhone." = "Mac、iPad、iPhone で 1 つのライセンス。";
+"One or more LUTs may be damaged or not supported." = "1つ以上のLUTが破損しているか、サポートされていない可能性があります。";
 
 /* No comment provided by engineer. */
-"One or more LUTs may be damaged or not supported." = "1つ以上のLUTが破損しているか、サポートされていない可能性があります。";
+"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"One-time payment of %@." = "One-time payment of %@.";
 
 /* No comment provided by engineer. */
 "Opacity" = "不透明度";
@@ -2390,14 +2363,20 @@
 /* No comment provided by engineer. */
 "Outline" = "アウトライン";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Oval" = "楕円";
+
+/* No comment provided by engineer. */
+"Oval Selection" = "Oval Selection";
 
 /* No comment provided by engineer. */
 "Overlay" = "オーバーレイ";
 
 /* No comment provided by engineer. */
 "Overwrite" = "上書き";
+
+/* Short for PHOTO Image format */
+"P" = "P";
 
 /* Tool */
 "Paint" = "ペイント";
@@ -2457,6 +2436,9 @@
 "Perspective Transform" = "遠近法変換";
 
 /* No comment provided by engineer. */
+"PHOTO" = "PHOTO";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -2479,9 +2461,6 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomatorヘルプ";
-
-/* No comment provided by engineer. */
-"Photomator is on sale" = "Photomator 発売中";
 
 /* Native iOS Photos app name */
 "Photos" = "写真";
@@ -2586,9 +2565,6 @@
 "Preserve Edits and Original" = "編集内容とオリジナルを保存";
 
 /* No comment provided by engineer. */
-"Preserve nondestructive edits in a separate sidecar file." = "非破壊の編集内容を別のsidecarファイルに保存します。";
-
-/* No comment provided by engineer. */
 "Preserve transparency" = "透明度を維持";
 
 /* No comment provided by engineer. */
@@ -2675,6 +2651,9 @@
 /* No comment provided by engineer. */
 "Quit Application" = "アプリケーションを終了";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
@@ -2744,13 +2723,7 @@
 "Redeem Code" = "コード";
 
 /* No comment provided by engineer. */
-"Redeem offer" = "クーポンを利用";
-
-/* No comment provided by engineer. */
 "Redeem Offer" = "クーポンを利用";
-
-/* No comment provided by engineer. */
-"Redeem special offer" = "特別オファーを利用";
 
 /* Edit Menu */
 "Redefine" = "再設定";
@@ -2790,9 +2763,6 @@
 
 /* No comment provided by engineer. */
 "Reloading…" = "再読み込み中…";
-
-/* No comment provided by engineer. */
-"Remind me" = "通知する";
 
 /* No comment provided by engineer. */
 "Remove" = "削除";
@@ -3094,22 +3064,7 @@
 "Save Changes" = "変更内容を保存";
 
 /* No comment provided by engineer. */
-"Save changes to the original files you open, overwriting them." = "開いたオリジナルファイルへの変更を保存して上書きします。";
-
-/* No comment provided by engineer. */
 "Save Copy to Photos" = "コピーを写真に保存";
-
-/* No comment provided by engineer. */
-"Save image" = "画像を保存";
-
-/* No comment provided by engineer. */
-"Save image (1 remaining)" = "画像を保存 (残り 1)";
-
-/* No comment provided by engineer. */
-"Save image (2 remaining)" = "画像を保存 (残り 2)";
-
-/* No comment provided by engineer. */
-"Save image (3 remaining)" = "画像を保存 (残り 3)";
 
 /* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
 "Save layers and edits to a sidecar file" = "レイヤーと編集内容をSidecarファイルに保存";
@@ -3161,9 +3116,6 @@
 
 /* No comment provided by engineer. */
 "See All" = "すべてを表示";
-
-/* No comment provided by engineer. */
-"See More Plans" = "その他のプランを見る";
 
 /* No comment provided by engineer. */
 "Select" = "選択";
@@ -3221,6 +3173,9 @@
 
 /* No comment provided by engineer. */
 "Selected Color" = "選択したカラー";
+
+/* No comment provided by engineer. */
+"Selected Layer" = "Selected Layer";
 
 /* No comment provided by engineer. */
 "Selected layer is hidden, reveal it to edit." = "選択したレイヤーは非表示ですが、編集すると表示されます。";
@@ -3287,6 +3242,9 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "シェイプの方向";
+
+/* No comment provided by engineer. */
+"Shape Mask" = "Shape Mask";
 
 /* Edit Menu */
 "Share" = "共有";
@@ -3529,6 +3487,9 @@
 /* No comment provided by engineer. */
 "Square" = "正方形";
 
+/* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
 /* Tool */
 "Star" = "スター";
 
@@ -3560,9 +3521,6 @@
 "Status Bar" = "ステータスバー";
 
 /* No comment provided by engineer. */
-"Storage Improvements" = "ストレージの改善";
-
-/* No comment provided by engineer. */
 "Store Edits in iCloud" = "編集内容をiCloudに保存";
 
 /* Tool */
@@ -3579,12 +3537,6 @@
 
 /* No comment provided by engineer. */
 "Stroke" = "線";
-
-/* No comment provided by engineer. */
-"Stroke Position" = "線の位置";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "線の種類";
 
 /* No comment provided by engineer. */
 "Stroke Width" = "線の幅";
@@ -3608,10 +3560,19 @@
 "Subject Mask" = "マスクをかける";
 
 /* No comment provided by engineer. */
+"Subscribe" = "Subscribe";
+
+/* No comment provided by engineer. */
+"Subscribe monthly for %@. Cancel anytime." = "Subscribe monthly for %@. Cancel anytime.";
+
+/* No comment provided by engineer. */
 "Subscribe to Photomator" = "Photomatorに登録";
 
 /* No comment provided by engineer. */
 "Subscribe to Pixelmator Photo" = "Pixelmator Photo を申し込む";
+
+/* No comment provided by engineer. */
+"Subscribe yearly for %@. Cancel anytime." = "Subscribe yearly for %@. Cancel anytime.";
 
 /* No comment provided by engineer. */
 "Subtract" = "減算";
@@ -3693,7 +3654,7 @@
 "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "テクスチャを考慮した調整は LUT を使用して再作成できないため、書き出した LUT は異なって見えます。";
 
 /* No comment provided by engineer. */
-"Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file." = "Photomatorでのsidecarファイルの保存が改善されたため、編集に必要なストレージ容量が大幅に減り、ファイルアプリで編集する場合は、オリジナルファイルを保持しながら編集内容を別のファイルとして保存できます。";
+"Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space." = "Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space.";
 
 /* No comment provided by engineer. */
 "That covers the basics – you’re ready to start editing your photos!" = "以上で基本は終わりです ー 写真の編集を開始する準備が整いました！";
@@ -3721,6 +3682,9 @@
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "ファイルブラウザーを使用すると、デバイス上のすべての書類を参照できます。写真ブラウザーに切り替えるには、%@ アイコンをタップし、ブラウザーのメニューから [写真] を選択します。";
+
+/* No comment provided by engineer. */
+"The filmstrip is unavailable for this folder." = "The filmstrip is unavailable for this folder.";
 
 /* No comment provided by engineer. */
 "The folder of the image could not be found." = "画像のフォルダが見つかりませんでした。";
@@ -3915,9 +3879,6 @@
 "To reveal filmstrip, give access to the image’s root folder by selecting the folder and tapping Open." = "フィルムストリップを表示するには、フォルダを選択して [開く] をタップして、画像のルートフォルダへのアクセスを許可します。";
 
 /* No comment provided by engineer. */
-"To reveal filmstrip, touch and hold a folder, then choose Edit with Filmstrip." = "フィルムストリップを表示するには、フォルダをタッチしたままにして、[フィルムストリップで編集] を選択します。";
-
-/* No comment provided by engineer. */
 "To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "この機能を使用するには、Photomatorを購入または購読する必要がありますが、購入履歴を表示しようとしてエラーが発生しました。 これが繰り返し発生する場合は、私たちに連絡してください。 (エラーコード: %i)";
 
 /* No comment provided by engineer. */
@@ -3966,7 +3927,7 @@
 "Try Again" = "再試行する";
 
 /* No comment provided by engineer. */
-"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, and iPhone." = "Mac、iPad、iPhone で利用できる強力なフルセットの写真編集ツールを使用して、見栄えの良い写真を仕上げることができます。";
+"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro." = "Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro.";
 
 /* Tool */
 "Twirl" = "回転";
@@ -3976,6 +3937,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Access" = "アクセスできません";
+
+/* No comment provided by engineer. */
+"Unable to Access Folder" = "Unable to Access Folder";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "ヘルプにアクセスできません";
@@ -4062,7 +4026,7 @@
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "新しい拡張ダイナミックレンジモードで新しいRAW編集ワークフローのロックを解除";
 
 /* No comment provided by engineer. */
-"Unlock Photomator on Mac, iPad, and iPhone with a single license." = "1つのライセンスでPhotomatorのロックをMac、iPad、iPhoneで解除します。";
+"Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license." = "Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license.";
 
 /* %@ stands for non-breaking space */
 "Unlock Photomator%@for%@Mac" = "Photomator%1$@for%2$@Mac のロックを解除";
@@ -4108,9 +4072,6 @@
 
 /* No comment provided by engineer. */
 "Upgrade" = "アップグレード";
-
-/* No comment provided by engineer. */
-"Upgrade to access the full image editing experience in Photomator." = "アップグレードして、Photomator の写真編集の全機能をご体験ください。";
 
 /* The name of a 3D file format. */
 "USD" = "USD";
@@ -4206,6 +4167,9 @@
 "When exporting, apply text or image watermarks to protect your photos." = "書き出し時は、テキストまたは画像の透かしを適用して、写真を保護します。";
 
 /* No comment provided by engineer. */
+"When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals." = "When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals.";
+
+/* No comment provided by engineer. */
 "White" = "ホワイト";
 
 /* No comment provided by engineer. */
@@ -4237,9 +4201,6 @@
 
 /* No comment provided by engineer. */
 "Workflows" = "ワークフロー";
-
-/* No comment provided by engineer. */
-"Would you like to be notified before your free trial is about to end?" = "無料トライアルが終了する前に通知を受け取りますか？";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "オリジナルのJPEG/PNG/TIFFファイル、またはPixelmator Pro書類に変更を保存しますか？";
@@ -4282,9 +4243,6 @@
 
 /* No comment provided by engineer. */
 "You're Offline" = "現在オフラインです";
-
-/* No comment provided by engineer. */
-"Your 7-day trial has started!" = "7日間の試用が始まりました！";
 
 /* No comment provided by engineer. */
 "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!" = "無料トライアルは 2 日で終了します。いくつかの写真を編集して、Photomatorを試してみてください！";

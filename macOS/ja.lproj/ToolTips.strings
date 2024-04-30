@@ -5,6 +5,9 @@
 "A more or less universal resizing algorithm, smooths out edges slightly." = "ほぼ一般的なリサイズアルゴリズムで、エッジをわずかに滑らかにします。";
 
 /* No comment provided by engineer. */
+"Add a mask to the selected layer." = "Add a mask to the selected layer.";
+
+/* No comment provided by engineer. */
 "Add an export format." = "書き出しフォーマットを追加";
 
 /* No comment provided by engineer. */
@@ -185,6 +188,9 @@
 "Adjust how much to soften the edges of the Lighten tool brush." = "比較 (明) ツールのブラシの端をどれだけ緩和するかを調整します。";
 
 /* No comment provided by engineer. */
+"Adjust how much to soften the edges of the mask." = "Adjust how much to soften the edges of the mask.";
+
+/* No comment provided by engineer. */
 "Adjust how much to soften the edges of the Saturate tool brush." = "彩度ツールのブラシの端をどれだけ緩和するかを調整します。";
 
 /* No comment provided by engineer. */
@@ -257,13 +263,13 @@
 "Adjust the brightness of the selected color." = "選択した色の明るさを調整します。";
 
 /* No comment provided by engineer. */
+"Adjust the brush settings." = "Adjust the brush settings.";
+
+/* No comment provided by engineer. */
 "Adjust the contrast between the lightest and darkest areas in the image." = "画像の最明部と最暗部の間のコントラストを調整します。";
 
 /* No comment provided by engineer. */
 "Adjust the contrast in the highlights of your black and white." = "モノクロのハイライトのコントラストを調整します。";
-
-/* No comment provided by engineer. */
-"Adjust the density of the mask." = "マスクの密度を調整します。";
 
 /* No comment provided by engineer. */
 "Adjust the dynamic range of the darkest areas in the image." = "画像の最暗部のダイナミックレンジを調整します。";
@@ -300,6 +306,15 @@
 
 /* No comment provided by engineer. */
 "Adjust the intensity of the fade effect in the darkest areas of the image." = "画像の最も暗い領域でフェード効果の強度を調整します。";
+
+/* No comment provided by engineer. */
+"Adjust the mask settings." = "Adjust the mask settings.";
+
+/* No comment provided by engineer. */
+"Adjust the mask with additional controls." = "Adjust the mask with additional controls.";
+
+/* No comment provided by engineer. */
+"Adjust the masking effect strength. Higher density hides more, and lower density lets more details to pass through." = "Adjust the masking effect strength. Higher density hides more, and lower density lets more details to pass through.";
 
 /* No comment provided by engineer. */
 "Adjust the overall amount of light in the image." = "画像の全体的な光量を調整します。";
@@ -444,9 +459,6 @@
 
 /* No comment provided by engineer. */
 "Adjust the softness of the gradient mask." = "グラデーションマスクの柔らかさを調整します。";
-
-/* No comment provided by engineer. */
-"Adjust the softness of the mask." = "マスクの柔らかさを調整します。";
 
 /* No comment provided by engineer. */
 "Adjust the spacing between each brush texture mark in your brushstroke." = "ブラシストロークの各ブラシテクスチャの間隔を調整します。";
@@ -623,6 +635,9 @@
 "Automatically enhance the photo." = "写真を自動的に補正します。";
 
 /* No comment provided by engineer. */
+"Automatically hide the background around the subject in the selected layer." = "Automatically hide the background around the subject in the selected layer.";
+
+/* No comment provided by engineer. */
 "Automatically make a selection of the subject of the currently selected layer." = "現在選択されているレイヤーの対象を自動的に選択します。";
 
 /* No comment provided by engineer. */
@@ -689,6 +704,12 @@
 "Change the angle of the shadow." = "シャドウの角度を変更します。";
 
 /* No comment provided by engineer. */
+"Change the brush mode to Erase. Painting over the image will reveal any hidden areas of the layer you’re editing." = "Change the brush mode to Erase. Painting over the image will reveal any hidden areas of the layer you’re editing.";
+
+/* No comment provided by engineer. */
+"Change the brush mode to Paint. Painting over the image will hide areas of the layer you’re editing." = "Change the brush mode to Paint. Painting over the image will hide areas of the layer you’re editing.";
+
+/* No comment provided by engineer. */
 "Change the horizontal and vertical perspective of the object." = "オブジェクトの水平方向および垂直方向の遠近を変更します。";
 
 /* No comment provided by engineer. */
@@ -710,6 +731,9 @@
 "Choose a document color palette." = "書類のカラーパレットを選択";
 
 /* No comment provided by engineer. */
+"Choose a fill type for the mask." = "Choose a fill type for the mask.";
+
+/* No comment provided by engineer. */
 "Choose a fill type for the stroke." = "線の塗りつぶしの種類を選択します。";
 
 /* No comment provided by engineer. */
@@ -717,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "Choose a layer to add to this image." = "この画像を追加するレイヤーを選択します。";
+
+/* No comment provided by engineer. */
+"Choose a mask shape." = "Choose a mask shape.";
 
 /* No comment provided by engineer. */
 "Choose a pattern image." = "パターン画像を選択します。";
@@ -732,9 +759,6 @@
 
 /* No comment provided by engineer. */
 "Choose a stroke style preset or adjust stroke settings." = "線の種類のプリセットを選択するか、線の設定を調整します。";
-
-/* No comment provided by engineer. */
-"Choose a stroke style." = "線の種類を選択します。";
 
 /* No comment provided by engineer. */
 "Choose a style for the end of the stroke, including dashed portions." = "破線部分を含む線の終点の種類を選択します。";
@@ -777,6 +801,9 @@
 
 /* No comment provided by engineer. */
 "Choose how to capitalize text." = "テキストを大文字にする方法を選択します。";
+
+/* No comment provided by engineer. */
+"Choose how to combine this mask with the masks below." = "Choose how to combine this mask with the masks below.";
 
 /* No comment provided by engineer. */
 "Choose how to combine this shape component with the components below." = "このシェイプと以下の部品を組み合わせる方法を選択してください。";
@@ -822,6 +849,9 @@
 
 /* No comment provided by engineer. */
 "Click and hold to show the photo without edits." = "クリックしたままにすると編集なしで写真が表示されます。";
+
+/* No comment provided by engineer. */
+"Click on the image to start masking" = "Click on the image to start masking";
 
 /* No comment provided by engineer. */
 "Click to automatically adjust the color balance of the image." = "クリックすると画像のカラーバランスが自動的に調整されます。";
@@ -980,6 +1010,9 @@
 "Decrease the zoom level of the image." = "画像の拡大レベルを下げます。";
 
 /* No comment provided by engineer. */
+"Destructively combine all layer masks into a single mask." = "Destructively combine all layer masks into a single mask.";
+
+/* No comment provided by engineer. */
 "Destructively combine the selected objects into a single object." = "選択したオブジェクトを破壊的に1つのオブジェクトに結合します。";
 
 /* No comment provided by engineer. */
@@ -1011,6 +1044,12 @@
 
 /* No comment provided by engineer. */
 "Distance" = "距離";
+
+/* No comment provided by engineer. */
+"Drag on the image to start masking" = "Drag on the image to start masking";
+
+/* No comment provided by engineer. */
+"Drag to adjust the position of the gradient" = "ドラッグしてグラデーションの位置を調整";
 
 /* No comment provided by engineer. */
 "Draw circular and elliptical shapes." = "円形と楕円形を描きます。";
@@ -1062,6 +1101,9 @@
 
 /* No comment provided by engineer. */
 "Edit the yellows in the image." = "画像内のイエローを編集します。";
+
+/* No comment provided by engineer. */
+"Enable mask to make it visible." = "Enable mask to make it visible.";
 
 /* No comment provided by engineer. */
 "Enable the layer mask." = "レイヤーマスクを有効にします。";
@@ -1124,7 +1166,13 @@
 "Fine-tune or completely change the colors of images." = "画像の色を微調整または完全に変更します。";
 
 /* No comment provided by engineer. */
+"Finish drawing to complete the mask" = "Finish drawing to complete the mask";
+
+/* No comment provided by engineer. */
 "Finish editing the photo." = "写真の編集を終了します。";
+
+/* No comment provided by engineer. */
+"Finish editing." = "Finish editing.";
 
 /* No comment provided by engineer. */
 "Flip the image horizontally." = "画像を水平方向に反転。";
@@ -1196,10 +1244,10 @@
 "Lock the layer group to prevent editing." = "編集を防ぐためにレイヤーグループをロックします。";
 
 /* No comment provided by engineer. */
-"Lock the layer mask to prevent editing." = "編集を防ぐためにレイヤーをロックします。";
+"Lock the layer to prevent editing." = "編集を防ぐためにレイヤーをロックします。";
 
 /* No comment provided by engineer. */
-"Lock the layer to prevent editing." = "編集を防ぐためにレイヤーをロックします。";
+"Lock the mask to prevent editing." = "Lock the mask to prevent editing.";
 
 /* No comment provided by engineer. */
 "Make freehand selections." = "フリーハンドで選択します。";
@@ -1281,6 +1329,9 @@
 
 /* No comment provided by engineer. */
 "Perform tasks with the image like changing its size, color profile, and more." = "サイズやカラープロファイルの変更など、画像を使用してタスクを実行します。";
+
+/* No comment provided by engineer. */
+"Perform tasks with the mask like refining, replacing, removing it, and more." = "Perform tasks with the mask like refining, replacing, removing it, and more.";
 
 /* No comment provided by engineer. */
 "Perform tasks with the video like scrubbing, trimming, and more." = "スクラブ、トリミングなどの動画のタスクを実行します。";
@@ -1661,6 +1712,9 @@
 "Set how much to soften the edges of the Lighten tool brush." = "比較 (明) ツールのブラシの端をどれだけ緩和するかを設定します。";
 
 /* No comment provided by engineer. */
+"Set how much to soften the edges of the mask." = "Set how much to soften the edges of the mask.";
+
+/* No comment provided by engineer. */
 "Set how much to soften the edges of the Saturate tool brush." = "彩度ツールのブラシの端をどれだけ緩和するかを設定します。";
 
 /* No comment provided by engineer. */
@@ -1793,9 +1847,6 @@
 "Set the corner radius for each corner individually." = "角の半径を個別に設定します。";
 
 /* No comment provided by engineer. */
-"Set the density of the mask." = "マスクの密度を設定します。";
-
-/* No comment provided by engineer. */
 "Set the distance from the object's top-left corner to the left edge of the canvas." = "オブジェクトの左上端からキャンバスの左端までの距離を設定します。";
 
 /* No comment provided by engineer. */
@@ -1848,6 +1899,9 @@
 
 /* No comment provided by engineer. */
 "Set the location in the brush stroke at which simulated pressure will be strongest." = "シミュレートされた圧力が最も強くなるブラシストロークの位置を設定します。";
+
+/* No comment provided by engineer. */
+"Set the masking effect strength. Higher density hides more, and lower density lets more details to pass through." = "Set the masking effect strength. Higher density hides more, and lower density lets more details to pass through.";
 
 /* No comment provided by engineer. */
 "Set the object height." = "オブジェクトの高さを設定します。";
@@ -1992,9 +2046,6 @@
 
 /* No comment provided by engineer. */
 "Set the softness of the gradient mask." = "グラデーションマスクの柔らかさを設定します。";
-
-/* No comment provided by engineer. */
-"Set the softness of the mask." = "マスクの柔らかさを設定します。";
 
 /* No comment provided by engineer. */
 "Set the spacing between each brush texture mark in your brushstroke." = "ブラシストロークの各ブラシテクスチャの間隔を設定します。";
@@ -2294,10 +2345,10 @@
 "Unlock the layer group to allow editing." = "レイヤーグループのロックを解除して編集可能にします。";
 
 /* No comment provided by engineer. */
-"Unlock the layer mask to allow editing." = "レイヤーのロックを解除して編集可能にします。";
+"Unlock the layer to allow editing." = "レイヤーのロックを解除して編集可能にします。";
 
 /* No comment provided by engineer. */
-"Unlock the layer to allow editing." = "レイヤーのロックを解除して編集可能にします。";
+"Unlock the mask to allow editing." = "Unlock the mask to allow editing.";
 
 /* No comment provided by engineer. */
 "Unmute audio." = "オーディオのミュートを解除します。";

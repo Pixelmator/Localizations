@@ -11,10 +11,10 @@
 "%@ has encountered a critical error, possibly due to low disk space or an operating system error. It may help to free up some storage or restart your Mac." = "%@ 遇到了致命错误，可能是由于磁盘可用空间不足或操作系统错误引起的。请尝试释放部分存储空间或重新启动 Mac。";
 
 /* No comment provided by engineer. */
-"%@ OFF" = "%@折扣";
+"%@ mm" = "%@ 毫米";
 
-/* seconds */
-"%@s" = "%@s";
+/* No comment provided by engineer. */
+"%@ OFF" = "%@折扣";
 
 /* No comment provided by engineer. */
 "%d files already exists. Do you want to replace them?" = "%d 个文件已存在。您要替换它们吗？";
@@ -41,10 +41,10 @@
 "%i Images Selected" = "%i 张图像已选定";
 
 /* No comment provided by engineer. */
-"%i Layers" = "%i 图层";
+"%i of %i Edits Used" = "已使用%2$i之%1$i编辑";
 
 /* No comment provided by engineer. */
-"%i of %i Edits Used" = "已使用%2$i之%1$i编辑";
+"%i Selected Layers" = "%i Selected Layers";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i 则技巧";
@@ -84,9 +84,6 @@
 
 /* No comment provided by engineer. */
 "1 tip" = "1 则技巧";
-
-/* No comment provided by engineer. */
-"1 year %@, then %@/year. Cancel anytime." = "一年%1$@，然后%2$@/年。随时取消。";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16位/通道";
@@ -378,6 +375,9 @@
 "Background Layer" = "背景图层";
 
 /* No comment provided by engineer. */
+"Background Mask" = "Background Mask";
+
+/* No comment provided by engineer. */
 "Balance Adjustment" = "平衡调整";
 
 /* No comment provided by engineer. */
@@ -564,9 +564,6 @@
 "Chromatic Aberration" = "色差";
 
 /* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "彩色噪点跟踪";
-
-/* No comment provided by engineer. */
 "Chromaticity X" = "色度 X";
 
 /* No comment provided by engineer. */
@@ -577,15 +574,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "清晰度";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "使亮部清晰化";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "使中间色调清晰化";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "使阴影清晰化";
 
 /* No comment provided by engineer. */
 "Clear Guides" = "清除参考线";
@@ -713,6 +701,9 @@
 "Copy Layer" = "复制图层";
 
 /* No comment provided by engineer. */
+"Copy Mask" = "拷贝蒙版";
+
+/* No comment provided by engineer. */
 "Copy Merged" = "复制合并";
 
 /* No comment provided by engineer. */
@@ -780,9 +771,6 @@
 "Custom" = "自定义";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "自定义 LUT";
-
-/* No comment provided by engineer. */
 "Custom Size" = "自定大小";
 
 /* No comment provided by engineer. */
@@ -848,9 +836,6 @@
 
 /* No comment provided by engineer. */
 "Default Baseline" = "默认基线";
-
-/* No comment provided by engineer. */
-"Dehaze" = "去雾";
 
 /* Edit Menu */
 "Delete" = "删除";
@@ -925,9 +910,6 @@
 /* No comment provided by engineer. */
 "Destination Over" = "目标在上面";
 
-/* No comment provided by engineer. */
-"Detail" = "详细信息";
-
 /* Edit Menu */
 "Details" = "详情";
 
@@ -983,6 +965,9 @@
 "Display HDR Content" = "显示 HDR 内容";
 
 /* No comment provided by engineer. */
+"Display P3" = "显示 P3";
+
+/* No comment provided by engineer. */
 "Displays all albums, including any albums inside folders, in a single alphabetically-arranged gallery." = "以字母顺序显示所有相簿，包含文件夹中的相簿。";
 
 /* No comment provided by engineer. */
@@ -1032,9 +1017,6 @@
 
 /* No comment provided by engineer. */
 "Document Quick Save for Web" = "Web 文稿快速保存";
-
-/* No comment provided by engineer. */
-"Don't limit yourself" = "不要限制自己";
 
 /* No comment provided by engineer. */
 "Don't Move" = "不移动";
@@ -1163,6 +1145,9 @@
 "Edit RAW" = "编辑 RAW";
 
 /* No comment provided by engineer. */
+"Edit Size Optimizations" = "Edit Size Optimizations";
+
+/* No comment provided by engineer. */
 "Edit specific areas of photos" = "编辑照片的特定区域";
 
 /* No comment provided by engineer. */
@@ -1200,16 +1185,7 @@
 "Effortlessly remove anything from small blemishes to entire objects from photos." = "轻松去除图片中的小瑕疵或整个对象。";
 
 /* Tool */
-"Ellipse" = "椭圆";
-
-/* Tool */
 "Elliptical" = "椭圆形";
-
-/* No comment provided by engineer. */
-"Elliptical Selection" = "椭圆选择";
-
-/* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "椭圆对话气泡";
 
 /* No comment provided by engineer. */
 "Empty Album" = "空相簿";
@@ -1225,9 +1201,6 @@
 
 /* No comment provided by engineer. */
 "Enable %@" = "启用 %@";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "启用 EDR";
 
 /* Edit Menu */
 "Enable New Preset Creation" = "允许创建新预置";
@@ -1294,6 +1267,9 @@
 
 /* No comment provided by engineer. */
 "Exclusive OR" = "专用或";
+
+/* No comment provided by engineer. */
+"Existing Profile in Image" = "图像中现有的描述文件";
 
 /* No comment provided by engineer. */
 "Exit Editing" = "退出编辑";
@@ -1398,6 +1374,9 @@
 "Feature Unavailable" = "功能不可用";
 
 /* No comment provided by engineer. */
+"File Browser Improvements" = "File Browser Improvements";
+
+/* No comment provided by engineer. */
 "File Unavailable" = "文件不可用";
 
 /* No comment provided by engineer. */
@@ -1423,9 +1402,6 @@
 
 /* No comment provided by engineer. */
 "Filmstrip" = "胶片条";
-
-/* No comment provided by engineer. */
-"Filmstrip Unavailable" = "Filmstrip 不可用";
 
 /* No comment provided by engineer. */
 "Finish Drawing" = "完成绘图";
@@ -1500,7 +1476,7 @@
 "Generator" = "生成器";
 
 /* No comment provided by engineer. */
-"Get 50% off the first year of the annual Pixelmator Photo subscription with this limited-time offer." = "Pixelmator Photo 年度订阅首年享受 5 折优惠。";
+"Get %@ off for one year" = "Get %@ off for one year";
 
 /* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "快速了解可用于修饰、增强或彻底改变照片外观的工具。";
@@ -1624,6 +1600,9 @@
 "Hide" = "隐藏";
 
 /* No comment provided by engineer. */
+"Hide Background" = "Hide Background";
+
+/* No comment provided by engineer. */
 "Hide Grid" = "隐藏网格";
 
 /* No comment provided by engineer. */
@@ -1649,9 +1628,6 @@
 
 /* No comment provided by engineer. */
 "Histogram" = "直方图";
-
-/* No comment provided by engineer. */
-"Holiday Sale" = "节日促销活动";
 
 /* No comment provided by engineer. */
 "Horizontal Alignment" = "水平对齐";
@@ -1743,9 +1719,6 @@
 
 /* No comment provided by engineer. */
 "In RAW+JPEG or RAW+HEIC pairs, the RAW photo will be opened by default." = "在 RAW+JPEG 或 RAW+HEIC 组合中，App 会默认打开 RAW 照片。";
-
-/* No comment provided by engineer. */
-"In the Files browser, effortlessly browse photos using the new filmstrip." = "在“文件”浏览器中，使用全新 Filmstrip 轻松浏览照片。";
 
 /* Units */
 "Inches" = "英寸";
@@ -1865,9 +1838,6 @@
 "Layer" = "图层";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "图层蒙版";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "图层选择";
 
 /* No comment provided by engineer. */
@@ -1898,6 +1868,9 @@
 "License" = "订阅证书";
 
 /* No comment provided by engineer. */
+"Lifetime access for just %@" = "Lifetime access for just %@";
+
+/* No comment provided by engineer. */
 "Ligature" = "连字";
 
 /* No comment provided by engineer. */
@@ -1924,9 +1897,6 @@
 
 /* No comment provided by engineer. */
 "Lighter Color" = "浅色";
-
-/* No comment provided by engineer. */
-"Lightness" = "亮度";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "亮度散步";
@@ -2063,6 +2033,9 @@
 /* No comment provided by engineer. */
 "Mask Subject" = "蒙版主体";
 
+/* No comment provided by engineer. */
+"Masks" = "蒙版";
+
 /* Color Balance */
 "Master" = "主色";
 
@@ -2095,6 +2068,9 @@
 
 /* No comment provided by engineer. */
 "Merge brush marks" = "合并画笔标记";
+
+/* No comment provided by engineer. */
+"Merge Masks" = "Merge Masks";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "合并形状组件";
@@ -2286,12 +2262,6 @@
 "No Subscription Found" = "未找到订阅";
 
 /* No comment provided by engineer. */
-"No thanks" = "不，谢谢";
-
-/* No comment provided by engineer. */
-"Noise Reduction" = "降噪";
-
-/* No comment provided by engineer. */
 "Nondestructively preserve edits in a linked Photomator file." = "在链接的 Photomator 文稿中无损保留编辑。";
 
 /* Tool */
@@ -2316,10 +2286,13 @@
 "On-Image Curves" = "图像上的曲线";
 
 /* No comment provided by engineer. */
-"One license for Mac, iPad, and iPhone." = "一次激活便可同时用于Mac、iPad和iPhone。";
+"One or more LUTs may be damaged or not supported." = "一个或多个 LUT 已损坏或不支持。";
 
 /* No comment provided by engineer. */
-"One or more LUTs may be damaged or not supported." = "一个或多个 LUT 已损坏或不支持。";
+"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"One-time payment of %@." = "One-time payment of %@.";
 
 /* No comment provided by engineer. */
 "Opacity" = "不透明度";
@@ -2390,14 +2363,20 @@
 /* No comment provided by engineer. */
 "Outline" = "外框";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Oval" = "椭圆";
+
+/* No comment provided by engineer. */
+"Oval Selection" = "Oval Selection";
 
 /* No comment provided by engineer. */
 "Overlay" = "叠层";
 
 /* No comment provided by engineer. */
 "Overwrite" = "覆盖";
+
+/* Short for PHOTO Image format */
+"P" = "P";
 
 /* Tool */
 "Paint" = "绘图";
@@ -2457,6 +2436,9 @@
 "Perspective Transform" = "透视变换";
 
 /* No comment provided by engineer. */
+"PHOTO" = "PHOTO";
+
+/* No comment provided by engineer. */
 "Photomator" = "Photomator";
 
 /* No comment provided by engineer. */
@@ -2479,9 +2461,6 @@
 
 /* No comment provided by engineer. */
 "Photomator Help" = "Photomator 帮助";
-
-/* No comment provided by engineer. */
-"Photomator is on sale" = "Photomator在打折";
 
 /* Native iOS Photos app name */
 "Photos" = "照片";
@@ -2586,9 +2565,6 @@
 "Preserve Edits and Original" = "保留编辑内容和原始文件";
 
 /* No comment provided by engineer. */
-"Preserve nondestructive edits in a separate sidecar file." = "将非破坏性编辑内容保存在单独的连接文件中。";
-
-/* No comment provided by engineer. */
 "Preserve transparency" = "保留透明度";
 
 /* No comment provided by engineer. */
@@ -2675,6 +2651,9 @@
 /* No comment provided by engineer. */
 "Quit Application" = "退出应用程序";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* Recents group abbreviation
    Short for RAW Image format */
 "R" = "R";
@@ -2744,13 +2723,7 @@
 "Redeem Code" = "兑换优惠码";
 
 /* No comment provided by engineer. */
-"Redeem offer" = "兑换优惠";
-
-/* No comment provided by engineer. */
 "Redeem Offer" = "兑换优惠券";
-
-/* No comment provided by engineer. */
-"Redeem special offer" = "兑换特别折扣";
 
 /* Edit Menu */
 "Redefine" = "重新定义";
@@ -2790,9 +2763,6 @@
 
 /* No comment provided by engineer. */
 "Reloading…" = "正在重新加载…";
-
-/* No comment provided by engineer. */
-"Remind me" = "提醒我";
 
 /* No comment provided by engineer. */
 "Remove" = "移除";
@@ -3094,22 +3064,7 @@
 "Save Changes" = "存储更改";
 
 /* No comment provided by engineer. */
-"Save changes to the original files you open, overwriting them." = "保存更改到您打开的原始文件，覆盖它们。";
-
-/* No comment provided by engineer. */
 "Save Copy to Photos" = "将副本保存到照片";
-
-/* No comment provided by engineer. */
-"Save image" = "保存图像";
-
-/* No comment provided by engineer. */
-"Save image (1 remaining)" = "保存图像（剩余 1 张）";
-
-/* No comment provided by engineer. */
-"Save image (2 remaining)" = "保存图像（剩余 2 张）";
-
-/* No comment provided by engineer. */
-"Save image (3 remaining)" = "保存图像（剩余 3 张）";
 
 /* A sidecar file is one that is linked to another image file – named after a motorbike sidecar. */
 "Save layers and edits to a sidecar file" = "保存图层和编辑至 sidecar 文件";
@@ -3161,9 +3116,6 @@
 
 /* No comment provided by engineer. */
 "See All" = "查看全部";
-
-/* No comment provided by engineer. */
-"See More Plans" = "查看更多计划";
 
 /* No comment provided by engineer. */
 "Select" = "选择";
@@ -3221,6 +3173,9 @@
 
 /* No comment provided by engineer. */
 "Selected Color" = "选定颜色";
+
+/* No comment provided by engineer. */
+"Selected Layer" = "Selected Layer";
 
 /* No comment provided by engineer. */
 "Selected layer is hidden, reveal it to edit." = "选定的图层被隐藏，显示图层才可编辑。";
@@ -3287,6 +3242,9 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "形状方向";
+
+/* No comment provided by engineer. */
+"Shape Mask" = "Shape Mask";
 
 /* Edit Menu */
 "Share" = "共享";
@@ -3529,6 +3487,9 @@
 /* No comment provided by engineer. */
 "Square" = "正方形";
 
+/* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
 /* Tool */
 "Star" = "星";
 
@@ -3560,9 +3521,6 @@
 "Status Bar" = "状态栏";
 
 /* No comment provided by engineer. */
-"Storage Improvements" = "储存空间改进";
-
-/* No comment provided by engineer. */
 "Store Edits in iCloud" = "将编辑存储在 iCloud";
 
 /* Tool */
@@ -3579,12 +3537,6 @@
 
 /* No comment provided by engineer. */
 "Stroke" = "描边";
-
-/* No comment provided by engineer. */
-"Stroke Position" = "描边位置";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "描边输入";
 
 /* No comment provided by engineer. */
 "Stroke Width" = "描边宽度";
@@ -3608,10 +3560,19 @@
 "Subject Mask" = "主题蒙版";
 
 /* No comment provided by engineer. */
+"Subscribe" = "Subscribe";
+
+/* No comment provided by engineer. */
+"Subscribe monthly for %@. Cancel anytime." = "Subscribe monthly for %@. Cancel anytime.";
+
+/* No comment provided by engineer. */
 "Subscribe to Photomator" = "Photomator 订阅";
 
 /* No comment provided by engineer. */
 "Subscribe to Pixelmator Photo" = "订阅 Pixelmator Photo";
+
+/* No comment provided by engineer. */
+"Subscribe yearly for %@. Cancel anytime." = "Subscribe yearly for %@. Cancel anytime.";
 
 /* No comment provided by engineer. */
 "Subtract" = "减";
@@ -3693,7 +3654,7 @@
 "Texture-aware adjustments cannot be recreated using LUTs so the exported LUT will look different." = "纹理感知调整不能使用 LUT 重新创建，因此导出的 LUT 看起来会不同。";
 
 /* No comment provided by engineer. */
-"Thanks to improved sidecar file saving in Photomator, your edits will take way less storage space, and when editing in Files, preserve the original file while saving the edits as a separate file." = "Photomator 改进了连接文件的保存方式，您的编辑将占用更少储存空间。而且在“文件”中编辑时，应用会将编辑内容保存为单独文件，同时保留原始文件。";
+"Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space." = "Thanks to sidecar file size optimizations, your edits, including those of RAW photos, will now use significantly less storage space.";
 
 /* No comment provided by engineer. */
 "That covers the basics – you’re ready to start editing your photos!" = "基本操作大致就是这些，开始编辑您的照片吧！";
@@ -3721,6 +3682,9 @@
 
 /* No comment provided by engineer. */
 "The Files browser lets you browse all the documents on your device. To switch to the Photos browser, tap the %@ icon and, in the Browser menu, select Photos." = "文件浏览器可让您浏览设备上所有的文件。切换至照片浏览器只需点击%@图标并在浏览目录中选择图片。";
+
+/* No comment provided by engineer. */
+"The filmstrip is unavailable for this folder." = "The filmstrip is unavailable for this folder.";
 
 /* No comment provided by engineer. */
 "The folder of the image could not be found." = "无法找到图像所在的文件夹。";
@@ -3915,9 +3879,6 @@
 "To reveal filmstrip, give access to the image’s root folder by selecting the folder and tapping Open." = "如需查看电影胶片，您需要先授予访问此图像根文件夹的权限。请选中文件夹，然后轻点“打开”。";
 
 /* No comment provided by engineer. */
-"To reveal filmstrip, touch and hold a folder, then choose Edit with Filmstrip." = "如需查看电影胶片，请长按文件夹，然后选择“用 Filmstrip 编辑”。";
-
-/* No comment provided by engineer. */
 "To use this feature, you’ll need to buy or subscribe to Photomator, but an error occurred while trying to show the purchases view. If this happens repeatedly, reach out to us and we’ll help out. (Error Code: %i)" = "要使用此功能，你需要购买或订阅 Photomator，但购买页面显示有问题。如果问题持续出现，请与我们联系以获得帮助。（错误代码：%i）";
 
 /* No comment provided by engineer. */
@@ -3966,7 +3927,7 @@
 "Try Again" = "再试一次";
 
 /* No comment provided by engineer. */
-"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, and iPhone." = "让出色的照片更精致—在Mac，iPad和iPhone上都能使用的全套强大照片编辑工具。";
+"Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro." = "Turn good-looking shots spectacular with a full set of powerful photo editing tools available on Mac, iPad, iPhone, and Vision Pro.";
 
 /* Tool */
 "Twirl" = "旋转";
@@ -3976,6 +3937,9 @@
 
 /* No comment provided by engineer. */
 "Unable to Access" = "无法访问";
+
+/* No comment provided by engineer. */
+"Unable to Access Folder" = "Unable to Access Folder";
 
 /* No comment provided by engineer. */
 "Unable to Access Help" = "无法访问帮助";
@@ -4062,7 +4026,7 @@
 "Unlock new RAW editing workflows with the new Extended Dynamic Range Mode." = "使用全新的扩展动态范围模式解锁新的 RAW 编辑工作流程。";
 
 /* No comment provided by engineer. */
-"Unlock Photomator on Mac, iPad, and iPhone with a single license." = "订阅一次即可在Mac，iPad以及iPhone上同时解锁Photomator。";
+"Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license." = "Unlock Photomator on Mac, iPad, iPhone, and Vision Pro with a single license.";
 
 /* %@ stands for non-breaking space */
 "Unlock Photomator%@for%@Mac" = "解锁Mac端%1$@%2$@Photomator";
@@ -4108,9 +4072,6 @@
 
 /* No comment provided by engineer. */
 "Upgrade" = "升级";
-
-/* No comment provided by engineer. */
-"Upgrade to access the full image editing experience in Photomator." = "升级以体验 Pixelmator 所提供的全部功能。";
 
 /* The name of a 3D file format. */
 "USD" = "USD";
@@ -4206,6 +4167,9 @@
 "When exporting, apply text or image watermarks to protect your photos." = "导出时，使用文字或图像水印来保护您的照片。";
 
 /* No comment provided by engineer. */
+"When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals." = "When working in Files, easily browse photos using a filmstrip, and choose to save edits as a separate file without modifying the originals.";
+
+/* No comment provided by engineer. */
 "White" = "白色";
 
 /* No comment provided by engineer. */
@@ -4237,9 +4201,6 @@
 
 /* No comment provided by engineer. */
 "Workflows" = "工作流程";
-
-/* No comment provided by engineer. */
-"Would you like to be notified before your free trial is about to end?" = "您想要在免费试用期结束之前得到通知吗？";
 
 /* No comment provided by engineer. */
 "Would you like to save your changes to the original JPEG/PNG/TIFF file or a Pixelmator Pro document?" = "是否将更改储存到原始的 JPEG/PNG/TIFF 文件或 Pixelmator Pro 文稿？";
@@ -4282,9 +4243,6 @@
 
 /* No comment provided by engineer. */
 "You're Offline" = "您离线了";
-
-/* No comment provided by engineer. */
-"Your 7-day trial has started!" = "您的 7 天免费试用期已开始！";
 
 /* No comment provided by engineer. */
 "Your free trial will end in 2 days. Explore Photomator by editing a few of your photos!" = "您的免费试用将于 2 天后到期。请尝试编辑一些照片，体验 Photomator 的功能！";

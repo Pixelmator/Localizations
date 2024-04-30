@@ -5,6 +5,9 @@
 "A more or less universal resizing algorithm, smooths out edges slightly." = "较为通用的大小调整算法，边缘略微平滑。";
 
 /* No comment provided by engineer. */
+"Add a mask to the selected layer." = "Add a mask to the selected layer.";
+
+/* No comment provided by engineer. */
 "Add an export format." = "添加导出格式。";
 
 /* No comment provided by engineer. */
@@ -185,6 +188,9 @@
 "Adjust how much to soften the edges of the Lighten tool brush." = "调整变淡工具画笔边缘的柔化程度。";
 
 /* No comment provided by engineer. */
+"Adjust how much to soften the edges of the mask." = "Adjust how much to soften the edges of the mask.";
+
+/* No comment provided by engineer. */
 "Adjust how much to soften the edges of the Saturate tool brush." = "调整饱和工具画笔边缘的柔化程度。";
 
 /* No comment provided by engineer. */
@@ -257,13 +263,13 @@
 "Adjust the brightness of the selected color." = "调整所选颜色的亮度。";
 
 /* No comment provided by engineer. */
+"Adjust the brush settings." = "Adjust the brush settings.";
+
+/* No comment provided by engineer. */
 "Adjust the contrast between the lightest and darkest areas in the image." = "调整图像中最亮和最暗区域之间的对比度。";
 
 /* No comment provided by engineer. */
 "Adjust the contrast in the highlights of your black and white." = "调整亮部黑色和白色之间的对比度。";
-
-/* No comment provided by engineer. */
-"Adjust the density of the mask." = "调整蒙版的密度。";
 
 /* No comment provided by engineer. */
 "Adjust the dynamic range of the darkest areas in the image." = "调整图像中最暗区域的动态范围。";
@@ -300,6 +306,15 @@
 
 /* No comment provided by engineer. */
 "Adjust the intensity of the fade effect in the darkest areas of the image." = "调整图像最暗区域淡入淡出效果的强度。";
+
+/* No comment provided by engineer. */
+"Adjust the mask settings." = "Adjust the mask settings.";
+
+/* No comment provided by engineer. */
+"Adjust the mask with additional controls." = "Adjust the mask with additional controls.";
+
+/* No comment provided by engineer. */
+"Adjust the masking effect strength. Higher density hides more, and lower density lets more details to pass through." = "Adjust the masking effect strength. Higher density hides more, and lower density lets more details to pass through.";
 
 /* No comment provided by engineer. */
 "Adjust the overall amount of light in the image." = "调整图像中的总光照量。";
@@ -444,9 +459,6 @@
 
 /* No comment provided by engineer. */
 "Adjust the softness of the gradient mask." = "调整渐变图层的柔和度。";
-
-/* No comment provided by engineer. */
-"Adjust the softness of the mask." = "调整蒙版的柔和度。";
 
 /* No comment provided by engineer. */
 "Adjust the spacing between each brush texture mark in your brushstroke." = "调整笔刷纹理标记之间的间距。";
@@ -623,6 +635,9 @@
 "Automatically enhance the photo." = "自动增强照片";
 
 /* No comment provided by engineer. */
+"Automatically hide the background around the subject in the selected layer." = "Automatically hide the background around the subject in the selected layer.";
+
+/* No comment provided by engineer. */
 "Automatically make a selection of the subject of the currently selected layer." = "自动对当前所选图层的主体进行选择。";
 
 /* No comment provided by engineer. */
@@ -689,6 +704,12 @@
 "Change the angle of the shadow." = "更改阴影的角度。";
 
 /* No comment provided by engineer. */
+"Change the brush mode to Erase. Painting over the image will reveal any hidden areas of the layer you’re editing." = "Change the brush mode to Erase. Painting over the image will reveal any hidden areas of the layer you’re editing.";
+
+/* No comment provided by engineer. */
+"Change the brush mode to Paint. Painting over the image will hide areas of the layer you’re editing." = "Change the brush mode to Paint. Painting over the image will hide areas of the layer you’re editing.";
+
+/* No comment provided by engineer. */
 "Change the horizontal and vertical perspective of the object." = "更改对象的水平和垂直透视。";
 
 /* No comment provided by engineer. */
@@ -710,6 +731,9 @@
 "Choose a document color palette." = "选取文稿颜色调板。";
 
 /* No comment provided by engineer. */
+"Choose a fill type for the mask." = "Choose a fill type for the mask.";
+
+/* No comment provided by engineer. */
 "Choose a fill type for the stroke." = "选择描边的填充类型。";
 
 /* No comment provided by engineer. */
@@ -717,6 +741,9 @@
 
 /* No comment provided by engineer. */
 "Choose a layer to add to this image." = "选择要添加到此图像的图层。";
+
+/* No comment provided by engineer. */
+"Choose a mask shape." = "Choose a mask shape.";
 
 /* No comment provided by engineer. */
 "Choose a pattern image." = "选择图案图像。";
@@ -732,9 +759,6 @@
 
 /* No comment provided by engineer. */
 "Choose a stroke style preset or adjust stroke settings." = "选择笔画风格预设或调整笔画设置。";
-
-/* No comment provided by engineer. */
-"Choose a stroke style." = "选择描边样式。";
 
 /* No comment provided by engineer. */
 "Choose a style for the end of the stroke, including dashed portions." = "为笔画的结尾选择样式，包括虚线部分。";
@@ -777,6 +801,9 @@
 
 /* No comment provided by engineer. */
 "Choose how to capitalize text." = "选择如何大写文本。";
+
+/* No comment provided by engineer. */
+"Choose how to combine this mask with the masks below." = "Choose how to combine this mask with the masks below.";
 
 /* No comment provided by engineer. */
 "Choose how to combine this shape component with the components below." = "选择此形状组件如何与下面的组件相结合。";
@@ -822,6 +849,9 @@
 
 /* No comment provided by engineer. */
 "Click and hold to show the photo without edits." = "点击并长按以显示无编辑的照片。";
+
+/* No comment provided by engineer. */
+"Click on the image to start masking" = "Click on the image to start masking";
 
 /* No comment provided by engineer. */
 "Click to automatically adjust the color balance of the image." = "单击可自动调整图像的色彩平衡。";
@@ -980,6 +1010,9 @@
 "Decrease the zoom level of the image." = "降低图像的缩放级别。";
 
 /* No comment provided by engineer. */
+"Destructively combine all layer masks into a single mask." = "Destructively combine all layer masks into a single mask.";
+
+/* No comment provided by engineer. */
 "Destructively combine the selected objects into a single object." = "破坏性地将所选对象合并到单个对象中。";
 
 /* No comment provided by engineer. */
@@ -1011,6 +1044,12 @@
 
 /* No comment provided by engineer. */
 "Distance" = "距离";
+
+/* No comment provided by engineer. */
+"Drag on the image to start masking" = "Drag on the image to start masking";
+
+/* No comment provided by engineer. */
+"Drag to adjust the position of the gradient" = "拖移以调整渐变的位置";
 
 /* No comment provided by engineer. */
 "Draw circular and elliptical shapes." = "绘制圆形和椭圆形。";
@@ -1062,6 +1101,9 @@
 
 /* No comment provided by engineer. */
 "Edit the yellows in the image." = "编辑图像中的黄色。";
+
+/* No comment provided by engineer. */
+"Enable mask to make it visible." = "Enable mask to make it visible.";
 
 /* No comment provided by engineer. */
 "Enable the layer mask." = "启用图层蒙版。";
@@ -1124,7 +1166,13 @@
 "Fine-tune or completely change the colors of images." = "微调或完全改变图像的颜色。";
 
 /* No comment provided by engineer. */
+"Finish drawing to complete the mask" = "Finish drawing to complete the mask";
+
+/* No comment provided by engineer. */
 "Finish editing the photo." = "完成图片编辑。";
+
+/* No comment provided by engineer. */
+"Finish editing." = "Finish editing.";
 
 /* No comment provided by engineer. */
 "Flip the image horizontally." = "水平翻转";
@@ -1196,10 +1244,10 @@
 "Lock the layer group to prevent editing." = "锁定图层组以防止编辑。";
 
 /* No comment provided by engineer. */
-"Lock the layer mask to prevent editing." = "锁定图层蒙版以防止编辑。";
+"Lock the layer to prevent editing." = "锁定图层以防止编辑。";
 
 /* No comment provided by engineer. */
-"Lock the layer to prevent editing." = "锁定图层以防止编辑。";
+"Lock the mask to prevent editing." = "Lock the mask to prevent editing.";
 
 /* No comment provided by engineer. */
 "Make freehand selections." = "制作手绘选区。";
@@ -1282,6 +1330,9 @@
 
 /* No comment provided by engineer. */
 "Perform tasks with the image like changing its size, color profile, and more." = "对图像执行任务，例如更改其大小、颜色描述文件等。";
+
+/* No comment provided by engineer. */
+"Perform tasks with the mask like refining, replacing, removing it, and more." = "Perform tasks with the mask like refining, replacing, removing it, and more.";
 
 /* No comment provided by engineer. */
 "Perform tasks with the video like scrubbing, trimming, and more." = "执行与视频相关的任务，如划片、裁剪等。";
@@ -1662,6 +1713,9 @@
 "Set how much to soften the edges of the Lighten tool brush." = "设置变淡工具画笔边缘的柔化程度。";
 
 /* No comment provided by engineer. */
+"Set how much to soften the edges of the mask." = "Set how much to soften the edges of the mask.";
+
+/* No comment provided by engineer. */
 "Set how much to soften the edges of the Saturate tool brush." = "设置饱和工具画笔边缘的柔化程度。";
 
 /* No comment provided by engineer. */
@@ -1794,9 +1848,6 @@
 "Set the corner radius for each corner individually." = "为所有角各自设置角半径。";
 
 /* No comment provided by engineer. */
-"Set the density of the mask." = "设置蒙版的密度。";
-
-/* No comment provided by engineer. */
 "Set the distance from the object's top-left corner to the left edge of the canvas." = "设置从对象的左上角到画布左边缘的距离。";
 
 /* No comment provided by engineer. */
@@ -1849,6 +1900,9 @@
 
 /* No comment provided by engineer. */
 "Set the location in the brush stroke at which simulated pressure will be strongest." = "设置笔刷描边中模拟压力最强的位置。";
+
+/* No comment provided by engineer. */
+"Set the masking effect strength. Higher density hides more, and lower density lets more details to pass through." = "Set the masking effect strength. Higher density hides more, and lower density lets more details to pass through.";
 
 /* No comment provided by engineer. */
 "Set the object height." = "设置对象高度。";
@@ -1993,9 +2047,6 @@
 
 /* No comment provided by engineer. */
 "Set the softness of the gradient mask." = "设置渐变图层的柔和度。";
-
-/* No comment provided by engineer. */
-"Set the softness of the mask." = "设置蒙版的柔和度。";
 
 /* No comment provided by engineer. */
 "Set the spacing between each brush texture mark in your brushstroke." = "设置笔刷纹理标记之间的间距。";
@@ -2295,10 +2346,10 @@
 "Unlock the layer group to allow editing." = "解锁图层组以允许编辑。";
 
 /* No comment provided by engineer. */
-"Unlock the layer mask to allow editing." = "解锁图层蒙版以允许编辑。";
+"Unlock the layer to allow editing." = "解锁图层以允许编辑。";
 
 /* No comment provided by engineer. */
-"Unlock the layer to allow editing." = "解锁图层以允许编辑。";
+"Unlock the mask to allow editing." = "Unlock the mask to allow editing.";
 
 /* No comment provided by engineer. */
 "Unmute audio." = "解除音频静音状态";

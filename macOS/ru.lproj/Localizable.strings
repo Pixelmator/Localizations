@@ -43,9 +43,6 @@
 /* Exposure time in seconds */
 "%@ s" = "%@ с";
 
-/* seconds */
-"%@s" = "%@с";
-
 /* No comment provided by engineer. */
 "%d Album" = "%d альбом";
 
@@ -98,6 +95,9 @@
 "%i Paths" = "Путей: %i";
 
 /* No comment provided by engineer. */
+"%i Selected Layers" = "%i Selected Layers";
+
+/* No comment provided by engineer. */
 "%i week free, then %@. Cancel anytime." = "%1$i нед. бесплатно, затем %2$@. Отмена в любой момент.";
 
 /* No comment provided by engineer. */
@@ -132,9 +132,6 @@
 
 /* color picker sample size area */
 "1 Point" = "1 точка";
-
-/* No comment provided by engineer. */
-"1 year %@, then %@/year. Cancel anytime." = "Первый год %1$@, затем %2$@ в год. Отмена в любой момент.";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16 бит/канал";
@@ -240,6 +237,9 @@
 
 /* No comment provided by engineer. */
 "Add Masked Layer" = "Добавить маскированный слой";
+
+/* No comment provided by engineer. */
+"Add Pictures folder" = "Add Pictures folder";
 
 /* No comment provided by engineer. */
 "Add Point" = "Добавить точку";
@@ -494,6 +494,9 @@
 "Background Layer" = "Фоновый слой";
 
 /* No comment provided by engineer. */
+"Background Mask" = "Background Mask";
+
+/* No comment provided by engineer. */
 "Balance Adjustment" = "Корректировки баланса";
 
 /* No comment provided by engineer. */
@@ -734,13 +737,13 @@
 "Choose an image to use for color matching." = "Выберите изображение для полного соответствия цвета.";
 
 /* No comment provided by engineer. */
+"Choose Image Mask…" = "Choose Image Mask…";
+
+/* No comment provided by engineer. */
 "Choose Image…" = "Выбрать изображение…";
 
 /* No comment provided by engineer. */
 "Choose LUT…" = "Выбрать LUT…";
-
-/* No comment provided by engineer. */
-"Choose Mask…" = "Выбрать маску…";
 
 /* No comment provided by engineer. */
 "Choose where to save the exported images." = "Выберите, куда сохранять экспортированные изображения.";
@@ -750,9 +753,6 @@
 
 /* No comment provided by engineer. */
 "Chromatic Aberration" = "Хроматическая аберрация";
-
-/* No comment provided by engineer. */
-"Chromatic Noise Tracking" = "Трекинг хроматического шума";
 
 /* No comment provided by engineer. */
 "Chromaticity X" = "Хроматичность X";
@@ -768,15 +768,6 @@
 
 /* No comment provided by engineer. */
 "Clarity" = "Ясность";
-
-/* No comment provided by engineer. */
-"Clarity Highlights" = "Ясность светлых мест";
-
-/* No comment provided by engineer. */
-"Clarity Midtones" = "Ясность средних тонов";
-
-/* No comment provided by engineer. */
-"Clarity Shadows" = "Ясность теней";
 
 /* No comment provided by engineer. */
 "Clear All" = "Удалить все";
@@ -798,9 +789,6 @@
 
 /* No comment provided by engineer. */
 "Click Allow Access to let Pixelmator Pro access files in the \"%@\" folder." = "Нажать, чтобы открыть доступ файлам Pixelmator Pro в папке \"%@\".";
-
-/* No comment provided by engineer. */
-"Click save photo to save your edits, or choose Discard Changes to discard them." = "Нажмите «Сохранить фото», чтобы сохранить изменения, или «Отменить изменения», чтобы сбросить их.";
 
 /* No comment provided by engineer. */
 "Click to choose a color." = "Нажать для выбора цвета.";
@@ -1097,7 +1085,7 @@
 "Custom" = "Пользовательский";
 
 /* No comment provided by engineer. */
-"Custom LUT" = "Пользовательский LUT";
+"Custom Shape…" = "Произвольная фигура…";
 
 /* No comment provided by engineer. */
 "Customize Layout…" = "Настроить макет…";
@@ -1167,9 +1155,6 @@
 
 /* No comment provided by engineer. */
 "Default Effects" = "Эффект по умолчанию";
-
-/* No comment provided by engineer. */
-"Dehaze" = "Убрать дымку";
 
 /* No comment provided by engineer. */
 "Delete" = "Удалить";
@@ -1271,9 +1256,6 @@
 "Destination Over" = "Место назначения поверх";
 
 /* No comment provided by engineer. */
-"Detail" = "Подробнее";
-
-/* No comment provided by engineer. */
 "Detecting background…" = "Обнаружение фона…";
 
 /* No comment provided by engineer. */
@@ -1317,6 +1299,9 @@
 
 /* No comment provided by engineer. */
 "Display HDR Content" = "Отобразить контент HDR";
+
+/* No comment provided by engineer. */
+"Display P3" = "Показать P3";
 
 /* No comment provided by engineer. */
 "Distance" = "Дистанция";
@@ -1409,6 +1394,12 @@
 "Draw Slice" = "Нарисовать ломтик";
 
 /* No comment provided by engineer. */
+"Draw With Freeform Pen" = "Draw With Freeform Pen";
+
+/* No comment provided by engineer. */
+"Draw With Pen" = "Draw With Pen";
+
+/* No comment provided by engineer. */
 "Drawing" = "Рисовать";
 
 /* No comment provided by engineer. */
@@ -1472,6 +1463,9 @@
 "Edit images and videos saved on your Mac" = "Править изображения и видео, сохраненные на вашем Mac";
 
 /* No comment provided by engineer. */
+"Edit Mask" = "Изменить маску";
+
+/* No comment provided by engineer. */
 "Edit Photo" = "Править фото";
 
 /* No comment provided by engineer. */
@@ -1495,18 +1489,6 @@
 /* No comment provided by engineer. */
 "Effects" = "Эффекты";
 
-/* No comment provided by engineer. */
-"Ellipse" = "Эллипс";
-
-/* No comment provided by engineer. */
-"Ellipse Shape" = "Фигура эллипса";
-
-/* No comment provided by engineer. */
-"Elliptical Selection" = "Выбор эллипсом";
-
-/* No comment provided by engineer. */
-"Elliptical Speech Bubble" = "Эллиптический пузырь речи";
-
 /* Empty is an adjective here. It means this group layer is empty. */
 "Empty Group" = "Пустая группа";
 
@@ -1515,9 +1497,6 @@
 
 /* No comment provided by engineer. */
 "Enable Auto-Center" = "Отключить автоцентровку";
-
-/* No comment provided by engineer. */
-"Enable EDR" = "Включить EDR";
 
 /* No comment provided by engineer. */
 "Enable Mask" = "Включить маску";
@@ -1745,6 +1724,9 @@
 "Feather" = "Растушевка";
 
 /* No comment provided by engineer. */
+"Feather %@" = "Feather %@";
+
+/* No comment provided by engineer. */
 "File Size:" = "Размер файла:";
 
 /* Refers to application settings that affect editing files that are saved on the user's device. */
@@ -1856,6 +1838,9 @@
 "Generator" = "Генератор";
 
 /* No comment provided by engineer. */
+"Get %@ off for one year" = "Get %@ off for one year";
+
+/* No comment provided by engineer. */
 "Get Started" = "Начинаем!";
 
 /* The name of an image file format. */
@@ -1955,7 +1940,13 @@
 "Hide" = "Скрыть";
 
 /* No comment provided by engineer. */
+"Hide All" = "Hide All";
+
+/* No comment provided by engineer. */
 "Hide All Other Layers" = "Скрыть все другие слои";
+
+/* No comment provided by engineer. */
+"Hide Background" = "Hide Background";
 
 /* No comment provided by engineer. */
 "Hide Colors" = "Скрыть цвета";
@@ -2004,6 +1995,9 @@
 
 /* No comment provided by engineer. */
 "Hide Rulers" = "Убрать линейки";
+
+/* No comment provided by engineer. */
+"Hide Shape" = "Hide Shape";
 
 /* No comment provided by engineer. */
 "Hide Shape Outline" = "Скрыть контур фигуры";
@@ -2165,9 +2159,6 @@
 "Invert Mask" = "Инвертировать маску";
 
 /* No comment provided by engineer. */
-"Invert Mask Colors" = "Инвертировать цвета маски";
-
-/* No comment provided by engineer. */
 "Invert Masks" = "Инвертировать маски";
 
 /* No comment provided by engineer. */
@@ -2219,9 +2210,6 @@
 "Layer" = "Слой";
 
 /* No comment provided by engineer. */
-"Layer Mask" = "Маска слоя";
-
-/* No comment provided by engineer. */
 "Layer Selection" = "Выборка слоев";
 
 /* No comment provided by engineer. */
@@ -2249,6 +2237,9 @@
 "Library" = "Медиатека";
 
 /* No comment provided by engineer. */
+"Lifetime access for just %@" = "Lifetime access for just %@";
+
+/* No comment provided by engineer. */
 "Ligature" = "Лигатура";
 
 /* Refers to the light setting used for application appearance. */
@@ -2274,9 +2265,6 @@
 
 /* No comment provided by engineer. */
 "Lighter Color" = "Осветлить цвет";
-
-/* No comment provided by engineer. */
-"Lightness" = "Осветление";
 
 /* No comment provided by engineer. */
 "Lightness Scatter" = "Разброс осветления";
@@ -2420,7 +2408,13 @@
 "Mask" = "Маска";
 
 /* No comment provided by engineer. */
+"Mask Blending Mode" = "Mask Blending Mode";
+
+/* No comment provided by engineer. */
 "Mask Subject" = "Маскировать объект";
+
+/* No comment provided by engineer. */
+"Mask With Shape" = "Mask With Shape";
 
 /* No comment provided by engineer. */
 "Masks" = "Маски";
@@ -2460,6 +2454,9 @@
 
 /* No comment provided by engineer. */
 "Merge brush marks" = "Объединить следы кисти";
+
+/* No comment provided by engineer. */
+"Merge Masks" = "Merge Masks";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "Объединить компоненты фигуры";
@@ -2618,9 +2615,6 @@
 "New Effects Layer" = "Новый слой эффектов";
 
 /* No comment provided by engineer. */
-"New Ellipse Shape" = "Новый эллипс";
-
-/* No comment provided by engineer. */
 "New Folder" = "Новая папка";
 
 /* No comment provided by engineer. */
@@ -2670,6 +2664,9 @@
 
 /* No comment provided by engineer. */
 "New name for style preset:" = "Новое имя для пресета стилей:";
+
+/* No comment provided by engineer. */
+"New Oval Shape" = "New Oval Shape";
 
 /* No comment provided by engineer. */
 "New Polygon Shape" = "Новый многоугольник";
@@ -2753,9 +2750,6 @@
 "No Subject Detected" = "Объектов не обнаружено";
 
 /* No comment provided by engineer. */
-"Noise Reduction" = "Уменьшение шума";
-
-/* No comment provided by engineer. */
 "None" = "Нет";
 
 /* No comment provided by engineer. */
@@ -2778,6 +2772,12 @@
 
 /* No comment provided by engineer. */
 "On" = "Вкл.";
+
+/* No comment provided by engineer. */
+"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"One-time payment of %@." = "One-time payment of %@.";
 
 /* No comment provided by engineer. */
 "Opacity" = "Непрозрачность";
@@ -2846,6 +2846,12 @@
 "Oval" = "Овал";
 
 /* No comment provided by engineer. */
+"Oval Selection" = "Oval Selection";
+
+/* No comment provided by engineer. */
+"Oval Shape" = "Oval Shape";
+
+/* No comment provided by engineer. */
 "Overlay" = "Оверлей";
 
 /* No comment provided by engineer. */
@@ -2892,6 +2898,9 @@
 
 /* No comment provided by engineer. */
 "Path" = "Путь";
+
+/* No comment provided by engineer. */
+"Path Combine Mode" = "Path Combine Mode";
 
 /* No comment provided by engineer. */
 "Path Exclude" = "Исключение пути";
@@ -3157,6 +3166,9 @@
 /* Quit without saves error question info */
 "Quitting now will lose any changes you have made since the last successful save" = "Если завершить сейчас, будут потеряны все изменения с момента последнего удачного сохранения";
 
+/* No comment provided by engineer. */
+"Quote Bubble" = "Quote Bubble";
+
 /* RGB red component */
 "R" = "R";
 
@@ -3192,6 +3204,12 @@
 
 /* No comment provided by engineer. */
 "RAW Photo" = "Фото RAW";
+
+/* No comment provided by engineer. */
+"Read-Only File" = "Read-Only File";
+
+/* No comment provided by engineer. */
+"Read-Only Folder" = "Read-Only Folder";
 
 /* No comment provided by engineer. */
 "Rectangle" = "Прямоугольник";
@@ -3395,6 +3413,12 @@
 "Replace from Photos…" = "Заменить из Фото…";
 
 /* No comment provided by engineer. */
+"Replace Image Masks…" = "Replace Image Masks…";
+
+/* No comment provided by engineer. */
+"Replace Image Mask…" = "Replace Image Mask…";
+
+/* No comment provided by engineer. */
 "Replace Layer" = "Заменить Слой";
 
 /* No comment provided by engineer. */
@@ -3404,13 +3428,10 @@
 "Replace Masks" = "Заменить маски";
 
 /* No comment provided by engineer. */
-"Replace Masks…" = "Заменить маски…";
-
-/* No comment provided by engineer. */
-"Replace Mask…" = "Заменить маску…";
-
-/* No comment provided by engineer. */
 "Replace Shape" = "Заменить фигуру";
+
+/* No comment provided by engineer. */
+"Replace Shape Mask…" = "Replace Shape Mask…";
 
 /* No comment provided by engineer. */
 "Replace Shape…" = "Заменить фигуру…";
@@ -3524,6 +3545,9 @@
 "Retouching" = "Ретушь";
 
 /* No comment provided by engineer. */
+"Reveal All" = "Reveal All";
+
+/* No comment provided by engineer. */
 "Reveal Canvas" = "Раскрыть холст";
 
 /* No comment provided by engineer. */
@@ -3534,6 +3558,9 @@
 
 /* No comment provided by engineer. */
 "Reveal or hide the layer masks." = "Показать или скрыть маски слоев.";
+
+/* No comment provided by engineer. */
+"Reveal Shape" = "Reveal Shape";
 
 /* No comment provided by engineer. */
 "Reveal Sidecar File" = "Показать файл sidecar";
@@ -3761,6 +3788,9 @@
 "Selected Color" = "Выбранный цвет";
 
 /* No comment provided by engineer. */
+"Selected Layer" = "Selected Layer";
+
+/* No comment provided by engineer. */
 "Selecting" = "Выбор";
 
 /* No comment provided by engineer. */
@@ -3843,6 +3873,9 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "Направление фигуры";
+
+/* No comment provided by engineer. */
+"Shape Mask" = "Shape Mask";
 
 /* No comment provided by engineer. */
 "Shapes" = "Фигуры";
@@ -4124,6 +4157,9 @@
 "Square" = "Квадрат";
 
 /* No comment provided by engineer. */
+"sRGB" = "sRGB";
+
+/* No comment provided by engineer. */
 "Star" = "Звезда";
 
 /* No comment provided by engineer. */
@@ -4175,12 +4211,6 @@
 "Stroke" = "Штрих";
 
 /* No comment provided by engineer. */
-"Stroke Position" = "Позиция штриха";
-
-/* No comment provided by engineer. */
-"Stroke Type" = "Тип штриха";
-
-/* No comment provided by engineer. */
 "Stroke Width" = "Ширина штриха";
 
 /* No comment provided by engineer. */
@@ -4203,6 +4233,15 @@
 
 /* No comment provided by engineer. */
 "Subject Mask" = "Маска объекта";
+
+/* No comment provided by engineer. */
+"Subscribe" = "Subscribe";
+
+/* No comment provided by engineer. */
+"Subscribe monthly for %@. Cancel anytime." = "Subscribe monthly for %@. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"Subscribe yearly for %@. Cancel anytime." = "Subscribe yearly for %@. Cancel anytime.";
 
 /* No comment provided by engineer. */
 "Subtract" = "Вычесть";
@@ -4293,6 +4332,9 @@
 
 /* No comment provided by engineer. */
 "The document “%@” couldn’t be opened." = "Не удается открыть документ «%@».";
+
+/* No comment provided by engineer. */
+"The files browser lets you open and edit images saved anywhere on your Mac." = "The files browser lets you open and edit images saved anywhere on your Mac.";
 
 /* No comment provided by engineer. */
 "The files will be moved to the Trash, so they can be recovered from there until the Trash is emptied." = "Файлы будут перемещены в Корзину. Пока Корзина не очищена, при необходимости их можно будет восстановить.";
@@ -4397,6 +4439,9 @@
 "To avoid issues, save any unsaved work, then free up some storage and try restarting your Mac." = "Чтобы избежать появления проблем, сохраните всю несохранённую работу, затем освободите память и попробуйте перезагрузить ваш Mac.";
 
 /* No comment provided by engineer. */
+"To browse your Pictures folder, click Add Pictures below." = "To browse your Pictures folder, click Add Pictures below.";
+
+/* No comment provided by engineer. */
 "To rearrange the interface elements, drag them to the desired position." = "Чтобы перегруппировать элементы интерфейса, перетащите их на требуемые позиции.";
 
 /* No comment provided by engineer. */
@@ -4446,6 +4491,9 @@
 
 /* No comment provided by engineer. */
 "Try (%i days remaining)" = "Пробная версия (осталось %i дн)";
+
+/* No comment provided by engineer. */
+"Try the files browser" = "Try the files browser";
 
 /* No comment provided by engineer. */
 "Turn histogram on or off." = "Включить/выключить гистограмму.";
@@ -4502,7 +4550,13 @@
 "Unlock" = "Разблокировать";
 
 /* No comment provided by engineer. */
+"Unlock Folder" = "Unlock Folder";
+
+/* No comment provided by engineer. */
 "Unlock Guides" = "Разблокировать направляющие";
+
+/* No comment provided by engineer. */
+"Unlock Photo" = "Unlock Photo";
 
 /* No comment provided by engineer. */
 "Unmute" = "Вкл. звук";
