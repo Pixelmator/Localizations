@@ -41,10 +41,10 @@
 "%i Images Selected" = "Выбрано изображений: %i";
 
 /* No comment provided by engineer. */
-"%i Layers" = "Слоев: %i";
+"%i of %i Edits Used" = "Использовано правок: %1$i из %2$i";
 
 /* No comment provided by engineer. */
-"%i of %i Edits Used" = "Использовано правок: %1$i из %2$i";
+"%i Selected Layers" = "%i Selected Layers";
 
 /* No comment provided by engineer. */
 "%i tips" = "Подсказки: %i";
@@ -86,9 +86,6 @@
 "1 tip" = "Подсказки: 1";
 
 /* No comment provided by engineer. */
-"1 year %@, then %@/year. Cancel anytime." = "Первый год %1$@, затем %2$@ в год. Отмена в любой момент.";
-
-/* No comment provided by engineer. */
 "16 Bits/Channel" = "16 бит/канал";
 
 /* No comment provided by engineer. */
@@ -102,9 +99,6 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Файл или папка с таким же именем уже имеется в папке %@. Замена такого объекта приведет к перезаписи его текущего контента.";
-
-/* No comment provided by engineer. */
-"A one-time purchase for %@." = "A one-time purchase for %@.";
 
 /* No comment provided by engineer. */
 "ACCENT COLOR" = "АКЦЕНТНЫЙ ЦВЕТ";
@@ -379,6 +373,9 @@
 
 /* No comment provided by engineer. */
 "Background Layer" = "Фоновый слой";
+
+/* No comment provided by engineer. */
+"Background Mask" = "Background Mask";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "Корректировки баланса";
@@ -702,6 +699,9 @@
 
 /* Layer Management */
 "Copy Layer" = "Скопировать слой";
+
+/* No comment provided by engineer. */
+"Copy Mask" = "Копировать маску";
 
 /* No comment provided by engineer. */
 "Copy Merged" = "Скопировать совмещенные слои";
@@ -1185,13 +1185,7 @@
 "Effortlessly remove anything from small blemishes to entire objects from photos." = "С легкостью удаляйте с фотографий все что угодно, от небольших пятен до целых объектов.";
 
 /* Tool */
-"Ellipse" = "Эллипс";
-
-/* Tool */
 "Elliptical" = "Эллипс";
-
-/* No comment provided by engineer. */
-"Elliptical Selection" = "Эллиптическое выделение";
 
 /* No comment provided by engineer. */
 "Empty Album" = "Пустой альбом";
@@ -1485,9 +1479,6 @@
 "Get %@ off for one year" = "Get %@ off for one year";
 
 /* No comment provided by engineer. */
-"Get %@ off the lifetime license" = "Get %@ off the lifetime license";
-
-/* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "Получите краткий обзор инструментов, которые можно использовать для ретуши, улучшения или полной трансформации фото.";
 
 /* No comment provided by engineer. */
@@ -1607,6 +1598,9 @@
 
 /* Edit Menu */
 "Hide" = "Скрыть";
+
+/* No comment provided by engineer. */
+"Hide Background" = "Hide Background";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "Скрыть сетку";
@@ -1874,6 +1868,9 @@
 "License" = "Лицензия";
 
 /* No comment provided by engineer. */
+"Lifetime access for just %@" = "Lifetime access for just %@";
+
+/* No comment provided by engineer. */
 "Ligature" = "Лигатура";
 
 /* No comment provided by engineer. */
@@ -2036,6 +2033,9 @@
 /* No comment provided by engineer. */
 "Mask Subject" = "Маскировать объект";
 
+/* No comment provided by engineer. */
+"Masks" = "Маски";
+
 /* Color Balance */
 "Master" = "Мастер";
 
@@ -2068,6 +2068,9 @@
 
 /* No comment provided by engineer. */
 "Merge brush marks" = "Объединить следы кисти";
+
+/* No comment provided by engineer. */
+"Merge Masks" = "Merge Masks";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "Объединить компоненты фигуры";
@@ -2286,6 +2289,12 @@
 "One or more LUTs may be damaged or not supported." = "Один или несколько LUT, возможно, повреждены или не поддерживаются.";
 
 /* No comment provided by engineer. */
+"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"One-time payment of %@." = "One-time payment of %@.";
+
+/* No comment provided by engineer. */
 "Opacity" = "Непрозрачность";
 
 /* No comment provided by engineer. */
@@ -2354,8 +2363,11 @@
 /* No comment provided by engineer. */
 "Outline" = "Контур";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Oval" = "Овал";
+
+/* No comment provided by engineer. */
+"Oval Selection" = "Oval Selection";
 
 /* No comment provided by engineer. */
 "Overlay" = "Оверлей";
@@ -3163,6 +3175,9 @@
 "Selected Color" = "Выбранный цвет";
 
 /* No comment provided by engineer. */
+"Selected Layer" = "Selected Layer";
+
+/* No comment provided by engineer. */
 "Selected layer is hidden, reveal it to edit." = "Выбранный слой скрыт, раскройте его для редактирования.";
 
 /* No comment provided by engineer. */
@@ -3227,6 +3242,9 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "Направление фигуры";
+
+/* No comment provided by engineer. */
+"Shape Mask" = "Shape Mask";
 
 /* Edit Menu */
 "Share" = "Поделиться";
