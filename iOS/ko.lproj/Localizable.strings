@@ -41,10 +41,10 @@
 "%i Images Selected" = "%i개의 이미지가 선택됨";
 
 /* No comment provided by engineer. */
-"%i Layers" = "%i개의 레이어";
+"%i of %i Edits Used" = "%1$i / %2$i 편집 사용됨";
 
 /* No comment provided by engineer. */
-"%i of %i Edits Used" = "%1$i / %2$i 편집 사용됨";
+"%i Selected Layers" = "%i Selected Layers";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i개의 팁";
@@ -86,9 +86,6 @@
 "1 tip" = "1개의 팁";
 
 /* No comment provided by engineer. */
-"1 year %@, then %@/year. Cancel anytime." = "1년간 %1$@, 이후 연간 %2$@. 원할 때 언제든지 취소할 수 있습니다.";
-
-/* No comment provided by engineer. */
 "16 Bits/Channel" = "16비트/채널";
 
 /* No comment provided by engineer. */
@@ -102,9 +99,6 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "%@ 폴더에 동일한 이름의 파일이나 폴더가 이미 존재합니다. 대치하면 현재 내용을 덮어씁니다.";
-
-/* No comment provided by engineer. */
-"A one-time purchase for %@." = "A one-time purchase for %@.";
 
 /* No comment provided by engineer. */
 "ACCENT COLOR" = "강조색";
@@ -379,6 +373,9 @@
 
 /* No comment provided by engineer. */
 "Background Layer" = "배경 레이어";
+
+/* No comment provided by engineer. */
+"Background Mask" = "Background Mask";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "균형 조정";
@@ -702,6 +699,9 @@
 
 /* Layer Management */
 "Copy Layer" = "레이어 복사";
+
+/* No comment provided by engineer. */
+"Copy Mask" = "마스크 복사";
 
 /* No comment provided by engineer. */
 "Copy Merged" = "병합 항목 복사";
@@ -1185,13 +1185,7 @@
 "Effortlessly remove anything from small blemishes to entire objects from photos." = "작은 잡티부터 피사체 전체에 이르기까지 사진에서 무엇이든 손쉽게 제거하세요.";
 
 /* Tool */
-"Ellipse" = "타원";
-
-/* Tool */
 "Elliptical" = "타원형";
-
-/* No comment provided by engineer. */
-"Elliptical Selection" = "타원형 선택";
 
 /* No comment provided by engineer. */
 "Empty Album" = "비어 있는 앨범";
@@ -1485,9 +1479,6 @@
 "Get %@ off for one year" = "Get %@ off for one year";
 
 /* No comment provided by engineer. */
-"Get %@ off the lifetime license" = "Get %@ off the lifetime license";
-
-/* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "사진의 스타일을 보정, 향상 또는 완전히 변형하는 데 사용할 수 있는 도구들을 빠르게 살펴보세요.";
 
 /* No comment provided by engineer. */
@@ -1607,6 +1598,9 @@
 
 /* Edit Menu */
 "Hide" = "가리기";
+
+/* No comment provided by engineer. */
+"Hide Background" = "Hide Background";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "눈금 가리기";
@@ -1874,6 +1868,9 @@
 "License" = "라이선스";
 
 /* No comment provided by engineer. */
+"Lifetime access for just %@" = "Lifetime access for just %@";
+
+/* No comment provided by engineer. */
 "Ligature" = "합자";
 
 /* No comment provided by engineer. */
@@ -2036,6 +2033,9 @@
 /* No comment provided by engineer. */
 "Mask Subject" = "마스크 대상";
 
+/* No comment provided by engineer. */
+"Masks" = "마스크";
+
 /* Color Balance */
 "Master" = "마스터";
 
@@ -2068,6 +2068,9 @@
 
 /* No comment provided by engineer. */
 "Merge brush marks" = "브러시 마크 병합";
+
+/* No comment provided by engineer. */
+"Merge Masks" = "Merge Masks";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "도형 구성 요소 병합";
@@ -2286,6 +2289,12 @@
 "One or more LUTs may be damaged or not supported." = "하나 이상의 LUT가 손상되었거나 지원되지 않습니다.";
 
 /* No comment provided by engineer. */
+"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"One-time payment of %@." = "One-time payment of %@.";
+
+/* No comment provided by engineer. */
 "Opacity" = "불투명도";
 
 /* No comment provided by engineer. */
@@ -2354,8 +2363,11 @@
 /* No comment provided by engineer. */
 "Outline" = "윤곽선";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Oval" = "타원형";
+
+/* No comment provided by engineer. */
+"Oval Selection" = "Oval Selection";
 
 /* No comment provided by engineer. */
 "Overlay" = "오버레이";
@@ -3163,6 +3175,9 @@
 "Selected Color" = "선택된 색";
 
 /* No comment provided by engineer. */
+"Selected Layer" = "Selected Layer";
+
+/* No comment provided by engineer. */
 "Selected layer is hidden, reveal it to edit." = "선택된 레이어가 숨겨져 있습니다. 편집하려면 보이게 하세요.";
 
 /* No comment provided by engineer. */
@@ -3227,6 +3242,9 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "모양 방향";
+
+/* No comment provided by engineer. */
+"Shape Mask" = "Shape Mask";
 
 /* Edit Menu */
 "Share" = "공유";
