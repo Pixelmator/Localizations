@@ -95,6 +95,9 @@
 "%i Paths" = "%i rutas";
 
 /* No comment provided by engineer. */
+"%i Selected Layers" = "%i Selected Layers";
+
+/* No comment provided by engineer. */
 "%i week free, then %@. Cancel anytime." = "%1$i semana gratis, después %2$@. Cancela cuando quieras.";
 
 /* No comment provided by engineer. */
@@ -129,9 +132,6 @@
 
 /* color picker sample size area */
 "1 Point" = "1 Punto";
-
-/* No comment provided by engineer. */
-"1 year %@, then %@/year. Cancel anytime." = "1 año %1$@, después %2$@ al año. Cancela cuando quieras.";
 
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16 bits/canal";
@@ -189,9 +189,6 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Ya existe un archivo o una carpeta con el mismo nombre en el directorio %@. Si lo reemplazas, se sobrescribirán sus contenidos actuales.";
-
-/* No comment provided by engineer. */
-"A one-time purchase for %@." = "A one-time purchase for %@.";
 
 /* No comment provided by engineer. */
 "Accumulation" = "Acumulación";
@@ -497,6 +494,9 @@
 "Background Layer" = "Capa de fondo";
 
 /* No comment provided by engineer. */
+"Background Mask" = "Background Mask";
+
+/* No comment provided by engineer. */
 "Balance Adjustment" = "Ajuste del balance";
 
 /* No comment provided by engineer. */
@@ -737,13 +737,13 @@
 "Choose an image to use for color matching." = "Seleccionar una imagen para combinar colores.";
 
 /* No comment provided by engineer. */
+"Choose Image Mask…" = "Choose Image Mask…";
+
+/* No comment provided by engineer. */
 "Choose Image…" = "Seleccionar imagen…";
 
 /* No comment provided by engineer. */
 "Choose LUT…" = "Seleccionar LUT…";
-
-/* No comment provided by engineer. */
-"Choose Mask…" = "Seleccionar máscara…";
 
 /* No comment provided by engineer. */
 "Choose where to save the exported images." = "Selecciona dónde guardar las imágenes exportadas.";
@@ -1085,6 +1085,9 @@
 "Custom" = "Personalizado";
 
 /* No comment provided by engineer. */
+"Custom Shape…" = "Forma personalizada...";
+
+/* No comment provided by engineer. */
 "Customize Layout…" = "Personalizar el diseño…";
 
 /* No comment provided by engineer. */
@@ -1391,6 +1394,12 @@
 "Draw Slice" = "Dibujar sector";
 
 /* No comment provided by engineer. */
+"Draw With Freeform Pen" = "Draw With Freeform Pen";
+
+/* No comment provided by engineer. */
+"Draw With Pen" = "Draw With Pen";
+
+/* No comment provided by engineer. */
 "Drawing" = "Dibujo";
 
 /* No comment provided by engineer. */
@@ -1454,6 +1463,9 @@
 "Edit images and videos saved on your Mac" = "Edite imágenes y vídeos guardados en su Mac";
 
 /* No comment provided by engineer. */
+"Edit Mask" = "Editar máscara";
+
+/* No comment provided by engineer. */
 "Edit Photo" = "Editar foto";
 
 /* No comment provided by engineer. */
@@ -1476,15 +1488,6 @@
 
 /* No comment provided by engineer. */
 "Effects" = "Efectos";
-
-/* No comment provided by engineer. */
-"Ellipse" = "Elipse";
-
-/* No comment provided by engineer. */
-"Ellipse Shape" = "Forma elíptica";
-
-/* No comment provided by engineer. */
-"Elliptical Selection" = "Selección elíptica";
 
 /* Empty is an adjective here. It means this group layer is empty. */
 "Empty Group" = "Vaciar grupo";
@@ -1721,6 +1724,9 @@
 "Feather" = "Desvanecer";
 
 /* No comment provided by engineer. */
+"Feather %@" = "Feather %@";
+
+/* No comment provided by engineer. */
 "File Size:" = "Tamaño del archivo:";
 
 /* Refers to application settings that affect editing files that are saved on the user's device. */
@@ -1835,9 +1841,6 @@
 "Get %@ off for one year" = "Get %@ off for one year";
 
 /* No comment provided by engineer. */
-"Get %@ off the lifetime license" = "Get %@ off the lifetime license";
-
-/* No comment provided by engineer. */
 "Get Started" = "Empezar";
 
 /* The name of an image file format. */
@@ -1937,7 +1940,13 @@
 "Hide" = "Ocultar";
 
 /* No comment provided by engineer. */
+"Hide All" = "Hide All";
+
+/* No comment provided by engineer. */
 "Hide All Other Layers" = "Ocultar todas las otras capas";
+
+/* No comment provided by engineer. */
+"Hide Background" = "Hide Background";
 
 /* No comment provided by engineer. */
 "Hide Colors" = "Ocultar colores";
@@ -1986,6 +1995,9 @@
 
 /* No comment provided by engineer. */
 "Hide Rulers" = "Ocultar reglas";
+
+/* No comment provided by engineer. */
+"Hide Shape" = "Hide Shape";
 
 /* No comment provided by engineer. */
 "Hide Shape Outline" = "Ocultar el contorno de la figura";
@@ -2147,9 +2159,6 @@
 "Invert Mask" = "Invertir máscara";
 
 /* No comment provided by engineer. */
-"Invert Mask Colors" = "Invertir colores máscara";
-
-/* No comment provided by engineer. */
 "Invert Masks" = "Invertir máscaras";
 
 /* No comment provided by engineer. */
@@ -2226,6 +2235,9 @@
 
 /* No comment provided by engineer. */
 "Library" = "Biblioteca";
+
+/* No comment provided by engineer. */
+"Lifetime access for just %@" = "Lifetime access for just %@";
 
 /* No comment provided by engineer. */
 "Ligature" = "Ligadura";
@@ -2396,7 +2408,13 @@
 "Mask" = "Máscara";
 
 /* No comment provided by engineer. */
+"Mask Blending Mode" = "Mask Blending Mode";
+
+/* No comment provided by engineer. */
 "Mask Subject" = "Enmascarar sujeto";
+
+/* No comment provided by engineer. */
+"Mask With Shape" = "Mask With Shape";
 
 /* No comment provided by engineer. */
 "Masks" = "Máscaras";
@@ -2436,6 +2454,9 @@
 
 /* No comment provided by engineer. */
 "Merge brush marks" = "Fusionar marcas de pincel";
+
+/* No comment provided by engineer. */
+"Merge Masks" = "Merge Masks";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "Combinar componentes de figura";
@@ -2594,9 +2615,6 @@
 "New Effects Layer" = "Nueva capa de efectos";
 
 /* No comment provided by engineer. */
-"New Ellipse Shape" = "Nueva figura elíptica";
-
-/* No comment provided by engineer. */
 "New Folder" = "Nueva carpeta";
 
 /* No comment provided by engineer. */
@@ -2646,6 +2664,9 @@
 
 /* No comment provided by engineer. */
 "New name for style preset:" = "Nuevo nombre para el preajuste de estilo:";
+
+/* No comment provided by engineer. */
+"New Oval Shape" = "New Oval Shape";
 
 /* No comment provided by engineer. */
 "New Polygon Shape" = "Nueva figura poligonal";
@@ -2753,6 +2774,12 @@
 "On" = "Activo";
 
 /* No comment provided by engineer. */
+"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"One-time payment of %@." = "One-time payment of %@.";
+
+/* No comment provided by engineer. */
 "Opacity" = "Opacidad";
 
 /* No comment provided by engineer. */
@@ -2819,6 +2846,12 @@
 "Oval" = "Óvalo";
 
 /* No comment provided by engineer. */
+"Oval Selection" = "Oval Selection";
+
+/* No comment provided by engineer. */
+"Oval Shape" = "Oval Shape";
+
+/* No comment provided by engineer. */
 "Overlay" = "Superponer";
 
 /* No comment provided by engineer. */
@@ -2865,6 +2898,9 @@
 
 /* No comment provided by engineer. */
 "Path" = "Trazado";
+
+/* No comment provided by engineer. */
+"Path Combine Mode" = "Path Combine Mode";
 
 /* No comment provided by engineer. */
 "Path Exclude" = "Excluir trazado";
@@ -3377,6 +3413,12 @@
 "Replace from Photos…" = "Sustituir desde Fotos...";
 
 /* No comment provided by engineer. */
+"Replace Image Masks…" = "Replace Image Masks…";
+
+/* No comment provided by engineer. */
+"Replace Image Mask…" = "Replace Image Mask…";
+
+/* No comment provided by engineer. */
 "Replace Layer" = "Sustituir capa";
 
 /* No comment provided by engineer. */
@@ -3386,13 +3428,10 @@
 "Replace Masks" = "Reemplazar máscaras";
 
 /* No comment provided by engineer. */
-"Replace Masks…" = "Reemplazar máscaras…";
-
-/* No comment provided by engineer. */
-"Replace Mask…" = "Reemplazar máscara…";
-
-/* No comment provided by engineer. */
 "Replace Shape" = "Sustituir forma";
+
+/* No comment provided by engineer. */
+"Replace Shape Mask…" = "Replace Shape Mask…";
 
 /* No comment provided by engineer. */
 "Replace Shape…" = "Sustituir forma…";
@@ -3506,6 +3545,9 @@
 "Retouching" = "Retoque";
 
 /* No comment provided by engineer. */
+"Reveal All" = "Reveal All";
+
+/* No comment provided by engineer. */
 "Reveal Canvas" = "Descubrir lienzo";
 
 /* No comment provided by engineer. */
@@ -3516,6 +3558,9 @@
 
 /* No comment provided by engineer. */
 "Reveal or hide the layer masks." = "Mostrar u ocultar las máscaras de capa.";
+
+/* No comment provided by engineer. */
+"Reveal Shape" = "Reveal Shape";
 
 /* No comment provided by engineer. */
 "Reveal Sidecar File" = "Mostrar archivo Sidecar";
@@ -3743,6 +3788,9 @@
 "Selected Color" = "Color seleccionado";
 
 /* No comment provided by engineer. */
+"Selected Layer" = "Selected Layer";
+
+/* No comment provided by engineer. */
 "Selecting" = "Selección";
 
 /* No comment provided by engineer. */
@@ -3825,6 +3873,9 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "Dirección de figura";
+
+/* No comment provided by engineer. */
+"Shape Mask" = "Shape Mask";
 
 /* No comment provided by engineer. */
 "Shapes" = "Figuras";
