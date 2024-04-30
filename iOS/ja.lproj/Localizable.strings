@@ -41,10 +41,10 @@
 "%i Images Selected" = "%i 画像を選択";
 
 /* No comment provided by engineer. */
-"%i Layers" = "%iレイヤー";
+"%i of %i Edits Used" = "%1$i / %2$i の編集が使用済み";
 
 /* No comment provided by engineer. */
-"%i of %i Edits Used" = "%1$i / %2$i の編集が使用済み";
+"%i Selected Layers" = "%i Selected Layers";
 
 /* No comment provided by engineer. */
 "%i tips" = "%i チップ";
@@ -86,9 +86,6 @@
 "1 tip" = "1 チップ";
 
 /* No comment provided by engineer. */
-"1 year %@, then %@/year. Cancel anytime." = "1 年 %1$@、その後は %2$@ / 年。いつでもキャンセルできます。";
-
-/* No comment provided by engineer. */
 "16 Bits/Channel" = "16ビット/チャンネル";
 
 /* No comment provided by engineer. */
@@ -102,9 +99,6 @@
 
 /* No comment provided by engineer. */
 "A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "フォルダ%@には同じ名前のファイルまたはフォルダが存在します。これを置き換えると現在の内容が上書きされます。";
-
-/* No comment provided by engineer. */
-"A one-time purchase for %@." = "A one-time purchase for %@.";
 
 /* No comment provided by engineer. */
 "ACCENT COLOR" = "アクセントの色";
@@ -379,6 +373,9 @@
 
 /* No comment provided by engineer. */
 "Background Layer" = "背景のレイヤー";
+
+/* No comment provided by engineer. */
+"Background Mask" = "Background Mask";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "バランス調整";
@@ -702,6 +699,9 @@
 
 /* Layer Management */
 "Copy Layer" = "レイヤーをコピー";
+
+/* No comment provided by engineer. */
+"Copy Mask" = "マスクをコピー";
 
 /* No comment provided by engineer. */
 "Copy Merged" = "結合部分をコピー";
@@ -1185,13 +1185,7 @@
 "Effortlessly remove anything from small blemishes to entire objects from photos." = "小さな傷からオブジェクト全体まで、写真からあらゆるものを簡単に削除します。";
 
 /* Tool */
-"Ellipse" = "楕円";
-
-/* Tool */
 "Elliptical" = "楕円形";
-
-/* No comment provided by engineer. */
-"Elliptical Selection" = "楕円で選択";
 
 /* No comment provided by engineer. */
 "Empty Album" = "アルバムを空にする";
@@ -1485,9 +1479,6 @@
 "Get %@ off for one year" = "Get %@ off for one year";
 
 /* No comment provided by engineer. */
-"Get %@ off the lifetime license" = "Get %@ off the lifetime license";
-
-/* No comment provided by engineer. */
 "Get a quick overview of the tools you can use to touch up, enhance, or completely transform the look of your photos." = "写真の外観を修正、強化、または完全に変換するために使用できるツールの概要を簡単に確認できます。";
 
 /* No comment provided by engineer. */
@@ -1607,6 +1598,9 @@
 
 /* Edit Menu */
 "Hide" = "隠す";
+
+/* No comment provided by engineer. */
+"Hide Background" = "Hide Background";
 
 /* No comment provided by engineer. */
 "Hide Grid" = "グリッドを隠す";
@@ -1874,6 +1868,9 @@
 "License" = "ライセンス";
 
 /* No comment provided by engineer. */
+"Lifetime access for just %@" = "Lifetime access for just %@";
+
+/* No comment provided by engineer. */
 "Ligature" = "リガチャ";
 
 /* No comment provided by engineer. */
@@ -2036,6 +2033,9 @@
 /* No comment provided by engineer. */
 "Mask Subject" = "対象をマスク";
 
+/* No comment provided by engineer. */
+"Masks" = "マスク";
+
 /* Color Balance */
 "Master" = "マスター";
 
@@ -2068,6 +2068,9 @@
 
 /* No comment provided by engineer. */
 "Merge brush marks" = "ブラシのマークを結合";
+
+/* No comment provided by engineer. */
+"Merge Masks" = "Merge Masks";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "シェイプの部品を結合";
@@ -2286,6 +2289,12 @@
 "One or more LUTs may be damaged or not supported." = "1つ以上のLUTが破損しているか、サポートされていない可能性があります。";
 
 /* No comment provided by engineer. */
+"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+
+/* No comment provided by engineer. */
+"One-time payment of %@." = "One-time payment of %@.";
+
+/* No comment provided by engineer. */
 "Opacity" = "不透明度";
 
 /* No comment provided by engineer. */
@@ -2354,8 +2363,11 @@
 /* No comment provided by engineer. */
 "Outline" = "アウトライン";
 
-/* No comment provided by engineer. */
+/* Tool */
 "Oval" = "楕円";
+
+/* No comment provided by engineer. */
+"Oval Selection" = "Oval Selection";
 
 /* No comment provided by engineer. */
 "Overlay" = "オーバーレイ";
@@ -3163,6 +3175,9 @@
 "Selected Color" = "選択したカラー";
 
 /* No comment provided by engineer. */
+"Selected Layer" = "Selected Layer";
+
+/* No comment provided by engineer. */
 "Selected layer is hidden, reveal it to edit." = "選択したレイヤーは非表示ですが、編集すると表示されます。";
 
 /* No comment provided by engineer. */
@@ -3227,6 +3242,9 @@
 
 /* No comment provided by engineer. */
 "Shape Direction" = "シェイプの方向";
+
+/* No comment provided by engineer. */
+"Shape Mask" = "Shape Mask";
 
 /* Edit Menu */
 "Share" = "共有";
