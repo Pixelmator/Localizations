@@ -95,7 +95,7 @@
 "%i Paths" = "%i개의 경로";
 
 /* No comment provided by engineer. */
-"%i Selected Layers" = "%i Selected Layers";
+"%i Selected Layers" = "%i개의 레이어 선택";
 
 /* No comment provided by engineer. */
 "%i week free, then %@. Cancel anytime." = "%1$i주간 무료, 이후 %2$@. 원할 때 언제든지 취소할 수 있습니다.";
@@ -239,7 +239,7 @@
 "Add Masked Layer" = "마스킹된 레이어 추가";
 
 /* No comment provided by engineer. */
-"Add Pictures folder" = "Add Pictures folder";
+"Add Pictures folder" = "그림 폴더 추가";
 
 /* No comment provided by engineer. */
 "Add Point" = "포인트 추가";
@@ -494,7 +494,7 @@
 "Background Layer" = "배경 레이어";
 
 /* No comment provided by engineer. */
-"Background Mask" = "Background Mask";
+"Background Mask" = "배경 마스크";
 
 /* No comment provided by engineer. */
 "Balance Adjustment" = "균형 조정";
@@ -737,7 +737,7 @@
 "Choose an image to use for color matching." = "색상 일치에 사용할 이미지를 선택합니다.";
 
 /* No comment provided by engineer. */
-"Choose Image Mask…" = "Choose Image Mask…";
+"Choose Image Mask…" = "이미지 마스크 선택…";
 
 /* No comment provided by engineer. */
 "Choose Image…" = "이미지 선택…";
@@ -1394,10 +1394,10 @@
 "Draw Slice" = "슬라이스 그리기";
 
 /* No comment provided by engineer. */
-"Draw With Freeform Pen" = "Draw With Freeform Pen";
+"Draw With Freeform Pen" = "자유형 펜으로 그리기";
 
 /* No comment provided by engineer. */
-"Draw With Pen" = "Draw With Pen";
+"Draw With Pen" = "펜으로 그리기";
 
 /* No comment provided by engineer. */
 "Drawing" = "그리기";
@@ -1724,7 +1724,7 @@
 "Feather" = "페더";
 
 /* No comment provided by engineer. */
-"Feather %@" = "Feather %@";
+"Feather %@" = "페더 %@";
 
 /* No comment provided by engineer. */
 "File Size:" = "파일 크기:";
@@ -1838,7 +1838,7 @@
 "Generator" = "생성자";
 
 /* No comment provided by engineer. */
-"Get %@ off for one year" = "Get %@ off for one year";
+"Get %@ off for one year" = "연간 %@ 할인";
 
 /* No comment provided by engineer. */
 "Get Started" = "시작하기";
@@ -1940,13 +1940,13 @@
 "Hide" = "가리기";
 
 /* No comment provided by engineer. */
-"Hide All" = "Hide All";
+"Hide All" = "모두 가리기";
 
 /* No comment provided by engineer. */
 "Hide All Other Layers" = "다른 모든 레이어 숨기기";
 
 /* No comment provided by engineer. */
-"Hide Background" = "Hide Background";
+"Hide Background" = "배경 가리기";
 
 /* No comment provided by engineer. */
 "Hide Colors" = "색상 가리기";
@@ -1997,7 +1997,7 @@
 "Hide Rulers" = "눈금자 가리기";
 
 /* No comment provided by engineer. */
-"Hide Shape" = "Hide Shape";
+"Hide Shape" = "도형 가리기";
 
 /* No comment provided by engineer. */
 "Hide Shape Outline" = "도형 윤곽선 숨기기";
@@ -2237,7 +2237,7 @@
 "Library" = "보관함";
 
 /* No comment provided by engineer. */
-"Lifetime access for just %@" = "Lifetime access for just %@";
+"Lifetime access for just %@" = "단 %@에 평생 액세스";
 
 /* No comment provided by engineer. */
 "Ligature" = "합자";
@@ -2408,13 +2408,13 @@
 "Mask" = "마스크";
 
 /* No comment provided by engineer. */
-"Mask Blending Mode" = "Mask Blending Mode";
+"Mask Blending Mode" = "마스크 혼합 모드";
 
 /* No comment provided by engineer. */
 "Mask Subject" = "마스크 대상";
 
 /* No comment provided by engineer. */
-"Mask With Shape" = "Mask With Shape";
+"Mask With Shape" = "도형으로 마스크";
 
 /* No comment provided by engineer. */
 "Masks" = "마스크";
@@ -2456,7 +2456,7 @@
 "Merge brush marks" = "브러시 마크 병합";
 
 /* No comment provided by engineer. */
-"Merge Masks" = "Merge Masks";
+"Merge Masks" = "마스크 병합";
 
 /* No comment provided by engineer. */
 "Merge Shape Components" = "도형 구성 요소 병합";
@@ -2666,7 +2666,7 @@
 "New name for style preset:" = "새로운 스타일 프리셋 이름:";
 
 /* No comment provided by engineer. */
-"New Oval Shape" = "New Oval Shape";
+"New Oval Shape" = "새로운 타원 도형";
 
 /* No comment provided by engineer. */
 "New Polygon Shape" = "새 다각형 도형";
@@ -2747,6 +2747,9 @@
 "No Results" = "결과 없음";
 
 /* No comment provided by engineer. */
+"No Sky Detected" = "하늘을 찾지 못함";
+
+/* No comment provided by engineer. */
 "No Subject Detected" = "감지된 대상 없음";
 
 /* No comment provided by engineer. */
@@ -2774,10 +2777,10 @@
 "On" = "켬";
 
 /* No comment provided by engineer. */
-"One year %@, then %@/year. Cancel anytime." = "One year %1$@, then %2$@/year. Cancel anytime.";
+"One year %@, then %@/year. Cancel anytime." = "1년간 %1$@, 이후 연간 %2$@. 원할 때 언제든지 취소할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"One-time payment of %@." = "One-time payment of %@.";
+"One-time payment of %@." = "%@ 상당의 일회성 결제 방식입니다.";
 
 /* No comment provided by engineer. */
 "Opacity" = "불투명도";
@@ -2846,10 +2849,10 @@
 "Oval" = "타원형";
 
 /* No comment provided by engineer. */
-"Oval Selection" = "Oval Selection";
+"Oval Selection" = "타원 선택";
 
 /* No comment provided by engineer. */
-"Oval Shape" = "Oval Shape";
+"Oval Shape" = "타원 도형";
 
 /* No comment provided by engineer. */
 "Overlay" = "오버레이";
@@ -2900,7 +2903,7 @@
 "Path" = "경로";
 
 /* No comment provided by engineer. */
-"Path Combine Mode" = "Path Combine Mode";
+"Path Combine Mode" = "경로 결합 모드";
 
 /* No comment provided by engineer. */
 "Path Exclude" = "경로 제외";
@@ -3167,7 +3170,7 @@
 "Quitting now will lose any changes you have made since the last successful save" = "지금 종료하면 마지막 저장 이후 발생한 모든 변경 사항을 잃게 됩니다";
 
 /* No comment provided by engineer. */
-"Quote Bubble" = "Quote Bubble";
+"Quote Bubble" = "인용문 말풍선";
 
 /* RGB red component */
 "R" = "R";
@@ -3206,10 +3209,10 @@
 "RAW Photo" = "RAW 사진";
 
 /* No comment provided by engineer. */
-"Read-Only File" = "Read-Only File";
+"Read-Only File" = "읽기 전용 파일";
 
 /* No comment provided by engineer. */
-"Read-Only Folder" = "Read-Only Folder";
+"Read-Only Folder" = "읽기 전용 폴더";
 
 /* No comment provided by engineer. */
 "Rectangle" = "사각형";
@@ -3413,10 +3416,10 @@
 "Replace from Photos…" = "사진에서 대체…";
 
 /* No comment provided by engineer. */
-"Replace Image Masks…" = "Replace Image Masks…";
+"Replace Image Masks…" = "이미지 마스크 대체…";
 
 /* No comment provided by engineer. */
-"Replace Image Mask…" = "Replace Image Mask…";
+"Replace Image Mask…" = "이미지 마스크 대체…";
 
 /* No comment provided by engineer. */
 "Replace Layer" = "레이어 대체";
@@ -3431,7 +3434,7 @@
 "Replace Shape" = "도형 대체";
 
 /* No comment provided by engineer. */
-"Replace Shape Mask…" = "Replace Shape Mask…";
+"Replace Shape Mask…" = "도형 마스크 대체…";
 
 /* No comment provided by engineer. */
 "Replace Shape…" = "도형 대체…";
@@ -3545,7 +3548,7 @@
 "Retouching" = "리터치";
 
 /* No comment provided by engineer. */
-"Reveal All" = "Reveal All";
+"Reveal All" = "모두 나타내기";
 
 /* No comment provided by engineer. */
 "Reveal Canvas" = "캔버스 보기";
@@ -3560,7 +3563,7 @@
 "Reveal or hide the layer masks." = "레이어 마스크를 표시하거나 숨깁니다.";
 
 /* No comment provided by engineer. */
-"Reveal Shape" = "Reveal Shape";
+"Reveal Shape" = "도형 나타내기";
 
 /* No comment provided by engineer. */
 "Reveal Sidecar File" = "사이드카 파일 나타내기";
@@ -3788,7 +3791,7 @@
 "Selected Color" = "선택한 색";
 
 /* No comment provided by engineer. */
-"Selected Layer" = "Selected Layer";
+"Selected Layer" = "선택한 레이어";
 
 /* No comment provided by engineer. */
 "Selecting" = "선택 중";
@@ -3875,7 +3878,7 @@
 "Shape Direction" = "모양 방향";
 
 /* No comment provided by engineer. */
-"Shape Mask" = "Shape Mask";
+"Shape Mask" = "도형 마스크";
 
 /* No comment provided by engineer. */
 "Shapes" = "도형";
@@ -4235,13 +4238,13 @@
 "Subject Mask" = "대상 마스크";
 
 /* No comment provided by engineer. */
-"Subscribe" = "Subscribe";
+"Subscribe" = "구독";
 
 /* No comment provided by engineer. */
-"Subscribe monthly for %@. Cancel anytime." = "Subscribe monthly for %@. Cancel anytime.";
+"Subscribe monthly for %@. Cancel anytime." = "매달 %@ 상당의 구독 비용을 지불합니다. 원할 때 언제든지 취소할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"Subscribe yearly for %@. Cancel anytime." = "Subscribe yearly for %@. Cancel anytime.";
+"Subscribe yearly for %@. Cancel anytime." = "매년 %@ 상당의 구독 비용을 지불합니다. 원할 때 언제든지 취소할 수 있습니다.";
 
 /* No comment provided by engineer. */
 "Subtract" = "빼기";
@@ -4493,7 +4496,7 @@
 "Try (%i days remaining)" = "체험 (%i일 남음)";
 
 /* No comment provided by engineer. */
-"Try the files browser" = "Try the files browser";
+"Try the files browser" = "파일 브라우저 사용해보기";
 
 /* No comment provided by engineer. */
 "Turn histogram on or off." = "히스토그램을 켜거나 끕니다.";
@@ -4550,13 +4553,13 @@
 "Unlock" = "잠금 해제";
 
 /* No comment provided by engineer. */
-"Unlock Folder" = "Unlock Folder";
+"Unlock Folder" = "폴더 잠금 해제";
 
 /* No comment provided by engineer. */
 "Unlock Guides" = "안내선 잠금 해제";
 
 /* No comment provided by engineer. */
-"Unlock Photo" = "Unlock Photo";
+"Unlock Photo" = "사진 잠금 해제";
 
 /* No comment provided by engineer. */
 "Unmute" = "소리 켬";
