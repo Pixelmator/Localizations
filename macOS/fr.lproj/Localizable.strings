@@ -38,7 +38,7 @@
 "%@ mm" = "%@ mm";
 
 /* No comment provided by engineer. */
-"%@ OFF" = "%@ REMISE";
+"%@ OFF" = "-%@";
 
 /* Exposure time in seconds */
 "%@ s" = "%@ s";
@@ -191,7 +191,7 @@
 "\(bitmapDataFormat.bitsPerComponent) bits per channel" = "\\(bitmapDataFormat.bitsPerComponent) bits par canal";
 
 /* No comment provided by engineer. */
-"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Un fichier ou un dossier du même nom se trouve déjà dans le dossier %@. Si vous le remplacez, le contenu d’origine sera perdu.";
+"A file or folder with the same name already exists in the folder %@. Replacing it will overwrite its current contents." = "Un fichier ou un dossier portant le même nom se trouve déjà dans le dossier %@. Si vous le remplacez, le contenu d’origine sera perdu.";
 
 /* No comment provided by engineer. */
 "Accumulation" = "Accumulation";
@@ -245,7 +245,7 @@
 "Add Pictures folder" = "Ajouter un dossier Images";
 
 /* No comment provided by engineer. */
-"Add Point" = "Ajouter point";
+"Add Point" = "Ajouter un point";
 
 /* No comment provided by engineer. */
 "Add Preset" = "Ajouter un préréglage";
@@ -311,7 +311,7 @@
 "Align Right Edges" = "Aligner les bords droits";
 
 /* No comment provided by engineer. */
-"Align to Pixel Grid" = "Aligner à la grille de pixels";
+"Align to Pixel Grid" = "Aligner sur la grille de pixels";
 
 /* No comment provided by engineer. */
 "Align Top Edges" = "Aligner les bords supérieurs";
@@ -386,7 +386,7 @@
 "Are you sure you want to delete the sidecar file for this image?" = "Voulez-vous vraiment supprimer le fichier sidecar de cette image ?";
 
 /* No comment provided by engineer. */
-"Are you sure you want to modify the document in place?" = "Êtes-vous sûr de vouloir modifier ce document ?";
+"Are you sure you want to modify the document in place?" = "Voulez-vous vraiment modifier ce document sans le déplacer ?";
 
 /* No comment provided by engineer. */
 "Are you sure you want to remove the entire collection?" = "Voulez-vous vraiment intégralement supprimer la collection ?";
@@ -446,7 +446,7 @@
 "Auto Enhance" = "Améliorer automatiquement";
 
 /* No comment provided by engineer. */
-"Auto Hue & Saturation" = "Teinte & saturation auto";
+"Auto Hue & Saturation" = "Teinte et saturation auto";
 
 /* No comment provided by engineer. */
 "Auto Light" = "Lumière auto";
@@ -620,7 +620,7 @@
 "Buy Now" = "Acheter";
 
 /* No comment provided by engineer. */
-"Buy Pixelmator Pro on the Mac App Store to enjoy the benefits of easily downloading, redownloading, automatically updating, and editing images with Pixelmator Pro." = "Achetez Pixelmator Pro sur le Mac App Store et bénéficiez du téléchargement facile, du re-téléchargement, de la mise à jour automatique et de la retouche d’images grâce à Pixelmator Pro.";
+"Buy Pixelmator Pro on the Mac App Store to enjoy the benefits of easily downloading, redownloading, automatically updating, and editing images with Pixelmator Pro." = "Achetez Pixelmator Pro sur le Mac App Store pour pouvoir télécharger facilement l'application et la retélécharger à tout moment, la garder à jour automatiquement et retoucher des images grâce à Pixelmator Pro.";
 
 /* No comment provided by engineer. */
 "Calculating Size…" = "Calcul de la taille…";
@@ -722,7 +722,7 @@
 "Choose" = "Choisir";
 
 /* No comment provided by engineer. */
-"Choose a 3D LUT file." = "Choisissez un fichier LUT 3D.";
+"Choose a 3D LUT file." = "Choisissez un fichier de LUT 3D.";
 
 /* No comment provided by engineer. */
 "Choose a color adjustments collection." = "Choisissez une collection de réglage des couleurs.";
@@ -731,13 +731,13 @@
 "Choose a color palette." = "Choisissez une palette de couleurs.";
 
 /* No comment provided by engineer. */
-"Choose a effects collection." = "Choisir une collection d’effets.";
+"Choose a effects collection." = "Choisissez une collection d’effets.";
 
 /* No comment provided by engineer. */
-"Choose a gradients collection." = "Choisir une collection de dégradés.";
+"Choose a gradients collection." = "Choisissez une collection de dégradés.";
 
 /* No comment provided by engineer. */
-"Choose a styles collection." = "Choisir une collection de styles.";
+"Choose a styles collection." = "Choisissez une collection de styles.";
 
 /* No comment provided by engineer. */
 "Choose an image to use for color matching." = "Choisissez une image à utiliser pour adapter les couleurs.";
@@ -806,7 +806,7 @@
 "Click to hide or show the color adjustment presets." = "Cliquer pour masquer ou afficher les préréglages d’réglages de couleur.";
 
 /* No comment provided by engineer. */
-"Click to hide or show the color picker." = "Cliquez pour masquer ou afficher le sélectionneur de couleur.";
+"Click to hide or show the color picker." = "Cliquez pour masquer ou afficher le sélecteur de couleur.";
 
 /* No comment provided by engineer. */
 "Click to hide or show the color swatches." = "Cliquez pour masquer ou afficher les échantillons de couleur.";
@@ -863,7 +863,7 @@
 "Clipboard" = "Presse-papiers";
 
 /* No comment provided by engineer. */
-"Clone" = "Duplication";
+"Clone" = "Clone";
 
 /* No comment provided by engineer. */
 "Clone Settings" = "Paramètres de clonage";
@@ -875,7 +875,7 @@
 "Close Edit Tools" = "Fermer les outils d’édition";
 
 /* No comment provided by engineer. */
-"Close Path" = "Fermer tracé";
+"Close Path" = "Fermer le tracé";
 
 /* No comment provided by engineer. */
 "cm" = "cm";
@@ -932,7 +932,7 @@
 "Color Palettes" = "Palettes de couleurs";
 
 /* No comment provided by engineer. */
-"Color Picker" = "Sélectionneur de couleurs";
+"Color Picker" = "Sélecteur de couleurs";
 
 /* No comment provided by engineer. */
 "Color Profile" = "Profil de couleur";
