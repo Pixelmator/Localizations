@@ -3,6 +3,9 @@
 # Set directory of the script as current directory
 cd "$(dirname "$0")"
 
+# Uncomment this line if you have beta xcode build only and this script fails
+# sudo xcode-select -s /Applications/Xcode-Beta.app/Contents/Developer
+
 rm -rf ./iOS/en.lproj
 
 mkdir ./iOS/en.lproj
