@@ -88,7 +88,7 @@
 /* No comment provided by engineer. */
 "16 Bits/Channel" = "16 bits/couche";
 
-/* No comment provided by engineer. */
+/* Preset name for frame / image border style. Optimal max symbol count 10-12. */
 "35mm Film" = "Pellicule 35 mm";
 
 /* No comment provided by engineer. */
@@ -191,7 +191,7 @@
 "Adjustments" = "Réglages";
 
 /* No comment provided by engineer. */
-"Adjustments Layer" = "Calque d’réglages";
+"Adjustments Layer" = "Calque de réglages";
 
 /* No comment provided by engineer. */
 "Affine Tile" = "Affiner la mosaïque";
@@ -575,7 +575,7 @@
 /* No comment provided by engineer. */
 "Circle Tilt-Shift Blur" = "Flou d’inclinaison-décalage circulaire";
 
-/* No comment provided by engineer. */
+/* Preset name for frame / image border style. Optimal max symbol count 10-12. */
 "Circular" = "Circulaire";
 
 /* No comment provided by engineer. */
@@ -635,10 +635,10 @@
 "Color Noise Reduction" = "Réduction du bruit de couleur";
 
 /* No comment provided by engineer. */
-"Color Range" = "Gamme de couleurs";
+"Color Range" = "plage de couleurs";
 
 /* No comment provided by engineer. */
-"Color Range Layer" = "Calque de gamme de couleurs";
+"Color Range Layer" = "Calque de plage de couleurs";
 
 /* No comment provided by engineer. */
 "Color Selection" = "Sélection de couleur";
@@ -903,9 +903,6 @@
 
 /* No comment provided by engineer. */
 "Deselect All" = "Tout désélectionner";
-
-/* No comment provided by engineer. */
-"Desktop-Class Adjustments" = "Réglages au niveau du bureau";
 
 /* No comment provided by engineer. */
 "Destination Atop" = "Destination par-dessus";
@@ -1669,9 +1666,6 @@
 "iCloud is unavailable." = "iCloud n'est pas disponible.";
 
 /* No comment provided by engineer. */
-"iCloud Photos" = "Photos iCloud";
-
-/* No comment provided by engineer. */
 "iCloud Unavailable" = "iCloud indisponible";
 
 /* No comment provided by engineer. */
@@ -1751,7 +1745,7 @@
 "Increase Resolution" = "Augmenter la résolution";
 
 /* No comment provided by engineer. */
-"Increase the resolution of photos using a machine learning-powered algorithm." = "Augmentez la résolution des photos grâce à l’algorithme d’apprentissage automatique.";
+"Increase the resolution of photos using a machine learning-powered algorithm." = "Augmentez la résolution des photos grâce au machine learning.";
 
 /* No comment provided by engineer. */
 "Increase the resolution of photos while preserving sharpness and details." = "Augmentez la résolution des photos sans perdre en netteté ni en détails.";
@@ -1789,7 +1783,7 @@
 /* No comment provided by engineer. */
 "Insets" = "Retraits";
 
-/* No comment provided by engineer. */
+/* Preset name for frame / image border style. Optimal max symbol count 10-12. */
 "Instant Film" = "Photo instantanée";
 
 /* No comment provided by engineer. */
@@ -1973,6 +1967,9 @@
 /* No comment provided by engineer. */
 "Load Selection" = "Charger la sélection";
 
+/* Library refers to a library of files (i.e. a photo library), rather than a library of books. */
+"Loading library…" = "Chargement de la bibliothèque…";
+
 /* Document loading */
 "Loading…" = "Chargement…";
 
@@ -2017,6 +2014,9 @@
 
 /* Color adjustments */
 "Magenta / Green" = "Magenta / vert";
+
+/* Limit of symbols 20-25 */
+"Magic Repair Tool" = "Outil Réparation magique";
 
 /* No comment provided by engineer. */
 "Magically increase resolution" = "Augmentez la résolution comme par magie";
@@ -2220,7 +2220,7 @@
 "New Album with Selection" = "Nouvel album à partir de la sélection";
 
 /* No comment provided by engineer. */
-"New Color Adjustments Layer" = "Nouveau calque d’réglages de couleur";
+"New Color Adjustments Layer" = "Nouveau calque de réglages de couleur";
 
 /* No comment provided by engineer. */
 "New Effects Layer" = "Nouveau calque d’effets";
@@ -2314,6 +2314,9 @@
 
 /* No comment provided by engineer. */
 "On-Image Curves" = "Courbes sur l’image";
+
+/* Limit of symbols 25-30 */
+"One App for All Devices" = "Une app pour tous les appareils";
 
 /* No comment provided by engineer. */
 "One or more LUTs may be damaged or not supported." = "Une ou plusieurs LUT peuvent être endommagées ou non prises en charge.";
@@ -2582,8 +2585,8 @@
 /* No comment provided by engineer. */
 "Position" = "Position";
 
-/* No comment provided by engineer. */
-"Powered by ML" = "Fonctionne avec ML";
+/* Limit of symbols 25-30 */
+"Powerful AI Features" = "De puissantes fonctions d'IA";
 
 /* No comment provided by engineer. */
 "Powerful photo browser" = "Un puissant explorateur de photos";
@@ -2622,7 +2625,7 @@
 "Previous Purchase Found" = "Achat précédent trouvé";
 
 /* No comment provided by engineer. */
-"Privacy Policy" = "Politique de confidentialité";
+"Privacy Policy" = "Règles de confidentialité";
 
 /* No comment provided by engineer. */
 "Processing Image" = "Traitement de l’image";
@@ -3172,7 +3175,7 @@
 "Select Background" = "Sélectionner l'arrière-plan";
 
 /* No comment provided by engineer. */
-"Select Color Range" = "Choisir gamme de couleur";
+"Select Color Range" = "Choisir une plage de couleurs";
 
 /* Tool */
 "Select Column" = "Sélectionnez la colonne";
@@ -3463,7 +3466,7 @@
 /* No comment provided by engineer. */
 "Softness" = "Douceur";
 
-/* No comment provided by engineer. */
+/* Preset name for frame / image border style. Optimal max symbol count 10-12. */
 "Solid Color" = "Couleur unie";
 
 /* No comment provided by engineer. */
@@ -3789,7 +3792,7 @@
 "The selected folder does not contain this image. Make sure to select the image’s root folder." = "Le dossier sélectionné ne contient pas cette image. Pensez bien à sélectionner le dossier racine de l'image.";
 
 /* No comment provided by engineer. */
-"The selected image does not contain color adjustments." = "L’image sélectionnée ne contient pas d’réglages de couleur.";
+"The selected image does not contain color adjustments." = "L’image sélectionnée ne contient pas de réglages de couleur.";
 
 /* No comment provided by engineer. */
 "The selected LUT may be damaged or not supported." = "La LUT sélectionnée peut être endommagée ou non prise en charge.";
@@ -3956,7 +3959,7 @@
 /* No comment provided by engineer. */
 "Transition" = "Transition";
 
-/* No comment provided by engineer. */
+/* Preset name for frame / image border style. Optimal max symbol count 10-12. */
 "Translucent" = "Translucide";
 
 /* No comment provided by engineer. */
@@ -4151,7 +4154,7 @@
 /* No comment provided by engineer. */
 "Video Layer" = "Calque vidéo";
 
-/* No comment provided by engineer. */
+/* Preset name for frame / image border style. Optimal max symbol count 10-12. */
 "Viewfinder" = "Viseur";
 
 /* No comment provided by engineer. */
@@ -4299,7 +4302,7 @@
 "You’re good to go" = "Vous êtes fin prêt";
 
 /* No comment provided by engineer. */
-"You’re Offline" = "Vous êtes hors ligne";
+"You’re Offline" = "Vous êtes hors connexion";
 
 /* No comment provided by engineer. */
 "Zoom" = "Zoom";
