@@ -233,7 +233,7 @@
 "All edits will be saved nondestructively, so you can fine-tune them later." = "모든 편집본은 비파괴적으로 저장되므로 나중에 미세 조정할 수 있습니다.";
 
 /* No comment provided by engineer. */
-"All presets in group will be reset to the initial color adjustments." = "그룹 안의 모든 프리셋이 원래 색상 조정으로 재설정됩니다.";
+"All presets in group will be reset to the initial color adjustments." = "그룹 안의 모든 프리셋이 원래 색상 조정값으로 초기화됩니다.";
 
 /* No comment provided by engineer. */
 "All the color adjustment presets in this collection will be reset to default. This action cannot be undone." = "이 컬렉션의 모든 색상 조정 프리셋이 기본값으로 다시 설정됩니다. 이 작업은 취소할 수 없습니다.";
@@ -451,6 +451,9 @@
 
 /* No comment provided by engineer. */
 "Bottom" = "아래";
+
+/* No comment provided by engineer. */
+"Brake Apart Shape" = "도형 분해";
 
 /* Color adjustments */
 "Brightness" = "명도";
@@ -671,7 +674,7 @@
 "Contrast" = "대비";
 
 /* No comment provided by engineer. */
-"Convert Into Adjustments" = "조정으로 변환";
+"Convert Into Adjustments" = "조정값으로 변환";
 
 /* No comment provided by engineer. */
 "Convert into Pixels" = "픽셀로 변환";
@@ -680,13 +683,13 @@
 "Convert into Shape" = "도형으로 변환";
 
 /* No comment provided by engineer. */
-"Convert LUT into Adjustments" = "LUT를 조정으로 변환";
+"Convert LUT into Adjustments" = "LUT를 조정값으로 변환";
 
 /* No comment provided by engineer. */
 "Convert to HDR" = "HDR로 변환";
 
 /* No comment provided by engineer. */
-"Converting LUT into Adjustments…" = "LUT를 조정으로 변환 중…";
+"Converting LUT into Adjustments…" = "LUT를 조정값으로 변환 중…";
 
 /* No comment provided by engineer. */
 "Converting to HDR…" = "HDR로 변환하는 중…";
@@ -698,7 +701,7 @@
 "copy" = "복사본";
 
 /* No comment provided by engineer. */
-"Copy Adjustments" = "조정 복사";
+"Copy Adjustments" = "조정값 복사";
 
 /* No comment provided by engineer. */
 "Copy and Paste as Layer" = "복사 및 레이어로 붙이기";
@@ -722,7 +725,7 @@
 "Copy Saved to Photos" = "사진에 복사본이 저장되었습니다";
 
 /* No comment provided by engineer. */
-"Copying Adjustments" = "조정 복사 중";
+"Copying Adjustments" = "조정값 복사 중";
 
 /* No comment provided by engineer. */
 "Copying…" = "복사 중…";
@@ -780,10 +783,10 @@
 "Custom" = "사용자 정의";
 
 /* No comment provided by engineer. */
-"Custom Size" = "사용자 지정 크기";
+"Custom Size" = "사용자지정 크기";
 
 /* No comment provided by engineer. */
-"Customize Adjustments" = "조정 사용자 지정";
+"Customize Adjustments" = "조정 사용자화";
 
 /* No comment provided by engineer. */
 "Customize the action to be activated by the double-tap gesture of Apple Pencil." = "Apple Pencil의 이중 탭 제스처로 작동하는 작업을 사용자 지정합니다.";
@@ -808,10 +811,10 @@
 
 /* Retouch Tools
    Tool */
-"Darken" = "어둡게 만들기";
+"Darken" = "어둡게 하기";
 
 /* No comment provided by engineer. */
-"Darker Color" = "더 어두운 색";
+"Darker Color" = "어두운 색상";
 
 /* No comment provided by engineer. */
 "Darks" = "어두운 색상";
@@ -1206,7 +1209,7 @@
 "Empty Folder" = "빈 폴더";
 
 /* No comment provided by engineer. */
-"Empty Layer" = "빈 레이어";
+"Empty Layer" = "새로운 레이어";
 
 /* No comment provided by engineer. */
 "Enable" = "활성화";
@@ -1254,7 +1257,7 @@
 "Enter a new name for this album." = "이 앨범의 새로운 이름을 입력하세요.";
 
 /* No comment provided by engineer. */
-"Enter a new name for this layer." = "이 레이어에 대한 새로운 이름을 입력하세요.";
+"Enter a new name for this layer." = "이 레이어의 새로운 이름을 입력하세요.";
 
 /* No comment provided by engineer. */
 "Enter a new name for this preset." = "이 프리셋에 대한 새로운 이름을 입력하세요.";
@@ -1582,7 +1585,7 @@
 "Group" = "그룹";
 
 /* Stands for Height, up to 3 characters */
-"H:" = "H:";
+"H:" = "높이:";
 
 /* Effects category name */
 "Halftone" = "하프톤";
@@ -1591,7 +1594,7 @@
 "Hard Light" = "하드 라이트";
 
 /* No comment provided by engineer. */
-"Hard Mix" = "하드 믹스";
+"Hard Mix" = "하드 혼합";
 
 /* No comment provided by engineer. */
 "HDR" = "HDR";
@@ -1642,10 +1645,13 @@
 "High Pass Radius" = "하이 패스 반경";
 
 /* Color Balance */
-"Highlights" = "명부";
+"Highlights" = "밝은 영역";
 
 /* No comment provided by engineer. */
 "Histogram" = "히스토그램";
+
+/* No comment provided by engineer. */
+"Horizon Already Level" = "수평선이 이미 맞춰짐";
 
 /* No comment provided by engineer. */
 "Horizontal Alignment" = "가로 맞춤";
@@ -1700,9 +1706,6 @@
 
 /* Tool */
 "Image Size" = "이미지 크기";
-
-/* No comment provided by engineer. */
-"Image Straightened by %@" = "%@에 의해 수평 조절된 이미지";
 
 /* Edit Menu */
 "Import" = "가져오기";
@@ -1898,7 +1901,7 @@
 "Ligature" = "합자";
 
 /* No comment provided by engineer. */
-"Light" = "밝음";
+"Light" = "밝게";
 
 /* No comment provided by engineer. */
 "Light Color" = "라이트 색상";
@@ -1917,7 +1920,7 @@
 
 /* Retouch Tools
    Tool */
-"Lighten" = "밝게 만들기";
+"Lighten" = "밝게 하기";
 
 /* No comment provided by engineer. */
 "Lighter Color" = "더 밝은 색";
@@ -2106,7 +2109,7 @@
 "Merge Shape Components" = "도형 구성 요소 병합";
 
 /* Color Balance */
-"Midtones" = "중간 색조";
+"Midtones" = "중간 영역";
 
 /* Units */
 "Milimeters" = "밀리미터";
@@ -2399,6 +2402,9 @@
 /* No comment provided by engineer. */
 "Outline" = "윤곽선";
 
+/* No comment provided by engineer. */
+"Outline Stroke From Shape" = "도형에서 윤곽선 추출";
+
 /* Tool */
 "Oval" = "타원형";
 
@@ -2424,7 +2430,7 @@
 "Paste" = "붙이기";
 
 /* No comment provided by engineer. */
-"Paste Adjustments" = "조정 붙이기";
+"Paste Adjustments" = "조정값 붙이기";
 
 /* No comment provided by engineer. */
 "Paste and Match Colors" = "붙여넣기 및 색상 일치";
@@ -2445,7 +2451,7 @@
 "Pasting…" = "붙이는 중…";
 
 /* No comment provided by engineer. */
-"Path" = "경로";
+"Path" = "패스";
 
 /* No comment provided by engineer. */
 "Pattern Angle" = "패턴 각도";
@@ -2565,7 +2571,7 @@
 "Pixelmator Pro Document" = "Pixelmator Pro 문서";
 
 /* The name of a file format containing nondestructive edits created by the Pixelmator Pro app. */
-"Pixelmator Pro Sidecar Document" = "Pixelmator Pro Sidecar 문서";
+"Pixelmator Pro Sidecar Document" = "Pixelmator Pro 사이드카 문서";
 
 /* Units */
 "Pixels" = "픽셀";
@@ -2883,7 +2889,7 @@
 "Replace All" = "모두 대치";
 
 /* No comment provided by engineer. */
-"Replace Color" = "색상 대치";
+"Replace Color" = "색상 대체";
 
 /* No comment provided by engineer. */
 "Replace Layer" = "레이어 대체";
@@ -2925,13 +2931,13 @@
 "Reset %@" = "%@ 재설정";
 
 /* No comment provided by engineer. */
-"Reset Adjustments" = "조정 재설정";
+"Reset Adjustments" = "조정값 초기화";
 
 /* No comment provided by engineer. */
 "Reset Angle" = "각도 재설정";
 
 /* No comment provided by engineer. */
-"Reset Auto Adjust" = "자동 조정 재설정";
+"Reset Auto Adjust" = "자동 조정값 초기화";
 
 /* No comment provided by engineer. */
 "Reset Auto Enhance" = "자동 향상 재설정";
@@ -3009,7 +3015,7 @@
 "Reveal Canvas" = "캔버스 보기";
 
 /* No comment provided by engineer. */
-"Reveal in Files" = "파일에서 나타내기";
+"Reveal in Files" = "파일에서 위치 열기";
 
 /* No comment provided by engineer. */
 "Revert" = "복귀";
@@ -3151,7 +3157,7 @@
 "Scale Vertically by Tilt" = "기울기에 따라 세로 크기 조절";
 
 /* No comment provided by engineer. */
-"Screen" = "화면";
+"Screen" = "스크린";
 
 /* No comment provided by engineer. */
 "See All" = "모두 보기";
@@ -3211,7 +3217,7 @@
 "Select Subject" = "대상 선택";
 
 /* No comment provided by engineer. */
-"Selected Color" = "선택된 색";
+"Selected Color" = "선택된 색상";
 
 /* No comment provided by engineer. */
 "Selected Layer" = "선택한 레이어";
@@ -3235,13 +3241,13 @@
 "Selection Rotate" = "선택 영역 회전";
 
 /* No comment provided by engineer. */
-"Selective Clarity" = "선택적 명료도";
+"Selective Clarity" = "선택적 부분대비";
 
 /* No comment provided by engineer. */
-"Selective Color" = "선택적 색상";
+"Selective Color" = "선택색상";
 
 /* No comment provided by engineer. */
-"Selective Colors" = "선택적 색상";
+"Selective Colors" = "선택색상";
 
 /* No comment provided by engineer. */
 "Send Backward" = "뒤로 보내기";
@@ -3262,16 +3268,16 @@
 "Set the endpoint size." = "끝점의 크기를 설정합니다.";
 
 /* No comment provided by engineer. */
-"Set the image quality to use when automatically saving changes or sharing images to other apps." = "자동으로 변경 사항을 저장하거나 다른 앱에 이미지를 공유할 때 사용할 이미지 품질을 설정합니다.";
+"Set the image quality to use when automatically saving changes or sharing images to other apps." = "변경 사항을 저장하거나 다른 앱으로 이미지를 공유할 때 사용할 이미지 품질을 설정합니다.";
 
 /* No comment provided by engineer. */
 "Settings" = "설정";
 
 /* No comment provided by engineer. */
-"Shadow" = "암부";
+"Shadow" = "어두운 영역";
 
 /* Color Balance */
-"Shadows" = "암부";
+"Shadows" = "어두운 영역";
 
 /* Default new shape layer name */
 "Shape" = "도형";
@@ -3297,7 +3303,7 @@
 /* Effects category name
    Retouch Tools
    Tool */
-"Sharpen" = "선명도";
+"Sharpen" = "선명 효과";
 
 /* No comment provided by engineer. */
 "Sharpen Path" = "경로 선명도";
@@ -3312,7 +3318,7 @@
 "Show" = "보기";
 
 /* Color Balance */
-"Show 3-Way Colors" = "3방향 색상 표시";
+"Show 3-Way Colors" = "3-방향 색상 표시";
 
 /* No comment provided by engineer. */
 "Show Adjustments" = "조정 표시";
@@ -3464,7 +3470,7 @@
 
 /* Retouch Tools
    Tool */
-"Soften" = "부드럽게 만들기";
+"Soften" = "흐림 효과";
 
 /* No comment provided by engineer. */
 "Softness" = "부드러움";
@@ -3578,10 +3584,13 @@
 "Strikethrough" = "취소선";
 
 /* No comment provided by engineer. */
-"Stroke" = "스트로크";
+"Stroke" = "획";
 
 /* No comment provided by engineer. */
-"Stroke Width" = "스트로크 너비";
+"Stroke Outline" = "윤곽선 추출";
+
+/* No comment provided by engineer. */
+"Stroke Width" = "획 너비";
 
 /* No comment provided by engineer. */
 "Stroke with Brush" = "브러시로 스트로크";
@@ -3632,7 +3641,7 @@
 "Super Resolution…" = "초해상도…";
 
 /* No comment provided by engineer. */
-"Support" = "지원";
+"Support" = "고객 지원";
 
 /* No comment provided by engineer. */
 "Support for iOS 16" = "iOS 16 지원";
@@ -3647,7 +3656,7 @@
 "Switch between Photos library and Files" = "사진 보관함 및 파일 간 전환";
 
 /* No comment provided by engineer. */
-"Tail End Dynamics" = "테일 엔드 다이내믹스";
+"Tail End Dynamics" = "꼬리 끝 변동성";
 
 /* No comment provided by engineer. */
 "Tail Opacity" = "테일 불투명도";
@@ -3656,7 +3665,7 @@
 "Tail Size" = "테일 크기";
 
 /* No comment provided by engineer. */
-"Tail Start Dynamics" = "테일 스타트 다이내믹스";
+"Tail Start Dynamics" = "꼬리 시작 변동성";
 
 /* No comment provided by engineer. */
 "Take Photo" = "사진 찍기";
@@ -3783,10 +3792,10 @@
 "The preset will be permanently deleted from the app." = "해당 프리셋은 앱에서 영구적으로 삭제됩니다.";
 
 /* No comment provided by engineer. */
-"The preset will be redefined with the current color adjustments." = "해당 프리셋은 현재 색상 조정으로 재정의됩니다.";
+"The preset will be redefined with the current color adjustments." = "해당 프리셋은 현재 색상 조정값으로 재정의됩니다.";
 
 /* No comment provided by engineer. */
-"The preset will be reset to the initial color adjustments." = "프리셋이 원래 색상 조정으로 재설정됩니다.";
+"The preset will be reset to the initial color adjustments." = "해당 프리셋이 원래 색상 조정값으로 초기화됩니다.";
 
 /* No comment provided by engineer. */
 "The selected folder does not contain any images." = "선택한 폴더는 아무 이미지가 포함되어 있지 않습니다.";
@@ -4161,10 +4170,10 @@
 "Viewfinder" = "뷰파인더";
 
 /* No comment provided by engineer. */
-"Vignette" = "비네트";
+"Vignette" = "비네팅";
 
 /* No comment provided by engineer. */
-"Vignette Softness" = "비네트 부드러움";
+"Vignette Softness" = "비네팅 부드러움";
 
 /* No comment provided by engineer. */
 "Visible" = "보임";
@@ -4176,13 +4185,13 @@
 "Vivid Light" = "선명한 라이트";
 
 /* Stands for Width, up to 3 characters */
-"W:" = "W:";
+"W:" = "너비:";
 
 /* No comment provided by engineer. */
 "w: %@ h: %@" = "너비: %1$@ 높이: %2$@";
 
 /* Tool */
-"Warp" = "휘기";
+"Warp" = "뒤틀기";
 
 /* No comment provided by engineer. */
 "Watercolor" = "수채화";
@@ -4194,16 +4203,16 @@
 "WebP" = "WebP";
 
 /* No comment provided by engineer. */
-"Welcome to Photomator" = "Photomator에 오신 것을 환영합니다";
+"Welcome to Photomator" = "Photomator 홈 화면";
 
 /* No comment provided by engineer. */
-"Welcome to Pixelmator Photo" = "Pixelmator Photo에 환영합니다";
+"Welcome to Pixelmator Photo" = "Pixelmator Photo 홈 화면";
 
 /* No comment provided by engineer. */
 "Wetness" = "습도";
 
 /* No comment provided by engineer. */
-"What's New" = "새로운 기능";
+"What's New" = "신규";
 
 /* No comment provided by engineer. */
 "What's New in Photomator" = "Photomator의 새로운 점";
